@@ -300,7 +300,7 @@ async function renderReader(id) {
   // Audio
   if (article.audioFile) {
     audio = new Audio(`articles/${id}/${article.audioFile}`);
-    audio.preload = 'metadata';
+    audio.preload = 'auto';
 
     const abar = el('div', 'audiobar');
     const slider = el('input');
