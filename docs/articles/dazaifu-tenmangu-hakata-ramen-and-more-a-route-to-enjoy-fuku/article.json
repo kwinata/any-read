@@ -1,0 +1,8348 @@
+{
+ "schemaVersion": 1,
+ "id": "dazaifu-tenmangu-hakata-ramen-and-more-a-route-to-enjoy-fuku",
+ "language": "ja",
+ "title": "太宰府天満宮・博多ラーメンなど福岡を 2日で楽しむルート",
+ "titleTranslation": "Dazaifu Tenmangu, Hakata Ramen, and More: A Route to Enjoy Fukuoka in 2 Days - MATCHA Japan Travel Media (Easy Japanese)",
+ "level": "N4",
+ "summary": "This easy-Japanese travel guide from MATCHA lays out a one-night, two-day route for enjoying Fukuoka, covering shopping in Tenjin, ramen at Ichiran, Seaside Momochi Park and Fukuoka Tower, Nakasu's food stalls, Don Quijote, Ohori Park, Dazaifu Tenmangu shrine, and shopping at Hakata JR City before flying out.",
+ "sourceUrl": "https://matcha-jp.com/easy/2622",
+ "createdAt": "2026-08-22T16:24:49+00:00",
+ "audioFile": "audio.mp3",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "福岡で　ゆうめいな　太宰府天満宮、博多ラーメンを　食べられる　場所、かいものが　たくさん　できる　場所の　天神など、1泊2日で　たのしむ　ルートを　紹介します。",
+     "tokens": [
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "ゆうめい",
+       "pos": "adjective",
+       "romaji": "yuumei",
+       "gloss": "famous"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula: is/be (plain)"
+      },
+      {
+       "surface": "太宰府",
+       "pos": "noun",
+       "reading": "だざいふ",
+       "romaji": "dazaifu",
+       "gloss": "Dazaifu (place name)"
+      },
+      {
+       "surface": "天満宮",
+       "pos": "noun",
+       "reading": "てんまんぐう",
+       "romaji": "tenmanguu",
+       "gloss": "Tenmangu (Shinto shrine dedicated to Sugawara no Michizane)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "博多",
+       "pos": "noun",
+       "reading": "はかた",
+       "romaji": "hakata",
+       "gloss": "Hakata (district of Fukuoka)"
+      },
+      {
+       "surface": "ラーメン",
+       "pos": "noun",
+       "romaji": "raamen",
+       "gloss": "ramen"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "られる",
+       "pos": "auxiliary",
+       "romaji": "rareru",
+       "gloss": "potential auxiliary: can (do)"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "かいもの",
+       "pos": "noun",
+       "romaji": "kaimono",
+       "gloss": "shopping"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many"
+      },
+      {
+       "surface": "できる",
+       "pos": "verb",
+       "romaji": "dekiru",
+       "gloss": "to be able to, can"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "天神",
+       "pos": "noun",
+       "reading": "てんじん",
+       "romaji": "tenjin",
+       "gloss": "Tenjin (district of Fukuoka)"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "泊",
+       "pos": "noun",
+       "reading": "はく",
+       "romaji": "haku",
+       "gloss": "counter for overnight stays"
+      },
+      {
+       "surface": "2",
+       "pos": "noun",
+       "gloss": "two"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "たのしむ",
+       "pos": "verb",
+       "romaji": "tanoshimu",
+       "gloss": "to enjoy"
+      },
+      {
+       "surface": "ルート",
+       "pos": "noun",
+       "romaji": "ruuto",
+       "gloss": "route"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "紹介",
+       "pos": "noun",
+       "reading": "しょうかい",
+       "romaji": "shoukai",
+       "gloss": "introduction"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "We introduce a route to enjoy in one night and two days, including the famous Dazaifu Tenmangu in Fukuoka, places where you can eat Hakata ramen, and Tenjin, a place with lots of shopping.",
+     "audioStart": 0.0,
+     "audioEnd": 13.152
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "福岡を　1泊2日で　楽しむ　ルート",
+     "tokens": [
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "泊",
+       "pos": "noun",
+       "reading": "はく",
+       "romaji": "haku",
+       "gloss": "counter for overnight stays"
+      },
+      {
+       "surface": "2",
+       "pos": "noun",
+       "gloss": "two"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "楽しむ",
+       "pos": "verb",
+       "reading": "たのしむ",
+       "romaji": "tanoshimu",
+       "gloss": "to enjoy"
+      },
+      {
+       "surface": "ルート",
+       "pos": "noun",
+       "romaji": "ruuto",
+       "gloss": "route"
+      }
+     ],
+     "translation": "A Route to Enjoy Fukuoka in One Night and Two Days",
+     "audioStart": 13.152,
+     "audioEnd": 17.208
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "福岡県　福岡市は、昔から　あるもの、今　人気があるもの、どちらも　楽しむことが　できる　街です。",
+     "tokens": [
+      {
+       "surface": "福岡県",
+       "pos": "noun",
+       "reading": "ふくおかけん",
+       "romaji": "fukuokaken",
+       "gloss": "Fukuoka Prefecture"
+      },
+      {
+       "surface": "福岡市",
+       "pos": "noun",
+       "reading": "ふくおかし",
+       "romaji": "fukuokashi",
+       "gloss": "Fukuoka City"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "昔",
+       "pos": "noun",
+       "reading": "むかし",
+       "romaji": "mukashi",
+       "gloss": "long ago, old times"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from, since"
+      },
+      {
+       "surface": "ある",
+       "pos": "prenominal",
+       "romaji": "aru",
+       "gloss": "to exist, there is (inanimate)"
+      },
+      {
+       "surface": "もの",
+       "pos": "noun",
+       "romaji": "mono",
+       "gloss": "thing"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "今",
+       "pos": "noun",
+       "reading": "いま",
+       "romaji": "ima",
+       "gloss": "now"
+      },
+      {
+       "surface": "人気",
+       "pos": "noun",
+       "reading": "にんき",
+       "romaji": "ninki",
+       "gloss": "popularity"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "ある",
+       "pos": "verb",
+       "romaji": "aru",
+       "gloss": "to exist, there is (inanimate)"
+      },
+      {
+       "surface": "もの",
+       "pos": "noun",
+       "romaji": "mono",
+       "gloss": "thing"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "どちら",
+       "pos": "pronoun",
+       "romaji": "dochira",
+       "gloss": "which one, both"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even"
+      },
+      {
+       "surface": "楽しむ",
+       "pos": "verb",
+       "reading": "たのしむ",
+       "romaji": "tanoshimu",
+       "gloss": "to enjoy"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing (abstract), nominalizer"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "できる",
+       "pos": "verb",
+       "romaji": "dekiru",
+       "gloss": "to be able to, can"
+      },
+      {
+       "surface": "街",
+       "pos": "noun",
+       "reading": "まち",
+       "romaji": "machi",
+       "gloss": "town, city"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula: is (polite)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Fukuoka City, Fukuoka Prefecture, is a city where you can enjoy both things that have existed since long ago and things that are popular now.",
+     "audioStart": 17.208,
+     "audioEnd": 26.664
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "今回は、博多ラーメンなどの　福岡の　食べ物、買い物、観光など　福岡を　1泊2日で　楽しむ　ルートを　紹介します！",
+     "tokens": [
+      {
+       "surface": "今回",
+       "pos": "noun",
+       "reading": "こんかい",
+       "romaji": "konkai",
+       "gloss": "this time"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "博多",
+       "pos": "noun",
+       "reading": "はかた",
+       "romaji": "hakata",
+       "gloss": "Hakata (district of Fukuoka)"
+      },
+      {
+       "surface": "ラーメン",
+       "pos": "noun",
+       "romaji": "raamen",
+       "gloss": "ramen"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "食べ物",
+       "pos": "noun",
+       "reading": "たべもの",
+       "romaji": "tabemono",
+       "gloss": "food"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "買い物",
+       "pos": "noun",
+       "reading": "かいもの",
+       "romaji": "kaimono",
+       "gloss": "shopping"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "観光",
+       "pos": "noun",
+       "reading": "かんこう",
+       "romaji": "kankou",
+       "gloss": "sightseeing"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "泊",
+       "pos": "noun",
+       "reading": "はく",
+       "romaji": "haku",
+       "gloss": "counter for overnight stays"
+      },
+      {
+       "surface": "2",
+       "pos": "noun",
+       "gloss": "two"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "楽しむ",
+       "pos": "verb",
+       "reading": "たのしむ",
+       "romaji": "tanoshimu",
+       "gloss": "to enjoy"
+      },
+      {
+       "surface": "ルート",
+       "pos": "noun",
+       "romaji": "ruuto",
+       "gloss": "route"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "紹介",
+       "pos": "noun",
+       "reading": "しょうかい",
+       "romaji": "shoukai",
+       "gloss": "introduction"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "！",
+       "pos": "punct"
+      }
+     ],
+     "translation": "This time, we introduce a route to enjoy Fukuoka's food such as Hakata ramen, shopping, sightseeing, and more, in one night and two days!",
+     "audioStart": 26.664,
+     "audioEnd": 37.512
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "九州の　一部の　新幹線や　電車が　乗り放題(※)になる「JR KYUSHU RAIL PASS」を　使えば、熊本や　別府温泉、ハウステンボスが　ある　長崎などに　行くことも　できます。",
+     "tokens": [
+      {
+       "surface": "九州",
+       "pos": "noun",
+       "reading": "きゅうしゅう",
+       "romaji": "kyuushuu",
+       "gloss": "Kyushu (region)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "一部",
+       "pos": "noun",
+       "reading": "いちぶ",
+       "romaji": "ichibu",
+       "gloss": "a part, some"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "新幹線",
+       "pos": "noun",
+       "reading": "しんかんせん",
+       "romaji": "shinkansen",
+       "gloss": "shinkansen, bullet train"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "particle: and (non-exhaustive listing)"
+      },
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha",
+       "gloss": "train"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "乗り",
+       "pos": "noun",
+       "reading": "のり",
+       "romaji": "nori",
+       "gloss": "riding (stem of 乗る)"
+      },
+      {
+       "surface": "放題",
+       "pos": "noun",
+       "reading": "ほうだい",
+       "romaji": "houdai",
+       "gloss": "as much as one likes, unlimited"
+      },
+      {
+       "surface": "(",
+       "pos": "punct"
+      },
+      {
+       "surface": "※",
+       "pos": "punct"
+      },
+      {
+       "surface": ")",
+       "pos": "punct"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "なる",
+       "pos": "verb",
+       "romaji": "naru",
+       "gloss": "to become"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "JR",
+       "pos": "noun",
+       "gloss": "Japan Railways"
+      },
+      {
+       "surface": "KYUSHU",
+       "pos": "noun",
+       "gloss": "Kyushu (in pass name)"
+      },
+      {
+       "surface": "RAIL",
+       "pos": "noun",
+       "gloss": "rail"
+      },
+      {
+       "surface": "PASS",
+       "pos": "noun",
+       "gloss": "pass"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "使え",
+       "pos": "verb",
+       "reading": "つかえ",
+       "romaji": "tsukae",
+       "lemma": "使う",
+       "gloss": "to use"
+      },
+      {
+       "surface": "ば",
+       "pos": "particle",
+       "romaji": "ba",
+       "gloss": "conditional: if"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "熊本",
+       "pos": "noun",
+       "reading": "くまもと",
+       "romaji": "kumamoto",
+       "gloss": "Kumamoto (place name)"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "particle: and (non-exhaustive listing)"
+      },
+      {
+       "surface": "別府",
+       "pos": "noun",
+       "reading": "べっぷ",
+       "romaji": "beppu",
+       "gloss": "Beppu (place name)"
+      },
+      {
+       "surface": "温泉",
+       "pos": "noun",
+       "reading": "おんせん",
+       "romaji": "onsen",
+       "gloss": "hot spring"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ハウステンボス",
+       "pos": "noun",
+       "romaji": "hausutenbosu",
+       "gloss": "Huis Ten Bosch (theme park in Nagasaki)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "ある",
+       "pos": "prenominal",
+       "romaji": "aru",
+       "gloss": "to exist, there is (inanimate)"
+      },
+      {
+       "surface": "長崎",
+       "pos": "noun",
+       "reading": "ながさき",
+       "romaji": "nagasaki",
+       "gloss": "Nagasaki (place name)"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "行く",
+       "pos": "verb",
+       "reading": "いく",
+       "romaji": "iku",
+       "gloss": "to go"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing (abstract), nominalizer"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to, can"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If you use the \"JR KYUSHU RAIL PASS,\" which lets you ride some Kyushu shinkansen and trains as much as you like, you can also go to places like Kumamoto, Beppu Onsen, and Nagasaki, home to Huis Ten Bosch.",
+     "audioStart": 37.512,
+     "audioEnd": 51.672
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "九州の　りょこうに　べんりな　JR KYUSHU RAIL PASSについて　くわしく　しる",
+     "tokens": [
+      {
+       "surface": "九州",
+       "pos": "noun",
+       "reading": "きゅうしゅう",
+       "romaji": "kyuushuu",
+       "gloss": "Kyushu (region)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "りょこう",
+       "pos": "noun",
+       "romaji": "ryokou",
+       "gloss": "trip, travel"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "べんり",
+       "pos": "noun",
+       "romaji": "benri",
+       "gloss": "convenient"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula: is/be (plain)"
+      },
+      {
+       "surface": "JR",
+       "pos": "noun",
+       "gloss": "Japan Railways"
+      },
+      {
+       "surface": "KYUSHU",
+       "pos": "noun",
+       "gloss": "Kyushu (in pass name)"
+      },
+      {
+       "surface": "RAIL",
+       "pos": "noun",
+       "gloss": "rail"
+      },
+      {
+       "surface": "PASS",
+       "pos": "noun",
+       "gloss": "pass"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "つい",
+       "pos": "verb",
+       "romaji": "tsui",
+       "lemma": "つく",
+       "gloss": "to arrive"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "particle: connective te-form"
+      },
+      {
+       "surface": "くわしく",
+       "pos": "adjective",
+       "romaji": "kuwashiku",
+       "lemma": "くわしい",
+       "gloss": "detailed"
+      },
+      {
+       "surface": "しる",
+       "pos": "noun",
+       "romaji": "shiru",
+       "gloss": "to know"
+      }
+     ],
+     "translation": "Learn more about the JR KYUSHU RAIL PASS, which is convenient for traveling in Kyushu",
+     "audioStart": 51.672,
+     "audioEnd": 57.912
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "1日目と　2日目に　行く場所",
+     "tokens": [
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "目",
+       "pos": "suffix",
+       "reading": "め",
+       "romaji": "me",
+       "gloss": "suffix for ordinal counting (e.g. day/th)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: and, with"
+      },
+      {
+       "surface": "2",
+       "pos": "noun",
+       "gloss": "two"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "目",
+       "pos": "suffix",
+       "reading": "め",
+       "romaji": "me",
+       "gloss": "suffix for ordinal counting (e.g. day/th)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "行く",
+       "pos": "verb",
+       "reading": "いく",
+       "romaji": "iku",
+       "gloss": "to go"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place"
+      }
+     ],
+     "translation": "Places to Go on Day 1 and Day 2",
+     "audioStart": 57.912,
+     "audioEnd": 61.392
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "■1日目",
+     "tokens": [
+      {
+       "surface": "■",
+       "pos": "punct"
+      },
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "目",
+       "pos": "suffix",
+       "reading": "め",
+       "romaji": "me",
+       "gloss": "suffix for ordinal counting (e.g. day/th)"
+      }
+     ],
+     "translation": "■Day 1",
+     "audioStart": 61.392,
+     "audioEnd": 63.264
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "1.天神でショッピング",
+     "tokens": [
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      },
+      {
+       "surface": "天神",
+       "pos": "noun",
+       "reading": "てんじん",
+       "romaji": "tenjin",
+       "gloss": "Tenjin (district of Fukuoka)"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "ショッピング",
+       "pos": "noun",
+       "romaji": "shoppingu",
+       "gloss": "shopping"
+      }
+     ],
+     "translation": "1. Shopping in Tenjin",
+     "audioStart": 63.264,
+     "audioEnd": 66.264
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "2.一蘭でランチ",
+     "tokens": [
+      {
+       "surface": "2.一",
+       "pos": "noun",
+       "reading": "に．いち",
+       "romaji": "ni.ichi",
+       "gloss": "list numbering \"2.\" plus 一 (start of Ichiran, item 2)"
+      },
+      {
+       "surface": "蘭",
+       "pos": "noun",
+       "reading": "らん",
+       "romaji": "ran",
+       "gloss": "orchid (part of 一蘭, Ichiran ramen shop name)"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "ランチ",
+       "pos": "noun",
+       "romaji": "ranchi",
+       "gloss": "lunch"
+      }
+     ],
+     "translation": "2. Lunch at Ichiran",
+     "audioStart": 66.264,
+     "audioEnd": 69.168
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "3.シーサイドももち海浜公園・福岡タワーで観光",
+     "tokens": [
+      {
+       "surface": "3",
+       "pos": "noun",
+       "gloss": "three"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      },
+      {
+       "surface": "シーサイド",
+       "pos": "noun",
+       "romaji": "shiisaido",
+       "gloss": "seaside"
+      },
+      {
+       "surface": "ももち",
+       "pos": "noun",
+       "romaji": "momochi",
+       "gloss": "Momochi (place name)"
+      },
+      {
+       "surface": "海浜公園",
+       "pos": "noun",
+       "reading": "かいひんこうえん",
+       "romaji": "kaihinkouen",
+       "gloss": "seaside park"
+      },
+      {
+       "surface": "・",
+       "pos": "punct"
+      },
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "タワー",
+       "pos": "noun",
+       "romaji": "tawaa",
+       "gloss": "tower"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "観光",
+       "pos": "noun",
+       "reading": "かんこう",
+       "romaji": "kankou",
+       "gloss": "sightseeing"
+      }
+     ],
+     "translation": "3. Sightseeing at Seaside Momochi Seaside Park and Fukuoka Tower",
+     "audioStart": 69.168,
+     "audioEnd": 75.456
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "4.屋台横丁で夕飯",
+     "tokens": [
+      {
+       "surface": "4",
+       "pos": "noun",
+       "gloss": "four"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      },
+      {
+       "surface": "屋台",
+       "pos": "noun",
+       "reading": "やたい",
+       "romaji": "yatai",
+       "gloss": "food stall"
+      },
+      {
+       "surface": "横丁",
+       "pos": "noun",
+       "reading": "よこちょう",
+       "romaji": "yokochou",
+       "gloss": "alley, side street"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "夕飯",
+       "pos": "noun",
+       "reading": "ゆうはん",
+       "romaji": "yuuhan",
+       "gloss": "dinner"
+      }
+     ],
+     "translation": "4. Dinner at the Yatai Food Stall Alley",
+     "audioStart": 75.456,
+     "audioEnd": 78.696
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "5.ドン・キホーテで深夜ショッピング",
+     "tokens": [
+      {
+       "surface": "5",
+       "pos": "noun",
+       "gloss": "five"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      },
+      {
+       "surface": "ドン・キホーテ",
+       "pos": "noun",
+       "romaji": "don・kihoote",
+       "gloss": "Don Quijote (discount store chain)"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "深夜",
+       "pos": "noun",
+       "reading": "しんや",
+       "romaji": "shinya",
+       "gloss": "late night"
+      },
+      {
+       "surface": "ショッピング",
+       "pos": "noun",
+       "romaji": "shoppingu",
+       "gloss": "shopping"
+      }
+     ],
+     "translation": "5. Late-night shopping at Don Quijote",
+     "audioStart": 78.696,
+     "audioEnd": 82.896
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "■2日目",
+     "tokens": [
+      {
+       "surface": "■",
+       "pos": "punct"
+      },
+      {
+       "surface": "2",
+       "pos": "noun",
+       "gloss": "two"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "目",
+       "pos": "suffix",
+       "reading": "め",
+       "romaji": "me",
+       "gloss": "suffix for ordinal counting (e.g. day/th)"
+      }
+     ],
+     "translation": "■Day 2",
+     "audioStart": 82.896,
+     "audioEnd": 84.672
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "1.大濠公園で朝散歩",
+     "tokens": [
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      },
+      {
+       "surface": "大濠公園",
+       "pos": "noun",
+       "reading": "おおほりこうえん",
+       "romaji": "oohorikouen",
+       "gloss": "Ohori Park"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "朝",
+       "pos": "noun",
+       "reading": "あさ",
+       "romaji": "asa",
+       "gloss": "morning"
+      },
+      {
+       "surface": "散歩",
+       "pos": "noun",
+       "reading": "さんぽ",
+       "romaji": "sanpo",
+       "gloss": "walk, stroll"
+      }
+     ],
+     "translation": "1. Morning walk at Ohori Park",
+     "audioStart": 84.672,
+     "audioEnd": 88.632
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "2.太宰府で食べ歩き",
+     "tokens": [
+      {
+       "surface": "2",
+       "pos": "noun",
+       "gloss": "two"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      },
+      {
+       "surface": "太宰府",
+       "pos": "noun",
+       "reading": "だざいふ",
+       "romaji": "dazaifu",
+       "gloss": "Dazaifu (place name)"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "食べ歩き",
+       "pos": "noun",
+       "reading": "たべあるき",
+       "romaji": "tabearuki",
+       "gloss": "eating while walking around, food-hopping"
+      }
+     ],
+     "translation": "2. Food-hopping in Dazaifu",
+     "audioStart": 88.632,
+     "audioEnd": 91.728
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "3.博多JRシティで最後のショッピング",
+     "tokens": [
+      {
+       "surface": "3",
+       "pos": "noun",
+       "gloss": "three"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      },
+      {
+       "surface": "博多",
+       "pos": "noun",
+       "reading": "はかた",
+       "romaji": "hakata",
+       "gloss": "Hakata (district of Fukuoka)"
+      },
+      {
+       "surface": "JR",
+       "pos": "noun",
+       "gloss": "Japan Railways"
+      },
+      {
+       "surface": "シティ",
+       "pos": "noun",
+       "romaji": "shitei",
+       "gloss": "city"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "最後",
+       "pos": "noun",
+       "reading": "さいご",
+       "romaji": "saigo",
+       "gloss": "the last, final"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "ショッピング",
+       "pos": "noun",
+       "romaji": "shoppingu",
+       "gloss": "shopping"
+      }
+     ],
+     "translation": "3. Final shopping at Hakata JR City",
+     "audioStart": 91.728,
+     "audioEnd": 96.36
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "1日目　午前｜天神でショッピング！",
+     "tokens": [
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "目",
+       "pos": "suffix",
+       "reading": "め",
+       "romaji": "me",
+       "gloss": "suffix for ordinal counting (e.g. day/th)"
+      },
+      {
+       "surface": "午前",
+       "pos": "noun",
+       "reading": "ごぜん",
+       "romaji": "gozen",
+       "gloss": "morning, a.m."
+      },
+      {
+       "surface": "｜",
+       "pos": "punct"
+      },
+      {
+       "surface": "天神",
+       "pos": "noun",
+       "reading": "てんじん",
+       "romaji": "tenjin",
+       "gloss": "Tenjin (district of Fukuoka)"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "ショッピング",
+       "pos": "noun",
+       "romaji": "shoppingu",
+       "gloss": "shopping"
+      },
+      {
+       "surface": "！",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Day 1 Morning | Shopping in Tenjin!",
+     "audioStart": 96.36,
+     "audioEnd": 100.56
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "1日目の　午前中は、天神駅の　近くを　観光します。",
+     "tokens": [
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "目",
+       "pos": "suffix",
+       "reading": "め",
+       "romaji": "me",
+       "gloss": "suffix for ordinal counting (e.g. day/th)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "午前中",
+       "pos": "noun",
+       "reading": "ごぜんちゅう",
+       "romaji": "gozenchuu",
+       "gloss": "during the morning"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "天神駅",
+       "pos": "noun",
+       "reading": "てんじんえき",
+       "romaji": "tenjin'eki",
+       "gloss": "Tenjin Station"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "近く",
+       "pos": "noun",
+       "reading": "ちかく",
+       "romaji": "chikaku",
+       "gloss": "nearby"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "観光",
+       "pos": "noun",
+       "reading": "かんこう",
+       "romaji": "kankou",
+       "gloss": "sightseeing"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On the morning of Day 1, we go sightseeing near Tenjin Station.",
+     "audioStart": 100.56,
+     "audioEnd": 106.512
+    },
+    {
+     "text": "「天神」は　福岡の　中心地(※)で、ショッピングに　ちょうどいい　場所です。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "天神",
+       "pos": "noun",
+       "reading": "てんじん",
+       "romaji": "tenjin",
+       "gloss": "Tenjin (district of Fukuoka)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "中心地",
+       "pos": "noun",
+       "reading": "ちゅうしんち",
+       "romaji": "chuushinchi",
+       "gloss": "center, central area"
+      },
+      {
+       "surface": "(",
+       "pos": "punct"
+      },
+      {
+       "surface": "※",
+       "pos": "punct"
+      },
+      {
+       "surface": ")",
+       "pos": "punct"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ショッピング",
+       "pos": "noun",
+       "romaji": "shoppingu",
+       "gloss": "shopping"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "ちょうど",
+       "pos": "adverb",
+       "romaji": "choudo",
+       "gloss": "just, exactly"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula: is (polite)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "\"Tenjin\" is the center of Fukuoka, and a perfect place for shopping.",
+     "audioStart": 106.512,
+     "audioEnd": 112.776
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ブランドの　服や　化粧品(※)、食べ物を　買いたいときは「大丸 福岡天神店」や「福岡三越」に　行くと　いいでしょう。",
+     "tokens": [
+      {
+       "surface": "ブランド",
+       "pos": "noun",
+       "romaji": "burando",
+       "gloss": "brand"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "服",
+       "pos": "noun",
+       "reading": "ふく",
+       "romaji": "fuku",
+       "gloss": "clothes"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "particle: and (non-exhaustive listing)"
+      },
+      {
+       "surface": "化粧品",
+       "pos": "noun",
+       "reading": "けしょうひん",
+       "romaji": "keshouhin",
+       "gloss": "cosmetics"
+      },
+      {
+       "surface": "(",
+       "pos": "punct"
+      },
+      {
+       "surface": "※",
+       "pos": "punct"
+      },
+      {
+       "surface": ")",
+       "pos": "punct"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "食べ物",
+       "pos": "noun",
+       "reading": "たべもの",
+       "romaji": "tabemono",
+       "gloss": "food"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "買い",
+       "pos": "verb",
+       "reading": "かい",
+       "romaji": "kai",
+       "lemma": "買う",
+       "gloss": "to buy"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desire suffix)"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "when, time"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "大丸",
+       "pos": "noun",
+       "reading": "だいまる",
+       "romaji": "daimaru",
+       "gloss": "Daimaru (department store)"
+      },
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "天神",
+       "pos": "noun",
+       "reading": "てんじん",
+       "romaji": "tenjin",
+       "gloss": "Tenjin (district of Fukuoka)"
+      },
+      {
+       "surface": "店",
+       "pos": "suffix",
+       "reading": "てん",
+       "romaji": "ten",
+       "gloss": "shop, store"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "particle: and (non-exhaustive listing)"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "三越",
+       "pos": "noun",
+       "reading": "みつこし",
+       "romaji": "mitsukoshi",
+       "gloss": "Mitsukoshi (department store)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "行く",
+       "pos": "verb",
+       "reading": "いく",
+       "romaji": "iku",
+       "gloss": "to go"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: and, with"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good"
+      },
+      {
+       "surface": "でしょう",
+       "pos": "auxiliary",
+       "romaji": "deshou",
+       "lemma": "です",
+       "gloss": "copula: is (polite)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If you want to buy brand-name clothes, cosmetics, or food, it's a good idea to go to \"Daimaru Fukuoka Tenjin Store\" or \"Fukuoka Mitsukoshi.\"",
+     "audioStart": 112.776,
+     "audioEnd": 122.952
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "新しい　人気が　ある　ものを　買いたいときは　「福岡PARCO」や「SOLARIA STAGE」に　行ってみて　ください。",
+     "tokens": [
+      {
+       "surface": "新しい",
+       "pos": "adjective",
+       "reading": "あたらしい",
+       "romaji": "atarashii",
+       "gloss": "new"
+      },
+      {
+       "surface": "人気",
+       "pos": "noun",
+       "reading": "にんき",
+       "romaji": "ninki",
+       "gloss": "popularity"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "ある",
+       "pos": "prenominal",
+       "romaji": "aru",
+       "gloss": "to exist, there is (inanimate)"
+      },
+      {
+       "surface": "もの",
+       "pos": "noun",
+       "romaji": "mono",
+       "gloss": "thing"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "買い",
+       "pos": "verb",
+       "reading": "かい",
+       "romaji": "kai",
+       "lemma": "買う",
+       "gloss": "to buy"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desire suffix)"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "when, time"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "PARCO",
+       "pos": "noun",
+       "gloss": "Parco (department store brand)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "particle: and (non-exhaustive listing)"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "SOLARIA",
+       "pos": "noun",
+       "gloss": "Solaria (building name)"
+      },
+      {
+       "surface": "STAGE",
+       "pos": "noun",
+       "gloss": "stage (part of building name)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "行っ",
+       "pos": "verb",
+       "reading": "いっ",
+       "romaji": "itsu",
+       "lemma": "行く",
+       "gloss": "to go"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "particle: connective te-form"
+      },
+      {
+       "surface": "み",
+       "pos": "verb",
+       "romaji": "mi",
+       "lemma": "みる",
+       "gloss": "to see, look"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "particle: connective te-form"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる",
+       "gloss": "to give (polite; used in ~てください)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If you want to buy new, popular items, try going to \"Fukuoka PARCO\" or \"SOLARIA STAGE.\"",
+     "audioStart": 122.952,
+     "audioEnd": 131.832
+    },
+    {
+     "text": "天神には　いろいろな　お店が　集まっています。",
+     "tokens": [
+      {
+       "surface": "天神",
+       "pos": "noun",
+       "reading": "てんじん",
+       "romaji": "tenjin",
+       "gloss": "Tenjin (district of Fukuoka)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "いろいろ",
+       "pos": "adjective",
+       "romaji": "iroiro",
+       "gloss": "various"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula: is/be (plain)"
+      },
+      {
+       "surface": "お店",
+       "pos": "noun",
+       "reading": "おみせ",
+       "romaji": "omise",
+       "gloss": "shop"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "集まっ",
+       "pos": "verb",
+       "reading": "あつまっ",
+       "romaji": "atsumatsu",
+       "lemma": "集まる",
+       "gloss": "to gather"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "particle: connective te-form"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be, exist (animate) / progressive auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many different shops are gathered in Tenjin.",
+     "audioStart": 131.832,
+     "audioEnd": 136.272
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "そして天神の　地下(※)には「天神の　地下街」が　あります。",
+     "tokens": [
+      {
+       "surface": "そして",
+       "pos": "conjunction",
+       "romaji": "soshite",
+       "gloss": "and then, and"
+      },
+      {
+       "surface": "天神",
+       "pos": "noun",
+       "reading": "てんじん",
+       "romaji": "tenjin",
+       "gloss": "Tenjin (district of Fukuoka)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "地下",
+       "pos": "noun",
+       "reading": "ちか",
+       "romaji": "chika",
+       "gloss": "underground"
+      },
+      {
+       "surface": "(",
+       "pos": "punct"
+      },
+      {
+       "surface": "※",
+       "pos": "punct"
+      },
+      {
+       "surface": ")",
+       "pos": "punct"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "天神",
+       "pos": "noun",
+       "reading": "てんじん",
+       "romaji": "tenjin",
+       "gloss": "Tenjin (district of Fukuoka)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "地下街",
+       "pos": "noun",
+       "reading": "ちかがい",
+       "romaji": "chikagai",
+       "gloss": "underground shopping mall"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, there is (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "And underground in Tenjin, there is the \"Tenjin Underground Shopping Mall.\"",
+     "audioStart": 136.272,
+     "audioEnd": 141.84
+    },
+    {
+     "text": "ここは、空港線などの　電車の　改札(※)から　そのまま　行くことが　できる　場所です。",
+     "tokens": [
+      {
+       "surface": "ここ",
+       "pos": "pronoun",
+       "romaji": "koko",
+       "gloss": "here"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "空港線",
+       "pos": "noun",
+       "reading": "くうこうせん",
+       "romaji": "kuukousen",
+       "gloss": "Airport Line"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha",
+       "gloss": "train"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "改札",
+       "pos": "noun",
+       "reading": "かいさつ",
+       "romaji": "kaisatsu",
+       "gloss": "ticket gate"
+      },
+      {
+       "surface": "(",
+       "pos": "punct"
+      },
+      {
+       "surface": "※",
+       "pos": "punct"
+      },
+      {
+       "surface": ")",
+       "pos": "punct"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from, since"
+      },
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that"
+      },
+      {
+       "surface": "まま",
+       "pos": "noun",
+       "romaji": "mama",
+       "gloss": "as is, unchanged"
+      },
+      {
+       "surface": "行く",
+       "pos": "verb",
+       "reading": "いく",
+       "romaji": "iku",
+       "gloss": "to go"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing (abstract), nominalizer"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "できる",
+       "pos": "verb",
+       "romaji": "dekiru",
+       "gloss": "to be able to, can"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula: is (polite)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "This is a place you can go to directly from the ticket gates of trains like the Airport Line.",
+     "audioStart": 141.84,
+     "audioEnd": 149.592
+    },
+    {
+     "text": "服、雑貨(※)、食べ物など　150くらいの　店が　並んでいます。",
+     "tokens": [
+      {
+       "surface": "服",
+       "pos": "noun",
+       "reading": "ふく",
+       "romaji": "fuku",
+       "gloss": "clothes"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "雑貨",
+       "pos": "noun",
+       "reading": "ざっか",
+       "romaji": "zakka",
+       "gloss": "miscellaneous goods, sundries"
+      },
+      {
+       "surface": "(",
+       "pos": "punct"
+      },
+      {
+       "surface": "※",
+       "pos": "punct"
+      },
+      {
+       "surface": ")",
+       "pos": "punct"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "食べ物",
+       "pos": "noun",
+       "reading": "たべもの",
+       "romaji": "tabemono",
+       "gloss": "food"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "150",
+       "pos": "noun",
+       "gloss": "one hundred fifty"
+      },
+      {
+       "surface": "くらい",
+       "pos": "particle",
+       "romaji": "kurai",
+       "gloss": "about, approximately"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "店",
+       "pos": "noun",
+       "reading": "みせ",
+       "romaji": "mise",
+       "gloss": "shop, store"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "並ん",
+       "pos": "verb",
+       "reading": "ならん",
+       "romaji": "naran",
+       "lemma": "並ぶ",
+       "gloss": "to line up"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be, exist (animate) / progressive auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "About 150 shops line the mall, selling clothes, miscellaneous goods, food, and more.",
+     "audioStart": 149.592,
+     "audioEnd": 155.688
+    },
+    {
+     "text": "雨の日でも　ショッピングを　楽しめますよ。",
+     "tokens": [
+      {
+       "surface": "雨",
+       "pos": "noun",
+       "reading": "あめ",
+       "romaji": "ame",
+       "gloss": "rain"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "ひ",
+       "romaji": "hi",
+       "gloss": "day"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even"
+      },
+      {
+       "surface": "ショッピング",
+       "pos": "noun",
+       "romaji": "shoppingu",
+       "gloss": "shopping"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "楽しめ",
+       "pos": "verb",
+       "reading": "たのしめ",
+       "romaji": "tanoshime",
+       "lemma": "楽しめる",
+       "gloss": "can enjoy (potential of 楽しむ)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "よ",
+       "pos": "particle",
+       "romaji": "yo",
+       "gloss": "sentence-final particle: emphasis"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You can enjoy shopping even on rainy days.",
+     "audioStart": 155.688,
+     "audioEnd": 159.696
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "【天神】Google Mapで　場所を　みる",
+     "tokens": [
+      {
+       "surface": "【",
+       "pos": "punct"
+      },
+      {
+       "surface": "天神",
+       "pos": "noun",
+       "reading": "てんじん",
+       "romaji": "tenjin",
+       "gloss": "Tenjin (district of Fukuoka)"
+      },
+      {
+       "surface": "】",
+       "pos": "punct"
+      },
+      {
+       "surface": "Google",
+       "pos": "noun",
+       "gloss": "Google"
+      },
+      {
+       "surface": "Map",
+       "pos": "noun",
+       "gloss": "map"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "みる",
+       "pos": "verb",
+       "romaji": "miru",
+       "gloss": "to see, look"
+      }
+     ],
+     "translation": "[Tenjin] View the location on Google Maps",
+     "audioStart": 159.696,
+     "audioEnd": 163.44
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "1日目　昼｜一蘭で　ランチ！",
+     "tokens": [
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "目",
+       "pos": "suffix",
+       "reading": "め",
+       "romaji": "me",
+       "gloss": "suffix for ordinal counting (e.g. day/th)"
+      },
+      {
+       "surface": "昼",
+       "pos": "noun",
+       "reading": "ひる",
+       "romaji": "hiru",
+       "gloss": "noon, daytime"
+      },
+      {
+       "surface": "｜",
+       "pos": "punct"
+      },
+      {
+       "surface": "一",
+       "pos": "noun",
+       "reading": "いち",
+       "romaji": "ichi",
+       "gloss": "one"
+      },
+      {
+       "surface": "蘭",
+       "pos": "noun",
+       "reading": "らん",
+       "romaji": "ran",
+       "gloss": "orchid (part of 一蘭, Ichiran ramen shop name)"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "ランチ",
+       "pos": "noun",
+       "romaji": "ranchi",
+       "gloss": "lunch"
+      },
+      {
+       "surface": "！",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Day 1 Noon | Lunch at Ichiran!",
+     "audioStart": 163.44,
+     "audioEnd": 167.328
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ランチには、天神駅から　歩いて　10分ほどで　行ける、日本で　有名な　人気の　ラーメン店「一蘭」で　豚骨ラーメンを　食べましょう。",
+     "tokens": [
+      {
+       "surface": "ランチ",
+       "pos": "noun",
+       "romaji": "ranchi",
+       "gloss": "lunch"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "天神駅",
+       "pos": "noun",
+       "reading": "てんじんえき",
+       "romaji": "tenjin'eki",
+       "gloss": "Tenjin Station"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from, since"
+      },
+      {
+       "surface": "歩い",
+       "pos": "verb",
+       "reading": "あるい",
+       "romaji": "arui",
+       "lemma": "歩く",
+       "gloss": "to walk"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "particle: connective te-form"
+      },
+      {
+       "surface": "10",
+       "pos": "noun",
+       "gloss": "ten"
+      },
+      {
+       "surface": "分",
+       "pos": "noun",
+       "reading": "ふん",
+       "romaji": "fun",
+       "gloss": "minutes"
+      },
+      {
+       "surface": "ほど",
+       "pos": "particle",
+       "romaji": "hodo",
+       "gloss": "about, approximately"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula: is/be (plain)"
+      },
+      {
+       "surface": "行ける",
+       "pos": "verb",
+       "reading": "いける",
+       "romaji": "ikeru",
+       "gloss": "can go (potential of 行く)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "有名",
+       "pos": "adjective",
+       "reading": "ゆうめい",
+       "romaji": "yuumei",
+       "gloss": "famous"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula: is/be (plain)"
+      },
+      {
+       "surface": "人気",
+       "pos": "noun",
+       "reading": "にんき",
+       "romaji": "ninki",
+       "gloss": "popularity"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "ラーメン",
+       "pos": "noun",
+       "romaji": "raamen",
+       "gloss": "ramen"
+      },
+      {
+       "surface": "店",
+       "pos": "suffix",
+       "reading": "てん",
+       "romaji": "ten",
+       "gloss": "shop, store"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "一",
+       "pos": "noun",
+       "reading": "いち",
+       "romaji": "ichi",
+       "gloss": "one"
+      },
+      {
+       "surface": "蘭",
+       "pos": "noun",
+       "reading": "らん",
+       "romaji": "ran",
+       "gloss": "orchid (part of 一蘭, Ichiran ramen shop name)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "豚骨ラーメン",
+       "pos": "noun",
+       "reading": "とんこつらーめん",
+       "romaji": "tonkotsuraamen",
+       "gloss": "tonkotsu ramen (pork bone broth)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "ましょう",
+       "pos": "auxiliary",
+       "romaji": "mashou",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "For lunch, let's eat tonkotsu ramen at \"Ichiran,\" a famous and popular ramen shop in Japan, about a 10-minute walk from Tenjin Station.",
+     "audioStart": 167.328,
+     "audioEnd": 178.704
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "こちらで　ぜひ　食べてほしい　ラーメンは、ふつうの　どんぶりとは　違う　どんぶりに　入っている　釜だれトンコツラーメンです。",
+     "tokens": [
+      {
+       "surface": "こちら",
+       "pos": "pronoun",
+       "romaji": "kochira",
+       "gloss": "this (polite), here"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "ぜひ",
+       "pos": "adverb",
+       "romaji": "zehi",
+       "gloss": "by all means, definitely"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "particle: connective te-form"
+      },
+      {
+       "surface": "ほしい",
+       "pos": "adjective",
+       "romaji": "hoshii",
+       "gloss": "want (something)"
+      },
+      {
+       "surface": "ラーメン",
+       "pos": "noun",
+       "romaji": "raamen",
+       "gloss": "ramen"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ふつう",
+       "pos": "noun",
+       "romaji": "futsuu",
+       "gloss": "normal, usual"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "どんぶり",
+       "pos": "adverb",
+       "romaji": "donburi",
+       "gloss": "large rice bowl"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: and, with"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "違う",
+       "pos": "verb",
+       "reading": "ちがう",
+       "romaji": "chigau",
+       "gloss": "to be different"
+      },
+      {
+       "surface": "どんぶり",
+       "pos": "noun",
+       "romaji": "donburi",
+       "gloss": "large rice bowl"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "入っ",
+       "pos": "verb",
+       "reading": "はいっ",
+       "romaji": "haitsu",
+       "lemma": "入る",
+       "gloss": "to enter, be contained in"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "particle: connective te-form"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "to be, exist (animate) / progressive auxiliary"
+      },
+      {
+       "surface": "釜",
+       "pos": "noun",
+       "reading": "かま",
+       "romaji": "kama",
+       "gloss": "kettle, pot"
+      },
+      {
+       "surface": "だれ",
+       "pos": "pronoun",
+       "romaji": "dare",
+       "gloss": "sauce (as in 釜だれ, kettle sauce)"
+      },
+      {
+       "surface": "トンコツ",
+       "pos": "noun",
+       "romaji": "tonkotsu",
+       "gloss": "pork bone (tonkotsu, katakana form)"
+      },
+      {
+       "surface": "ラーメン",
+       "pos": "noun",
+       "romaji": "raamen",
+       "gloss": "ramen"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula: is (polite)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The ramen we really want you to try here is the Kamadare Tonkotsu Ramen, served in a bowl different from the usual one.",
+     "audioStart": 178.704,
+     "audioEnd": 187.92
+    },
+    {
+     "text": "このラーメンは、天神西通り店だけで　食べられます。",
+     "tokens": [
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this"
+      },
+      {
+       "surface": "ラーメン",
+       "pos": "noun",
+       "romaji": "raamen",
+       "gloss": "ramen"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "天神",
+       "pos": "noun",
+       "reading": "てんじん",
+       "romaji": "tenjin",
+       "gloss": "Tenjin (district of Fukuoka)"
+      },
+      {
+       "surface": "西",
+       "pos": "noun",
+       "reading": "にし",
+       "romaji": "nishi",
+       "gloss": "west"
+      },
+      {
+       "surface": "通り",
+       "pos": "noun",
+       "reading": "とおり",
+       "romaji": "toori",
+       "gloss": "street"
+      },
+      {
+       "surface": "店",
+       "pos": "suffix",
+       "reading": "てん",
+       "romaji": "ten",
+       "gloss": "shop, store"
+      },
+      {
+       "surface": "だけ",
+       "pos": "particle",
+       "romaji": "dake",
+       "gloss": "only"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "られ",
+       "pos": "auxiliary",
+       "romaji": "rare",
+       "lemma": "られる",
+       "gloss": "potential auxiliary: can (do)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "This ramen can only be eaten at the Tenjin Nishi-dori branch.",
+     "audioStart": 187.92,
+     "audioEnd": 193.272
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "【一蘭天神西通り店】Google Mapで場所をみる",
+     "tokens": [
+      {
+       "surface": "【",
+       "pos": "punct"
+      },
+      {
+       "surface": "一",
+       "pos": "noun",
+       "reading": "いち",
+       "romaji": "ichi",
+       "gloss": "one"
+      },
+      {
+       "surface": "蘭",
+       "pos": "noun",
+       "reading": "らん",
+       "romaji": "ran",
+       "gloss": "orchid (part of 一蘭, Ichiran ramen shop name)"
+      },
+      {
+       "surface": "天神",
+       "pos": "noun",
+       "reading": "てんじん",
+       "romaji": "tenjin",
+       "gloss": "Tenjin (district of Fukuoka)"
+      },
+      {
+       "surface": "西",
+       "pos": "noun",
+       "reading": "にし",
+       "romaji": "nishi",
+       "gloss": "west"
+      },
+      {
+       "surface": "通り",
+       "pos": "noun",
+       "reading": "とおり",
+       "romaji": "toori",
+       "gloss": "street"
+      },
+      {
+       "surface": "店",
+       "pos": "suffix",
+       "reading": "てん",
+       "romaji": "ten",
+       "gloss": "shop, store"
+      },
+      {
+       "surface": "】",
+       "pos": "punct"
+      },
+      {
+       "surface": "Google",
+       "pos": "noun",
+       "gloss": "Google"
+      },
+      {
+       "surface": "Map",
+       "pos": "noun",
+       "gloss": "map"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "みる",
+       "pos": "verb",
+       "romaji": "miru",
+       "gloss": "to see, look"
+      }
+     ],
+     "translation": "[Ichiran Tenjin Nishi-dori Store] View the location on Google Maps",
+     "audioStart": 193.272,
+     "audioEnd": 198.6
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "1日目　午後｜シーサイドももち海浜公園＆福岡タワー",
+     "tokens": [
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "目",
+       "pos": "suffix",
+       "reading": "め",
+       "romaji": "me",
+       "gloss": "suffix for ordinal counting (e.g. day/th)"
+      },
+      {
+       "surface": "午後",
+       "pos": "noun",
+       "reading": "ごご",
+       "romaji": "gogo",
+       "gloss": "afternoon, p.m."
+      },
+      {
+       "surface": "｜",
+       "pos": "punct"
+      },
+      {
+       "surface": "シーサイド",
+       "pos": "noun",
+       "romaji": "shiisaido",
+       "gloss": "seaside"
+      },
+      {
+       "surface": "ももち",
+       "pos": "noun",
+       "romaji": "momochi",
+       "gloss": "Momochi (place name)"
+      },
+      {
+       "surface": "海浜公園",
+       "pos": "noun",
+       "reading": "かいひんこうえん",
+       "romaji": "kaihinkouen",
+       "gloss": "seaside park"
+      },
+      {
+       "surface": "＆",
+       "pos": "punct"
+      },
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "タワー",
+       "pos": "noun",
+       "romaji": "tawaa",
+       "gloss": "tower"
+      }
+     ],
+     "translation": "Day 1 Afternoon | Seaside Momochi Seaside Park & Fukuoka Tower",
+     "audioStart": 198.6,
+     "audioEnd": 205.344
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "天神から　バスに　乗って、福岡の　海の　近くに　行きます。",
+     "tokens": [
+      {
+       "surface": "天神",
+       "pos": "noun",
+       "reading": "てんじん",
+       "romaji": "tenjin",
+       "gloss": "Tenjin (district of Fukuoka)"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from, since"
+      },
+      {
+       "surface": "バス",
+       "pos": "noun",
+       "romaji": "basu",
+       "gloss": "bus"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "乗っ",
+       "pos": "verb",
+       "reading": "のっ",
+       "romaji": "notsu",
+       "lemma": "乗る",
+       "gloss": "to ride"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "particle: connective te-form"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "海",
+       "pos": "noun",
+       "reading": "うみ",
+       "romaji": "umi",
+       "gloss": "sea"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "近く",
+       "pos": "noun",
+       "reading": "ちかく",
+       "romaji": "chikaku",
+       "gloss": "nearby"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Take a bus from Tenjin to go near the sea in Fukuoka.",
+     "audioStart": 205.344,
+     "audioEnd": 210.912
+    },
+    {
+     "text": "ビーチの　散歩や　ショッピングが　楽しめる　公園「シーサイドももち海浜公園」に　行きましょう。",
+     "tokens": [
+      {
+       "surface": "ビーチ",
+       "pos": "noun",
+       "romaji": "biichi",
+       "gloss": "beach"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "散歩",
+       "pos": "noun",
+       "reading": "さんぽ",
+       "romaji": "sanpo",
+       "gloss": "walk, stroll"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "particle: and (non-exhaustive listing)"
+      },
+      {
+       "surface": "ショッピング",
+       "pos": "noun",
+       "romaji": "shoppingu",
+       "gloss": "shopping"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "楽しめる",
+       "pos": "verb",
+       "reading": "たのしめる",
+       "romaji": "tanoshimeru",
+       "gloss": "can enjoy (potential of 楽しむ)"
+      },
+      {
+       "surface": "公園",
+       "pos": "noun",
+       "reading": "こうえん",
+       "romaji": "kouen",
+       "gloss": "park"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "シーサイド",
+       "pos": "noun",
+       "romaji": "shiisaido",
+       "gloss": "seaside"
+      },
+      {
+       "surface": "ももち",
+       "pos": "noun",
+       "romaji": "momochi",
+       "gloss": "Momochi (place name)"
+      },
+      {
+       "surface": "海浜公園",
+       "pos": "noun",
+       "reading": "かいひんこうえん",
+       "romaji": "kaihinkouen",
+       "gloss": "seaside park"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go"
+      },
+      {
+       "surface": "ましょう",
+       "pos": "auxiliary",
+       "romaji": "mashou",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Let's go to \"Seaside Momochi Seaside Park,\" a park where you can enjoy a beach walk and shopping.",
+     "audioStart": 210.912,
+     "audioEnd": 218.856
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "公園には、海に　ある　店の「マリゾン」があり、海を　見ながら　ゆっくり　カフェや　レストランで　休むことが　できます。",
+     "tokens": [
+      {
+       "surface": "公園",
+       "pos": "noun",
+       "reading": "こうえん",
+       "romaji": "kouen",
+       "gloss": "park"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "海",
+       "pos": "noun",
+       "reading": "うみ",
+       "romaji": "umi",
+       "gloss": "sea"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "ある",
+       "pos": "prenominal",
+       "romaji": "aru",
+       "gloss": "to exist, there is (inanimate)"
+      },
+      {
+       "surface": "店",
+       "pos": "noun",
+       "reading": "みせ",
+       "romaji": "mise",
+       "gloss": "shop, store"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "マリゾン",
+       "pos": "noun",
+       "romaji": "marizon",
+       "gloss": "Marizon (waterfront facility name)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, there is (inanimate)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "海",
+       "pos": "noun",
+       "reading": "うみ",
+       "romaji": "umi",
+       "gloss": "sea"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "見",
+       "pos": "verb",
+       "reading": "み",
+       "romaji": "mi",
+       "lemma": "見る",
+       "gloss": "to see, look"
+      },
+      {
+       "surface": "ながら",
+       "pos": "particle",
+       "romaji": "nagara",
+       "gloss": "while (doing)"
+      },
+      {
+       "surface": "ゆっくり",
+       "pos": "adverb",
+       "romaji": "yukkuri",
+       "gloss": "slowly, leisurely"
+      },
+      {
+       "surface": "カフェ",
+       "pos": "noun",
+       "romaji": "kafe",
+       "gloss": "cafe"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "particle: and (non-exhaustive listing)"
+      },
+      {
+       "surface": "レストラン",
+       "pos": "noun",
+       "romaji": "resutoran",
+       "gloss": "restaurant"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "休む",
+       "pos": "verb",
+       "reading": "やすむ",
+       "romaji": "yasumu",
+       "gloss": "to rest"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing (abstract), nominalizer"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to, can"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In the park there is a shop called \"Marizon\" on the sea, where you can relax at a cafe or restaurant while looking at the ocean.",
+     "audioStart": 218.856,
+     "audioEnd": 228.288
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "【シーサイドももち海浜公園】Google Mapで場所をみる",
+     "tokens": [
+      {
+       "surface": "【",
+       "pos": "punct"
+      },
+      {
+       "surface": "シーサイド",
+       "pos": "noun",
+       "romaji": "shiisaido",
+       "gloss": "seaside"
+      },
+      {
+       "surface": "ももち",
+       "pos": "noun",
+       "romaji": "momochi",
+       "gloss": "Momochi (place name)"
+      },
+      {
+       "surface": "海浜公園",
+       "pos": "noun",
+       "reading": "かいひんこうえん",
+       "romaji": "kaihinkouen",
+       "gloss": "seaside park"
+      },
+      {
+       "surface": "】",
+       "pos": "punct"
+      },
+      {
+       "surface": "Google",
+       "pos": "noun",
+       "gloss": "Google"
+      },
+      {
+       "surface": "Map",
+       "pos": "noun",
+       "gloss": "map"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "みる",
+       "pos": "verb",
+       "romaji": "miru",
+       "gloss": "to see, look"
+      }
+     ],
+     "translation": "[Seaside Momochi Seaside Park] View the location on Google Maps",
+     "audioStart": 228.288,
+     "audioEnd": 234.048
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "さらに　公園には、234ｍの　高さから　福岡の　景色を　360°　見ることが　できる「福岡タワー」が　あります。",
+     "tokens": [
+      {
+       "surface": "さらに",
+       "pos": "adverb",
+       "romaji": "sarani",
+       "gloss": "furthermore, in addition"
+      },
+      {
+       "surface": "公園",
+       "pos": "noun",
+       "reading": "こうえん",
+       "romaji": "kouen",
+       "gloss": "park"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "234",
+       "pos": "noun",
+       "gloss": "two hundred thirty-four"
+      },
+      {
+       "surface": "ｍ",
+       "pos": "noun",
+       "gloss": "meters"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "高さ",
+       "pos": "noun",
+       "reading": "たかさ",
+       "romaji": "takasa",
+       "gloss": "height"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from, since"
+      },
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "景色",
+       "pos": "noun",
+       "reading": "けしき",
+       "romaji": "keshiki",
+       "gloss": "scenery, view"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "360",
+       "pos": "noun",
+       "gloss": "three hundred sixty"
+      },
+      {
+       "surface": "°",
+       "pos": "punct"
+      },
+      {
+       "surface": "見る",
+       "pos": "verb",
+       "reading": "みる",
+       "romaji": "miru",
+       "gloss": "to see, look"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing (abstract), nominalizer"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "できる",
+       "pos": "verb",
+       "romaji": "dekiru",
+       "gloss": "to be able to, can"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "タワー",
+       "pos": "noun",
+       "romaji": "tawaa",
+       "gloss": "tower"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, there is (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Furthermore, in the park there is \"Fukuoka Tower,\" where you can see a 360° view of Fukuoka from a height of 234m.",
+     "audioStart": 234.048,
+     "audioEnd": 245.232
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "夜も、　夜の　福岡の　街の　景色と、タワーの　ライトアップが　きれいです！",
+     "tokens": [
+      {
+       "surface": "夜",
+       "pos": "noun",
+       "reading": "よる",
+       "romaji": "yoru",
+       "gloss": "night"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "夜",
+       "pos": "noun",
+       "reading": "よる",
+       "romaji": "yoru",
+       "gloss": "night"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "街",
+       "pos": "noun",
+       "reading": "まち",
+       "romaji": "machi",
+       "gloss": "town, city"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "景色",
+       "pos": "noun",
+       "reading": "けしき",
+       "romaji": "keshiki",
+       "gloss": "scenery, view"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: and, with"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "タワー",
+       "pos": "noun",
+       "romaji": "tawaa",
+       "gloss": "tower"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "ライトアップ",
+       "pos": "noun",
+       "romaji": "raitoappu",
+       "gloss": "lighting up, illumination"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "きれい",
+       "pos": "adjective",
+       "romaji": "kirei",
+       "gloss": "pretty, beautiful"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula: is (polite)"
+      },
+      {
+       "surface": "！",
+       "pos": "punct"
+      }
+     ],
+     "translation": "At night too, the night view of Fukuoka's cityscape and the tower's lighting are beautiful!",
+     "audioStart": 245.232,
+     "audioEnd": 251.904
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "【福岡タワー】Google Mapで場所をみる",
+     "tokens": [
+      {
+       "surface": "【",
+       "pos": "punct"
+      },
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "タワー",
+       "pos": "noun",
+       "romaji": "tawaa",
+       "gloss": "tower"
+      },
+      {
+       "surface": "】",
+       "pos": "punct"
+      },
+      {
+       "surface": "Google",
+       "pos": "noun",
+       "gloss": "Google"
+      },
+      {
+       "surface": "Map",
+       "pos": "noun",
+       "gloss": "map"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "みる",
+       "pos": "verb",
+       "romaji": "miru",
+       "gloss": "to see, look"
+      }
+     ],
+     "translation": "[Fukuoka Tower] View the location on Google Maps",
+     "audioStart": 251.904,
+     "audioEnd": 256.104
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "1日目　夜｜中洲屋台横丁で　福岡の　料理を　楽しむ！",
+     "tokens": [
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "目",
+       "pos": "suffix",
+       "reading": "め",
+       "romaji": "me",
+       "gloss": "suffix for ordinal counting (e.g. day/th)"
+      },
+      {
+       "surface": "夜",
+       "pos": "noun",
+       "reading": "よる",
+       "romaji": "yoru",
+       "gloss": "night"
+      },
+      {
+       "surface": "｜",
+       "pos": "punct"
+      },
+      {
+       "surface": "中洲",
+       "pos": "noun",
+       "reading": "なかす",
+       "romaji": "nakasu",
+       "gloss": "Nakasu (district in Fukuoka)"
+      },
+      {
+       "surface": "屋台",
+       "pos": "noun",
+       "reading": "やたい",
+       "romaji": "yatai",
+       "gloss": "food stall"
+      },
+      {
+       "surface": "横丁",
+       "pos": "noun",
+       "reading": "よこちょう",
+       "romaji": "yokochou",
+       "gloss": "alley, side street"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "料理",
+       "pos": "noun",
+       "reading": "りょうり",
+       "romaji": "ryouri",
+       "gloss": "cooking, dish"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "楽しむ",
+       "pos": "verb",
+       "reading": "たのしむ",
+       "romaji": "tanoshimu",
+       "gloss": "to enjoy"
+      },
+      {
+       "surface": "！",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Day 1 Night | Enjoy Fukuoka Food at Nakasu Yatai Food Stall Alley!",
+     "audioStart": 256.104,
+     "audioEnd": 262.128
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "「中洲屋台横丁訪れたい　有名な　場所です。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "中洲",
+       "pos": "noun",
+       "reading": "なかす",
+       "romaji": "nakasu",
+       "gloss": "Nakasu (district in Fukuoka)"
+      },
+      {
+       "surface": "屋台",
+       "pos": "noun",
+       "reading": "やたい",
+       "romaji": "yatai",
+       "gloss": "food stall"
+      },
+      {
+       "surface": "横丁",
+       "pos": "noun",
+       "reading": "よこちょう",
+       "romaji": "yokochou",
+       "gloss": "alley, side street"
+      },
+      {
+       "surface": "訪れ",
+       "pos": "verb",
+       "reading": "おとずれ",
+       "romaji": "otozure",
+       "lemma": "訪れる",
+       "gloss": "to visit"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desire suffix)"
+      },
+      {
+       "surface": "有名",
+       "pos": "adjective",
+       "reading": "ゆうめい",
+       "romaji": "yuumei",
+       "gloss": "famous"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula: is/be (plain)"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula: is (polite)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "\"Nakasu Yatai Food Stall Alley\" is a famous place people want to visit.",
+     "audioStart": 262.128,
+     "audioEnd": 267.096
+    },
+    {
+     "text": "海浜公園から　バスで　中洲の　屋台横丁に　行きます。",
+     "tokens": [
+      {
+       "surface": "海浜公園",
+       "pos": "noun",
+       "reading": "かいひんこうえん",
+       "romaji": "kaihinkouen",
+       "gloss": "seaside park"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from, since"
+      },
+      {
+       "surface": "バス",
+       "pos": "noun",
+       "romaji": "basu",
+       "gloss": "bus"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "中洲",
+       "pos": "noun",
+       "reading": "なかす",
+       "romaji": "nakasu",
+       "gloss": "Nakasu (district in Fukuoka)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "屋台",
+       "pos": "noun",
+       "reading": "やたい",
+       "romaji": "yatai",
+       "gloss": "food stall"
+      },
+      {
+       "surface": "横丁",
+       "pos": "noun",
+       "reading": "よこちょう",
+       "romaji": "yokochou",
+       "gloss": "alley, side street"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Take a bus from the seaside park to the food stall alley in Nakasu.",
+     "audioStart": 267.096,
+     "audioEnd": 272.352
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ここでは、カウンター席で　いろいろな　料理を　食べられます。",
+     "tokens": [
+      {
+       "surface": "ここ",
+       "pos": "pronoun",
+       "romaji": "koko",
+       "gloss": "here"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "カウンター",
+       "pos": "noun",
+       "romaji": "kauntaa",
+       "gloss": "counter"
+      },
+      {
+       "surface": "席",
+       "pos": "noun",
+       "reading": "せき",
+       "romaji": "seki",
+       "gloss": "seat"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "いろいろ",
+       "pos": "adjective",
+       "romaji": "iroiro",
+       "gloss": "various"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula: is/be (plain)"
+      },
+      {
+       "surface": "料理",
+       "pos": "noun",
+       "reading": "りょうり",
+       "romaji": "ryouri",
+       "gloss": "cooking, dish"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "られ",
+       "pos": "auxiliary",
+       "romaji": "rare",
+       "lemma": "られる",
+       "gloss": "potential auxiliary: can (do)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Here, you can eat various dishes at counter seats.",
+     "audioStart": 272.352,
+     "audioEnd": 277.68
+    },
+    {
+     "text": "焼き鳥や　おでん、博多ラーメンなどを　福岡の　人たちと　一緒に　楽しみましょう。",
+     "tokens": [
+      {
+       "surface": "焼き鳥",
+       "pos": "noun",
+       "reading": "やきとり",
+       "romaji": "yakitori",
+       "gloss": "grilled chicken skewers"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "particle: and (non-exhaustive listing)"
+      },
+      {
+       "surface": "おでん",
+       "pos": "noun",
+       "romaji": "oden",
+       "gloss": "oden (Japanese stew)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "博多",
+       "pos": "noun",
+       "reading": "はかた",
+       "romaji": "hakata",
+       "gloss": "Hakata (district of Fukuoka)"
+      },
+      {
+       "surface": "ラーメン",
+       "pos": "noun",
+       "romaji": "raamen",
+       "gloss": "ramen"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "たち",
+       "pos": "suffix",
+       "romaji": "tachi",
+       "gloss": "plural suffix for people"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: and, with"
+      },
+      {
+       "surface": "一緒",
+       "pos": "noun",
+       "reading": "いっしょ",
+       "romaji": "issho",
+       "gloss": "together"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "楽しみ",
+       "pos": "verb",
+       "reading": "たのしみ",
+       "romaji": "tanoshimi",
+       "lemma": "楽しむ",
+       "gloss": "to enjoy"
+      },
+      {
+       "surface": "ましょう",
+       "pos": "auxiliary",
+       "romaji": "mashou",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Let's enjoy things like yakitori, oden, and Hakata ramen together with the people of Fukuoka.",
+     "audioStart": 277.68,
+     "audioEnd": 284.784
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "【中洲屋台横丁】Google Mapで場所をみる",
+     "tokens": [
+      {
+       "surface": "【",
+       "pos": "punct"
+      },
+      {
+       "surface": "中洲",
+       "pos": "noun",
+       "reading": "なかす",
+       "romaji": "nakasu",
+       "gloss": "Nakasu (district in Fukuoka)"
+      },
+      {
+       "surface": "屋台",
+       "pos": "noun",
+       "reading": "やたい",
+       "romaji": "yatai",
+       "gloss": "food stall"
+      },
+      {
+       "surface": "横丁",
+       "pos": "noun",
+       "reading": "よこちょう",
+       "romaji": "yokochou",
+       "gloss": "alley, side street"
+      },
+      {
+       "surface": "】",
+       "pos": "punct"
+      },
+      {
+       "surface": "Google",
+       "pos": "noun",
+       "gloss": "Google"
+      },
+      {
+       "surface": "Map",
+       "pos": "noun",
+       "gloss": "map"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "みる",
+       "pos": "verb",
+       "romaji": "miru",
+       "gloss": "to see, look"
+      }
+     ],
+     "translation": "[Nakasu Yatai Food Stall Alley] View the location on Google Maps",
+     "audioStart": 284.784,
+     "audioEnd": 289.656
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "1日目　深夜｜24時間やっている　ドン・キホーテで　おみやげを　買いましょう！",
+     "tokens": [
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "目",
+       "pos": "suffix",
+       "reading": "め",
+       "romaji": "me",
+       "gloss": "suffix for ordinal counting (e.g. day/th)"
+      },
+      {
+       "surface": "深夜",
+       "pos": "noun",
+       "reading": "しんや",
+       "romaji": "shinya",
+       "gloss": "late night"
+      },
+      {
+       "surface": "｜",
+       "pos": "punct"
+      },
+      {
+       "surface": "24",
+       "pos": "noun",
+       "gloss": "twenty-four"
+      },
+      {
+       "surface": "時間",
+       "pos": "noun",
+       "reading": "じかん",
+       "romaji": "jikan",
+       "gloss": "hour, time"
+      },
+      {
+       "surface": "やっ",
+       "pos": "verb",
+       "romaji": "yatsu",
+       "lemma": "やる",
+       "gloss": "to do, to run (a business)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "particle: connective te-form"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "to be, exist (animate) / progressive auxiliary"
+      },
+      {
+       "surface": "ドン・キホーテ",
+       "pos": "noun",
+       "romaji": "don・kihoote",
+       "gloss": "Don Quijote (discount store chain)"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "みやげ",
+       "pos": "noun",
+       "romaji": "miyage",
+       "gloss": "souvenir"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "買い",
+       "pos": "verb",
+       "reading": "かい",
+       "romaji": "kai",
+       "lemma": "買う",
+       "gloss": "to buy"
+      },
+      {
+       "surface": "ましょう",
+       "pos": "auxiliary",
+       "romaji": "mashou",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "！",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Day 1 Late Night | Let's buy souvenirs at Don Quijote, which is open 24 hours!",
+     "audioStart": 289.656,
+     "audioEnd": 296.88
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "「ドン・キホーテ 福岡天神本店」は　24時間やっている　お店です。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "ドン・キホーテ",
+       "pos": "noun",
+       "romaji": "don・kihoote",
+       "gloss": "Don Quijote (discount store chain)"
+      },
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "天神",
+       "pos": "noun",
+       "reading": "てんじん",
+       "romaji": "tenjin",
+       "gloss": "Tenjin (district of Fukuoka)"
+      },
+      {
+       "surface": "本店",
+       "pos": "noun",
+       "reading": "ほんてん",
+       "romaji": "honten",
+       "gloss": "main store, head shop"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "24",
+       "pos": "noun",
+       "gloss": "twenty-four"
+      },
+      {
+       "surface": "時間",
+       "pos": "noun",
+       "reading": "じかん",
+       "romaji": "jikan",
+       "gloss": "hour, time"
+      },
+      {
+       "surface": "やっ",
+       "pos": "verb",
+       "romaji": "yatsu",
+       "lemma": "やる",
+       "gloss": "to do, to run (a business)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "particle: connective te-form"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "to be, exist (animate) / progressive auxiliary"
+      },
+      {
+       "surface": "お店",
+       "pos": "noun",
+       "reading": "おみせ",
+       "romaji": "omise",
+       "gloss": "shop"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula: is (polite)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "\"Don Quijote Fukuoka Tenjin Main Store\" is a shop open 24 hours.",
+     "audioStart": 296.88,
+     "audioEnd": 303.624
+    },
+    {
+     "text": "中洲屋台横丁から　歩いて　行くことが　できます。",
+     "tokens": [
+      {
+       "surface": "中洲",
+       "pos": "noun",
+       "reading": "なかす",
+       "romaji": "nakasu",
+       "gloss": "Nakasu (district in Fukuoka)"
+      },
+      {
+       "surface": "屋台",
+       "pos": "noun",
+       "reading": "やたい",
+       "romaji": "yatai",
+       "gloss": "food stall"
+      },
+      {
+       "surface": "横丁",
+       "pos": "noun",
+       "reading": "よこちょう",
+       "romaji": "yokochou",
+       "gloss": "alley, side street"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from, since"
+      },
+      {
+       "surface": "歩い",
+       "pos": "verb",
+       "reading": "あるい",
+       "romaji": "arui",
+       "lemma": "歩く",
+       "gloss": "to walk"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "particle: connective te-form"
+      },
+      {
+       "surface": "行く",
+       "pos": "verb",
+       "reading": "いく",
+       "romaji": "iku",
+       "gloss": "to go"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing (abstract), nominalizer"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to, can"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You can walk there from Nakasu Yatai Food Stall Alley.",
+     "audioStart": 303.624,
+     "audioEnd": 308.616
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "MATCHAでは、日本に　旅行にきた　外国人が　使える　クーポンを　用意しています。",
+     "tokens": [
+      {
+       "surface": "MATCHA",
+       "pos": "noun",
+       "gloss": "MATCHA (travel media company name)"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "旅行",
+       "pos": "noun",
+       "reading": "りょこう",
+       "romaji": "ryokou",
+       "gloss": "travel, trip"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "き",
+       "pos": "verb",
+       "romaji": "ki",
+       "lemma": "くる",
+       "gloss": "to come"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "外国人",
+       "pos": "noun",
+       "reading": "がいこくじん",
+       "romaji": "gaikokujin",
+       "gloss": "foreigner"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "使える",
+       "pos": "verb",
+       "reading": "つかえる",
+       "romaji": "tsukaeru",
+       "gloss": "can use (potential of 使う)"
+      },
+      {
+       "surface": "クーポン",
+       "pos": "noun",
+       "romaji": "kuupon",
+       "gloss": "coupon"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "用意",
+       "pos": "noun",
+       "reading": "ようい",
+       "romaji": "youi",
+       "gloss": "preparation"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "particle: connective te-form"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be, exist (animate) / progressive auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "MATCHA has prepared coupons that foreign visitors traveling in Japan can use.",
+     "audioStart": 308.616,
+     "audioEnd": 315.744
+    },
+    {
+     "text": "こちらを　使って、福岡の　ドン・キホーテで　ショッピングを　楽しんでくださいね！",
+     "tokens": [
+      {
+       "surface": "こちら",
+       "pos": "pronoun",
+       "romaji": "kochira",
+       "gloss": "this (polite), here"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "使っ",
+       "pos": "verb",
+       "reading": "つかっ",
+       "romaji": "tsukatsu",
+       "lemma": "使う",
+       "gloss": "to use"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "particle: connective te-form"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "ドン・キホーテ",
+       "pos": "noun",
+       "romaji": "don・kihoote",
+       "gloss": "Don Quijote (discount store chain)"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "ショッピング",
+       "pos": "noun",
+       "romaji": "shoppingu",
+       "gloss": "shopping"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "楽しん",
+       "pos": "verb",
+       "reading": "たのしん",
+       "romaji": "tanoshin",
+       "lemma": "楽しむ",
+       "gloss": "to enjoy"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる",
+       "gloss": "to give (polite; used in ~てください)"
+      },
+      {
+       "surface": "ね",
+       "pos": "particle",
+       "romaji": "ne",
+       "gloss": "sentence-final particle: seeking agreement"
+      },
+      {
+       "surface": "！",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Please use this and enjoy shopping at Don Quijote in Fukuoka!",
+     "audioStart": 315.744,
+     "audioEnd": 322.56
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "【ドン・キホーテ 福岡天神本店】Google Mapで場所をみる",
+     "tokens": [
+      {
+       "surface": "【",
+       "pos": "punct"
+      },
+      {
+       "surface": "ドン・キホーテ",
+       "pos": "noun",
+       "romaji": "don・kihoote",
+       "gloss": "Don Quijote (discount store chain)"
+      },
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "天神",
+       "pos": "noun",
+       "reading": "てんじん",
+       "romaji": "tenjin",
+       "gloss": "Tenjin (district of Fukuoka)"
+      },
+      {
+       "surface": "本店",
+       "pos": "noun",
+       "reading": "ほんてん",
+       "romaji": "honten",
+       "gloss": "main store, head shop"
+      },
+      {
+       "surface": "】",
+       "pos": "punct"
+      },
+      {
+       "surface": "Google",
+       "pos": "noun",
+       "gloss": "Google"
+      },
+      {
+       "surface": "Map",
+       "pos": "noun",
+       "gloss": "map"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "みる",
+       "pos": "verb",
+       "romaji": "miru",
+       "gloss": "to see, look"
+      }
+     ],
+     "translation": "[Don Quijote Fukuoka Tenjin Main Store] View the location on Google Maps",
+     "audioStart": 322.56,
+     "audioEnd": 328.776
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "2日目　午前｜大濠公園を　散歩しよう！",
+     "tokens": [
+      {
+       "surface": "2",
+       "pos": "noun",
+       "gloss": "two"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "目",
+       "pos": "suffix",
+       "reading": "め",
+       "romaji": "me",
+       "gloss": "suffix for ordinal counting (e.g. day/th)"
+      },
+      {
+       "surface": "午前",
+       "pos": "noun",
+       "reading": "ごぜん",
+       "romaji": "gozen",
+       "gloss": "morning, a.m."
+      },
+      {
+       "surface": "｜",
+       "pos": "punct"
+      },
+      {
+       "surface": "大濠公園",
+       "pos": "noun",
+       "reading": "おおほりこうえん",
+       "romaji": "oohorikouen",
+       "gloss": "Ohori Park"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "散歩",
+       "pos": "noun",
+       "reading": "さんぽ",
+       "romaji": "sanpo",
+       "gloss": "walk, stroll"
+      },
+      {
+       "surface": "しよう",
+       "pos": "verb",
+       "romaji": "shiyou",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "！",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Day 2 Morning | Let's Walk in Ohori Park!",
+     "audioStart": 328.776,
+     "audioEnd": 333.48
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "2日目の　朝は、「大濠公園」に　行きましょう。",
+     "tokens": [
+      {
+       "surface": "2",
+       "pos": "noun",
+       "gloss": "two"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "目",
+       "pos": "suffix",
+       "reading": "め",
+       "romaji": "me",
+       "gloss": "suffix for ordinal counting (e.g. day/th)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "朝",
+       "pos": "noun",
+       "reading": "あさ",
+       "romaji": "asa",
+       "gloss": "morning"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "大濠公園",
+       "pos": "noun",
+       "reading": "おおほりこうえん",
+       "romaji": "oohorikouen",
+       "gloss": "Ohori Park"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go"
+      },
+      {
+       "surface": "ましょう",
+       "pos": "auxiliary",
+       "romaji": "mashou",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On the morning of Day 2, let's go to \"Ohori Park.\"",
+     "audioStart": 333.48,
+     "audioEnd": 338.16
+    },
+    {
+     "text": "公園には「スターバックス コーヒー 福岡大濠公園店」が　あるので、コーヒーを　飲みながら　散歩を　するのも　いいですよ。",
+     "tokens": [
+      {
+       "surface": "公園",
+       "pos": "noun",
+       "reading": "こうえん",
+       "romaji": "kouen",
+       "gloss": "park"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "スターバックス",
+       "pos": "noun",
+       "romaji": "sutaabakkusu",
+       "gloss": "Starbucks"
+      },
+      {
+       "surface": "コーヒー",
+       "pos": "noun",
+       "romaji": "koohii",
+       "gloss": "coffee"
+      },
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "大濠公園",
+       "pos": "noun",
+       "reading": "おおほりこうえん",
+       "romaji": "oohorikouen",
+       "gloss": "Ohori Park"
+      },
+      {
+       "surface": "店",
+       "pos": "suffix",
+       "reading": "てん",
+       "romaji": "ten",
+       "gloss": "shop, store"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "ある",
+       "pos": "verb",
+       "romaji": "aru",
+       "gloss": "to exist, there is (inanimate)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula: is/be (plain)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "コーヒー",
+       "pos": "noun",
+       "romaji": "koohii",
+       "gloss": "coffee"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "飲み",
+       "pos": "verb",
+       "reading": "のみ",
+       "romaji": "nomi",
+       "lemma": "飲む",
+       "gloss": "to drink"
+      },
+      {
+       "surface": "ながら",
+       "pos": "particle",
+       "romaji": "nagara",
+       "gloss": "while (doing)"
+      },
+      {
+       "surface": "散歩",
+       "pos": "noun",
+       "reading": "さんぽ",
+       "romaji": "sanpo",
+       "gloss": "walk, stroll"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula: is (polite)"
+      },
+      {
+       "surface": "よ",
+       "pos": "particle",
+       "romaji": "yo",
+       "gloss": "sentence-final particle: emphasis"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There is a \"Starbucks Coffee Fukuoka Ohori Park Store\" in the park, so it's also nice to walk while drinking coffee.",
+     "audioStart": 338.16,
+     "audioEnd": 348.12
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ここは　福岡の　人も　よく　来る　場所です。",
+     "tokens": [
+      {
+       "surface": "ここ",
+       "pos": "pronoun",
+       "romaji": "koko",
+       "gloss": "here"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even"
+      },
+      {
+       "surface": "よく",
+       "pos": "adverb",
+       "romaji": "yoku",
+       "gloss": "often, well"
+      },
+      {
+       "surface": "来る",
+       "pos": "verb",
+       "reading": "くる",
+       "romaji": "kuru",
+       "gloss": "to come"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula: is (polite)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "This is a place that people from Fukuoka often visit too.",
+     "audioStart": 348.12,
+     "audioEnd": 352.296
+    },
+    {
+     "text": "犬の　散歩や　ジョギング、ウォーキングをしている　人が　たくさん　います。",
+     "tokens": [
+      {
+       "surface": "犬",
+       "pos": "noun",
+       "reading": "いぬ",
+       "romaji": "inu",
+       "gloss": "dog"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "散歩",
+       "pos": "noun",
+       "reading": "さんぽ",
+       "romaji": "sanpo",
+       "gloss": "walk, stroll"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "particle: and (non-exhaustive listing)"
+      },
+      {
+       "surface": "ジョギング",
+       "pos": "noun",
+       "romaji": "jogingu",
+       "gloss": "jogging"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ウォーキング",
+       "pos": "noun",
+       "romaji": "uookingu",
+       "gloss": "walking (as exercise)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "particle: connective te-form"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "to be, exist (animate) / progressive auxiliary"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be, exist (animate) / progressive auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are many people walking their dogs, jogging, and walking.",
+     "audioStart": 352.296,
+     "audioEnd": 358.32
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "草間彌生さんの　作品(※)を　見ることが　できる「福岡市美術館」も　公園のなかに　あります。",
+     "tokens": [
+      {
+       "surface": "草間",
+       "pos": "noun",
+       "reading": "くさま",
+       "romaji": "kusama",
+       "gloss": "Kusama (surname)"
+      },
+      {
+       "surface": "彌生",
+       "pos": "noun",
+       "reading": "やよい",
+       "romaji": "yayoi",
+       "gloss": "Yayoi (given name)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "honorific title: Mr./Ms."
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "作品",
+       "pos": "noun",
+       "reading": "さくひん",
+       "romaji": "sakuhin",
+       "gloss": "(artistic) work"
+      },
+      {
+       "surface": "(",
+       "pos": "punct"
+      },
+      {
+       "surface": "※",
+       "pos": "punct"
+      },
+      {
+       "surface": ")",
+       "pos": "punct"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "見る",
+       "pos": "verb",
+       "reading": "みる",
+       "romaji": "miru",
+       "gloss": "to see, look"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing (abstract), nominalizer"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "できる",
+       "pos": "verb",
+       "romaji": "dekiru",
+       "gloss": "to be able to, can"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "福岡市",
+       "pos": "noun",
+       "reading": "ふくおかし",
+       "romaji": "fukuokashi",
+       "gloss": "Fukuoka City"
+      },
+      {
+       "surface": "美術館",
+       "pos": "noun",
+       "reading": "びじゅつかん",
+       "romaji": "bijutsukan",
+       "gloss": "art museum"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even"
+      },
+      {
+       "surface": "公園",
+       "pos": "noun",
+       "reading": "こうえん",
+       "romaji": "kouen",
+       "gloss": "park"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "なか",
+       "pos": "noun",
+       "romaji": "naka",
+       "gloss": "inside"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, there is (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The \"Fukuoka Art Museum,\" where you can see works by Yayoi Kusama, is also inside the park.",
+     "audioStart": 358.32,
+     "audioEnd": 366.312
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "【大濠公園】Google Mapで場所をみる",
+     "tokens": [
+      {
+       "surface": "【",
+       "pos": "punct"
+      },
+      {
+       "surface": "大濠公園",
+       "pos": "noun",
+       "reading": "おおほりこうえん",
+       "romaji": "oohorikouen",
+       "gloss": "Ohori Park"
+      },
+      {
+       "surface": "】",
+       "pos": "punct"
+      },
+      {
+       "surface": "Google",
+       "pos": "noun",
+       "gloss": "Google"
+      },
+      {
+       "surface": "Map",
+       "pos": "noun",
+       "gloss": "map"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "みる",
+       "pos": "verb",
+       "romaji": "miru",
+       "gloss": "to see, look"
+      }
+     ],
+     "translation": "[Ohori Park] View the location on Google Maps",
+     "audioStart": 366.312,
+     "audioEnd": 370.608
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "2日目　午後｜太宰府を　楽しもう！",
+     "tokens": [
+      {
+       "surface": "2",
+       "pos": "noun",
+       "gloss": "two"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "目",
+       "pos": "suffix",
+       "reading": "め",
+       "romaji": "me",
+       "gloss": "suffix for ordinal counting (e.g. day/th)"
+      },
+      {
+       "surface": "午後",
+       "pos": "noun",
+       "reading": "ごご",
+       "romaji": "gogo",
+       "gloss": "afternoon, p.m."
+      },
+      {
+       "surface": "｜",
+       "pos": "punct"
+      },
+      {
+       "surface": "太宰府",
+       "pos": "noun",
+       "reading": "だざいふ",
+       "romaji": "dazaifu",
+       "gloss": "Dazaifu (place name)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "楽しもう",
+       "pos": "verb",
+       "reading": "たのしもう",
+       "romaji": "tanoshimou",
+       "lemma": "楽しむ",
+       "gloss": "to enjoy"
+      },
+      {
+       "surface": "！",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Day 2 Afternoon | Let's Enjoy Dazaifu!",
+     "audioStart": 370.608,
+     "audioEnd": 374.472
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "次は、電車に　乗って「太宰府天満宮」へ　行きましょう。",
+     "tokens": [
+      {
+       "surface": "次",
+       "pos": "noun",
+       "reading": "つぎ",
+       "romaji": "tsugi",
+       "gloss": "next"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha",
+       "gloss": "train"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "乗っ",
+       "pos": "verb",
+       "reading": "のっ",
+       "romaji": "notsu",
+       "lemma": "乗る",
+       "gloss": "to ride"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "particle: connective te-form"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "太宰府",
+       "pos": "noun",
+       "reading": "だざいふ",
+       "romaji": "dazaifu",
+       "gloss": "Dazaifu (place name)"
+      },
+      {
+       "surface": "天満宮",
+       "pos": "noun",
+       "reading": "てんまんぐう",
+       "romaji": "tenmanguu",
+       "gloss": "Tenmangu (Shinto shrine dedicated to Sugawara no Michizane)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "particle: direction \"to, toward\""
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go"
+      },
+      {
+       "surface": "ましょう",
+       "pos": "auxiliary",
+       "romaji": "mashou",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Next, let's take a train to \"Dazaifu Tenmangu.\"",
+     "audioStart": 374.472,
+     "audioEnd": 380.16
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "試験などの　合格を　お願いするために　毎年　多くの人が　訪れる　神社です。",
+     "tokens": [
+      {
+       "surface": "試験",
+       "pos": "noun",
+       "reading": "しけん",
+       "romaji": "shiken",
+       "gloss": "exam, test"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "合格",
+       "pos": "noun",
+       "reading": "ごうかく",
+       "romaji": "goukaku",
+       "gloss": "passing (an exam)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "お願い",
+       "pos": "noun",
+       "reading": "おねがい",
+       "romaji": "onegai",
+       "gloss": "request, please"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do"
+      },
+      {
+       "surface": "ため",
+       "pos": "noun",
+       "romaji": "tame",
+       "gloss": "for the purpose of, because of"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "毎年",
+       "pos": "noun",
+       "reading": "まいとし",
+       "romaji": "maitoshi",
+       "gloss": "every year"
+      },
+      {
+       "surface": "多く",
+       "pos": "noun",
+       "reading": "おおく",
+       "romaji": "ooku",
+       "gloss": "many, a lot"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "訪れる",
+       "pos": "verb",
+       "reading": "おとずれる",
+       "romaji": "otozureru",
+       "gloss": "to visit"
+      },
+      {
+       "surface": "神社",
+       "pos": "noun",
+       "reading": "じんじゃ",
+       "romaji": "jinja",
+       "gloss": "shrine"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula: is (polite)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It's a shrine visited by many people every year to pray for success on exams and other things.",
+     "audioStart": 380.16,
+     "audioEnd": 387.192
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "大濠公園から　バスに　10分ほど　乗って　天神駅に　行き、天神駅から　西鉄電車に　20分ほど　乗って　太宰府に　行きます。",
+     "tokens": [
+      {
+       "surface": "大濠公園",
+       "pos": "noun",
+       "reading": "おおほりこうえん",
+       "romaji": "oohorikouen",
+       "gloss": "Ohori Park"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from, since"
+      },
+      {
+       "surface": "バス",
+       "pos": "noun",
+       "romaji": "basu",
+       "gloss": "bus"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "10",
+       "pos": "noun",
+       "gloss": "ten"
+      },
+      {
+       "surface": "分",
+       "pos": "noun",
+       "reading": "ふん",
+       "romaji": "fun",
+       "gloss": "minutes"
+      },
+      {
+       "surface": "ほど",
+       "pos": "particle",
+       "romaji": "hodo",
+       "gloss": "about, approximately"
+      },
+      {
+       "surface": "乗っ",
+       "pos": "verb",
+       "reading": "のっ",
+       "romaji": "notsu",
+       "lemma": "乗る",
+       "gloss": "to ride"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "particle: connective te-form"
+      },
+      {
+       "surface": "天神駅",
+       "pos": "noun",
+       "reading": "てんじんえき",
+       "romaji": "tenjin'eki",
+       "gloss": "Tenjin Station"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "天神駅",
+       "pos": "noun",
+       "reading": "てんじんえき",
+       "romaji": "tenjin'eki",
+       "gloss": "Tenjin Station"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from, since"
+      },
+      {
+       "surface": "西鉄",
+       "pos": "noun",
+       "reading": "にしてつ",
+       "romaji": "nishitetsu",
+       "gloss": "Nishitetsu (railway company)"
+      },
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha",
+       "gloss": "train"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "20",
+       "pos": "noun",
+       "gloss": "twenty"
+      },
+      {
+       "surface": "分",
+       "pos": "noun",
+       "reading": "ふん",
+       "romaji": "fun",
+       "gloss": "minutes"
+      },
+      {
+       "surface": "ほど",
+       "pos": "particle",
+       "romaji": "hodo",
+       "gloss": "about, approximately"
+      },
+      {
+       "surface": "乗っ",
+       "pos": "verb",
+       "reading": "のっ",
+       "romaji": "notsu",
+       "lemma": "乗る",
+       "gloss": "to ride"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "particle: connective te-form"
+      },
+      {
+       "surface": "太宰府",
+       "pos": "noun",
+       "reading": "だざいふ",
+       "romaji": "dazaifu",
+       "gloss": "Dazaifu (place name)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "From Ohori Park, ride a bus for about 10 minutes to Tenjin Station, then from Tenjin Station ride the Nishitetsu train for about 20 minutes to get to Dazaifu.",
+     "audioStart": 387.192,
+     "audioEnd": 398.136
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "神社へ　行くまでの　道には　たくさん　お店が　並んでいます。",
+     "tokens": [
+      {
+       "surface": "神社",
+       "pos": "noun",
+       "reading": "じんじゃ",
+       "romaji": "jinja",
+       "gloss": "shrine"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "particle: direction \"to, toward\""
+      },
+      {
+       "surface": "行く",
+       "pos": "verb",
+       "reading": "いく",
+       "romaji": "iku",
+       "gloss": "to go"
+      },
+      {
+       "surface": "まで",
+       "pos": "particle",
+       "romaji": "made",
+       "gloss": "until, up to"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "道",
+       "pos": "noun",
+       "reading": "みち",
+       "romaji": "michi",
+       "gloss": "road, street"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many"
+      },
+      {
+       "surface": "お店",
+       "pos": "noun",
+       "reading": "おみせ",
+       "romaji": "omise",
+       "gloss": "shop"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "並ん",
+       "pos": "verb",
+       "reading": "ならん",
+       "romaji": "naran",
+       "lemma": "並ぶ",
+       "gloss": "to line up"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be, exist (animate) / progressive auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Along the road to the shrine, many shops line the street.",
+     "audioStart": 398.136,
+     "audioEnd": 403.512
+    },
+    {
+     "text": "あんこが　入った　おかしの　梅ヶ枝餅が　有名です。",
+     "tokens": [
+      {
+       "surface": "あんこ",
+       "pos": "noun",
+       "romaji": "anko",
+       "gloss": "sweet red bean paste"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "入っ",
+       "pos": "verb",
+       "reading": "はいっ",
+       "romaji": "haitsu",
+       "lemma": "入る",
+       "gloss": "to enter, be contained in"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "かし",
+       "pos": "noun",
+       "romaji": "kashi",
+       "gloss": "sweets, confectionery"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "梅ヶ枝",
+       "pos": "noun",
+       "reading": "うめがえ",
+       "romaji": "umegae",
+       "gloss": "Umegae (place/name, \"plum branch\")"
+      },
+      {
+       "surface": "餅",
+       "pos": "noun",
+       "reading": "もち",
+       "romaji": "mochi",
+       "gloss": "mochi, rice cake"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "有名",
+       "pos": "adjective",
+       "reading": "ゆうめい",
+       "romaji": "yuumei",
+       "gloss": "famous"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula: is (polite)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Umegae-mochi, a sweet filled with red bean paste, is famous.",
+     "audioStart": 403.512,
+     "audioEnd": 408.408
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "【太宰府天満宮】Google Mapで場所をみる",
+     "tokens": [
+      {
+       "surface": "【",
+       "pos": "punct"
+      },
+      {
+       "surface": "太宰府",
+       "pos": "noun",
+       "reading": "だざいふ",
+       "romaji": "dazaifu",
+       "gloss": "Dazaifu (place name)"
+      },
+      {
+       "surface": "天満宮",
+       "pos": "noun",
+       "reading": "てんまんぐう",
+       "romaji": "tenmanguu",
+       "gloss": "Tenmangu (Shinto shrine dedicated to Sugawara no Michizane)"
+      },
+      {
+       "surface": "】",
+       "pos": "punct"
+      },
+      {
+       "surface": "Google",
+       "pos": "noun",
+       "gloss": "Google"
+      },
+      {
+       "surface": "Map",
+       "pos": "noun",
+       "gloss": "map"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "みる",
+       "pos": "verb",
+       "romaji": "miru",
+       "gloss": "to see, look"
+      }
+     ],
+     "translation": "[Dazaifu Tenmangu] View the location on Google Maps",
+     "audioStart": 408.408,
+     "audioEnd": 412.896
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "2日目　夕方｜空港まで　15分！",
+     "tokens": [
+      {
+       "surface": "2",
+       "pos": "noun",
+       "gloss": "two"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "目",
+       "pos": "suffix",
+       "reading": "め",
+       "romaji": "me",
+       "gloss": "suffix for ordinal counting (e.g. day/th)"
+      },
+      {
+       "surface": "夕方",
+       "pos": "noun",
+       "reading": "ゆうがた",
+       "romaji": "yuugata",
+       "gloss": "evening"
+      },
+      {
+       "surface": "｜",
+       "pos": "punct"
+      },
+      {
+       "surface": "空港",
+       "pos": "noun",
+       "reading": "くうこう",
+       "romaji": "kuukou",
+       "gloss": "airport"
+      },
+      {
+       "surface": "まで",
+       "pos": "particle",
+       "romaji": "made",
+       "gloss": "until, up to"
+      },
+      {
+       "surface": "15",
+       "pos": "noun",
+       "gloss": "fifteen"
+      },
+      {
+       "surface": "分",
+       "pos": "noun",
+       "reading": "ふん",
+       "romaji": "fun",
+       "gloss": "minutes"
+      },
+      {
+       "surface": "！",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Day 2 Evening | 15 Minutes to the Airport!",
+     "audioStart": 412.896,
+     "audioEnd": 417.336
+    },
+    {
+     "text": "博多JRシティで　最後まで　料理や　ショッピングを　楽しもう",
+     "tokens": [
+      {
+       "surface": "博多",
+       "pos": "noun",
+       "reading": "はかた",
+       "romaji": "hakata",
+       "gloss": "Hakata (district of Fukuoka)"
+      },
+      {
+       "surface": "JR",
+       "pos": "noun",
+       "gloss": "Japan Railways"
+      },
+      {
+       "surface": "シティ",
+       "pos": "noun",
+       "romaji": "shitei",
+       "gloss": "city"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "最後",
+       "pos": "noun",
+       "reading": "さいご",
+       "romaji": "saigo",
+       "gloss": "the last, final"
+      },
+      {
+       "surface": "まで",
+       "pos": "particle",
+       "romaji": "made",
+       "gloss": "until, up to"
+      },
+      {
+       "surface": "料理",
+       "pos": "noun",
+       "reading": "りょうり",
+       "romaji": "ryouri",
+       "gloss": "cooking, dish"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "particle: and (non-exhaustive listing)"
+      },
+      {
+       "surface": "ショッピング",
+       "pos": "noun",
+       "romaji": "shoppingu",
+       "gloss": "shopping"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "楽しもう",
+       "pos": "verb",
+       "reading": "たのしもう",
+       "romaji": "tanoshimou",
+       "lemma": "楽しむ",
+       "gloss": "to enjoy"
+      }
+     ],
+     "translation": "Enjoy food and shopping to the very end at Hakata JR City",
+     "audioStart": 417.336,
+     "audioEnd": 422.976
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "旅行の　最後は　太宰府から　電車で　博多駅に　行って、駅から　そのまま　行ける「博多JRシティ」に　行きましょう。",
+     "tokens": [
+      {
+       "surface": "旅行",
+       "pos": "noun",
+       "reading": "りょこう",
+       "romaji": "ryokou",
+       "gloss": "travel, trip"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "最後",
+       "pos": "noun",
+       "reading": "さいご",
+       "romaji": "saigo",
+       "gloss": "the last, final"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "太宰府",
+       "pos": "noun",
+       "reading": "だざいふ",
+       "romaji": "dazaifu",
+       "gloss": "Dazaifu (place name)"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from, since"
+      },
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha",
+       "gloss": "train"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "博多駅",
+       "pos": "noun",
+       "reading": "はかたえき",
+       "romaji": "hakataeki",
+       "gloss": "Hakata Station"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "行っ",
+       "pos": "verb",
+       "reading": "いっ",
+       "romaji": "itsu",
+       "lemma": "行く",
+       "gloss": "to go"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "particle: connective te-form"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "駅",
+       "pos": "noun",
+       "reading": "えき",
+       "romaji": "eki",
+       "gloss": "station"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from, since"
+      },
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that"
+      },
+      {
+       "surface": "まま",
+       "pos": "noun",
+       "romaji": "mama",
+       "gloss": "as is, unchanged"
+      },
+      {
+       "surface": "行ける",
+       "pos": "verb",
+       "reading": "いける",
+       "romaji": "ikeru",
+       "gloss": "can go (potential of 行く)"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "博多",
+       "pos": "noun",
+       "reading": "はかた",
+       "romaji": "hakata",
+       "gloss": "Hakata (district of Fukuoka)"
+      },
+      {
+       "surface": "JR",
+       "pos": "noun",
+       "gloss": "Japan Railways"
+      },
+      {
+       "surface": "シティ",
+       "pos": "noun",
+       "romaji": "shitei",
+       "gloss": "city"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go"
+      },
+      {
+       "surface": "ましょう",
+       "pos": "auxiliary",
+       "romaji": "mashou",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "At the end of the trip, take the train from Dazaifu to Hakata Station, and let's go to \"Hakata JR City,\" which you can reach directly from the station.",
+     "audioStart": 422.976,
+     "audioEnd": 432.696
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "博多JRシティは、「博多阪急」、「KITTE博多」、「アミュプラザ博多」など　お店が　たくさん　あります。",
+     "tokens": [
+      {
+       "surface": "博多",
+       "pos": "noun",
+       "reading": "はかた",
+       "romaji": "hakata",
+       "gloss": "Hakata (district of Fukuoka)"
+      },
+      {
+       "surface": "JR",
+       "pos": "noun",
+       "gloss": "Japan Railways"
+      },
+      {
+       "surface": "シティ",
+       "pos": "noun",
+       "romaji": "shitei",
+       "gloss": "city"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "博多",
+       "pos": "noun",
+       "reading": "はかた",
+       "romaji": "hakata",
+       "gloss": "Hakata (district of Fukuoka)"
+      },
+      {
+       "surface": "阪急",
+       "pos": "noun",
+       "reading": "はんきゅう",
+       "romaji": "hankyuu",
+       "gloss": "Hankyu (department store/railway brand)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "KITTE",
+       "pos": "noun",
+       "gloss": "KITTE (commercial building name)"
+      },
+      {
+       "surface": "博多",
+       "pos": "noun",
+       "reading": "はかた",
+       "romaji": "hakata",
+       "gloss": "Hakata (district of Fukuoka)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "アミュプラザ",
+       "pos": "noun",
+       "romaji": "amyupuraza",
+       "gloss": "Amu Plaza (shopping building name)"
+      },
+      {
+       "surface": "博多",
+       "pos": "noun",
+       "reading": "はかた",
+       "romaji": "hakata",
+       "gloss": "Hakata (district of Fukuoka)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "お店",
+       "pos": "noun",
+       "reading": "おみせ",
+       "romaji": "omise",
+       "gloss": "shop"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, there is (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Hakata JR City has many shops, such as \"Hakata Hankyu,\" \"KITTE Hakata,\" and \"Amu Plaza Hakata.\"",
+     "audioStart": 432.696,
+     "audioEnd": 441.768
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "そこで　買い物も　料理も　楽しめます。",
+     "tokens": [
+      {
+       "surface": "そこ",
+       "pos": "pronoun",
+       "romaji": "soko",
+       "gloss": "there"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "買い物",
+       "pos": "noun",
+       "reading": "かいもの",
+       "romaji": "kaimono",
+       "gloss": "shopping"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even"
+      },
+      {
+       "surface": "料理",
+       "pos": "noun",
+       "reading": "りょうり",
+       "romaji": "ryouri",
+       "gloss": "cooking, dish"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even"
+      },
+      {
+       "surface": "楽しめ",
+       "pos": "verb",
+       "reading": "たのしめ",
+       "romaji": "tanoshime",
+       "lemma": "楽しめる",
+       "gloss": "can enjoy (potential of 楽しむ)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There, you can enjoy both shopping and food.",
+     "audioStart": 441.768,
+     "audioEnd": 445.584
+    },
+    {
+     "text": "博多駅から　福岡空港まで　電車で　15分くらいで　行けるので、最後まで　福岡旅行を　楽しむことが　できますよ！",
+     "tokens": [
+      {
+       "surface": "博多駅",
+       "pos": "noun",
+       "reading": "はかたえき",
+       "romaji": "hakataeki",
+       "gloss": "Hakata Station"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from, since"
+      },
+      {
+       "surface": "福岡空港",
+       "pos": "noun",
+       "reading": "ふくおかくうこう",
+       "romaji": "fukuokakuukou",
+       "gloss": "Fukuoka Airport"
+      },
+      {
+       "surface": "まで",
+       "pos": "particle",
+       "romaji": "made",
+       "gloss": "until, up to"
+      },
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha",
+       "gloss": "train"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "15",
+       "pos": "noun",
+       "gloss": "fifteen"
+      },
+      {
+       "surface": "分",
+       "pos": "noun",
+       "reading": "ふん",
+       "romaji": "fun",
+       "gloss": "minutes"
+      },
+      {
+       "surface": "くらい",
+       "pos": "particle",
+       "romaji": "kurai",
+       "gloss": "about, approximately"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "行ける",
+       "pos": "verb",
+       "reading": "いける",
+       "romaji": "ikeru",
+       "gloss": "can go (potential of 行く)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula: is/be (plain)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "最後",
+       "pos": "noun",
+       "reading": "さいご",
+       "romaji": "saigo",
+       "gloss": "the last, final"
+      },
+      {
+       "surface": "まで",
+       "pos": "particle",
+       "romaji": "made",
+       "gloss": "until, up to"
+      },
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "旅行",
+       "pos": "noun",
+       "reading": "りょこう",
+       "romaji": "ryokou",
+       "gloss": "travel, trip"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "楽しむ",
+       "pos": "verb",
+       "reading": "たのしむ",
+       "romaji": "tanoshimu",
+       "gloss": "to enjoy"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing (abstract), nominalizer"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to, can"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "よ",
+       "pos": "particle",
+       "romaji": "yo",
+       "gloss": "sentence-final particle: emphasis"
+      },
+      {
+       "surface": "！",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You can get from Hakata Station to Fukuoka Airport by train in about 15 minutes, so you can enjoy your Fukuoka trip right up to the end!",
+     "audioStart": 445.584,
+     "audioEnd": 455.544
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "【JR博多シティ】Google Mapで場所をみる",
+     "tokens": [
+      {
+       "surface": "【",
+       "pos": "punct"
+      },
+      {
+       "surface": "JR",
+       "pos": "noun",
+       "gloss": "Japan Railways"
+      },
+      {
+       "surface": "博多",
+       "pos": "noun",
+       "reading": "はかた",
+       "romaji": "hakata",
+       "gloss": "Hakata (district of Fukuoka)"
+      },
+      {
+       "surface": "シティ",
+       "pos": "noun",
+       "romaji": "shitei",
+       "gloss": "city"
+      },
+      {
+       "surface": "】",
+       "pos": "punct"
+      },
+      {
+       "surface": "Google",
+       "pos": "noun",
+       "gloss": "Google"
+      },
+      {
+       "surface": "Map",
+       "pos": "noun",
+       "gloss": "map"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "みる",
+       "pos": "verb",
+       "romaji": "miru",
+       "gloss": "to see, look"
+      }
+     ],
+     "translation": "[JR Hakata City] View the location on Google Maps",
+     "audioStart": 455.544,
+     "audioEnd": 460.176
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "1泊2日の　福岡旅行を　楽しもう！",
+     "tokens": [
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "泊",
+       "pos": "noun",
+       "reading": "はく",
+       "romaji": "haku",
+       "gloss": "counter for overnight stays"
+      },
+      {
+       "surface": "2",
+       "pos": "noun",
+       "gloss": "two"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "particle: possessive/modifying \"of\""
+      },
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "旅行",
+       "pos": "noun",
+       "reading": "りょこう",
+       "romaji": "ryokou",
+       "gloss": "travel, trip"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "楽しもう",
+       "pos": "verb",
+       "reading": "たのしもう",
+       "romaji": "tanoshimou",
+       "lemma": "楽しむ",
+       "gloss": "to enjoy"
+      },
+      {
+       "surface": "！",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Let's Enjoy a One Night, Two Day Trip to Fukuoka!",
+     "audioStart": 460.176,
+     "audioEnd": 464.304
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "福岡には　ショッピングが　できる場所や　料理が　おいしい　店、公園など　たくさん　楽しい　場所が　あります。",
+     "tokens": [
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "ショッピング",
+       "pos": "noun",
+       "romaji": "shoppingu",
+       "gloss": "shopping"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "できる",
+       "pos": "verb",
+       "romaji": "dekiru",
+       "gloss": "to be able to, can"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "particle: and (non-exhaustive listing)"
+      },
+      {
+       "surface": "料理",
+       "pos": "noun",
+       "reading": "りょうり",
+       "romaji": "ryouri",
+       "gloss": "cooking, dish"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "おいしい",
+       "pos": "adjective",
+       "romaji": "oishii",
+       "gloss": "delicious"
+      },
+      {
+       "surface": "店",
+       "pos": "noun",
+       "reading": "みせ",
+       "romaji": "mise",
+       "gloss": "shop, store"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "公園",
+       "pos": "noun",
+       "reading": "こうえん",
+       "romaji": "kouen",
+       "gloss": "park"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many"
+      },
+      {
+       "surface": "楽しい",
+       "pos": "adjective",
+       "reading": "たのしい",
+       "romaji": "tanoshii",
+       "gloss": "fun, enjoyable"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "particle: subject marker"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, there is (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Fukuoka has many fun places, such as places to shop, restaurants with delicious food, and parks.",
+     "audioStart": 464.304,
+     "audioEnd": 472.848
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "この記事で　紹介した　ルートで　ぜひ、福岡を　楽しんで　ください！",
+     "tokens": [
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this"
+      },
+      {
+       "surface": "記事",
+       "pos": "noun",
+       "reading": "きじ",
+       "romaji": "kiji",
+       "gloss": "article"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "紹介",
+       "pos": "noun",
+       "reading": "しょうかい",
+       "romaji": "shoukai",
+       "gloss": "introduction"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "ルート",
+       "pos": "noun",
+       "romaji": "ruuto",
+       "gloss": "route"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "ぜひ",
+       "pos": "adverb",
+       "romaji": "zehi",
+       "gloss": "by all means, definitely"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "福岡",
+       "pos": "noun",
+       "reading": "ふくおか",
+       "romaji": "fukuoka",
+       "gloss": "Fukuoka (city/prefecture)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "楽しん",
+       "pos": "verb",
+       "reading": "たのしん",
+       "romaji": "tanoshin",
+       "lemma": "楽しむ",
+       "gloss": "to enjoy"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location of action)"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる",
+       "gloss": "to give (polite; used in ~てください)"
+      },
+      {
+       "surface": "！",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Please be sure to enjoy Fukuoka using the route introduced in this article!",
+     "audioStart": 472.848,
+     "audioEnd": 478.656
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "2022年5月24日に書いた記事を、2023年10月にリライトしました。",
+     "tokens": [
+      {
+       "surface": "2022",
+       "pos": "noun",
+       "gloss": "two thousand twenty-two"
+      },
+      {
+       "surface": "年",
+       "pos": "noun",
+       "reading": "ねん",
+       "romaji": "nen",
+       "gloss": "year"
+      },
+      {
+       "surface": "5",
+       "pos": "noun",
+       "gloss": "five"
+      },
+      {
+       "surface": "月",
+       "pos": "noun",
+       "reading": "がつ",
+       "romaji": "gatsu",
+       "gloss": "month"
+      },
+      {
+       "surface": "24",
+       "pos": "noun",
+       "gloss": "twenty-four"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "書い",
+       "pos": "verb",
+       "reading": "かい",
+       "romaji": "kai",
+       "lemma": "書く",
+       "gloss": "to write"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "記事",
+       "pos": "noun",
+       "reading": "きじ",
+       "romaji": "kiji",
+       "gloss": "article"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "particle: direct object marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "2023",
+       "pos": "noun",
+       "gloss": "two thousand twenty-three"
+      },
+      {
+       "surface": "年",
+       "pos": "noun",
+       "reading": "ねん",
+       "romaji": "nen",
+       "gloss": "year"
+      },
+      {
+       "surface": "10",
+       "pos": "noun",
+       "gloss": "ten"
+      },
+      {
+       "surface": "月",
+       "pos": "noun",
+       "reading": "がつ",
+       "romaji": "gatsu",
+       "gloss": "month"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to, into (direction/result)"
+      },
+      {
+       "surface": "リライト",
+       "pos": "noun",
+       "romaji": "riraito",
+       "gloss": "rewrite"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "This article, originally written on May 24, 2022, was rewritten in October 2023.",
+     "audioStart": 478.656,
+     "audioEnd": 487.296
+    }
+   ]
+  }
+ ]
+}

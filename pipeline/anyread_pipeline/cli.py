@@ -125,24 +125,41 @@ _NL_NOT_ARTICLES = re.compile(
 
 
 def list_ja_news(limit: int = 10) -> list[tuple[str, str]]:
-    """(title, url) from NHK RSS, main category first."""
+    """(title, url): Yahoo News briefs plus Matcha easy-Japanese articles.
+
+    (NHK moved article bodies behind the authenticated NHK ONE app in 2026,
+    so its pages only serve teasers now.)
+    """
     out: list[tuple[str, str]] = []
     seen: set[str] = set()
-    for cat in ("cat0", "cat3", "cat6", "cat1", "cat7"):
+    n_easy = max(1, limit // 3)  # a third from Matcha (easier level)
+    try:
+        html = _http_get("https://matcha-jp.com/easy")
+        for url in dict.fromkeys(re.findall(r'https://matcha-jp\.com/easy/\d+', html)):
+            out.append(("(easy) " + url.rsplit("/", 1)[-1], url))
+            if len(out) >= n_easy:
+                break
+    except Exception:
+        pass
+    for feed in ("top-picks", "domestic", "science", "world", "business", "it"):
         if len(out) >= limit:
             break
         try:
-            xml = _http_get(f"https://www3.nhk.or.jp/rss/news/{cat}.xml")
+            xml = _http_get(f"https://news.yahoo.co.jp/rss/topics/{feed}.xml")
         except Exception:
             continue
         for item in re.findall(r"<item>.*?</item>", xml, re.S):
             title = re.search(r"<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</title>", item, re.S)
             link = re.search(r"<link>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</link>", item, re.S)
-            if title and link and link.group(1).strip() not in seen:
-                seen.add(link.group(1).strip())
-                out.append((title.group(1).strip(), link.group(1).strip()))
-                if len(out) >= limit:
-                    break
+            if not (title and link):
+                continue
+            url = link.group(1).strip().split("?")[0]
+            if "/pickup/" not in url or url in seen:
+                continue
+            seen.add(url)
+            out.append((title.group(1).strip(), url))
+            if len(out) >= limit:
+                break
     return out
 
 

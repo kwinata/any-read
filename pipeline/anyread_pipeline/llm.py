@@ -35,13 +35,18 @@ def tidy(title: str, text: str) -> str:
     prompt = f"""Below is text extracted from a news webpage. It is the body of the article
 titled: {title}
 
-Some lines are NOT part of the article: navigation labels, app or newsletter promotions
-(e.g. "NHK ONEニュース・防災アプリ"), related-article teasers, category names, share buttons,
-stray fragments, or the bare site name. Remove those lines.
+Some lines are NOT part of the article: navigation labels, app or newsletter promotions,
+related-article teasers (e.g. lines starting with 【画像】 or 【動画】), category names,
+share buttons, photo credits, stray fragments, or the bare site name. Remove those lines.
 
-Keep every sentence that belongs to the article body itself, VERBATIM — do not rewrite,
-reorder, translate, shorten, or add anything. Keep the original paragraph breaks
-(paragraphs separated by a blank line). Reply with ONLY the cleaned article text.
+Additionally, if the text contains inline learning annotations in parentheses — kana
+readings or English glosses attached to words, e.g. 日本(にほん) or 秘密(secret) — remove
+the parenthetical annotation and keep just the word: 日本(にほん) becomes 日本. Also remove
+stray spaces WITHIN Japanese sentences that only existed to separate those annotations.
+
+Otherwise keep every sentence of the article body VERBATIM — do not rewrite, reorder,
+translate, shorten, or add anything. Keep the original paragraph breaks (paragraphs
+separated by a blank line). Reply with ONLY the cleaned article text.
 
 Text:
 {text}"""

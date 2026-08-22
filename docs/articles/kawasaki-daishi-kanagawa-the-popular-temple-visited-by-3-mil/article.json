@@ -1,0 +1,6355 @@
+{
+ "schemaVersion": 1,
+ "id": "kawasaki-daishi-kanagawa-the-popular-temple-visited-by-3-mil",
+ "language": "ja",
+ "title": "3日間で 300万人が訪れる人気のお寺・神奈川「川崎大師」",
+ "titleTranslation": "Kawasaki Daishi, Kanagawa: The Popular Temple Visited by 3 Million People in 3 Days",
+ "level": "N4",
+ "summary": "This article introduces Kawasaki Daishi, a historic temple in Kanagawa Prefecture founded in 1128 that enshrines the monk Kobo Daishi Kukai and draws about 3 million visitors over the New Year holiday, describing its main hall, octagonal pagoda, ponds, bridges, and Yakushi Hall.",
+ "sourceUrl": "https://matcha-jp.com/easy/1249",
+ "createdAt": "2026-08-22T16:19:06+00:00",
+ "audioFile": "audio.mp3",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "川崎大師は　神奈川県に　あります。",
+     "tokens": [
+      {
+       "surface": "川崎大師",
+       "pos": "noun",
+       "reading": "かわさきだいし",
+       "romaji": "kawasakidaishi",
+       "gloss": "Kawasaki Daishi (temple name)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "神奈川県",
+       "pos": "noun",
+       "reading": "かながわけん",
+       "romaji": "kanagawaken",
+       "gloss": "Kanagawa Prefecture"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, be located (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Kawasaki Daishi is located in Kanagawa Prefecture.",
+     "audioStart": 0.0,
+     "audioEnd": 4.056
+    },
+    {
+     "text": "日本で　密教を　ひろめた　弘法大師空海を　まつったお寺です。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location-of-action particle (in/at)"
+      },
+      {
+       "surface": "密教",
+       "pos": "noun",
+       "reading": "みっきょう",
+       "romaji": "mikkyou",
+       "gloss": "esoteric Buddhism"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "ひろめ",
+       "pos": "verb",
+       "romaji": "hirome",
+       "lemma": "ひろめる",
+       "gloss": "to spread, propagate"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "弘法",
+       "pos": "noun",
+       "reading": "こうぼう",
+       "romaji": "koubou",
+       "gloss": "Kobo (part of honorific name)"
+      },
+      {
+       "surface": "大師",
+       "pos": "noun",
+       "reading": "だいし",
+       "romaji": "daishi",
+       "gloss": "great teacher, master (Buddhist title)"
+      },
+      {
+       "surface": "空海",
+       "pos": "noun",
+       "reading": "くうかい",
+       "romaji": "kuukai",
+       "gloss": "Kukai (monk's name)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "まつっ",
+       "pos": "verb",
+       "romaji": "matsutsu",
+       "lemma": "まつる",
+       "gloss": "to enshrine, worship"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "寺",
+       "pos": "noun",
+       "reading": "てら",
+       "romaji": "tera",
+       "gloss": "temple"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is a temple that enshrines Kobo Daishi Kukai, who spread esoteric Buddhism in Japan.",
+     "audioStart": 4.056,
+     "audioEnd": 10.032
+    },
+    {
+     "text": "お正月には　3日間で　だいたい　300万人が　おとずれます。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "正月",
+       "pos": "noun",
+       "reading": "しょうがつ",
+       "romaji": "shougatsu",
+       "gloss": "New Year (season)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "3",
+       "pos": "noun",
+       "gloss": "three"
+      },
+      {
+       "surface": "日間",
+       "pos": "noun",
+       "reading": "にちかん",
+       "romaji": "nichikan",
+       "gloss": "period of ~ days"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location-of-action particle (in/at)"
+      },
+      {
+       "surface": "だいたい",
+       "pos": "noun",
+       "romaji": "daitai",
+       "gloss": "approximately, roughly"
+      },
+      {
+       "surface": "300万",
+       "pos": "noun",
+       "reading": "さんれいれいまん",
+       "romaji": "sanreireiman",
+       "gloss": "three million"
+      },
+      {
+       "surface": "人",
+       "pos": "suffix",
+       "reading": "にん",
+       "romaji": "nin",
+       "gloss": "person, people"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "おとずれ",
+       "pos": "verb",
+       "romaji": "otozure",
+       "lemma": "おとずれる",
+       "gloss": "to visit"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "During New Year's, about 3 million people visit in three days.",
+     "audioStart": 10.032,
+     "audioEnd": 15.768
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "川崎大師は　どんな　お寺？",
+     "tokens": [
+      {
+       "surface": "川崎大師",
+       "pos": "noun",
+       "reading": "かわさきだいし",
+       "romaji": "kawasakidaishi",
+       "gloss": "Kawasaki Daishi (temple name)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "どんな",
+       "pos": "prenominal",
+       "romaji": "donna",
+       "gloss": "what kind of"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "寺",
+       "pos": "noun",
+       "reading": "てら",
+       "romaji": "tera",
+       "gloss": "temple"
+      },
+      {
+       "surface": "？",
+       "pos": "punct"
+      }
+     ],
+     "translation": "What kind of temple is Kawasaki Daishi?",
+     "audioStart": 15.768,
+     "audioEnd": 19.008
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "「川崎大師」は　神奈川県　川崎市に　あります。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "川崎大師",
+       "pos": "noun",
+       "reading": "かわさきだいし",
+       "romaji": "kawasakidaishi",
+       "gloss": "Kawasaki Daishi (temple name)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "神奈川県",
+       "pos": "noun",
+       "reading": "かながわけん",
+       "romaji": "kanagawaken",
+       "gloss": "Kanagawa Prefecture"
+      },
+      {
+       "surface": "川崎市",
+       "pos": "noun",
+       "reading": "かわさきし",
+       "romaji": "kawasakishi",
+       "gloss": "Kawasaki City"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, be located (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "\"Kawasaki Daishi\" is located in Kawasaki City, Kanagawa Prefecture.",
+     "audioStart": 19.008,
+     "audioEnd": 23.88
+    },
+    {
+     "text": "日本に　密教を　伝えた　お坊さんの「弘法大師空海(774年～835年)」を　まつるお寺で、1128年に建てられました。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "密教",
+       "pos": "noun",
+       "reading": "みっきょう",
+       "romaji": "mikkyou",
+       "gloss": "esoteric Buddhism"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "伝え",
+       "pos": "verb",
+       "reading": "つたえ",
+       "romaji": "tsutae",
+       "lemma": "伝える",
+       "gloss": "to transmit, convey"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "坊",
+       "pos": "noun",
+       "reading": "ぼう",
+       "romaji": "bou",
+       "gloss": "monk (part of compound)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "honorific suffix (Mr./Ms.)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "弘法",
+       "pos": "noun",
+       "reading": "こうぼう",
+       "romaji": "koubou",
+       "gloss": "Kobo (part of honorific name)"
+      },
+      {
+       "surface": "大師",
+       "pos": "noun",
+       "reading": "だいし",
+       "romaji": "daishi",
+       "gloss": "great teacher, master (Buddhist title)"
+      },
+      {
+       "surface": "空海",
+       "pos": "noun",
+       "reading": "くうかい",
+       "romaji": "kuukai",
+       "gloss": "Kukai (monk's name)"
+      },
+      {
+       "surface": "(",
+       "pos": "punct"
+      },
+      {
+       "surface": "774",
+       "pos": "noun",
+       "gloss": "774 (year)"
+      },
+      {
+       "surface": "年",
+       "pos": "noun",
+       "reading": "ねん",
+       "romaji": "nen",
+       "gloss": "year"
+      },
+      {
+       "surface": "～",
+       "pos": "punct"
+      },
+      {
+       "surface": "835",
+       "pos": "noun",
+       "gloss": "835 (year)"
+      },
+      {
+       "surface": "年",
+       "pos": "noun",
+       "reading": "ねん",
+       "romaji": "nen",
+       "gloss": "year"
+      },
+      {
+       "surface": ")",
+       "pos": "punct"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "まつる",
+       "pos": "verb",
+       "romaji": "matsuru",
+       "gloss": "to enshrine, worship"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "寺",
+       "pos": "noun",
+       "reading": "てら",
+       "romaji": "tera",
+       "gloss": "temple"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "plain copula (is)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "1128",
+       "pos": "noun",
+       "gloss": "1128 (year)"
+      },
+      {
+       "surface": "年",
+       "pos": "noun",
+       "reading": "ねん",
+       "romaji": "nen",
+       "gloss": "year"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "建て",
+       "pos": "verb",
+       "reading": "たて",
+       "romaji": "tate",
+       "lemma": "建てる",
+       "gloss": "to build"
+      },
+      {
+       "surface": "られ",
+       "pos": "auxiliary",
+       "romaji": "rare",
+       "lemma": "られる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is a temple enshrining the monk \"Kobo Daishi Kukai (774–835),\" who brought esoteric Buddhism to Japan, and it was built in 1128.",
+     "audioStart": 23.88,
+     "audioEnd": 37.464
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "お寺が　ある　場所は　とても　広いです。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "寺",
+       "pos": "noun",
+       "reading": "てら",
+       "romaji": "tera",
+       "gloss": "temple"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "ある",
+       "pos": "prenominal",
+       "romaji": "aru",
+       "gloss": "to exist, be located (inanimate)"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place, location"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very"
+      },
+      {
+       "surface": "広い",
+       "pos": "adjective",
+       "reading": "ひろい",
+       "romaji": "hiroi",
+       "gloss": "spacious, wide"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The area where the temple stands is very spacious.",
+     "audioStart": 37.464,
+     "audioEnd": 41.304
+    },
+    {
+     "text": "「大本堂」や、「八角五重塔」などが　あります。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "大",
+       "pos": "prefix",
+       "reading": "だい",
+       "romaji": "dai",
+       "gloss": "big, great (prefix)"
+      },
+      {
+       "surface": "本堂",
+       "pos": "noun",
+       "reading": "ほんどう",
+       "romaji": "hondou",
+       "gloss": "main hall"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "non-exhaustive listing particle (and)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "八角",
+       "pos": "noun",
+       "reading": "はっかく",
+       "romaji": "hakkaku",
+       "gloss": "octagon"
+      },
+      {
+       "surface": "五重塔",
+       "pos": "noun",
+       "reading": "ごじゅうのとう",
+       "romaji": "gojuunotou",
+       "gloss": "five-story pagoda"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, be located (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There is the \"Main Hall\" and the \"Octagonal Five-Story Pagoda,\" among others.",
+     "audioStart": 41.304,
+     "audioEnd": 46.272
+    },
+    {
+     "text": "川崎大師に　お参りをすれば、「厄除け」の　ご利益が　あるといわれています。",
+     "tokens": [
+      {
+       "surface": "川崎大師",
+       "pos": "noun",
+       "reading": "かわさきだいし",
+       "romaji": "kawasakidaishi",
+       "gloss": "Kawasaki Daishi (temple name)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "お参り",
+       "pos": "noun",
+       "reading": "おまいり",
+       "romaji": "omairi",
+       "gloss": "temple/shrine visit, worship"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "すれ",
+       "pos": "verb",
+       "romaji": "sure",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "ば",
+       "pos": "particle",
+       "romaji": "ba",
+       "gloss": "conditional 'if' marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "厄除け",
+       "pos": "noun",
+       "reading": "やくよけ",
+       "romaji": "yakuyoke",
+       "gloss": "warding off bad luck"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "ご利益",
+       "pos": "noun",
+       "reading": "ごりやく",
+       "romaji": "goriyaku",
+       "gloss": "divine blessing, benefit"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "ある",
+       "pos": "verb",
+       "romaji": "aru",
+       "gloss": "to exist, be located (inanimate)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "いわ",
+       "pos": "verb",
+       "romaji": "iwa",
+       "lemma": "いう",
+       "gloss": "to say, called"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is said that if you pray at Kawasaki Daishi, you will receive the blessing of \"warding off bad luck.\"",
+     "audioStart": 46.272,
+     "audioEnd": 53.016
+    },
+    {
+     "text": "だから　たくさんの　人が　訪れます。",
+     "tokens": [
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "plain copula (is)"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "because, from"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adjective",
+       "romaji": "takusan",
+       "gloss": "a lot, many"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person, people"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "訪れ",
+       "pos": "verb",
+       "reading": "おとずれ",
+       "romaji": "otozure",
+       "lemma": "訪れる",
+       "gloss": "to visit"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "That's why many people visit.",
+     "audioStart": 53.016,
+     "audioEnd": 56.616
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "とくに　1月1日〜3日の　3日間で　だいたい　300万人が　川崎大師を　訪れます。",
+     "tokens": [
+      {
+       "surface": "とくに",
+       "pos": "adverb",
+       "romaji": "tokuni",
+       "gloss": "especially"
+      },
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "月",
+       "pos": "noun",
+       "reading": "がつ",
+       "romaji": "gatsu",
+       "gloss": "month"
+      },
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "〜",
+       "pos": "punct"
+      },
+      {
+       "surface": "3",
+       "pos": "noun",
+       "gloss": "three"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "3",
+       "pos": "noun",
+       "gloss": "three"
+      },
+      {
+       "surface": "日間",
+       "pos": "noun",
+       "reading": "にちかん",
+       "romaji": "nichikan",
+       "gloss": "period of ~ days"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location-of-action particle (in/at)"
+      },
+      {
+       "surface": "だいたい",
+       "pos": "noun",
+       "romaji": "daitai",
+       "gloss": "approximately, roughly"
+      },
+      {
+       "surface": "300万",
+       "pos": "noun",
+       "reading": "さんれいれいまん",
+       "romaji": "sanreireiman",
+       "gloss": "three million"
+      },
+      {
+       "surface": "人",
+       "pos": "suffix",
+       "reading": "にん",
+       "romaji": "nin",
+       "gloss": "person, people"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "川崎大師",
+       "pos": "noun",
+       "reading": "かわさきだいし",
+       "romaji": "kawasakidaishi",
+       "gloss": "Kawasaki Daishi (temple name)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "訪れ",
+       "pos": "verb",
+       "reading": "おとずれ",
+       "romaji": "otozure",
+       "lemma": "訪れる",
+       "gloss": "to visit"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Especially during the three days from January 1st to 3rd, about 3 million people visit Kawasaki Daishi.",
+     "audioStart": 56.616,
+     "audioEnd": 64.176
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "一番　近い　駅は、京急線の　川崎大師駅です。",
+     "tokens": [
+      {
+       "surface": "一番",
+       "pos": "noun",
+       "reading": "いちばん",
+       "romaji": "ichiban",
+       "gloss": "most, number one"
+      },
+      {
+       "surface": "近い",
+       "pos": "adjective",
+       "reading": "ちかい",
+       "romaji": "chikai",
+       "gloss": "near, close"
+      },
+      {
+       "surface": "駅",
+       "pos": "noun",
+       "reading": "えき",
+       "romaji": "eki",
+       "gloss": "station"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "京急",
+       "pos": "noun",
+       "reading": "けいきゅう",
+       "romaji": "keikyuu",
+       "gloss": "Keikyu (railway company)"
+      },
+      {
+       "surface": "線",
+       "pos": "suffix",
+       "reading": "せん",
+       "romaji": "sen",
+       "gloss": "(train) line"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "川崎",
+       "pos": "noun",
+       "reading": "かわさき",
+       "romaji": "kawasaki",
+       "gloss": "Kawasaki"
+      },
+      {
+       "surface": "大師駅",
+       "pos": "noun",
+       "reading": "だいしえき",
+       "romaji": "daishieki",
+       "gloss": "Daishi Station"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The nearest station is Kawasaki-Daishi Station on the Keikyu Line.",
+     "audioStart": 64.176,
+     "audioEnd": 69.864
+    },
+    {
+     "text": "羽田空港から　川崎大師駅まで　30分くらいです。",
+     "tokens": [
+      {
+       "surface": "羽田空港",
+       "pos": "noun",
+       "reading": "はねだくうこう",
+       "romaji": "hanedakuukou",
+       "gloss": "Haneda Airport"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "because, from"
+      },
+      {
+       "surface": "川崎",
+       "pos": "noun",
+       "reading": "かわさき",
+       "romaji": "kawasaki",
+       "gloss": "Kawasaki"
+      },
+      {
+       "surface": "大師駅",
+       "pos": "noun",
+       "reading": "だいしえき",
+       "romaji": "daishieki",
+       "gloss": "Daishi Station"
+      },
+      {
+       "surface": "まで",
+       "pos": "particle",
+       "romaji": "made",
+       "gloss": "until, as far as"
+      },
+      {
+       "surface": "30",
+       "pos": "noun",
+       "gloss": "thirty"
+      },
+      {
+       "surface": "分",
+       "pos": "noun",
+       "reading": "ふん",
+       "romaji": "fun",
+       "gloss": "minutes"
+      },
+      {
+       "surface": "くらい",
+       "pos": "particle",
+       "romaji": "kurai",
+       "gloss": "about, approximately"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It takes about 30 minutes from Haneda Airport to Kawasaki-Daishi Station.",
+     "audioStart": 69.864,
+     "audioEnd": 75.576
+    },
+    {
+     "text": "東京駅から　行くときは、品川駅で　京急線に　乗り換え、45分くらいで　つきます。",
+     "tokens": [
+      {
+       "surface": "東京駅",
+       "pos": "noun",
+       "reading": "とうきょうえき",
+       "romaji": "toukyoueki",
+       "gloss": "Tokyo Station"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "because, from"
+      },
+      {
+       "surface": "行く",
+       "pos": "verb",
+       "reading": "いく",
+       "romaji": "iku",
+       "gloss": "to go"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "when, time"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "品川駅",
+       "pos": "noun",
+       "reading": "しながわえき",
+       "romaji": "shinagawaeki",
+       "gloss": "Shinagawa Station"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location-of-action particle (in/at)"
+      },
+      {
+       "surface": "京急",
+       "pos": "noun",
+       "reading": "けいきゅう",
+       "romaji": "keikyuu",
+       "gloss": "Keikyu (railway company)"
+      },
+      {
+       "surface": "線",
+       "pos": "suffix",
+       "reading": "せん",
+       "romaji": "sen",
+       "gloss": "(train) line"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "乗り換え",
+       "pos": "verb",
+       "reading": "のりかえ",
+       "romaji": "norikae",
+       "lemma": "乗り換える",
+       "gloss": "to transfer, change trains"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "45",
+       "pos": "noun",
+       "gloss": "forty-five"
+      },
+      {
+       "surface": "分",
+       "pos": "noun",
+       "reading": "ふん",
+       "romaji": "fun",
+       "gloss": "minutes"
+      },
+      {
+       "surface": "くらい",
+       "pos": "particle",
+       "romaji": "kurai",
+       "gloss": "about, approximately"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location-of-action particle (in/at)"
+      },
+      {
+       "surface": "つき",
+       "pos": "verb",
+       "romaji": "tsuki",
+       "lemma": "つく",
+       "gloss": "to arrive"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When going from Tokyo Station, you transfer to the Keikyu Line at Shinagawa Station and arrive in about 45 minutes.",
+     "audioStart": 75.576,
+     "audioEnd": 83.952
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "駅から　おみやげの　店が　並んでいる　参道を　10分ほど　歩けば、川崎大師の　入り口「大山門」が　見えます。",
+     "tokens": [
+      {
+       "surface": "駅",
+       "pos": "noun",
+       "reading": "えき",
+       "romaji": "eki",
+       "gloss": "station"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "because, from"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "みやげ",
+       "pos": "noun",
+       "romaji": "miyage",
+       "gloss": "souvenir"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "店",
+       "pos": "noun",
+       "reading": "みせ",
+       "romaji": "mise",
+       "gloss": "shop, store"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "並ん",
+       "pos": "verb",
+       "reading": "ならん",
+       "romaji": "naran",
+       "lemma": "並ぶ",
+       "gloss": "to line up, be lined"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location-of-action particle (in/at)"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "参道",
+       "pos": "noun",
+       "reading": "さんどう",
+       "romaji": "sandou",
+       "gloss": "approach path (to a shrine/temple)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "10",
+       "pos": "noun",
+       "gloss": "ten"
+      },
+      {
+       "surface": "分",
+       "pos": "noun",
+       "reading": "ふん",
+       "romaji": "fun",
+       "gloss": "minutes"
+      },
+      {
+       "surface": "ほど",
+       "pos": "particle",
+       "romaji": "hodo",
+       "gloss": "approximately, about"
+      },
+      {
+       "surface": "歩け",
+       "pos": "verb",
+       "reading": "あるけ",
+       "romaji": "aruke",
+       "lemma": "歩く",
+       "gloss": "to walk"
+      },
+      {
+       "surface": "ば",
+       "pos": "particle",
+       "romaji": "ba",
+       "gloss": "conditional 'if' marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "川崎大師",
+       "pos": "noun",
+       "reading": "かわさきだいし",
+       "romaji": "kawasakidaishi",
+       "gloss": "Kawasaki Daishi (temple name)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "入り口",
+       "pos": "noun",
+       "reading": "いりぐち",
+       "romaji": "iriguchi",
+       "gloss": "entrance"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "大山",
+       "pos": "noun",
+       "reading": "だいせん",
+       "romaji": "daisen",
+       "gloss": "Daisanmon (part of gate name, 'great mountain')"
+      },
+      {
+       "surface": "門",
+       "pos": "noun",
+       "reading": "もん",
+       "romaji": "mon",
+       "gloss": "gate"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "見え",
+       "pos": "verb",
+       "reading": "みえ",
+       "romaji": "mie",
+       "lemma": "見える",
+       "gloss": "to be visible, can be seen"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If you walk about 10 minutes from the station along the approach lined with souvenir shops, you'll see Kawasaki Daishi's entrance, the \"Daisanmon Gate.\"",
+     "audioStart": 83.952,
+     "audioEnd": 93.672
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ゆらめく炎が　神秘的。",
+     "tokens": [
+      {
+       "surface": "ゆらめく",
+       "pos": "verb",
+       "romaji": "yurameku",
+       "gloss": "to flicker, waver"
+      },
+      {
+       "surface": "炎",
+       "pos": "noun",
+       "reading": "ほのお",
+       "romaji": "honoo",
+       "gloss": "flame"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "神秘的",
+       "pos": "noun",
+       "reading": "しんぴてき",
+       "romaji": "shinpiteki",
+       "gloss": "mystical"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The flickering flames are mystical.",
+     "audioStart": 93.672,
+     "audioEnd": 96.864
+    },
+    {
+     "text": "「大本堂」をお参り",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "大",
+       "pos": "prefix",
+       "reading": "だい",
+       "romaji": "dai",
+       "gloss": "big, great (prefix)"
+      },
+      {
+       "surface": "本堂",
+       "pos": "noun",
+       "reading": "ほんどう",
+       "romaji": "hondou",
+       "gloss": "main hall"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "お参り",
+       "pos": "noun",
+       "reading": "おまいり",
+       "romaji": "omairi",
+       "gloss": "temple/shrine visit, worship"
+      }
+     ],
+     "translation": "Visiting the \"Main Hall\"",
+     "audioStart": 96.864,
+     "audioEnd": 99.528
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "「大山門」は、1977年に　建てられました。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "大山",
+       "pos": "noun",
+       "reading": "だいせん",
+       "romaji": "daisen",
+       "gloss": "Daisanmon (part of gate name, 'great mountain')"
+      },
+      {
+       "surface": "門",
+       "pos": "noun",
+       "reading": "もん",
+       "romaji": "mon",
+       "gloss": "gate"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "1977",
+       "pos": "noun",
+       "gloss": "1977 (year)"
+      },
+      {
+       "surface": "年",
+       "pos": "noun",
+       "reading": "ねん",
+       "romaji": "nen",
+       "gloss": "year"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "建て",
+       "pos": "verb",
+       "reading": "たて",
+       "romaji": "tate",
+       "lemma": "建てる",
+       "gloss": "to build"
+      },
+      {
+       "surface": "られ",
+       "pos": "auxiliary",
+       "romaji": "rare",
+       "lemma": "られる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The \"Daisanmon Gate\" was built in 1977.",
+     "audioStart": 99.528,
+     "audioEnd": 105.216
+    },
+    {
+     "text": "門の　東には　持国天、西には　広目天、南には　増長天、北には　多聞天という　4つの　仏像が　おいてあります。",
+     "tokens": [
+      {
+       "surface": "門",
+       "pos": "noun",
+       "reading": "もん",
+       "romaji": "mon",
+       "gloss": "gate"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "東",
+       "pos": "noun",
+       "reading": "ひがし",
+       "romaji": "higashi",
+       "gloss": "east"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "持国",
+       "pos": "noun",
+       "reading": "もちくに",
+       "romaji": "mochikuni",
+       "gloss": "Jikoku(ten) — guardian deity name"
+      },
+      {
+       "surface": "天",
+       "pos": "suffix",
+       "reading": "てん",
+       "romaji": "ten",
+       "gloss": "heavenly being, deva"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "西",
+       "pos": "noun",
+       "reading": "にし",
+       "romaji": "nishi",
+       "gloss": "west"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "広目天",
+       "pos": "noun",
+       "reading": "こうもくてん",
+       "romaji": "koumokuten",
+       "gloss": "Komokuten (guardian deity)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "南",
+       "pos": "noun",
+       "reading": "みなみ",
+       "romaji": "minami",
+       "gloss": "south"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "増長天",
+       "pos": "noun",
+       "reading": "ぞうじょうてん",
+       "romaji": "zoujouten",
+       "gloss": "Zochoten (guardian deity)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "北",
+       "pos": "noun",
+       "reading": "きた",
+       "romaji": "kita",
+       "gloss": "north"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "多聞天",
+       "pos": "noun",
+       "reading": "たもんてん",
+       "romaji": "tamonten",
+       "gloss": "Tamonten (guardian deity)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "いう",
+       "pos": "verb",
+       "romaji": "iu",
+       "gloss": "to say, called"
+      },
+      {
+       "surface": "4",
+       "pos": "noun",
+       "gloss": "four"
+      },
+      {
+       "surface": "つ",
+       "pos": "suffix",
+       "romaji": "tsu",
+       "gloss": "counter for general objects"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "仏像",
+       "pos": "noun",
+       "reading": "ぶつぞう",
+       "romaji": "butsuzou",
+       "gloss": "Buddhist statue"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "おい",
+       "pos": "verb",
+       "romaji": "oi",
+       "lemma": "おく",
+       "gloss": "to place, put"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, be located (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Four Buddhist statues are placed at the gate: Jikokuten to the east, Komokuten to the west, Zochoten to the south, and Tamonten to the north.",
+     "audioStart": 105.216,
+     "audioEnd": 116.208
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "お参りするときは　はじめに　この門を　通りましょう。",
+     "tokens": [
+      {
+       "surface": "お参り",
+       "pos": "noun",
+       "reading": "おまいり",
+       "romaji": "omairi",
+       "gloss": "temple/shrine visit, worship"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "when, time"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "はじめ",
+       "pos": "noun",
+       "romaji": "hajime",
+       "gloss": "beginning, first"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this"
+      },
+      {
+       "surface": "門",
+       "pos": "noun",
+       "reading": "もん",
+       "romaji": "mon",
+       "gloss": "gate"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "通り",
+       "pos": "verb",
+       "reading": "とおり",
+       "romaji": "toori",
+       "lemma": "通る",
+       "gloss": "to pass through"
+      },
+      {
+       "surface": "ましょう",
+       "pos": "auxiliary",
+       "romaji": "mashou",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When you visit, pass through this gate first.",
+     "audioStart": 116.208,
+     "audioEnd": 121.008
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "門を　通って　まっすぐ　進むと、目の前に　「大本堂」が　あります。",
+     "tokens": [
+      {
+       "surface": "門",
+       "pos": "noun",
+       "reading": "もん",
+       "romaji": "mon",
+       "gloss": "gate"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "通っ",
+       "pos": "verb",
+       "reading": "かよっ",
+       "romaji": "kayotsu",
+       "lemma": "通う",
+       "gloss": "to commute, go regularly"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "まっすぐ",
+       "pos": "adverb",
+       "romaji": "massugu",
+       "gloss": "straight"
+      },
+      {
+       "surface": "進む",
+       "pos": "verb",
+       "reading": "すすむ",
+       "romaji": "susumu",
+       "gloss": "to advance, proceed"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "目",
+       "pos": "noun",
+       "reading": "め",
+       "romaji": "me",
+       "gloss": "eye"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "前",
+       "pos": "noun",
+       "reading": "まえ",
+       "romaji": "mae",
+       "gloss": "front, before"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "大",
+       "pos": "prefix",
+       "reading": "だい",
+       "romaji": "dai",
+       "gloss": "big, great (prefix)"
+      },
+      {
+       "surface": "本堂",
+       "pos": "noun",
+       "reading": "ほんどう",
+       "romaji": "hondou",
+       "gloss": "main hall"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, be located (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If you go through the gate and go straight ahead, the \"Main Hall\" is right in front of you.",
+     "audioStart": 121.008,
+     "audioEnd": 127.272
+    },
+    {
+     "text": "大本堂には　「弘法大師」や、不動明王、愛染明王などが　まつられています。",
+     "tokens": [
+      {
+       "surface": "大",
+       "pos": "prefix",
+       "reading": "だい",
+       "romaji": "dai",
+       "gloss": "big, great (prefix)"
+      },
+      {
+       "surface": "本堂",
+       "pos": "noun",
+       "reading": "ほんどう",
+       "romaji": "hondou",
+       "gloss": "main hall"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "弘法",
+       "pos": "noun",
+       "reading": "こうぼう",
+       "romaji": "koubou",
+       "gloss": "Kobo (part of honorific name)"
+      },
+      {
+       "surface": "大師",
+       "pos": "noun",
+       "reading": "だいし",
+       "romaji": "daishi",
+       "gloss": "great teacher, master (Buddhist title)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "non-exhaustive listing particle (and)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "不動明王",
+       "pos": "noun",
+       "reading": "ふどうみょうおう",
+       "romaji": "fudoumyouou",
+       "gloss": "Fudo Myoo (deity)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "愛染",
+       "pos": "noun",
+       "reading": "あいぜん",
+       "romaji": "aizen",
+       "gloss": "Aizen (part of deity name)"
+      },
+      {
+       "surface": "明王",
+       "pos": "noun",
+       "reading": "みょうおう",
+       "romaji": "myouou",
+       "gloss": "wisdom king (deity class)"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "まつら",
+       "pos": "verb",
+       "romaji": "matsura",
+       "lemma": "まつる",
+       "gloss": "to enshrine, worship"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In the Main Hall, \"Kobo Daishi,\" Fudo Myoo, Aizen Myoo, and others are enshrined.",
+     "audioStart": 127.272,
+     "audioEnd": 135.6
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "「厄除け」の　ご利益を　願って、お参りを　しましょう。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "厄除け",
+       "pos": "noun",
+       "reading": "やくよけ",
+       "romaji": "yakuyoke",
+       "gloss": "warding off bad luck"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "ご利益",
+       "pos": "noun",
+       "reading": "ごりやく",
+       "romaji": "goriyaku",
+       "gloss": "divine blessing, benefit"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "願っ",
+       "pos": "verb",
+       "reading": "ねがっ",
+       "romaji": "negatsu",
+       "lemma": "願う",
+       "gloss": "to wish, pray for"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "お参り",
+       "pos": "noun",
+       "reading": "おまいり",
+       "romaji": "omairi",
+       "gloss": "temple/shrine visit, worship"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "ましょう",
+       "pos": "auxiliary",
+       "romaji": "mashou",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Let's pray, wishing for the blessing of \"warding off bad luck.\"",
+     "audioStart": 135.6,
+     "audioEnd": 140.76
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "大本堂では　毎日、火を　使った　祈祷の　儀式の「護摩」が　行われています。",
+     "tokens": [
+      {
+       "surface": "大",
+       "pos": "prefix",
+       "reading": "だい",
+       "romaji": "dai",
+       "gloss": "big, great (prefix)"
+      },
+      {
+       "surface": "本堂",
+       "pos": "noun",
+       "reading": "ほんどう",
+       "romaji": "hondou",
+       "gloss": "main hall"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location-of-action particle (in/at)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "毎日",
+       "pos": "noun",
+       "reading": "まいにち",
+       "romaji": "mainichi",
+       "gloss": "every day"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "火",
+       "pos": "noun",
+       "reading": "ひ",
+       "romaji": "hi",
+       "gloss": "fire"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "使っ",
+       "pos": "verb",
+       "reading": "つかっ",
+       "romaji": "tsukatsu",
+       "lemma": "使う",
+       "gloss": "to use"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "祈祷",
+       "pos": "noun",
+       "reading": "きとう",
+       "romaji": "kitou",
+       "gloss": "prayer ritual"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "儀式",
+       "pos": "noun",
+       "reading": "ぎしき",
+       "romaji": "gishiki",
+       "gloss": "ceremony, ritual"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "護摩",
+       "pos": "noun",
+       "reading": "ごま",
+       "romaji": "goma",
+       "gloss": "Goma (fire ritual)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "行わ",
+       "pos": "verb",
+       "reading": "おこなわ",
+       "romaji": "okonawa",
+       "lemma": "行う",
+       "gloss": "to carry out, perform"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Every day at the Main Hall, the fire prayer ritual called \"Goma\" is performed.",
+     "audioStart": 140.76,
+     "audioEnd": 147.72
+    },
+    {
+     "text": "お坊さんたちが　お経を　読み、「護摩」の　炎が　燃えていて、とても　神秘的です。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "坊",
+       "pos": "noun",
+       "reading": "ぼう",
+       "romaji": "bou",
+       "gloss": "monk (part of compound)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "honorific suffix (Mr./Ms.)"
+      },
+      {
+       "surface": "たち",
+       "pos": "suffix",
+       "romaji": "tachi",
+       "gloss": "plural suffix (people)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "経",
+       "pos": "noun",
+       "reading": "きょう",
+       "romaji": "kyou",
+       "gloss": "sutra"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "読み",
+       "pos": "verb",
+       "reading": "よみ",
+       "romaji": "yomi",
+       "lemma": "読む",
+       "gloss": "to read"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "護摩",
+       "pos": "noun",
+       "reading": "ごま",
+       "romaji": "goma",
+       "gloss": "Goma (fire ritual)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "炎",
+       "pos": "noun",
+       "reading": "ほのお",
+       "romaji": "honoo",
+       "gloss": "flame"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "燃え",
+       "pos": "verb",
+       "reading": "もえ",
+       "romaji": "moe",
+       "lemma": "燃える",
+       "gloss": "to burn"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very"
+      },
+      {
+       "surface": "神秘的",
+       "pos": "noun",
+       "reading": "しんぴてき",
+       "romaji": "shinpiteki",
+       "gloss": "mystical"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The monks chant sutras while the \"Goma\" flames burn, which is very mystical.",
+     "audioStart": 147.72,
+     "audioEnd": 155.04
+    },
+    {
+     "text": "「護摩」は、1日に　6～9回　やっているので、ぜひ　見てみて　ください。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "護摩",
+       "pos": "noun",
+       "reading": "ごま",
+       "romaji": "goma",
+       "gloss": "Goma (fire ritual)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "6",
+       "pos": "noun",
+       "gloss": "six"
+      },
+      {
+       "surface": "～",
+       "pos": "punct"
+      },
+      {
+       "surface": "9",
+       "pos": "noun",
+       "gloss": "nine"
+      },
+      {
+       "surface": "回",
+       "pos": "noun",
+       "reading": "かい",
+       "romaji": "kai",
+       "gloss": "times (counter)"
+      },
+      {
+       "surface": "やっ",
+       "pos": "verb",
+       "romaji": "yatsu",
+       "lemma": "やる",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "plain copula (is)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ぜひ",
+       "pos": "adverb",
+       "romaji": "zehi",
+       "gloss": "by all means, definitely"
+      },
+      {
+       "surface": "見",
+       "pos": "verb",
+       "reading": "み",
+       "romaji": "mi",
+       "lemma": "見る",
+       "gloss": "to see, look"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "み",
+       "pos": "verb",
+       "romaji": "mi",
+       "lemma": "みる",
+       "gloss": "to try doing (auxiliary after te-form)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる",
+       "gloss": "to give (honorific), please do"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "\"Goma\" is performed 6 to 9 times a day, so please be sure to watch it.",
+     "audioStart": 155.04,
+     "audioEnd": 161.736
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "広い　境内を　見よう",
+     "tokens": [
+      {
+       "surface": "広い",
+       "pos": "adjective",
+       "reading": "ひろい",
+       "romaji": "hiroi",
+       "gloss": "spacious, wide"
+      },
+      {
+       "surface": "境内",
+       "pos": "noun",
+       "reading": "けいだい",
+       "romaji": "keidai",
+       "gloss": "temple/shrine grounds"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "見よう",
+       "pos": "verb",
+       "reading": "みよう",
+       "romaji": "miyou",
+       "lemma": "見る",
+       "gloss": "to see, look"
+      }
+     ],
+     "translation": "Let's look around the spacious temple grounds",
+     "audioStart": 161.736,
+     "audioEnd": 164.424
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "大本堂から　外に　出ると、右に　高い　塔が　見えます。",
+     "tokens": [
+      {
+       "surface": "大",
+       "pos": "prefix",
+       "reading": "だい",
+       "romaji": "dai",
+       "gloss": "big, great (prefix)"
+      },
+      {
+       "surface": "本堂",
+       "pos": "noun",
+       "reading": "ほんどう",
+       "romaji": "hondou",
+       "gloss": "main hall"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "because, from"
+      },
+      {
+       "surface": "外",
+       "pos": "noun",
+       "reading": "そと",
+       "romaji": "soto",
+       "gloss": "outside"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "出る",
+       "pos": "verb",
+       "reading": "でる",
+       "romaji": "deru",
+       "gloss": "to go out, exit"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "右",
+       "pos": "noun",
+       "reading": "みぎ",
+       "romaji": "migi",
+       "gloss": "right (direction)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "高い",
+       "pos": "adjective",
+       "reading": "たかい",
+       "romaji": "takai",
+       "gloss": "tall, high"
+      },
+      {
+       "surface": "塔",
+       "pos": "noun",
+       "reading": "とう",
+       "romaji": "tou",
+       "gloss": "tower, pagoda"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "見え",
+       "pos": "verb",
+       "reading": "みえ",
+       "romaji": "mie",
+       "lemma": "見える",
+       "gloss": "to be visible, can be seen"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When you step outside from the Main Hall, you can see a tall pagoda on the right.",
+     "audioStart": 164.424,
+     "audioEnd": 169.704
+    },
+    {
+     "text": "これは「八角五重塔」です。",
+     "tokens": [
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore",
+       "gloss": "this"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "八角",
+       "pos": "noun",
+       "reading": "はっかく",
+       "romaji": "hakkaku",
+       "gloss": "octagon"
+      },
+      {
+       "surface": "五重塔",
+       "pos": "noun",
+       "reading": "ごじゅうのとう",
+       "romaji": "gojuunotou",
+       "gloss": "five-story pagoda"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "This is the \"Octagonal Five-Story Pagoda.\"",
+     "audioStart": 169.704,
+     "audioEnd": 173.52
+    },
+    {
+     "text": "八角形は　円と　似ている　形なので、「包容力」や「完全性」を　表しています。",
+     "tokens": [
+      {
+       "surface": "八角形",
+       "pos": "noun",
+       "reading": "はっかっけい",
+       "romaji": "hakkakkei",
+       "gloss": "octagon shape"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "円",
+       "pos": "noun",
+       "reading": "えん",
+       "romaji": "en",
+       "gloss": "circle"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "似",
+       "pos": "verb",
+       "reading": "に",
+       "romaji": "ni",
+       "lemma": "似る",
+       "gloss": "to resemble"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "形",
+       "pos": "noun",
+       "reading": "かたち",
+       "romaji": "katachi",
+       "gloss": "shape"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "plain copula (is)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "plain copula (is)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "包容力",
+       "pos": "noun",
+       "reading": "ほうようりょく",
+       "romaji": "houyouryoku",
+       "gloss": "tolerance, capacity to embrace"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "non-exhaustive listing particle (and)"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "完全性",
+       "pos": "noun",
+       "reading": "かんぜんせい",
+       "romaji": "kanzensei",
+       "gloss": "completeness, perfection"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "表し",
+       "pos": "verb",
+       "reading": "あらわし",
+       "romaji": "arawashi",
+       "lemma": "表す",
+       "gloss": "to represent, express"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Since the octagon shape resembles a circle, it represents \"tolerance\" and \"completeness.\"",
+     "audioStart": 173.52,
+     "audioEnd": 181.8
+    },
+    {
+     "text": "日本でも、八角形の　五重塔は　とても　珍しいです。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location-of-action particle (in/at)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "八角形",
+       "pos": "noun",
+       "reading": "はっかっけい",
+       "romaji": "hakkakkei",
+       "gloss": "octagon shape"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "五重塔",
+       "pos": "noun",
+       "reading": "ごじゅうのとう",
+       "romaji": "gojuunotou",
+       "gloss": "five-story pagoda"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very"
+      },
+      {
+       "surface": "珍しい",
+       "pos": "adjective",
+       "reading": "めずらしい",
+       "romaji": "mezurashii",
+       "gloss": "rare, unusual"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Even in Japan, an octagonal five-story pagoda is very rare.",
+     "audioStart": 181.8,
+     "audioEnd": 187.776
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "八角五重塔の　中には　仏像や、弘法大師空海の　先生の　中国の　お坊さん「恵果阿闍梨」(746～806)の　像なども　あります。",
+     "tokens": [
+      {
+       "surface": "八角",
+       "pos": "noun",
+       "reading": "はっかく",
+       "romaji": "hakkaku",
+       "gloss": "octagon"
+      },
+      {
+       "surface": "五重塔",
+       "pos": "noun",
+       "reading": "ごじゅうのとう",
+       "romaji": "gojuunotou",
+       "gloss": "five-story pagoda"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "中",
+       "pos": "noun",
+       "reading": "なか",
+       "romaji": "naka",
+       "gloss": "inside, middle"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "仏像",
+       "pos": "noun",
+       "reading": "ぶつぞう",
+       "romaji": "butsuzou",
+       "gloss": "Buddhist statue"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "non-exhaustive listing particle (and)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "弘法",
+       "pos": "noun",
+       "reading": "こうぼう",
+       "romaji": "koubou",
+       "gloss": "Kobo (part of honorific name)"
+      },
+      {
+       "surface": "大師",
+       "pos": "noun",
+       "reading": "だいし",
+       "romaji": "daishi",
+       "gloss": "great teacher, master (Buddhist title)"
+      },
+      {
+       "surface": "空海",
+       "pos": "noun",
+       "reading": "くうかい",
+       "romaji": "kuukai",
+       "gloss": "Kukai (monk's name)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "先生",
+       "pos": "noun",
+       "reading": "せんせい",
+       "romaji": "sensei",
+       "gloss": "teacher"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "中国",
+       "pos": "noun",
+       "reading": "ちゅうごく",
+       "romaji": "chuugoku",
+       "gloss": "China"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "坊",
+       "pos": "noun",
+       "reading": "ぼう",
+       "romaji": "bou",
+       "gloss": "monk (part of compound)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "honorific suffix (Mr./Ms.)"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "恵果",
+       "pos": "noun",
+       "reading": "けいか",
+       "romaji": "keika",
+       "gloss": "Huiguo (monk's name)"
+      },
+      {
+       "surface": "阿闍梨",
+       "pos": "noun",
+       "reading": "あじゃり",
+       "romaji": "ajari",
+       "gloss": "acharya (Buddhist master title)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "(",
+       "pos": "punct"
+      },
+      {
+       "surface": "746",
+       "pos": "noun",
+       "gloss": "746 (year)"
+      },
+      {
+       "surface": "～",
+       "pos": "punct"
+      },
+      {
+       "surface": "806",
+       "pos": "noun",
+       "gloss": "806 (year)"
+      },
+      {
+       "surface": ")",
+       "pos": "punct"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "像",
+       "pos": "noun",
+       "reading": "ぞう",
+       "romaji": "zou",
+       "gloss": "statue"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, be located (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Inside the Octagonal Five-Story Pagoda, there are Buddhist statues and also a statue of \"Master Huiguo\" (746–806), the Chinese monk who was Kobo Daishi Kukai's teacher.",
+     "audioStart": 187.776,
+     "audioEnd": 201.432
+    },
+    {
+     "text": "いつもは、門が　しまっていて、　八角五重塔の　中には　入ることが　できません。",
+     "tokens": [
+      {
+       "surface": "いつも",
+       "pos": "noun",
+       "romaji": "itsumo",
+       "gloss": "usually, always"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "門",
+       "pos": "noun",
+       "reading": "もん",
+       "romaji": "mon",
+       "gloss": "gate"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "しまっ",
+       "pos": "verb",
+       "romaji": "shimatsu",
+       "lemma": "しまう",
+       "gloss": "to close, put away"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "八角",
+       "pos": "noun",
+       "reading": "はっかく",
+       "romaji": "hakkaku",
+       "gloss": "octagon"
+      },
+      {
+       "surface": "五重塔",
+       "pos": "noun",
+       "reading": "ごじゅうのとう",
+       "romaji": "gojuunotou",
+       "gloss": "five-story pagoda"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "中",
+       "pos": "noun",
+       "reading": "なか",
+       "romaji": "naka",
+       "gloss": "inside, middle"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "入る",
+       "pos": "verb",
+       "reading": "はいる",
+       "romaji": "hairu",
+       "gloss": "to enter"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer (the fact/act of ~)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to, can"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (literary 'not')"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Normally, the gate is closed, so you cannot enter the Octagonal Five-Story Pagoda.",
+     "audioStart": 201.432,
+     "audioEnd": 209.112
+    },
+    {
+     "text": "3月21日～12月21日の　第1日曜日と　毎月　21日だけ　中に　入ることが　できます。",
+     "tokens": [
+      {
+       "surface": "3",
+       "pos": "noun",
+       "gloss": "three"
+      },
+      {
+       "surface": "月",
+       "pos": "noun",
+       "reading": "がつ",
+       "romaji": "gatsu",
+       "gloss": "month"
+      },
+      {
+       "surface": "21",
+       "pos": "noun",
+       "gloss": "twenty-one"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "～",
+       "pos": "particle",
+       "gloss": "range marker (to/through)"
+      },
+      {
+       "surface": "12",
+       "pos": "noun",
+       "gloss": "twelve"
+      },
+      {
+       "surface": "月",
+       "pos": "noun",
+       "reading": "がつ",
+       "romaji": "gatsu",
+       "gloss": "month"
+      },
+      {
+       "surface": "21",
+       "pos": "noun",
+       "gloss": "twenty-one"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "第",
+       "pos": "prefix",
+       "reading": "だい",
+       "romaji": "dai",
+       "gloss": "ordinal prefix (the ~th)"
+      },
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "日曜日",
+       "pos": "noun",
+       "reading": "にちようび",
+       "romaji": "nichiyoubi",
+       "gloss": "Sunday"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "毎月",
+       "pos": "noun",
+       "reading": "まいつき",
+       "romaji": "maitsuki",
+       "gloss": "every month"
+      },
+      {
+       "surface": "21",
+       "pos": "noun",
+       "gloss": "twenty-one"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "だけ",
+       "pos": "particle",
+       "romaji": "dake",
+       "gloss": "only"
+      },
+      {
+       "surface": "中",
+       "pos": "noun",
+       "reading": "なか",
+       "romaji": "naka",
+       "gloss": "inside, middle"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "入る",
+       "pos": "verb",
+       "reading": "はいる",
+       "romaji": "hairu",
+       "gloss": "to enter"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer (the fact/act of ~)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to, can"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You can only go inside on the first Sunday from March 21st to December 21st, and on the 21st of every month.",
+     "audioStart": 209.112,
+     "audioEnd": 219.96
+    },
+    {
+     "text": "時間は　10:00〜15:30です。",
+     "tokens": [
+      {
+       "surface": "時間",
+       "pos": "noun",
+       "reading": "じかん",
+       "romaji": "jikan",
+       "gloss": "time, hours"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "10",
+       "pos": "noun",
+       "gloss": "ten"
+      },
+      {
+       "surface": ":",
+       "pos": "punct"
+      },
+      {
+       "surface": "00",
+       "pos": "noun",
+       "gloss": "zero zero (minutes)"
+      },
+      {
+       "surface": "〜",
+       "pos": "punct"
+      },
+      {
+       "surface": "15",
+       "pos": "noun",
+       "gloss": "fifteen"
+      },
+      {
+       "surface": ":",
+       "pos": "punct"
+      },
+      {
+       "surface": "30",
+       "pos": "noun",
+       "gloss": "thirty"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The hours are 10:00 to 15:30.",
+     "audioStart": 219.96,
+     "audioEnd": 224.256
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "「八角五重塔」から　少し　歩くと、昔　鶴が　来ていたと言われている「つるの池」が　あります。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "八角",
+       "pos": "noun",
+       "reading": "はっかく",
+       "romaji": "hakkaku",
+       "gloss": "octagon"
+      },
+      {
+       "surface": "五重塔",
+       "pos": "noun",
+       "reading": "ごじゅうのとう",
+       "romaji": "gojuunotou",
+       "gloss": "five-story pagoda"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "because, from"
+      },
+      {
+       "surface": "少し",
+       "pos": "adverb",
+       "reading": "すこし",
+       "romaji": "sukoshi",
+       "gloss": "a little"
+      },
+      {
+       "surface": "歩く",
+       "pos": "verb",
+       "reading": "あるく",
+       "romaji": "aruku",
+       "gloss": "to walk"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "昔",
+       "pos": "noun",
+       "reading": "むかし",
+       "romaji": "mukashi",
+       "gloss": "long ago, in the past"
+      },
+      {
+       "surface": "鶴",
+       "pos": "noun",
+       "reading": "つる",
+       "romaji": "tsuru",
+       "gloss": "crane (bird)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "来",
+       "pos": "verb",
+       "reading": "き",
+       "romaji": "ki",
+       "lemma": "来る",
+       "gloss": "to come"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "言わ",
+       "pos": "verb",
+       "reading": "いわ",
+       "romaji": "iwa",
+       "lemma": "言う",
+       "gloss": "to say"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "つる",
+       "pos": "noun",
+       "romaji": "tsuru",
+       "gloss": "crane (bird, name reading)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "池",
+       "pos": "noun",
+       "reading": "いけ",
+       "romaji": "ike",
+       "gloss": "pond"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, be located (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "A short walk from the \"Octagonal Five-Story Pagoda\" is \"Tsuru-no-Ike (Crane Pond),\" said to be a place where cranes used to come long ago.",
+     "audioStart": 224.256,
+     "audioEnd": 232.944
+    },
+    {
+     "text": "写真の　右に　見える　赤い　橋は「やすらぎ橋」です。",
+     "tokens": [
+      {
+       "surface": "写真",
+       "pos": "noun",
+       "reading": "しゃしん",
+       "romaji": "shashin",
+       "gloss": "photo"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "右",
+       "pos": "noun",
+       "reading": "みぎ",
+       "romaji": "migi",
+       "gloss": "right (direction)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "見える",
+       "pos": "verb",
+       "reading": "みえる",
+       "romaji": "mieru",
+       "gloss": "to be visible, can be seen"
+      },
+      {
+       "surface": "赤い",
+       "pos": "adjective",
+       "reading": "あかい",
+       "romaji": "akai",
+       "gloss": "red"
+      },
+      {
+       "surface": "橋",
+       "pos": "noun",
+       "reading": "はし",
+       "romaji": "hashi",
+       "gloss": "bridge"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "やすらぎ",
+       "pos": "verb",
+       "romaji": "yasuragi",
+       "lemma": "やすらぐ",
+       "gloss": "to feel at ease, relax"
+      },
+      {
+       "surface": "橋",
+       "pos": "noun",
+       "reading": "はし",
+       "romaji": "hashi",
+       "gloss": "bridge"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The red bridge seen on the right of the photo is \"Yasuragi Bridge.\"",
+     "audioStart": 232.944,
+     "audioEnd": 238.152
+    },
+    {
+     "text": "手すりには　サンスクリットが　1つずつ　書いてあって、悟りへの　段階を　表しています。",
+     "tokens": [
+      {
+       "surface": "手すり",
+       "pos": "noun",
+       "reading": "てすり",
+       "romaji": "tesuri",
+       "gloss": "handrail"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "サンスクリット",
+       "pos": "noun",
+       "romaji": "sansukuritto",
+       "gloss": "Sanskrit"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "つ",
+       "pos": "suffix",
+       "romaji": "tsu",
+       "gloss": "counter for general objects"
+      },
+      {
+       "surface": "ずつ",
+       "pos": "particle",
+       "romaji": "zutsu",
+       "gloss": "each, apiece"
+      },
+      {
+       "surface": "書い",
+       "pos": "verb",
+       "reading": "かい",
+       "romaji": "kai",
+       "lemma": "書く",
+       "gloss": "to write"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "あっ",
+       "pos": "verb",
+       "romaji": "atsu",
+       "lemma": "ある",
+       "gloss": "to exist, be located (inanimate)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "悟り",
+       "pos": "noun",
+       "reading": "さとり",
+       "romaji": "satori",
+       "gloss": "enlightenment"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "direction particle (toward)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "段階",
+       "pos": "noun",
+       "reading": "だんかい",
+       "romaji": "dankai",
+       "gloss": "stage, step"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "表し",
+       "pos": "verb",
+       "reading": "あらわし",
+       "romaji": "arawashi",
+       "lemma": "表す",
+       "gloss": "to represent, express"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Sanskrit characters are written one by one on the handrail, representing the stages toward enlightenment.",
+     "audioStart": 238.152,
+     "audioEnd": 245.76
+    },
+    {
+     "text": "橋の　奥に　ある　金色の　像は　お釈迦様です。",
+     "tokens": [
+      {
+       "surface": "橋",
+       "pos": "noun",
+       "reading": "はし",
+       "romaji": "hashi",
+       "gloss": "bridge"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "奥",
+       "pos": "noun",
+       "reading": "おく",
+       "romaji": "oku",
+       "gloss": "back, inner part"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "ある",
+       "pos": "prenominal",
+       "romaji": "aru",
+       "gloss": "to exist, be located (inanimate)"
+      },
+      {
+       "surface": "金色",
+       "pos": "noun",
+       "reading": "きんいろ",
+       "romaji": "kin'iro",
+       "gloss": "gold color"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "像",
+       "pos": "noun",
+       "reading": "ぞう",
+       "romaji": "zou",
+       "gloss": "statue"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "お釈迦",
+       "pos": "noun",
+       "reading": "おしゃか",
+       "romaji": "oshaka",
+       "gloss": "Buddha, Shakyamuni (honorific)"
+      },
+      {
+       "surface": "様",
+       "pos": "suffix",
+       "reading": "さま",
+       "romaji": "sama",
+       "gloss": "honorific title (Mr./Mrs./deity)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The golden statue beyond the bridge is Buddha (Shakyamuni).",
+     "audioStart": 245.76,
+     "audioEnd": 250.296
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "「やすらぎ橋」を　渡って　奥に　行くと、「薬師殿」が　あります。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "やすらぎ",
+       "pos": "verb",
+       "romaji": "yasuragi",
+       "lemma": "やすらぐ",
+       "gloss": "to feel at ease, relax"
+      },
+      {
+       "surface": "橋",
+       "pos": "noun",
+       "reading": "はし",
+       "romaji": "hashi",
+       "gloss": "bridge"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "渡っ",
+       "pos": "verb",
+       "reading": "わたっ",
+       "romaji": "watatsu",
+       "lemma": "渡る",
+       "gloss": "to cross"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "奥",
+       "pos": "noun",
+       "reading": "おく",
+       "romaji": "oku",
+       "gloss": "back, inner part"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "行く",
+       "pos": "verb",
+       "reading": "いく",
+       "romaji": "iku",
+       "gloss": "to go"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "薬師",
+       "pos": "noun",
+       "reading": "やくし",
+       "romaji": "yakushi",
+       "gloss": "Yakushi (Buddha of healing)"
+      },
+      {
+       "surface": "殿",
+       "pos": "suffix",
+       "reading": "でん",
+       "romaji": "den",
+       "gloss": "hall, palace (suffix)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, be located (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If you cross \"Yasuragi Bridge\" and go further in, you'll find \"Yakushi Hall.\"",
+     "audioStart": 250.296,
+     "audioEnd": 255.792
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ほかの建物とは　違う、インドに　あるのような　建物です。",
+     "tokens": [
+      {
+       "surface": "ほか",
+       "pos": "noun",
+       "romaji": "hoka",
+       "gloss": "other"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "建物",
+       "pos": "noun",
+       "reading": "たてもの",
+       "romaji": "tatemono",
+       "gloss": "building"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "違う",
+       "pos": "verb",
+       "reading": "ちがう",
+       "romaji": "chigau",
+       "gloss": "to differ, be different"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "インド",
+       "pos": "noun",
+       "romaji": "indo",
+       "gloss": "India"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "ある",
+       "pos": "verb",
+       "romaji": "aru",
+       "gloss": "to exist, be located (inanimate)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "よう",
+       "pos": "adjective",
+       "romaji": "you",
+       "gloss": "seeming, like (~のような)"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "plain copula (is)"
+      },
+      {
+       "surface": "建物",
+       "pos": "noun",
+       "reading": "たてもの",
+       "romaji": "tatemono",
+       "gloss": "building"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is a building unlike the other buildings, one that looks like it could be in India.",
+     "audioStart": 255.792,
+     "audioEnd": 261.36
+    },
+    {
+     "text": "薬師殿の　中には　病気や　体の　悪いところを　治してくれるといわれる「薬師如来」の　像と　そのまわりに、薬師如来を　守る　12の　神様「十二神将」が　まつられています。",
+     "tokens": [
+      {
+       "surface": "薬師",
+       "pos": "noun",
+       "reading": "やくし",
+       "romaji": "yakushi",
+       "gloss": "Yakushi (Buddha of healing)"
+      },
+      {
+       "surface": "殿",
+       "pos": "suffix",
+       "reading": "でん",
+       "romaji": "den",
+       "gloss": "hall, palace (suffix)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "中",
+       "pos": "noun",
+       "reading": "なか",
+       "romaji": "naka",
+       "gloss": "inside, middle"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "病気",
+       "pos": "noun",
+       "reading": "びょうき",
+       "romaji": "byouki",
+       "gloss": "illness, sickness"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "non-exhaustive listing particle (and)"
+      },
+      {
+       "surface": "体",
+       "pos": "noun",
+       "reading": "からだ",
+       "romaji": "karada",
+       "gloss": "body"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "悪い",
+       "pos": "adjective",
+       "reading": "わるい",
+       "romaji": "warui",
+       "gloss": "bad"
+      },
+      {
+       "surface": "ところ",
+       "pos": "noun",
+       "romaji": "tokoro",
+       "gloss": "place, spot"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "治し",
+       "pos": "verb",
+       "reading": "なおし",
+       "romaji": "naoshi",
+       "lemma": "治す",
+       "gloss": "to cure, heal (transitive)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "くれる",
+       "pos": "verb",
+       "romaji": "kureru",
+       "gloss": "to give (to me/us)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "いわ",
+       "pos": "verb",
+       "romaji": "iwa",
+       "lemma": "いう",
+       "gloss": "to say, called"
+      },
+      {
+       "surface": "れる",
+       "pos": "auxiliary",
+       "romaji": "reru",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "薬師如来",
+       "pos": "noun",
+       "reading": "やくしにょらい",
+       "romaji": "yakushinyorai",
+       "gloss": "Yakushi Nyorai (Medicine Buddha)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "像",
+       "pos": "noun",
+       "reading": "ぞう",
+       "romaji": "zou",
+       "gloss": "statue"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that (possessive)"
+      },
+      {
+       "surface": "まわり",
+       "pos": "noun",
+       "romaji": "mawari",
+       "gloss": "surroundings, around"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "薬師如来",
+       "pos": "noun",
+       "reading": "やくしにょらい",
+       "romaji": "yakushinyorai",
+       "gloss": "Yakushi Nyorai (Medicine Buddha)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "守る",
+       "pos": "verb",
+       "reading": "まもる",
+       "romaji": "mamoru",
+       "gloss": "to protect"
+      },
+      {
+       "surface": "12",
+       "pos": "noun",
+       "gloss": "twelve"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "神",
+       "pos": "noun",
+       "reading": "かみ",
+       "romaji": "kami",
+       "gloss": "god, deity"
+      },
+      {
+       "surface": "様",
+       "pos": "suffix",
+       "reading": "さま",
+       "romaji": "sama",
+       "gloss": "honorific title (Mr./Mrs./deity)"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "十二",
+       "pos": "noun",
+       "reading": "じゅうに",
+       "romaji": "juuni",
+       "gloss": "twelve"
+      },
+      {
+       "surface": "神将",
+       "pos": "noun",
+       "reading": "しんしょう",
+       "romaji": "shinshou",
+       "gloss": "guardian generals (deities)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "まつら",
+       "pos": "verb",
+       "romaji": "matsura",
+       "lemma": "まつる",
+       "gloss": "to enshrine, worship"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Inside Yakushi Hall, there is a statue of \"Yakushi Nyorai,\" said to cure illnesses and ailments in the body, and around it are enshrined the twelve gods \"Junishinsho\" who protect Yakushi Nyorai.",
+     "audioStart": 261.36,
+     "audioEnd": 276.672
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "仏像の　自分の　体の　悪いところをなでて、そこが　治るように　お願いをする「なで薬師」",
+     "tokens": [
+      {
+       "surface": "仏像",
+       "pos": "noun",
+       "reading": "ぶつぞう",
+       "romaji": "butsuzou",
+       "gloss": "Buddhist statue"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "自分",
+       "pos": "noun",
+       "reading": "じぶん",
+       "romaji": "jibun",
+       "gloss": "oneself"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "体",
+       "pos": "noun",
+       "reading": "からだ",
+       "romaji": "karada",
+       "gloss": "body"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "悪い",
+       "pos": "adjective",
+       "reading": "わるい",
+       "romaji": "warui",
+       "gloss": "bad"
+      },
+      {
+       "surface": "ところ",
+       "pos": "noun",
+       "romaji": "tokoro",
+       "gloss": "place, spot"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "なで",
+       "pos": "verb",
+       "romaji": "nade",
+       "lemma": "なでる",
+       "gloss": "to stroke, pat"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "そこ",
+       "pos": "pronoun",
+       "romaji": "soko",
+       "gloss": "there, that place"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "治る",
+       "pos": "verb",
+       "reading": "なおる",
+       "romaji": "naoru",
+       "gloss": "to heal, be cured (intransitive)"
+      },
+      {
+       "surface": "よう",
+       "pos": "adjective",
+       "romaji": "you",
+       "gloss": "seeming, like (~のような)"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "plain copula (is)"
+      },
+      {
+       "surface": "お願い",
+       "pos": "noun",
+       "reading": "おねがい",
+       "romaji": "onegai",
+       "gloss": "request, wish"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "なで",
+       "pos": "noun",
+       "romaji": "nade",
+       "gloss": "stroking, rubbing"
+      },
+      {
+       "surface": "薬師",
+       "pos": "noun",
+       "reading": "やくし",
+       "romaji": "yakushi",
+       "gloss": "Yakushi (Buddha of healing)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      }
+     ],
+     "translation": "\"Nade-Yakushi\" (Rubbing Yakushi), where you rub the part of the statue corresponding to your own ailment and pray for it to heal.",
+     "audioStart": 276.672,
+     "audioEnd": 284.712
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "十二神将には、それぞれの「干支」が　割り振られています。",
+     "tokens": [
+      {
+       "surface": "十二",
+       "pos": "noun",
+       "reading": "じゅうに",
+       "romaji": "juuni",
+       "gloss": "twelve"
+      },
+      {
+       "surface": "神将",
+       "pos": "noun",
+       "reading": "しんしょう",
+       "romaji": "shinshou",
+       "gloss": "guardian generals (deities)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "それぞれ",
+       "pos": "noun",
+       "romaji": "sorezore",
+       "gloss": "each, respectively"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "干支",
+       "pos": "noun",
+       "reading": "かんし",
+       "romaji": "kanshi",
+       "gloss": "zodiac sign"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "割り振ら",
+       "pos": "verb",
+       "reading": "わりふら",
+       "romaji": "warifura",
+       "lemma": "割り振る",
+       "gloss": "to assign, allot"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Each of the twelve gods (Junishinsho) is assigned its own zodiac sign.",
+     "audioStart": 284.712,
+     "audioEnd": 290.16
+    },
+    {
+     "text": "自分の　「干支」の　神様の　スタンプを、薬師殿に　おいてある「しおり」に　押してください。",
+     "tokens": [
+      {
+       "surface": "自分",
+       "pos": "noun",
+       "reading": "じぶん",
+       "romaji": "jibun",
+       "gloss": "oneself"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "干支",
+       "pos": "noun",
+       "reading": "かんし",
+       "romaji": "kanshi",
+       "gloss": "zodiac sign"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "神",
+       "pos": "noun",
+       "reading": "かみ",
+       "romaji": "kami",
+       "gloss": "god, deity"
+      },
+      {
+       "surface": "様",
+       "pos": "suffix",
+       "reading": "さま",
+       "romaji": "sama",
+       "gloss": "honorific title (Mr./Mrs./deity)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "スタンプ",
+       "pos": "noun",
+       "romaji": "sutanpu",
+       "gloss": "stamp"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "薬師",
+       "pos": "noun",
+       "reading": "やくし",
+       "romaji": "yakushi",
+       "gloss": "Yakushi (Buddha of healing)"
+      },
+      {
+       "surface": "殿",
+       "pos": "suffix",
+       "reading": "でん",
+       "romaji": "den",
+       "gloss": "hall, palace (suffix)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "おい",
+       "pos": "verb",
+       "romaji": "oi",
+       "lemma": "おく",
+       "gloss": "to place, put"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "ある",
+       "pos": "verb",
+       "romaji": "aru",
+       "gloss": "to exist, be located (inanimate)"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "しおり",
+       "pos": "noun",
+       "romaji": "shiori",
+       "gloss": "bookmark"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "押し",
+       "pos": "verb",
+       "reading": "おし",
+       "romaji": "oshi",
+       "lemma": "押す",
+       "gloss": "to press, stamp"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる",
+       "gloss": "to give (honorific), please do"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Please stamp the god of your own zodiac sign onto the \"bookmark\" placed at Yakushi Hall.",
+     "audioStart": 290.16,
+     "audioEnd": 297.456
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "自分の　干支が　わからないときは、川崎大師を　訪れた年の　干支を　選びましょう。",
+     "tokens": [
+      {
+       "surface": "自分",
+       "pos": "noun",
+       "reading": "じぶん",
+       "romaji": "jibun",
+       "gloss": "oneself"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "干支",
+       "pos": "noun",
+       "reading": "かんし",
+       "romaji": "kanshi",
+       "gloss": "zodiac sign"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "わから",
+       "pos": "verb",
+       "romaji": "wakara",
+       "lemma": "わかる",
+       "gloss": "to understand, know"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative auxiliary"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "when, time"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "川崎大師",
+       "pos": "noun",
+       "reading": "かわさきだいし",
+       "romaji": "kawasakidaishi",
+       "gloss": "Kawasaki Daishi (temple name)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "訪れ",
+       "pos": "verb",
+       "reading": "おとずれ",
+       "romaji": "otozure",
+       "lemma": "訪れる",
+       "gloss": "to visit"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "年",
+       "pos": "noun",
+       "reading": "とし",
+       "romaji": "toshi",
+       "gloss": "year"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "干支",
+       "pos": "noun",
+       "reading": "かんし",
+       "romaji": "kanshi",
+       "gloss": "zodiac sign"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "選び",
+       "pos": "verb",
+       "reading": "えらび",
+       "romaji": "erabi",
+       "lemma": "選ぶ",
+       "gloss": "to choose"
+      },
+      {
+       "surface": "ましょう",
+       "pos": "auxiliary",
+       "romaji": "mashou",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If you don't know your own zodiac sign, choose the zodiac sign of the year you visited Kawasaki Daishi.",
+     "audioStart": 297.456,
+     "audioEnd": 304.8
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "おわりに",
+     "tokens": [
+      {
+       "surface": "おわり",
+       "pos": "noun",
+       "romaji": "owari",
+       "gloss": "end, conclusion"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      }
+     ],
+     "translation": "In closing",
+     "audioStart": 304.8,
+     "audioEnd": 306.624
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "川崎大師には、800年以上の　歴史が　あり、「厄除け」の　ご利益のために　多くの人が　訪れています。",
+     "tokens": [
+      {
+       "surface": "川崎大師",
+       "pos": "noun",
+       "reading": "かわさきだいし",
+       "romaji": "kawasakidaishi",
+       "gloss": "Kawasaki Daishi (temple name)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "800",
+       "pos": "noun",
+       "gloss": "eight hundred"
+      },
+      {
+       "surface": "年",
+       "pos": "noun",
+       "reading": "ねん",
+       "romaji": "nen",
+       "gloss": "year"
+      },
+      {
+       "surface": "以上",
+       "pos": "noun",
+       "reading": "いじょう",
+       "romaji": "ijou",
+       "gloss": "or more, above"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "歴史",
+       "pos": "noun",
+       "reading": "れきし",
+       "romaji": "rekishi",
+       "gloss": "history"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, be located (inanimate)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "厄除け",
+       "pos": "noun",
+       "reading": "やくよけ",
+       "romaji": "yakuyoke",
+       "gloss": "warding off bad luck"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "ご利益",
+       "pos": "noun",
+       "reading": "ごりやく",
+       "romaji": "goriyaku",
+       "gloss": "divine blessing, benefit"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "ため",
+       "pos": "noun",
+       "romaji": "tame",
+       "gloss": "for the sake of, because of"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "多く",
+       "pos": "noun",
+       "reading": "おおく",
+       "romaji": "ooku",
+       "gloss": "many, a lot"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person, people"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "訪れ",
+       "pos": "verb",
+       "reading": "おとずれ",
+       "romaji": "otozure",
+       "lemma": "訪れる",
+       "gloss": "to visit"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Kawasaki Daishi has a history of more than 800 years, and many people visit for the blessing of \"warding off bad luck.\"",
+     "audioStart": 306.624,
+     "audioEnd": 316.752
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "不動明王を　まつった「不動堂」や、修行中の「弘法大師　空海」の姿を　表した「遍路大師尊像」などが　あります。",
+     "tokens": [
+      {
+       "surface": "不動明王",
+       "pos": "noun",
+       "reading": "ふどうみょうおう",
+       "romaji": "fudoumyouou",
+       "gloss": "Fudo Myoo (deity)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "まつっ",
+       "pos": "verb",
+       "romaji": "matsutsu",
+       "lemma": "まつる",
+       "gloss": "to enshrine, worship"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "不動堂",
+       "pos": "noun",
+       "reading": "ふどうどう",
+       "romaji": "fudoudou",
+       "gloss": "Fudo Hall"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "non-exhaustive listing particle (and)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "修行",
+       "pos": "noun",
+       "reading": "しゅぎょう",
+       "romaji": "shugyou",
+       "gloss": "ascetic training, religious practice"
+      },
+      {
+       "surface": "中",
+       "pos": "suffix",
+       "reading": "ちゅう",
+       "romaji": "chuu",
+       "gloss": "inside, middle"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "弘法",
+       "pos": "noun",
+       "reading": "こうぼう",
+       "romaji": "koubou",
+       "gloss": "Kobo (part of honorific name)"
+      },
+      {
+       "surface": "大師",
+       "pos": "noun",
+       "reading": "だいし",
+       "romaji": "daishi",
+       "gloss": "great teacher, master (Buddhist title)"
+      },
+      {
+       "surface": "空海",
+       "pos": "noun",
+       "reading": "くうかい",
+       "romaji": "kuukai",
+       "gloss": "Kukai (monk's name)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "姿",
+       "pos": "noun",
+       "reading": "すがた",
+       "romaji": "sugata",
+       "gloss": "figure, appearance"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "表し",
+       "pos": "verb",
+       "reading": "あらわし",
+       "romaji": "arawashi",
+       "lemma": "表す",
+       "gloss": "to represent, express"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "遍路",
+       "pos": "noun",
+       "reading": "へんろ",
+       "romaji": "henro",
+       "gloss": "pilgrimage, pilgrim"
+      },
+      {
+       "surface": "大師",
+       "pos": "noun",
+       "reading": "だいし",
+       "romaji": "daishi",
+       "gloss": "great teacher, master (Buddhist title)"
+      },
+      {
+       "surface": "尊像",
+       "pos": "noun",
+       "reading": "そんぞう",
+       "romaji": "sonzou",
+       "gloss": "sacred statue"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, be located (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There is also the \"Fudo Hall\" enshrining Fudo Myoo, and the \"Henro Daishi Statue\" depicting \"Kobo Daishi Kukai\" during his ascetic training, among others.",
+     "audioStart": 316.752,
+     "audioEnd": 328.584
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "境内が　広いので、ゆっくり　お寺を　見ることが　できます。",
+     "tokens": [
+      {
+       "surface": "境内",
+       "pos": "noun",
+       "reading": "けいだい",
+       "romaji": "keidai",
+       "gloss": "temple/shrine grounds"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "広い",
+       "pos": "adjective",
+       "reading": "ひろい",
+       "romaji": "hiroi",
+       "gloss": "spacious, wide"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "plain copula (is)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ゆっくり",
+       "pos": "adverb",
+       "romaji": "yukkuri",
+       "gloss": "slowly, leisurely"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "寺",
+       "pos": "noun",
+       "reading": "てら",
+       "romaji": "tera",
+       "gloss": "temple"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "見る",
+       "pos": "verb",
+       "reading": "みる",
+       "romaji": "miru",
+       "gloss": "to see, look"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer (the fact/act of ~)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to, can"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Since the temple grounds are spacious, you can take your time looking around the temple.",
+     "audioStart": 328.584,
+     "audioEnd": 333.816
+    },
+    {
+     "text": "また、お寺に　入るとき、　お金は　いりません。",
+     "tokens": [
+      {
+       "surface": "また",
+       "pos": "conjunction",
+       "romaji": "mata",
+       "gloss": "also, additionally"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "寺",
+       "pos": "noun",
+       "reading": "てら",
+       "romaji": "tera",
+       "gloss": "temple"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target particle (in/at/to)"
+      },
+      {
+       "surface": "入る",
+       "pos": "verb",
+       "reading": "はいる",
+       "romaji": "hairu",
+       "gloss": "to enter"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "when, time"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "お金",
+       "pos": "noun",
+       "reading": "おかね",
+       "romaji": "okane",
+       "gloss": "money"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "いり",
+       "pos": "verb",
+       "romaji": "iri",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (literary 'not')"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Also, you don't need money to enter the temple.",
+     "audioStart": 333.816,
+     "audioEnd": 338.664
+    },
+    {
+     "text": "日本人からも　人気で、見るべきところが　たくさん　ある　川崎大師へ、出かけてみませんか？",
+     "tokens": [
+      {
+       "surface": "日本人",
+       "pos": "noun",
+       "reading": "にほんじん",
+       "romaji": "nihonjin",
+       "gloss": "Japanese person, people"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "because, from"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "人気",
+       "pos": "noun",
+       "reading": "にんき",
+       "romaji": "ninki",
+       "gloss": "popularity"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location-of-action particle (in/at)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "見る",
+       "pos": "verb",
+       "reading": "みる",
+       "romaji": "miru",
+       "gloss": "to see, look"
+      },
+      {
+       "surface": "べき",
+       "pos": "auxiliary",
+       "romaji": "beki",
+       "lemma": "べし",
+       "gloss": "should, ought to (root of ~べき)"
+      },
+      {
+       "surface": "ところ",
+       "pos": "noun",
+       "romaji": "tokoro",
+       "gloss": "place, spot"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many"
+      },
+      {
+       "surface": "ある",
+       "pos": "prenominal",
+       "romaji": "aru",
+       "gloss": "to exist, be located (inanimate)"
+      },
+      {
+       "surface": "川崎大師",
+       "pos": "noun",
+       "reading": "かわさきだいし",
+       "romaji": "kawasakidaishi",
+       "gloss": "Kawasaki Daishi (temple name)"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "direction particle (toward)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "出かけ",
+       "pos": "verb",
+       "reading": "でかけ",
+       "romaji": "dekake",
+       "lemma": "出かける",
+       "gloss": "to go out, head out"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "み",
+       "pos": "verb",
+       "romaji": "mi",
+       "lemma": "みる",
+       "gloss": "to try doing (auxiliary after te-form)"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (literary 'not')"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question marker"
+      },
+      {
+       "surface": "？",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Popular among Japanese people too and full of things worth seeing, why not go visit Kawasaki Daishi?",
+     "audioStart": 338.664,
+     "audioEnd": 346.728
+    }
+   ]
+  }
+ ]
+}

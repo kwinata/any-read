@@ -1,0 +1,1274 @@
+{
+ "schemaVersion": 1,
+ "id": "spacia-x-sounded-horn-200-meters-before-the-site-tobu-railwa",
+ "language": "ja",
+ "title": "「スペーシアX」は現場200メートル手前で警笛東武鉄道の記録装置で判明除草作業員4人死亡事故",
+ "titleTranslation": "'Spacia X' Sounded Horn 200 Meters Before the Site — Tobu Railway's Recorder Reveals — Accident Kills 4 Weed-Clearing Workers",
+ "level": "N2",
+ "summary": "A Tobu Railway recording device shows the express train \"Spacia X\" sounded its horn 200 meters before hitting and killing four weed-clearing workers in Kanuma, Tochigi Prefecture, and police are now investigating the safety-check procedures used at the time.",
+ "sourceUrl": "https://news.yahoo.co.jp/articles/9886bab0555d0f2680c09315367cd3102dbe78c1",
+ "createdAt": "2026-08-22T16:24:01+00:00",
+ "audioFile": "audio.mp3",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "栃木県鹿沼市で特急列車と接触した作業員4人が死亡した事故で、運転状況を記録する装置に事故現場の手前200メートルで警笛を鳴らした記録があったことが分かりました。",
+     "tokens": [
+      {
+       "surface": "栃木県鹿沼市",
+       "pos": "noun",
+       "reading": "とちぎけんかぬまし",
+       "romaji": "tochigikenkanumashi",
+       "gloss": "Kanuma City, Tochigi Prefecture"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker (\"at/by\")"
+      },
+      {
+       "surface": "特急列車",
+       "pos": "noun",
+       "reading": "とっきゅうれっしゃ",
+       "romaji": "tokkyuuressha",
+       "gloss": "express train"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle marking the other party (\"with\")"
+      },
+      {
+       "surface": "接触",
+       "pos": "noun",
+       "reading": "せっしょく",
+       "romaji": "sesshoku",
+       "gloss": "contact/collision"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do (verbalizing suffix)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "作業員",
+       "pos": "noun",
+       "reading": "さぎょういん",
+       "romaji": "sagyouin",
+       "gloss": "worker"
+      },
+      {
+       "surface": "4",
+       "pos": "noun",
+       "gloss": "four"
+      },
+      {
+       "surface": "人",
+       "pos": "suffix",
+       "reading": "にん",
+       "romaji": "nin",
+       "gloss": "counter for people"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "死亡",
+       "pos": "noun",
+       "reading": "しぼう",
+       "romaji": "shibou",
+       "gloss": "death"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do (verbalizing suffix)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "事故",
+       "pos": "noun",
+       "reading": "じこ",
+       "romaji": "jiko",
+       "gloss": "accident"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker (\"at/by\")"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "運転",
+       "pos": "noun",
+       "reading": "うんてん",
+       "romaji": "unten",
+       "gloss": "operation/driving"
+      },
+      {
+       "surface": "状況",
+       "pos": "noun",
+       "reading": "じょうきょう",
+       "romaji": "joukyou",
+       "gloss": "situation/condition"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "記録",
+       "pos": "noun",
+       "reading": "きろく",
+       "romaji": "kiroku",
+       "gloss": "record"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do (verbalizing suffix)"
+      },
+      {
+       "surface": "装置",
+       "pos": "noun",
+       "reading": "そうち",
+       "romaji": "souchi",
+       "gloss": "device"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target marker (\"at/in\")"
+      },
+      {
+       "surface": "事故",
+       "pos": "noun",
+       "reading": "じこ",
+       "romaji": "jiko",
+       "gloss": "accident"
+      },
+      {
+       "surface": "現場",
+       "pos": "noun",
+       "reading": "げんば",
+       "romaji": "genba",
+       "gloss": "site/scene"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")"
+      },
+      {
+       "surface": "手前",
+       "pos": "noun",
+       "reading": "てまえ",
+       "romaji": "temae",
+       "gloss": "just before/short of"
+      },
+      {
+       "surface": "200",
+       "pos": "noun",
+       "gloss": "two hundred"
+      },
+      {
+       "surface": "メートル",
+       "pos": "noun",
+       "romaji": "meetoru",
+       "gloss": "meter"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker (\"at/by\")"
+      },
+      {
+       "surface": "警笛",
+       "pos": "noun",
+       "reading": "けいてき",
+       "romaji": "keiteki",
+       "gloss": "horn/warning whistle"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "鳴らし",
+       "pos": "verb",
+       "reading": "ならし",
+       "romaji": "narashi",
+       "lemma": "鳴らす",
+       "gloss": "to sound/ring"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "記録",
+       "pos": "noun",
+       "reading": "きろく",
+       "romaji": "kiroku",
+       "gloss": "record"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "あっ",
+       "pos": "verb",
+       "romaji": "atsu",
+       "lemma": "ある",
+       "gloss": "to exist/there is"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer (\"the fact that\")"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "分かり",
+       "pos": "verb",
+       "reading": "わかり",
+       "romaji": "wakari",
+       "lemma": "分かる",
+       "gloss": "to become clear/be found"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In the accident in Kanuma City, Tochigi Prefecture, in which four workers were struck by an express train and died, it has been found that the train's operation-recording device shows the horn was sounded 200 meters before the accident site.",
+     "audioStart": 0.0,
+     "audioEnd": 16.296
+    },
+    {
+     "text": "20日、東武日光線・新鹿沼駅で除草作業をしていた作業員4人が特急列車と接触し、死亡しました。",
+     "tokens": [
+      {
+       "surface": "20",
+       "pos": "noun",
+       "gloss": "twenty"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day (of month)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "東武日光",
+       "pos": "noun",
+       "reading": "とうぶにっこう",
+       "romaji": "toubunikkou",
+       "gloss": "Tobu Nikko (railway line name)"
+      },
+      {
+       "surface": "線",
+       "pos": "suffix",
+       "reading": "せん",
+       "romaji": "sen",
+       "gloss": "line (railway)"
+      },
+      {
+       "surface": "・",
+       "pos": "punct"
+      },
+      {
+       "surface": "新鹿沼駅",
+       "pos": "noun",
+       "reading": "しんかぬまえき",
+       "romaji": "shinkanumaeki",
+       "gloss": "Shin-Kanuma Station"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker (\"at/by\")"
+      },
+      {
+       "surface": "除草",
+       "pos": "noun",
+       "reading": "じょそう",
+       "romaji": "josou",
+       "gloss": "weeding/weed removal"
+      },
+      {
+       "surface": "作業",
+       "pos": "noun",
+       "reading": "さぎょう",
+       "romaji": "sagyou",
+       "gloss": "work/task"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do (verbalizing suffix)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "作業員",
+       "pos": "noun",
+       "reading": "さぎょういん",
+       "romaji": "sagyouin",
+       "gloss": "worker"
+      },
+      {
+       "surface": "4",
+       "pos": "noun",
+       "gloss": "four"
+      },
+      {
+       "surface": "人",
+       "pos": "suffix",
+       "reading": "にん",
+       "romaji": "nin",
+       "gloss": "counter for people"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "特急列車",
+       "pos": "noun",
+       "reading": "とっきゅうれっしゃ",
+       "romaji": "tokkyuuressha",
+       "gloss": "express train"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle marking the other party (\"with\")"
+      },
+      {
+       "surface": "接触",
+       "pos": "noun",
+       "reading": "せっしょく",
+       "romaji": "sesshoku",
+       "gloss": "contact/collision"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do (verbalizing suffix)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "死亡",
+       "pos": "noun",
+       "reading": "しぼう",
+       "romaji": "shibou",
+       "gloss": "death"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do (verbalizing suffix)"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On the 20th, four workers who were doing weeding work at Shin-Kanuma Station on the Tobu Nikko Line were struck by an express train and died.",
+     "audioStart": 16.296,
+     "audioEnd": 27.648
+    },
+    {
+     "text": "事故当時の安全確認状況の解明が焦点となっていますが、東武鉄道によりますと、列車の運転状況を記録する装置に、事故現場の約200メートル手前で警笛を鳴らした記録があったことが分かりました。",
+     "tokens": [
+      {
+       "surface": "事故",
+       "pos": "noun",
+       "reading": "じこ",
+       "romaji": "jiko",
+       "gloss": "accident"
+      },
+      {
+       "surface": "当時",
+       "pos": "noun",
+       "reading": "とうじ",
+       "romaji": "touji",
+       "gloss": "at that time"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")"
+      },
+      {
+       "surface": "安全",
+       "pos": "noun",
+       "reading": "あんぜん",
+       "romaji": "anzen",
+       "gloss": "safety"
+      },
+      {
+       "surface": "確認",
+       "pos": "noun",
+       "reading": "かくにん",
+       "romaji": "kakunin",
+       "gloss": "confirmation/checking"
+      },
+      {
+       "surface": "状況",
+       "pos": "noun",
+       "reading": "じょうきょう",
+       "romaji": "joukyou",
+       "gloss": "situation/condition"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")"
+      },
+      {
+       "surface": "解明",
+       "pos": "noun",
+       "reading": "かいめい",
+       "romaji": "kaimei",
+       "gloss": "clarification/elucidation"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "焦点",
+       "pos": "noun",
+       "reading": "しょうてん",
+       "romaji": "shouten",
+       "gloss": "focal point/focus"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle marking the other party (\"with\")"
+      },
+      {
+       "surface": "なっ",
+       "pos": "verb",
+       "romaji": "natsu",
+       "lemma": "なる",
+       "gloss": "to become"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "東武鉄道",
+       "pos": "noun",
+       "reading": "とうぶてつどう",
+       "romaji": "toubutetsudou",
+       "gloss": "Tobu Railway (company)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target marker (\"at/in\")"
+      },
+      {
+       "surface": "より",
+       "pos": "verb",
+       "romaji": "yori",
+       "lemma": "よる",
+       "gloss": "according to/based on"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle marking the other party (\"with\")"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "列車",
+       "pos": "noun",
+       "reading": "れっしゃ",
+       "romaji": "ressha",
+       "gloss": "train"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")"
+      },
+      {
+       "surface": "運転",
+       "pos": "noun",
+       "reading": "うんてん",
+       "romaji": "unten",
+       "gloss": "operation/driving"
+      },
+      {
+       "surface": "状況",
+       "pos": "noun",
+       "reading": "じょうきょう",
+       "romaji": "joukyou",
+       "gloss": "situation/condition"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "記録",
+       "pos": "noun",
+       "reading": "きろく",
+       "romaji": "kiroku",
+       "gloss": "record"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do (verbalizing suffix)"
+      },
+      {
+       "surface": "装置",
+       "pos": "noun",
+       "reading": "そうち",
+       "romaji": "souchi",
+       "gloss": "device"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/target marker (\"at/in\")"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "事故",
+       "pos": "noun",
+       "reading": "じこ",
+       "romaji": "jiko",
+       "gloss": "accident"
+      },
+      {
+       "surface": "現場",
+       "pos": "noun",
+       "reading": "げんば",
+       "romaji": "genba",
+       "gloss": "site/scene"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")"
+      },
+      {
+       "surface": "約",
+       "pos": "prefix",
+       "reading": "やく",
+       "romaji": "yaku",
+       "gloss": "approximately"
+      },
+      {
+       "surface": "200",
+       "pos": "noun",
+       "gloss": "two hundred"
+      },
+      {
+       "surface": "メートル",
+       "pos": "noun",
+       "romaji": "meetoru",
+       "gloss": "meter"
+      },
+      {
+       "surface": "手前",
+       "pos": "noun",
+       "reading": "てまえ",
+       "romaji": "temae",
+       "gloss": "just before/short of"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker (\"at/by\")"
+      },
+      {
+       "surface": "警笛",
+       "pos": "noun",
+       "reading": "けいてき",
+       "romaji": "keiteki",
+       "gloss": "horn/warning whistle"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "鳴らし",
+       "pos": "verb",
+       "reading": "ならし",
+       "romaji": "narashi",
+       "lemma": "鳴らす",
+       "gloss": "to sound/ring"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "記録",
+       "pos": "noun",
+       "reading": "きろく",
+       "romaji": "kiroku",
+       "gloss": "record"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "あっ",
+       "pos": "verb",
+       "romaji": "atsu",
+       "lemma": "ある",
+       "gloss": "to exist/there is"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer (\"the fact that\")"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "分かり",
+       "pos": "verb",
+       "reading": "わかり",
+       "romaji": "wakari",
+       "lemma": "分かる",
+       "gloss": "to become clear/be found"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Clarifying the safety-check situation at the time of the accident has become the focus, but according to Tobu Railway, it has been found that the train's operation-recording device shows the horn was sounded about 200 meters before the accident site.",
+     "audioStart": 27.648,
+     "audioEnd": 45.984
+    },
+    {
+     "text": "事故当時の「列車見張り員」や「中継見張り員」は、会社の講習などを受講したうえで資格を持ち、少なくとも5年以上の実務経験があるということで、警察は「見張り員」などから任意で事情聴取するなど、捜査を進めています。",
+     "tokens": [
+      {
+       "surface": "事故",
+       "pos": "noun",
+       "reading": "じこ",
+       "romaji": "jiko",
+       "gloss": "accident"
+      },
+      {
+       "surface": "当時",
+       "pos": "noun",
+       "reading": "とうじ",
+       "romaji": "touji",
+       "gloss": "at that time"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "列車",
+       "pos": "noun",
+       "reading": "れっしゃ",
+       "romaji": "ressha",
+       "gloss": "train"
+      },
+      {
+       "surface": "見張り",
+       "pos": "verb",
+       "reading": "みはり",
+       "romaji": "mihari",
+       "lemma": "見張る",
+       "gloss": "to keep watch"
+      },
+      {
+       "surface": "員",
+       "pos": "suffix",
+       "reading": "いん",
+       "romaji": "in",
+       "gloss": "member/personnel (suffix)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and/or (non-exhaustive listing)"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "中継",
+       "pos": "noun",
+       "reading": "ちゅうけい",
+       "romaji": "chuukei",
+       "gloss": "relay"
+      },
+      {
+       "surface": "見張り",
+       "pos": "verb",
+       "reading": "みはり",
+       "romaji": "mihari",
+       "lemma": "見張る",
+       "gloss": "to keep watch"
+      },
+      {
+       "surface": "員",
+       "pos": "suffix",
+       "reading": "いん",
+       "romaji": "in",
+       "gloss": "member/personnel (suffix)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "会社",
+       "pos": "noun",
+       "reading": "かいしゃ",
+       "romaji": "kaisha",
+       "gloss": "company"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")"
+      },
+      {
+       "surface": "講習",
+       "pos": "noun",
+       "reading": "こうしゅう",
+       "romaji": "koushuu",
+       "gloss": "training course"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc./and so on"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "受講",
+       "pos": "noun",
+       "reading": "じゅこう",
+       "romaji": "jukou",
+       "gloss": "taking a course"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do (verbalizing suffix)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "うえ",
+       "pos": "noun",
+       "romaji": "ue",
+       "gloss": "after doing ~ (うえで)"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker (\"at/by\")"
+      },
+      {
+       "surface": "資格",
+       "pos": "noun",
+       "reading": "しかく",
+       "romaji": "shikaku",
+       "gloss": "qualification"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "持ち",
+       "pos": "verb",
+       "reading": "もち",
+       "romaji": "mochi",
+       "lemma": "持つ",
+       "gloss": "to hold/have"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "少なく",
+       "pos": "adjective",
+       "reading": "すくなく",
+       "romaji": "sukunaku",
+       "lemma": "少ない",
+       "gloss": "few/little"
+      },
+      {
+       "surface": "とも",
+       "pos": "particle",
+       "romaji": "tomo",
+       "gloss": "at least (少なくとも)"
+      },
+      {
+       "surface": "5",
+       "pos": "noun",
+       "gloss": "five"
+      },
+      {
+       "surface": "年",
+       "pos": "noun",
+       "reading": "ねん",
+       "romaji": "nen",
+       "gloss": "year"
+      },
+      {
+       "surface": "以上",
+       "pos": "noun",
+       "reading": "いじょう",
+       "romaji": "ijou",
+       "gloss": "or more/above"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")"
+      },
+      {
+       "surface": "実務経験",
+       "pos": "noun",
+       "reading": "じつむけいけん",
+       "romaji": "jitsumukeiken",
+       "gloss": "practical work experience"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "ある",
+       "pos": "verb",
+       "romaji": "aru",
+       "gloss": "to exist/there is"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle marking the other party (\"with\")"
+      },
+      {
+       "surface": "いう",
+       "pos": "verb",
+       "romaji": "iu",
+       "gloss": "to say (ということで, \"given that\")"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer (\"the fact that\")"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula (\"is\")"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "警察",
+       "pos": "noun",
+       "reading": "けいさつ",
+       "romaji": "keisatsu",
+       "gloss": "police"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "見張り",
+       "pos": "verb",
+       "reading": "みはり",
+       "romaji": "mihari",
+       "lemma": "見張る",
+       "gloss": "to keep watch"
+      },
+      {
+       "surface": "員",
+       "pos": "suffix",
+       "reading": "いん",
+       "romaji": "in",
+       "gloss": "member/personnel (suffix)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc./and so on"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from"
+      },
+      {
+       "surface": "任意",
+       "pos": "noun",
+       "reading": "にんい",
+       "romaji": "nin'i",
+       "gloss": "voluntary"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker (\"at/by\")"
+      },
+      {
+       "surface": "事情",
+       "pos": "noun",
+       "reading": "じじょう",
+       "romaji": "jijou",
+       "gloss": "circumstances"
+      },
+      {
+       "surface": "聴取",
+       "pos": "noun",
+       "reading": "ちょうしゅ",
+       "romaji": "choushu",
+       "gloss": "hearing/questioning"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do (verbalizing suffix)"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc./and so on"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "捜査",
+       "pos": "noun",
+       "reading": "そうさ",
+       "romaji": "sousa",
+       "gloss": "investigation"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "進め",
+       "pos": "verb",
+       "reading": "すすめ",
+       "romaji": "susume",
+       "lemma": "進める",
+       "gloss": "to advance/proceed with"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The \"train lookout\" and \"relay lookout\" on duty at the time reportedly held qualifications after completing company training and had at least five years of practical experience, and police are proceeding with the investigation, including voluntarily questioning the lookouts.",
+     "audioStart": 45.984,
+     "audioEnd": 67.128
+    }
+   ]
+  }
+ ]
+}

@@ -16,18 +16,23 @@ as a home-screen PWA; opened articles work fully offline.
 
 ```sh
 cd pipeline
-.venv/bin/anyread news                   # recent NHK + nachrichtenleicht headlines
-.venv/bin/anyread add "<url>"            # fetch, annotate, narrate
+.venv/bin/anyread news                   # recent headlines (ja: Yahoo News + Matcha easy; de: nachrichtenleicht)
+.venv/bin/anyread add "<url>"            # fetch, tidy, annotate, narrate
 .venv/bin/anyread publish                # git commit + push -> site updates
 ```
 
 Options for `add`: `--lang ja|de` (default auto-detect), `--title`, `--voice
-<edge-tts voice>`, `--rate -20%` (default -10%), `--no-audio`,
+<edge-tts voice>`, `--rate -20%` (default -10%), `--no-audio`, `--no-tidy`,
 `--text-file file.txt` / `--stdin` for pasted text.
 
 The pipeline uses SudachiPy (Japanese tokenization + readings), pykakasi
-(romaji), the `claude` CLI (translations, glosses, JLPT/CEFR level — uses your
-existing login), and edge-tts (free neural voices, per-sentence timings).
+(romaji), the `claude` CLI (boilerplate cleanup, translations, glosses,
+JLPT/CEFR level — uses your existing login), and edge-tts (free neural voices,
+per-sentence timings).
+
+Japanese sources: Yahoo News briefs (news.yahoo.co.jp) and Matcha's
+やさしい日本語 articles (matcha-jp.com/easy — easier level). NHK stopped serving
+full article bodies to scrapers in 2026 (NHK ONE migration), so it's out.
 
 ## Phone setup (once)
 

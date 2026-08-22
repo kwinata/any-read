@@ -1,0 +1,4045 @@
+{
+ "schemaVersion": 1,
+ "id": "they-took-my-money-the-troubles-care-managers-face-in-long-t",
+ "language": "ja",
+ "title": "「お金を取られた」介護現場でケアマネらが直面するトラブル、殺人事件で浮き彫りに",
+ "titleTranslation": "\"They Took My Money\" — The Troubles Care Managers Face in Long-Term Care, Brought Into Sharp Relief by a Murder Case (Sankei Shimbun) - Yahoo! News",
+ "level": "N2",
+ "summary": "The June murder of a care manager in Kawaguchi, Saitama has exposed the customer harassment and safety risks facing Japan's long-term care workers, prompting new mandatory anti-harassment measures and government subsidies for accompanied home visits.",
+ "sourceUrl": "https://news.yahoo.co.jp/articles/c42124059862aaf51327ed6539c3a9ece3a31c9f",
+ "createdAt": "2026-08-22T16:29:01+00:00",
+ "audioFile": "audio.mp3",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "埼玉県川口市で6月、介護支援専門員（ケアマネジャー）が訪問先の住宅で殺害された事件を受け、介護職員の安全確保のあり方が問われている。",
+     "tokens": [
+      {
+       "surface": "埼玉県川口市",
+       "pos": "noun",
+       "reading": "さいたまけんかわぐちし",
+       "romaji": "saitamakenkawaguchishi",
+       "gloss": "Kawaguchi City, Saitama Prefecture"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle (\"in/at/by\")"
+      },
+      {
+       "surface": "6",
+       "pos": "noun",
+       "gloss": "six"
+      },
+      {
+       "surface": "月",
+       "pos": "noun",
+       "reading": "がつ",
+       "romaji": "gatsu",
+       "gloss": "month"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "介護",
+       "pos": "noun",
+       "reading": "かいご",
+       "romaji": "kaigo",
+       "gloss": "long-term/nursing care"
+      },
+      {
+       "surface": "支援",
+       "pos": "noun",
+       "reading": "しえん",
+       "romaji": "shien",
+       "gloss": "support"
+      },
+      {
+       "surface": "専門員",
+       "pos": "noun",
+       "reading": "せんもんいん",
+       "romaji": "senmon'in",
+       "gloss": "certified specialist"
+      },
+      {
+       "surface": "（",
+       "pos": "punct"
+      },
+      {
+       "surface": "ケアマネジャー",
+       "pos": "noun",
+       "romaji": "keamanejaa",
+       "gloss": "care manager"
+      },
+      {
+       "surface": "）",
+       "pos": "punct"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "訪問先",
+       "pos": "noun",
+       "reading": "ほうもんさき",
+       "romaji": "houmonsaki",
+       "gloss": "place being visited"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "住宅",
+       "pos": "noun",
+       "reading": "じゅうたく",
+       "romaji": "juutaku",
+       "gloss": "residence, house"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle (\"in/at/by\")"
+      },
+      {
+       "surface": "殺害",
+       "pos": "noun",
+       "reading": "さつがい",
+       "romaji": "satsugai",
+       "gloss": "murder, killing"
+      },
+      {
+       "surface": "さ",
+       "pos": "verb",
+       "romaji": "sa",
+       "lemma": "する",
+       "gloss": "to do (verb suffix)"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "事件",
+       "pos": "noun",
+       "reading": "じけん",
+       "romaji": "jiken",
+       "gloss": "incident, case"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "受け",
+       "pos": "verb",
+       "reading": "うけ",
+       "romaji": "uke",
+       "lemma": "受ける",
+       "gloss": "to receive, undergo (here: in response to)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "介護",
+       "pos": "noun",
+       "reading": "かいご",
+       "romaji": "kaigo",
+       "gloss": "long-term/nursing care"
+      },
+      {
+       "surface": "職員",
+       "pos": "noun",
+       "reading": "しょくいん",
+       "romaji": "shokuin",
+       "gloss": "staff member"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "安全確保",
+       "pos": "noun",
+       "reading": "あんぜんかくほ",
+       "romaji": "anzenkakuho",
+       "gloss": "ensuring safety"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "あり方",
+       "pos": "noun",
+       "reading": "ありかた",
+       "romaji": "arikata",
+       "gloss": "the proper way something should be"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "問わ",
+       "pos": "verb",
+       "reading": "とわ",
+       "romaji": "towa",
+       "lemma": "問う",
+       "gloss": "to question, call into question"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "progressive/stative auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In Kawaguchi City, Saitama Prefecture, a care manager was murdered at a client's home in June, prompting questions about how to ensure the safety of long-term care workers.",
+     "audioStart": 0.0,
+     "audioEnd": 14.952
+    },
+    {
+     "text": "利用者や家族からのカスタマーハラスメント（カスハラ）が相次いでおり、10月からは全ての介護事業者にカスハラ対策が義務化される。",
+     "tokens": [
+      {
+       "surface": "利用者",
+       "pos": "noun",
+       "reading": "りようしゃ",
+       "romaji": "riyousha",
+       "gloss": "user, client"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and/or (non-exhaustive listing)"
+      },
+      {
+       "surface": "家族",
+       "pos": "noun",
+       "reading": "かぞく",
+       "romaji": "kazoku",
+       "gloss": "family"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "カスタマーハラスメント",
+       "pos": "noun",
+       "romaji": "kasutamaaharasumento",
+       "gloss": "customer harassment"
+      },
+      {
+       "surface": "（",
+       "pos": "punct"
+      },
+      {
+       "surface": "カスハラ",
+       "pos": "noun",
+       "romaji": "kasuhara",
+       "gloss": "customer harassment (abbrev.)"
+      },
+      {
+       "surface": "）",
+       "pos": "punct"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "相",
+       "pos": "prefix",
+       "reading": "あい",
+       "romaji": "ai",
+       "gloss": "mutual/each other (prefix)"
+      },
+      {
+       "surface": "次い",
+       "pos": "verb",
+       "reading": "つい",
+       "romaji": "tsui",
+       "lemma": "次ぐ",
+       "gloss": "to follow, occur in succession"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle (\"in/at/by\")"
+      },
+      {
+       "surface": "おり",
+       "pos": "verb",
+       "romaji": "ori",
+       "lemma": "おる",
+       "gloss": "to be (plain form, used in -ており)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "10",
+       "pos": "noun",
+       "gloss": "ten"
+      },
+      {
+       "surface": "月",
+       "pos": "noun",
+       "reading": "がつ",
+       "romaji": "gatsu",
+       "gloss": "month"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "全て",
+       "pos": "noun",
+       "reading": "すべて",
+       "romaji": "subete",
+       "gloss": "all"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "介護",
+       "pos": "noun",
+       "reading": "かいご",
+       "romaji": "kaigo",
+       "gloss": "long-term/nursing care"
+      },
+      {
+       "surface": "事業者",
+       "pos": "noun",
+       "reading": "じぎょうしゃ",
+       "romaji": "jigyousha",
+       "gloss": "business operator, provider"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/indirect object particle"
+      },
+      {
+       "surface": "カスハラ",
+       "pos": "noun",
+       "romaji": "kasuhara",
+       "gloss": "customer harassment (abbrev.)"
+      },
+      {
+       "surface": "対策",
+       "pos": "noun",
+       "reading": "たいさく",
+       "romaji": "taisaku",
+       "gloss": "countermeasure"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "義務化",
+       "pos": "noun",
+       "reading": "ぎむか",
+       "romaji": "gimuka",
+       "gloss": "making mandatory"
+      },
+      {
+       "surface": "さ",
+       "pos": "verb",
+       "romaji": "sa",
+       "lemma": "する",
+       "gloss": "to do (verb suffix)"
+      },
+      {
+       "surface": "れる",
+       "pos": "auxiliary",
+       "romaji": "reru",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Customer harassment (\"kasu-hara\") from users and their families has been occurring one after another, and from October all long-term care providers will be required to take measures against it.",
+     "audioStart": 14.952,
+     "audioEnd": 26.88
+    },
+    {
+     "text": "複数人での訪問といった対策が推奨され、関連経費が補助されるものの深刻な人手不足に直面する現場からは「実態に即していない」との声が上がる。",
+     "tokens": [
+      {
+       "surface": "複数人",
+       "pos": "noun",
+       "reading": "ふくすうにん",
+       "romaji": "fukusuunin",
+       "gloss": "multiple people"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle (\"in/at/by\")"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "訪問",
+       "pos": "noun",
+       "reading": "ほうもん",
+       "romaji": "houmon",
+       "gloss": "visit"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/\"and\" particle"
+      },
+      {
+       "surface": "いっ",
+       "pos": "verb",
+       "romaji": "itsu",
+       "lemma": "いう",
+       "gloss": "to say (used in という)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "対策",
+       "pos": "noun",
+       "reading": "たいさく",
+       "romaji": "taisaku",
+       "gloss": "countermeasure"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "推奨",
+       "pos": "noun",
+       "reading": "すいしょう",
+       "romaji": "suishou",
+       "gloss": "recommendation"
+      },
+      {
+       "surface": "さ",
+       "pos": "verb",
+       "romaji": "sa",
+       "lemma": "する",
+       "gloss": "to do (verb suffix)"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "関連",
+       "pos": "noun",
+       "reading": "かんれん",
+       "romaji": "kanren",
+       "gloss": "related"
+      },
+      {
+       "surface": "経費",
+       "pos": "noun",
+       "reading": "けいひ",
+       "romaji": "keihi",
+       "gloss": "expenses, costs"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "補助",
+       "pos": "noun",
+       "reading": "ほじょ",
+       "romaji": "hojo",
+       "gloss": "subsidy"
+      },
+      {
+       "surface": "さ",
+       "pos": "verb",
+       "romaji": "sa",
+       "lemma": "する",
+       "gloss": "to do (verb suffix)"
+      },
+      {
+       "surface": "れる",
+       "pos": "auxiliary",
+       "romaji": "reru",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "もの",
+       "pos": "noun",
+       "romaji": "mono",
+       "gloss": "concessive \"although\" (ものの)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "深刻",
+       "pos": "adjective",
+       "reading": "しんこく",
+       "romaji": "shinkoku",
+       "gloss": "serious"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula (is)"
+      },
+      {
+       "surface": "人手不足",
+       "pos": "noun",
+       "reading": "ひとでふそく",
+       "romaji": "hitodefusoku",
+       "gloss": "labor shortage"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/indirect object particle"
+      },
+      {
+       "surface": "直面",
+       "pos": "noun",
+       "reading": "ちょくめん",
+       "romaji": "chokumen",
+       "gloss": "facing, confronting"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do (verb suffix)"
+      },
+      {
+       "surface": "現場",
+       "pos": "noun",
+       "reading": "げんば",
+       "romaji": "genba",
+       "gloss": "the field, on-site"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "実態",
+       "pos": "noun",
+       "reading": "じったい",
+       "romaji": "jittai",
+       "gloss": "actual situation"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/indirect object particle"
+      },
+      {
+       "surface": "即し",
+       "pos": "verb",
+       "reading": "そくし",
+       "romaji": "sokushi",
+       "lemma": "即する",
+       "gloss": "to conform to, match"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/stative auxiliary"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negation"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/\"and\" particle"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "声",
+       "pos": "noun",
+       "reading": "こえ",
+       "romaji": "koe",
+       "gloss": "voice"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "上がる",
+       "pos": "verb",
+       "reading": "あがる",
+       "romaji": "agaru",
+       "gloss": "to rise, be raised"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Measures such as visiting in pairs are being recommended and related costs subsidized, but voices from the field, which faces a severe labor shortage, say \"this doesn't match reality.\"",
+     "audioStart": 26.88,
+     "audioEnd": 41.328
+    },
+    {
+     "text": "専門家は積極的な行政の介入を求めている。",
+     "tokens": [
+      {
+       "surface": "専門家",
+       "pos": "noun",
+       "reading": "せんもんか",
+       "romaji": "senmonka",
+       "gloss": "expert"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "積極的",
+       "pos": "noun",
+       "reading": "せっきょくてき",
+       "romaji": "sekkyokuteki",
+       "gloss": "proactive, active"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula (is)"
+      },
+      {
+       "surface": "行政",
+       "pos": "noun",
+       "reading": "ぎょうせい",
+       "romaji": "gyousei",
+       "gloss": "administration, government"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "介入",
+       "pos": "noun",
+       "reading": "かいにゅう",
+       "romaji": "kainyuu",
+       "gloss": "intervention"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "求め",
+       "pos": "verb",
+       "reading": "もとめ",
+       "romaji": "motome",
+       "lemma": "求める",
+       "gloss": "to request, call for"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "progressive/stative auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Experts are calling for active government intervention.",
+     "audioStart": 41.328,
+     "audioEnd": 46.752
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "「ケアマネジャーを刃物で刺した。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "ケアマネジャー",
+       "pos": "noun",
+       "romaji": "keamanejaa",
+       "gloss": "care manager"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "刃物",
+       "pos": "noun",
+       "reading": "はもの",
+       "romaji": "hamono",
+       "gloss": "bladed weapon"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle (\"in/at/by\")"
+      },
+      {
+       "surface": "刺し",
+       "pos": "verb",
+       "reading": "さし",
+       "romaji": "sashi",
+       "lemma": "刺す",
+       "gloss": "to stab"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "\"I stabbed the care manager with a blade.",
+     "audioStart": 46.752,
+     "audioEnd": 49.968
+    },
+    {
+     "text": "これから自分も刺す」。",
+     "tokens": [
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore",
+       "gloss": "this"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from"
+      },
+      {
+       "surface": "自分",
+       "pos": "noun",
+       "reading": "じぶん",
+       "romaji": "jibun",
+       "gloss": "oneself"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "刺す",
+       "pos": "verb",
+       "reading": "さす",
+       "romaji": "sasu",
+       "gloss": "to stab"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I'm going to stab myself next.\"",
+     "audioStart": 49.968,
+     "audioEnd": 52.68
+    },
+    {
+     "text": "6月1日午後、川口市飯原町の住宅で無職の男＝当時（60）＝から110番があった。",
+     "tokens": [
+      {
+       "surface": "6",
+       "pos": "noun",
+       "gloss": "six"
+      },
+      {
+       "surface": "月",
+       "pos": "noun",
+       "reading": "がつ",
+       "romaji": "gatsu",
+       "gloss": "month"
+      },
+      {
+       "surface": "1日",
+       "pos": "noun",
+       "reading": "ついたち",
+       "romaji": "tsuitachi",
+       "gloss": "the 1st (day of month)"
+      },
+      {
+       "surface": "午後",
+       "pos": "noun",
+       "reading": "ごご",
+       "romaji": "gogo",
+       "gloss": "afternoon"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "川口市飯原町",
+       "pos": "noun",
+       "reading": "かわぐちしいいはらちょう",
+       "romaji": "kawaguchishiiiharachou",
+       "gloss": "Iihara-cho, Kawaguchi City"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "住宅",
+       "pos": "noun",
+       "reading": "じゅうたく",
+       "romaji": "juutaku",
+       "gloss": "residence, house"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle (\"in/at/by\")"
+      },
+      {
+       "surface": "無職",
+       "pos": "noun",
+       "reading": "むしょく",
+       "romaji": "mushoku",
+       "gloss": "unemployed"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "男",
+       "pos": "noun",
+       "reading": "おとこ",
+       "romaji": "otoko",
+       "gloss": "man"
+      },
+      {
+       "surface": "＝",
+       "pos": "punct"
+      },
+      {
+       "surface": "当時",
+       "pos": "noun",
+       "reading": "とうじ",
+       "romaji": "touji",
+       "gloss": "at the time"
+      },
+      {
+       "surface": "（",
+       "pos": "punct"
+      },
+      {
+       "surface": "60",
+       "pos": "noun",
+       "gloss": "sixty"
+      },
+      {
+       "surface": "）",
+       "pos": "punct"
+      },
+      {
+       "surface": "＝",
+       "pos": "punct"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from"
+      },
+      {
+       "surface": "110",
+       "pos": "noun",
+       "gloss": "110 (emergency police number)"
+      },
+      {
+       "surface": "番",
+       "pos": "noun",
+       "reading": "ばん",
+       "romaji": "ban",
+       "gloss": "number (as in emergency call)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "あっ",
+       "pos": "verb",
+       "romaji": "atsu",
+       "lemma": "ある",
+       "gloss": "to exist, there was"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On the afternoon of June 1, an unemployed man (60 at the time) called 110 from a home in Iihara-cho, Kawaguchi City.",
+     "audioStart": 52.68,
+     "audioEnd": 62.496
+    },
+    {
+     "text": "埼玉県警によると、血を流して倒れていた鈴木希代子さん＝同（63）＝を署員が見つけ、男は自ら首を切った。",
+     "tokens": [
+      {
+       "surface": "埼玉県",
+       "pos": "noun",
+       "reading": "さいたまけん",
+       "romaji": "saitamaken",
+       "gloss": "Saitama Prefecture"
+      },
+      {
+       "surface": "警",
+       "pos": "suffix",
+       "reading": "けい",
+       "romaji": "kei",
+       "gloss": "police"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/indirect object particle"
+      },
+      {
+       "surface": "よる",
+       "pos": "verb",
+       "romaji": "yoru",
+       "gloss": "according to, based on (による)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/\"and\" particle"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "血",
+       "pos": "noun",
+       "reading": "ち",
+       "romaji": "chi",
+       "gloss": "blood"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "流し",
+       "pos": "verb",
+       "reading": "ながし",
+       "romaji": "nagashi",
+       "lemma": "流す",
+       "gloss": "to shed, spill"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "倒れ",
+       "pos": "verb",
+       "reading": "たおれ",
+       "romaji": "taore",
+       "lemma": "倒れる",
+       "gloss": "to collapse, fall down"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/stative auxiliary"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "鈴木",
+       "pos": "noun",
+       "reading": "すずき",
+       "romaji": "suzuki",
+       "gloss": "Suzuki (surname)"
+      },
+      {
+       "surface": "希代子",
+       "pos": "noun",
+       "reading": "きよこ",
+       "romaji": "kiyoko",
+       "gloss": "Kiyoko (given name)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "Mr./Ms. (honorific)"
+      },
+      {
+       "surface": "＝",
+       "pos": "punct"
+      },
+      {
+       "surface": "同",
+       "pos": "noun",
+       "reading": "どう",
+       "romaji": "dou",
+       "gloss": "same (as previously mentioned)"
+      },
+      {
+       "surface": "（",
+       "pos": "punct"
+      },
+      {
+       "surface": "63",
+       "pos": "noun",
+       "gloss": "sixty-three"
+      },
+      {
+       "surface": "）",
+       "pos": "punct"
+      },
+      {
+       "surface": "＝",
+       "pos": "punct"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "署員",
+       "pos": "noun",
+       "reading": "しょいん",
+       "romaji": "shoin",
+       "gloss": "police station officer"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "見つけ",
+       "pos": "verb",
+       "reading": "みつけ",
+       "romaji": "mitsuke",
+       "lemma": "見つける",
+       "gloss": "to find"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "男",
+       "pos": "noun",
+       "reading": "おとこ",
+       "romaji": "otoko",
+       "gloss": "man"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "自ら",
+       "pos": "noun",
+       "reading": "みずから",
+       "romaji": "mizukara",
+       "gloss": "oneself, on one's own"
+      },
+      {
+       "surface": "首",
+       "pos": "noun",
+       "reading": "くび",
+       "romaji": "kubi",
+       "gloss": "neck, throat"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "切っ",
+       "pos": "verb",
+       "reading": "きっ",
+       "romaji": "kitsu",
+       "lemma": "切る",
+       "gloss": "to cut"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "According to the Saitama prefectural police, officers found Suzuki Kiyoko (63) collapsed and bleeding, and the man had cut his own throat.",
+     "audioStart": 62.496,
+     "audioEnd": 74.256
+    },
+    {
+     "text": "いずれも搬送先の病院で死亡した。",
+     "tokens": [
+      {
+       "surface": "いずれ",
+       "pos": "pronoun",
+       "romaji": "izure",
+       "gloss": "either, both (of them)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "搬送",
+       "pos": "noun",
+       "reading": "はんそう",
+       "romaji": "hansou",
+       "gloss": "transport (to hospital)"
+      },
+      {
+       "surface": "先",
+       "pos": "noun",
+       "reading": "さき",
+       "romaji": "saki",
+       "gloss": "destination"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "病院",
+       "pos": "noun",
+       "reading": "びょういん",
+       "romaji": "byouin",
+       "gloss": "hospital"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle (\"in/at/by\")"
+      },
+      {
+       "surface": "死亡",
+       "pos": "noun",
+       "reading": "しぼう",
+       "romaji": "shibou",
+       "gloss": "death"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do (verb suffix)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Both died at the hospital they were taken to.",
+     "audioStart": 74.256,
+     "audioEnd": 78.432
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "鈴木さんは、男と同居する90代の母親のケアマネとして複数回訪れていた。",
+     "tokens": [
+      {
+       "surface": "鈴木",
+       "pos": "noun",
+       "reading": "すずき",
+       "romaji": "suzuki",
+       "gloss": "Suzuki (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "Mr./Ms. (honorific)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "男",
+       "pos": "noun",
+       "reading": "おとこ",
+       "romaji": "otoko",
+       "gloss": "man"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/\"and\" particle"
+      },
+      {
+       "surface": "同居",
+       "pos": "noun",
+       "reading": "どうきょ",
+       "romaji": "doukyo",
+       "gloss": "living together"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do (verb suffix)"
+      },
+      {
+       "surface": "90",
+       "pos": "noun",
+       "gloss": "ninety"
+      },
+      {
+       "surface": "代",
+       "pos": "noun",
+       "reading": "だい",
+       "romaji": "dai",
+       "gloss": "decade of age suffix (e.g. 90s)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "母親",
+       "pos": "noun",
+       "reading": "ははおや",
+       "romaji": "hahaoya",
+       "gloss": "mother"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "ケアマネ",
+       "pos": "noun",
+       "romaji": "keamane",
+       "gloss": "care manager (short form)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/\"and\" particle"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do (verb suffix)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "複数回",
+       "pos": "noun",
+       "reading": "ふくすうかい",
+       "romaji": "fukusuukai",
+       "gloss": "multiple times"
+      },
+      {
+       "surface": "訪れ",
+       "pos": "verb",
+       "reading": "おとずれ",
+       "romaji": "otozure",
+       "lemma": "訪れる",
+       "gloss": "to visit"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/stative auxiliary"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Suzuki had visited multiple times as the care manager for the man's mother, who is in her 90s and lives with him.",
+     "audioStart": 78.432,
+     "audioEnd": 86.976
+    },
+    {
+     "text": "この日は医師の訪問診療に付き添う予定だったが、医師の到着前に襲われたとみられる。",
+     "tokens": [
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "ひ",
+       "romaji": "hi",
+       "gloss": "day"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "医師",
+       "pos": "noun",
+       "reading": "いし",
+       "romaji": "ishi",
+       "gloss": "doctor"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "訪問",
+       "pos": "noun",
+       "reading": "ほうもん",
+       "romaji": "houmon",
+       "gloss": "visit"
+      },
+      {
+       "surface": "診療",
+       "pos": "noun",
+       "reading": "しんりょう",
+       "romaji": "shinryou",
+       "gloss": "medical examination, treatment"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/indirect object particle"
+      },
+      {
+       "surface": "付き添う",
+       "pos": "verb",
+       "reading": "つきそう",
+       "romaji": "tsukisou",
+       "gloss": "to accompany"
+      },
+      {
+       "surface": "予定",
+       "pos": "noun",
+       "reading": "よてい",
+       "romaji": "yotei",
+       "gloss": "plan, schedule"
+      },
+      {
+       "surface": "だっ",
+       "pos": "auxiliary",
+       "romaji": "datsu",
+       "lemma": "だ",
+       "gloss": "copula (is)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "医師",
+       "pos": "noun",
+       "reading": "いし",
+       "romaji": "ishi",
+       "gloss": "doctor"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "到着",
+       "pos": "noun",
+       "reading": "とうちゃく",
+       "romaji": "touchaku",
+       "gloss": "arrival"
+      },
+      {
+       "surface": "前",
+       "pos": "noun",
+       "reading": "まえ",
+       "romaji": "mae",
+       "gloss": "before"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/indirect object particle"
+      },
+      {
+       "surface": "襲わ",
+       "pos": "verb",
+       "reading": "おそわ",
+       "romaji": "osowa",
+       "lemma": "襲う",
+       "gloss": "to attack"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/\"and\" particle"
+      },
+      {
+       "surface": "み",
+       "pos": "verb",
+       "romaji": "mi",
+       "lemma": "みる",
+       "gloss": "to see, regard as (used in みられる)"
+      },
+      {
+       "surface": "られる",
+       "pos": "auxiliary",
+       "romaji": "rareru",
+       "gloss": "passive/potential auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "That day she was scheduled to accompany a doctor on a home visit, but is believed to have been attacked before the doctor arrived.",
+     "audioStart": 86.976,
+     "audioEnd": 95.304
+    },
+    {
+     "text": "男は110番の際「お金をだまし取られる」と話したが、トラブルは確認されておらず、何らかの思い込みが事件の背景にあった可能性がある。",
+     "tokens": [
+      {
+       "surface": "男",
+       "pos": "noun",
+       "reading": "おとこ",
+       "romaji": "otoko",
+       "gloss": "man"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "110",
+       "pos": "noun",
+       "gloss": "110 (emergency police number)"
+      },
+      {
+       "surface": "番",
+       "pos": "noun",
+       "reading": "ばん",
+       "romaji": "ban",
+       "gloss": "number (as in emergency call)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "際",
+       "pos": "noun",
+       "reading": "さい",
+       "romaji": "sai",
+       "gloss": "occasion, at the time of"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "お金",
+       "pos": "noun",
+       "reading": "おかね",
+       "romaji": "okane",
+       "gloss": "money"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "だまし取ら",
+       "pos": "verb",
+       "reading": "だましとら",
+       "romaji": "damashitora",
+       "lemma": "だまし取る",
+       "gloss": "to swindle, con out of"
+      },
+      {
+       "surface": "れる",
+       "pos": "auxiliary",
+       "romaji": "reru",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/\"and\" particle"
+      },
+      {
+       "surface": "話し",
+       "pos": "verb",
+       "reading": "はなし",
+       "romaji": "hanashi",
+       "lemma": "話す",
+       "gloss": "to speak, say"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "トラブル",
+       "pos": "noun",
+       "romaji": "toraburu",
+       "gloss": "trouble"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "確認",
+       "pos": "noun",
+       "reading": "かくにん",
+       "romaji": "kakunin",
+       "gloss": "confirmation"
+      },
+      {
+       "surface": "さ",
+       "pos": "verb",
+       "romaji": "sa",
+       "lemma": "する",
+       "gloss": "to do (verb suffix)"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "おら",
+       "pos": "verb",
+       "romaji": "ora",
+       "lemma": "おる",
+       "gloss": "to be (plain form, used in -ており)"
+      },
+      {
+       "surface": "ず",
+       "pos": "auxiliary",
+       "romaji": "zu",
+       "gloss": "negative connective (\"without doing\")"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "何",
+       "pos": "pronoun",
+       "reading": "なん",
+       "romaji": "nan",
+       "gloss": "what"
+      },
+      {
+       "surface": "ら",
+       "pos": "suffix",
+       "romaji": "ra",
+       "gloss": "vague plural suffix (何らか, \"some kind of\")"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "uncertainty/question particle"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "思い込み",
+       "pos": "noun",
+       "reading": "おもいこみ",
+       "romaji": "omoikomi",
+       "gloss": "mistaken belief, assumption"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "事件",
+       "pos": "noun",
+       "reading": "じけん",
+       "romaji": "jiken",
+       "gloss": "incident, case"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "背景",
+       "pos": "noun",
+       "reading": "はいけい",
+       "romaji": "haikei",
+       "gloss": "background"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/indirect object particle"
+      },
+      {
+       "surface": "あっ",
+       "pos": "verb",
+       "romaji": "atsu",
+       "lemma": "ある",
+       "gloss": "to exist, there was"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "可能性",
+       "pos": "noun",
+       "reading": "かのうせい",
+       "romaji": "kanousei",
+       "gloss": "possibility"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "ある",
+       "pos": "verb",
+       "romaji": "aru",
+       "gloss": "to exist, there was"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "During the 110 call the man said \"money was swindled from me,\" but no such trouble had been confirmed, suggesting some kind of delusion may have been behind the incident.",
+     "audioStart": 95.304,
+     "audioEnd": 108.288
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "「事件はひとごとじゃないと感じた。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "事件",
+       "pos": "noun",
+       "reading": "じけん",
+       "romaji": "jiken",
+       "gloss": "incident, case"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "ひとごと",
+       "pos": "noun",
+       "romaji": "hitogoto",
+       "gloss": "someone else's affair, not one's own concern"
+      },
+      {
+       "surface": "じゃ",
+       "pos": "auxiliary",
+       "romaji": "ja",
+       "lemma": "だ",
+       "gloss": "copula (is)"
+      },
+      {
+       "surface": "ない",
+       "pos": "adjective",
+       "romaji": "nai",
+       "gloss": "negation"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/\"and\" particle"
+      },
+      {
+       "surface": "感じ",
+       "pos": "verb",
+       "reading": "かんじ",
+       "romaji": "kanji",
+       "lemma": "感ずる",
+       "gloss": "to feel (variant of 感じる)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "\"I felt this could have happened to me too.",
+     "audioStart": 108.288,
+     "audioEnd": 111.816
+    },
+    {
+     "text": "怖い」と話すのは、和歌山市のケアマネの女性（58）だ。",
+     "tokens": [
+      {
+       "surface": "怖い",
+       "pos": "adjective",
+       "reading": "こわい",
+       "romaji": "kowai",
+       "gloss": "scary, frightening"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/\"and\" particle"
+      },
+      {
+       "surface": "話す",
+       "pos": "verb",
+       "reading": "はなす",
+       "romaji": "hanasu",
+       "gloss": "to speak, say"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "和歌山市",
+       "pos": "noun",
+       "reading": "わかやまし",
+       "romaji": "wakayamashi",
+       "gloss": "Wakayama City"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "ケアマネ",
+       "pos": "noun",
+       "romaji": "keamane",
+       "gloss": "care manager (short form)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "女性",
+       "pos": "noun",
+       "reading": "じょせい",
+       "romaji": "josei",
+       "gloss": "woman"
+      },
+      {
+       "surface": "（",
+       "pos": "punct"
+      },
+      {
+       "surface": "58",
+       "pos": "noun",
+       "gloss": "fifty-eight"
+      },
+      {
+       "surface": "）",
+       "pos": "punct"
+      },
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "copula (is)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It's frightening,\" says a female care manager (58) in Wakayama City.",
+     "audioStart": 111.816,
+     "audioEnd": 118.32
+    },
+    {
+     "text": "ケアマネは、利用者側の意向を考慮して介護サービスの利用計画「ケアプラン」を作成。",
+     "tokens": [
+      {
+       "surface": "ケアマネ",
+       "pos": "noun",
+       "romaji": "keamane",
+       "gloss": "care manager (short form)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "利用者",
+       "pos": "noun",
+       "reading": "りようしゃ",
+       "romaji": "riyousha",
+       "gloss": "user, client"
+      },
+      {
+       "surface": "側",
+       "pos": "noun",
+       "reading": "がわ",
+       "romaji": "gawa",
+       "gloss": "side (e.g. the user's side)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "意向",
+       "pos": "noun",
+       "reading": "いこう",
+       "romaji": "ikou",
+       "gloss": "intention, wishes"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "考慮",
+       "pos": "noun",
+       "reading": "こうりょ",
+       "romaji": "kouryo",
+       "gloss": "consideration"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do (verb suffix)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "介護サービス",
+       "pos": "noun",
+       "reading": "かいごさーびす",
+       "romaji": "kaigosaabisu",
+       "gloss": "long-term care service"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "利用",
+       "pos": "noun",
+       "reading": "りよう",
+       "romaji": "riyou",
+       "gloss": "use"
+      },
+      {
+       "surface": "計画",
+       "pos": "noun",
+       "reading": "けいかく",
+       "romaji": "keikaku",
+       "gloss": "plan"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "ケアプラン",
+       "pos": "noun",
+       "romaji": "keapuran",
+       "gloss": "care plan"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "作成",
+       "pos": "noun",
+       "reading": "さくせい",
+       "romaji": "sakusei",
+       "gloss": "creation, drafting"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Care managers draw up \"care plans,\" the long-term care service plans, taking the user's wishes into account.",
+     "audioStart": 118.32,
+     "audioEnd": 127.608
+    },
+    {
+     "text": "対価として介護報酬が事業者に支給される。",
+     "tokens": [
+      {
+       "surface": "対価",
+       "pos": "noun",
+       "reading": "たいか",
+       "romaji": "taika",
+       "gloss": "compensation, consideration (payment)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/\"and\" particle"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do (verb suffix)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "介護",
+       "pos": "noun",
+       "reading": "かいご",
+       "romaji": "kaigo",
+       "gloss": "long-term/nursing care"
+      },
+      {
+       "surface": "報酬",
+       "pos": "noun",
+       "reading": "ほうしゅう",
+       "romaji": "houshuu",
+       "gloss": "remuneration, fee"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "事業者",
+       "pos": "noun",
+       "reading": "じぎょうしゃ",
+       "romaji": "jigyousha",
+       "gloss": "business operator, provider"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/indirect object particle"
+      },
+      {
+       "surface": "支給",
+       "pos": "noun",
+       "reading": "しきゅう",
+       "romaji": "shikyuu",
+       "gloss": "payment, provision"
+      },
+      {
+       "surface": "さ",
+       "pos": "verb",
+       "romaji": "sa",
+       "lemma": "する",
+       "gloss": "to do (verb suffix)"
+      },
+      {
+       "surface": "れる",
+       "pos": "auxiliary",
+       "romaji": "reru",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In return, long-term care fees are paid to the provider.",
+     "audioStart": 127.608,
+     "audioEnd": 132.576
+    },
+    {
+     "text": "ただ、居宅を訪問し、生活の補助をする業務性から「物を盗まれた」「お金を取られた」と言われるトラブルは珍しくなく、介護ヘルパーなども同様の状況にあるという。",
+     "tokens": [
+      {
+       "surface": "ただ",
+       "pos": "conjunction",
+       "romaji": "tada",
+       "gloss": "however"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "居宅",
+       "pos": "noun",
+       "reading": "きょたく",
+       "romaji": "kyotaku",
+       "gloss": "person's home, residence"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "訪問",
+       "pos": "noun",
+       "reading": "ほうもん",
+       "romaji": "houmon",
+       "gloss": "visit"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do (verb suffix)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "生活",
+       "pos": "noun",
+       "reading": "せいかつ",
+       "romaji": "seikatsu",
+       "gloss": "daily life"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "補助",
+       "pos": "noun",
+       "reading": "ほじょ",
+       "romaji": "hojo",
+       "gloss": "subsidy"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do (verb suffix)"
+      },
+      {
+       "surface": "業務",
+       "pos": "noun",
+       "reading": "ぎょうむ",
+       "romaji": "gyoumu",
+       "gloss": "duties, work"
+      },
+      {
+       "surface": "性",
+       "pos": "suffix",
+       "reading": "せい",
+       "romaji": "sei",
+       "gloss": "nature, -ness (suffix)"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "物",
+       "pos": "noun",
+       "reading": "もの",
+       "romaji": "mono",
+       "gloss": "thing, object"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "盗ま",
+       "pos": "verb",
+       "reading": "ぬすま",
+       "romaji": "nusuma",
+       "lemma": "盗む",
+       "gloss": "to steal"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "お金",
+       "pos": "noun",
+       "reading": "おかね",
+       "romaji": "okane",
+       "gloss": "money"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "取ら",
+       "pos": "verb",
+       "reading": "とら",
+       "romaji": "tora",
+       "lemma": "取る",
+       "gloss": "to take"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/\"and\" particle"
+      },
+      {
+       "surface": "言わ",
+       "pos": "verb",
+       "reading": "いわ",
+       "romaji": "iwa",
+       "lemma": "言う",
+       "gloss": "to say"
+      },
+      {
+       "surface": "れる",
+       "pos": "auxiliary",
+       "romaji": "reru",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "トラブル",
+       "pos": "noun",
+       "romaji": "toraburu",
+       "gloss": "trouble"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "珍しく",
+       "pos": "adjective",
+       "reading": "めずらしく",
+       "romaji": "mezurashiku",
+       "lemma": "珍しい",
+       "gloss": "rare, uncommon"
+      },
+      {
+       "surface": "なく",
+       "pos": "adjective",
+       "romaji": "naku",
+       "lemma": "ない",
+       "gloss": "negation"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "介護",
+       "pos": "noun",
+       "reading": "かいご",
+       "romaji": "kaigo",
+       "gloss": "long-term/nursing care"
+      },
+      {
+       "surface": "ヘルパー",
+       "pos": "noun",
+       "romaji": "herupaa",
+       "gloss": "(care) helper"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "同様",
+       "pos": "adjective",
+       "reading": "どうよう",
+       "romaji": "douyou",
+       "gloss": "similar"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "状況",
+       "pos": "noun",
+       "reading": "じょうきょう",
+       "romaji": "joukyou",
+       "gloss": "situation"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/indirect object particle"
+      },
+      {
+       "surface": "ある",
+       "pos": "verb",
+       "romaji": "aru",
+       "gloss": "to exist, there was"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/\"and\" particle"
+      },
+      {
+       "surface": "いう",
+       "pos": "verb",
+       "romaji": "iu",
+       "gloss": "to say (used in という)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "However, because the job involves visiting people's homes and helping with daily life, complaints like \"something was stolen\" or \"money was taken\" are not uncommon, and home helpers reportedly face similar situations.",
+     "audioStart": 132.576,
+     "audioEnd": 148.08
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "「日本介護支援専門員協会」が令和6年11～12月に実施した調査によると、介護支援専門員らの33.7％が過去1年間に言葉の暴力や精神的な攻撃などを受けたと回答。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "介護",
+       "pos": "noun",
+       "reading": "かいご",
+       "romaji": "kaigo",
+       "gloss": "long-term/nursing care"
+      },
+      {
+       "surface": "支援",
+       "pos": "noun",
+       "reading": "しえん",
+       "romaji": "shien",
+       "gloss": "support"
+      },
+      {
+       "surface": "専門員",
+       "pos": "noun",
+       "reading": "せんもんいん",
+       "romaji": "senmon'in",
+       "gloss": "certified specialist"
+      },
+      {
+       "surface": "協会",
+       "pos": "noun",
+       "reading": "きょうかい",
+       "romaji": "kyoukai",
+       "gloss": "association"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "令和",
+       "pos": "noun",
+       "reading": "れいわ",
+       "romaji": "reiwa",
+       "gloss": "Reiwa (era name)"
+      },
+      {
+       "surface": "6",
+       "pos": "noun",
+       "gloss": "six"
+      },
+      {
+       "surface": "年",
+       "pos": "noun",
+       "reading": "ねん",
+       "romaji": "nen",
+       "gloss": "year"
+      },
+      {
+       "surface": "11",
+       "pos": "noun",
+       "gloss": "eleven"
+      },
+      {
+       "surface": "～",
+       "pos": "punct"
+      },
+      {
+       "surface": "12",
+       "pos": "noun",
+       "gloss": "twelve"
+      },
+      {
+       "surface": "月",
+       "pos": "noun",
+       "reading": "がつ",
+       "romaji": "gatsu",
+       "gloss": "month"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/indirect object particle"
+      },
+      {
+       "surface": "実施",
+       "pos": "noun",
+       "reading": "じっし",
+       "romaji": "jisshi",
+       "gloss": "implementation, conducting"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do (verb suffix)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "調査",
+       "pos": "noun",
+       "reading": "ちょうさ",
+       "romaji": "chousa",
+       "gloss": "survey"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/indirect object particle"
+      },
+      {
+       "surface": "よる",
+       "pos": "verb",
+       "romaji": "yoru",
+       "gloss": "according to, based on (による)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/\"and\" particle"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "介護",
+       "pos": "noun",
+       "reading": "かいご",
+       "romaji": "kaigo",
+       "gloss": "long-term/nursing care"
+      },
+      {
+       "surface": "支援",
+       "pos": "noun",
+       "reading": "しえん",
+       "romaji": "shien",
+       "gloss": "support"
+      },
+      {
+       "surface": "専門員",
+       "pos": "noun",
+       "reading": "せんもんいん",
+       "romaji": "senmon'in",
+       "gloss": "certified specialist"
+      },
+      {
+       "surface": "ら",
+       "pos": "suffix",
+       "romaji": "ra",
+       "gloss": "vague plural suffix (何らか, \"some kind of\")"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "33.7",
+       "pos": "noun",
+       "gloss": "33.7"
+      },
+      {
+       "surface": "％",
+       "pos": "noun",
+       "gloss": "percent"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "過去",
+       "pos": "noun",
+       "reading": "かこ",
+       "romaji": "kako",
+       "gloss": "past"
+      },
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "年間",
+       "pos": "noun",
+       "reading": "ねんかん",
+       "romaji": "nenkan",
+       "gloss": "period of one year"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/indirect object particle"
+      },
+      {
+       "surface": "言葉",
+       "pos": "noun",
+       "reading": "ことば",
+       "romaji": "kotoba",
+       "gloss": "words, language"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "暴力",
+       "pos": "noun",
+       "reading": "ぼうりょく",
+       "romaji": "bouryoku",
+       "gloss": "violence"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and/or (non-exhaustive listing)"
+      },
+      {
+       "surface": "精神的",
+       "pos": "noun",
+       "reading": "せいしんてき",
+       "romaji": "seishinteki",
+       "gloss": "psychological, mental"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula (is)"
+      },
+      {
+       "surface": "攻撃",
+       "pos": "noun",
+       "reading": "こうげき",
+       "romaji": "kougeki",
+       "gloss": "attack"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "受け",
+       "pos": "verb",
+       "reading": "うけ",
+       "romaji": "uke",
+       "lemma": "受ける",
+       "gloss": "to receive, undergo (here: in response to)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/\"and\" particle"
+      },
+      {
+       "surface": "回答",
+       "pos": "noun",
+       "reading": "かいとう",
+       "romaji": "kaitou",
+       "gloss": "response, answer"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "According to a survey conducted by the Japan Association of Certified Care Managers in November-December of Reiwa 6 (2024), 33.7% of care managers said they had experienced verbal abuse or psychological attacks in the past year.",
+     "audioStart": 148.08,
+     "audioEnd": 167.472
+    },
+    {
+     "text": "身体的な暴力を受けたと答えた人もいた。",
+     "tokens": [
+      {
+       "surface": "身体的",
+       "pos": "noun",
+       "reading": "しんたいてき",
+       "romaji": "shintaiteki",
+       "gloss": "physical"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula (is)"
+      },
+      {
+       "surface": "暴力",
+       "pos": "noun",
+       "reading": "ぼうりょく",
+       "romaji": "bouryoku",
+       "gloss": "violence"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "受け",
+       "pos": "verb",
+       "reading": "うけ",
+       "romaji": "uke",
+       "lemma": "受ける",
+       "gloss": "to receive, undergo (here: in response to)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/\"and\" particle"
+      },
+      {
+       "surface": "答え",
+       "pos": "verb",
+       "reading": "こたえ",
+       "romaji": "kotae",
+       "lemma": "答える",
+       "gloss": "to answer"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/stative auxiliary"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Some also reported experiencing physical violence.",
+     "audioStart": 167.472,
+     "audioEnd": 172.272
+    },
+    {
+     "text": "これらの行為をした人物を複数回答で尋ねたところ、利用者の介護を担う家族や身元保証人らが44.8％と最も多く、次に利用者本人の27.6％だった。",
+     "tokens": [
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore",
+       "gloss": "this"
+      },
+      {
+       "surface": "ら",
+       "pos": "suffix",
+       "romaji": "ra",
+       "gloss": "vague plural suffix (何らか, \"some kind of\")"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "行為",
+       "pos": "noun",
+       "reading": "こうい",
+       "romaji": "koui",
+       "gloss": "act, action"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do (verb suffix)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "人物",
+       "pos": "noun",
+       "reading": "じんぶつ",
+       "romaji": "jinbutsu",
+       "gloss": "person, figure"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "複数",
+       "pos": "noun",
+       "reading": "ふくすう",
+       "romaji": "fukusuu",
+       "gloss": "multiple"
+      },
+      {
+       "surface": "回答",
+       "pos": "noun",
+       "reading": "かいとう",
+       "romaji": "kaitou",
+       "gloss": "response, answer"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle (\"in/at/by\")"
+      },
+      {
+       "surface": "尋ね",
+       "pos": "verb",
+       "reading": "たずね",
+       "romaji": "tazune",
+       "lemma": "尋ねる",
+       "gloss": "to ask"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "ところ",
+       "pos": "noun",
+       "romaji": "tokoro",
+       "gloss": "when, as a result of (~たところ)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "利用者",
+       "pos": "noun",
+       "reading": "りようしゃ",
+       "romaji": "riyousha",
+       "gloss": "user, client"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "介護",
+       "pos": "noun",
+       "reading": "かいご",
+       "romaji": "kaigo",
+       "gloss": "long-term/nursing care"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "担う",
+       "pos": "verb",
+       "reading": "になう",
+       "romaji": "ninau",
+       "gloss": "to bear, be responsible for"
+      },
+      {
+       "surface": "家族",
+       "pos": "noun",
+       "reading": "かぞく",
+       "romaji": "kazoku",
+       "gloss": "family"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and/or (non-exhaustive listing)"
+      },
+      {
+       "surface": "身元保証人",
+       "pos": "noun",
+       "reading": "みもとほしょうにん",
+       "romaji": "mimotohoshounin",
+       "gloss": "guarantor, personal guarantor"
+      },
+      {
+       "surface": "ら",
+       "pos": "suffix",
+       "romaji": "ra",
+       "gloss": "vague plural suffix (何らか, \"some kind of\")"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "44.8",
+       "pos": "noun",
+       "gloss": "44.8"
+      },
+      {
+       "surface": "％",
+       "pos": "noun",
+       "gloss": "percent"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/\"and\" particle"
+      },
+      {
+       "surface": "最も",
+       "pos": "adverb",
+       "reading": "もっとも",
+       "romaji": "mottomo",
+       "gloss": "most"
+      },
+      {
+       "surface": "多く",
+       "pos": "adjective",
+       "reading": "おおく",
+       "romaji": "ooku",
+       "lemma": "多い",
+       "gloss": "many, most common"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "次",
+       "pos": "noun",
+       "reading": "つぎ",
+       "romaji": "tsugi",
+       "gloss": "next"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/indirect object particle"
+      },
+      {
+       "surface": "利用者",
+       "pos": "noun",
+       "reading": "りようしゃ",
+       "romaji": "riyousha",
+       "gloss": "user, client"
+      },
+      {
+       "surface": "本人",
+       "pos": "noun",
+       "reading": "ほんにん",
+       "romaji": "honnin",
+       "gloss": "the person themselves"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "27.6",
+       "pos": "noun",
+       "gloss": "27.6"
+      },
+      {
+       "surface": "％",
+       "pos": "noun",
+       "gloss": "percent"
+      },
+      {
+       "surface": "だっ",
+       "pos": "auxiliary",
+       "romaji": "datsu",
+       "lemma": "だ",
+       "gloss": "copula (is)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Asked (with multiple answers allowed) who committed these acts, family members or guarantors responsible for the user's care were most common at 44.8%, followed by the users themselves at 27.6%.",
+     "audioStart": 172.272,
+     "audioEnd": 190.056
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "安全確保の観点から複数での訪問が有効とされるが、別の職員が同行すると追加の経費が生じるため、多くの介護職員が1人で利用者宅を訪れているのが現状だ。",
+     "tokens": [
+      {
+       "surface": "安全確保",
+       "pos": "noun",
+       "reading": "あんぜんかくほ",
+       "romaji": "anzenkakuho",
+       "gloss": "ensuring safety"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "観点",
+       "pos": "noun",
+       "reading": "かんてん",
+       "romaji": "kanten",
+       "gloss": "viewpoint, perspective"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from"
+      },
+      {
+       "surface": "複数",
+       "pos": "noun",
+       "reading": "ふくすう",
+       "romaji": "fukusuu",
+       "gloss": "multiple"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle (\"in/at/by\")"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "訪問",
+       "pos": "noun",
+       "reading": "ほうもん",
+       "romaji": "houmon",
+       "gloss": "visit"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "有効",
+       "pos": "adjective",
+       "reading": "ゆうこう",
+       "romaji": "yuukou",
+       "gloss": "effective"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/\"and\" particle"
+      },
+      {
+       "surface": "さ",
+       "pos": "verb",
+       "romaji": "sa",
+       "lemma": "する",
+       "gloss": "to do (verb suffix)"
+      },
+      {
+       "surface": "れる",
+       "pos": "auxiliary",
+       "romaji": "reru",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "別",
+       "pos": "noun",
+       "reading": "べつ",
+       "romaji": "betsu",
+       "gloss": "another, different"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "職員",
+       "pos": "noun",
+       "reading": "しょくいん",
+       "romaji": "shokuin",
+       "gloss": "staff member"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "同行",
+       "pos": "noun",
+       "reading": "どうこう",
+       "romaji": "doukou",
+       "gloss": "accompanying"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do (verb suffix)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/\"and\" particle"
+      },
+      {
+       "surface": "追加",
+       "pos": "noun",
+       "reading": "ついか",
+       "romaji": "tsuika",
+       "gloss": "additional"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "経費",
+       "pos": "noun",
+       "reading": "けいひ",
+       "romaji": "keihi",
+       "gloss": "expenses, costs"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "生じる",
+       "pos": "verb",
+       "reading": "しょうじる",
+       "romaji": "shoujiru",
+       "gloss": "to arise, occur"
+      },
+      {
+       "surface": "ため",
+       "pos": "noun",
+       "romaji": "tame",
+       "gloss": "because of, for the purpose of"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "多く",
+       "pos": "noun",
+       "reading": "おおく",
+       "romaji": "ooku",
+       "gloss": "many"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "介護",
+       "pos": "noun",
+       "reading": "かいご",
+       "romaji": "kaigo",
+       "gloss": "long-term/nursing care"
+      },
+      {
+       "surface": "職員",
+       "pos": "noun",
+       "reading": "しょくいん",
+       "romaji": "shokuin",
+       "gloss": "staff member"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "1人",
+       "pos": "noun",
+       "reading": "ひとり",
+       "romaji": "hitori",
+       "gloss": "alone, one person"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle (\"in/at/by\")"
+      },
+      {
+       "surface": "利用者",
+       "pos": "noun",
+       "reading": "りようしゃ",
+       "romaji": "riyousha",
+       "gloss": "user, client"
+      },
+      {
+       "surface": "宅",
+       "pos": "noun",
+       "reading": "たく",
+       "romaji": "taku",
+       "gloss": "residence, home"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "訪れ",
+       "pos": "verb",
+       "reading": "おとずれ",
+       "romaji": "otozure",
+       "lemma": "訪れる",
+       "gloss": "to visit"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "progressive/stative auxiliary"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "現状",
+       "pos": "noun",
+       "reading": "げんじょう",
+       "romaji": "genjou",
+       "gloss": "current situation"
+      },
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "copula (is)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Visiting in pairs is considered effective for safety, but since bringing another staff member incurs extra costs, most care workers currently visit clients' homes alone.",
+     "audioStart": 190.056,
+     "audioEnd": 206.136
+    },
+    {
+     "text": "埼玉の事件を受け、厚生労働省は、ケアマネらが介護サービス利用者の自宅を複数人で訪問する際の経費の補助事業などについて自治体に通知。",
+     "tokens": [
+      {
+       "surface": "埼玉",
+       "pos": "noun",
+       "reading": "さいたま",
+       "romaji": "saitama",
+       "gloss": "Saitama"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "事件",
+       "pos": "noun",
+       "reading": "じけん",
+       "romaji": "jiken",
+       "gloss": "incident, case"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "受け",
+       "pos": "verb",
+       "reading": "うけ",
+       "romaji": "uke",
+       "lemma": "受ける",
+       "gloss": "to receive, undergo (here: in response to)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "厚生労働省",
+       "pos": "noun",
+       "reading": "こうせいろうどうしょう",
+       "romaji": "kouseiroudoushou",
+       "gloss": "Ministry of Health, Labour and Welfare"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ケアマネ",
+       "pos": "noun",
+       "romaji": "keamane",
+       "gloss": "care manager (short form)"
+      },
+      {
+       "surface": "ら",
+       "pos": "suffix",
+       "romaji": "ra",
+       "gloss": "vague plural suffix (何らか, \"some kind of\")"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "介護サービス",
+       "pos": "noun",
+       "reading": "かいごさーびす",
+       "romaji": "kaigosaabisu",
+       "gloss": "long-term care service"
+      },
+      {
+       "surface": "利用者",
+       "pos": "noun",
+       "reading": "りようしゃ",
+       "romaji": "riyousha",
+       "gloss": "user, client"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "自宅",
+       "pos": "noun",
+       "reading": "じたく",
+       "romaji": "jitaku",
+       "gloss": "one's own home"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "複数人",
+       "pos": "noun",
+       "reading": "ふくすうにん",
+       "romaji": "fukusuunin",
+       "gloss": "multiple people"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle (\"in/at/by\")"
+      },
+      {
+       "surface": "訪問",
+       "pos": "noun",
+       "reading": "ほうもん",
+       "romaji": "houmon",
+       "gloss": "visit"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do (verb suffix)"
+      },
+      {
+       "surface": "際",
+       "pos": "noun",
+       "reading": "さい",
+       "romaji": "sai",
+       "gloss": "occasion, at the time of"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "経費",
+       "pos": "noun",
+       "reading": "けいひ",
+       "romaji": "keihi",
+       "gloss": "expenses, costs"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "補助",
+       "pos": "noun",
+       "reading": "ほじょ",
+       "romaji": "hojo",
+       "gloss": "subsidy"
+      },
+      {
+       "surface": "事業",
+       "pos": "noun",
+       "reading": "じぎょう",
+       "romaji": "jigyou",
+       "gloss": "program, project"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/indirect object particle"
+      },
+      {
+       "surface": "つい",
+       "pos": "verb",
+       "romaji": "tsui",
+       "lemma": "つく",
+       "gloss": "to be attached to, concerning (base of について)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "自治体",
+       "pos": "noun",
+       "reading": "じちたい",
+       "romaji": "jichitai",
+       "gloss": "local government"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/indirect object particle"
+      },
+      {
+       "surface": "通知",
+       "pos": "noun",
+       "reading": "つうち",
+       "romaji": "tsuuchi",
+       "gloss": "notification"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Following the Saitama incident, the Ministry of Health, Labour and Welfare notified local governments about a program to subsidize the costs of care managers and others visiting users' homes in pairs.",
+     "audioStart": 206.136,
+     "audioEnd": 220.68
+    },
+    {
+     "text": "事業者の負担を軽減する狙いがあり、具体的な金額は自治体が判断する。",
+     "tokens": [
+      {
+       "surface": "事業者",
+       "pos": "noun",
+       "reading": "じぎょうしゃ",
+       "romaji": "jigyousha",
+       "gloss": "business operator, provider"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "負担",
+       "pos": "noun",
+       "reading": "ふたん",
+       "romaji": "futan",
+       "gloss": "burden"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "軽減",
+       "pos": "noun",
+       "reading": "けいげん",
+       "romaji": "keigen",
+       "gloss": "reduction, easing"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do (verb suffix)"
+      },
+      {
+       "surface": "狙い",
+       "pos": "noun",
+       "reading": "ねらい",
+       "romaji": "nerai",
+       "gloss": "aim, goal"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, there was"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "具体的",
+       "pos": "noun",
+       "reading": "ぐたいてき",
+       "romaji": "gutaiteki",
+       "gloss": "concrete, specific"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula (is)"
+      },
+      {
+       "surface": "金額",
+       "pos": "noun",
+       "reading": "きんがく",
+       "romaji": "kingaku",
+       "gloss": "amount of money"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "自治体",
+       "pos": "noun",
+       "reading": "じちたい",
+       "romaji": "jichitai",
+       "gloss": "local government"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "判断",
+       "pos": "noun",
+       "reading": "はんだん",
+       "romaji": "handan",
+       "gloss": "judgment, decision"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do (verb suffix)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The aim is to ease the burden on providers, with the specific amount left to each local government to decide.",
+     "audioStart": 220.68,
+     "audioEnd": 228.216
+    }
+   ]
+  }
+ ]
+}
