@@ -8,10 +8,10 @@ _LANG_NAME = {"ja": "Japanese", "de": "German"}
 _LEVEL_SCALE = {"ja": "JLPT (N5 easiest .. N1 hardest)", "de": "CEFR (A1 .. C2)"}
 
 
-def _run_claude(prompt: str) -> str:
+def _run_claude(prompt: str, model: str = "sonnet") -> str:
     env = {k: v for k, v in os.environ.items() if not k.startswith("CLAUDE")}
     proc = subprocess.run(
-        ["claude", "-p", "--output-format", "text", "--model", "sonnet"],
+        ["claude", "-p", "--output-format", "text", "--model", model],
         input=prompt,
         capture_output=True,
         text=True,
@@ -28,6 +28,28 @@ def _extract_json(raw: str) -> dict:
     if start == -1 or end <= start:
         raise ValueError(f"No JSON object in claude output: {raw[:200]}")
     return json.loads(raw[start : end + 1])
+
+
+def tidy(title: str, text: str) -> str:
+    """Strip navigation/boilerplate that the HTML extractor let through."""
+    prompt = f"""Below is text extracted from a news webpage. It is the body of the article
+titled: {title}
+
+Some lines are NOT part of the article: navigation labels, app or newsletter promotions
+(e.g. "NHK ONEニュース・防災アプリ"), related-article teasers, category names, share buttons,
+stray fragments, or the bare site name. Remove those lines.
+
+Keep every sentence that belongs to the article body itself, VERBATIM — do not rewrite,
+reorder, translate, shorten, or add anything. Keep the original paragraph breaks
+(paragraphs separated by a blank line). Reply with ONLY the cleaned article text.
+
+Text:
+{text}"""
+    cleaned = _run_claude(prompt, model="haiku").strip()
+    # If the model went off the rails, fall back to the raw extraction.
+    if len(cleaned) < 100 or len(cleaned) < 0.3 * len(text):
+        return text
+    return cleaned
 
 
 def annotate(lang: str, title: str, sentences: list[str], gloss_keys: list[str]) -> dict:

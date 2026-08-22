@@ -108,14 +108,22 @@ body {
 
 .jtext { font-size: 21px; line-height: 2.1; }
 .dtext { font-size: 19px; line-height: 1.75; }
-.no-furigana rt { display: none; }
-.no-furigana .jtext { line-height: 1.7; }
 rt { font-size: 10px; color: var(--muted); }
+rt.rom {
+  ruby-position: under;
+  -webkit-ruby-position: after;
+  font-size: 10px;
+  color: var(--muted);
+}
+.no-furigana rt:not(.rom) { display: none; }
+.no-romaji rt.rom { display: none; }
+.no-furigana .jtext { line-height: 1.7; }
+.reader:not(.no-romaji) .jtext { line-height: 2.9; }
+.reader.no-furigana:not(.no-romaji) .jtext { line-height: 2.3; }
 
 .tok { cursor: pointer; border-radius: 4px; }
 .tok.sel { background: var(--accent-soft); }
 
-.romaji { font-size: 13px; color: var(--muted); margin-top: 2px; }
 .trans { font-size: 14.5px; color: var(--muted); margin-top: 4px; }
 .playhere {
   display: inline-block; margin-left: 8px;

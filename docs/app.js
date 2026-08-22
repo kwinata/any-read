@@ -155,6 +155,7 @@ async function renderReader(id) {
   $app.append(bar);
 
   if (isJa && !settings.furigana) reader.classList.add('no-furigana');
+  if (!settings.romaji) reader.classList.add('no-romaji');
 
   // Header
   const header = el('header');
@@ -179,10 +180,22 @@ async function renderReader(id) {
       s.tokens.forEach((tok, ti) => {
         const tappable = !['punct', 'symbol', 'space', 'number'].includes(tok.pos);
         let node;
+        const romaji = isJa && tappable && tok.romaji;
         if (isJa && tok.reading) {
+          // Double-sided ruby: furigana above, romaji below.
+          const inner = el('ruby');
+          inner.append(document.createTextNode(tok.surface));
+          inner.append(el('rt', null, tok.reading));
+          if (romaji) {
+            node = el('ruby');
+            node.append(inner, el('rt', 'rom', tok.romaji));
+          } else {
+            node = inner;
+          }
+        } else if (romaji) {
           node = el('ruby');
           node.append(document.createTextNode(tok.surface));
-          node.append(el('rt', null, tok.reading));
+          node.append(el('rt', 'rom', tok.romaji));
         } else {
           node = el('span', null, tok.surface);
         }
@@ -201,14 +214,6 @@ async function renderReader(id) {
       });
       sEl.append(line);
 
-      if (isJa) {
-        const rom = s.tokens.map((t) => t.romaji).filter(Boolean).join(' ');
-        if (rom) {
-          const rEl = el('div', 'romaji', rom);
-          if (!settings.romaji) rEl.classList.add('hidden');
-          sEl.append(rEl);
-        }
-      }
       if (s.translation) {
         const tEl = el('div', 'trans', s.translation);
         if (!settings.translations) tEl.classList.add('hidden');
@@ -237,7 +242,7 @@ async function renderReader(id) {
   $app.append(reader);
 
   function applyRomaji() {
-    reader.querySelectorAll('.romaji').forEach((e) => e.classList.toggle('hidden', !settings.romaji));
+    reader.classList.toggle('no-romaji', !settings.romaji);
   }
   function applyTranslations() {
     reader.querySelectorAll('.trans').forEach((e) => e.classList.toggle('hidden', !settings.translations));

@@ -7,6 +7,7 @@ Usage:
 """
 
 import argparse
+import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -28,6 +29,10 @@ def _build_article(args) -> None:
 
     lang = args.lang or segment.detect_lang(art.text)
     print(f"Language: {lang}  Title: {art.title}")
+
+    if art.url and not args.no_tidy:
+        print("Tidying extracted text (removing page boilerplate)...")
+        art.text = llm.tidy(art.title, art.text)
 
     tokenize = ja.tokenize if lang == "ja" else de.tokenize
     paras = []
@@ -112,26 +117,68 @@ def _http_get(url: str) -> str:
     return urllib.request.urlopen(req, timeout=30, context=ctx).read().decode("utf-8", "replace")
 
 
-def _list_news(args) -> None:
-    import re
+_NL_NOT_ARTICLES = re.compile(
+    r"/(benutzung|erklaerung|regionale-angebote|das-grundgesetz"
+    r"|nachrichten|sport|kultur-und-wissen|vermischtes"
+    r"|nachrichtenleicht-link-auf-instagram|podcast-[a-z0-9-]+|[a-z0-9-]*woerterbuch[a-z0-9-]*)-100\.html$"
+)
 
+
+def list_ja_news(limit: int = 10) -> list[tuple[str, str]]:
+    """(title, url) from NHK RSS, main category first."""
+    out: list[tuple[str, str]] = []
+    seen: set[str] = set()
+    for cat in ("cat0", "cat3", "cat6", "cat1", "cat7"):
+        if len(out) >= limit:
+            break
+        try:
+            xml = _http_get(f"https://www3.nhk.or.jp/rss/news/{cat}.xml")
+        except Exception:
+            continue
+        for item in re.findall(r"<item>.*?</item>", xml, re.S):
+            title = re.search(r"<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</title>", item, re.S)
+            link = re.search(r"<link>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</link>", item, re.S)
+            if title and link and link.group(1).strip() not in seen:
+                seen.add(link.group(1).strip())
+                out.append((title.group(1).strip(), link.group(1).strip()))
+                if len(out) >= limit:
+                    break
+    return out
+
+
+def list_de_news(limit: int = 10) -> list[tuple[str, str]]:
+    """(title, url) from nachrichtenleicht: homepage plus category pages."""
+    out: list[tuple[str, str]] = []
+    seen: set[str] = set()
+    pages = ["", "nachrichten-100.html", "kultur-und-wissen-100.html",
+             "sport-100.html", "vermischtes-100.html"]
+    for page in pages:
+        if len(out) >= limit:
+            break
+        try:
+            html = _http_get("https://www.nachrichtenleicht.de/" + page)
+        except Exception:
+            continue
+        for url in re.findall(r'https://www\.nachrichtenleicht\.de/[a-z0-9-]+-100\.html', html):
+            if url in seen or _NL_NOT_ARTICLES.search(url):
+                continue
+            seen.add(url)
+            title = url.rsplit("/", 1)[-1].removesuffix("-100.html").replace("-", " ")
+            out.append((title, url))
+            if len(out) >= limit:
+                break
+    return out
+
+
+def _list_news(args) -> None:
     langs = [args.lang] if args.lang else ["ja", "de"]
     if "ja" in langs:
         print("--- ja (NHK) ---")
-        xml = _http_get("https://www3.nhk.or.jp/rss/news/cat0.xml")
-        for item in re.findall(r"<item>.*?</item>", xml, re.S)[:10]:
-            title = re.search(r"<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</title>", item, re.S)
-            link = re.search(r"<link>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</link>", item, re.S)
-            if title and link:
-                print(f"{title.group(1).strip()}\n  {link.group(1).strip()}")
+        for title, url in list_ja_news(args.limit):
+            print(f"{title}\n  {url}")
     if "de" in langs:
         print("--- de (nachrichtenleicht) ---")
-        html = _http_get("https://www.nachrichtenleicht.de/")
-        links = re.findall(r'href="(https://www\.nachrichtenleicht\.de/[a-z0-9-]+-100\.html)"[^>]*title="([^"]+)"', html)
-        if not links:
-            links = [(u, u.rsplit("/", 1)[-1].removesuffix("-100.html").replace("-", " "))
-                     for u in dict.fromkeys(re.findall(r'https://www\.nachrichtenleicht\.de/[a-z0-9-]+-100\.html', html))]
-        for url, title in links[:10]:
+        for title, url in list_de_news(args.limit):
             print(f"{title}\n  {url}")
 
 
@@ -167,10 +214,12 @@ def main() -> None:
     add.add_argument("--voice", help="edge-tts voice (default per language)")
     add.add_argument("--rate", default="-10%", help="Speech rate, e.g. '-20%%' (default -10%%)")
     add.add_argument("--no-audio", action="store_true", help="Skip TTS")
+    add.add_argument("--no-tidy", action="store_true", help="Skip LLM cleanup of extracted text")
     add.add_argument("--out", default=str(Path(__file__).resolve().parents[2] / "docs" / "articles"),
                      help="Output directory (default: <repo>/docs/articles)")
     news = sub.add_parser("news", help="List recent headlines (NHK / nachrichtenleicht)")
     news.add_argument("--lang", choices=["ja", "de"])
+    news.add_argument("--limit", type=int, default=10)
     pub = sub.add_parser("publish", help="Commit and push new articles to the site")
     pub.add_argument("-m", "--message", default="Add articles")
     args = parser.parse_args()
