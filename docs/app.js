@@ -180,22 +180,14 @@ async function renderReader(id) {
       s.tokens.forEach((tok, ti) => {
         const tappable = !['punct', 'symbol', 'space', 'number'].includes(tok.pos);
         let node;
-        const romaji = isJa && tappable && tok.romaji;
-        if (isJa && tok.reading) {
-          // Double-sided ruby: furigana above, romaji below.
-          const inner = el('ruby');
-          inner.append(document.createTextNode(tok.surface));
-          inner.append(el('rt', null, tok.reading));
-          if (romaji) {
-            node = el('ruby');
-            node.append(inner, el('rt', 'rom', tok.romaji));
-          } else {
-            node = inner;
-          }
-        } else if (romaji) {
-          node = el('ruby');
-          node.append(document.createTextNode(tok.surface));
-          node.append(el('rt', 'rom', tok.romaji));
+        if (isJa) {
+          // Per-token stack: furigana row / word / romaji row.
+          node = el('span', 'stk');
+          node.append(
+            el('span', 'fg', tok.reading || ''),
+            el('span', 'base', tok.surface),
+            el('span', 'rom', (tappable && tok.romaji) || '')
+          );
         } else {
           node = el('span', null, tok.surface);
         }

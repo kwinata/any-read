@@ -106,20 +106,25 @@ body {
 .sentence.current { background: var(--highlight); }
 .para { margin-bottom: 18px; }
 
-.jtext { font-size: 21px; line-height: 2.1; }
+.jtext { font-size: 21px; line-height: 1.4; }
 .dtext { font-size: 19px; line-height: 1.75; }
-rt { font-size: 10px; color: var(--muted); }
-rt.rom {
-  ruby-position: under;
-  -webkit-ruby-position: after;
-  font-size: 10px;
-  color: var(--muted);
+.jtext .stk {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  vertical-align: bottom;
+  padding: 2px 1px;
 }
-.no-furigana rt:not(.rom) { display: none; }
-.no-romaji rt.rom { display: none; }
-.no-furigana .jtext { line-height: 1.7; }
-.reader:not(.no-romaji) .jtext { line-height: 2.9; }
-.reader.no-furigana:not(.no-romaji) .jtext { line-height: 2.3; }
+.jtext .fg, .jtext .rom {
+  font-size: 10px;
+  line-height: 1.2;
+  min-height: 13px;
+  color: var(--muted);
+  white-space: nowrap;
+}
+.jtext .base { line-height: 1.35; white-space: nowrap; }
+.no-furigana .fg { display: none; }
+.no-romaji .rom { display: none; }
 
 .tok { cursor: pointer; border-radius: 4px; }
 .tok.sel { background: var(--accent-soft); }
