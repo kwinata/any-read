@@ -1,0 +1,653 @@
+{
+ "schemaVersion": 1,
+ "id": "typhoon-no-13-s-effects-to-continue-for-a-long-time-stay-ale",
+ "language": "ja",
+ "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
+ "titleTranslation": "Typhoon No. 13's effects to continue for a long time — stay alert; what about Typhoon No. 15's movement?",
+ "level": "N3",
+ "summary": "Large, very strong Typhoon No. 13 is moving through waters west of Okinawa's main island, bringing prolonged wind and rain to Okinawa and Amami, with residents urged to remain on strict alert for landslides and other hazards.",
+ "sourceUrl": "https://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
+ "createdAt": "2026-08-22T15:01:01+00:00",
+ "audioFile": "audio.mp3",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
+     "tokens": [
+      {
+       "surface": "台風",
+       "pos": "noun",
+       "reading": "たいふう",
+       "romaji": "taifuu",
+       "gloss": "typhoon"
+      },
+      {
+       "surface": "13",
+       "pos": "noun",
+       "gloss": "number 13"
+      },
+      {
+       "surface": "号",
+       "pos": "noun",
+       "reading": "ごう",
+       "romaji": "gou",
+       "gloss": "counter for typhoons/issue number"
+      },
+      {
+       "surface": "影響",
+       "pos": "noun",
+       "reading": "えいきょう",
+       "romaji": "eikyou",
+       "gloss": "effect, influence"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "長時間",
+       "pos": "noun",
+       "reading": "ちょうじかん",
+       "romaji": "choujikan",
+       "gloss": "long time, long duration"
+      },
+      {
+       "surface": "続く",
+       "pos": "verb",
+       "reading": "つづく",
+       "romaji": "tsuzuku",
+       "gloss": "to continue"
+      },
+      {
+       "surface": "警戒",
+       "pos": "noun",
+       "reading": "けいかい",
+       "romaji": "keikai",
+       "gloss": "vigilance, alert"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "台風",
+       "pos": "noun",
+       "reading": "たいふう",
+       "romaji": "taifuu",
+       "gloss": "typhoon"
+      },
+      {
+       "surface": "15",
+       "pos": "noun",
+       "gloss": "number 15"
+      },
+      {
+       "surface": "号",
+       "pos": "noun",
+       "reading": "ごう",
+       "romaji": "gou",
+       "gloss": "counter for typhoons/issue number"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "動き",
+       "pos": "noun",
+       "reading": "うごき",
+       "romaji": "ugoki",
+       "gloss": "movement"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "?",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Typhoon No. 13: Effects to continue for a long time — stay alert; what about Typhoon No. 15's movement?",
+     "audioStart": 0.0,
+     "audioEnd": 7.32
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "(更新)",
+     "tokens": [
+      {
+       "surface": "(",
+       "pos": "punct"
+      },
+      {
+       "surface": "更新",
+       "pos": "noun",
+       "reading": "こうしん",
+       "romaji": "koushin",
+       "gloss": "update"
+      },
+      {
+       "surface": ")",
+       "pos": "punct"
+      }
+     ],
+     "translation": "(Updated)",
+     "audioStart": 7.32,
+     "audioEnd": 9.096
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます。",
+     "tokens": [
+      {
+       "surface": "大型",
+       "pos": "noun",
+       "reading": "おおがた",
+       "romaji": "oogata",
+       "gloss": "large-scale"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula (informal 'is')"
+      },
+      {
+       "surface": "非常",
+       "pos": "adjective",
+       "reading": "ひじょう",
+       "romaji": "hijou",
+       "gloss": "extremely"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula (informal 'is')"
+      },
+      {
+       "surface": "強い",
+       "pos": "adjective",
+       "reading": "つよい",
+       "romaji": "tsuyoi",
+       "gloss": "strong"
+      },
+      {
+       "surface": "台風",
+       "pos": "noun",
+       "reading": "たいふう",
+       "romaji": "taifuu",
+       "gloss": "typhoon"
+      },
+      {
+       "surface": "13",
+       "pos": "noun",
+       "gloss": "number 13"
+      },
+      {
+       "surface": "号",
+       "pos": "noun",
+       "reading": "ごう",
+       "romaji": "gou",
+       "gloss": "counter for typhoons/issue number"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "沖縄",
+       "pos": "noun",
+       "reading": "おきなわ",
+       "romaji": "okinawa",
+       "gloss": "Okinawa"
+      },
+      {
+       "surface": "本島",
+       "pos": "noun",
+       "reading": "ほんとう",
+       "romaji": "hontou",
+       "gloss": "main island"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "西",
+       "pos": "noun",
+       "reading": "にし",
+       "romaji": "nishi",
+       "gloss": "west"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "海上",
+       "pos": "noun",
+       "reading": "かいじょう",
+       "romaji": "kaijou",
+       "gloss": "on the sea, offshore"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "進ん",
+       "pos": "verb",
+       "reading": "すすん",
+       "romaji": "susun",
+       "lemma": "進む",
+       "gloss": "to advance, to move forward"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking location/means"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "auxiliary verb for ongoing state (~ている)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The large and very strong Typhoon No. 13 is moving through the waters west of Okinawa's main island.",
+     "audioStart": 9.096,
+     "audioEnd": 17.52
+    },
+    {
+     "text": "沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
+     "tokens": [
+      {
+       "surface": "沖縄",
+       "pos": "noun",
+       "reading": "おきなわ",
+       "romaji": "okinawa",
+       "gloss": "Okinawa"
+      },
+      {
+       "surface": "・",
+       "pos": "punct"
+      },
+      {
+       "surface": "奄美",
+       "pos": "noun",
+       "reading": "あまみ",
+       "romaji": "amami",
+       "gloss": "Amami (region)"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking location/means"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "風",
+       "pos": "noun",
+       "reading": "かぜ",
+       "romaji": "kaze",
+       "gloss": "wind"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "non-exhaustive listing particle ('and/or')"
+      },
+      {
+       "surface": "雨",
+       "pos": "noun",
+       "reading": "あめ",
+       "romaji": "ame",
+       "gloss": "rain"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "影響",
+       "pos": "noun",
+       "reading": "えいきょう",
+       "romaji": "eikyou",
+       "gloss": "effect, influence"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "長時間",
+       "pos": "noun",
+       "reading": "ちょうじかん",
+       "romaji": "choujikan",
+       "gloss": "long time, long duration"
+      },
+      {
+       "surface": "続い",
+       "pos": "verb",
+       "reading": "つづい",
+       "romaji": "tsuzui",
+       "lemma": "続く",
+       "gloss": "to continue"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "auxiliary verb for ongoing state (~ている)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "土砂災害",
+       "pos": "noun",
+       "reading": "どしゃさいがい",
+       "romaji": "doshasaigai",
+       "gloss": "landslide disaster"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "et cetera, and so on"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/direction"
+      },
+      {
+       "surface": "厳重",
+       "pos": "adjective",
+       "reading": "げんじゅう",
+       "romaji": "genjuu",
+       "gloss": "strict, tight"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula (informal 'is')"
+      },
+      {
+       "surface": "警戒",
+       "pos": "noun",
+       "reading": "けいかい",
+       "romaji": "keikai",
+       "gloss": "vigilance, alert"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "続け",
+       "pos": "verb",
+       "reading": "つづけ",
+       "romaji": "tsuzuke",
+       "lemma": "続ける",
+       "gloss": "to continue (something)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる",
+       "gloss": "to give (honorific, used in requests ~てください)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In Okinawa and Amami, the effects of wind and rain are continuing for a long time, so please remain on strict alert for landslides and other disasters.",
+     "audioStart": 17.52,
+     "audioEnd": 27.984
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "NHK ONE ニュース・防災アプリ",
+     "tokens": [
+      {
+       "surface": "NHK",
+       "pos": "noun",
+       "gloss": "Japan Broadcasting Corporation"
+      },
+      {
+       "surface": "ONE",
+       "pos": "noun",
+       "gloss": "part of NHK's app name 'NHK ONE'"
+      },
+      {
+       "surface": "ニュース",
+       "pos": "noun",
+       "romaji": "nyuusu",
+       "gloss": "news"
+      },
+      {
+       "surface": "・",
+       "pos": "punct"
+      },
+      {
+       "surface": "防災",
+       "pos": "noun",
+       "reading": "ぼうさい",
+       "romaji": "bousai",
+       "gloss": "disaster prevention"
+      },
+      {
+       "surface": "アプリ",
+       "pos": "noun",
+       "romaji": "apuri",
+       "gloss": "app, application"
+      }
+     ],
+     "translation": "NHK ONE News/Disaster Prevention App",
+     "audioStart": 27.984,
+     "audioEnd": 32.352
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "N…",
+     "tokens": [
+      {
+       "surface": "N",
+       "pos": "noun",
+       "gloss": "abbreviation (cut-off text, likely 'NHK')"
+      },
+      {
+       "surface": "…",
+       "pos": "punct"
+      }
+     ],
+     "translation": "N...",
+     "audioStart": 32.352,
+     "audioEnd": 34.128
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "各地のニュース",
+     "tokens": [
+      {
+       "surface": "各地",
+       "pos": "noun",
+       "reading": "かくち",
+       "romaji": "kakuchi",
+       "gloss": "various places, everywhere"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "ニュース",
+       "pos": "noun",
+       "romaji": "nyuusu",
+       "gloss": "news"
+      }
+     ],
+     "translation": "News from around the country",
+     "audioStart": 34.128,
+     "audioEnd": 36.48
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "各地のニュース",
+     "tokens": [
+      {
+       "surface": "各地",
+       "pos": "noun",
+       "reading": "かくち",
+       "romaji": "kakuchi",
+       "gloss": "various places, everywhere"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "ニュース",
+       "pos": "noun",
+       "romaji": "nyuusu",
+       "gloss": "news"
+      }
+     ],
+     "translation": "News from around the country",
+     "audioStart": 36.48,
+     "audioEnd": 38.832
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "地図から選ぶ",
+     "tokens": [
+      {
+       "surface": "地図",
+       "pos": "noun",
+       "reading": "ちず",
+       "romaji": "chizu",
+       "gloss": "map"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from (particle)"
+      },
+      {
+       "surface": "選ぶ",
+       "pos": "verb",
+       "reading": "えらぶ",
+       "romaji": "erabu",
+       "gloss": "to choose, to select"
+      }
+     ],
+     "translation": "Choose from a map",
+     "audioStart": 38.832,
+     "audioEnd": 41.136
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+[project]
+name = "anyread-pipeline"
+version = "0.1.0"
+description = "Turns news articles into annotated, audio-narrated AnyRead bundles"
+requires-python = ">=3.11"
+dependencies = [
+    "trafilatura>=1.8",
+    "sudachipy>=0.6",
+    "sudachidict-core>=20240109",
+    "pykakasi>=2.2",
+    "edge-tts>=6.1",
+    "mutagen>=1.47",
+]
+
+[project.scripts]
+anyread = "anyread_pipeline.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["anyread_pipeline"]
