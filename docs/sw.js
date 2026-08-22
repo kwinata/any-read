@@ -53,7 +53,8 @@ async function audioResponse(request) {
 async function networkFirst(request) {
   const cache = await caches.open(VERSION);
   try {
-    const resp = await fetch(request);
+    // GitHub Pages sends max-age=600; revalidate so updates show up immediately.
+    const resp = await fetch(request, { cache: 'no-cache' });
     if (resp.ok) await cache.put(request, resp.clone());
     return resp;
   } catch (e) {
