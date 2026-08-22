@@ -1,0 +1,983 @@
+{
+ "schemaVersion": 1,
+ "id": "illness-football-player-jamal-musiala-explains-his-fainting-",
+ "language": "de",
+ "title": "Krankheit - Fußball-Spieler Jamal Musiala erklärt seine Ohnmachts-Anfälle",
+ "titleTranslation": "Illness - Football player Jamal Musiala explains his fainting spells",
+ "level": "A2",
+ "summary": "German football star Jamal Musiala revealed he has a neurological condition that causes brief fainting spells but says it is not dangerous and he can keep playing.",
+ "sourceUrl": "https://www.nachrichtenleicht.de/musiala-erklaert-ohnmacht-100.html",
+ "createdAt": "2026-08-22T16:38:20+00:00",
+ "audioFile": "audio.mp3",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "Jamal Musiala ist ein deutscher Fußball-Spieler.",
+     "tokens": [
+      {
+       "surface": "Jamal",
+       "pos": "word",
+       "gloss": "male first name"
+      },
+      {
+       "surface": "Musiala",
+       "pos": "word",
+       "gloss": "surname (footballer)"
+      },
+      {
+       "surface": "ist",
+       "pos": "word",
+       "gloss": "is (sein)"
+      },
+      {
+       "surface": "ein",
+       "pos": "word",
+       "gloss": "a/an"
+      },
+      {
+       "surface": "deutscher",
+       "pos": "word",
+       "gloss": "German (adj.)"
+      },
+      {
+       "surface": "Fußball-Spieler",
+       "pos": "word",
+       "gloss": "football player"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Jamal Musiala is a German football player.",
+     "audioStart": 0.0,
+     "audioEnd": 4.152
+    },
+    {
+     "text": "Er spielt beim Verein Bayern München.",
+     "tokens": [
+      {
+       "surface": "Er",
+       "pos": "word",
+       "gloss": "he"
+      },
+      {
+       "surface": "spielt",
+       "pos": "word",
+       "gloss": "plays"
+      },
+      {
+       "surface": "beim",
+       "pos": "word",
+       "gloss": "at the (bei + dem)"
+      },
+      {
+       "surface": "Verein",
+       "pos": "word",
+       "gloss": "club"
+      },
+      {
+       "surface": "Bayern",
+       "pos": "word",
+       "gloss": "Bavaria"
+      },
+      {
+       "surface": "München",
+       "pos": "word",
+       "gloss": "Munich"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "He plays for the club Bayern Munich.",
+     "audioStart": 4.152,
+     "audioEnd": 7.536
+    },
+    {
+     "text": "Musiala ist bei 2 Spielen ohnmächtig geworden.",
+     "tokens": [
+      {
+       "surface": "Musiala",
+       "pos": "word",
+       "gloss": "surname (footballer)"
+      },
+      {
+       "surface": "ist",
+       "pos": "word",
+       "gloss": "is (sein)"
+      },
+      {
+       "surface": "bei",
+       "pos": "word",
+       "gloss": "at, during"
+      },
+      {
+       "surface": "2",
+       "pos": "number"
+      },
+      {
+       "surface": "Spielen",
+       "pos": "word",
+       "gloss": "matches (dat. pl. of Spiel)"
+      },
+      {
+       "surface": "ohnmächtig",
+       "pos": "word",
+       "gloss": "unconscious"
+      },
+      {
+       "surface": "geworden",
+       "pos": "word",
+       "gloss": "become (past part. of werden)"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Musiala has fainted during 2 matches.",
+     "audioStart": 7.536,
+     "audioEnd": 12.12
+    },
+    {
+     "text": "Viele Menschen haben sich Sorgen gemacht.",
+     "tokens": [
+      {
+       "surface": "Viele",
+       "pos": "word",
+       "gloss": "many"
+      },
+      {
+       "surface": "Menschen",
+       "pos": "word",
+       "gloss": "people"
+      },
+      {
+       "surface": "haben",
+       "pos": "word",
+       "gloss": "have (auxiliary)"
+      },
+      {
+       "surface": "sich",
+       "pos": "word",
+       "gloss": "themselves (reflexive)"
+      },
+      {
+       "surface": "Sorgen",
+       "pos": "word",
+       "gloss": "worries"
+      },
+      {
+       "surface": "gemacht",
+       "pos": "word",
+       "gloss": "made (past part. of machen)"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many people have been worried.",
+     "audioStart": 12.12,
+     "audioEnd": 15.528
+    },
+    {
+     "text": "Jetzt hat Musiala gesagt: Ich habe eine Krankheit.",
+     "tokens": [
+      {
+       "surface": "Jetzt",
+       "pos": "word",
+       "gloss": "now"
+      },
+      {
+       "surface": "hat",
+       "pos": "word",
+       "gloss": "has (auxiliary)"
+      },
+      {
+       "surface": "Musiala",
+       "pos": "word",
+       "gloss": "surname (footballer)"
+      },
+      {
+       "surface": "gesagt",
+       "pos": "word",
+       "gloss": "said (past part. of sagen)"
+      },
+      {
+       "surface": ":",
+       "pos": "punct"
+      },
+      {
+       "surface": "Ich",
+       "pos": "word",
+       "gloss": "I"
+      },
+      {
+       "surface": "habe",
+       "pos": "word",
+       "gloss": "have (haben, 1st person)"
+      },
+      {
+       "surface": "eine",
+       "pos": "word",
+       "gloss": "a/an (fem.)"
+      },
+      {
+       "surface": "Krankheit",
+       "pos": "word",
+       "gloss": "illness"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Now Musiala has said: I have an illness.",
+     "audioStart": 15.528,
+     "audioEnd": 20.28
+    },
+    {
+     "text": "Aber ich kann weiter Fußball spielen.",
+     "tokens": [
+      {
+       "surface": "Aber",
+       "pos": "word",
+       "gloss": "but"
+      },
+      {
+       "surface": "ich",
+       "pos": "word",
+       "gloss": "I"
+      },
+      {
+       "surface": "kann",
+       "pos": "word",
+       "gloss": "can (können)"
+      },
+      {
+       "surface": "weiter",
+       "pos": "word",
+       "gloss": "further, continue to"
+      },
+      {
+       "surface": "Fußball",
+       "pos": "word",
+       "gloss": "football/soccer"
+      },
+      {
+       "surface": "spielen",
+       "pos": "word",
+       "gloss": "to play"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "But I can keep playing football.",
+     "audioStart": 20.28,
+     "audioEnd": 23.664
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "Die Krankheit heißt \"neurologische Dys-Funktion\".",
+     "tokens": [
+      {
+       "surface": "Die",
+       "pos": "word",
+       "gloss": "the (fem./pl. article)"
+      },
+      {
+       "surface": "Krankheit",
+       "pos": "word",
+       "gloss": "illness"
+      },
+      {
+       "surface": "heißt",
+       "pos": "word",
+       "gloss": "is called"
+      },
+      {
+       "surface": "\"",
+       "pos": "punct"
+      },
+      {
+       "surface": "neurologische",
+       "pos": "word",
+       "gloss": "neurological"
+      },
+      {
+       "surface": "Dys-Funktion",
+       "pos": "word",
+       "gloss": "dysfunction"
+      },
+      {
+       "surface": "\"",
+       "pos": "punct"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The illness is called \"neurological dysfunction\".",
+     "audioStart": 23.664,
+     "audioEnd": 28.824
+    },
+    {
+     "text": "Das bedeutet: In Musialas Gehirn funktioniert manchmal etwas nicht richtig.",
+     "tokens": [
+      {
+       "surface": "Das",
+       "pos": "word",
+       "gloss": "that/this"
+      },
+      {
+       "surface": "bedeutet",
+       "pos": "word",
+       "gloss": "means"
+      },
+      {
+       "surface": ":",
+       "pos": "punct"
+      },
+      {
+       "surface": "In",
+       "pos": "word",
+       "gloss": "in"
+      },
+      {
+       "surface": "Musialas",
+       "pos": "word",
+       "gloss": "Musiala's (genitive)"
+      },
+      {
+       "surface": "Gehirn",
+       "pos": "word",
+       "gloss": "brain"
+      },
+      {
+       "surface": "funktioniert",
+       "pos": "word",
+       "gloss": "functions/works"
+      },
+      {
+       "surface": "manchmal",
+       "pos": "word",
+       "gloss": "sometimes"
+      },
+      {
+       "surface": "etwas",
+       "pos": "word",
+       "gloss": "something"
+      },
+      {
+       "surface": "nicht",
+       "pos": "word",
+       "gloss": "not"
+      },
+      {
+       "surface": "richtig",
+       "pos": "word",
+       "gloss": "correctly"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "That means: something in Musiala's brain sometimes doesn't work correctly.",
+     "audioStart": 28.824,
+     "audioEnd": 34.992
+    },
+    {
+     "text": "Dann wird er kurz ohnmächtig.",
+     "tokens": [
+      {
+       "surface": "Dann",
+       "pos": "word",
+       "gloss": "then"
+      },
+      {
+       "surface": "wird",
+       "pos": "word",
+       "gloss": "becomes (werden)"
+      },
+      {
+       "surface": "er",
+       "pos": "word",
+       "gloss": "he"
+      },
+      {
+       "surface": "kurz",
+       "pos": "word",
+       "gloss": "briefly"
+      },
+      {
+       "surface": "ohnmächtig",
+       "pos": "word",
+       "gloss": "unconscious"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Then he briefly faints.",
+     "audioStart": 34.992,
+     "audioEnd": 37.92
+    },
+    {
+     "text": "Danach geht es ihm wieder gut.",
+     "tokens": [
+      {
+       "surface": "Danach",
+       "pos": "word",
+       "gloss": "afterward"
+      },
+      {
+       "surface": "geht",
+       "pos": "word",
+       "gloss": "goes (used in 'es geht ihm gut')"
+      },
+      {
+       "surface": "es",
+       "pos": "word",
+       "gloss": "it"
+      },
+      {
+       "surface": "ihm",
+       "pos": "word",
+       "gloss": "him (dat.)"
+      },
+      {
+       "surface": "wieder",
+       "pos": "word",
+       "gloss": "again"
+      },
+      {
+       "surface": "gut",
+       "pos": "word",
+       "gloss": "good/well"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Afterward he feels fine again.",
+     "audioStart": 37.92,
+     "audioEnd": 40.92
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "Die Ärzte von Musiala sagen: Die Krankheit ist nicht sehr gefährlich.",
+     "tokens": [
+      {
+       "surface": "Die",
+       "pos": "word",
+       "gloss": "the (fem./pl. article)"
+      },
+      {
+       "surface": "Ärzte",
+       "pos": "word",
+       "gloss": "doctors"
+      },
+      {
+       "surface": "von",
+       "pos": "word",
+       "gloss": "of/from"
+      },
+      {
+       "surface": "Musiala",
+       "pos": "word",
+       "gloss": "surname (footballer)"
+      },
+      {
+       "surface": "sagen",
+       "pos": "word",
+       "gloss": "to say"
+      },
+      {
+       "surface": ":",
+       "pos": "punct"
+      },
+      {
+       "surface": "Die",
+       "pos": "word",
+       "gloss": "the (fem./pl. article)"
+      },
+      {
+       "surface": "Krankheit",
+       "pos": "word",
+       "gloss": "illness"
+      },
+      {
+       "surface": "ist",
+       "pos": "word",
+       "gloss": "is (sein)"
+      },
+      {
+       "surface": "nicht",
+       "pos": "word",
+       "gloss": "not"
+      },
+      {
+       "surface": "sehr",
+       "pos": "word",
+       "gloss": "very"
+      },
+      {
+       "surface": "gefährlich",
+       "pos": "word",
+       "gloss": "dangerous"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Musiala's doctors say: The illness is not very dangerous.",
+     "audioStart": 40.92,
+     "audioEnd": 46.896
+    },
+    {
+     "text": "Musiala darf weiter Fußball spielen.",
+     "tokens": [
+      {
+       "surface": "Musiala",
+       "pos": "word",
+       "gloss": "surname (footballer)"
+      },
+      {
+       "surface": "darf",
+       "pos": "word",
+       "gloss": "is allowed to (dürfen)"
+      },
+      {
+       "surface": "weiter",
+       "pos": "word",
+       "gloss": "further, continue to"
+      },
+      {
+       "surface": "Fußball",
+       "pos": "word",
+       "gloss": "football/soccer"
+      },
+      {
+       "surface": "spielen",
+       "pos": "word",
+       "gloss": "to play"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Musiala is allowed to keep playing football.",
+     "audioStart": 46.896,
+     "audioEnd": 50.688
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "Sein Verein Bayern München sagt: Wir unterstützten Jamal Musiala.",
+     "tokens": [
+      {
+       "surface": "Sein",
+       "pos": "word",
+       "gloss": "his"
+      },
+      {
+       "surface": "Verein",
+       "pos": "word",
+       "gloss": "club"
+      },
+      {
+       "surface": "Bayern",
+       "pos": "word",
+       "gloss": "Bavaria"
+      },
+      {
+       "surface": "München",
+       "pos": "word",
+       "gloss": "Munich"
+      },
+      {
+       "surface": "sagt",
+       "pos": "word",
+       "gloss": "says"
+      },
+      {
+       "surface": ":",
+       "pos": "punct"
+      },
+      {
+       "surface": "Wir",
+       "pos": "word",
+       "gloss": "we"
+      },
+      {
+       "surface": "unterstützten",
+       "pos": "word",
+       "gloss": "supported (past tense of unterstützen)"
+      },
+      {
+       "surface": "Jamal",
+       "pos": "word",
+       "gloss": "male first name"
+      },
+      {
+       "surface": "Musiala",
+       "pos": "word",
+       "gloss": "surname (footballer)"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "His club Bayern Munich says: We support Jamal Musiala.",
+     "audioStart": 50.688,
+     "audioEnd": 56.232
+    },
+    {
+     "text": "Das Wichtigste ist seine Gesundheit.",
+     "tokens": [
+      {
+       "surface": "Das",
+       "pos": "word",
+       "gloss": "that/this"
+      },
+      {
+       "surface": "Wichtigste",
+       "pos": "word",
+       "gloss": "most important thing"
+      },
+      {
+       "surface": "ist",
+       "pos": "word",
+       "gloss": "is (sein)"
+      },
+      {
+       "surface": "seine",
+       "pos": "word",
+       "gloss": "his"
+      },
+      {
+       "surface": "Gesundheit",
+       "pos": "word",
+       "gloss": "health"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The most important thing is his health.",
+     "audioStart": 56.232,
+     "audioEnd": 59.592
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "Bayern München spielt am Samstag gegen Borussia Dortmund.",
+     "tokens": [
+      {
+       "surface": "Bayern",
+       "pos": "word",
+       "gloss": "Bavaria"
+      },
+      {
+       "surface": "München",
+       "pos": "word",
+       "gloss": "Munich"
+      },
+      {
+       "surface": "spielt",
+       "pos": "word",
+       "gloss": "plays"
+      },
+      {
+       "surface": "am",
+       "pos": "word",
+       "gloss": "on the (an + dem)"
+      },
+      {
+       "surface": "Samstag",
+       "pos": "word",
+       "gloss": "Saturday"
+      },
+      {
+       "surface": "gegen",
+       "pos": "word",
+       "gloss": "against"
+      },
+      {
+       "surface": "Borussia",
+       "pos": "word",
+       "gloss": "part of club name Borussia Dortmund"
+      },
+      {
+       "surface": "Dortmund",
+       "pos": "word",
+       "gloss": "city name / club name"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Bayern Munich plays on Saturday against Borussia Dortmund.",
+     "audioStart": 59.592,
+     "audioEnd": 64.488
+    },
+    {
+     "text": "Ob Musiala mitspielt, ist noch nicht klar.",
+     "tokens": [
+      {
+       "surface": "Ob",
+       "pos": "word",
+       "gloss": "whether"
+      },
+      {
+       "surface": "Musiala",
+       "pos": "word",
+       "gloss": "surname (footballer)"
+      },
+      {
+       "surface": "mitspielt",
+       "pos": "word",
+       "gloss": "plays along/participates (mitspielen)"
+      },
+      {
+       "surface": ",",
+       "pos": "punct"
+      },
+      {
+       "surface": "ist",
+       "pos": "word",
+       "gloss": "is (sein)"
+      },
+      {
+       "surface": "noch",
+       "pos": "word",
+       "gloss": "yet, still"
+      },
+      {
+       "surface": "nicht",
+       "pos": "word",
+       "gloss": "not"
+      },
+      {
+       "surface": "klar",
+       "pos": "word",
+       "gloss": "clear"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Whether Musiala will play is not yet clear.",
+     "audioStart": 64.488,
+     "audioEnd": 68.568
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "Der Fußball-Verein Bayern München ist einer der erfolgreichsten in Deutschland.",
+     "tokens": [
+      {
+       "surface": "Der",
+       "pos": "word",
+       "gloss": "the (masc. article)"
+      },
+      {
+       "surface": "Fußball-Verein",
+       "pos": "word",
+       "gloss": "football club"
+      },
+      {
+       "surface": "Bayern",
+       "pos": "word",
+       "gloss": "Bavaria"
+      },
+      {
+       "surface": "München",
+       "pos": "word",
+       "gloss": "Munich"
+      },
+      {
+       "surface": "ist",
+       "pos": "word",
+       "gloss": "is (sein)"
+      },
+      {
+       "surface": "einer",
+       "pos": "word",
+       "gloss": "one (of)"
+      },
+      {
+       "surface": "der",
+       "pos": "word",
+       "gloss": "the/of the (genitive)"
+      },
+      {
+       "surface": "erfolgreichsten",
+       "pos": "word",
+       "gloss": "most successful (superlative)"
+      },
+      {
+       "surface": "in",
+       "pos": "word",
+       "gloss": "in"
+      },
+      {
+       "surface": "Deutschland",
+       "pos": "word",
+       "gloss": "Germany"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The football club Bayern Munich is one of the most successful in Germany.",
+     "audioStart": 68.568,
+     "audioEnd": 74.424
+    },
+    {
+     "text": "Die Mannschaft ist schon sehr oft Deutscher Meister geworden.",
+     "tokens": [
+      {
+       "surface": "Die",
+       "pos": "word",
+       "gloss": "the (fem./pl. article)"
+      },
+      {
+       "surface": "Mannschaft",
+       "pos": "word",
+       "gloss": "team"
+      },
+      {
+       "surface": "ist",
+       "pos": "word",
+       "gloss": "is (sein)"
+      },
+      {
+       "surface": "schon",
+       "pos": "word",
+       "gloss": "already"
+      },
+      {
+       "surface": "sehr",
+       "pos": "word",
+       "gloss": "very"
+      },
+      {
+       "surface": "oft",
+       "pos": "word",
+       "gloss": "often"
+      },
+      {
+       "surface": "Deutscher",
+       "pos": "word",
+       "gloss": "German (adj., here 'German champion')"
+      },
+      {
+       "surface": "Meister",
+       "pos": "word",
+       "gloss": "champion"
+      },
+      {
+       "surface": "geworden",
+       "pos": "word",
+       "gloss": "become (past part. of werden)"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The team has become German champion very often already.",
+     "audioStart": 74.424,
+     "audioEnd": 78.936
+    },
+    {
+     "text": "In Europa hat sie mehrmals die Champions League gewonnen.",
+     "tokens": [
+      {
+       "surface": "In",
+       "pos": "word",
+       "gloss": "in"
+      },
+      {
+       "surface": "Europa",
+       "pos": "word",
+       "gloss": "Europe"
+      },
+      {
+       "surface": "hat",
+       "pos": "word",
+       "gloss": "has (auxiliary)"
+      },
+      {
+       "surface": "sie",
+       "pos": "word",
+       "gloss": "it/she (referring to Mannschaft)"
+      },
+      {
+       "surface": "mehrmals",
+       "pos": "word",
+       "gloss": "several times"
+      },
+      {
+       "surface": "die",
+       "pos": "word",
+       "gloss": "the (fem./pl. article)"
+      },
+      {
+       "surface": "Champions",
+       "pos": "word",
+       "gloss": "part of 'Champions League'"
+      },
+      {
+       "surface": "League",
+       "pos": "word",
+       "gloss": "part of 'Champions League'"
+      },
+      {
+       "surface": "gewonnen",
+       "pos": "word",
+       "gloss": "won (past part. of gewinnen)"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In Europe, it has won the Champions League several times.",
+     "audioStart": 78.936,
+     "audioEnd": 83.568
+    }
+   ]
+  }
+ ]
+}

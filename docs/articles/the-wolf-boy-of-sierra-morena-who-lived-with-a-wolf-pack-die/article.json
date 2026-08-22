@@ -1,0 +1,4505 @@
+{
+ "schemaVersion": 1,
+ "id": "the-wolf-boy-of-sierra-morena-who-lived-with-a-wolf-pack-die",
+ "language": "ja",
+ "title": "オオカミの群れと暮らしていた「シエラモレナの狼少年」、80歳で死去スペイン",
+ "titleTranslation": "The 'Wolf Boy of Sierra Morena,' who lived with a wolf pack, dies at 80 in Spain (CNN.co.jp) - Yahoo! News",
+ "level": "N1",
+ "summary": "A Spanish man known as the 'Wolf Boy of Sierra Morena,' who was abandoned as a child and spent 12 years living in the wild with a pack of wolves before eventually returning to human society, has died at age 80.",
+ "sourceUrl": "https://news.yahoo.co.jp/articles/5f84fb0cfafa0ec4086917f52ebc4a4f9e465d76",
+ "createdAt": "2026-08-22T16:30:36+00:00",
+ "audioFile": "audio.mp3",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "（CNN） 少年時代をオオカミの群れで過ごし、人間社会に戻ってからは「シエラモレナの狼少年」と呼ばれるようになったスペインの男性が死去した。",
+     "tokens": [
+      {
+       "surface": "（",
+       "pos": "punct"
+      },
+      {
+       "surface": "CNN",
+       "pos": "noun",
+       "gloss": "CNN (news organization)"
+      },
+      {
+       "surface": "）",
+       "pos": "punct"
+      },
+      {
+       "surface": "少年",
+       "pos": "noun",
+       "reading": "しょうねん",
+       "romaji": "shounen",
+       "gloss": "boy"
+      },
+      {
+       "surface": "時代",
+       "pos": "noun",
+       "reading": "じだい",
+       "romaji": "jidai",
+       "gloss": "era, period of time"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "オオカミ",
+       "pos": "noun",
+       "romaji": "ookami",
+       "gloss": "wolf"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "群れ",
+       "pos": "noun",
+       "reading": "むれ",
+       "romaji": "mure",
+       "gloss": "pack, herd, group"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle"
+      },
+      {
+       "surface": "過ごし",
+       "pos": "verb",
+       "reading": "すごし",
+       "romaji": "sugoshi",
+       "lemma": "過ごす",
+       "gloss": "to spend (time)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "人間",
+       "pos": "noun",
+       "reading": "にんげん",
+       "romaji": "ningen",
+       "gloss": "human"
+      },
+      {
+       "surface": "社会",
+       "pos": "noun",
+       "reading": "しゃかい",
+       "romaji": "shakai",
+       "gloss": "society"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/direction particle"
+      },
+      {
+       "surface": "戻っ",
+       "pos": "verb",
+       "reading": "もどっ",
+       "romaji": "modotsu",
+       "lemma": "戻る",
+       "gloss": "to return"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "after (doing something)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "シエラ",
+       "pos": "noun",
+       "romaji": "shiera",
+       "gloss": "Sierra (part of proper noun)"
+      },
+      {
+       "surface": "モレナ",
+       "pos": "noun",
+       "romaji": "morena",
+       "gloss": "Morena (part of proper noun)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "狼",
+       "pos": "noun",
+       "reading": "おおかみ",
+       "romaji": "ookami",
+       "gloss": "wolf"
+      },
+      {
+       "surface": "少年",
+       "pos": "noun",
+       "reading": "しょうねん",
+       "romaji": "shounen",
+       "gloss": "boy"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "呼ば",
+       "pos": "verb",
+       "reading": "よば",
+       "romaji": "yoba",
+       "lemma": "呼ぶ",
+       "gloss": "to call, name"
+      },
+      {
+       "surface": "れる",
+       "pos": "auxiliary",
+       "romaji": "reru",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "よう",
+       "pos": "adjective",
+       "romaji": "you",
+       "gloss": "seem/appear; ~ようになる: come to (do)"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula (is)"
+      },
+      {
+       "surface": "なっ",
+       "pos": "verb",
+       "romaji": "natsu",
+       "lemma": "なる",
+       "gloss": "to become"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "スペイン",
+       "pos": "noun",
+       "romaji": "supein",
+       "gloss": "Spain"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "男性",
+       "pos": "noun",
+       "reading": "だんせい",
+       "romaji": "dansei",
+       "gloss": "man, male"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "死去",
+       "pos": "noun",
+       "reading": "しきょ",
+       "romaji": "shikyo",
+       "gloss": "death, passing away"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do (verbalizer)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "(CNN) A Spanish man who spent his boyhood living with a pack of wolves, and who came to be known as the 'Wolf Boy of Sierra Morena' after returning to human society, has died.",
+     "audioStart": 0.0,
+     "audioEnd": 13.2
+    },
+    {
+     "text": "80歳だった。",
+     "tokens": [
+      {
+       "surface": "80",
+       "pos": "noun",
+       "gloss": "eighty"
+      },
+      {
+       "surface": "歳",
+       "pos": "suffix",
+       "reading": "さい",
+       "romaji": "sai",
+       "gloss": "years old (age counter)"
+      },
+      {
+       "surface": "だっ",
+       "pos": "auxiliary",
+       "romaji": "datsu",
+       "lemma": "だ",
+       "gloss": "copula (is)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "He was 80 years old.",
+     "audioStart": 13.2,
+     "audioEnd": 15.6
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "マルコス・ロドリゲス・パントーハさんは少年時代の大半、人との接触を断ったまま、スペインの人里離れた山中で過ごした。",
+     "tokens": [
+      {
+       "surface": "マルコス",
+       "pos": "noun",
+       "romaji": "marukosu",
+       "gloss": "Marcos (given name)"
+      },
+      {
+       "surface": "・",
+       "pos": "punct"
+      },
+      {
+       "surface": "ロドリゲス",
+       "pos": "noun",
+       "romaji": "rodorigesu",
+       "gloss": "Rodríguez (surname)"
+      },
+      {
+       "surface": "・",
+       "pos": "punct"
+      },
+      {
+       "surface": "パントーハ",
+       "pos": "noun",
+       "romaji": "pantooha",
+       "gloss": "Pantoja (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "honorific title (Mr./Ms.)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "少年",
+       "pos": "noun",
+       "reading": "しょうねん",
+       "romaji": "shounen",
+       "gloss": "boy"
+      },
+      {
+       "surface": "時代",
+       "pos": "noun",
+       "reading": "じだい",
+       "romaji": "jidai",
+       "gloss": "era, period of time"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "大半",
+       "pos": "noun",
+       "reading": "たいはん",
+       "romaji": "taihan",
+       "gloss": "the majority, most of"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "接触",
+       "pos": "noun",
+       "reading": "せっしょく",
+       "romaji": "sesshoku",
+       "gloss": "contact"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "断っ",
+       "pos": "verb",
+       "reading": "ことわっ",
+       "romaji": "kotowatsu",
+       "lemma": "断る",
+       "gloss": "to cut off, refuse"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "まま",
+       "pos": "noun",
+       "romaji": "mama",
+       "gloss": "as is, while remaining (in a state)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "スペイン",
+       "pos": "noun",
+       "romaji": "supein",
+       "gloss": "Spain"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "人里",
+       "pos": "noun",
+       "reading": "ひとざと",
+       "romaji": "hitozato",
+       "gloss": "human settlement, inhabited area"
+      },
+      {
+       "surface": "離れ",
+       "pos": "verb",
+       "reading": "はなれ",
+       "romaji": "hanare",
+       "lemma": "離れる",
+       "gloss": "to be far from, separate from"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "山中",
+       "pos": "noun",
+       "reading": "さんちゅう",
+       "romaji": "sanchuu",
+       "gloss": "in the mountains"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle"
+      },
+      {
+       "surface": "過ごし",
+       "pos": "verb",
+       "reading": "すごし",
+       "romaji": "sugoshi",
+       "lemma": "過ごす",
+       "gloss": "to spend (time)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Marcos Rodríguez Pantoja spent most of his boyhood in the remote mountains of Spain, cut off from contact with people.",
+     "audioStart": 15.6,
+     "audioEnd": 27.864
+    },
+    {
+     "text": "幼い頃に不幸が重なって見捨てられ、オオカミに育てられる特異な12年間を送った。",
+     "tokens": [
+      {
+       "surface": "幼い",
+       "pos": "adjective",
+       "reading": "おさない",
+       "romaji": "osanai",
+       "gloss": "young, childish"
+      },
+      {
+       "surface": "頃",
+       "pos": "noun",
+       "reading": "ころ",
+       "romaji": "koro",
+       "gloss": "time, period"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/direction particle"
+      },
+      {
+       "surface": "不幸",
+       "pos": "noun",
+       "reading": "ふこう",
+       "romaji": "fukou",
+       "gloss": "misfortune, unhappiness"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "重なっ",
+       "pos": "verb",
+       "reading": "かさなっ",
+       "romaji": "kasanatsu",
+       "lemma": "重なる",
+       "gloss": "to overlap, pile up, coincide"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "見捨て",
+       "pos": "verb",
+       "reading": "みすて",
+       "romaji": "misute",
+       "lemma": "見捨てる",
+       "gloss": "to abandon, forsake"
+      },
+      {
+       "surface": "られ",
+       "pos": "auxiliary",
+       "romaji": "rare",
+       "lemma": "られる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "オオカミ",
+       "pos": "noun",
+       "romaji": "ookami",
+       "gloss": "wolf"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/direction particle"
+      },
+      {
+       "surface": "育て",
+       "pos": "verb",
+       "reading": "そだて",
+       "romaji": "sodate",
+       "lemma": "育てる",
+       "gloss": "to raise, bring up"
+      },
+      {
+       "surface": "られる",
+       "pos": "auxiliary",
+       "romaji": "rareru",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "特異",
+       "pos": "noun",
+       "reading": "とくい",
+       "romaji": "tokui",
+       "gloss": "peculiar, exceptional"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula (is)"
+      },
+      {
+       "surface": "12",
+       "pos": "noun",
+       "gloss": "twelve"
+      },
+      {
+       "surface": "年間",
+       "pos": "noun",
+       "reading": "ねんかん",
+       "romaji": "nenkan",
+       "gloss": "period of years"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "送っ",
+       "pos": "verb",
+       "reading": "おくっ",
+       "romaji": "okutsu",
+       "lemma": "送る",
+       "gloss": "to spend (a period of life)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "As a young child, a series of misfortunes led to him being abandoned, and he spent an extraordinary 12 years being raised by wolves.",
+     "audioStart": 27.864,
+     "audioEnd": 36.048
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ロドリゲスさんはその後、文明社会へ復帰。",
+     "tokens": [
+      {
+       "surface": "ロドリゲス",
+       "pos": "noun",
+       "romaji": "rodorigesu",
+       "gloss": "Rodríguez (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "honorific title (Mr./Ms.)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that"
+      },
+      {
+       "surface": "後",
+       "pos": "noun",
+       "reading": "ご",
+       "romaji": "go",
+       "gloss": "after, later"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "文明",
+       "pos": "noun",
+       "reading": "ぶんめい",
+       "romaji": "bunmei",
+       "gloss": "civilization"
+      },
+      {
+       "surface": "社会",
+       "pos": "noun",
+       "reading": "しゃかい",
+       "romaji": "shakai",
+       "gloss": "society"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "direction particle (to)"
+      },
+      {
+       "surface": "復帰",
+       "pos": "noun",
+       "reading": "ふっき",
+       "romaji": "fukki",
+       "gloss": "return, comeback"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Rodríguez later returned to civilized society.",
+     "audioStart": 36.048,
+     "audioEnd": 41.04
+    },
+    {
+     "text": "地元自治体の発表によると、2001年にランテという集落に住み着き、先週80歳で亡くなるまで暮らしていた。",
+     "tokens": [
+      {
+       "surface": "地元",
+       "pos": "noun",
+       "reading": "じもと",
+       "romaji": "jimoto",
+       "gloss": "local"
+      },
+      {
+       "surface": "自治体",
+       "pos": "noun",
+       "reading": "じちたい",
+       "romaji": "jichitai",
+       "gloss": "municipality, local government"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "発表",
+       "pos": "noun",
+       "reading": "はっぴょう",
+       "romaji": "happyou",
+       "gloss": "announcement"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/direction particle"
+      },
+      {
+       "surface": "よる",
+       "pos": "verb",
+       "romaji": "yoru",
+       "gloss": "according to (による)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "2001",
+       "pos": "noun",
+       "gloss": "two thousand one"
+      },
+      {
+       "surface": "年",
+       "pos": "noun",
+       "reading": "ねん",
+       "romaji": "nen",
+       "gloss": "year"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/direction particle"
+      },
+      {
+       "surface": "ランテ",
+       "pos": "noun",
+       "romaji": "rante",
+       "gloss": "Rante (place name)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "いう",
+       "pos": "verb",
+       "romaji": "iu",
+       "gloss": "to say, to be called"
+      },
+      {
+       "surface": "集落",
+       "pos": "noun",
+       "reading": "しゅうらく",
+       "romaji": "shuuraku",
+       "gloss": "hamlet, settlement"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/direction particle"
+      },
+      {
+       "surface": "住み着き",
+       "pos": "verb",
+       "reading": "すみつき",
+       "romaji": "sumitsuki",
+       "lemma": "住み着く",
+       "gloss": "to settle down (in a place)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "先週",
+       "pos": "noun",
+       "reading": "せんしゅう",
+       "romaji": "senshuu",
+       "gloss": "last week"
+      },
+      {
+       "surface": "80",
+       "pos": "noun",
+       "gloss": "eighty"
+      },
+      {
+       "surface": "歳",
+       "pos": "suffix",
+       "reading": "さい",
+       "romaji": "sai",
+       "gloss": "years old (age counter)"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle"
+      },
+      {
+       "surface": "亡くなる",
+       "pos": "verb",
+       "reading": "なくなる",
+       "romaji": "nakunaru",
+       "gloss": "to pass away, die"
+      },
+      {
+       "surface": "まで",
+       "pos": "particle",
+       "romaji": "made",
+       "gloss": "until"
+      },
+      {
+       "surface": "暮らし",
+       "pos": "verb",
+       "reading": "くらし",
+       "romaji": "kurashi",
+       "lemma": "暮らす",
+       "gloss": "to live, reside"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "auxiliary marking ongoing state (to be ~ing)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "According to the local municipality, he settled in a hamlet called Rante in 2001 and lived there until his death last week at age 80.",
+     "audioStart": 41.04,
+     "audioEnd": 52.008
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "最晩年のロドリゲスさんを知る男性は、スペインの公共放送局RTVEに「大地や風、空気、雨、獣の巣穴から生まれたような人だった」と証言する。",
+     "tokens": [
+      {
+       "surface": "最",
+       "pos": "prefix",
+       "reading": "さい",
+       "romaji": "sai",
+       "gloss": "most- (prefix for superlative)"
+      },
+      {
+       "surface": "晩年",
+       "pos": "noun",
+       "reading": "ばんねん",
+       "romaji": "bannen",
+       "gloss": "one's later years"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "ロドリゲス",
+       "pos": "noun",
+       "romaji": "rodorigesu",
+       "gloss": "Rodríguez (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "honorific title (Mr./Ms.)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "知る",
+       "pos": "verb",
+       "reading": "しる",
+       "romaji": "shiru",
+       "gloss": "to know"
+      },
+      {
+       "surface": "男性",
+       "pos": "noun",
+       "reading": "だんせい",
+       "romaji": "dansei",
+       "gloss": "man, male"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "スペイン",
+       "pos": "noun",
+       "romaji": "supein",
+       "gloss": "Spain"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "公共",
+       "pos": "noun",
+       "reading": "こうきょう",
+       "romaji": "koukyou",
+       "gloss": "public"
+      },
+      {
+       "surface": "放送局",
+       "pos": "noun",
+       "reading": "ほうそうきょく",
+       "romaji": "housoukyoku",
+       "gloss": "broadcasting station"
+      },
+      {
+       "surface": "RTVE",
+       "pos": "noun",
+       "gloss": "RTVE (Spanish public broadcaster)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/direction particle"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "大地",
+       "pos": "noun",
+       "reading": "だいち",
+       "romaji": "daichi",
+       "gloss": "earth, ground"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and/or (non-exhaustive listing particle)"
+      },
+      {
+       "surface": "風",
+       "pos": "noun",
+       "reading": "かぜ",
+       "romaji": "kaze",
+       "gloss": "wind"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "空気",
+       "pos": "noun",
+       "reading": "くうき",
+       "romaji": "kuuki",
+       "gloss": "air"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "雨",
+       "pos": "noun",
+       "reading": "あめ",
+       "romaji": "ame",
+       "gloss": "rain"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "獣",
+       "pos": "noun",
+       "reading": "けもの",
+       "romaji": "kemono",
+       "gloss": "beast, animal"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "巣穴",
+       "pos": "noun",
+       "reading": "すあな",
+       "romaji": "suana",
+       "gloss": "den, burrow"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "after (doing something)"
+      },
+      {
+       "surface": "生まれ",
+       "pos": "verb",
+       "reading": "うまれ",
+       "romaji": "umare",
+       "lemma": "生まれる",
+       "gloss": "to be born"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "よう",
+       "pos": "adjective",
+       "romaji": "you",
+       "gloss": "seem/appear; ~ようになる: come to (do)"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula (is)"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "だっ",
+       "pos": "auxiliary",
+       "romaji": "datsu",
+       "lemma": "だ",
+       "gloss": "copula (is)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "証言",
+       "pos": "noun",
+       "reading": "しょうげん",
+       "romaji": "shougen",
+       "gloss": "testimony"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do (verbalizer)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "A man who knew Rodríguez in his final years told Spanish public broadcaster RTVE, 'He was like a person born from the earth, the wind, the air, the rain, and animal dens.'",
+     "audioStart": 52.008,
+     "audioEnd": 67.68
+    },
+    {
+     "text": "「人間と一緒だと居心地が良くないので、オオカミと過ごした日々が一番幸せだった、といつも言っていた」",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "人間",
+       "pos": "noun",
+       "reading": "にんげん",
+       "romaji": "ningen",
+       "gloss": "human"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "一緒",
+       "pos": "noun",
+       "reading": "いっしょ",
+       "romaji": "issho",
+       "gloss": "together"
+      },
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "copula (is)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "居心地",
+       "pos": "noun",
+       "reading": "いごこち",
+       "romaji": "igokochi",
+       "gloss": "comfort, feeling of a place"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "良く",
+       "pos": "adjective",
+       "reading": "よく",
+       "romaji": "yoku",
+       "lemma": "良い",
+       "gloss": "good"
+      },
+      {
+       "surface": "ない",
+       "pos": "adjective",
+       "romaji": "nai",
+       "gloss": "negation"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula (is)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "オオカミ",
+       "pos": "noun",
+       "romaji": "ookami",
+       "gloss": "wolf"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "過ごし",
+       "pos": "verb",
+       "reading": "すごし",
+       "romaji": "sugoshi",
+       "lemma": "過ごす",
+       "gloss": "to spend (time)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "日々",
+       "pos": "noun",
+       "reading": "ひび",
+       "romaji": "hibi",
+       "gloss": "days"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "一番",
+       "pos": "noun",
+       "reading": "いちばん",
+       "romaji": "ichiban",
+       "gloss": "most, number one"
+      },
+      {
+       "surface": "幸せ",
+       "pos": "noun",
+       "reading": "しあわせ",
+       "romaji": "shiawase",
+       "gloss": "happy, happiness"
+      },
+      {
+       "surface": "だっ",
+       "pos": "auxiliary",
+       "romaji": "datsu",
+       "lemma": "だ",
+       "gloss": "copula (is)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "いつも",
+       "pos": "noun",
+       "romaji": "itsumo",
+       "gloss": "always"
+      },
+      {
+       "surface": "言っ",
+       "pos": "verb",
+       "reading": "いっ",
+       "romaji": "itsu",
+       "lemma": "言う",
+       "gloss": "to say"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "auxiliary marking ongoing state (to be ~ing)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      }
+     ],
+     "translation": "'He always said he wasn't comfortable around people, and that the days he spent with the wolves were the happiest of his life.'",
+     "audioStart": 67.68,
+     "audioEnd": 76.992
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ロドリゲスさんは1946年、内戦と世界大戦からの復興途上にあったスペインで生まれた。",
+     "tokens": [
+      {
+       "surface": "ロドリゲス",
+       "pos": "noun",
+       "romaji": "rodorigesu",
+       "gloss": "Rodríguez (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "honorific title (Mr./Ms.)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "1946",
+       "pos": "noun",
+       "gloss": "nineteen forty-six"
+      },
+      {
+       "surface": "年",
+       "pos": "noun",
+       "reading": "ねん",
+       "romaji": "nen",
+       "gloss": "year"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "内戦",
+       "pos": "noun",
+       "reading": "ないせん",
+       "romaji": "naisen",
+       "gloss": "civil war"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "世界",
+       "pos": "noun",
+       "reading": "せかい",
+       "romaji": "sekai",
+       "gloss": "world"
+      },
+      {
+       "surface": "大戦",
+       "pos": "noun",
+       "reading": "たいせん",
+       "romaji": "taisen",
+       "gloss": "great war (world war)"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "after (doing something)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "復興",
+       "pos": "noun",
+       "reading": "ふっこう",
+       "romaji": "fukkou",
+       "gloss": "reconstruction, recovery"
+      },
+      {
+       "surface": "途上",
+       "pos": "noun",
+       "reading": "とじょう",
+       "romaji": "tojou",
+       "gloss": "in the process of, on the way"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/direction particle"
+      },
+      {
+       "surface": "あっ",
+       "pos": "verb",
+       "romaji": "atsu",
+       "lemma": "ある",
+       "gloss": "to be, exist (state)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "スペイン",
+       "pos": "noun",
+       "romaji": "supein",
+       "gloss": "Spain"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle"
+      },
+      {
+       "surface": "生まれ",
+       "pos": "verb",
+       "reading": "うまれ",
+       "romaji": "umare",
+       "lemma": "生まれる",
+       "gloss": "to be born"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Rodríguez was born in 1946 in Spain, which was still on the road to recovery from civil war and world war.",
+     "audioStart": 76.992,
+     "audioEnd": 86.712
+    },
+    {
+     "text": "生地は南部の村アニョーラで、そこから貧困にさいなまれる人生が始まった。",
+     "tokens": [
+      {
+       "surface": "生地",
+       "pos": "noun",
+       "reading": "きじ",
+       "romaji": "kiji",
+       "gloss": "birthplace"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "南部",
+       "pos": "noun",
+       "reading": "なんぶ",
+       "romaji": "nanbu",
+       "gloss": "southern part"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "村",
+       "pos": "noun",
+       "reading": "むら",
+       "romaji": "mura",
+       "gloss": "village"
+      },
+      {
+       "surface": "アニョーラ",
+       "pos": "noun",
+       "romaji": "anyoora",
+       "gloss": "Añora (place name)"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula (is)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "そこ",
+       "pos": "pronoun",
+       "romaji": "soko",
+       "gloss": "there, that place"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "after (doing something)"
+      },
+      {
+       "surface": "貧困",
+       "pos": "noun",
+       "reading": "ひんこん",
+       "romaji": "hinkon",
+       "gloss": "poverty"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula (is)"
+      },
+      {
+       "surface": "さいなま",
+       "pos": "verb",
+       "romaji": "sainama",
+       "lemma": "さいなむ",
+       "gloss": "to torment, afflict"
+      },
+      {
+       "surface": "れる",
+       "pos": "auxiliary",
+       "romaji": "reru",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "人生",
+       "pos": "noun",
+       "reading": "じんせい",
+       "romaji": "jinsei",
+       "gloss": "life"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "始まっ",
+       "pos": "verb",
+       "reading": "はじまっ",
+       "romaji": "hajimatsu",
+       "lemma": "始まる",
+       "gloss": "to begin"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "He was born in the southern village of Añora, where a life plagued by poverty began.",
+     "audioStart": 86.712,
+     "audioEnd": 94.056
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ガブリエル・マニラ教授によれば、母親の死後、きょうだいは親戚の家に引き取られたものの、ロドリゲスさんは父親と一緒に残った。",
+     "tokens": [
+      {
+       "surface": "ガブリエル",
+       "pos": "noun",
+       "romaji": "gaburieru",
+       "gloss": "Gabriel (given name)"
+      },
+      {
+       "surface": "・",
+       "pos": "punct"
+      },
+      {
+       "surface": "マニラ",
+       "pos": "noun",
+       "romaji": "manira",
+       "gloss": "Manila (surname)"
+      },
+      {
+       "surface": "教授",
+       "pos": "noun",
+       "reading": "きょうじゅ",
+       "romaji": "kyouju",
+       "gloss": "professor"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/direction particle"
+      },
+      {
+       "surface": "よれ",
+       "pos": "verb",
+       "romaji": "yore",
+       "lemma": "よる",
+       "gloss": "according to (による)"
+      },
+      {
+       "surface": "ば",
+       "pos": "particle",
+       "romaji": "ba",
+       "gloss": "conditional particle (~によれば: according to)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "母親",
+       "pos": "noun",
+       "reading": "ははおや",
+       "romaji": "hahaoya",
+       "gloss": "mother"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "死後",
+       "pos": "noun",
+       "reading": "しご",
+       "romaji": "shigo",
+       "gloss": "after death"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "きょうだい",
+       "pos": "noun",
+       "romaji": "kyoudai",
+       "gloss": "siblings"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "親戚",
+       "pos": "noun",
+       "reading": "しんせき",
+       "romaji": "shinseki",
+       "gloss": "relatives"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "家",
+       "pos": "noun",
+       "reading": "いえ",
+       "romaji": "ie",
+       "gloss": "house, home"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/direction particle"
+      },
+      {
+       "surface": "引き取ら",
+       "pos": "verb",
+       "reading": "ひきとら",
+       "romaji": "hikitora",
+       "lemma": "引き取る",
+       "gloss": "to take in, take custody of"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "もの",
+       "pos": "noun",
+       "romaji": "mono",
+       "gloss": "~ものの: although, even though"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ロドリゲス",
+       "pos": "noun",
+       "romaji": "rodorigesu",
+       "gloss": "Rodríguez (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "honorific title (Mr./Ms.)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "父親",
+       "pos": "noun",
+       "reading": "ちちおや",
+       "romaji": "chichioya",
+       "gloss": "father"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "一緒",
+       "pos": "noun",
+       "reading": "いっしょ",
+       "romaji": "issho",
+       "gloss": "together"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/direction particle"
+      },
+      {
+       "surface": "残っ",
+       "pos": "verb",
+       "reading": "のこっ",
+       "romaji": "nokotsu",
+       "lemma": "残る",
+       "gloss": "to remain, stay behind"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "According to Professor Gabriel Manila, after their mother's death his siblings were taken in by relatives, but Rodríguez stayed with his father.",
+     "audioStart": 94.056,
+     "audioEnd": 106.44
+    },
+    {
+     "text": "父親は再婚し、家族を連れてシエラモレナ山脈へ移住すると、木炭作りを始めた。",
+     "tokens": [
+      {
+       "surface": "父親",
+       "pos": "noun",
+       "reading": "ちちおや",
+       "romaji": "chichioya",
+       "gloss": "father"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "再婚",
+       "pos": "noun",
+       "reading": "さいこん",
+       "romaji": "saikon",
+       "gloss": "remarriage"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do (verbalizer)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "家族",
+       "pos": "noun",
+       "reading": "かぞく",
+       "romaji": "kazoku",
+       "gloss": "family"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "連れ",
+       "pos": "verb",
+       "reading": "つれ",
+       "romaji": "tsure",
+       "lemma": "連れる",
+       "gloss": "to take (someone) along"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "シエラ",
+       "pos": "noun",
+       "romaji": "shiera",
+       "gloss": "Sierra (part of proper noun)"
+      },
+      {
+       "surface": "モレナ",
+       "pos": "noun",
+       "romaji": "morena",
+       "gloss": "Morena (part of proper noun)"
+      },
+      {
+       "surface": "山脈",
+       "pos": "noun",
+       "reading": "さんみゃく",
+       "romaji": "sanmyaku",
+       "gloss": "mountain range"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "direction particle (to)"
+      },
+      {
+       "surface": "移住",
+       "pos": "noun",
+       "reading": "いじゅう",
+       "romaji": "ijuu",
+       "gloss": "migration, relocation"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do (verbalizer)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "木",
+       "pos": "noun",
+       "reading": "き",
+       "romaji": "ki",
+       "gloss": "wood, tree"
+      },
+      {
+       "surface": "炭作り",
+       "pos": "noun",
+       "reading": "すみづくり",
+       "romaji": "sumizukuri",
+       "gloss": "charcoal making"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "始め",
+       "pos": "verb",
+       "reading": "はじめ",
+       "romaji": "hajime",
+       "lemma": "始める",
+       "gloss": "to begin (something)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "His father remarried, moved the family to the Sierra Morena mountains, and began making charcoal.",
+     "audioStart": 106.44,
+     "audioEnd": 115.44
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "RTVEの報道によると、ロドリゲスさんは継母から虐待を受け、わずか7歳の時、高齢のヤギ飼いの元へ売られた。",
+     "tokens": [
+      {
+       "surface": "RTVE",
+       "pos": "noun",
+       "gloss": "RTVE (Spanish public broadcaster)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "報道",
+       "pos": "noun",
+       "reading": "ほうどう",
+       "romaji": "houdou",
+       "gloss": "news report"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/direction particle"
+      },
+      {
+       "surface": "よる",
+       "pos": "verb",
+       "romaji": "yoru",
+       "gloss": "according to (による)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ロドリゲス",
+       "pos": "noun",
+       "romaji": "rodorigesu",
+       "gloss": "Rodríguez (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "honorific title (Mr./Ms.)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "継母",
+       "pos": "noun",
+       "reading": "ままはは",
+       "romaji": "mamahaha",
+       "gloss": "stepmother"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "after (doing something)"
+      },
+      {
+       "surface": "虐待",
+       "pos": "noun",
+       "reading": "ぎゃくたい",
+       "romaji": "gyakutai",
+       "gloss": "abuse"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "受け",
+       "pos": "verb",
+       "reading": "うけ",
+       "romaji": "uke",
+       "lemma": "受ける",
+       "gloss": "to receive, undergo"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "わずか",
+       "pos": "adverb",
+       "romaji": "wazuka",
+       "gloss": "only, mere"
+      },
+      {
+       "surface": "7",
+       "pos": "noun",
+       "gloss": "seven"
+      },
+      {
+       "surface": "歳",
+       "pos": "suffix",
+       "reading": "さい",
+       "romaji": "sai",
+       "gloss": "years old (age counter)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "時",
+       "pos": "noun",
+       "reading": "とき",
+       "romaji": "toki",
+       "gloss": "time, when"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "高齢",
+       "pos": "noun",
+       "reading": "こうれい",
+       "romaji": "kourei",
+       "gloss": "elderly"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "ヤギ",
+       "pos": "noun",
+       "romaji": "yagi",
+       "gloss": "goat"
+      },
+      {
+       "surface": "飼い",
+       "pos": "suffix",
+       "reading": "かい",
+       "romaji": "kai",
+       "gloss": "keeper, herder"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "元",
+       "pos": "noun",
+       "reading": "もと",
+       "romaji": "moto",
+       "gloss": "to the place/possession of"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "direction particle (to)"
+      },
+      {
+       "surface": "売ら",
+       "pos": "verb",
+       "reading": "うら",
+       "romaji": "ura",
+       "lemma": "売る",
+       "gloss": "to sell"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "According to RTVE, Rodríguez was abused by his stepmother and, at just seven years old, was sold to an elderly goatherd.",
+     "audioStart": 115.44,
+     "audioEnd": 127.056
+    },
+    {
+     "text": "「彼らに山の中の洞窟へ連れて行かれた。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "彼",
+       "pos": "pronoun",
+       "reading": "かれ",
+       "romaji": "kare",
+       "gloss": "he"
+      },
+      {
+       "surface": "ら",
+       "pos": "suffix",
+       "romaji": "ra",
+       "gloss": "plural suffix"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/direction particle"
+      },
+      {
+       "surface": "山",
+       "pos": "noun",
+       "reading": "やま",
+       "romaji": "yama",
+       "gloss": "mountain"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "中",
+       "pos": "noun",
+       "reading": "なか",
+       "romaji": "naka",
+       "gloss": "inside, middle"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "洞窟",
+       "pos": "noun",
+       "reading": "どうくつ",
+       "romaji": "doukutsu",
+       "gloss": "cave"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "direction particle (to)"
+      },
+      {
+       "surface": "連れ",
+       "pos": "verb",
+       "reading": "つれ",
+       "romaji": "tsure",
+       "lemma": "連れる",
+       "gloss": "to take (someone) along"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "行か",
+       "pos": "verb",
+       "reading": "いか",
+       "romaji": "ika",
+       "lemma": "行く",
+       "gloss": "to go"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "'They took me to a cave in the mountains.'",
+     "audioStart": 127.056,
+     "audioEnd": 131.496
+    },
+    {
+     "text": "すると、ひげを生やした小柄な老人が、コルクの靴を履いて出てきた」。",
+     "tokens": [
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do (verbalizer)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ひげ",
+       "pos": "noun",
+       "romaji": "hige",
+       "gloss": "beard"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "生やし",
+       "pos": "verb",
+       "reading": "はやし",
+       "romaji": "hayashi",
+       "lemma": "生やす",
+       "gloss": "to grow (hair/beard)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "小柄",
+       "pos": "noun",
+       "reading": "こがら",
+       "romaji": "kogara",
+       "gloss": "small-statured"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula (is)"
+      },
+      {
+       "surface": "老人",
+       "pos": "noun",
+       "reading": "ろうじん",
+       "romaji": "roujin",
+       "gloss": "old man"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "コルク",
+       "pos": "noun",
+       "romaji": "koruku",
+       "gloss": "cork"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "靴",
+       "pos": "noun",
+       "reading": "くつ",
+       "romaji": "kutsu",
+       "gloss": "shoes"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "履い",
+       "pos": "verb",
+       "reading": "はい",
+       "romaji": "hai",
+       "lemma": "履く",
+       "gloss": "to wear (on feet)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "出",
+       "pos": "verb",
+       "reading": "で",
+       "romaji": "de",
+       "lemma": "出る",
+       "gloss": "to come out, exit"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "き",
+       "pos": "verb",
+       "romaji": "ki",
+       "lemma": "くる",
+       "gloss": "auxiliary verb (to come and do / do and come)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "'Then a small, bearded old man wearing cork shoes came out.'",
+     "audioStart": 131.496,
+     "audioEnd": 138.312
+    },
+    {
+     "text": "ロドリゲスさんはマニラ教授のインタビューにそう振り返り、荒野での生活の手ほどきを受けた経験を語った。",
+     "tokens": [
+      {
+       "surface": "ロドリゲス",
+       "pos": "noun",
+       "romaji": "rodorigesu",
+       "gloss": "Rodríguez (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "honorific title (Mr./Ms.)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "マニラ",
+       "pos": "noun",
+       "romaji": "manira",
+       "gloss": "Manila (surname)"
+      },
+      {
+       "surface": "教授",
+       "pos": "noun",
+       "reading": "きょうじゅ",
+       "romaji": "kyouju",
+       "gloss": "professor"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "インタビュー",
+       "pos": "noun",
+       "romaji": "intabyuu",
+       "gloss": "interview"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/direction particle"
+      },
+      {
+       "surface": "そう",
+       "pos": "adverb",
+       "romaji": "sou",
+       "gloss": "that way, so"
+      },
+      {
+       "surface": "振り返り",
+       "pos": "verb",
+       "reading": "ふりかえり",
+       "romaji": "furikaeri",
+       "lemma": "振り返る",
+       "gloss": "to look back, recall"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "荒野",
+       "pos": "noun",
+       "reading": "こうや",
+       "romaji": "kouya",
+       "gloss": "wilderness"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "生活",
+       "pos": "noun",
+       "reading": "せいかつ",
+       "romaji": "seikatsu",
+       "gloss": "life, living"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "手ほどき",
+       "pos": "noun",
+       "reading": "てほどき",
+       "romaji": "tehodoki",
+       "gloss": "initiation, basic instruction"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "受け",
+       "pos": "verb",
+       "reading": "うけ",
+       "romaji": "uke",
+       "lemma": "受ける",
+       "gloss": "to receive, undergo"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "経験",
+       "pos": "noun",
+       "reading": "けいけん",
+       "romaji": "keiken",
+       "gloss": "experience"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "語っ",
+       "pos": "verb",
+       "reading": "かたっ",
+       "romaji": "katatsu",
+       "lemma": "語る",
+       "gloss": "to tell, narrate"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Rodríguez recalled this in an interview with Professor Manila, describing his introduction to life in the wild.",
+     "audioStart": 138.312,
+     "audioEnd": 147.936
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "「オオカミの遠吠えが響き、キツネや野生のヤギ、シカ、サソリ、ヘビもいた。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "オオカミ",
+       "pos": "noun",
+       "romaji": "ookami",
+       "gloss": "wolf"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "遠吠え",
+       "pos": "noun",
+       "reading": "とおぼえ",
+       "romaji": "tooboe",
+       "gloss": "howl"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "響き",
+       "pos": "verb",
+       "reading": "ひびき",
+       "romaji": "hibiki",
+       "lemma": "響く",
+       "gloss": "to echo, resound"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "キツネ",
+       "pos": "noun",
+       "romaji": "kitsune",
+       "gloss": "fox"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and/or (non-exhaustive listing particle)"
+      },
+      {
+       "surface": "野生",
+       "pos": "noun",
+       "reading": "やせい",
+       "romaji": "yasei",
+       "gloss": "wild"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "ヤギ",
+       "pos": "noun",
+       "romaji": "yagi",
+       "gloss": "goat"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "シカ",
+       "pos": "noun",
+       "romaji": "shika",
+       "gloss": "deer"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "サソリ",
+       "pos": "noun",
+       "romaji": "sasori",
+       "gloss": "scorpion"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ヘビ",
+       "pos": "noun",
+       "romaji": "hebi",
+       "gloss": "snake"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "auxiliary marking ongoing state (to be ~ing)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "'Wolves' howls echoed, and there were also foxes, wild goats, deer, scorpions, and snakes.'",
+     "audioStart": 147.936,
+     "audioEnd": 155.256
+    },
+    {
+     "text": "夜になると、こうした動物の声が聞こえてきて怖かった」",
+     "tokens": [
+      {
+       "surface": "夜",
+       "pos": "noun",
+       "reading": "よる",
+       "romaji": "yoru",
+       "gloss": "night"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/direction particle"
+      },
+      {
+       "surface": "なる",
+       "pos": "verb",
+       "romaji": "naru",
+       "gloss": "to become"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "こう",
+       "pos": "adverb",
+       "romaji": "kou",
+       "gloss": "like this, in this way"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do (verbalizer)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "動物",
+       "pos": "noun",
+       "reading": "どうぶつ",
+       "romaji": "doubutsu",
+       "gloss": "animal"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "声",
+       "pos": "noun",
+       "reading": "こえ",
+       "romaji": "koe",
+       "gloss": "voice, sound"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "聞こえ",
+       "pos": "verb",
+       "reading": "きこえ",
+       "romaji": "kikoe",
+       "lemma": "聞こえる",
+       "gloss": "to be heard, audible"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "き",
+       "pos": "verb",
+       "romaji": "ki",
+       "lemma": "くる",
+       "gloss": "auxiliary verb (to come and do / do and come)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "怖かっ",
+       "pos": "adjective",
+       "reading": "こわかっ",
+       "romaji": "kowakatsu",
+       "lemma": "怖い",
+       "gloss": "scary, frightening"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      }
+     ],
+     "translation": "'At night, hearing these animals' cries was frightening.'",
+     "audioStart": 155.256,
+     "audioEnd": 161.016
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ヤギ飼いはロドリゲスさんの面倒を見てくれた。",
+     "tokens": [
+      {
+       "surface": "ヤギ",
+       "pos": "noun",
+       "romaji": "yagi",
+       "gloss": "goat"
+      },
+      {
+       "surface": "飼い",
+       "pos": "suffix",
+       "reading": "かい",
+       "romaji": "kai",
+       "gloss": "keeper, herder"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "ロドリゲス",
+       "pos": "noun",
+       "romaji": "rodorigesu",
+       "gloss": "Rodríguez (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "honorific title (Mr./Ms.)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "面倒",
+       "pos": "noun",
+       "reading": "めんどう",
+       "romaji": "mendou",
+       "gloss": "trouble, care (面倒を見る: to take care of)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "見",
+       "pos": "verb",
+       "reading": "み",
+       "romaji": "mi",
+       "lemma": "見る",
+       "gloss": "to see, look"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "くれ",
+       "pos": "verb",
+       "romaji": "kure",
+       "lemma": "くれる",
+       "gloss": "auxiliary verb (to do for one's benefit)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The goatherd took care of Rodríguez.",
+     "audioStart": 161.016,
+     "audioEnd": 165.384
+    },
+    {
+     "text": "動物の皮で体を温めてもらい、ヤギの乳しぼりの仕方や、棒を使ってウサギを狩る方法を教えられた。",
+     "tokens": [
+      {
+       "surface": "動物",
+       "pos": "noun",
+       "reading": "どうぶつ",
+       "romaji": "doubutsu",
+       "gloss": "animal"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "皮",
+       "pos": "noun",
+       "reading": "かわ",
+       "romaji": "kawa",
+       "gloss": "skin, hide"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle"
+      },
+      {
+       "surface": "体",
+       "pos": "noun",
+       "reading": "からだ",
+       "romaji": "karada",
+       "gloss": "body"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "温め",
+       "pos": "verb",
+       "reading": "あたため",
+       "romaji": "atatame",
+       "lemma": "温める",
+       "gloss": "to warm"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "もらい",
+       "pos": "verb",
+       "romaji": "morai",
+       "lemma": "もらう",
+       "gloss": "auxiliary verb (to receive the favor of doing)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ヤギ",
+       "pos": "noun",
+       "romaji": "yagi",
+       "gloss": "goat"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "乳しぼり",
+       "pos": "noun",
+       "reading": "ちちしぼり",
+       "romaji": "chichishibori",
+       "gloss": "milking"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "仕方",
+       "pos": "noun",
+       "reading": "しかた",
+       "romaji": "shikata",
+       "gloss": "way of doing something"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and/or (non-exhaustive listing particle)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "棒",
+       "pos": "noun",
+       "reading": "ぼう",
+       "romaji": "bou",
+       "gloss": "stick"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "使っ",
+       "pos": "verb",
+       "reading": "つかっ",
+       "romaji": "tsukatsu",
+       "lemma": "使う",
+       "gloss": "to use"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "ウサギ",
+       "pos": "noun",
+       "romaji": "usagi",
+       "gloss": "rabbit"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "狩る",
+       "pos": "verb",
+       "reading": "かる",
+       "romaji": "karu",
+       "gloss": "to hunt"
+      },
+      {
+       "surface": "方法",
+       "pos": "noun",
+       "reading": "ほうほう",
+       "romaji": "houhou",
+       "gloss": "method"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "教え",
+       "pos": "verb",
+       "reading": "おしえ",
+       "romaji": "oshie",
+       "lemma": "教える",
+       "gloss": "to teach"
+      },
+      {
+       "surface": "られ",
+       "pos": "auxiliary",
+       "romaji": "rare",
+       "lemma": "られる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "He was kept warm with animal hides and taught how to milk goats and how to hunt rabbits with a stick.",
+     "audioStart": 165.384,
+     "audioEnd": 175.584
+    },
+    {
+     "text": "ロドリゲスさんはこの老人の指導の下、「自然界の掟」を学んだと、マニラ教授は研究の中で記している。",
+     "tokens": [
+      {
+       "surface": "ロドリゲス",
+       "pos": "noun",
+       "romaji": "rodorigesu",
+       "gloss": "Rodríguez (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "honorific title (Mr./Ms.)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this"
+      },
+      {
+       "surface": "老人",
+       "pos": "noun",
+       "reading": "ろうじん",
+       "romaji": "roujin",
+       "gloss": "old man"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "指導",
+       "pos": "noun",
+       "reading": "しどう",
+       "romaji": "shidou",
+       "gloss": "guidance, instruction"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "下",
+       "pos": "noun",
+       "reading": "もと",
+       "romaji": "moto",
+       "gloss": "under (~の下で: under)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "自然界",
+       "pos": "noun",
+       "reading": "しぜんかい",
+       "romaji": "shizenkai",
+       "gloss": "the natural world"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "掟",
+       "pos": "noun",
+       "reading": "おきて",
+       "romaji": "okite",
+       "gloss": "law, rule"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "学ん",
+       "pos": "verb",
+       "reading": "まなん",
+       "romaji": "manan",
+       "lemma": "学ぶ",
+       "gloss": "to learn"
+      },
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "copula (is)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "マニラ",
+       "pos": "noun",
+       "romaji": "manira",
+       "gloss": "Manila (surname)"
+      },
+      {
+       "surface": "教授",
+       "pos": "noun",
+       "reading": "きょうじゅ",
+       "romaji": "kyouju",
+       "gloss": "professor"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "研究",
+       "pos": "noun",
+       "reading": "けんきゅう",
+       "romaji": "kenkyuu",
+       "gloss": "research"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "中",
+       "pos": "noun",
+       "reading": "なか",
+       "romaji": "naka",
+       "gloss": "inside, middle"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle"
+      },
+      {
+       "surface": "記し",
+       "pos": "verb",
+       "reading": "しるし",
+       "romaji": "shirushi",
+       "lemma": "記す",
+       "gloss": "to record, write down"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "auxiliary marking ongoing state (to be ~ing)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Professor Manila writes in his research that, under this old man's guidance, Rodríguez learned the 'laws of nature.'",
+     "audioStart": 175.584,
+     "audioEnd": 186.024
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ヤギ飼いが突然姿を消すと、ロドリゲスさんは自力で生き延びるため、覚えた技能を駆使した。",
+     "tokens": [
+      {
+       "surface": "ヤギ",
+       "pos": "noun",
+       "romaji": "yagi",
+       "gloss": "goat"
+      },
+      {
+       "surface": "飼い",
+       "pos": "suffix",
+       "reading": "かい",
+       "romaji": "kai",
+       "gloss": "keeper, herder"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "突然",
+       "pos": "adverb",
+       "reading": "とつぜん",
+       "romaji": "totsuzen",
+       "gloss": "suddenly"
+      },
+      {
+       "surface": "姿",
+       "pos": "noun",
+       "reading": "すがた",
+       "romaji": "sugata",
+       "gloss": "figure, appearance"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "消す",
+       "pos": "verb",
+       "reading": "けす",
+       "romaji": "kesu",
+       "gloss": "to erase, make disappear (姿を消す: to vanish)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ロドリゲス",
+       "pos": "noun",
+       "romaji": "rodorigesu",
+       "gloss": "Rodríguez (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "honorific title (Mr./Ms.)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "自力",
+       "pos": "noun",
+       "reading": "じりき",
+       "romaji": "jiriki",
+       "gloss": "one's own effort/strength"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle"
+      },
+      {
+       "surface": "生き延びる",
+       "pos": "verb",
+       "reading": "いきのびる",
+       "romaji": "ikinobiru",
+       "gloss": "to survive"
+      },
+      {
+       "surface": "ため",
+       "pos": "noun",
+       "romaji": "tame",
+       "gloss": "for the purpose of, in order to"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "覚え",
+       "pos": "verb",
+       "reading": "おぼえ",
+       "romaji": "oboe",
+       "lemma": "覚える",
+       "gloss": "to learn, memorize"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "技能",
+       "pos": "noun",
+       "reading": "ぎのう",
+       "romaji": "ginou",
+       "gloss": "skill"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "駆使",
+       "pos": "noun",
+       "reading": "くし",
+       "romaji": "kushi",
+       "gloss": "making full use of"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do (verbalizer)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When the goatherd suddenly vanished, Rodríguez used the skills he had learned to survive on his own.",
+     "audioStart": 186.024,
+     "audioEnd": 194.712
+    },
+    {
+     "text": "オオカミの子どもたちに餌を運び、危険を察知して遠吠えしたところ、オオカミの群れから信頼を得ることができた。",
+     "tokens": [
+      {
+       "surface": "オオカミ",
+       "pos": "noun",
+       "romaji": "ookami",
+       "gloss": "wolf"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "子どもたち",
+       "pos": "noun",
+       "reading": "こどもたち",
+       "romaji": "kodomotachi",
+       "gloss": "children"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/direction particle"
+      },
+      {
+       "surface": "餌",
+       "pos": "noun",
+       "reading": "えさ",
+       "romaji": "esa",
+       "gloss": "food, feed"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "運び",
+       "pos": "verb",
+       "reading": "はこび",
+       "romaji": "hakobi",
+       "lemma": "運ぶ",
+       "gloss": "to carry"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "危険",
+       "pos": "noun",
+       "reading": "きけん",
+       "romaji": "kiken",
+       "gloss": "danger"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "察知",
+       "pos": "noun",
+       "reading": "さっち",
+       "romaji": "satchi",
+       "gloss": "sensing, detection"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do (verbalizer)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "遠吠え",
+       "pos": "noun",
+       "reading": "とおぼえ",
+       "romaji": "tooboe",
+       "gloss": "howl"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do (verbalizer)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "ところ",
+       "pos": "noun",
+       "romaji": "tokoro",
+       "gloss": "indicates a situation or point in time"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "オオカミ",
+       "pos": "noun",
+       "romaji": "ookami",
+       "gloss": "wolf"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "群れ",
+       "pos": "noun",
+       "reading": "むれ",
+       "romaji": "mure",
+       "gloss": "pack, herd, group"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "after (doing something)"
+      },
+      {
+       "surface": "信頼",
+       "pos": "noun",
+       "reading": "しんらい",
+       "romaji": "shinrai",
+       "gloss": "trust"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "得る",
+       "pos": "verb",
+       "reading": "える",
+       "romaji": "eru",
+       "gloss": "to obtain, gain"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer (turns a verb/clause into a noun)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "By bringing food to wolf cubs and howling to warn of danger, he was able to earn the trust of the wolf pack.",
+     "audioStart": 194.712,
+     "audioEnd": 204.888
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "「私が泣いていると、オオカミたちが飛びかかってきた。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "私",
+       "pos": "pronoun",
+       "reading": "わたくし",
+       "romaji": "watakushi",
+       "gloss": "I"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "泣い",
+       "pos": "verb",
+       "reading": "ない",
+       "romaji": "nai",
+       "lemma": "泣く",
+       "gloss": "to cry"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "auxiliary marking ongoing state (to be ~ing)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "オオカミ",
+       "pos": "noun",
+       "romaji": "ookami",
+       "gloss": "wolf"
+      },
+      {
+       "surface": "たち",
+       "pos": "suffix",
+       "romaji": "tachi",
+       "gloss": "plural suffix"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "飛びかかっ",
+       "pos": "verb",
+       "reading": "とびかかっ",
+       "romaji": "tobikakatsu",
+       "lemma": "飛びかかる",
+       "gloss": "to pounce, leap at"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "き",
+       "pos": "verb",
+       "romaji": "ki",
+       "lemma": "くる",
+       "gloss": "auxiliary verb (to come and do / do and come)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "'When I cried, the wolves would pounce on me.'",
+     "audioStart": 204.888,
+     "audioEnd": 209.52
+    },
+    {
+     "text": "それから、洞窟にあるオオカミの巣穴へと案内された」。",
+     "tokens": [
+      {
+       "surface": "それ",
+       "pos": "pronoun",
+       "romaji": "sore",
+       "gloss": "that"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "after (doing something)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "洞窟",
+       "pos": "noun",
+       "reading": "どうくつ",
+       "romaji": "doukutsu",
+       "gloss": "cave"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/direction particle"
+      },
+      {
+       "surface": "ある",
+       "pos": "verb",
+       "romaji": "aru",
+       "gloss": "to be, exist (state)"
+      },
+      {
+       "surface": "オオカミ",
+       "pos": "noun",
+       "romaji": "ookami",
+       "gloss": "wolf"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "巣穴",
+       "pos": "noun",
+       "reading": "すあな",
+       "romaji": "suana",
+       "gloss": "den, burrow"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "direction particle (to)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle"
+      },
+      {
+       "surface": "案内",
+       "pos": "noun",
+       "reading": "あんない",
+       "romaji": "annai",
+       "gloss": "guide, lead"
+      },
+      {
+       "surface": "さ",
+       "pos": "verb",
+       "romaji": "sa",
+       "lemma": "する",
+       "gloss": "to do (verbalizer)"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "'Then I was led to the wolves' den in the cave.'",
+     "audioStart": 209.52,
+     "audioEnd": 215.136
+    },
+    {
+     "text": "ロドリゲスさんはマニラ教授にそう振り返り、オオカミの子どもたちがロドリゲスさんを歓迎してじゃれ回る様子を説明した。",
+     "tokens": [
+      {
+       "surface": "ロドリゲス",
+       "pos": "noun",
+       "romaji": "rodorigesu",
+       "gloss": "Rodríguez (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "honorific title (Mr./Ms.)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "マニラ",
+       "pos": "noun",
+       "romaji": "manira",
+       "gloss": "Manila (surname)"
+      },
+      {
+       "surface": "教授",
+       "pos": "noun",
+       "reading": "きょうじゅ",
+       "romaji": "kyouju",
+       "gloss": "professor"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/direction particle"
+      },
+      {
+       "surface": "そう",
+       "pos": "adverb",
+       "romaji": "sou",
+       "gloss": "that way, so"
+      },
+      {
+       "surface": "振り返り",
+       "pos": "verb",
+       "reading": "ふりかえり",
+       "romaji": "furikaeri",
+       "lemma": "振り返る",
+       "gloss": "to look back, recall"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "オオカミ",
+       "pos": "noun",
+       "romaji": "ookami",
+       "gloss": "wolf"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "子どもたち",
+       "pos": "noun",
+       "reading": "こどもたち",
+       "romaji": "kodomotachi",
+       "gloss": "children"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "ロドリゲス",
+       "pos": "noun",
+       "romaji": "rodorigesu",
+       "gloss": "Rodríguez (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "honorific title (Mr./Ms.)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "歓迎",
+       "pos": "noun",
+       "reading": "かんげい",
+       "romaji": "kangei",
+       "gloss": "welcome"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do (verbalizer)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "じゃれ",
+       "pos": "verb",
+       "romaji": "jare",
+       "lemma": "じゃれる",
+       "gloss": "to frolic, play (like an animal)"
+      },
+      {
+       "surface": "回る",
+       "pos": "verb",
+       "reading": "まわる",
+       "romaji": "mawaru",
+       "gloss": "to go around"
+      },
+      {
+       "surface": "様子",
+       "pos": "noun",
+       "reading": "ようす",
+       "romaji": "yousu",
+       "gloss": "manner, appearance, state"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "説明",
+       "pos": "noun",
+       "reading": "せつめい",
+       "romaji": "setsumei",
+       "gloss": "explanation"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do (verbalizer)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Rodríguez recalled this to Professor Manila, describing how the wolf cubs welcomed him and played around him.",
+     "audioStart": 215.136,
+     "audioEnd": 225.504
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ロドリゲスさんは文明を避け、人の声が聞こえるたびに身を隠していたが、19歳の時、「渓谷で道に迷い一人きりで」いたところを治安警備隊に発見された。",
+     "tokens": [
+      {
+       "surface": "ロドリゲス",
+       "pos": "noun",
+       "romaji": "rodorigesu",
+       "gloss": "Rodríguez (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "honorific title (Mr./Ms.)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "文明",
+       "pos": "noun",
+       "reading": "ぶんめい",
+       "romaji": "bunmei",
+       "gloss": "civilization"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "避け",
+       "pos": "verb",
+       "reading": "さけ",
+       "romaji": "sake",
+       "lemma": "避ける",
+       "gloss": "to avoid"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "声",
+       "pos": "noun",
+       "reading": "こえ",
+       "romaji": "koe",
+       "gloss": "voice, sound"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "聞こえる",
+       "pos": "verb",
+       "reading": "きこえる",
+       "romaji": "kikoeru",
+       "gloss": "to be heard, audible"
+      },
+      {
+       "surface": "たび",
+       "pos": "noun",
+       "romaji": "tabi",
+       "gloss": "every time (~たびに)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/direction particle"
+      },
+      {
+       "surface": "身",
+       "pos": "noun",
+       "reading": "み",
+       "romaji": "mi",
+       "gloss": "oneself, body"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "隠し",
+       "pos": "verb",
+       "reading": "かくし",
+       "romaji": "kakushi",
+       "lemma": "隠す",
+       "gloss": "to hide"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "auxiliary marking ongoing state (to be ~ing)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "19",
+       "pos": "noun",
+       "gloss": "nineteen"
+      },
+      {
+       "surface": "歳",
+       "pos": "suffix",
+       "reading": "さい",
+       "romaji": "sai",
+       "gloss": "years old (age counter)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "時",
+       "pos": "noun",
+       "reading": "とき",
+       "romaji": "toki",
+       "gloss": "time, when"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "渓谷",
+       "pos": "noun",
+       "reading": "けいこく",
+       "romaji": "keikoku",
+       "gloss": "valley, ravine"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle"
+      },
+      {
+       "surface": "道",
+       "pos": "noun",
+       "reading": "みち",
+       "romaji": "michi",
+       "gloss": "road, path"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/direction particle"
+      },
+      {
+       "surface": "迷い",
+       "pos": "verb",
+       "reading": "まよい",
+       "romaji": "mayoi",
+       "lemma": "迷う",
+       "gloss": "to lose one's way, get lost"
+      },
+      {
+       "surface": "一人",
+       "pos": "noun",
+       "reading": "ひとり",
+       "romaji": "hitori",
+       "gloss": "alone, one person"
+      },
+      {
+       "surface": "きり",
+       "pos": "particle",
+       "romaji": "kiri",
+       "gloss": "only, just (indicates exclusivity)"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula (is)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "auxiliary marking ongoing state (to be ~ing)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "ところ",
+       "pos": "noun",
+       "romaji": "tokoro",
+       "gloss": "indicates a situation or point in time"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "治安",
+       "pos": "noun",
+       "reading": "ちあん",
+       "romaji": "chian",
+       "gloss": "public order, security"
+      },
+      {
+       "surface": "警備隊",
+       "pos": "noun",
+       "reading": "けいびたい",
+       "romaji": "keibitai",
+       "gloss": "guard unit, patrol"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/direction particle"
+      },
+      {
+       "surface": "発見",
+       "pos": "noun",
+       "reading": "はっけん",
+       "romaji": "hakken",
+       "gloss": "discovery"
+      },
+      {
+       "surface": "さ",
+       "pos": "verb",
+       "romaji": "sa",
+       "lemma": "する",
+       "gloss": "to do (verbalizer)"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Rodríguez avoided civilization and hid himself whenever he heard human voices, but at 19 he was discovered by the Civil Guard while 'lost alone in a valley.'",
+     "audioStart": 225.504,
+     "audioEnd": 240.216
+    }
+   ]
+  }
+ ]
+}

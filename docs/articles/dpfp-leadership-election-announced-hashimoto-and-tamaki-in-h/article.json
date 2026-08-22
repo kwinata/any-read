@@ -1,0 +1,1828 @@
+{
+ "schemaVersion": 1,
+ "id": "dpfp-leadership-election-announced-hashimoto-and-tamaki-in-h",
+ "language": "ja",
+ "title": "国民民主代表選が告示橋本、玉木氏の一騎打ち",
+ "titleTranslation": "DPFP Leadership Election Announced: Hashimoto and Tamaki in Head-to-Head Race",
+ "level": "N2",
+ "summary": "The Democratic Party for the People announced its leadership election with incumbent Yuichiro Tamaki facing challenger Mikihiko Hashimoto, who clashed over party direction and coalition politics ahead of the September 6 vote.",
+ "sourceUrl": "https://news.yahoo.co.jp/articles/f4ab088fd5742b1728dbd96a66d9b686c31b0b2d",
+ "createdAt": "2026-08-22T16:33:54+00:00",
+ "audioFile": "audio.mp3",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "国民民主党の代表選は22日告示され、立候補した橋本幹彦衆院議員（30）と玉木雄一郎代表（57）が東京都内で討論会と共同記者会見に臨んだ。",
+     "tokens": [
+      {
+       "surface": "国民民主党",
+       "pos": "noun",
+       "reading": "こくみんみんしゅとう",
+       "romaji": "kokuminminshutou",
+       "gloss": "Democratic Party for the People (DPFP)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "代表選",
+       "pos": "noun",
+       "reading": "だいひょうせん",
+       "romaji": "daihyousen",
+       "gloss": "leadership election"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "22",
+       "pos": "noun",
+       "gloss": "22 (day)"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "告示",
+       "pos": "noun",
+       "reading": "こくじ",
+       "romaji": "kokuji",
+       "gloss": "official announcement"
+      },
+      {
+       "surface": "さ",
+       "pos": "verb",
+       "romaji": "sa",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "立候補",
+       "pos": "noun",
+       "reading": "りっこうほ",
+       "romaji": "rikkouho",
+       "gloss": "candidacy, running for office"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "橋本",
+       "pos": "noun",
+       "reading": "はしもと",
+       "romaji": "hashimoto",
+       "gloss": "Hashimoto (surname)"
+      },
+      {
+       "surface": "幹彦",
+       "pos": "noun",
+       "reading": "みきひこ",
+       "romaji": "mikihiko",
+       "gloss": "Mikihiko (given name)"
+      },
+      {
+       "surface": "衆院",
+       "pos": "noun",
+       "reading": "しゅういん",
+       "romaji": "shuuin",
+       "gloss": "House of Representatives (Lower House)"
+      },
+      {
+       "surface": "議員",
+       "pos": "noun",
+       "reading": "ぎいん",
+       "romaji": "giin",
+       "gloss": "Diet member"
+      },
+      {
+       "surface": "（",
+       "pos": "punct"
+      },
+      {
+       "surface": "30",
+       "pos": "noun",
+       "gloss": "30 (age)"
+      },
+      {
+       "surface": "）",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and; with"
+      },
+      {
+       "surface": "玉木",
+       "pos": "noun",
+       "reading": "たまき",
+       "romaji": "tamaki",
+       "gloss": "Tamaki (surname)"
+      },
+      {
+       "surface": "雄一郎",
+       "pos": "noun",
+       "reading": "ゆういちろう",
+       "romaji": "yuuichirou",
+       "gloss": "Yuichiro (given name)"
+      },
+      {
+       "surface": "代表",
+       "pos": "noun",
+       "reading": "だいひょう",
+       "romaji": "daihyou",
+       "gloss": "party leader/representative"
+      },
+      {
+       "surface": "（",
+       "pos": "punct"
+      },
+      {
+       "surface": "57",
+       "pos": "noun",
+       "gloss": "57 (age)"
+      },
+      {
+       "surface": "）",
+       "pos": "punct"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "東京都内",
+       "pos": "noun",
+       "reading": "とうきょうとない",
+       "romaji": "toukyoutonai",
+       "gloss": "within Tokyo"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker"
+      },
+      {
+       "surface": "討論会",
+       "pos": "noun",
+       "reading": "とうろんかい",
+       "romaji": "touronkai",
+       "gloss": "debate session"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and; with"
+      },
+      {
+       "surface": "共同",
+       "pos": "noun",
+       "reading": "きょうどう",
+       "romaji": "kyoudou",
+       "gloss": "joint"
+      },
+      {
+       "surface": "記者",
+       "pos": "noun",
+       "reading": "きしゃ",
+       "romaji": "kisha",
+       "gloss": "reporter"
+      },
+      {
+       "surface": "会見",
+       "pos": "noun",
+       "reading": "かいけん",
+       "romaji": "kaiken",
+       "gloss": "press conference"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/location particle"
+      },
+      {
+       "surface": "臨ん",
+       "pos": "verb",
+       "reading": "のぞん",
+       "romaji": "nozon",
+       "lemma": "臨む",
+       "gloss": "to attend, face (an event)"
+      },
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "copula (plain form)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The Democratic Party for the People's leadership election was announced on the 22nd, and candidates Lower House member Mikihiko Hashimoto (30) and party leader Yuichiro Tamaki (57) took part in a debate and joint press conference in Tokyo.",
+     "audioStart": 0.0,
+     "audioEnd": 18.12
+    },
+    {
+     "text": "両氏の一騎打ちで、長く党を率いた玉木氏の党運営や「対決より解決」路線の是非、高市政権との距離感を含む党の在り方が争点になる。",
+     "tokens": [
+      {
+       "surface": "両氏",
+       "pos": "noun",
+       "reading": "りょうし",
+       "romaji": "ryoushi",
+       "gloss": "the two individuals"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "一騎打ち",
+       "pos": "noun",
+       "reading": "いっきうち",
+       "romaji": "ikkiuchi",
+       "gloss": "head-to-head contest"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "長く",
+       "pos": "adjective",
+       "reading": "ながく",
+       "romaji": "nagaku",
+       "lemma": "長い",
+       "gloss": "long"
+      },
+      {
+       "surface": "党",
+       "pos": "noun",
+       "reading": "とう",
+       "romaji": "tou",
+       "gloss": "party"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "率い",
+       "pos": "verb",
+       "reading": "ひきい",
+       "romaji": "hikii",
+       "lemma": "率いる",
+       "gloss": "to lead"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "玉木",
+       "pos": "noun",
+       "reading": "たまき",
+       "romaji": "tamaki",
+       "gloss": "Tamaki (surname)"
+      },
+      {
+       "surface": "氏",
+       "pos": "suffix",
+       "reading": "し",
+       "romaji": "shi",
+       "gloss": "Mr./the person (honorific suffix)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "党",
+       "pos": "noun",
+       "reading": "とう",
+       "romaji": "tou",
+       "gloss": "party"
+      },
+      {
+       "surface": "運営",
+       "pos": "noun",
+       "reading": "うんえい",
+       "romaji": "un'ei",
+       "gloss": "management, administration"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "対決",
+       "pos": "noun",
+       "reading": "たいけつ",
+       "romaji": "taiketsu",
+       "gloss": "confrontation"
+      },
+      {
+       "surface": "より",
+       "pos": "particle",
+       "romaji": "yori",
+       "gloss": "than; rather than"
+      },
+      {
+       "surface": "解決",
+       "pos": "noun",
+       "reading": "かいけつ",
+       "romaji": "kaiketsu",
+       "gloss": "resolution, solution"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "路線",
+       "pos": "noun",
+       "reading": "ろせん",
+       "romaji": "rosen",
+       "gloss": "policy line, approach"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "是非",
+       "pos": "noun",
+       "reading": "ぜひ",
+       "romaji": "zehi",
+       "gloss": "pros and cons, rightness"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "高市",
+       "pos": "noun",
+       "reading": "たかいち",
+       "romaji": "takaichi",
+       "gloss": "Takaichi (surname)"
+      },
+      {
+       "surface": "政権",
+       "pos": "noun",
+       "reading": "せいけん",
+       "romaji": "seiken",
+       "gloss": "administration, government"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and; with"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "距離感",
+       "pos": "noun",
+       "reading": "きょりかん",
+       "romaji": "kyorikan",
+       "gloss": "sense of distance"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "含む",
+       "pos": "verb",
+       "reading": "ふくむ",
+       "romaji": "fukumu",
+       "gloss": "to include"
+      },
+      {
+       "surface": "党",
+       "pos": "noun",
+       "reading": "とう",
+       "romaji": "tou",
+       "gloss": "party"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "在り方",
+       "pos": "noun",
+       "reading": "ありかた",
+       "romaji": "arikata",
+       "gloss": "ideal state, way of being"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "争点",
+       "pos": "noun",
+       "reading": "そうてん",
+       "romaji": "souten",
+       "gloss": "point of contention"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/location particle"
+      },
+      {
+       "surface": "なる",
+       "pos": "verb",
+       "romaji": "naru",
+       "gloss": "to become"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In this head-to-head race between the two, the points of contention include Tamaki's long tenure leading the party, the merits of his 'resolution over confrontation' approach, and the party's stance, including its distance from the Takaichi administration.",
+     "audioStart": 18.12,
+     "audioEnd": 32.424
+    },
+    {
+     "text": "9月6日の臨時党大会で投開票される。",
+     "tokens": [
+      {
+       "surface": "9",
+       "pos": "noun",
+       "gloss": "9 (month)"
+      },
+      {
+       "surface": "月",
+       "pos": "noun",
+       "reading": "がつ",
+       "romaji": "gatsu",
+       "gloss": "month"
+      },
+      {
+       "surface": "6",
+       "pos": "noun",
+       "gloss": "6 (day)"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "臨時",
+       "pos": "noun",
+       "reading": "りんじ",
+       "romaji": "rinji",
+       "gloss": "extraordinary, special"
+      },
+      {
+       "surface": "党",
+       "pos": "suffix",
+       "reading": "とう",
+       "romaji": "tou",
+       "gloss": "party"
+      },
+      {
+       "surface": "大会",
+       "pos": "noun",
+       "reading": "たいかい",
+       "romaji": "taikai",
+       "gloss": "convention, conference"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker"
+      },
+      {
+       "surface": "投開票",
+       "pos": "noun",
+       "reading": "とうかいひょう",
+       "romaji": "toukaihyou",
+       "gloss": "voting and vote-counting"
+      },
+      {
+       "surface": "さ",
+       "pos": "verb",
+       "romaji": "sa",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "れる",
+       "pos": "auxiliary",
+       "romaji": "reru",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Voting and vote-counting will take place at an extraordinary party convention on September 6.",
+     "audioStart": 32.424,
+     "audioEnd": 37.32
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "代表選は玉木氏の任期満了に伴い実施。",
+     "tokens": [
+      {
+       "surface": "代表選",
+       "pos": "noun",
+       "reading": "だいひょうせん",
+       "romaji": "daihyousen",
+       "gloss": "leadership election"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "玉木",
+       "pos": "noun",
+       "reading": "たまき",
+       "romaji": "tamaki",
+       "gloss": "Tamaki (surname)"
+      },
+      {
+       "surface": "氏",
+       "pos": "suffix",
+       "reading": "し",
+       "romaji": "shi",
+       "gloss": "Mr./the person (honorific suffix)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "任期",
+       "pos": "noun",
+       "reading": "にんき",
+       "romaji": "ninki",
+       "gloss": "term of office"
+      },
+      {
+       "surface": "満了",
+       "pos": "noun",
+       "reading": "まんりょう",
+       "romaji": "manryou",
+       "gloss": "expiration, completion"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/location particle"
+      },
+      {
+       "surface": "伴い",
+       "pos": "verb",
+       "reading": "ともない",
+       "romaji": "tomonai",
+       "lemma": "伴う",
+       "gloss": "to accompany, be due to"
+      },
+      {
+       "surface": "実施",
+       "pos": "noun",
+       "reading": "じっし",
+       "romaji": "jisshi",
+       "gloss": "implementation, carrying out"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The leadership election is being held because Tamaki's term is expiring.",
+     "audioStart": 37.32,
+     "audioEnd": 42.552
+    },
+    {
+     "text": "党所属の衆参両院議員53人や地方議員、党員・サポーターに割り当てられた計159ポイントを争う。",
+     "tokens": [
+      {
+       "surface": "党",
+       "pos": "noun",
+       "reading": "とう",
+       "romaji": "tou",
+       "gloss": "party"
+      },
+      {
+       "surface": "所属",
+       "pos": "noun",
+       "reading": "しょぞく",
+       "romaji": "shozoku",
+       "gloss": "affiliation, belonging to"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "衆参",
+       "pos": "noun",
+       "reading": "しゅうさん",
+       "romaji": "shuusan",
+       "gloss": "Lower and Upper Houses"
+      },
+      {
+       "surface": "両院",
+       "pos": "noun",
+       "reading": "りょういん",
+       "romaji": "ryouin",
+       "gloss": "both houses (of the Diet)"
+      },
+      {
+       "surface": "議員",
+       "pos": "noun",
+       "reading": "ぎいん",
+       "romaji": "giin",
+       "gloss": "Diet member"
+      },
+      {
+       "surface": "53",
+       "pos": "noun",
+       "gloss": "53 (people)"
+      },
+      {
+       "surface": "人",
+       "pos": "suffix",
+       "reading": "にん",
+       "romaji": "nin",
+       "gloss": "people (counter)"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)"
+      },
+      {
+       "surface": "地方",
+       "pos": "noun",
+       "reading": "ちほう",
+       "romaji": "chihou",
+       "gloss": "local, regional"
+      },
+      {
+       "surface": "議員",
+       "pos": "noun",
+       "reading": "ぎいん",
+       "romaji": "giin",
+       "gloss": "Diet member"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "党員",
+       "pos": "noun",
+       "reading": "とういん",
+       "romaji": "touin",
+       "gloss": "party member"
+      },
+      {
+       "surface": "・",
+       "pos": "punct"
+      },
+      {
+       "surface": "サポーター",
+       "pos": "noun",
+       "romaji": "sapootaa",
+       "gloss": "supporter"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/location particle"
+      },
+      {
+       "surface": "割り当て",
+       "pos": "verb",
+       "reading": "わりあて",
+       "romaji": "wariate",
+       "lemma": "割り当てる",
+       "gloss": "to allocate, assign"
+      },
+      {
+       "surface": "られ",
+       "pos": "auxiliary",
+       "romaji": "rare",
+       "lemma": "られる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "計",
+       "pos": "prefix",
+       "reading": "けい",
+       "romaji": "kei",
+       "gloss": "total"
+      },
+      {
+       "surface": "159",
+       "pos": "noun",
+       "gloss": "159 (points)"
+      },
+      {
+       "surface": "ポイント",
+       "pos": "noun",
+       "romaji": "pointo",
+       "gloss": "point(s)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "争う",
+       "pos": "verb",
+       "reading": "あらそう",
+       "romaji": "arasou",
+       "gloss": "to contest, compete for"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "A total of 159 points, allocated among the party's 53 Diet members in both houses, local assembly members, and party members/supporters, are being contested.",
+     "audioStart": 42.552,
+     "audioEnd": 53.904
+    },
+    {
+     "text": "投開票まで各地で街頭演説や討論会を開催する。",
+     "tokens": [
+      {
+       "surface": "投開票",
+       "pos": "noun",
+       "reading": "とうかいひょう",
+       "romaji": "toukaihyou",
+       "gloss": "voting and vote-counting"
+      },
+      {
+       "surface": "まで",
+       "pos": "particle",
+       "romaji": "made",
+       "gloss": "until"
+      },
+      {
+       "surface": "各地",
+       "pos": "noun",
+       "reading": "かくち",
+       "romaji": "kakuchi",
+       "gloss": "various places"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker"
+      },
+      {
+       "surface": "街頭",
+       "pos": "noun",
+       "reading": "がいとう",
+       "romaji": "gaitou",
+       "gloss": "street, roadside"
+      },
+      {
+       "surface": "演説",
+       "pos": "noun",
+       "reading": "えんぜつ",
+       "romaji": "enzetsu",
+       "gloss": "speech"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)"
+      },
+      {
+       "surface": "討論会",
+       "pos": "noun",
+       "reading": "とうろんかい",
+       "romaji": "touronkai",
+       "gloss": "debate session"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "開催",
+       "pos": "noun",
+       "reading": "かいさい",
+       "romaji": "kaisai",
+       "gloss": "to hold (an event)"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Until the vote, street speeches and debates will be held around the country.",
+     "audioStart": 53.904,
+     "audioEnd": 60.168
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "討論会で橋本氏は「自民党に代わる政権政党にする。",
+     "tokens": [
+      {
+       "surface": "討論会",
+       "pos": "noun",
+       "reading": "とうろんかい",
+       "romaji": "touronkai",
+       "gloss": "debate session"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker"
+      },
+      {
+       "surface": "橋本",
+       "pos": "noun",
+       "reading": "はしもと",
+       "romaji": "hashimoto",
+       "gloss": "Hashimoto (surname)"
+      },
+      {
+       "surface": "氏",
+       "pos": "suffix",
+       "reading": "し",
+       "romaji": "shi",
+       "gloss": "Mr./the person (honorific suffix)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "自民党",
+       "pos": "noun",
+       "reading": "じみんとう",
+       "romaji": "jimintou",
+       "gloss": "Liberal Democratic Party (LDP)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/location particle"
+      },
+      {
+       "surface": "代わる",
+       "pos": "verb",
+       "reading": "かわる",
+       "romaji": "kawaru",
+       "gloss": "to replace, substitute for"
+      },
+      {
+       "surface": "政権",
+       "pos": "noun",
+       "reading": "せいけん",
+       "romaji": "seiken",
+       "gloss": "administration, government"
+      },
+      {
+       "surface": "政党",
+       "pos": "noun",
+       "reading": "せいとう",
+       "romaji": "seitou",
+       "gloss": "political party"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/location particle"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "At the debate, Hashimoto asserted, 'We will become a ruling party to replace the LDP.",
+     "audioStart": 60.168,
+     "audioEnd": 66.456
+    },
+    {
+     "text": "自民に対峙する国民民主にしたい」と主張。",
+     "tokens": [
+      {
+       "surface": "自民",
+       "pos": "noun",
+       "reading": "じみん",
+       "romaji": "jimin",
+       "gloss": "LDP (short form)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/location particle"
+      },
+      {
+       "surface": "対峙",
+       "pos": "noun",
+       "reading": "たいじ",
+       "romaji": "taiji",
+       "gloss": "to confront, stand opposed to"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do"
+      },
+      {
+       "surface": "国民",
+       "pos": "noun",
+       "reading": "こくみん",
+       "romaji": "kokumin",
+       "gloss": "the people; national"
+      },
+      {
+       "surface": "民主",
+       "pos": "noun",
+       "reading": "みんしゅ",
+       "romaji": "minshu",
+       "gloss": "democratic"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/location particle"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desiderative)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and; with"
+      },
+      {
+       "surface": "主張",
+       "pos": "noun",
+       "reading": "しゅちょう",
+       "romaji": "shuchou",
+       "gloss": "assertion, claim"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I want to make the DPFP a party that stands up to the LDP,' he argued.",
+     "audioStart": 66.456,
+     "audioEnd": 71.424
+    },
+    {
+     "text": "玉木氏は「政策実現を主導できる政党に進化しなければならない。",
+     "tokens": [
+      {
+       "surface": "玉木",
+       "pos": "noun",
+       "reading": "たまき",
+       "romaji": "tamaki",
+       "gloss": "Tamaki (surname)"
+      },
+      {
+       "surface": "氏",
+       "pos": "suffix",
+       "reading": "し",
+       "romaji": "shi",
+       "gloss": "Mr./the person (honorific suffix)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "政策",
+       "pos": "noun",
+       "reading": "せいさく",
+       "romaji": "seisaku",
+       "gloss": "policy"
+      },
+      {
+       "surface": "実現",
+       "pos": "noun",
+       "reading": "じつげん",
+       "romaji": "jitsugen",
+       "gloss": "realization, achievement"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "主導",
+       "pos": "noun",
+       "reading": "しゅどう",
+       "romaji": "shudou",
+       "gloss": "leadership, initiative"
+      },
+      {
+       "surface": "できる",
+       "pos": "verb",
+       "romaji": "dekiru",
+       "gloss": "to be able to"
+      },
+      {
+       "surface": "政党",
+       "pos": "noun",
+       "reading": "せいとう",
+       "romaji": "seitou",
+       "gloss": "political party"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/location particle"
+      },
+      {
+       "surface": "進化",
+       "pos": "noun",
+       "reading": "しんか",
+       "romaji": "shinka",
+       "gloss": "evolution, advancement"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "なけれ",
+       "pos": "auxiliary",
+       "romaji": "nakere",
+       "lemma": "ない",
+       "gloss": "negative auxiliary"
+      },
+      {
+       "surface": "ば",
+       "pos": "particle",
+       "romaji": "ba",
+       "gloss": "conditional particle (if)"
+      },
+      {
+       "surface": "なら",
+       "pos": "verb",
+       "romaji": "nara",
+       "lemma": "なる",
+       "gloss": "to become"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Tamaki said, 'We must evolve into a party that can take the lead in realizing policy.",
+     "audioStart": 71.424,
+     "audioEnd": 78.432
+    },
+    {
+     "text": "次の任期を、徹底的に党勢を伸ばす政権準備期間にしたい」と訴えた。",
+     "tokens": [
+      {
+       "surface": "次",
+       "pos": "noun",
+       "reading": "つぎ",
+       "romaji": "tsugi",
+       "gloss": "next"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "任期",
+       "pos": "noun",
+       "reading": "にんき",
+       "romaji": "ninki",
+       "gloss": "term of office"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "徹底的",
+       "pos": "noun",
+       "reading": "てっていてき",
+       "romaji": "tetteiteki",
+       "gloss": "thorough"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula (plain form)"
+      },
+      {
+       "surface": "党勢",
+       "pos": "noun",
+       "reading": "とうせい",
+       "romaji": "tousei",
+       "gloss": "party strength/influence"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "伸ばす",
+       "pos": "verb",
+       "reading": "のばす",
+       "romaji": "nobasu",
+       "gloss": "to extend, expand"
+      },
+      {
+       "surface": "政権",
+       "pos": "noun",
+       "reading": "せいけん",
+       "romaji": "seiken",
+       "gloss": "administration, government"
+      },
+      {
+       "surface": "準備",
+       "pos": "noun",
+       "reading": "じゅんび",
+       "romaji": "junbi",
+       "gloss": "preparation"
+      },
+      {
+       "surface": "期間",
+       "pos": "noun",
+       "reading": "きかん",
+       "romaji": "kikan",
+       "gloss": "period"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/location particle"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desiderative)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and; with"
+      },
+      {
+       "surface": "訴え",
+       "pos": "verb",
+       "reading": "うったえ",
+       "romaji": "uttae",
+       "lemma": "訴える",
+       "gloss": "to appeal, urge"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I want to make the next term a period of thoroughly building up party strength in preparation for power,' he appealed.",
+     "audioStart": 78.432,
+     "audioEnd": 86.496
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "共同会見では、自民と日本維新の会の連立政権に加わる是非に関し、橋本氏は「今、連立するべきではない。",
+     "tokens": [
+      {
+       "surface": "共同",
+       "pos": "noun",
+       "reading": "きょうどう",
+       "romaji": "kyoudou",
+       "gloss": "joint"
+      },
+      {
+       "surface": "会見",
+       "pos": "noun",
+       "reading": "かいけん",
+       "romaji": "kaiken",
+       "gloss": "press conference"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "自民",
+       "pos": "noun",
+       "reading": "じみん",
+       "romaji": "jimin",
+       "gloss": "LDP (short form)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and; with"
+      },
+      {
+       "surface": "日本維新の会",
+       "pos": "noun",
+       "reading": "にっぽんいしんのかい",
+       "romaji": "nippon'ishinnokai",
+       "gloss": "Japan Innovation Party"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "連立政権",
+       "pos": "noun",
+       "reading": "れんりつせいけん",
+       "romaji": "renritsuseiken",
+       "gloss": "coalition government"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/location particle"
+      },
+      {
+       "surface": "加わる",
+       "pos": "verb",
+       "reading": "くわわる",
+       "romaji": "kuwawaru",
+       "gloss": "to join"
+      },
+      {
+       "surface": "是非",
+       "pos": "noun",
+       "reading": "ぜひ",
+       "romaji": "zehi",
+       "gloss": "pros and cons, rightness"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/location particle"
+      },
+      {
+       "surface": "関し",
+       "pos": "verb",
+       "reading": "かんし",
+       "romaji": "kanshi",
+       "lemma": "関する",
+       "gloss": "to be related to, concerning"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "橋本",
+       "pos": "noun",
+       "reading": "はしもと",
+       "romaji": "hashimoto",
+       "gloss": "Hashimoto (surname)"
+      },
+      {
+       "surface": "氏",
+       "pos": "suffix",
+       "reading": "し",
+       "romaji": "shi",
+       "gloss": "Mr./the person (honorific suffix)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "今",
+       "pos": "noun",
+       "reading": "いま",
+       "romaji": "ima",
+       "gloss": "now"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "連立",
+       "pos": "noun",
+       "reading": "れんりつ",
+       "romaji": "renritsu",
+       "gloss": "coalition"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do"
+      },
+      {
+       "surface": "べき",
+       "pos": "auxiliary",
+       "romaji": "beki",
+       "lemma": "べし",
+       "gloss": "should, ought to (classical modal)"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula (plain form)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "ない",
+       "pos": "adjective",
+       "romaji": "nai",
+       "gloss": "negative auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "At the joint press conference, regarding whether to join a coalition government with the LDP and Japan Innovation Party, Hashimoto stressed, 'We should not join a coalition now.",
+     "audioStart": 86.496,
+     "audioEnd": 98.592
+    },
+    {
+     "text": "のみ込まれるだけだ」と強調。",
+     "tokens": [
+      {
+       "surface": "のみ込ま",
+       "pos": "verb",
+       "reading": "のみこま",
+       "romaji": "nomikoma",
+       "lemma": "のみ込む",
+       "gloss": "to be swallowed up, engulfed"
+      },
+      {
+       "surface": "れる",
+       "pos": "auxiliary",
+       "romaji": "reru",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "だけ",
+       "pos": "particle",
+       "romaji": "dake",
+       "gloss": "only, just"
+      },
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "copula (plain form)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and; with"
+      },
+      {
+       "surface": "強調",
+       "pos": "noun",
+       "reading": "きょうちょう",
+       "romaji": "kyouchou",
+       "gloss": "emphasis, stress"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "We would just be swallowed up,' he emphasized.",
+     "audioStart": 98.592,
+     "audioEnd": 102.096
+    },
+    {
+     "text": "玉木氏は「どこと連携するにしても、こちらの政策の実現が薄まるなら意味がない」と述べた。",
+     "tokens": [
+      {
+       "surface": "玉木",
+       "pos": "noun",
+       "reading": "たまき",
+       "romaji": "tamaki",
+       "gloss": "Tamaki (surname)"
+      },
+      {
+       "surface": "氏",
+       "pos": "suffix",
+       "reading": "し",
+       "romaji": "shi",
+       "gloss": "Mr./the person (honorific suffix)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "どこ",
+       "pos": "pronoun",
+       "romaji": "doko",
+       "gloss": "where, wherever"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and; with"
+      },
+      {
+       "surface": "連携",
+       "pos": "noun",
+       "reading": "れんけい",
+       "romaji": "renkei",
+       "gloss": "cooperation, collaboration"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/location particle"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "even, also"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "こちら",
+       "pos": "pronoun",
+       "romaji": "kochira",
+       "gloss": "this side, our side"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "政策",
+       "pos": "noun",
+       "reading": "せいさく",
+       "romaji": "seisaku",
+       "gloss": "policy"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "実現",
+       "pos": "noun",
+       "reading": "じつげん",
+       "romaji": "jitsugen",
+       "gloss": "realization, achievement"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "薄まる",
+       "pos": "verb",
+       "reading": "うすまる",
+       "romaji": "usumaru",
+       "gloss": "to become diluted, weaken"
+      },
+      {
+       "surface": "なら",
+       "pos": "auxiliary",
+       "romaji": "nara",
+       "lemma": "だ",
+       "gloss": "copula (plain form)"
+      },
+      {
+       "surface": "意味",
+       "pos": "noun",
+       "reading": "いみ",
+       "romaji": "imi",
+       "gloss": "meaning"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "ない",
+       "pos": "adjective",
+       "romaji": "nai",
+       "gloss": "negative auxiliary"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and; with"
+      },
+      {
+       "surface": "述べ",
+       "pos": "verb",
+       "reading": "のべ",
+       "romaji": "nobe",
+       "lemma": "述べる",
+       "gloss": "to state, express"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Tamaki said, 'No matter who we cooperate with, it's meaningless if it dilutes the realization of our own policies.'",
+     "audioStart": 102.096,
+     "audioEnd": 111.24
+    }
+   ]
+  }
+ ]
+}

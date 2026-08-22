@@ -3,70 +3,13 @@
  "id": "forest-fires-in-some-regions-of-germany-it-smells-like-fire",
  "language": "de",
  "title": "Wald-Brände - In einigen Regionen in Deutschland riecht es nach Feuer",
- "titleTranslation": "Forest Fires - In Some Regions of Germany It Smells Like Fire",
+ "titleTranslation": "Forest fires - In some regions of Germany it smells like fire",
  "level": "A2",
- "summary": "Large forest fires in Germany and Belgium are sending smoke and fine dust into German cities like Cologne and Bonn, prompting health warnings, though rain expected this week should help.",
+ "summary": "Large wildfires in Belgium and elsewhere are sending smoke smell and fine dust into German cities like Cologne and Bonn, prompting doctor warnings, though rain is expected to bring relief this week.",
  "sourceUrl": "https://www.nachrichtenleicht.de/brand-geruch-deutschland-100.html",
- "createdAt": "2026-08-22T15:02:55+00:00",
+ "createdAt": "2026-08-22T16:39:09+00:00",
  "audioFile": "audio.mp3",
  "paragraphs": [
-  {
-   "sentences": [
-    {
-     "text": "In einigen Regionen in Deutschland riecht es nach Feuer",
-     "tokens": [
-      {
-       "surface": "In",
-       "pos": "word",
-       "gloss": "in (preposition)"
-      },
-      {
-       "surface": "einigen",
-       "pos": "word",
-       "gloss": "some (dative/plural)"
-      },
-      {
-       "surface": "Regionen",
-       "pos": "word",
-       "gloss": "regions"
-      },
-      {
-       "surface": "in",
-       "pos": "word",
-       "gloss": "in"
-      },
-      {
-       "surface": "Deutschland",
-       "pos": "word",
-       "gloss": "Germany"
-      },
-      {
-       "surface": "riecht",
-       "pos": "word",
-       "gloss": "smells (riechen)"
-      },
-      {
-       "surface": "es",
-       "pos": "word",
-       "gloss": "it"
-      },
-      {
-       "surface": "nach",
-       "pos": "word",
-       "gloss": "like/of (with 'riechen nach')"
-      },
-      {
-       "surface": "Feuer",
-       "pos": "word",
-       "gloss": "fire"
-      }
-     ],
-     "translation": "In some regions in Germany it smells like fire",
-     "audioStart": 0.0,
-     "audioEnd": 4.584
-    }
-   ]
-  },
   {
    "sentences": [
     {
@@ -80,12 +23,12 @@
       {
        "surface": "den",
        "pos": "word",
-       "gloss": "the (dative plural article)"
+       "gloss": "the (accusative/dative article)"
       },
       {
        "surface": "letzten",
        "pos": "word",
-       "gloss": "last/past (letzte)"
+       "gloss": "last/recent (adjective)"
       },
       {
        "surface": "Wochen",
@@ -95,17 +38,17 @@
       {
        "surface": "hat",
        "pos": "word",
-       "gloss": "has (haben, auxiliary)"
+       "gloss": "has (auxiliary, present tense of 'haben')"
       },
       {
        "surface": "es",
        "pos": "word",
-       "gloss": "it"
+       "gloss": "it (pronoun)"
       },
       {
        "surface": "große",
        "pos": "word",
-       "gloss": "large/big"
+       "gloss": "big/large (adjective)"
       },
       {
        "surface": "Wald-Brände",
@@ -115,7 +58,7 @@
       {
        "surface": "gegeben",
        "pos": "word",
-       "gloss": "given/occurred (past participle of geben)"
+       "gloss": "given (past participle of 'geben'; 'es hat...gegeben' = there have been)"
       },
       {
        "surface": ".",
@@ -123,8 +66,8 @@
       }
      ],
      "translation": "In recent weeks there have been large forest fires.",
-     "audioStart": 4.584,
-     "audioEnd": 9.168
+     "audioStart": 0.0,
+     "audioEnd": 4.584
     },
     {
      "text": "Der Wind bläst den Rauch viele Kilometer weit.",
@@ -132,7 +75,7 @@
       {
        "surface": "Der",
        "pos": "word",
-       "gloss": "the (masc. nominative)"
+       "gloss": "the (nominative masculine article)"
       },
       {
        "surface": "Wind",
@@ -142,12 +85,12 @@
       {
        "surface": "bläst",
        "pos": "word",
-       "gloss": "blows (blasen)"
+       "gloss": "blows (verb 'blasen')"
       },
       {
        "surface": "den",
        "pos": "word",
-       "gloss": "the (dative plural article)"
+       "gloss": "the (accusative/dative article)"
       },
       {
        "surface": "Rauch",
@@ -175,8 +118,8 @@
       }
      ],
      "translation": "The wind blows the smoke many kilometers away.",
-     "audioStart": 9.168,
-     "audioEnd": 13.224
+     "audioStart": 4.584,
+     "audioEnd": 8.64
     },
     {
      "text": "In einigen Orten in Deutschland riecht es deshalb nach Feuer.",
@@ -189,12 +132,12 @@
       {
        "surface": "einigen",
        "pos": "word",
-       "gloss": "some (dative/plural)"
+       "gloss": "some (dative plural of 'einige')"
       },
       {
        "surface": "Orten",
        "pos": "word",
-       "gloss": "places (dative plural of Ort)"
+       "gloss": "places (dative plural of 'Ort')"
       },
       {
        "surface": "in",
@@ -209,22 +152,22 @@
       {
        "surface": "riecht",
        "pos": "word",
-       "gloss": "smells (riechen)"
+       "gloss": "smells (verb 'riechen')"
       },
       {
        "surface": "es",
        "pos": "word",
-       "gloss": "it"
+       "gloss": "it (pronoun)"
       },
       {
        "surface": "deshalb",
        "pos": "word",
-       "gloss": "therefore"
+       "gloss": "therefore/that's why"
       },
       {
        "surface": "nach",
        "pos": "word",
-       "gloss": "like/of (with 'riechen nach')"
+       "gloss": "of/like (here: 'riecht nach' = smells like)"
       },
       {
        "surface": "Feuer",
@@ -236,9 +179,9 @@
        "pos": "punct"
       }
      ],
-     "translation": "In some places in Germany it therefore smells like fire.",
-     "audioStart": 13.224,
-     "audioEnd": 18.072
+     "translation": "That's why it smells like fire in some places in Germany.",
+     "audioStart": 8.64,
+     "audioEnd": 13.488
     }
    ]
   },
@@ -250,7 +193,7 @@
       {
        "surface": "Ein",
        "pos": "word",
-       "gloss": "a/an (masc. indefinite article)"
+       "gloss": "a/an (indefinite article)"
       },
       {
        "surface": "sehr",
@@ -260,7 +203,7 @@
       {
        "surface": "großer",
        "pos": "word",
-       "gloss": "large (adjective, masc. nom.)"
+       "gloss": "big/large (adjective, masc. nominative)"
       },
       {
        "surface": "Brand",
@@ -297,9 +240,9 @@
        "pos": "punct"
       }
      ],
-     "translation": "A very large fire is in the country Belgium.",
-     "audioStart": 18.072,
-     "audioEnd": 22.176
+     "translation": "A very large fire is in the country of Belgium.",
+     "audioStart": 13.488,
+     "audioEnd": 17.592
     },
     {
      "text": "Das Feuer ist fast an der Grenze zu Deutschland.",
@@ -307,7 +250,7 @@
       {
        "surface": "Das",
        "pos": "word",
-       "gloss": "the/that (neuter article/pronoun)"
+       "gloss": "the/that"
       },
       {
        "surface": "Feuer",
@@ -332,7 +275,7 @@
       {
        "surface": "der",
        "pos": "word",
-       "gloss": "the (fem. dative article)"
+       "gloss": "the (dative feminine article)"
       },
       {
        "surface": "Grenze",
@@ -354,9 +297,9 @@
        "pos": "punct"
       }
      ],
-     "translation": "The fire is almost at the border to Germany.",
-     "audioStart": 22.176,
-     "audioEnd": 26.352
+     "translation": "The fire is almost at the border with Germany.",
+     "audioStart": 17.592,
+     "audioEnd": 21.768
     },
     {
      "text": "In einigen deutschen Städten riecht man das Feuer.",
@@ -369,7 +312,7 @@
       {
        "surface": "einigen",
        "pos": "word",
-       "gloss": "some (dative/plural)"
+       "gloss": "some (dative plural of 'einige')"
       },
       {
        "surface": "deutschen",
@@ -379,22 +322,22 @@
       {
        "surface": "Städten",
        "pos": "word",
-       "gloss": "cities (dative plural of Stadt)"
+       "gloss": "cities (dative plural of 'Stadt')"
       },
       {
        "surface": "riecht",
        "pos": "word",
-       "gloss": "smells (riechen)"
+       "gloss": "smells (verb 'riechen')"
       },
       {
        "surface": "man",
        "pos": "word",
-       "gloss": "one/people (impersonal pronoun)"
+       "gloss": "one/you (impersonal pronoun)"
       },
       {
        "surface": "das",
        "pos": "word",
-       "gloss": "the/it (neuter article/pronoun)"
+       "gloss": "the/that"
       },
       {
        "surface": "Feuer",
@@ -406,9 +349,9 @@
        "pos": "punct"
       }
      ],
-     "translation": "In some German cities people can smell the fire.",
-     "audioStart": 26.352,
-     "audioEnd": 30.36
+     "translation": "In some German cities you can smell the fire.",
+     "audioStart": 21.768,
+     "audioEnd": 25.776
     },
     {
      "text": "Zum Beispiel in Köln und Bonn.",
@@ -416,7 +359,7 @@
       {
        "surface": "Zum",
        "pos": "word",
-       "gloss": "to the (zu + dem)"
+       "gloss": "to the (contraction of 'zu dem')"
       },
       {
        "surface": "Beispiel",
@@ -441,7 +384,7 @@
       {
        "surface": "Bonn",
        "pos": "word",
-       "gloss": "Bonn"
+       "gloss": "Bonn (city)"
       },
       {
        "surface": ".",
@@ -449,8 +392,8 @@
       }
      ],
      "translation": "For example in Cologne and Bonn.",
-     "audioStart": 30.36,
-     "audioEnd": 33.384
+     "audioStart": 25.776,
+     "audioEnd": 28.8
     }
    ]
   },
@@ -462,7 +405,7 @@
       {
        "surface": "Die",
        "pos": "word",
-       "gloss": "the (fem./plural article)"
+       "gloss": "the (nominative fem./plural article)"
       },
       {
        "surface": "Feuerwehr",
@@ -481,7 +424,7 @@
       {
        "surface": "Die",
        "pos": "word",
-       "gloss": "the (fem./plural article)"
+       "gloss": "the (nominative fem./plural article)"
       },
       {
        "surface": "Luft",
@@ -514,8 +457,8 @@
       }
      ],
      "translation": "The fire department says: The air is not dangerous so far.",
-     "audioStart": 33.384,
-     "audioEnd": 38.184
+     "audioStart": 28.8,
+     "audioEnd": 33.6
     }
    ]
   },
@@ -546,12 +489,12 @@
       {
        "surface": "Man",
        "pos": "word",
-       "gloss": "one/people (impersonal pronoun)"
+       "gloss": "one/you (impersonal pronoun)"
       },
       {
        "surface": "soll",
        "pos": "word",
-       "gloss": "should (sollen)"
+       "gloss": "should (modal verb 'sollen')"
       },
       {
        "surface": "trotzdem",
@@ -566,7 +509,7 @@
       {
        "surface": "sein",
        "pos": "word",
-       "gloss": "to be"
+       "gloss": "be (infinitive)"
       },
       {
        "surface": ".",
@@ -574,8 +517,8 @@
       }
      ],
      "translation": "Some doctors say: One should still be careful.",
-     "audioStart": 38.184,
-     "audioEnd": 43.176
+     "audioStart": 33.6,
+     "audioEnd": 38.592
     },
     {
      "text": "In der Luft ist mehr feiner Staub als sonst.",
@@ -588,7 +531,7 @@
       {
        "surface": "der",
        "pos": "word",
-       "gloss": "the (fem. dative article)"
+       "gloss": "the (dative feminine article)"
       },
       {
        "surface": "Luft",
@@ -608,7 +551,7 @@
       {
        "surface": "feiner",
        "pos": "word",
-       "gloss": "fine (adjective, from fein)"
+       "gloss": "fine (adjective form of 'fein')"
       },
       {
        "surface": "Staub",
@@ -618,12 +561,12 @@
       {
        "surface": "als",
        "pos": "word",
-       "gloss": "than"
+       "gloss": "than/as"
       },
       {
        "surface": "sonst",
        "pos": "word",
-       "gloss": "usually/otherwise"
+       "gloss": "otherwise/usually"
       },
       {
        "surface": ".",
@@ -631,8 +574,8 @@
       }
      ],
      "translation": "There is more fine dust in the air than usual.",
-     "audioStart": 43.176,
-     "audioEnd": 46.968
+     "audioStart": 38.592,
+     "audioEnd": 42.384
     },
     {
      "text": "Fein-Staub ist schlecht für die Lunge.",
@@ -660,7 +603,7 @@
       {
        "surface": "die",
        "pos": "word",
-       "gloss": "the (fem./plural article)"
+       "gloss": "the"
       },
       {
        "surface": "Lunge",
@@ -673,8 +616,8 @@
       }
      ],
      "translation": "Fine dust is bad for the lungs.",
-     "audioStart": 46.968,
-     "audioEnd": 50.232
+     "audioStart": 42.384,
+     "audioEnd": 45.648
     },
     {
      "text": "Die Ärzte sagen: Wenn es stark nach Feuer riecht, sollte man keinen Sport im Freien machen.",
@@ -682,7 +625,7 @@
       {
        "surface": "Die",
        "pos": "word",
-       "gloss": "the (fem./plural article)"
+       "gloss": "the (nominative fem./plural article)"
       },
       {
        "surface": "Ärzte",
@@ -706,7 +649,7 @@
       {
        "surface": "es",
        "pos": "word",
-       "gloss": "it"
+       "gloss": "it (pronoun)"
       },
       {
        "surface": "stark",
@@ -716,7 +659,7 @@
       {
        "surface": "nach",
        "pos": "word",
-       "gloss": "like/of (with 'riechen nach')"
+       "gloss": "of/like (here: 'riecht nach' = smells like)"
       },
       {
        "surface": "Feuer",
@@ -726,7 +669,7 @@
       {
        "surface": "riecht",
        "pos": "word",
-       "gloss": "smells (riechen)"
+       "gloss": "smells (verb 'riechen')"
       },
       {
        "surface": ",",
@@ -735,37 +678,37 @@
       {
        "surface": "sollte",
        "pos": "word",
-       "gloss": "should (subjunctive of sollen)"
+       "gloss": "should (subjunctive of 'sollen')"
       },
       {
        "surface": "man",
        "pos": "word",
-       "gloss": "one/people (impersonal pronoun)"
+       "gloss": "one/you (impersonal pronoun)"
       },
       {
        "surface": "keinen",
        "pos": "word",
-       "gloss": "no/not any (accusative masc.)"
+       "gloss": "no/not any (accusative masculine)"
       },
       {
        "surface": "Sport",
        "pos": "word",
-       "gloss": "sport"
+       "gloss": "sport/exercise"
       },
       {
        "surface": "im",
        "pos": "word",
-       "gloss": "in the (in + dem)"
+       "gloss": "in the (contraction of 'in dem')"
       },
       {
        "surface": "Freien",
        "pos": "word",
-       "gloss": "outdoors (im Freien)"
+       "gloss": "open air/outdoors ('im Freien')"
       },
       {
        "surface": "machen",
        "pos": "word",
-       "gloss": "to do/make"
+       "gloss": "do/make"
       },
       {
        "surface": ".",
@@ -773,8 +716,8 @@
       }
      ],
      "translation": "The doctors say: If it smells strongly of fire, one should not do sports outdoors.",
-     "audioStart": 50.232,
-     "audioEnd": 57.456
+     "audioStart": 45.648,
+     "audioEnd": 52.872
     },
     {
      "text": "Man sollte auch die Fenster schließen.",
@@ -782,12 +725,12 @@
       {
        "surface": "Man",
        "pos": "word",
-       "gloss": "one/people (impersonal pronoun)"
+       "gloss": "one/you (impersonal pronoun)"
       },
       {
        "surface": "sollte",
        "pos": "word",
-       "gloss": "should (subjunctive of sollen)"
+       "gloss": "should (subjunctive of 'sollen')"
       },
       {
        "surface": "auch",
@@ -797,7 +740,7 @@
       {
        "surface": "die",
        "pos": "word",
-       "gloss": "the (fem./plural article)"
+       "gloss": "the"
       },
       {
        "surface": "Fenster",
@@ -807,7 +750,7 @@
       {
        "surface": "schließen",
        "pos": "word",
-       "gloss": "to close"
+       "gloss": "close"
       },
       {
        "surface": ".",
@@ -815,8 +758,8 @@
       }
      ],
      "translation": "One should also close the windows.",
-     "audioStart": 57.456,
-     "audioEnd": 60.816
+     "audioStart": 52.872,
+     "audioEnd": 56.232
     }
    ]
   },
@@ -828,12 +771,12 @@
       {
        "surface": "Die",
        "pos": "word",
-       "gloss": "the (fem./plural article)"
+       "gloss": "the (nominative fem./plural article)"
       },
       {
        "surface": "Wälder",
        "pos": "word",
-       "gloss": "forests"
+       "gloss": "forests (plural of 'Wald')"
       },
       {
        "surface": "sind",
@@ -863,7 +806,7 @@
       {
        "surface": "brennen",
        "pos": "word",
-       "gloss": "to burn"
+       "gloss": "burn"
       },
       {
        "surface": "schnell",
@@ -876,8 +819,8 @@
       }
      ],
      "translation": "The forests are currently very dry and burn quickly.",
-     "audioStart": 60.816,
-     "audioEnd": 65.16
+     "audioStart": 56.232,
+     "audioEnd": 60.576
     },
     {
      "text": "Die Feuerwehr muss deshalb in vielen Regionen in Deutschland Brände löschen.",
@@ -885,7 +828,7 @@
       {
        "surface": "Die",
        "pos": "word",
-       "gloss": "the (fem./plural article)"
+       "gloss": "the (nominative fem./plural article)"
       },
       {
        "surface": "Feuerwehr",
@@ -895,12 +838,12 @@
       {
        "surface": "muss",
        "pos": "word",
-       "gloss": "must (müssen)"
+       "gloss": "must (modal verb 'müssen')"
       },
       {
        "surface": "deshalb",
        "pos": "word",
-       "gloss": "therefore"
+       "gloss": "therefore/that's why"
       },
       {
        "surface": "in",
@@ -930,21 +873,21 @@
       {
        "surface": "Brände",
        "pos": "word",
-       "gloss": "fires"
+       "gloss": "fires (plural of 'Brand')"
       },
       {
        "surface": "löschen",
        "pos": "word",
-       "gloss": "to extinguish"
+       "gloss": "extinguish"
       },
       {
        "surface": ".",
        "pos": "punct"
       }
      ],
-     "translation": "The fire department therefore has to put out fires in many regions in Germany.",
-     "audioStart": 65.16,
-     "audioEnd": 70.944
+     "translation": "The fire department therefore has to put out fires in many regions of Germany.",
+     "audioStart": 60.576,
+     "audioEnd": 66.36
     }
    ]
   },
@@ -961,7 +904,7 @@
       {
        "surface": "gibt",
        "pos": "word",
-       "gloss": "there is/gives (es gibt = there is)"
+       "gloss": "gives ('es gibt' = there is/are)"
       },
       {
        "surface": "aber",
@@ -976,7 +919,7 @@
       {
        "surface": "eine",
        "pos": "word",
-       "gloss": "a/an (fem. indefinite article)"
+       "gloss": "a/an (feminine indefinite article)"
       },
       {
        "surface": "gute",
@@ -1000,7 +943,7 @@
       {
        "surface": "dieser",
        "pos": "word",
-       "gloss": "this (fem. dative)"
+       "gloss": "this (feminine dative)"
       },
       {
        "surface": "Woche",
@@ -1015,12 +958,12 @@
       {
        "surface": "es",
        "pos": "word",
-       "gloss": "it"
+       "gloss": "it (pronoun)"
       },
       {
        "surface": "nach",
        "pos": "word",
-       "gloss": "like/of (with 'riechen nach')"
+       "gloss": "of/like (here: 'riecht nach' = smells like)"
       },
       {
        "surface": "langer",
@@ -1043,8 +986,8 @@
       }
      ],
      "translation": "But there is also good news: This week it is raining again after a long time.",
-     "audioStart": 70.944,
-     "audioEnd": 77.496
+     "audioStart": 66.36,
+     "audioEnd": 72.912
     }
    ]
   },
@@ -1066,12 +1009,12 @@
       {
        "surface": "die",
        "pos": "word",
-       "gloss": "the (fem./plural article)"
+       "gloss": "the"
       },
       {
        "surface": "größte",
        "pos": "word",
-       "gloss": "largest (superlative of groß)"
+       "gloss": "biggest/largest (superlative of 'groß')"
       },
       {
        "surface": "Stadt",
@@ -1104,8 +1047,8 @@
       }
      ],
      "translation": "Cologne is the largest city in the federal state of North Rhine-Westphalia.",
-     "audioStart": 77.496,
-     "audioEnd": 82.872
+     "audioStart": 72.912,
+     "audioEnd": 78.288
     },
     {
      "text": "In Köln steht die berühmteste Kirche in Deutschland: der Kölner Dom.",
@@ -1128,12 +1071,12 @@
       {
        "surface": "die",
        "pos": "word",
-       "gloss": "the (fem./plural article)"
+       "gloss": "the"
       },
       {
        "surface": "berühmteste",
        "pos": "word",
-       "gloss": "most famous (superlative)"
+       "gloss": "most famous (superlative of 'berühmt')"
       },
       {
        "surface": "Kirche",
@@ -1157,7 +1100,7 @@
       {
        "surface": "der",
        "pos": "word",
-       "gloss": "the (fem. dative article)"
+       "gloss": "the (dative feminine article)"
       },
       {
        "surface": "Kölner",
@@ -1175,8 +1118,8 @@
       }
      ],
      "translation": "In Cologne stands the most famous church in Germany: Cologne Cathedral.",
-     "audioStart": 82.872,
-     "audioEnd": 88.56
+     "audioStart": 78.288,
+     "audioEnd": 83.976
     },
     {
      "text": "Köln liegt an dem Fluss Rhein.",
@@ -1217,8 +1160,8 @@
       }
      ],
      "translation": "Cologne lies on the river Rhine.",
-     "audioStart": 88.56,
-     "audioEnd": 91.56
+     "audioStart": 83.976,
+     "audioEnd": 86.976
     }
    ]
   },
@@ -1230,12 +1173,12 @@
       {
        "surface": "Bonn",
        "pos": "word",
-       "gloss": "Bonn"
+       "gloss": "Bonn (city)"
       }
      ],
      "translation": "Bonn",
-     "audioStart": 91.56,
-     "audioEnd": 93.336
+     "audioStart": 86.976,
+     "audioEnd": 88.752
     }
    ]
   },
@@ -1247,7 +1190,7 @@
       {
        "surface": "Bonn",
        "pos": "word",
-       "gloss": "Bonn"
+       "gloss": "Bonn (city)"
       },
       {
        "surface": "ist",
@@ -1257,7 +1200,7 @@
       {
        "surface": "eine",
        "pos": "word",
-       "gloss": "a/an (fem. indefinite article)"
+       "gloss": "a/an (feminine indefinite article)"
       },
       {
        "surface": "Groß-Stadt",
@@ -1290,8 +1233,8 @@
       }
      ],
      "translation": "Bonn is a large city in the federal state of North Rhine-Westphalia.",
-     "audioStart": 93.336,
-     "audioEnd": 98.376
+     "audioStart": 88.752,
+     "audioEnd": 93.792
     },
     {
      "text": "Sie liegt an dem Fluss Rhein.",
@@ -1332,8 +1275,8 @@
       }
      ],
      "translation": "It lies on the river Rhine.",
-     "audioStart": 98.376,
-     "audioEnd": 101.208
+     "audioStart": 93.792,
+     "audioEnd": 96.624
     },
     {
      "text": "Von dem Jahr 1949 bis zum Jahr 1990 war Bonn die Haupt-Stadt von der Bundes-Republik Deutschland.",
@@ -1365,7 +1308,7 @@
       {
        "surface": "zum",
        "pos": "word",
-       "gloss": "to the (zu + dem)"
+       "gloss": "to the (contraction of 'zu dem')"
       },
       {
        "surface": "Jahr",
@@ -1379,17 +1322,17 @@
       {
        "surface": "war",
        "pos": "word",
-       "gloss": "was (past of sein)"
+       "gloss": "was"
       },
       {
        "surface": "Bonn",
        "pos": "word",
-       "gloss": "Bonn"
+       "gloss": "Bonn (city)"
       },
       {
        "surface": "die",
        "pos": "word",
-       "gloss": "the (fem./plural article)"
+       "gloss": "the"
       },
       {
        "surface": "Haupt-Stadt",
@@ -1404,12 +1347,12 @@
       {
        "surface": "der",
        "pos": "word",
-       "gloss": "the (fem. dative article)"
+       "gloss": "the (dative feminine article)"
       },
       {
        "surface": "Bundes-Republik",
        "pos": "word",
-       "gloss": "Federal Republic"
+       "gloss": "federal republic"
       },
       {
        "surface": "Deutschland",
@@ -1421,9 +1364,9 @@
        "pos": "punct"
       }
      ],
-     "translation": "From the year 1949 to the year 1990, Bonn was the capital of the Federal Republic of Germany.",
-     "audioStart": 101.208,
-     "audioEnd": 110.496
+     "translation": "From 1949 to 1990, Bonn was the capital of the Federal Republic of Germany.",
+     "audioStart": 96.624,
+     "audioEnd": 105.912
     },
     {
      "text": "Deshalb sind viele Ministerien bis heute auch in Bonn.",
@@ -1471,16 +1414,16 @@
       {
        "surface": "Bonn",
        "pos": "word",
-       "gloss": "Bonn"
+       "gloss": "Bonn (city)"
       },
       {
        "surface": ".",
        "pos": "punct"
       }
      ],
-     "translation": "That is why many ministries are still in Bonn today.",
-     "audioStart": 110.496,
-     "audioEnd": 115.08
+     "translation": "That's why many ministries are still in Bonn today too.",
+     "audioStart": 105.912,
+     "audioEnd": 110.496
     },
     {
      "text": "In Bonn sind auch wichtige Behörden wie der Bundes-Rechnungshof und die Bundes-Netz-Agentur.",
@@ -1493,7 +1436,7 @@
       {
        "surface": "Bonn",
        "pos": "word",
-       "gloss": "Bonn"
+       "gloss": "Bonn (city)"
       },
       {
        "surface": "sind",
@@ -1523,7 +1466,7 @@
       {
        "surface": "der",
        "pos": "word",
-       "gloss": "the (fem. dative article)"
+       "gloss": "the (dative feminine article)"
       },
       {
        "surface": "Bundes-Rechnungshof",
@@ -1538,7 +1481,7 @@
       {
        "surface": "die",
        "pos": "word",
-       "gloss": "the (fem./plural article)"
+       "gloss": "the"
       },
       {
        "surface": "Bundes-Netz-Agentur",
@@ -1550,9 +1493,9 @@
        "pos": "punct"
       }
      ],
-     "translation": "In Bonn there are also important authorities such as the Federal Audit Office and the Federal Network Agency.",
-     "audioStart": 115.08,
-     "audioEnd": 121.632
+     "translation": "Important authorities such as the Federal Audit Office and the Federal Network Agency are also in Bonn.",
+     "audioStart": 110.496,
+     "audioEnd": 117.048
     },
     {
      "text": "In dem Jahr 1999 ist die Bundes-Regierung von Bonn in die neue Haupt-Stadt Berlin umgezogen.",
@@ -1584,7 +1527,7 @@
       {
        "surface": "die",
        "pos": "word",
-       "gloss": "the (fem./plural article)"
+       "gloss": "the"
       },
       {
        "surface": "Bundes-Regierung",
@@ -1599,7 +1542,7 @@
       {
        "surface": "Bonn",
        "pos": "word",
-       "gloss": "Bonn"
+       "gloss": "Bonn (city)"
       },
       {
        "surface": "in",
@@ -1609,7 +1552,7 @@
       {
        "surface": "die",
        "pos": "word",
-       "gloss": "the (fem./plural article)"
+       "gloss": "the"
       },
       {
        "surface": "neue",
@@ -1629,16 +1572,16 @@
       {
        "surface": "umgezogen",
        "pos": "word",
-       "gloss": "moved (past participle of umziehen)"
+       "gloss": "moved (past participle of 'umziehen')"
       },
       {
        "surface": ".",
        "pos": "punct"
       }
      ],
-     "translation": "In the year 1999, the federal government moved from Bonn to the new capital Berlin.",
-     "audioStart": 121.632,
-     "audioEnd": 130.056
+     "translation": "In 1999 the federal government moved from Bonn to the new capital, Berlin.",
+     "audioStart": 117.048,
+     "audioEnd": 125.472
     },
     {
      "text": "In Bonn wurde auch der berühmte Komponist Ludwig van Beethoven geboren.",
@@ -1651,12 +1594,12 @@
       {
        "surface": "Bonn",
        "pos": "word",
-       "gloss": "Bonn"
+       "gloss": "Bonn (city)"
       },
       {
        "surface": "wurde",
        "pos": "word",
-       "gloss": "was (auxiliary for passive, past of werden)"
+       "gloss": "was (auxiliary; 'wurde geboren' = was born)"
       },
       {
        "surface": "auch",
@@ -1666,7 +1609,7 @@
       {
        "surface": "der",
        "pos": "word",
-       "gloss": "the (fem. dative article)"
+       "gloss": "the (dative feminine article)"
       },
       {
        "surface": "berühmte",
@@ -1681,7 +1624,7 @@
       {
        "surface": "Ludwig",
        "pos": "word",
-       "gloss": "Ludwig (given name)"
+       "gloss": "Ludwig (first name)"
       },
       {
        "surface": "van",
@@ -1704,8 +1647,8 @@
       }
      ],
      "translation": "The famous composer Ludwig van Beethoven was also born in Bonn.",
-     "audioStart": 130.056,
-     "audioEnd": 135.888
+     "audioStart": 125.472,
+     "audioEnd": 131.304
     }
    ]
   },
@@ -1721,8 +1664,8 @@
       }
      ],
      "translation": "Fine dust",
-     "audioStart": 135.888,
-     "audioEnd": 137.808
+     "audioStart": 131.304,
+     "audioEnd": 133.224
     }
    ]
   },
@@ -1744,7 +1687,7 @@
       {
        "surface": "ganz",
        "pos": "word",
-       "gloss": "very/completely"
+       "gloss": "very/quite"
       },
       {
        "surface": "kleine",
@@ -1763,7 +1706,7 @@
       {
        "surface": "die",
        "pos": "word",
-       "gloss": "the (fem./plural article)"
+       "gloss": "the"
       },
       {
        "surface": "durch",
@@ -1773,7 +1716,7 @@
       {
        "surface": "die",
        "pos": "word",
-       "gloss": "the (fem./plural article)"
+       "gloss": "the"
       },
       {
        "surface": "Luft",
@@ -1783,16 +1726,16 @@
       {
        "surface": "fliegen",
        "pos": "word",
-       "gloss": "to fly"
+       "gloss": "fly"
       },
       {
        "surface": ".",
        "pos": "punct"
       }
      ],
-     "translation": "Fine dust consists of very small particles that fly through the air.",
-     "audioStart": 137.808,
-     "audioEnd": 142.92
+     "translation": "Fine dust is made up of very small particles that fly through the air.",
+     "audioStart": 133.224,
+     "audioEnd": 138.336
     },
     {
      "text": "Sie kommen zum Beispiel aus Abgasen von Autos oder Fabriken und Kraft-Werken.",
@@ -1805,12 +1748,12 @@
       {
        "surface": "kommen",
        "pos": "word",
-       "gloss": "to come"
+       "gloss": "come"
       },
       {
        "surface": "zum",
        "pos": "word",
-       "gloss": "to the (zu + dem)"
+       "gloss": "to the (contraction of 'zu dem')"
       },
       {
        "surface": "Beispiel",
@@ -1825,7 +1768,7 @@
       {
        "surface": "Abgasen",
        "pos": "word",
-       "gloss": "exhaust fumes (dative plural of Abgas)"
+       "gloss": "exhaust fumes (dative plural of 'Abgas')"
       },
       {
        "surface": "von",
@@ -1855,16 +1798,16 @@
       {
        "surface": "Kraft-Werken",
        "pos": "word",
-       "gloss": "power plants (dative plural of Kraftwerk)"
+       "gloss": "power plants (dative plural)"
       },
       {
        "surface": ".",
        "pos": "punct"
       }
      ],
-     "translation": "They come, for example, from the exhaust of cars or from factories and power plants.",
-     "audioStart": 142.92,
-     "audioEnd": 149.256
+     "translation": "It comes, for example, from the exhaust of cars or from factories and power plants.",
+     "audioStart": 138.336,
+     "audioEnd": 144.672
     },
     {
      "text": "Wenn ein Mensch zu viel Fein-Staub einatmet, kann er krank werden.",
@@ -1877,7 +1820,7 @@
       {
        "surface": "ein",
        "pos": "word",
-       "gloss": "a/an (masc./neuter indefinite article)"
+       "gloss": "a/an"
       },
       {
        "surface": "Mensch",
@@ -1902,7 +1845,7 @@
       {
        "surface": "einatmet",
        "pos": "word",
-       "gloss": "inhales (einatmen)"
+       "gloss": "breathes in (verb 'einatmen')"
       },
       {
        "surface": ",",
@@ -1911,12 +1854,12 @@
       {
        "surface": "kann",
        "pos": "word",
-       "gloss": "can (können)"
+       "gloss": "can (modal verb 'können')"
       },
       {
        "surface": "er",
        "pos": "word",
-       "gloss": "he/it"
+       "gloss": "he"
       },
       {
        "surface": "krank",
@@ -1926,16 +1869,16 @@
       {
        "surface": "werden",
        "pos": "word",
-       "gloss": "to become"
+       "gloss": "become"
       },
       {
        "surface": ".",
        "pos": "punct"
       }
      ],
-     "translation": "If a person inhales too much fine dust, they can become sick.",
-     "audioStart": 149.256,
-     "audioEnd": 154.704
+     "translation": "If a person breathes in too much fine dust, they can become sick.",
+     "audioStart": 144.672,
+     "audioEnd": 150.12
     }
    ]
   }

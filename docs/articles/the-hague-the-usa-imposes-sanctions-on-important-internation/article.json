@@ -1,0 +1,750 @@
+{
+ "schemaVersion": 1,
+ "id": "the-hague-the-usa-imposes-sanctions-on-important-internation",
+ "language": "de",
+ "title": "Den Haag - Die USA verhängen Strafen gegen wichtiges internationales Gericht",
+ "titleTranslation": "The Hague - The USA imposes sanctions on important international court",
+ "level": "A2",
+ "summary": "The article explains the difference between the International Criminal Court, which prosecutes war crimes and crimes against humanity, and the International Court of Justice, which settles disputes between states under the United Nations.",
+ "sourceUrl": "https://www.nachrichtenleicht.de/usa-strafen-internationaler-straf-gerichtshof-100.html",
+ "createdAt": "2026-08-22T16:37:38+00:00",
+ "audioFile": "audio.mp3",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "Der Internationale Straf-Gerichts-Hof ist ein besonderes Gericht: Er kümmert sich um Kriegs-Verbrechen und Verbrechen gegen die Menschlichkeit.",
+     "tokens": [
+      {
+       "surface": "Der",
+       "pos": "word",
+       "gloss": "the (masc. nominative)"
+      },
+      {
+       "surface": "Internationale",
+       "pos": "word",
+       "gloss": "international"
+      },
+      {
+       "surface": "Straf-Gerichts-Hof",
+       "pos": "word",
+       "gloss": "criminal court"
+      },
+      {
+       "surface": "ist",
+       "pos": "word",
+       "gloss": "is"
+      },
+      {
+       "surface": "ein",
+       "pos": "word",
+       "gloss": "a/an"
+      },
+      {
+       "surface": "besonderes",
+       "pos": "word",
+       "gloss": "special"
+      },
+      {
+       "surface": "Gericht",
+       "pos": "word",
+       "gloss": "court"
+      },
+      {
+       "surface": ":",
+       "pos": "punct"
+      },
+      {
+       "surface": "Er",
+       "pos": "word",
+       "gloss": "he/it"
+      },
+      {
+       "surface": "kümmert",
+       "pos": "word",
+       "gloss": "cares for, deals with (sich kümmern um)"
+      },
+      {
+       "surface": "sich",
+       "pos": "word",
+       "gloss": "reflexive pronoun (itself)"
+      },
+      {
+       "surface": "um",
+       "pos": "word",
+       "gloss": "about, for (with kümmern sich um = deals with)"
+      },
+      {
+       "surface": "Kriegs-Verbrechen",
+       "pos": "word",
+       "gloss": "war crimes"
+      },
+      {
+       "surface": "und",
+       "pos": "word",
+       "gloss": "and"
+      },
+      {
+       "surface": "Verbrechen",
+       "pos": "word",
+       "gloss": "crimes"
+      },
+      {
+       "surface": "gegen",
+       "pos": "word",
+       "gloss": "against"
+      },
+      {
+       "surface": "die",
+       "pos": "word",
+       "gloss": "the (fem./plural)"
+      },
+      {
+       "surface": "Menschlichkeit",
+       "pos": "word",
+       "gloss": "humanity"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The International Criminal Court is a special court: it deals with war crimes and crimes against humanity.",
+     "audioStart": 0.0,
+     "audioEnd": 9.888
+    },
+    {
+     "text": "Der Gerichts-Hof ist nur zuständig, wenn ein Land die Verbrecher nicht selbst vor Gericht stellt.",
+     "tokens": [
+      {
+       "surface": "Der",
+       "pos": "word",
+       "gloss": "the (masc. nominative)"
+      },
+      {
+       "surface": "Gerichts-Hof",
+       "pos": "word",
+       "gloss": "court"
+      },
+      {
+       "surface": "ist",
+       "pos": "word",
+       "gloss": "is"
+      },
+      {
+       "surface": "nur",
+       "pos": "word",
+       "gloss": "only"
+      },
+      {
+       "surface": "zuständig",
+       "pos": "word",
+       "gloss": "responsible, having jurisdiction"
+      },
+      {
+       "surface": ",",
+       "pos": "punct"
+      },
+      {
+       "surface": "wenn",
+       "pos": "word",
+       "gloss": "if, when"
+      },
+      {
+       "surface": "ein",
+       "pos": "word",
+       "gloss": "a/an"
+      },
+      {
+       "surface": "Land",
+       "pos": "word",
+       "gloss": "country"
+      },
+      {
+       "surface": "die",
+       "pos": "word",
+       "gloss": "the (fem./plural)"
+      },
+      {
+       "surface": "Verbrecher",
+       "pos": "word",
+       "gloss": "criminals"
+      },
+      {
+       "surface": "nicht",
+       "pos": "word",
+       "gloss": "not"
+      },
+      {
+       "surface": "selbst",
+       "pos": "word",
+       "gloss": "itself"
+      },
+      {
+       "surface": "vor",
+       "pos": "word",
+       "gloss": "before (vor Gericht stellen = put on trial)"
+      },
+      {
+       "surface": "Gericht",
+       "pos": "word",
+       "gloss": "court"
+      },
+      {
+       "surface": "stellt",
+       "pos": "word",
+       "gloss": "puts, places (stellen)"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The court only has jurisdiction when a country does not put the criminals on trial itself.",
+     "audioStart": 9.888,
+     "audioEnd": 16.776
+    },
+    {
+     "text": "Der Gerichts-Hof ist kein Teil von den Vereinten Nationen.",
+     "tokens": [
+      {
+       "surface": "Der",
+       "pos": "word",
+       "gloss": "the (masc. nominative)"
+      },
+      {
+       "surface": "Gerichts-Hof",
+       "pos": "word",
+       "gloss": "court"
+      },
+      {
+       "surface": "ist",
+       "pos": "word",
+       "gloss": "is"
+      },
+      {
+       "surface": "kein",
+       "pos": "word",
+       "gloss": "no, not a"
+      },
+      {
+       "surface": "Teil",
+       "pos": "word",
+       "gloss": "part"
+      },
+      {
+       "surface": "von",
+       "pos": "word",
+       "gloss": "of, from"
+      },
+      {
+       "surface": "den",
+       "pos": "word",
+       "gloss": "the (dat./acc. plural)"
+      },
+      {
+       "surface": "Vereinten",
+       "pos": "word",
+       "gloss": "united (vereinen = to unite)"
+      },
+      {
+       "surface": "Nationen",
+       "pos": "word",
+       "gloss": "Nations"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The court is not part of the United Nations.",
+     "audioStart": 16.776,
+     "audioEnd": 21.48
+    },
+    {
+     "text": "Das heißt: Länder müssen entscheiden, ob sie den Gerichts-Hof anerkennen.",
+     "tokens": [
+      {
+       "surface": "Das",
+       "pos": "word",
+       "gloss": "that, this"
+      },
+      {
+       "surface": "heißt",
+       "pos": "word",
+       "gloss": "means (heißen)"
+      },
+      {
+       "surface": ":",
+       "pos": "punct"
+      },
+      {
+       "surface": "Länder",
+       "pos": "word",
+       "gloss": "countries"
+      },
+      {
+       "surface": "müssen",
+       "pos": "word",
+       "gloss": "must"
+      },
+      {
+       "surface": "entscheiden",
+       "pos": "word",
+       "gloss": "decide"
+      },
+      {
+       "surface": ",",
+       "pos": "punct"
+      },
+      {
+       "surface": "ob",
+       "pos": "word",
+       "gloss": "whether"
+      },
+      {
+       "surface": "sie",
+       "pos": "word",
+       "gloss": "they/she"
+      },
+      {
+       "surface": "den",
+       "pos": "word",
+       "gloss": "the (dat./acc. plural)"
+      },
+      {
+       "surface": "Gerichts-Hof",
+       "pos": "word",
+       "gloss": "court"
+      },
+      {
+       "surface": "anerkennen",
+       "pos": "word",
+       "gloss": "recognize"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "That means: countries must decide whether they recognize the court.",
+     "audioStart": 21.48,
+     "audioEnd": 27.312
+    },
+    {
+     "text": "Wenn sie ihn anerkennen, müssen sie mit ihm zusammenarbeiten.",
+     "tokens": [
+      {
+       "surface": "Wenn",
+       "pos": "word",
+       "gloss": "if, when"
+      },
+      {
+       "surface": "sie",
+       "pos": "word",
+       "gloss": "they/she"
+      },
+      {
+       "surface": "ihn",
+       "pos": "word",
+       "gloss": "him, it (accusative)"
+      },
+      {
+       "surface": "anerkennen",
+       "pos": "word",
+       "gloss": "recognize"
+      },
+      {
+       "surface": ",",
+       "pos": "punct"
+      },
+      {
+       "surface": "müssen",
+       "pos": "word",
+       "gloss": "must"
+      },
+      {
+       "surface": "sie",
+       "pos": "word",
+       "gloss": "they/she"
+      },
+      {
+       "surface": "mit",
+       "pos": "word",
+       "gloss": "with"
+      },
+      {
+       "surface": "ihm",
+       "pos": "word",
+       "gloss": "him, it (dative)"
+      },
+      {
+       "surface": "zusammenarbeiten",
+       "pos": "word",
+       "gloss": "cooperate, work together"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If they recognize it, they must cooperate with it.",
+     "audioStart": 27.312,
+     "audioEnd": 32.352
+    },
+    {
+     "text": "Das heißt: Sie müssen zum Beispiel Menschen ausliefern, die mit einem internationalen Haft-Befehl gesucht werden.",
+     "tokens": [
+      {
+       "surface": "Das",
+       "pos": "word",
+       "gloss": "that, this"
+      },
+      {
+       "surface": "heißt",
+       "pos": "word",
+       "gloss": "means (heißen)"
+      },
+      {
+       "surface": ":",
+       "pos": "punct"
+      },
+      {
+       "surface": "Sie",
+       "pos": "word",
+       "gloss": "they/she/you (formal)"
+      },
+      {
+       "surface": "müssen",
+       "pos": "word",
+       "gloss": "must"
+      },
+      {
+       "surface": "zum",
+       "pos": "word",
+       "gloss": "to the (zu dem)"
+      },
+      {
+       "surface": "Beispiel",
+       "pos": "word",
+       "gloss": "example"
+      },
+      {
+       "surface": "Menschen",
+       "pos": "word",
+       "gloss": "people"
+      },
+      {
+       "surface": "ausliefern",
+       "pos": "word",
+       "gloss": "extradite, hand over"
+      },
+      {
+       "surface": ",",
+       "pos": "punct"
+      },
+      {
+       "surface": "die",
+       "pos": "word",
+       "gloss": "the (fem./plural)"
+      },
+      {
+       "surface": "mit",
+       "pos": "word",
+       "gloss": "with"
+      },
+      {
+       "surface": "einem",
+       "pos": "word",
+       "gloss": "a, an (dative)"
+      },
+      {
+       "surface": "internationalen",
+       "pos": "word",
+       "gloss": "international"
+      },
+      {
+       "surface": "Haft-Befehl",
+       "pos": "word",
+       "gloss": "arrest warrant"
+      },
+      {
+       "surface": "gesucht",
+       "pos": "word",
+       "gloss": "wanted, sought (suchen)"
+      },
+      {
+       "surface": "werden",
+       "pos": "word",
+       "gloss": "become, passive auxiliary (be)"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "That means: for example, they must extradite people who are wanted under an international arrest warrant.",
+     "audioStart": 32.352,
+     "audioEnd": 40.92
+    },
+    {
+     "text": "Der Internationale Straf-Gerichts-Hof ist in der Stadt Den Haag in den Niederlanden.",
+     "tokens": [
+      {
+       "surface": "Der",
+       "pos": "word",
+       "gloss": "the (masc. nominative)"
+      },
+      {
+       "surface": "Internationale",
+       "pos": "word",
+       "gloss": "international"
+      },
+      {
+       "surface": "Straf-Gerichts-Hof",
+       "pos": "word",
+       "gloss": "criminal court"
+      },
+      {
+       "surface": "ist",
+       "pos": "word",
+       "gloss": "is"
+      },
+      {
+       "surface": "in",
+       "pos": "word",
+       "gloss": "in"
+      },
+      {
+       "surface": "der",
+       "pos": "word",
+       "gloss": "the (dat./gen. feminine)"
+      },
+      {
+       "surface": "Stadt",
+       "pos": "word",
+       "gloss": "city"
+      },
+      {
+       "surface": "Den",
+       "pos": "word",
+       "gloss": "the (part of place name Den Haag = The Hague)"
+      },
+      {
+       "surface": "Haag",
+       "pos": "word",
+       "gloss": "The Hague (place name)"
+      },
+      {
+       "surface": "in",
+       "pos": "word",
+       "gloss": "in"
+      },
+      {
+       "surface": "den",
+       "pos": "word",
+       "gloss": "the (dat./acc. plural)"
+      },
+      {
+       "surface": "Niederlanden",
+       "pos": "word",
+       "gloss": "Netherlands"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The International Criminal Court is in the city of The Hague in the Netherlands.",
+     "audioStart": 40.92,
+     "audioEnd": 47.088
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "In Den Haag gibt es noch ein anderes Gericht mit ganz ähnlichem Namen.",
+     "tokens": [
+      {
+       "surface": "In",
+       "pos": "word",
+       "gloss": "in"
+      },
+      {
+       "surface": "Den",
+       "pos": "word",
+       "gloss": "the (part of place name Den Haag = The Hague)"
+      },
+      {
+       "surface": "Haag",
+       "pos": "word",
+       "gloss": "The Hague (place name)"
+      },
+      {
+       "surface": "gibt",
+       "pos": "word",
+       "gloss": "gives (es gibt = there is)"
+      },
+      {
+       "surface": "es",
+       "pos": "word",
+       "gloss": "it"
+      },
+      {
+       "surface": "noch",
+       "pos": "word",
+       "gloss": "still, yet another"
+      },
+      {
+       "surface": "ein",
+       "pos": "word",
+       "gloss": "a/an"
+      },
+      {
+       "surface": "anderes",
+       "pos": "word",
+       "gloss": "other, another"
+      },
+      {
+       "surface": "Gericht",
+       "pos": "word",
+       "gloss": "court"
+      },
+      {
+       "surface": "mit",
+       "pos": "word",
+       "gloss": "with"
+      },
+      {
+       "surface": "ganz",
+       "pos": "word",
+       "gloss": "quite, very"
+      },
+      {
+       "surface": "ähnlichem",
+       "pos": "word",
+       "gloss": "similar"
+      },
+      {
+       "surface": "Namen",
+       "pos": "word",
+       "gloss": "name"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In The Hague there is another court with a very similar name.",
+     "audioStart": 47.088,
+     "audioEnd": 52.536
+    },
+    {
+     "text": "Das ist der Internationale Gerichts-Hof.",
+     "tokens": [
+      {
+       "surface": "Das",
+       "pos": "word",
+       "gloss": "that, this"
+      },
+      {
+       "surface": "ist",
+       "pos": "word",
+       "gloss": "is"
+      },
+      {
+       "surface": "der",
+       "pos": "word",
+       "gloss": "the (dat./gen. feminine)"
+      },
+      {
+       "surface": "Internationale",
+       "pos": "word",
+       "gloss": "international"
+      },
+      {
+       "surface": "Gerichts-Hof",
+       "pos": "word",
+       "gloss": "court"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "That is the International Court of Justice.",
+     "audioStart": 52.536,
+     "audioEnd": 56.064
+    },
+    {
+     "text": "Er gehört zu den Vereinten Nationen und klärt Streitigkeiten zwischen Ländern.",
+     "tokens": [
+      {
+       "surface": "Er",
+       "pos": "word",
+       "gloss": "he/it"
+      },
+      {
+       "surface": "gehört",
+       "pos": "word",
+       "gloss": "belongs (gehören)"
+      },
+      {
+       "surface": "zu",
+       "pos": "word",
+       "gloss": "to"
+      },
+      {
+       "surface": "den",
+       "pos": "word",
+       "gloss": "the (dat./acc. plural)"
+      },
+      {
+       "surface": "Vereinten",
+       "pos": "word",
+       "gloss": "united (vereinen = to unite)"
+      },
+      {
+       "surface": "Nationen",
+       "pos": "word",
+       "gloss": "Nations"
+      },
+      {
+       "surface": "und",
+       "pos": "word",
+       "gloss": "and"
+      },
+      {
+       "surface": "klärt",
+       "pos": "word",
+       "gloss": "clarifies, settles (klären)"
+      },
+      {
+       "surface": "Streitigkeiten",
+       "pos": "word",
+       "gloss": "disputes"
+      },
+      {
+       "surface": "zwischen",
+       "pos": "word",
+       "gloss": "between"
+      },
+      {
+       "surface": "Ländern",
+       "pos": "word",
+       "gloss": "countries"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It belongs to the United Nations and settles disputes between countries.",
+     "audioStart": 56.064,
+     "audioEnd": 62.16
+    }
+   ]
+  }
+ ]
+}

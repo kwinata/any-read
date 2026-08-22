@@ -1,0 +1,3124 @@
+{
+ "schemaVersion": 1,
+ "id": "nogizaka46-apologizes-for-starting-show-before-audience-memb",
+ "language": "ja",
+ "title": "乃木坂46 落雷の影響で一時避難した観客の入場前に公演開始を謝罪スタッフ間で状況共有されず",
+ "titleTranslation": "Nogizaka46 apologizes for starting show before audience members who evacuated due to lightning had finished re-entering; situation not shared among staff",
+ "level": "N2",
+ "summary": "Idol group Nogizaka46 apologized after starting a Tokyo concert while some fans who had evacuated due to lightning danger had not yet finished re-entering the venue, blaming a lack of communication among staff.",
+ "sourceUrl": "https://news.yahoo.co.jp/articles/e317ec9dd4219bd862f8bfd5c55d77dc4e166451",
+ "createdAt": "2026-08-22T16:32:42+00:00",
+ "audioFile": "audio.mp3",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "アイドルグループ「乃木坂46」は22日、東京・明治神宮野球場で開催した全国ツアー「乃木坂46 真夏の全国ツアー2026」で落雷により一時的に入場を制限した際、入場再開後に周辺施設へ一時避難した一部の観客の入場が終えていない状況で、公演を開始したことを公式サイトで謝罪した。",
+     "tokens": [
+      {
+       "surface": "アイドル",
+       "pos": "noun",
+       "romaji": "aidoru",
+       "gloss": "idol (pop star)"
+      },
+      {
+       "surface": "グループ",
+       "pos": "noun",
+       "romaji": "guruupu",
+       "gloss": "group"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "乃木坂",
+       "pos": "noun",
+       "reading": "のぎざか",
+       "romaji": "nogizaka",
+       "gloss": "Nogizaka (place/group name)"
+      },
+      {
+       "surface": "46",
+       "pos": "noun",
+       "gloss": "forty-six"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "22",
+       "pos": "noun",
+       "gloss": "twenty-two"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day (date counter)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "東京",
+       "pos": "noun",
+       "reading": "とうきょう",
+       "romaji": "toukyou",
+       "gloss": "Tokyo"
+      },
+      {
+       "surface": "・",
+       "pos": "punct"
+      },
+      {
+       "surface": "明治神宮",
+       "pos": "noun",
+       "reading": "めいじじんぐう",
+       "romaji": "meijijinguu",
+       "gloss": "Meiji Jingu (shrine)"
+      },
+      {
+       "surface": "野球場",
+       "pos": "noun",
+       "reading": "やきゅうじょう",
+       "romaji": "yakyuujou",
+       "gloss": "baseball stadium"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker"
+      },
+      {
+       "surface": "開催",
+       "pos": "noun",
+       "reading": "かいさい",
+       "romaji": "kaisai",
+       "gloss": "holding (an event)"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "全国",
+       "pos": "noun",
+       "reading": "ぜんこく",
+       "romaji": "zenkoku",
+       "gloss": "nationwide"
+      },
+      {
+       "surface": "ツアー",
+       "pos": "noun",
+       "romaji": "tsuaa",
+       "gloss": "tour"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "乃木坂",
+       "pos": "noun",
+       "reading": "のぎざか",
+       "romaji": "nogizaka",
+       "gloss": "Nogizaka (place/group name)"
+      },
+      {
+       "surface": "46",
+       "pos": "noun",
+       "gloss": "forty-six"
+      },
+      {
+       "surface": "真夏",
+       "pos": "noun",
+       "reading": "まなつ",
+       "romaji": "manatsu",
+       "gloss": "midsummer"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "全国",
+       "pos": "noun",
+       "reading": "ぜんこく",
+       "romaji": "zenkoku",
+       "gloss": "nationwide"
+      },
+      {
+       "surface": "ツアー",
+       "pos": "noun",
+       "romaji": "tsuaa",
+       "gloss": "tour"
+      },
+      {
+       "surface": "2026",
+       "pos": "noun",
+       "gloss": "twenty twenty-six"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker"
+      },
+      {
+       "surface": "落雷",
+       "pos": "noun",
+       "reading": "らくらい",
+       "romaji": "rakurai",
+       "gloss": "lightning strike"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/cause"
+      },
+      {
+       "surface": "より",
+       "pos": "verb",
+       "romaji": "yori",
+       "lemma": "よる",
+       "gloss": "due to, caused by"
+      },
+      {
+       "surface": "一時的",
+       "pos": "noun",
+       "reading": "いちじてき",
+       "romaji": "ichijiteki",
+       "gloss": "temporary"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula (plain \"is\")"
+      },
+      {
+       "surface": "入場",
+       "pos": "noun",
+       "reading": "にゅうじょう",
+       "romaji": "nyuujou",
+       "gloss": "entry, admission"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "制限",
+       "pos": "noun",
+       "reading": "せいげん",
+       "romaji": "seigen",
+       "gloss": "restriction"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "際",
+       "pos": "noun",
+       "reading": "さい",
+       "romaji": "sai",
+       "gloss": "occasion, time when"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "入場",
+       "pos": "noun",
+       "reading": "にゅうじょう",
+       "romaji": "nyuujou",
+       "gloss": "entry, admission"
+      },
+      {
+       "surface": "再開",
+       "pos": "noun",
+       "reading": "さいかい",
+       "romaji": "saikai",
+       "gloss": "resumption"
+      },
+      {
+       "surface": "後",
+       "pos": "suffix",
+       "reading": "ご",
+       "romaji": "go",
+       "gloss": "after"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/cause"
+      },
+      {
+       "surface": "周辺",
+       "pos": "noun",
+       "reading": "しゅうへん",
+       "romaji": "shuuhen",
+       "gloss": "surrounding, nearby"
+      },
+      {
+       "surface": "施設",
+       "pos": "noun",
+       "reading": "しせつ",
+       "romaji": "shisetsu",
+       "gloss": "facility"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "direction marker \"to\""
+      },
+      {
+       "surface": "一時",
+       "pos": "noun",
+       "reading": "いちじ",
+       "romaji": "ichiji",
+       "gloss": "temporary, momentary"
+      },
+      {
+       "surface": "避難",
+       "pos": "noun",
+       "reading": "ひなん",
+       "romaji": "hinan",
+       "gloss": "evacuation"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "一部",
+       "pos": "noun",
+       "reading": "いちぶ",
+       "romaji": "ichibu",
+       "gloss": "a part, some"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "観客",
+       "pos": "noun",
+       "reading": "かんきゃく",
+       "romaji": "kankyaku",
+       "gloss": "audience, spectators"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "入場",
+       "pos": "noun",
+       "reading": "にゅうじょう",
+       "romaji": "nyuujou",
+       "gloss": "entry, admission"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "終え",
+       "pos": "verb",
+       "reading": "おえ",
+       "romaji": "oe",
+       "lemma": "終える",
+       "gloss": "to finish"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/state auxiliary"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative auxiliary"
+      },
+      {
+       "surface": "状況",
+       "pos": "noun",
+       "reading": "じょうきょう",
+       "romaji": "joukyou",
+       "gloss": "situation"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "公演",
+       "pos": "noun",
+       "reading": "こうえん",
+       "romaji": "kouen",
+       "gloss": "performance"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "開始",
+       "pos": "noun",
+       "reading": "かいし",
+       "romaji": "kaishi",
+       "gloss": "start, beginning"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer \"the fact that\""
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "公式",
+       "pos": "noun",
+       "reading": "こうしき",
+       "romaji": "koushiki",
+       "gloss": "official"
+      },
+      {
+       "surface": "サイト",
+       "pos": "noun",
+       "romaji": "saito",
+       "gloss": "site (website)"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker"
+      },
+      {
+       "surface": "謝罪",
+       "pos": "noun",
+       "reading": "しゃざい",
+       "romaji": "shazai",
+       "gloss": "apology"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On the 22nd, the idol group Nogizaka46 apologized on its official website after starting the performance at its national tour \"Nogizaka46 Midsummer National Tour 2026,\" held at Meiji Jingu Stadium in Tokyo, even though some audience members who had temporarily evacuated to nearby facilities after entry was restricted due to lightning had not yet finished re-entering the venue.",
+     "audioStart": 0.0,
+     "audioEnd": 31.776
+    },
+    {
+     "text": "公式サイトは「本日8月22日(土)の東京公演におきまして、入場時間中に落雷の危険が予想されたため、会場の規定に則り、ご来場中のお客様には周辺施設への一時避難をご案内いたしました」とし「その後、落雷の危険が解消されたと判断し、入場を再開いたしましたが、避難先から会場へ戻られた一部のお客様が入場を終えていない状況で、公演を開始いたしました」と、入場を終える前に公演が始まっていたことを明かした。",
+     "tokens": [
+      {
+       "surface": "公式",
+       "pos": "noun",
+       "reading": "こうしき",
+       "romaji": "koushiki",
+       "gloss": "official"
+      },
+      {
+       "surface": "サイト",
+       "pos": "noun",
+       "romaji": "saito",
+       "gloss": "site (website)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "本日",
+       "pos": "noun",
+       "reading": "ほんじつ",
+       "romaji": "honjitsu",
+       "gloss": "today (formal)"
+      },
+      {
+       "surface": "8",
+       "pos": "noun",
+       "gloss": "eight"
+      },
+      {
+       "surface": "月",
+       "pos": "noun",
+       "reading": "がつ",
+       "romaji": "gatsu",
+       "gloss": "month"
+      },
+      {
+       "surface": "22",
+       "pos": "noun",
+       "gloss": "twenty-two"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day (date counter)"
+      },
+      {
+       "surface": "(",
+       "pos": "punct"
+      },
+      {
+       "surface": "土",
+       "pos": "noun",
+       "reading": "ど",
+       "romaji": "do",
+       "gloss": "Saturday"
+      },
+      {
+       "surface": ")",
+       "pos": "punct"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "東京",
+       "pos": "noun",
+       "reading": "とうきょう",
+       "romaji": "toukyou",
+       "gloss": "Tokyo"
+      },
+      {
+       "surface": "公演",
+       "pos": "noun",
+       "reading": "こうえん",
+       "romaji": "kouen",
+       "gloss": "performance"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/cause"
+      },
+      {
+       "surface": "おき",
+       "pos": "verb",
+       "romaji": "oki",
+       "lemma": "おく",
+       "gloss": "to put/place (from 置く, as in におきまして)"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "入場",
+       "pos": "noun",
+       "reading": "にゅうじょう",
+       "romaji": "nyuujou",
+       "gloss": "entry, admission"
+      },
+      {
+       "surface": "時間",
+       "pos": "noun",
+       "reading": "じかん",
+       "romaji": "jikan",
+       "gloss": "time"
+      },
+      {
+       "surface": "中",
+       "pos": "suffix",
+       "reading": "ちゅう",
+       "romaji": "chuu",
+       "gloss": "during, inside"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/cause"
+      },
+      {
+       "surface": "落雷",
+       "pos": "noun",
+       "reading": "らくらい",
+       "romaji": "rakurai",
+       "gloss": "lightning strike"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "危険",
+       "pos": "noun",
+       "reading": "きけん",
+       "romaji": "kiken",
+       "gloss": "danger"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "予想",
+       "pos": "noun",
+       "reading": "よそう",
+       "romaji": "yosou",
+       "gloss": "prediction, expectation"
+      },
+      {
+       "surface": "さ",
+       "pos": "verb",
+       "romaji": "sa",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive/potential auxiliary"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "ため",
+       "pos": "noun",
+       "romaji": "tame",
+       "gloss": "because of, for the purpose of"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "会場",
+       "pos": "noun",
+       "reading": "かいじょう",
+       "romaji": "kaijou",
+       "gloss": "venue"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "規定",
+       "pos": "noun",
+       "reading": "きてい",
+       "romaji": "kitei",
+       "gloss": "regulations"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/cause"
+      },
+      {
+       "surface": "則り",
+       "pos": "verb",
+       "reading": "のっとり",
+       "romaji": "nottori",
+       "lemma": "則る",
+       "gloss": "to comply with, follow (rules)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ご",
+       "pos": "prefix",
+       "romaji": "go",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "来場",
+       "pos": "noun",
+       "reading": "らいじょう",
+       "romaji": "raijou",
+       "gloss": "attendance, coming to venue"
+      },
+      {
+       "surface": "中",
+       "pos": "suffix",
+       "reading": "ちゅう",
+       "romaji": "chuu",
+       "gloss": "during, inside"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "お客様",
+       "pos": "noun",
+       "reading": "おきゃくさま",
+       "romaji": "okyakusama",
+       "gloss": "customer, guest (honorific)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/cause"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "周辺",
+       "pos": "noun",
+       "reading": "しゅうへん",
+       "romaji": "shuuhen",
+       "gloss": "surrounding, nearby"
+      },
+      {
+       "surface": "施設",
+       "pos": "noun",
+       "reading": "しせつ",
+       "romaji": "shisetsu",
+       "gloss": "facility"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "direction marker \"to\""
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "一時",
+       "pos": "noun",
+       "reading": "いちじ",
+       "romaji": "ichiji",
+       "gloss": "temporary, momentary"
+      },
+      {
+       "surface": "避難",
+       "pos": "noun",
+       "reading": "ひなん",
+       "romaji": "hinan",
+       "gloss": "evacuation"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "ご",
+       "pos": "prefix",
+       "romaji": "go",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "案内",
+       "pos": "noun",
+       "reading": "あんない",
+       "romaji": "annai",
+       "gloss": "guidance, information"
+      },
+      {
+       "surface": "いたし",
+       "pos": "verb",
+       "romaji": "itashi",
+       "lemma": "いたす",
+       "gloss": "humble form of \"to do\""
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that (demonstrative)"
+      },
+      {
+       "surface": "後",
+       "pos": "noun",
+       "reading": "ご",
+       "romaji": "go",
+       "gloss": "after"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "落雷",
+       "pos": "noun",
+       "reading": "らくらい",
+       "romaji": "rakurai",
+       "gloss": "lightning strike"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "危険",
+       "pos": "noun",
+       "reading": "きけん",
+       "romaji": "kiken",
+       "gloss": "danger"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "解消",
+       "pos": "noun",
+       "reading": "かいしょう",
+       "romaji": "kaishou",
+       "gloss": "resolution, elimination"
+      },
+      {
+       "surface": "さ",
+       "pos": "verb",
+       "romaji": "sa",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive/potential auxiliary"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker"
+      },
+      {
+       "surface": "判断",
+       "pos": "noun",
+       "reading": "はんだん",
+       "romaji": "handan",
+       "gloss": "judgment, decision"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "入場",
+       "pos": "noun",
+       "reading": "にゅうじょう",
+       "romaji": "nyuujou",
+       "gloss": "entry, admission"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "再開",
+       "pos": "noun",
+       "reading": "さいかい",
+       "romaji": "saikai",
+       "gloss": "resumption"
+      },
+      {
+       "surface": "いたし",
+       "pos": "verb",
+       "romaji": "itashi",
+       "lemma": "いたす",
+       "gloss": "humble form of \"to do\""
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "避難先",
+       "pos": "noun",
+       "reading": "ひなんさき",
+       "romaji": "hinansaki",
+       "gloss": "evacuation destination"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from"
+      },
+      {
+       "surface": "会場",
+       "pos": "noun",
+       "reading": "かいじょう",
+       "romaji": "kaijou",
+       "gloss": "venue"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "direction marker \"to\""
+      },
+      {
+       "surface": "戻ら",
+       "pos": "verb",
+       "reading": "もどら",
+       "romaji": "modora",
+       "lemma": "戻る",
+       "gloss": "to return"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive/potential auxiliary"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "一部",
+       "pos": "noun",
+       "reading": "いちぶ",
+       "romaji": "ichibu",
+       "gloss": "a part, some"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "お客様",
+       "pos": "noun",
+       "reading": "おきゃくさま",
+       "romaji": "okyakusama",
+       "gloss": "customer, guest (honorific)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "入場",
+       "pos": "noun",
+       "reading": "にゅうじょう",
+       "romaji": "nyuujou",
+       "gloss": "entry, admission"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "終え",
+       "pos": "verb",
+       "reading": "おえ",
+       "romaji": "oe",
+       "lemma": "終える",
+       "gloss": "to finish"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/state auxiliary"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative auxiliary"
+      },
+      {
+       "surface": "状況",
+       "pos": "noun",
+       "reading": "じょうきょう",
+       "romaji": "joukyou",
+       "gloss": "situation"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "公演",
+       "pos": "noun",
+       "reading": "こうえん",
+       "romaji": "kouen",
+       "gloss": "performance"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "開始",
+       "pos": "noun",
+       "reading": "かいし",
+       "romaji": "kaishi",
+       "gloss": "start, beginning"
+      },
+      {
+       "surface": "いたし",
+       "pos": "verb",
+       "romaji": "itashi",
+       "lemma": "いたす",
+       "gloss": "humble form of \"to do\""
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "入場",
+       "pos": "noun",
+       "reading": "にゅうじょう",
+       "romaji": "nyuujou",
+       "gloss": "entry, admission"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "終える",
+       "pos": "verb",
+       "reading": "おえる",
+       "romaji": "oeru",
+       "gloss": "to finish"
+      },
+      {
+       "surface": "前",
+       "pos": "noun",
+       "reading": "まえ",
+       "romaji": "mae",
+       "gloss": "before"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/cause"
+      },
+      {
+       "surface": "公演",
+       "pos": "noun",
+       "reading": "こうえん",
+       "romaji": "kouen",
+       "gloss": "performance"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "始まっ",
+       "pos": "verb",
+       "reading": "はじまっ",
+       "romaji": "hajimatsu",
+       "lemma": "始まる",
+       "gloss": "to begin"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/state auxiliary"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer \"the fact that\""
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "明かし",
+       "pos": "verb",
+       "reading": "あかし",
+       "romaji": "akashi",
+       "lemma": "明かす",
+       "gloss": "to reveal"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The official site explained, \"At today's (Saturday, August 22) Tokyo performance, because danger of lightning was expected during entry, in accordance with venue regulations, we asked visiting guests to temporarily evacuate to nearby facilities,\" and continued, \"After that, judging that the danger of lightning had been resolved, we resumed entry, but the performance began while some guests who had returned to the venue from the evacuation site had not finished entering,\" revealing that the show had started before entry was complete.",
+     "audioStart": 31.776,
+     "audioEnd": 73.008
+    },
+    {
+     "text": "この不手際について「これは、会場へ戻られるお客様の状況が関係スタッフ間で適切に共有されないまま、開演を判断したことによるものです」と説明した。",
+     "tokens": [
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this"
+      },
+      {
+       "surface": "不手際",
+       "pos": "noun",
+       "reading": "ふてぎわ",
+       "romaji": "futegiwa",
+       "gloss": "mishap, blunder"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula (plain \"is\")"
+      },
+      {
+       "surface": "つい",
+       "pos": "verb",
+       "romaji": "tsui",
+       "lemma": "つく",
+       "gloss": "to attach (from 付く, as in について)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore",
+       "gloss": "this (pronoun)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "会場",
+       "pos": "noun",
+       "reading": "かいじょう",
+       "romaji": "kaijou",
+       "gloss": "venue"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "direction marker \"to\""
+      },
+      {
+       "surface": "戻ら",
+       "pos": "verb",
+       "reading": "もどら",
+       "romaji": "modora",
+       "lemma": "戻る",
+       "gloss": "to return"
+      },
+      {
+       "surface": "れる",
+       "pos": "auxiliary",
+       "romaji": "reru",
+       "gloss": "passive/potential auxiliary"
+      },
+      {
+       "surface": "お客様",
+       "pos": "noun",
+       "reading": "おきゃくさま",
+       "romaji": "okyakusama",
+       "gloss": "customer, guest (honorific)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "状況",
+       "pos": "noun",
+       "reading": "じょうきょう",
+       "romaji": "joukyou",
+       "gloss": "situation"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "関係",
+       "pos": "noun",
+       "reading": "かんけい",
+       "romaji": "kankei",
+       "gloss": "related, connection"
+      },
+      {
+       "surface": "スタッフ",
+       "pos": "noun",
+       "romaji": "sutaffu",
+       "gloss": "staff"
+      },
+      {
+       "surface": "間",
+       "pos": "suffix",
+       "reading": "かん",
+       "romaji": "kan",
+       "gloss": "between, among"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker"
+      },
+      {
+       "surface": "適切",
+       "pos": "adjective",
+       "reading": "てきせつ",
+       "romaji": "tekisetsu",
+       "gloss": "appropriate"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula (plain \"is\")"
+      },
+      {
+       "surface": "共有",
+       "pos": "noun",
+       "reading": "きょうゆう",
+       "romaji": "kyouyuu",
+       "gloss": "sharing"
+      },
+      {
+       "surface": "さ",
+       "pos": "verb",
+       "romaji": "sa",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive/potential auxiliary"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative auxiliary"
+      },
+      {
+       "surface": "まま",
+       "pos": "noun",
+       "romaji": "mama",
+       "gloss": "as is, while remaining"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "開演",
+       "pos": "noun",
+       "reading": "かいえん",
+       "romaji": "kaien",
+       "gloss": "start of show"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "判断",
+       "pos": "noun",
+       "reading": "はんだん",
+       "romaji": "handan",
+       "gloss": "judgment, decision"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer \"the fact that\""
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/cause"
+      },
+      {
+       "surface": "よる",
+       "pos": "verb",
+       "romaji": "yoru",
+       "gloss": "due to, caused by"
+      },
+      {
+       "surface": "もの",
+       "pos": "noun",
+       "romaji": "mono",
+       "gloss": "thing (explanatory nominalizer)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (polite)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker"
+      },
+      {
+       "surface": "説明",
+       "pos": "noun",
+       "reading": "せつめい",
+       "romaji": "setsumei",
+       "gloss": "explanation"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Regarding this mishap, they explained, \"This occurred because the decision to start the show was made without the situation of guests returning to the venue being properly shared among the relevant staff.\"",
+     "audioStart": 73.008,
+     "audioEnd": 88.032
+    },
+    {
+     "text": "「本公演を楽しみにご来場いただいた皆様に、多大なるご迷惑をおかけしましたことを、心より深くお詫び申し上げます」と謝罪するとともに「今回の事態を重く受け止め、情報共有と開演判断の手順を見直し、再発防止を徹底してまいります」とした。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "本",
+       "pos": "prefix",
+       "reading": "ほん",
+       "romaji": "hon",
+       "gloss": "this, the present (prefix)"
+      },
+      {
+       "surface": "公演",
+       "pos": "noun",
+       "reading": "こうえん",
+       "romaji": "kouen",
+       "gloss": "performance"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "楽しみ",
+       "pos": "noun",
+       "reading": "たのしみ",
+       "romaji": "tanoshimi",
+       "gloss": "looking forward to, enjoyment"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/cause"
+      },
+      {
+       "surface": "ご",
+       "pos": "prefix",
+       "romaji": "go",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "来場",
+       "pos": "noun",
+       "reading": "らいじょう",
+       "romaji": "raijou",
+       "gloss": "attendance, coming to venue"
+      },
+      {
+       "surface": "いただい",
+       "pos": "verb",
+       "romaji": "itadai",
+       "lemma": "いただく",
+       "gloss": "humble \"to receive\" (used for polite requests)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "皆",
+       "pos": "noun",
+       "reading": "みな",
+       "romaji": "mina",
+       "gloss": "all, everyone"
+      },
+      {
+       "surface": "様",
+       "pos": "suffix",
+       "reading": "さま",
+       "romaji": "sama",
+       "gloss": "honorific suffix \"Mr./Ms.\""
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/cause"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "多大",
+       "pos": "adjective",
+       "reading": "ただい",
+       "romaji": "tadai",
+       "gloss": "great, immense"
+      },
+      {
+       "surface": "なる",
+       "pos": "auxiliary",
+       "romaji": "naru",
+       "lemma": "なり",
+       "gloss": "classical copula, attributive form (as in 多大なる)"
+      },
+      {
+       "surface": "ご",
+       "pos": "prefix",
+       "romaji": "go",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "迷惑",
+       "pos": "noun",
+       "reading": "めいわく",
+       "romaji": "meiwaku",
+       "gloss": "trouble, inconvenience"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "かけ",
+       "pos": "verb",
+       "romaji": "kake",
+       "lemma": "かける",
+       "gloss": "to cause (trouble), to place"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer \"the fact that\""
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "心",
+       "pos": "noun",
+       "reading": "こころ",
+       "romaji": "kokoro",
+       "gloss": "heart"
+      },
+      {
+       "surface": "より",
+       "pos": "particle",
+       "romaji": "yori",
+       "gloss": "from, than (here: from the heart)"
+      },
+      {
+       "surface": "深く",
+       "pos": "adjective",
+       "reading": "ふかく",
+       "romaji": "fukaku",
+       "lemma": "深い",
+       "gloss": "deep"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "詫び",
+       "pos": "verb",
+       "reading": "わび",
+       "romaji": "wabi",
+       "lemma": "詫びる",
+       "gloss": "to apologize"
+      },
+      {
+       "surface": "申し上げ",
+       "pos": "verb",
+       "reading": "もうしあげ",
+       "romaji": "moushiage",
+       "lemma": "申し上げる",
+       "gloss": "humble \"to say\""
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker"
+      },
+      {
+       "surface": "謝罪",
+       "pos": "noun",
+       "reading": "しゃざい",
+       "romaji": "shazai",
+       "gloss": "apology"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker"
+      },
+      {
+       "surface": "とも",
+       "pos": "noun",
+       "romaji": "tomo",
+       "gloss": "together with (from とともに)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/cause"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "今回",
+       "pos": "noun",
+       "reading": "こんかい",
+       "romaji": "konkai",
+       "gloss": "this time"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "事態",
+       "pos": "noun",
+       "reading": "じたい",
+       "romaji": "jitai",
+       "gloss": "situation, incident"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "重く",
+       "pos": "adjective",
+       "reading": "おもく",
+       "romaji": "omoku",
+       "lemma": "重い",
+       "gloss": "heavy, serious"
+      },
+      {
+       "surface": "受け止め",
+       "pos": "verb",
+       "reading": "うけとめ",
+       "romaji": "uketome",
+       "lemma": "受け止める",
+       "gloss": "to take in, accept, come to terms with"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "情報共有",
+       "pos": "noun",
+       "reading": "じょうほうきょうゆう",
+       "romaji": "jouhoukyouyuu",
+       "gloss": "information sharing"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker"
+      },
+      {
+       "surface": "開演",
+       "pos": "noun",
+       "reading": "かいえん",
+       "romaji": "kaien",
+       "gloss": "start of show"
+      },
+      {
+       "surface": "判断",
+       "pos": "noun",
+       "reading": "はんだん",
+       "romaji": "handan",
+       "gloss": "judgment, decision"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "手順",
+       "pos": "noun",
+       "reading": "てじゅん",
+       "romaji": "tejun",
+       "gloss": "procedure"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "見直し",
+       "pos": "verb",
+       "reading": "みなおし",
+       "romaji": "minaoshi",
+       "lemma": "見直す",
+       "gloss": "to review, reconsider"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "再発防止",
+       "pos": "noun",
+       "reading": "さいはつぼうし",
+       "romaji": "saihatsuboushi",
+       "gloss": "prevention of recurrence"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "徹底",
+       "pos": "noun",
+       "reading": "てってい",
+       "romaji": "tettei",
+       "gloss": "thoroughness"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "まいり",
+       "pos": "verb",
+       "romaji": "mairi",
+       "lemma": "まいる",
+       "gloss": "humble form of \"to go/come\""
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "\"We offer our deepest apologies from the bottom of our hearts for the great inconvenience caused to everyone who came looking forward to this performance,\" they apologized, adding, \"We take this incident seriously and will review our procedures for information sharing and decisions on starting the show, and thoroughly work to prevent a recurrence.\"",
+     "audioStart": 88.032,
+     "audioEnd": 111.384
+    },
+    {
+     "text": "また「なお、荒天のためご来場を取りやめられた方のうち、未使用のチケットをお持ちの場合には、チケット代金を払い戻しいたします」とし「払い戻し方法などの詳細は、決まり次第、公式サイトでご案内いたします。",
+     "tokens": [
+      {
+       "surface": "また",
+       "pos": "conjunction",
+       "romaji": "mata",
+       "gloss": "also, additionally"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "なお",
+       "pos": "conjunction",
+       "romaji": "nao",
+       "gloss": "furthermore, additionally"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "荒天",
+       "pos": "noun",
+       "reading": "こうてん",
+       "romaji": "kouten",
+       "gloss": "stormy weather"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "ため",
+       "pos": "noun",
+       "romaji": "tame",
+       "gloss": "because of, for the purpose of"
+      },
+      {
+       "surface": "ご",
+       "pos": "prefix",
+       "romaji": "go",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "来場",
+       "pos": "noun",
+       "reading": "らいじょう",
+       "romaji": "raijou",
+       "gloss": "attendance, coming to venue"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "取りやめ",
+       "pos": "verb",
+       "reading": "とりやめ",
+       "romaji": "toriyame",
+       "lemma": "取りやめる",
+       "gloss": "to cancel"
+      },
+      {
+       "surface": "られ",
+       "pos": "auxiliary",
+       "romaji": "rare",
+       "lemma": "られる",
+       "gloss": "passive/honorific auxiliary"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "方",
+       "pos": "noun",
+       "reading": "ほう",
+       "romaji": "hou",
+       "gloss": "person (polite)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "うち",
+       "pos": "noun",
+       "romaji": "uchi",
+       "gloss": "among, within"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "未使用",
+       "pos": "noun",
+       "reading": "みしよう",
+       "romaji": "mishiyou",
+       "gloss": "unused"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "チケット",
+       "pos": "noun",
+       "romaji": "chiketto",
+       "gloss": "ticket"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "持ち",
+       "pos": "verb",
+       "reading": "もち",
+       "romaji": "mochi",
+       "lemma": "持つ",
+       "gloss": "to hold, have"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "場合",
+       "pos": "noun",
+       "reading": "ばあい",
+       "romaji": "baai",
+       "gloss": "case, situation"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/cause"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "チケット",
+       "pos": "noun",
+       "romaji": "chiketto",
+       "gloss": "ticket"
+      },
+      {
+       "surface": "代金",
+       "pos": "noun",
+       "reading": "だいきん",
+       "romaji": "daikin",
+       "gloss": "fee, price"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "払い戻し",
+       "pos": "verb",
+       "reading": "はらいもどし",
+       "romaji": "haraimodoshi",
+       "lemma": "払い戻す",
+       "gloss": "to refund"
+      },
+      {
+       "surface": "いたし",
+       "pos": "verb",
+       "romaji": "itashi",
+       "lemma": "いたす",
+       "gloss": "humble form of \"to do\""
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "払い戻し方法",
+       "pos": "noun",
+       "reading": "はらいもどしほうほう",
+       "romaji": "haraimodoshihouhou",
+       "gloss": "refund method"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "詳細",
+       "pos": "noun",
+       "reading": "しょうさい",
+       "romaji": "shousai",
+       "gloss": "details"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "決まり",
+       "pos": "verb",
+       "reading": "きまり",
+       "romaji": "kimari",
+       "lemma": "決まる",
+       "gloss": "to be decided"
+      },
+      {
+       "surface": "次第",
+       "pos": "noun",
+       "reading": "しだい",
+       "romaji": "shidai",
+       "gloss": "as soon as, depending on"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "公式",
+       "pos": "noun",
+       "reading": "こうしき",
+       "romaji": "koushiki",
+       "gloss": "official"
+      },
+      {
+       "surface": "サイト",
+       "pos": "noun",
+       "romaji": "saito",
+       "gloss": "site (website)"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker"
+      },
+      {
+       "surface": "ご",
+       "pos": "prefix",
+       "romaji": "go",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "案内",
+       "pos": "noun",
+       "reading": "あんない",
+       "romaji": "annai",
+       "gloss": "guidance, information"
+      },
+      {
+       "surface": "いたし",
+       "pos": "verb",
+       "romaji": "itashi",
+       "lemma": "いたす",
+       "gloss": "humble form of \"to do\""
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They also stated, \"For those who canceled their attendance due to the severe weather, if you hold an unused ticket, we will refund the ticket price,\" and \"Details such as the refund method will be announced on the official site once decided.\"",
+     "audioStart": 111.384,
+     "audioEnd": 131.232
+    },
+    {
+     "text": "ご入場済みのチケットは、原則として払い戻しの対象外となりますので、あらかじめご了承ください」と伝えた。",
+     "tokens": [
+      {
+       "surface": "ご",
+       "pos": "prefix",
+       "romaji": "go",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "入場",
+       "pos": "noun",
+       "reading": "にゅうじょう",
+       "romaji": "nyuujou",
+       "gloss": "entry, admission"
+      },
+      {
+       "surface": "済み",
+       "pos": "suffix",
+       "reading": "ずみ",
+       "romaji": "zumi",
+       "gloss": "completed, done"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "チケット",
+       "pos": "noun",
+       "romaji": "chiketto",
+       "gloss": "ticket"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "原則",
+       "pos": "noun",
+       "reading": "げんそく",
+       "romaji": "gensoku",
+       "gloss": "principle, rule"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "払い戻し",
+       "pos": "noun",
+       "reading": "はらいもどし",
+       "romaji": "haraimodoshi",
+       "gloss": "refund"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "対象外",
+       "pos": "noun",
+       "reading": "たいしょうがい",
+       "romaji": "taishougai",
+       "gloss": "not applicable, excluded"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula (plain \"is\")"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "あらかじめ",
+       "pos": "adverb",
+       "romaji": "arakajime",
+       "gloss": "in advance"
+      },
+      {
+       "surface": "ご",
+       "pos": "prefix",
+       "romaji": "go",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "了承",
+       "pos": "noun",
+       "reading": "りょうしょう",
+       "romaji": "ryoushou",
+       "gloss": "understanding, consent"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる",
+       "gloss": "honorific \"to give\" (please do for me)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker"
+      },
+      {
+       "surface": "伝え",
+       "pos": "verb",
+       "reading": "つたえ",
+       "romaji": "tsutae",
+       "lemma": "伝える",
+       "gloss": "to convey, tell"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "\"Tickets that have already been used for entry are, in principle, not eligible for refunds, so please understand in advance,\" they added.",
+     "audioStart": 131.232,
+     "audioEnd": 141.672
+    },
+    {
+     "text": "この日、東京都は午後5時過ぎに北区、板橋区で約100ミリの猛烈な雨が降るなど、災害発生の危険度が急激に高まった。",
+     "tokens": [
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "ひ",
+       "romaji": "hi",
+       "gloss": "day (date counter)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "東京都",
+       "pos": "noun",
+       "reading": "とうきょうと",
+       "romaji": "toukyouto",
+       "gloss": "Tokyo Metropolis"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "午後",
+       "pos": "noun",
+       "reading": "ごご",
+       "romaji": "gogo",
+       "gloss": "afternoon, PM"
+      },
+      {
+       "surface": "5",
+       "pos": "noun",
+       "gloss": "five"
+      },
+      {
+       "surface": "時",
+       "pos": "noun",
+       "reading": "じ",
+       "romaji": "ji",
+       "gloss": "o'clock, hour"
+      },
+      {
+       "surface": "過ぎ",
+       "pos": "suffix",
+       "reading": "すぎ",
+       "romaji": "sugi",
+       "gloss": "past, after (time)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/cause"
+      },
+      {
+       "surface": "北区",
+       "pos": "noun",
+       "reading": "きたく",
+       "romaji": "kitaku",
+       "gloss": "Kita ward"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "板橋区",
+       "pos": "noun",
+       "reading": "いたばしく",
+       "romaji": "itabashiku",
+       "gloss": "Itabashi ward"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker"
+      },
+      {
+       "surface": "約",
+       "pos": "prefix",
+       "reading": "やく",
+       "romaji": "yaku",
+       "gloss": "approximately"
+      },
+      {
+       "surface": "100",
+       "pos": "noun",
+       "gloss": "one hundred"
+      },
+      {
+       "surface": "ミリ",
+       "pos": "noun",
+       "romaji": "miri",
+       "gloss": "millimeter"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "猛烈",
+       "pos": "adjective",
+       "reading": "もうれつ",
+       "romaji": "mouretsu",
+       "gloss": "fierce, intense"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula (plain \"is\")"
+      },
+      {
+       "surface": "雨",
+       "pos": "noun",
+       "reading": "あめ",
+       "romaji": "ame",
+       "gloss": "rain"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "降る",
+       "pos": "verb",
+       "reading": "ふる",
+       "romaji": "furu",
+       "gloss": "to fall (rain)"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "災害",
+       "pos": "noun",
+       "reading": "さいがい",
+       "romaji": "saigai",
+       "gloss": "disaster"
+      },
+      {
+       "surface": "発生",
+       "pos": "noun",
+       "reading": "はっせい",
+       "romaji": "hassei",
+       "gloss": "occurrence"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "危険度",
+       "pos": "noun",
+       "reading": "きけんど",
+       "romaji": "kikendo",
+       "gloss": "degree of danger"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "急激",
+       "pos": "adjective",
+       "reading": "きゅうげき",
+       "romaji": "kyuugeki",
+       "gloss": "rapid, sudden"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula (plain \"is\")"
+      },
+      {
+       "surface": "高まっ",
+       "pos": "verb",
+       "reading": "たかまっ",
+       "romaji": "takamatsu",
+       "lemma": "高まる",
+       "gloss": "to rise, increase"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "That day in Tokyo, torrential rain of about 100mm fell in Kita and Itabashi wards just after 5pm, sharply raising the risk of disaster.",
+     "audioStart": 141.672,
+     "audioEnd": 154.128
+    },
+    {
+     "text": "開演前には落雷の影響により「一時的にご入場を制限しております」とし、開演時間を午後6時から午後6時30分に変更していた。",
+     "tokens": [
+      {
+       "surface": "開演",
+       "pos": "noun",
+       "reading": "かいえん",
+       "romaji": "kaien",
+       "gloss": "start of show"
+      },
+      {
+       "surface": "前",
+       "pos": "noun",
+       "reading": "まえ",
+       "romaji": "mae",
+       "gloss": "before"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/cause"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "落雷",
+       "pos": "noun",
+       "reading": "らくらい",
+       "romaji": "rakurai",
+       "gloss": "lightning strike"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "影響",
+       "pos": "noun",
+       "reading": "えいきょう",
+       "romaji": "eikyou",
+       "gloss": "influence, effect"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/cause"
+      },
+      {
+       "surface": "より",
+       "pos": "verb",
+       "romaji": "yori",
+       "lemma": "よる",
+       "gloss": "due to, caused by"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "一時的",
+       "pos": "noun",
+       "reading": "いちじてき",
+       "romaji": "ichijiteki",
+       "gloss": "temporary"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula (plain \"is\")"
+      },
+      {
+       "surface": "ご",
+       "pos": "prefix",
+       "romaji": "go",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "入場",
+       "pos": "noun",
+       "reading": "にゅうじょう",
+       "romaji": "nyuujou",
+       "gloss": "entry, admission"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "制限",
+       "pos": "noun",
+       "reading": "せいげん",
+       "romaji": "seigen",
+       "gloss": "restriction"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "おり",
+       "pos": "verb",
+       "romaji": "ori",
+       "lemma": "おる",
+       "gloss": "humble/plain form of いる \"to be\""
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "開演",
+       "pos": "noun",
+       "reading": "かいえん",
+       "romaji": "kaien",
+       "gloss": "start of show"
+      },
+      {
+       "surface": "時間",
+       "pos": "noun",
+       "reading": "じかん",
+       "romaji": "jikan",
+       "gloss": "time"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "午後",
+       "pos": "noun",
+       "reading": "ごご",
+       "romaji": "gogo",
+       "gloss": "afternoon, PM"
+      },
+      {
+       "surface": "6",
+       "pos": "noun",
+       "gloss": "six"
+      },
+      {
+       "surface": "時",
+       "pos": "noun",
+       "reading": "じ",
+       "romaji": "ji",
+       "gloss": "o'clock, hour"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from"
+      },
+      {
+       "surface": "午後",
+       "pos": "noun",
+       "reading": "ごご",
+       "romaji": "gogo",
+       "gloss": "afternoon, PM"
+      },
+      {
+       "surface": "6",
+       "pos": "noun",
+       "gloss": "six"
+      },
+      {
+       "surface": "時",
+       "pos": "noun",
+       "reading": "じ",
+       "romaji": "ji",
+       "gloss": "o'clock, hour"
+      },
+      {
+       "surface": "30",
+       "pos": "noun",
+       "gloss": "thirty"
+      },
+      {
+       "surface": "分",
+       "pos": "noun",
+       "reading": "ふん",
+       "romaji": "fun",
+       "gloss": "minutes"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/cause"
+      },
+      {
+       "surface": "変更",
+       "pos": "noun",
+       "reading": "へんこう",
+       "romaji": "henkou",
+       "gloss": "change"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/state auxiliary"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Before the show, due to the lightning, they had announced that \"entry is being temporarily restricted\" and had changed the start time from 6:00pm to 6:30pm.",
+     "audioStart": 154.128,
+     "audioEnd": 167.376
+    }
+   ]
+  }
+ ]
+}

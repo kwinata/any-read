@@ -1,0 +1,3525 @@
+{
+ "schemaVersion": 1,
+ "id": "takaichi-diplomacy-criticized-as-weak-kneed-over-icc-russia-",
+ "language": "ja",
+ "title": "高市外交に「弱腰」批判 ICC、ロシア対応巡り",
+ "titleTranslation": "Takaichi diplomacy criticized as 'weak-kneed' over ICC, Russia response",
+ "level": "N1",
+ "summary": "The Takaichi administration is facing domestic criticism for its timid response to U.S. sanctions on ICC President Akane Tomoko and to Putin's visit to the Northern Territories, largely out of concern for relations with the U.S. and Japan's energy supply from Russia.",
+ "sourceUrl": "https://news.yahoo.co.jp/articles/572bea342a52f316b11a29233e8945a47eee75a4",
+ "createdAt": "2026-08-22T16:33:36+00:00",
+ "audioFile": "audio.mp3",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "米国による国際刑事裁判所の赤根智子所長への制裁や、プーチン・ロシア大統領の北方領土訪問を巡り、政権の対応は「弱腰」だとの批判が出ている。",
+     "tokens": [
+      {
+       "surface": "米国",
+       "pos": "noun",
+       "reading": "べいこく",
+       "romaji": "beikoku",
+       "gloss": "the United States"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/time/location"
+      },
+      {
+       "surface": "よる",
+       "pos": "verb",
+       "romaji": "yoru",
+       "gloss": "due to, caused by (による)"
+      },
+      {
+       "surface": "国際刑事裁判所",
+       "pos": "noun",
+       "reading": "こくさいけいじさいばんしょ",
+       "romaji": "kokusaikeijisaibansho",
+       "gloss": "International Criminal Court"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "赤根",
+       "pos": "noun",
+       "reading": "あかね",
+       "romaji": "akane",
+       "gloss": "Akane (surname)"
+      },
+      {
+       "surface": "智子",
+       "pos": "noun",
+       "reading": "ともこ",
+       "romaji": "tomoko",
+       "gloss": "Tomoko (given name)"
+      },
+      {
+       "surface": "所長",
+       "pos": "noun",
+       "reading": "しょちょう",
+       "romaji": "shochou",
+       "gloss": "director, head (of an institution)"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "particle: direction 'to/toward'"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "制裁",
+       "pos": "noun",
+       "reading": "せいさい",
+       "romaji": "seisai",
+       "gloss": "sanctions"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and/or (non-exhaustive listing)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "プーチン",
+       "pos": "noun",
+       "romaji": "puuchin",
+       "gloss": "Putin"
+      },
+      {
+       "surface": "・",
+       "pos": "punct"
+      },
+      {
+       "surface": "ロシア",
+       "pos": "noun",
+       "romaji": "roshia",
+       "gloss": "Russia"
+      },
+      {
+       "surface": "大統領",
+       "pos": "noun",
+       "reading": "だいとうりょう",
+       "romaji": "daitouryou",
+       "gloss": "president (of a country)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "北方領土",
+       "pos": "noun",
+       "reading": "ほっぽうりょうど",
+       "romaji": "hoppouryoudo",
+       "gloss": "the Northern Territories"
+      },
+      {
+       "surface": "訪問",
+       "pos": "noun",
+       "reading": "ほうもん",
+       "romaji": "houmon",
+       "gloss": "visit"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object particle"
+      },
+      {
+       "surface": "巡り",
+       "pos": "verb",
+       "reading": "めぐり",
+       "romaji": "meguri",
+       "lemma": "巡る",
+       "gloss": "to concern, revolve around"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "政権",
+       "pos": "noun",
+       "reading": "せいけん",
+       "romaji": "seiken",
+       "gloss": "administration, government in power"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "対応",
+       "pos": "noun",
+       "reading": "たいおう",
+       "romaji": "taiou",
+       "gloss": "response, handling"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "弱腰",
+       "pos": "noun",
+       "reading": "よわごし",
+       "romaji": "yowagoshi",
+       "gloss": "weak-kneed, spineless attitude"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "copula 'is'"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle 'that'"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "批判",
+       "pos": "noun",
+       "reading": "ひはん",
+       "romaji": "hihan",
+       "gloss": "criticism"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "出",
+       "pos": "verb",
+       "reading": "で",
+       "romaji": "de",
+       "lemma": "出る",
+       "gloss": "to emerge, come out"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Criticism has emerged that the administration's response is 'weak-kneed' regarding U.S. sanctions on ICC President Akane Tomoko and Russian President Putin's visit to the Northern Territories.",
+     "audioStart": 0.0,
+     "audioEnd": 15.984
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ICC問題では唯一の同盟国に気兼ねして非難や抗議をせず、高市早苗首相が「残念」と言及しただけ。",
+     "tokens": [
+      {
+       "surface": "ICC",
+       "pos": "noun",
+       "gloss": "International Criminal Court"
+      },
+      {
+       "surface": "問題",
+       "pos": "noun",
+       "reading": "もんだい",
+       "romaji": "mondai",
+       "gloss": "issue, problem"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/in"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "唯一",
+       "pos": "noun",
+       "reading": "ゆいいつ",
+       "romaji": "yuiitsu",
+       "gloss": "only, sole"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "同盟国",
+       "pos": "noun",
+       "reading": "どうめいこく",
+       "romaji": "doumeikoku",
+       "gloss": "ally (allied nation)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/time/location"
+      },
+      {
+       "surface": "気兼ね",
+       "pos": "noun",
+       "reading": "きがね",
+       "romaji": "kigane",
+       "gloss": "reserve, hesitation out of consideration for others"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "非難",
+       "pos": "noun",
+       "reading": "ひなん",
+       "romaji": "hinan",
+       "gloss": "condemnation, criticism"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and/or (non-exhaustive listing)"
+      },
+      {
+       "surface": "抗議",
+       "pos": "noun",
+       "reading": "こうぎ",
+       "romaji": "kougi",
+       "gloss": "protest"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object particle"
+      },
+      {
+       "surface": "せ",
+       "pos": "verb",
+       "romaji": "se",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "ず",
+       "pos": "auxiliary",
+       "romaji": "zu",
+       "gloss": "negative auxiliary 'without doing'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "高市",
+       "pos": "noun",
+       "reading": "たかいち",
+       "romaji": "takaichi",
+       "gloss": "Takaichi (surname)"
+      },
+      {
+       "surface": "早苗",
+       "pos": "noun",
+       "reading": "さなえ",
+       "romaji": "sanae",
+       "gloss": "Sanae (given name)"
+      },
+      {
+       "surface": "首相",
+       "pos": "noun",
+       "reading": "しゅしょう",
+       "romaji": "shushou",
+       "gloss": "prime minister"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "残念",
+       "pos": "adjective",
+       "reading": "ざんねん",
+       "romaji": "zannen",
+       "gloss": "regrettable, unfortunate"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle 'that'"
+      },
+      {
+       "surface": "言及",
+       "pos": "noun",
+       "reading": "げんきゅう",
+       "romaji": "genkyuu",
+       "gloss": "mention, reference"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "だけ",
+       "pos": "particle",
+       "romaji": "dake",
+       "gloss": "only, just"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On the ICC issue, out of deference to its sole ally, Japan has not criticized or protested, with Prime Minister Takaichi Sanae only calling it 'regrettable.'",
+     "audioStart": 15.984,
+     "audioEnd": 27.192
+    },
+    {
+     "text": "対ロ外交でもエネルギー供給への影響を懸念して、対抗措置を打ち出せずにいるためだ。",
+     "tokens": [
+      {
+       "surface": "対",
+       "pos": "noun",
+       "reading": "たい",
+       "romaji": "tai",
+       "gloss": "versus, toward"
+      },
+      {
+       "surface": "ロ",
+       "pos": "noun",
+       "romaji": "ro",
+       "gloss": "Russia (abbreviation)"
+      },
+      {
+       "surface": "外交",
+       "pos": "noun",
+       "reading": "がいこう",
+       "romaji": "gaikou",
+       "gloss": "diplomacy"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/in"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "エネルギー",
+       "pos": "noun",
+       "romaji": "enerugii",
+       "gloss": "energy"
+      },
+      {
+       "surface": "供給",
+       "pos": "noun",
+       "reading": "きょうきゅう",
+       "romaji": "kyoukyuu",
+       "gloss": "supply"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "particle: direction 'to/toward'"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "影響",
+       "pos": "noun",
+       "reading": "えいきょう",
+       "romaji": "eikyou",
+       "gloss": "influence, impact"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object particle"
+      },
+      {
+       "surface": "懸念",
+       "pos": "noun",
+       "reading": "けねん",
+       "romaji": "kenen",
+       "gloss": "concern, worry"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "対抗",
+       "pos": "noun",
+       "reading": "たいこう",
+       "romaji": "taikou",
+       "gloss": "opposition, countering"
+      },
+      {
+       "surface": "措置",
+       "pos": "noun",
+       "reading": "そち",
+       "romaji": "sochi",
+       "gloss": "measure, step"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object particle"
+      },
+      {
+       "surface": "打ち出せ",
+       "pos": "verb",
+       "reading": "うちだせ",
+       "romaji": "uchidase",
+       "lemma": "打ち出せる",
+       "gloss": "to be able to put forward/announce (potential of 打ち出す)"
+      },
+      {
+       "surface": "ず",
+       "pos": "auxiliary",
+       "romaji": "zu",
+       "gloss": "negative auxiliary 'without doing'"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/time/location"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "ため",
+       "pos": "noun",
+       "romaji": "tame",
+       "gloss": "because of, for the sake of"
+      },
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "copula 'is'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "This is because, in its diplomacy toward Russia as well, concern over the impact on energy supply has kept the government from announcing countermeasures.",
+     "audioStart": 27.192,
+     "audioEnd": 35.4
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "自民党本部で21日開かれた外交部会などの合同会議。",
+     "tokens": [
+      {
+       "surface": "自民党",
+       "pos": "noun",
+       "reading": "じみんとう",
+       "romaji": "jimintou",
+       "gloss": "Liberal Democratic Party"
+      },
+      {
+       "surface": "本部",
+       "pos": "noun",
+       "reading": "ほんぶ",
+       "romaji": "honbu",
+       "gloss": "headquarters"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/in"
+      },
+      {
+       "surface": "21",
+       "pos": "noun",
+       "gloss": "21 (day of the month)"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "開か",
+       "pos": "verb",
+       "reading": "ひらか",
+       "romaji": "hiraka",
+       "lemma": "開く",
+       "gloss": "to hold (a meeting), to open"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "外交",
+       "pos": "noun",
+       "reading": "がいこう",
+       "romaji": "gaikou",
+       "gloss": "diplomacy"
+      },
+      {
+       "surface": "部会",
+       "pos": "noun",
+       "reading": "ぶかい",
+       "romaji": "bukai",
+       "gloss": "subcommittee, division"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "合同",
+       "pos": "noun",
+       "reading": "ごうどう",
+       "romaji": "goudou",
+       "gloss": "joint, combined"
+      },
+      {
+       "surface": "会議",
+       "pos": "noun",
+       "reading": "かいぎ",
+       "romaji": "kaigi",
+       "gloss": "meeting, conference"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "A joint meeting of the diplomacy division and other panels was held at LDP headquarters on the 21st.",
+     "audioStart": 35.4,
+     "audioEnd": 42.048
+    },
+    {
+     "text": "出席者からは「米国に制裁撤回を求めるべきだ」「赤根氏を守らないといけない」と政府への不満が続出した。",
+     "tokens": [
+      {
+       "surface": "出席者",
+       "pos": "noun",
+       "reading": "しゅっせきしゃ",
+       "romaji": "shussekisha",
+       "gloss": "attendee"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "米国",
+       "pos": "noun",
+       "reading": "べいこく",
+       "romaji": "beikoku",
+       "gloss": "the United States"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/time/location"
+      },
+      {
+       "surface": "制裁",
+       "pos": "noun",
+       "reading": "せいさい",
+       "romaji": "seisai",
+       "gloss": "sanctions"
+      },
+      {
+       "surface": "撤回",
+       "pos": "noun",
+       "reading": "てっかい",
+       "romaji": "tekkai",
+       "gloss": "withdrawal, retraction"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object particle"
+      },
+      {
+       "surface": "求める",
+       "pos": "verb",
+       "reading": "もとめる",
+       "romaji": "motomeru",
+       "gloss": "to demand, request"
+      },
+      {
+       "surface": "べき",
+       "pos": "auxiliary",
+       "romaji": "beki",
+       "lemma": "べし",
+       "gloss": "should, ought to"
+      },
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "copula 'is'"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "赤根",
+       "pos": "noun",
+       "reading": "あかね",
+       "romaji": "akane",
+       "gloss": "Akane (surname)"
+      },
+      {
+       "surface": "氏",
+       "pos": "suffix",
+       "reading": "し",
+       "romaji": "shi",
+       "gloss": "Mr./Ms. (honorific suffix)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object particle"
+      },
+      {
+       "surface": "守ら",
+       "pos": "verb",
+       "reading": "まもら",
+       "romaji": "mamora",
+       "lemma": "守る",
+       "gloss": "to protect"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative auxiliary"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle 'that'"
+      },
+      {
+       "surface": "いけ",
+       "pos": "verb",
+       "romaji": "ike",
+       "lemma": "いける",
+       "gloss": "must, have to (from いけない 'must not')"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative auxiliary"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle 'that'"
+      },
+      {
+       "surface": "政府",
+       "pos": "noun",
+       "reading": "せいふ",
+       "romaji": "seifu",
+       "gloss": "government"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "particle: direction 'to/toward'"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "不満",
+       "pos": "noun",
+       "reading": "ふまん",
+       "romaji": "fuman",
+       "gloss": "dissatisfaction, complaint"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "続出",
+       "pos": "noun",
+       "reading": "ぞくしゅつ",
+       "romaji": "zokushutsu",
+       "gloss": "occurring one after another"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Attendees repeatedly voiced frustration with the government, saying things like 'We should demand the U.S. rescind the sanctions' and 'We must protect Ms. Akane.'",
+     "audioStart": 42.048,
+     "audioEnd": 52.656
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "「法の支配」を重視する日本は、ICC分担金の最大拠出国。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "法",
+       "pos": "noun",
+       "reading": "ほう",
+       "romaji": "hou",
+       "gloss": "law"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "支配",
+       "pos": "noun",
+       "reading": "しはい",
+       "romaji": "shihai",
+       "gloss": "rule, control"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object particle"
+      },
+      {
+       "surface": "重視",
+       "pos": "noun",
+       "reading": "じゅうし",
+       "romaji": "juushi",
+       "gloss": "emphasis, valuing highly"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ICC",
+       "pos": "noun",
+       "gloss": "International Criminal Court"
+      },
+      {
+       "surface": "分担金",
+       "pos": "noun",
+       "reading": "ぶんたんきん",
+       "romaji": "buntankin",
+       "gloss": "assessed contribution, dues"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "最大",
+       "pos": "noun",
+       "reading": "さいだい",
+       "romaji": "saidai",
+       "gloss": "largest, maximum"
+      },
+      {
+       "surface": "拠出",
+       "pos": "noun",
+       "reading": "きょしゅつ",
+       "romaji": "kyoshutsu",
+       "gloss": "contribution (of funds)"
+      },
+      {
+       "surface": "国",
+       "pos": "suffix",
+       "reading": "こく",
+       "romaji": "koku",
+       "gloss": "country"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Japan, which values the 'rule of law,' is the largest contributor to the ICC's budget.",
+     "audioStart": 52.656,
+     "audioEnd": 59.784
+    },
+    {
+     "text": "首相は1月、日本人初の所長を務める赤根氏と首相官邸で会談し「力強い支援」を約束した経緯がある。",
+     "tokens": [
+      {
+       "surface": "首相",
+       "pos": "noun",
+       "reading": "しゅしょう",
+       "romaji": "shushou",
+       "gloss": "prime minister"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one (month)"
+      },
+      {
+       "surface": "月",
+       "pos": "noun",
+       "reading": "がつ",
+       "romaji": "gatsu",
+       "gloss": "month"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本人",
+       "pos": "noun",
+       "reading": "にほんじん",
+       "romaji": "nihonjin",
+       "gloss": "Japanese person"
+      },
+      {
+       "surface": "初",
+       "pos": "noun",
+       "reading": "はつ",
+       "romaji": "hatsu",
+       "gloss": "first"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "所長",
+       "pos": "noun",
+       "reading": "しょちょう",
+       "romaji": "shochou",
+       "gloss": "director, head (of an institution)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object particle"
+      },
+      {
+       "surface": "務める",
+       "pos": "verb",
+       "reading": "つとめる",
+       "romaji": "tsutomeru",
+       "gloss": "to serve as, hold the post of"
+      },
+      {
+       "surface": "赤根",
+       "pos": "noun",
+       "reading": "あかね",
+       "romaji": "akane",
+       "gloss": "Akane (surname)"
+      },
+      {
+       "surface": "氏",
+       "pos": "suffix",
+       "reading": "し",
+       "romaji": "shi",
+       "gloss": "Mr./Ms. (honorific suffix)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle 'that'"
+      },
+      {
+       "surface": "首相",
+       "pos": "noun",
+       "reading": "しゅしょう",
+       "romaji": "shushou",
+       "gloss": "prime minister"
+      },
+      {
+       "surface": "官邸",
+       "pos": "noun",
+       "reading": "かんてい",
+       "romaji": "kantei",
+       "gloss": "official residence (PM's office)"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/in"
+      },
+      {
+       "surface": "会談",
+       "pos": "noun",
+       "reading": "かいだん",
+       "romaji": "kaidan",
+       "gloss": "talks, meeting"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "力強い",
+       "pos": "adjective",
+       "reading": "ちからづよい",
+       "romaji": "chikarazuyoi",
+       "gloss": "powerful, strong"
+      },
+      {
+       "surface": "支援",
+       "pos": "noun",
+       "reading": "しえん",
+       "romaji": "shien",
+       "gloss": "support"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object particle"
+      },
+      {
+       "surface": "約束",
+       "pos": "noun",
+       "reading": "やくそく",
+       "romaji": "yakusoku",
+       "gloss": "promise"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "経緯",
+       "pos": "noun",
+       "reading": "けいい",
+       "romaji": "keii",
+       "gloss": "background, circumstances leading up to"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "ある",
+       "pos": "verb",
+       "romaji": "aru",
+       "gloss": "to exist, to have (a history)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In January, the Prime Minister met at the Prime Minister's Office with Ms. Akane, the first Japanese national to serve as ICC President, and promised 'strong support.'",
+     "audioStart": 59.784,
+     "audioEnd": 71.352
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "だが、19日早朝に赤根氏が制裁対象に指定されたとの報道が駆け巡っても、政府の動きは鈍かった。",
+     "tokens": [
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "copula 'is'"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "19",
+       "pos": "noun",
+       "gloss": "19 (day of the month)"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "早朝",
+       "pos": "noun",
+       "reading": "そうちょう",
+       "romaji": "souchou",
+       "gloss": "early morning"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/time/location"
+      },
+      {
+       "surface": "赤根",
+       "pos": "noun",
+       "reading": "あかね",
+       "romaji": "akane",
+       "gloss": "Akane (surname)"
+      },
+      {
+       "surface": "氏",
+       "pos": "suffix",
+       "reading": "し",
+       "romaji": "shi",
+       "gloss": "Mr./Ms. (honorific suffix)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "制裁",
+       "pos": "noun",
+       "reading": "せいさい",
+       "romaji": "seisai",
+       "gloss": "sanctions"
+      },
+      {
+       "surface": "対象",
+       "pos": "noun",
+       "reading": "たいしょう",
+       "romaji": "taishou",
+       "gloss": "target, subject of an action"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/time/location"
+      },
+      {
+       "surface": "指定",
+       "pos": "noun",
+       "reading": "してい",
+       "romaji": "shitei",
+       "gloss": "designation"
+      },
+      {
+       "surface": "さ",
+       "pos": "verb",
+       "romaji": "sa",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle 'that'"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "報道",
+       "pos": "noun",
+       "reading": "ほうどう",
+       "romaji": "houdou",
+       "gloss": "news report"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "駆け巡っ",
+       "pos": "verb",
+       "reading": "かけめぐっ",
+       "romaji": "kakemegutsu",
+       "lemma": "駆け巡る",
+       "gloss": "to spread rapidly, run around"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "政府",
+       "pos": "noun",
+       "reading": "せいふ",
+       "romaji": "seifu",
+       "gloss": "government"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "動き",
+       "pos": "noun",
+       "reading": "うごき",
+       "romaji": "ugoki",
+       "gloss": "movement, action"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "鈍かっ",
+       "pos": "adjective",
+       "reading": "にぶかっ",
+       "romaji": "nibukatsu",
+       "lemma": "鈍い",
+       "gloss": "slow, sluggish"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "But even after reports spread early on the morning of the 19th that Ms. Akane had been named a sanctions target, the government's response was slow.",
+     "audioStart": 71.352,
+     "audioEnd": 82.272
+    },
+    {
+     "text": "首相がようやく口を開いたのは午後6時すぎ。",
+     "tokens": [
+      {
+       "surface": "首相",
+       "pos": "noun",
+       "reading": "しゅしょう",
+       "romaji": "shushou",
+       "gloss": "prime minister"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "ようやく",
+       "pos": "adverb",
+       "romaji": "youyaku",
+       "gloss": "finally, at last"
+      },
+      {
+       "surface": "口",
+       "pos": "noun",
+       "reading": "くち",
+       "romaji": "kuchi",
+       "gloss": "mouth (口を開く = to speak)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object particle"
+      },
+      {
+       "surface": "開い",
+       "pos": "verb",
+       "reading": "ひらい",
+       "romaji": "hirai",
+       "lemma": "開く",
+       "gloss": "to hold (a meeting), to open"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "午後",
+       "pos": "noun",
+       "reading": "ごご",
+       "romaji": "gogo",
+       "gloss": "afternoon, p.m."
+      },
+      {
+       "surface": "6",
+       "pos": "noun",
+       "gloss": "six"
+      },
+      {
+       "surface": "時",
+       "pos": "noun",
+       "reading": "じ",
+       "romaji": "ji",
+       "gloss": "o'clock"
+      },
+      {
+       "surface": "すぎ",
+       "pos": "suffix",
+       "romaji": "sugi",
+       "gloss": "past, after (a time)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It was not until just after 6 p.m. that the Prime Minister finally spoke.",
+     "audioStart": 82.272,
+     "audioEnd": 87.288
+    },
+    {
+     "text": "「大変残念に思っている」と述べ、ICCへの支援や米国への抗議は一切口にしなかった。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "大変",
+       "pos": "adverb",
+       "reading": "たいへん",
+       "romaji": "taihen",
+       "gloss": "very, greatly"
+      },
+      {
+       "surface": "残念",
+       "pos": "adjective",
+       "reading": "ざんねん",
+       "romaji": "zannen",
+       "gloss": "regrettable, unfortunate"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula 'is'"
+      },
+      {
+       "surface": "思っ",
+       "pos": "verb",
+       "reading": "おもっ",
+       "romaji": "omotsu",
+       "lemma": "思う",
+       "gloss": "to think, feel"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle 'that'"
+      },
+      {
+       "surface": "述べ",
+       "pos": "verb",
+       "reading": "のべ",
+       "romaji": "nobe",
+       "lemma": "述べる",
+       "gloss": "to state, say"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ICC",
+       "pos": "noun",
+       "gloss": "International Criminal Court"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "particle: direction 'to/toward'"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "支援",
+       "pos": "noun",
+       "reading": "しえん",
+       "romaji": "shien",
+       "gloss": "support"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and/or (non-exhaustive listing)"
+      },
+      {
+       "surface": "米国",
+       "pos": "noun",
+       "reading": "べいこく",
+       "romaji": "beikoku",
+       "gloss": "the United States"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "particle: direction 'to/toward'"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "抗議",
+       "pos": "noun",
+       "reading": "こうぎ",
+       "romaji": "kougi",
+       "gloss": "protest"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "一切",
+       "pos": "noun",
+       "reading": "いっさい",
+       "romaji": "issai",
+       "gloss": "(not) at all, entirely"
+      },
+      {
+       "surface": "口",
+       "pos": "noun",
+       "reading": "くち",
+       "romaji": "kuchi",
+       "gloss": "mouth (口を開く = to speak)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/time/location"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "なかっ",
+       "pos": "auxiliary",
+       "romaji": "nakatsu",
+       "lemma": "ない",
+       "gloss": "negative auxiliary"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "She said, 'I find this extremely regrettable,' but made no mention whatsoever of support for the ICC or protest toward the United States.",
+     "audioStart": 87.288,
+     "audioEnd": 96.432
+    },
+    {
+     "text": "欧州各国が赤根氏らへの支持を続々と表明したのとは対照的だ。",
+     "tokens": [
+      {
+       "surface": "欧州",
+       "pos": "noun",
+       "reading": "おうしゅう",
+       "romaji": "oushuu",
+       "gloss": "Europe"
+      },
+      {
+       "surface": "各国",
+       "pos": "noun",
+       "reading": "かっこく",
+       "romaji": "kakkoku",
+       "gloss": "each country, various countries"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "赤根",
+       "pos": "noun",
+       "reading": "あかね",
+       "romaji": "akane",
+       "gloss": "Akane (surname)"
+      },
+      {
+       "surface": "氏",
+       "pos": "suffix",
+       "reading": "し",
+       "romaji": "shi",
+       "gloss": "Mr./Ms. (honorific suffix)"
+      },
+      {
+       "surface": "ら",
+       "pos": "suffix",
+       "romaji": "ra",
+       "gloss": "and others, plural marker"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "particle: direction 'to/toward'"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "支持",
+       "pos": "noun",
+       "reading": "しじ",
+       "romaji": "shiji",
+       "gloss": "support"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object particle"
+      },
+      {
+       "surface": "続々",
+       "pos": "adverb",
+       "reading": "ぞくぞく",
+       "romaji": "zokuzoku",
+       "gloss": "one after another, successively"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle 'that'"
+      },
+      {
+       "surface": "表明",
+       "pos": "noun",
+       "reading": "ひょうめい",
+       "romaji": "hyoumei",
+       "gloss": "expression, declaration (of a stance)"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle 'that'"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "対照的",
+       "pos": "noun",
+       "reading": "たいしょうてき",
+       "romaji": "taishouteki",
+       "gloss": "contrasting"
+      },
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "copula 'is'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "This stood in contrast to European countries, which one after another expressed support for Ms. Akane and others.",
+     "audioStart": 96.432,
+     "audioEnd": 103.344
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "閣僚経験者は「首相の発信は全然足りない」と指摘。",
+     "tokens": [
+      {
+       "surface": "閣僚",
+       "pos": "noun",
+       "reading": "かくりょう",
+       "romaji": "kakuryou",
+       "gloss": "cabinet minister"
+      },
+      {
+       "surface": "経験者",
+       "pos": "noun",
+       "reading": "けいけんしゃ",
+       "romaji": "keikensha",
+       "gloss": "person with prior experience (former officeholder)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "首相",
+       "pos": "noun",
+       "reading": "しゅしょう",
+       "romaji": "shushou",
+       "gloss": "prime minister"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "発信",
+       "pos": "noun",
+       "reading": "はっしん",
+       "romaji": "hasshin",
+       "gloss": "communication, sending out a message"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "全然",
+       "pos": "adverb",
+       "reading": "ぜんぜん",
+       "romaji": "zenzen",
+       "gloss": "(not) at all"
+      },
+      {
+       "surface": "足り",
+       "pos": "verb",
+       "reading": "たり",
+       "romaji": "tari",
+       "lemma": "足りる",
+       "gloss": "to be enough, sufficient"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative auxiliary"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle 'that'"
+      },
+      {
+       "surface": "指摘",
+       "pos": "noun",
+       "reading": "してき",
+       "romaji": "shiteki",
+       "gloss": "point out"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "A former cabinet minister pointed out, 'The Prime Minister's messaging is nowhere near enough.'",
+     "audioStart": 103.344,
+     "audioEnd": 109.608
+    },
+    {
+     "text": "国際人権団体アムネスティ・インターナショナルのカラマール事務総長はXで、日本政府の発信について「かなり弱い」と嘆いた。",
+     "tokens": [
+      {
+       "surface": "国際",
+       "pos": "noun",
+       "reading": "こくさい",
+       "romaji": "kokusai",
+       "gloss": "international"
+      },
+      {
+       "surface": "人権",
+       "pos": "noun",
+       "reading": "じんけん",
+       "romaji": "jinken",
+       "gloss": "human rights"
+      },
+      {
+       "surface": "団体",
+       "pos": "noun",
+       "reading": "だんたい",
+       "romaji": "dantai",
+       "gloss": "organization, group"
+      },
+      {
+       "surface": "アムネスティ・インターナショナル",
+       "pos": "noun",
+       "romaji": "amunesutei・intaanashonaru",
+       "gloss": "Amnesty International"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "カラマール",
+       "pos": "noun",
+       "romaji": "karamaaru",
+       "gloss": "Callamard (surname)"
+      },
+      {
+       "surface": "事務",
+       "pos": "noun",
+       "reading": "じむ",
+       "romaji": "jimu",
+       "gloss": "administration, office work"
+      },
+      {
+       "surface": "総長",
+       "pos": "noun",
+       "reading": "そうちょう",
+       "romaji": "souchou",
+       "gloss": "director-general (as in Secretary General)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "X",
+       "pos": "noun",
+       "gloss": "X (social media platform)"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula 'is'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "政府",
+       "pos": "noun",
+       "reading": "せいふ",
+       "romaji": "seifu",
+       "gloss": "government"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "発信",
+       "pos": "noun",
+       "reading": "はっしん",
+       "romaji": "hasshin",
+       "gloss": "communication, sending out a message"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/time/location"
+      },
+      {
+       "surface": "つい",
+       "pos": "verb",
+       "romaji": "tsui",
+       "lemma": "つく",
+       "gloss": "to attach/be attached (base of について 'regarding')"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "かなり",
+       "pos": "adverb",
+       "romaji": "kanari",
+       "gloss": "considerably, quite"
+      },
+      {
+       "surface": "弱い",
+       "pos": "adjective",
+       "reading": "よわい",
+       "romaji": "yowai",
+       "gloss": "weak"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle 'that'"
+      },
+      {
+       "surface": "嘆い",
+       "pos": "verb",
+       "reading": "なげい",
+       "romaji": "nagei",
+       "lemma": "嘆く",
+       "gloss": "to lament, deplore"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Agnès Callamard, Secretary General of the international human rights group Amnesty International, lamented on X that the Japanese government's messaging was 'quite weak.'",
+     "audioStart": 109.608,
+     "audioEnd": 121.896
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "プーチン氏の北方領土訪問では、首相は「中長期的な関係回復を困難にした」と即座に反発。",
+     "tokens": [
+      {
+       "surface": "プーチン",
+       "pos": "noun",
+       "romaji": "puuchin",
+       "gloss": "Putin"
+      },
+      {
+       "surface": "氏",
+       "pos": "suffix",
+       "reading": "し",
+       "romaji": "shi",
+       "gloss": "Mr./Ms. (honorific suffix)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "北方領土",
+       "pos": "noun",
+       "reading": "ほっぽうりょうど",
+       "romaji": "hoppouryoudo",
+       "gloss": "the Northern Territories"
+      },
+      {
+       "surface": "訪問",
+       "pos": "noun",
+       "reading": "ほうもん",
+       "romaji": "houmon",
+       "gloss": "visit"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/in"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "首相",
+       "pos": "noun",
+       "reading": "しゅしょう",
+       "romaji": "shushou",
+       "gloss": "prime minister"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "中長期的",
+       "pos": "noun",
+       "reading": "ちゅうちょうきてき",
+       "romaji": "chuuchoukiteki",
+       "gloss": "medium- to long-term"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula 'is'"
+      },
+      {
+       "surface": "関係",
+       "pos": "noun",
+       "reading": "かんけい",
+       "romaji": "kankei",
+       "gloss": "relationship"
+      },
+      {
+       "surface": "回復",
+       "pos": "noun",
+       "reading": "かいふく",
+       "romaji": "kaifuku",
+       "gloss": "recovery, restoration"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object particle"
+      },
+      {
+       "surface": "困難",
+       "pos": "noun",
+       "reading": "こんなん",
+       "romaji": "konnan",
+       "gloss": "difficult"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula 'is'"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle 'that'"
+      },
+      {
+       "surface": "即座",
+       "pos": "noun",
+       "reading": "そくざ",
+       "romaji": "sokuza",
+       "gloss": "immediate, instant"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/time/location"
+      },
+      {
+       "surface": "反発",
+       "pos": "noun",
+       "reading": "はんぱつ",
+       "romaji": "hanpatsu",
+       "gloss": "backlash, pushback"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Regarding Putin's visit to the Northern Territories, the Prime Minister immediately pushed back, saying it 'made medium- to long-term restoration of relations difficult.'",
+     "audioStart": 121.896,
+     "audioEnd": 132.408
+    },
+    {
+     "text": "外務省は駐日大使を呼んで抗議した。",
+     "tokens": [
+      {
+       "surface": "外務省",
+       "pos": "noun",
+       "reading": "がいむしょう",
+       "romaji": "gaimushou",
+       "gloss": "Ministry of Foreign Affairs"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "駐日",
+       "pos": "noun",
+       "reading": "ちゅうにち",
+       "romaji": "chuunichi",
+       "gloss": "resident in Japan (as in ambassador to Japan)"
+      },
+      {
+       "surface": "大使",
+       "pos": "noun",
+       "reading": "たいし",
+       "romaji": "taishi",
+       "gloss": "ambassador"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object particle"
+      },
+      {
+       "surface": "呼ん",
+       "pos": "verb",
+       "reading": "よん",
+       "romaji": "yon",
+       "lemma": "呼ぶ",
+       "gloss": "to call, summon"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/in"
+      },
+      {
+       "surface": "抗議",
+       "pos": "noun",
+       "reading": "こうぎ",
+       "romaji": "kougi",
+       "gloss": "protest"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The Ministry of Foreign Affairs summoned the Russian ambassador to Japan and lodged a protest.",
+     "audioStart": 132.408,
+     "audioEnd": 137.112
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "政府は「次の一手」として経済制裁の強化や武藤顕駐ロ大使の一時帰国を選択肢として検討するが、1週間が経過しても対応は定まらない。",
+     "tokens": [
+      {
+       "surface": "政府",
+       "pos": "noun",
+       "reading": "せいふ",
+       "romaji": "seifu",
+       "gloss": "government"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "次",
+       "pos": "noun",
+       "reading": "つぎ",
+       "romaji": "tsugi",
+       "gloss": "next"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "一手",
+       "pos": "noun",
+       "reading": "いって",
+       "romaji": "itte",
+       "gloss": "a move, a step"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle 'that'"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "経済",
+       "pos": "noun",
+       "reading": "けいざい",
+       "romaji": "keizai",
+       "gloss": "economy"
+      },
+      {
+       "surface": "制裁",
+       "pos": "noun",
+       "reading": "せいさい",
+       "romaji": "seisai",
+       "gloss": "sanctions"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "強化",
+       "pos": "noun",
+       "reading": "きょうか",
+       "romaji": "kyouka",
+       "gloss": "strengthening"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and/or (non-exhaustive listing)"
+      },
+      {
+       "surface": "武藤",
+       "pos": "noun",
+       "reading": "むとう",
+       "romaji": "mutou",
+       "gloss": "Muto (surname)"
+      },
+      {
+       "surface": "顕",
+       "pos": "noun",
+       "reading": "たけし",
+       "romaji": "takeshi",
+       "gloss": "Akira (given name)"
+      },
+      {
+       "surface": "駐",
+       "pos": "prefix",
+       "reading": "ちゅう",
+       "romaji": "chuu",
+       "gloss": "stationed at, resident (prefix, as in 駐ロ)"
+      },
+      {
+       "surface": "ロ",
+       "pos": "noun",
+       "romaji": "ro",
+       "gloss": "Russia (abbreviation)"
+      },
+      {
+       "surface": "大使",
+       "pos": "noun",
+       "reading": "たいし",
+       "romaji": "taishi",
+       "gloss": "ambassador"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "一時帰国",
+       "pos": "noun",
+       "reading": "いちじきこく",
+       "romaji": "ichijikikoku",
+       "gloss": "temporary return home"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object particle"
+      },
+      {
+       "surface": "選択肢",
+       "pos": "noun",
+       "reading": "せんたくし",
+       "romaji": "sentakushi",
+       "gloss": "option, choice"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle 'that'"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "検討",
+       "pos": "noun",
+       "reading": "けんとう",
+       "romaji": "kentou",
+       "gloss": "consideration, examination"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one (month)"
+      },
+      {
+       "surface": "週間",
+       "pos": "noun",
+       "reading": "しゅうかん",
+       "romaji": "shuukan",
+       "gloss": "week (counter)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "経過",
+       "pos": "noun",
+       "reading": "けいか",
+       "romaji": "keika",
+       "gloss": "passage of time, elapse"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "対応",
+       "pos": "noun",
+       "reading": "たいおう",
+       "romaji": "taiou",
+       "gloss": "response, handling"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "定まら",
+       "pos": "verb",
+       "reading": "さだまら",
+       "romaji": "sadamara",
+       "lemma": "定まる",
+       "gloss": "to be decided, settled"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "As a 'next move,' the government is weighing options such as strengthening economic sanctions and temporarily recalling Ambassador to Russia Muto Akira, but even after a week has passed, no course of action has been decided.",
+     "audioStart": 137.112,
+     "audioEnd": 152.04
+    },
+    {
+     "text": "ロシア・サハリンからの液化天然ガス輸入に影響を及ぼしかねないためだ。",
+     "tokens": [
+      {
+       "surface": "ロシア",
+       "pos": "noun",
+       "romaji": "roshia",
+       "gloss": "Russia"
+      },
+      {
+       "surface": "・",
+       "pos": "punct"
+      },
+      {
+       "surface": "サハリン",
+       "pos": "noun",
+       "romaji": "saharin",
+       "gloss": "Sakhalin"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "液化天然ガス",
+       "pos": "noun",
+       "reading": "えきかてんねんがす",
+       "romaji": "ekikatennengasu",
+       "gloss": "liquefied natural gas (LNG)"
+      },
+      {
+       "surface": "輸入",
+       "pos": "noun",
+       "reading": "ゆにゅう",
+       "romaji": "yunyuu",
+       "gloss": "import"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/time/location"
+      },
+      {
+       "surface": "影響",
+       "pos": "noun",
+       "reading": "えいきょう",
+       "romaji": "eikyou",
+       "gloss": "influence, impact"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object particle"
+      },
+      {
+       "surface": "及ぼし",
+       "pos": "verb",
+       "reading": "およぼし",
+       "romaji": "oyoboshi",
+       "lemma": "及ぼす",
+       "gloss": "to exert, cause (an effect)"
+      },
+      {
+       "surface": "かね",
+       "pos": "suffix",
+       "romaji": "kane",
+       "lemma": "かねる",
+       "gloss": "might well, cannot (as in 及ぼしかねない)"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative auxiliary"
+      },
+      {
+       "surface": "ため",
+       "pos": "noun",
+       "romaji": "tame",
+       "gloss": "because of, for the sake of"
+      },
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "copula 'is'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "This is because it could affect imports of liquefied natural gas from Sakhalin, Russia.",
+     "audioStart": 152.04,
+     "audioEnd": 159.312
+    },
+    {
+     "text": "政府内からは「エネルギー問題は考慮せざるを得ない」との声が上がる。",
+     "tokens": [
+      {
+       "surface": "政府",
+       "pos": "noun",
+       "reading": "せいふ",
+       "romaji": "seifu",
+       "gloss": "government"
+      },
+      {
+       "surface": "内",
+       "pos": "suffix",
+       "reading": "ない",
+       "romaji": "nai",
+       "gloss": "inside, within"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "エネルギー",
+       "pos": "noun",
+       "romaji": "enerugii",
+       "gloss": "energy"
+      },
+      {
+       "surface": "問題",
+       "pos": "noun",
+       "reading": "もんだい",
+       "romaji": "mondai",
+       "gloss": "issue, problem"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "考慮",
+       "pos": "noun",
+       "reading": "こうりょ",
+       "romaji": "kouryo",
+       "gloss": "consideration"
+      },
+      {
+       "surface": "せ",
+       "pos": "verb",
+       "romaji": "se",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "ざる",
+       "pos": "auxiliary",
+       "romaji": "zaru",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (classical, = ない)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object particle"
+      },
+      {
+       "surface": "得",
+       "pos": "verb",
+       "reading": "え",
+       "romaji": "e",
+       "lemma": "得る",
+       "gloss": "to be able to, can"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative auxiliary"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle 'that'"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "声",
+       "pos": "noun",
+       "reading": "こえ",
+       "romaji": "koe",
+       "gloss": "voice, opinion"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "上がる",
+       "pos": "verb",
+       "reading": "あがる",
+       "romaji": "agaru",
+       "gloss": "to rise, be raised"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Voices within the government say, 'We have no choice but to take the energy issue into consideration.'",
+     "audioStart": 159.312,
+     "audioEnd": 166.272
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "茂木敏充外相は20日の記者会見で、対抗策について問われ「日本の国益にとって何が必要か総合的に勘案しながら適切に対応する」。",
+     "tokens": [
+      {
+       "surface": "茂木",
+       "pos": "noun",
+       "reading": "もてぎ",
+       "romaji": "motegi",
+       "gloss": "Motegi (surname)"
+      },
+      {
+       "surface": "敏充",
+       "pos": "noun",
+       "reading": "としみつ",
+       "romaji": "toshimitsu",
+       "gloss": "Toshimitsu (given name)"
+      },
+      {
+       "surface": "外相",
+       "pos": "noun",
+       "reading": "がいしょう",
+       "romaji": "gaishou",
+       "gloss": "Foreign Minister"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "20",
+       "pos": "noun",
+       "gloss": "20 (day of the month)"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "記者",
+       "pos": "noun",
+       "reading": "きしゃ",
+       "romaji": "kisha",
+       "gloss": "reporter, journalist"
+      },
+      {
+       "surface": "会見",
+       "pos": "noun",
+       "reading": "かいけん",
+       "romaji": "kaiken",
+       "gloss": "press conference"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/in"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "対抗",
+       "pos": "noun",
+       "reading": "たいこう",
+       "romaji": "taikou",
+       "gloss": "opposition, countering"
+      },
+      {
+       "surface": "策",
+       "pos": "noun",
+       "reading": "さく",
+       "romaji": "saku",
+       "gloss": "policy, measure"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/time/location"
+      },
+      {
+       "surface": "つい",
+       "pos": "verb",
+       "romaji": "tsui",
+       "lemma": "つく",
+       "gloss": "to attach/be attached (base of について 'regarding')"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "問わ",
+       "pos": "verb",
+       "reading": "とわ",
+       "romaji": "towa",
+       "lemma": "問う",
+       "gloss": "to ask, question"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "国益",
+       "pos": "noun",
+       "reading": "こくえき",
+       "romaji": "kokueki",
+       "gloss": "national interest"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/time/location"
+      },
+      {
+       "surface": "とっ",
+       "pos": "verb",
+       "romaji": "totsu",
+       "lemma": "とる",
+       "gloss": "to take (base of にとって 'for, from the standpoint of')"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "何",
+       "pos": "pronoun",
+       "reading": "なん",
+       "romaji": "nan",
+       "gloss": "what"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "必要",
+       "pos": "noun",
+       "reading": "ひつよう",
+       "romaji": "hitsuyou",
+       "gloss": "necessary, needed"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question/uncertainty marker"
+      },
+      {
+       "surface": "総合的",
+       "pos": "noun",
+       "reading": "そうごうてき",
+       "romaji": "sougouteki",
+       "gloss": "comprehensive, overall"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula 'is'"
+      },
+      {
+       "surface": "勘案",
+       "pos": "noun",
+       "reading": "かんあん",
+       "romaji": "kan'an",
+       "gloss": "taking into account, consideration"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "ながら",
+       "pos": "particle",
+       "romaji": "nagara",
+       "gloss": "while (doing)"
+      },
+      {
+       "surface": "適切",
+       "pos": "adjective",
+       "reading": "てきせつ",
+       "romaji": "tekisetsu",
+       "gloss": "appropriate, suitable"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula 'is'"
+      },
+      {
+       "surface": "対応",
+       "pos": "noun",
+       "reading": "たいおう",
+       "romaji": "taiou",
+       "gloss": "response, handling"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Foreign Minister Motegi Toshimitsu, asked about countermeasures at a press conference on the 20th, said only, 'We will respond appropriately while comprehensively weighing what is necessary for Japan's national interest.'",
+     "audioStart": 166.272,
+     "audioEnd": 180.168
+    },
+    {
+     "text": "木原稔官房長官も記者団に「政府内で検討している」と述べるにとどめた。",
+     "tokens": [
+      {
+       "surface": "木原",
+       "pos": "noun",
+       "reading": "きはら",
+       "romaji": "kihara",
+       "gloss": "Kihara (surname)"
+      },
+      {
+       "surface": "稔",
+       "pos": "noun",
+       "reading": "みのる",
+       "romaji": "minoru",
+       "gloss": "Minoru (given name)"
+      },
+      {
+       "surface": "官房長官",
+       "pos": "noun",
+       "reading": "かんぼうちょうかん",
+       "romaji": "kanbouchoukan",
+       "gloss": "Chief Cabinet Secretary"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "記者団",
+       "pos": "noun",
+       "reading": "きしゃだん",
+       "romaji": "kishadan",
+       "gloss": "press corps"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/time/location"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "政府",
+       "pos": "noun",
+       "reading": "せいふ",
+       "romaji": "seifu",
+       "gloss": "government"
+      },
+      {
+       "surface": "内",
+       "pos": "suffix",
+       "reading": "ない",
+       "romaji": "nai",
+       "gloss": "inside, within"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/in"
+      },
+      {
+       "surface": "検討",
+       "pos": "noun",
+       "reading": "けんとう",
+       "romaji": "kentou",
+       "gloss": "consideration, examination"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle 'that'"
+      },
+      {
+       "surface": "述べる",
+       "pos": "verb",
+       "reading": "のべる",
+       "romaji": "noberu",
+       "gloss": "to state, say"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/time/location"
+      },
+      {
+       "surface": "とどめ",
+       "pos": "verb",
+       "romaji": "todome",
+       "lemma": "とどめる",
+       "gloss": "to limit to, confine to"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Chief Cabinet Secretary Kihara Minoru likewise told reporters only that 'it is being considered within the government.'",
+     "audioStart": 180.168,
+     "audioEnd": 188.304
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "国民民主党の玉木雄一郎代表は18日の会見で「政権の姿勢は弱腰に過ぎる」と断じた。",
+     "tokens": [
+      {
+       "surface": "国民民主党",
+       "pos": "noun",
+       "reading": "こくみんみんしゅとう",
+       "romaji": "kokuminminshutou",
+       "gloss": "Democratic Party for the People"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "玉木",
+       "pos": "noun",
+       "reading": "たまき",
+       "romaji": "tamaki",
+       "gloss": "Tamaki (surname)"
+      },
+      {
+       "surface": "雄一郎",
+       "pos": "noun",
+       "reading": "ゆういちろう",
+       "romaji": "yuuichirou",
+       "gloss": "Yuichiro (given name)"
+      },
+      {
+       "surface": "代表",
+       "pos": "noun",
+       "reading": "だいひょう",
+       "romaji": "daihyou",
+       "gloss": "leader, representative"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "18",
+       "pos": "noun",
+       "gloss": "18 (day of the month)"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "会見",
+       "pos": "noun",
+       "reading": "かいけん",
+       "romaji": "kaiken",
+       "gloss": "press conference"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/in"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "政権",
+       "pos": "noun",
+       "reading": "せいけん",
+       "romaji": "seiken",
+       "gloss": "administration, government in power"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'"
+      },
+      {
+       "surface": "姿勢",
+       "pos": "noun",
+       "reading": "しせい",
+       "romaji": "shisei",
+       "gloss": "stance, posture"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "弱腰",
+       "pos": "noun",
+       "reading": "よわごし",
+       "romaji": "yowagoshi",
+       "gloss": "weak-kneed, spineless attitude"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/time/location"
+      },
+      {
+       "surface": "過ぎる",
+       "pos": "verb",
+       "reading": "すぎる",
+       "romaji": "sugiru",
+       "gloss": "to exceed, be too much"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle 'that'"
+      },
+      {
+       "surface": "断じ",
+       "pos": "verb",
+       "reading": "だんじ",
+       "romaji": "danji",
+       "lemma": "断ずる",
+       "gloss": "to declare, judge decisively"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Democratic Party for the People leader Tamaki Yuichiro declared at a press conference on the 18th that 'the administration's stance is far too weak-kneed.'",
+     "audioStart": 188.304,
+     "audioEnd": 198.888
+    }
+   ]
+  }
+ ]
+}
