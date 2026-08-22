@@ -63,6 +63,9 @@ def _build_article(args) -> None:
 
     print(f"Annotating with Claude ({len(gloss_keys)} vocab items)...")
     ann = llm.annotate(lang, art.title, flat_sentences, gloss_keys)
+    if ann.get("titleTranslation"):
+        ann["titleTranslation"] = re.sub(
+            r"\s*(\([^)]*\))?\s*[-–]\s*Yahoo! News\s*$", "", ann["titleTranslation"])
     glosses = ann["glosses"]
     i = 0
     for p in paras:
