@@ -70,7 +70,8 @@ def _build_article(args) -> None:
     ann = llm.annotate(lang, art.title, flat_sentences, gloss_keys)
     if ann.get("titleTranslation"):
         ann["titleTranslation"] = re.sub(
-            r"\s*(\([^)]*\))?\s*[-–]\s*Yahoo! News\s*$", "", ann["titleTranslation"])
+            r"\s*(\([^)]*\))?\s*[-–]\s*(Yahoo! News|MATCHA.*)\s*$", "",
+            ann["titleTranslation"])
     if args.simplify:
         ann["level"] = args.simplify
     glosses = ann["glosses"]
@@ -87,9 +88,10 @@ def _build_article(args) -> None:
                     t["gloss"] = g
 
     audio = None
+    voice = args.voice or tts.pick_voice(lang, art.title)
     if not args.no_audio:
-        print("Generating audio (edge-tts)...")
-        audio, timings = tts.synthesize(flat_sentences, lang, args.voice, args.rate)
+        print(f"Generating audio (edge-tts, {voice})...")
+        audio, timings = tts.synthesize(flat_sentences, lang, voice, args.rate)
         i = 0
         for p in paras:
             for s in p["sentences"]:
@@ -107,6 +109,7 @@ def _build_article(args) -> None:
         "sourceUrl": art.url,
         "createdAt": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "audioFile": None if args.no_audio else "audio.mp3",
+        "voice": None if args.no_audio else voice,
         "paragraphs": paras,
     }
 

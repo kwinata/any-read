@@ -6,7 +6,21 @@ import io
 import edge_tts
 from mutagen.mp3 import MP3
 
-DEFAULT_VOICES = {"ja": "ja-JP-NanamiNeural", "de": "de-DE-KatjaNeural"}
+VOICE_POOLS = {
+    "ja": ["ja-JP-NanamiNeural", "ja-JP-KeitaNeural"],
+    "de": ["de-DE-KatjaNeural", "de-DE-ConradNeural", "de-DE-AmalaNeural",
+           "de-DE-KillianNeural", "de-DE-SeraphinaMultilingualNeural",
+           "de-DE-FlorianMultilingualNeural"],
+}
+DEFAULT_VOICES = {"ja": VOICE_POOLS["ja"][0], "de": VOICE_POOLS["de"][0]}
+
+
+def pick_voice(lang: str, key: str) -> str:
+    """Stable per-article voice choice, varied across articles."""
+    import hashlib
+
+    pool = VOICE_POOLS[lang]
+    return pool[int(hashlib.sha1(key.encode()).hexdigest(), 16) % len(pool)]
 
 
 async def _synthesize_one(text: str, voice: str, rate: str) -> bytes:
