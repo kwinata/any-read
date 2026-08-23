@@ -134,6 +134,7 @@ async function renderLibrary() {
     if (a.createdAt) meta.append(el('span', null, a.createdAt.slice(0, 10)));
     if (a.hasAudio) meta.append(el('span', null, '🔊'));
     if (a.generated) meta.append(el('span', 'badge ai', 'AI'));
+    if (a.broadcast) meta.append(el('span', 'badge', '📻 broadcast'));
     const dl = el('button', 'dl', '⬇');
     dl.title = 'Save for offline';
     isCached(a.id).then((c) => {

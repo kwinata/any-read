@@ -228,6 +228,149 @@ def _list_news(args) -> None:
             print(f"{title}\n  {url}")
 
 
+def _broadcast(args) -> None:
+    import os
+    import tempfile
+
+    from . import broadcast as bc
+
+    audio_url, title_hint = bc.resolve_audio(args.source)
+    print(f"Audio: {audio_url}")
+    audio = bc.download_audio(audio_url)
+    print(f"Downloaded {len(audio) // 1024} KB")
+
+    with tempfile.NamedTemporaryFile(suffix=".mp3", delete=False) as tf:
+        tf.write(audio)
+        tmp = tf.name
+    try:
+        segs = bc.transcribe(tmp, args.lang, args.model)
+    finally:
+        os.unlink(tmp)
+
+    title = fetch.clean_title(args.title or title_hint or segs[0]["text"][:60])
+    lang = args.lang
+    tokenize = ja.tokenize if lang == "ja" else de.tokenize
+    skip_gloss = {"punct", "symbol", "space", "number"}
+
+    paras = []
+    flat: list[dict] = []
+    for group in bc.group_paragraphs(segs):
+        sents = []
+        for seg in group:
+            s = {"text": seg["text"], "tokens": tokenize(seg["text"]),
+                 "audioStart": seg["start"], "audioEnd": seg["end"]}
+            sents.append(s)
+            flat.append(s)
+        paras.append({"sentences": sents})
+    print(f"{len(paras)} paragraphs, {len(flat)} sentences")
+
+    # Annotate in chunks (radio bulletins can be long)
+    CHUNK = 40
+    first_ann = None
+    glosses: dict = {}
+    for i in range(0, len(flat), CHUNK):
+        chunk = flat[i:i + CHUNK]
+        keys, seen = [], set()
+        for s in chunk:
+            for t in s["tokens"]:
+                if t["pos"] in skip_gloss:
+                    continue
+                k = t.get("lemma") or t["surface"]
+                if k not in seen:
+                    seen.add(k)
+                    keys.append(k)
+        print(f"Annotating sentences {i + 1}-{i + len(chunk)} ({len(keys)} vocab)...")
+        ann = llm.annotate(lang, title, [s["text"] for s in chunk], keys)
+        first_ann = first_ann or ann
+        glosses.update(ann.get("glosses", {}))
+        for s, tr in zip(chunk, ann["translations"]):
+            s["translation"] = tr
+    for s in flat:
+        for t in s["tokens"]:
+            if t["pos"] in skip_gloss:
+                continue
+            g = glosses.get(t.get("lemma") or t["surface"])
+            if g:
+                t["gloss"] = g
+
+    article = {
+        "schemaVersion": 1,
+        "id": bundle.slugify(first_ann.get("titleTranslation") or title),
+        "language": lang,
+        "title": title,
+        "titleTranslation": first_ann.get("titleTranslation", ""),
+        "level": first_ann.get("level", ""),
+        "summary": first_ann.get("summary", ""),
+        "sourceUrl": args.source,
+        "createdAt": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "audioFile": "audio.mp3",
+        "voice": "broadcast",
+        "generated": False,
+        "broadcast": True,
+        "paragraphs": paras,
+    }
+    dest = bundle.write_article(Path(args.out), article, audio)
+    print(f"Wrote {dest}  (local only — never published)")
+    print("Run `anyread serve` and open the printed URL to read it.")
+
+
+def _serve(args) -> None:
+    import http.server
+    import json as _json
+    import socket
+
+    root = Path(__file__).resolve().parents[2]
+    docs = root / "docs"
+    local_articles = root / "local" / "articles"
+    public_articles = docs / "articles"
+
+    class Handler(http.server.SimpleHTTPRequestHandler):
+        def __init__(self, *a, **kw):
+            super().__init__(*a, directory=str(docs), **kw)
+
+        def log_message(self, *a):
+            pass
+
+        def _send_bytes(self, data: bytes, ctype: str):
+            self.send_response(200)
+            self.send_header("Content-Type", ctype)
+            self.send_header("Content-Length", str(len(data)))
+            self.send_header("Cache-Control", "no-cache")
+            self.end_headers()
+            self.wfile.write(data)
+
+        def do_GET(self):
+            path = self.path.split("?")[0]
+            if path == "/articles/index.json":
+                entries = []
+                for p in (public_articles / "index.json", local_articles / "index.json"):
+                    if p.exists():
+                        entries += _json.loads(p.read_text(encoding="utf-8"))
+                entries.sort(key=lambda e: e.get("createdAt") or "", reverse=True)
+                self._send_bytes(_json.dumps(entries, ensure_ascii=False).encode(),
+                                 "application/json")
+                return
+            if path.startswith("/articles/"):
+                rel = path[len("/articles/"):]
+                f = local_articles / rel
+                if f.is_file():
+                    ctype = "audio/mpeg" if f.suffix == ".mp3" else "application/json"
+                    self._send_bytes(f.read_bytes(), ctype)
+                    return
+            super().do_GET()
+
+    server = http.server.ThreadingHTTPServer(("0.0.0.0", args.port), Handler)
+    try:
+        lan_ip = socket.gethostbyname(socket.gethostname())
+    except OSError:
+        lan_ip = "<your-lan-ip>"
+    print(f"AnyRead (public + local broadcast articles):")
+    print(f"  this Mac:  http://localhost:{args.port}")
+    print(f"  phone on same wifi:  http://{lan_ip}:{args.port}")
+    print("Ctrl-C to stop.")
+    server.serve_forever()
+
+
 def _publish(args) -> None:
     import subprocess
 
@@ -274,6 +417,15 @@ def main() -> None:
     gen.add_argument("--rate", default="-10%", help="Speech rate (default -10%%)")
     gen.add_argument("--no-audio", action="store_true", help="Skip TTS")
     gen.add_argument("--out", default=str(Path(__file__).resolve().parents[2] / "docs" / "articles"))
+    bc = sub.add_parser("broadcast",
+                        help="LOCAL-ONLY: real news audio (podcast/mp3/page) + Whisper transcript")
+    bc.add_argument("source", help="Direct mp3 URL, podcast RSS feed (takes latest), or article page with audio")
+    bc.add_argument("--lang", choices=["ja", "de"], required=True)
+    bc.add_argument("--title", help="Override title")
+    bc.add_argument("--model", default="medium", help="Whisper model size (default medium)")
+    bc.add_argument("--out", default=str(Path(__file__).resolve().parents[2] / "local" / "articles"))
+    srv = sub.add_parser("serve", help="Serve the app locally incl. local-only broadcast articles")
+    srv.add_argument("--port", type=int, default=8642)
     news = sub.add_parser("news", help="List recent headlines (Yahoo/Matcha / nachrichtenleicht)")
     news.add_argument("--lang", choices=["ja", "de"])
     news.add_argument("--limit", type=int, default=10)
@@ -284,6 +436,10 @@ def main() -> None:
         _build_article(args)
     elif args.cmd == "generate":
         _generate(args)
+    elif args.cmd == "broadcast":
+        _broadcast(args)
+    elif args.cmd == "serve":
+        _serve(args)
     elif args.cmd == "news":
         _list_news(args)
     elif args.cmd == "publish":
