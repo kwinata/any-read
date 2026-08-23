@@ -57,6 +57,36 @@ Text:
     return cleaned
 
 
+def simplify(lang: str, level: str, title: str, text: str) -> dict:
+    """Rewrite an article at a target learner level. Returns {title, text}."""
+    lang_name = _LANG_NAME[lang]
+    prompt = f"""Rewrite this {lang_name} news article for a language learner at {level} level
+({_LEVEL_SCALE[lang]} scale). Rules:
+- Keep all the important facts; it stays a faithful news article, not a summary.
+- Use only vocabulary and grammar appropriate for {level}. Short, simple sentences.
+- Write entirely in {lang_name}.
+- Also rewrite the title at the same level.
+
+Title: {title}
+
+Article:
+{text}
+
+Reply with ONLY a JSON object: {{"title": "...", "text": "..."}} where "text" uses \\n\\n between paragraphs."""
+    for attempt in range(2):
+        raw = _run_claude(prompt)
+        try:
+            data = _extract_json(raw)
+            if data.get("title") and data.get("text"):
+                return data
+            raise ValueError("missing title or text")
+        except (ValueError, json.JSONDecodeError) as e:
+            if attempt == 1:
+                raise RuntimeError(f"LLM simplify failed: {e}") from e
+            prompt += f"\n\nYour previous reply was invalid ({e}). Reply with only the JSON object."
+    raise AssertionError("unreachable")
+
+
 def annotate(lang: str, title: str, sentences: list[str], gloss_keys: list[str]) -> dict:
     """Returns {titleTranslation, level, summary, translations: [str], glosses: {key: gloss}}."""
     lang_name = _LANG_NAME[lang]

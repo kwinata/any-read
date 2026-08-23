@@ -66,6 +66,26 @@ body {
 }
 .toggle.on { background: var(--accent-soft); color: var(--accent); border-color: transparent; }
 
+.filters {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 14px 0;
+  max-width: 640px;
+  margin: 0 auto;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.filters::-webkit-scrollbar { display: none; }
+.filters .toggle { flex-shrink: 0; }
+.fsep {
+  width: 1px;
+  align-self: stretch;
+  background: var(--border);
+  flex-shrink: 0;
+  margin: 2px 3px;
+}
+
 .list { padding: 10px 14px 40px; max-width: 640px; margin: 0 auto; }
 .card {
   background: var(--card);

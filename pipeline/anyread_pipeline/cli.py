@@ -34,6 +34,11 @@ def _build_article(args) -> None:
         print("Tidying extracted text (removing page boilerplate)...")
         art.text = llm.tidy(art.title, art.text)
 
+    if args.simplify:
+        print(f"Rewriting at {args.simplify} level...")
+        simple = llm.simplify(lang, args.simplify, art.title, art.text)
+        art.title, art.text = simple["title"], simple["text"]
+
     tokenize = ja.tokenize if lang == "ja" else de.tokenize
     paras = []
     flat_sentences: list[str] = []
@@ -66,6 +71,8 @@ def _build_article(args) -> None:
     if ann.get("titleTranslation"):
         ann["titleTranslation"] = re.sub(
             r"\s*(\([^)]*\))?\s*[-–]\s*Yahoo! News\s*$", "", ann["titleTranslation"])
+    if args.simplify:
+        ann["level"] = args.simplify
     glosses = ann["glosses"]
     i = 0
     for p in paras:
@@ -235,6 +242,8 @@ def main() -> None:
     add.add_argument("--rate", default="-10%", help="Speech rate, e.g. '-20%%' (default -10%%)")
     add.add_argument("--no-audio", action="store_true", help="Skip TTS")
     add.add_argument("--no-tidy", action="store_true", help="Skip LLM cleanup of extracted text")
+    add.add_argument("--simplify", metavar="LEVEL",
+                     help="Rewrite the article at a target level, e.g. N5 or A1")
     add.add_argument("--out", default=str(Path(__file__).resolve().parents[2] / "docs" / "articles"),
                      help="Output directory (default: <repo>/docs/articles)")
     news = sub.add_parser("news", help="List recent headlines (NHK / nachrichtenleicht)")

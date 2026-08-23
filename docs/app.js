@@ -48,6 +48,8 @@ async function isCached(id) {
 
 /* ---------------- Library ---------------- */
 
+const LEVEL_ORDER = ['N5', 'N4', 'N3', 'N2', 'N1', 'A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
+
 async function renderLibrary() {
   stopAudio();
   $app.innerHTML = '';
@@ -64,11 +66,65 @@ async function renderLibrary() {
     return;
   }
 
-  const list = el('div', 'list');
-  if (!index.length) {
-    list.append(el('div', 'empty', 'No articles yet. Add one with the anyread CLI and publish.'));
+  const filters = el('div', 'filters');
+  const listHost = el('div');
+  $app.append(filters, listHost);
+
+  function chip(label, active, onTap) {
+    const b = el('button', 'toggle' + (active ? ' on' : ''), label);
+    b.addEventListener('click', onTap);
+    return b;
   }
-  for (const a of index) {
+
+  function renderFilters() {
+    filters.innerHTML = '';
+    for (const [label, value] of [['All', 'all'], ['日本語', 'ja'], ['Deutsch', 'de']]) {
+      filters.append(chip(label, (settings.filterLang || 'all') === value, () => {
+        settings.filterLang = value;
+        settings.filterLevel = 'all';
+        saveSettings();
+        renderFilters();
+        renderList();
+      }));
+    }
+    const lang = settings.filterLang || 'all';
+    const levels = [...new Set(index
+      .filter((a) => lang === 'all' || a.language === lang)
+      .map((a) => a.level).filter(Boolean))]
+      .sort((a, b) => LEVEL_ORDER.indexOf(a) - LEVEL_ORDER.indexOf(b));
+    if (levels.length > 1) {
+      filters.append(el('span', 'fsep'));
+      for (const lv of levels) {
+        filters.append(chip(lv, settings.filterLevel === lv, () => {
+          settings.filterLevel = settings.filterLevel === lv ? 'all' : lv;
+          saveSettings();
+          renderFilters();
+          renderList();
+        }));
+      }
+    }
+  }
+
+  function renderList() {
+    listHost.innerHTML = '';
+    const lang = settings.filterLang || 'all';
+    const lvl = settings.filterLevel || 'all';
+    const shown = index.filter((a) =>
+      (lang === 'all' || a.language === lang) && (lvl === 'all' || a.level === lvl));
+    buildList(shown);
+  }
+
+  renderFilters();
+  renderList();
+
+  function buildList(entries) {
+  const list = el('div', 'list');
+  if (!entries.length) {
+    list.append(el('div', 'empty', index.length
+      ? 'No articles match this filter.'
+      : 'No articles yet. Add one with the anyread CLI and publish.'));
+  }
+  for (const a of entries) {
     const card = el('div', 'card');
     card.append(el('h2', null, a.title));
     if (a.titleTranslation) card.append(el('p', 'sub', a.titleTranslation));
@@ -101,7 +157,8 @@ async function renderLibrary() {
     });
     list.append(card);
   }
-  $app.append(list);
+  listHost.append(list);
+  }
 }
 
 /* ---------------- Reader ---------------- */
