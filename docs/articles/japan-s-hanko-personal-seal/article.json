@@ -1,0 +1,1290 @@
+{
+ "schemaVersion": 1,
+ "id": "japan-s-hanko-personal-seal",
+ "language": "ja",
+ "title": "日本の「はんこ」",
+ "titleTranslation": "Japan's \"Hanko\" (Personal Seal)",
+ "level": "N5",
+ "summary": "The article explains what a hanko (personal name stamp) is, how and when Japanese people use it in daily life, and how it is gradually being supplemented by signatures.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-23T03:44:49+00:00",
+ "audioFile": "audio.mp3",
+ "voice": "ja-JP-NanamiNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "日本には「はんこ」という物があります。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time particle (\"in/at\")"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "はんこ",
+       "pos": "noun",
+       "romaji": "hanko",
+       "gloss": "personal name stamp/seal"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle (\"that\")"
+      },
+      {
+       "surface": "いう",
+       "pos": "verb",
+       "romaji": "iu",
+       "gloss": "to say/to call"
+      },
+      {
+       "surface": "物",
+       "pos": "noun",
+       "reading": "もの",
+       "romaji": "mono",
+       "gloss": "thing, object"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In Japan, there is a thing called a \"hanko.\"",
+     "audioStart": 0.0,
+     "audioEnd": 4.368
+    },
+    {
+     "text": "はんこは、名前が入った小さいスタンプです。",
+     "tokens": [
+      {
+       "surface": "はんこ",
+       "pos": "noun",
+       "romaji": "hanko",
+       "gloss": "personal name stamp/seal"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "名前",
+       "pos": "noun",
+       "reading": "なまえ",
+       "romaji": "namae",
+       "gloss": "name"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "入っ",
+       "pos": "verb",
+       "reading": "はいっ",
+       "romaji": "haitsu",
+       "lemma": "入る",
+       "gloss": "to enter, to be inserted"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "小さい",
+       "pos": "adjective",
+       "reading": "ちいさい",
+       "romaji": "chiisai",
+       "gloss": "small"
+      },
+      {
+       "surface": "スタンプ",
+       "pos": "noun",
+       "romaji": "sutanpu",
+       "gloss": "stamp"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (\"is\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "A hanko is a small stamp with a name on it.",
+     "audioStart": 4.368,
+     "audioEnd": 9.048
+    },
+    {
+     "text": "木や石で作ります。",
+     "tokens": [
+      {
+       "surface": "木",
+       "pos": "noun",
+       "reading": "き",
+       "romaji": "ki",
+       "gloss": "wood, tree"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list)"
+      },
+      {
+       "surface": "石",
+       "pos": "noun",
+       "reading": "いし",
+       "romaji": "ishi",
+       "gloss": "stone"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "means/location particle (\"with/at\")"
+      },
+      {
+       "surface": "作り",
+       "pos": "verb",
+       "reading": "つくり",
+       "romaji": "tsukuri",
+       "lemma": "作る",
+       "gloss": "to make"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is made of wood or stone.",
+     "audioStart": 9.048,
+     "audioEnd": 11.808
+    },
+    {
+     "text": "日本人はサインの代わりに、はんこをよく使います。",
+     "tokens": [
+      {
+       "surface": "日本人",
+       "pos": "noun",
+       "reading": "にほんじん",
+       "romaji": "nihonjin",
+       "gloss": "Japanese person"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "サイン",
+       "pos": "noun",
+       "romaji": "sain",
+       "gloss": "signature"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizer particle"
+      },
+      {
+       "surface": "代わり",
+       "pos": "noun",
+       "reading": "かわり",
+       "romaji": "kawari",
+       "gloss": "substitute, instead of"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time particle (\"in/at\")"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "はんこ",
+       "pos": "noun",
+       "romaji": "hanko",
+       "gloss": "personal name stamp/seal"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "よく",
+       "pos": "adverb",
+       "romaji": "yoku",
+       "gloss": "often, well"
+      },
+      {
+       "surface": "使い",
+       "pos": "verb",
+       "reading": "つかい",
+       "romaji": "tsukai",
+       "lemma": "使う",
+       "gloss": "to use"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Japanese people often use a hanko instead of a signature.",
+     "audioStart": 11.808,
+     "audioEnd": 16.968
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "銀行でお金を使うとき、はんこがいります。",
+     "tokens": [
+      {
+       "surface": "銀行",
+       "pos": "noun",
+       "reading": "ぎんこう",
+       "romaji": "ginkou",
+       "gloss": "bank"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "means/location particle (\"with/at\")"
+      },
+      {
+       "surface": "お金",
+       "pos": "noun",
+       "reading": "おかね",
+       "romaji": "okane",
+       "gloss": "money"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "使う",
+       "pos": "verb",
+       "reading": "つかう",
+       "romaji": "tsukau",
+       "gloss": "to use"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "time, when"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "はんこ",
+       "pos": "noun",
+       "romaji": "hanko",
+       "gloss": "personal name stamp/seal"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "いり",
+       "pos": "verb",
+       "romaji": "iri",
+       "lemma": "いる",
+       "gloss": "to need, to be necessary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You need a hanko when using money at the bank.",
+     "audioStart": 16.968,
+     "audioEnd": 21.648
+    },
+    {
+     "text": "会社で紙に名前を書くときも、はんこを使います。",
+     "tokens": [
+      {
+       "surface": "会社",
+       "pos": "noun",
+       "reading": "かいしゃ",
+       "romaji": "kaisha",
+       "gloss": "company"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "means/location particle (\"with/at\")"
+      },
+      {
+       "surface": "紙",
+       "pos": "noun",
+       "reading": "かみ",
+       "romaji": "kami",
+       "gloss": "paper"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time particle (\"in/at\")"
+      },
+      {
+       "surface": "名前",
+       "pos": "noun",
+       "reading": "なまえ",
+       "romaji": "namae",
+       "gloss": "name"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "書く",
+       "pos": "verb",
+       "reading": "かく",
+       "romaji": "kaku",
+       "gloss": "to write"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "time, when"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "はんこ",
+       "pos": "noun",
+       "romaji": "hanko",
+       "gloss": "personal name stamp/seal"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "使い",
+       "pos": "verb",
+       "reading": "つかい",
+       "romaji": "tsukai",
+       "lemma": "使う",
+       "gloss": "to use"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You also use a hanko when writing your name on paper at a company.",
+     "audioStart": 21.648,
+     "audioEnd": 26.712
+    },
+    {
+     "text": "はんこに赤いインクをつけて、紙に押します。",
+     "tokens": [
+      {
+       "surface": "はんこ",
+       "pos": "noun",
+       "romaji": "hanko",
+       "gloss": "personal name stamp/seal"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time particle (\"in/at\")"
+      },
+      {
+       "surface": "赤い",
+       "pos": "adjective",
+       "reading": "あかい",
+       "romaji": "akai",
+       "gloss": "red"
+      },
+      {
+       "surface": "インク",
+       "pos": "noun",
+       "romaji": "inku",
+       "gloss": "ink"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "つけ",
+       "pos": "verb",
+       "romaji": "tsuke",
+       "lemma": "つける",
+       "gloss": "to attach, to apply"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "紙",
+       "pos": "noun",
+       "reading": "かみ",
+       "romaji": "kami",
+       "gloss": "paper"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time particle (\"in/at\")"
+      },
+      {
+       "surface": "押し",
+       "pos": "verb",
+       "reading": "おし",
+       "romaji": "oshi",
+       "lemma": "押す",
+       "gloss": "to press, to stamp"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You put red ink on the hanko and press it onto paper.",
+     "audioStart": 26.712,
+     "audioEnd": 31.416
+    },
+    {
+     "text": "これで「私です」という意味になります。",
+     "tokens": [
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore",
+       "gloss": "this"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "means/location particle (\"with/at\")"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "私",
+       "pos": "pronoun",
+       "reading": "わたくし",
+       "romaji": "watakushi",
+       "gloss": "I, me"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (\"is\")"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle (\"that\")"
+      },
+      {
+       "surface": "いう",
+       "pos": "verb",
+       "romaji": "iu",
+       "gloss": "to say/to call"
+      },
+      {
+       "surface": "意味",
+       "pos": "noun",
+       "reading": "いみ",
+       "romaji": "imi",
+       "gloss": "meaning"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time particle (\"in/at\")"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "This means \"It's me.\"",
+     "audioStart": 31.416,
+     "audioEnd": 35.832
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "はんこを作る店はたくさんあります。",
+     "tokens": [
+      {
+       "surface": "はんこ",
+       "pos": "noun",
+       "romaji": "hanko",
+       "gloss": "personal name stamp/seal"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "作る",
+       "pos": "verb",
+       "reading": "つくる",
+       "romaji": "tsukuru",
+       "gloss": "to make"
+      },
+      {
+       "surface": "店",
+       "pos": "noun",
+       "reading": "みせ",
+       "romaji": "mise",
+       "gloss": "shop, store"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "many, a lot"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are many shops that make hanko.",
+     "audioStart": 35.832,
+     "audioEnd": 39.6
+    },
+    {
+     "text": "店で名前を言うと、その名前のはんこを作ってくれます。",
+     "tokens": [
+      {
+       "surface": "店",
+       "pos": "noun",
+       "reading": "みせ",
+       "romaji": "mise",
+       "gloss": "shop, store"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "means/location particle (\"with/at\")"
+      },
+      {
+       "surface": "名前",
+       "pos": "noun",
+       "reading": "なまえ",
+       "romaji": "namae",
+       "gloss": "name"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "言う",
+       "pos": "verb",
+       "reading": "ゆう",
+       "romaji": "yuu",
+       "gloss": "to say"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle (\"that\")"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that (adnominal)"
+      },
+      {
+       "surface": "名前",
+       "pos": "noun",
+       "reading": "なまえ",
+       "romaji": "namae",
+       "gloss": "name"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizer particle"
+      },
+      {
+       "surface": "はんこ",
+       "pos": "noun",
+       "romaji": "hanko",
+       "gloss": "personal name stamp/seal"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "作っ",
+       "pos": "verb",
+       "reading": "つくっ",
+       "romaji": "tsukutsu",
+       "lemma": "作る",
+       "gloss": "to make"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)"
+      },
+      {
+       "surface": "くれ",
+       "pos": "verb",
+       "romaji": "kure",
+       "lemma": "くれる",
+       "gloss": "to give (to me)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If you tell the shop your name, they will make a hanko with that name.",
+     "audioStart": 39.6,
+     "audioEnd": 45.096
+    },
+    {
+     "text": "値段はあまり高くないです。",
+     "tokens": [
+      {
+       "surface": "値段",
+       "pos": "noun",
+       "reading": "ねだん",
+       "romaji": "nedan",
+       "gloss": "price"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "あまり",
+       "pos": "adverb",
+       "romaji": "amari",
+       "gloss": "not very (with negative)"
+      },
+      {
+       "surface": "高く",
+       "pos": "adjective",
+       "reading": "たかく",
+       "romaji": "takaku",
+       "lemma": "高い",
+       "gloss": "expensive, high"
+      },
+      {
+       "surface": "ない",
+       "pos": "adjective",
+       "romaji": "nai",
+       "gloss": "negative marker"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (\"is\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The price is not very high.",
+     "audioStart": 45.096,
+     "audioEnd": 48.528
+    },
+    {
+     "text": "多くの日本人は、自分のはんこを持っています。",
+     "tokens": [
+      {
+       "surface": "多く",
+       "pos": "noun",
+       "reading": "おおく",
+       "romaji": "ooku",
+       "gloss": "many, most"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizer particle"
+      },
+      {
+       "surface": "日本人",
+       "pos": "noun",
+       "reading": "にほんじん",
+       "romaji": "nihonjin",
+       "gloss": "Japanese person"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "自分",
+       "pos": "noun",
+       "reading": "じぶん",
+       "romaji": "jibun",
+       "gloss": "oneself"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizer particle"
+      },
+      {
+       "surface": "はんこ",
+       "pos": "noun",
+       "romaji": "hanko",
+       "gloss": "personal name stamp/seal"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "持っ",
+       "pos": "verb",
+       "reading": "もっ",
+       "romaji": "motsu",
+       "lemma": "持つ",
+       "gloss": "to hold, to have"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to need, to be necessary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many Japanese people have their own hanko.",
+     "audioStart": 48.528,
+     "audioEnd": 53.544
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "今は、パソコンやスマホを使う人が多いです。",
+     "tokens": [
+      {
+       "surface": "今",
+       "pos": "noun",
+       "reading": "いま",
+       "romaji": "ima",
+       "gloss": "now"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "パソコン",
+       "pos": "noun",
+       "romaji": "pasokon",
+       "gloss": "personal computer"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list)"
+      },
+      {
+       "surface": "スマホ",
+       "pos": "noun",
+       "romaji": "sumaho",
+       "gloss": "smartphone"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "使う",
+       "pos": "verb",
+       "reading": "つかう",
+       "romaji": "tsukau",
+       "gloss": "to use"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "多い",
+       "pos": "adjective",
+       "reading": "おおい",
+       "romaji": "ooi",
+       "gloss": "many, numerous"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (\"is\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Nowadays, many people use computers and smartphones.",
+     "audioStart": 53.544,
+     "audioEnd": 58.584
+    },
+    {
+     "text": "だから、サインを使う会社も出てきました。",
+     "tokens": [
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "plain copula (\"is\")"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "so, therefore"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "サイン",
+       "pos": "noun",
+       "romaji": "sain",
+       "gloss": "signature"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "使う",
+       "pos": "verb",
+       "reading": "つかう",
+       "romaji": "tsukau",
+       "gloss": "to use"
+      },
+      {
+       "surface": "会社",
+       "pos": "noun",
+       "reading": "かいしゃ",
+       "romaji": "kaisha",
+       "gloss": "company"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "出",
+       "pos": "verb",
+       "reading": "で",
+       "romaji": "de",
+       "lemma": "出る",
+       "gloss": "to appear, to come out"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)"
+      },
+      {
+       "surface": "き",
+       "pos": "verb",
+       "romaji": "ki",
+       "lemma": "くる",
+       "gloss": "to come (auxiliary, \"has started to\")"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "So, companies that use signatures have also appeared.",
+     "audioStart": 58.584,
+     "audioEnd": 63.024
+    },
+    {
+     "text": "でも、今でもはんこは日本の生活で大切な物です。",
+     "tokens": [
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "means/location particle (\"with/at\")"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "今",
+       "pos": "noun",
+       "reading": "いま",
+       "romaji": "ima",
+       "gloss": "now"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "means/location particle (\"with/at\")"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "はんこ",
+       "pos": "noun",
+       "romaji": "hanko",
+       "gloss": "personal name stamp/seal"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizer particle"
+      },
+      {
+       "surface": "生活",
+       "pos": "noun",
+       "reading": "せいかつ",
+       "romaji": "seikatsu",
+       "gloss": "life, daily living"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "means/location particle (\"with/at\")"
+      },
+      {
+       "surface": "大切",
+       "pos": "adjective",
+       "reading": "たいせつ",
+       "romaji": "taisetsu",
+       "gloss": "important"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "plain copula (\"is\")"
+      },
+      {
+       "surface": "物",
+       "pos": "noun",
+       "reading": "もの",
+       "romaji": "mono",
+       "gloss": "thing, object"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (\"is\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "But even now, the hanko is an important thing in Japanese life.",
+     "audioStart": 63.024,
+     "audioEnd": 68.832
+    }
+   ]
+  }
+ ]
+}

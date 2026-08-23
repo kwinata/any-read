@@ -3,7 +3,7 @@
  "id": "dazaifu-tenmangu-hakata-ramen-and-more-a-route-to-enjoy-fuku",
  "language": "ja",
  "title": "太宰府天満宮・博多ラーメンなど福岡を 2日で楽しむルート",
- "titleTranslation": "Dazaifu Tenmangu, Hakata Ramen, and More: A Route to Enjoy Fukuoka in 2 Days - MATCHA Japan Travel Media (Easy Japanese)",
+ "titleTranslation": "Dazaifu Tenmangu, Hakata Ramen, and More: A Route to Enjoy Fukuoka in 2 Days",
  "level": "N4",
  "summary": "This easy-Japanese travel guide from MATCHA lays out a one-night, two-day route for enjoying Fukuoka, covering shopping in Tenjin, ramen at Ichiran, Seaside Momochi Park and Fukuoka Tower, Nakasu's food stalls, Don Quijote, Ohori Park, Dazaifu Tenmangu shrine, and shopping at Hakata JR City before flying out.",
  "sourceUrl": "https://matcha-jp.com/easy/2622",
@@ -232,7 +232,7 @@
      ],
      "translation": "We introduce a route to enjoy in one night and two days, including the famous Dazaifu Tenmangu in Fukuoka, places where you can eat Hakata ramen, and Tenjin, a place with lots of shopping.",
      "audioStart": 0.0,
-     "audioEnd": 13.152
+     "audioEnd": 12.432
     }
    ]
   },
@@ -299,8 +299,8 @@
       }
      ],
      "translation": "A Route to Enjoy Fukuoka in One Night and Two Days",
-     "audioStart": 13.152,
-     "audioEnd": 17.208
+     "audioStart": 12.432,
+     "audioEnd": 15.96
     }
    ]
   },
@@ -454,8 +454,8 @@
       }
      ],
      "translation": "Fukuoka City, Fukuoka Prefecture, is a city where you can enjoy both things that have existed since long ago and things that are popular now.",
-     "audioStart": 17.208,
-     "audioEnd": 26.664
+     "audioStart": 15.96,
+     "audioEnd": 24.84
     }
    ]
   },
@@ -642,8 +642,8 @@
       }
      ],
      "translation": "This time, we introduce a route to enjoy Fukuoka's food such as Hakata ramen, shopping, sightseeing, and more, in one night and two days!",
-     "audioStart": 26.664,
-     "audioEnd": 37.512
+     "audioStart": 24.84,
+     "audioEnd": 35.016
     }
    ]
   },
@@ -900,8 +900,8 @@
       }
      ],
      "translation": "If you use the \"JR KYUSHU RAIL PASS,\" which lets you ride some Kyushu shinkansen and trains as much as you like, you can also go to places like Kumamoto, Beppu Onsen, and Nagasaki, home to Huis Ten Bosch.",
-     "audioStart": 37.512,
-     "audioEnd": 51.672
+     "audioStart": 35.016,
+     "audioEnd": 48.168
     }
    ]
   },
@@ -1002,8 +1002,8 @@
       }
      ],
      "translation": "Learn more about the JR KYUSHU RAIL PASS, which is convenient for traveling in Kyushu",
-     "audioStart": 51.672,
-     "audioEnd": 57.912
+     "audioStart": 48.168,
+     "audioEnd": 53.592
     }
    ]
   },
@@ -1078,8 +1078,8 @@
       }
      ],
      "translation": "Places to Go on Day 1 and Day 2",
-     "audioStart": 57.912,
-     "audioEnd": 61.392
+     "audioStart": 53.592,
+     "audioEnd": 56.664
     }
    ]
   },
@@ -1113,8 +1113,8 @@
       }
      ],
      "translation": "■Day 1",
-     "audioStart": 61.392,
-     "audioEnd": 63.264
+     "audioStart": 56.664,
+     "audioEnd": 58.44
     }
    ]
   },
@@ -1153,8 +1153,8 @@
       }
      ],
      "translation": "1. Shopping in Tenjin",
-     "audioStart": 63.264,
-     "audioEnd": 66.264
+     "audioStart": 58.44,
+     "audioEnd": 61.272
     }
    ]
   },
@@ -1191,8 +1191,8 @@
       }
      ],
      "translation": "2. Lunch at Ichiran",
-     "audioStart": 66.264,
-     "audioEnd": 69.168
+     "audioStart": 61.272,
+     "audioEnd": 63.768
     }
    ]
   },
@@ -1261,8 +1261,8 @@
       }
      ],
      "translation": "3. Sightseeing at Seaside Momochi Seaside Park and Fukuoka Tower",
-     "audioStart": 69.168,
-     "audioEnd": 75.456
+     "audioStart": 63.768,
+     "audioEnd": 68.904
     }
    ]
   },
@@ -1309,8 +1309,8 @@
       }
      ],
      "translation": "4. Dinner at the Yatai Food Stall Alley",
-     "audioStart": 75.456,
-     "audioEnd": 78.696
+     "audioStart": 68.904,
+     "audioEnd": 71.928
     }
    ]
   },
@@ -1355,8 +1355,8 @@
       }
      ],
      "translation": "5. Late-night shopping at Don Quijote",
-     "audioStart": 78.696,
-     "audioEnd": 82.896
+     "audioStart": 71.928,
+     "audioEnd": 75.264
     }
    ]
   },
@@ -1390,8 +1390,8 @@
       }
      ],
      "translation": "■Day 2",
-     "audioStart": 82.896,
-     "audioEnd": 84.672
+     "audioStart": 75.264,
+     "audioEnd": 77.04
     }
    ]
   },
@@ -1438,8 +1438,8 @@
       }
      ],
      "translation": "1. Morning walk at Ohori Park",
-     "audioStart": 84.672,
-     "audioEnd": 88.632
+     "audioStart": 77.04,
+     "audioEnd": 80.4
     }
    ]
   },
@@ -1479,8 +1479,8 @@
       }
      ],
      "translation": "2. Food-hopping in Dazaifu",
-     "audioStart": 88.632,
-     "audioEnd": 91.728
+     "audioStart": 80.4,
+     "audioEnd": 83.136
     }
    ]
   },
@@ -1543,8 +1543,8 @@
       }
      ],
      "translation": "3. Final shopping at Hakata JR City",
-     "audioStart": 91.728,
-     "audioEnd": 96.36
+     "audioStart": 83.136,
+     "audioEnd": 87.36
     }
    ]
   },
@@ -1608,8 +1608,8 @@
       }
      ],
      "translation": "Day 1 Morning | Shopping in Tenjin!",
-     "audioStart": 96.36,
-     "audioEnd": 100.56
+     "audioStart": 87.36,
+     "audioEnd": 91.008
     }
    ]
   },
@@ -1712,8 +1712,8 @@
       }
      ],
      "translation": "On the morning of Day 1, we go sightseeing near Tenjin Station.",
-     "audioStart": 100.56,
-     "audioEnd": 106.512
+     "audioStart": 91.008,
+     "audioEnd": 96.6
     },
     {
      "text": "「天神」は　福岡の　中心地(※)で、ショッピングに　ちょうどいい　場所です。",
@@ -1824,8 +1824,8 @@
       }
      ],
      "translation": "\"Tenjin\" is the center of Fukuoka, and a perfect place for shopping.",
-     "audioStart": 106.512,
-     "audioEnd": 112.776
+     "audioStart": 96.6,
+     "audioEnd": 102.528
     }
    ]
   },
@@ -2023,8 +2023,8 @@
       }
      ],
      "translation": "If you want to buy brand-name clothes, cosmetics, or food, it's a good idea to go to \"Daimaru Fukuoka Tenjin Store\" or \"Fukuoka Mitsukoshi.\"",
-     "audioStart": 112.776,
-     "audioEnd": 122.952
+     "audioStart": 102.528,
+     "audioEnd": 112.128
     }
    ]
   },
@@ -2187,8 +2187,8 @@
       }
      ],
      "translation": "If you want to buy new, popular items, try going to \"Fukuoka PARCO\" or \"SOLARIA STAGE.\"",
-     "audioStart": 122.952,
-     "audioEnd": 131.832
+     "audioStart": 112.128,
+     "audioEnd": 119.976
     },
     {
      "text": "天神には　いろいろな　お店が　集まっています。",
@@ -2271,8 +2271,8 @@
       }
      ],
      "translation": "Many different shops are gathered in Tenjin.",
-     "audioStart": 131.832,
-     "audioEnd": 136.272
+     "audioStart": 119.976,
+     "audioEnd": 123.936
     }
    ]
   },
@@ -2384,8 +2384,8 @@
       }
      ],
      "translation": "And underground in Tenjin, there is the \"Tenjin Underground Shopping Mall.\"",
-     "audioStart": 136.272,
-     "audioEnd": 141.84
+     "audioStart": 123.936,
+     "audioEnd": 129.36
     },
     {
      "text": "ここは、空港線などの　電車の　改札(※)から　そのまま　行くことが　できる　場所です。",
@@ -2519,8 +2519,8 @@
       }
      ],
      "translation": "This is a place you can go to directly from the ticket gates of trains like the Airport Line.",
-     "audioStart": 141.84,
-     "audioEnd": 149.592
+     "audioStart": 129.36,
+     "audioEnd": 136.32
     },
     {
      "text": "服、雑貨(※)、食べ物など　150くらいの　店が　並んでいます。",
@@ -2635,8 +2635,8 @@
       }
      ],
      "translation": "About 150 shops line the mall, selling clothes, miscellaneous goods, food, and more.",
-     "audioStart": 149.592,
-     "audioEnd": 155.688
+     "audioStart": 136.32,
+     "audioEnd": 142.176
     },
     {
      "text": "雨の日でも　ショッピングを　楽しめますよ。",
@@ -2711,8 +2711,8 @@
       }
      ],
      "translation": "You can enjoy shopping even on rainy days.",
-     "audioStart": 155.688,
-     "audioEnd": 159.696
+     "audioStart": 142.176,
+     "audioEnd": 145.92
     }
    ]
   },
@@ -2773,8 +2773,8 @@
       }
      ],
      "translation": "[Tenjin] View the location on Google Maps",
-     "audioStart": 159.696,
-     "audioEnd": 163.44
+     "audioStart": 145.92,
+     "audioEnd": 149.28
     }
    ]
   },
@@ -2845,8 +2845,8 @@
       }
      ],
      "translation": "Day 1 Noon | Lunch at Ichiran!",
-     "audioStart": 163.44,
-     "audioEnd": 167.328
+     "audioStart": 149.28,
+     "audioEnd": 152.64
     }
    ]
   },
@@ -3055,8 +3055,8 @@
       }
      ],
      "translation": "For lunch, let's eat tonkotsu ramen at \"Ichiran,\" a famous and popular ramen shop in Japan, about a 10-minute walk from Tenjin Station.",
-     "audioStart": 167.328,
-     "audioEnd": 178.704
+     "audioStart": 152.64,
+     "audioEnd": 163.152
     }
    ]
   },
@@ -3225,8 +3225,8 @@
       }
      ],
      "translation": "The ramen we really want you to try here is the Kamadare Tonkotsu Ramen, served in a bowl different from the usual one.",
-     "audioStart": 178.704,
-     "audioEnd": 187.92
+     "audioStart": 163.152,
+     "audioEnd": 171.528
     },
     {
      "text": "このラーメンは、天神西通り店だけで　食べられます。",
@@ -3320,8 +3320,8 @@
       }
      ],
      "translation": "This ramen can only be eaten at the Tenjin Nishi-dori branch.",
-     "audioStart": 187.92,
-     "audioEnd": 193.272
+     "audioStart": 171.528,
+     "audioEnd": 176.448
     }
    ]
   },
@@ -3417,8 +3417,8 @@
       }
      ],
      "translation": "[Ichiran Tenjin Nishi-dori Store] View the location on Google Maps",
-     "audioStart": 193.272,
-     "audioEnd": 198.6
+     "audioStart": 176.448,
+     "audioEnd": 181.128
     }
    ]
   },
@@ -3495,8 +3495,8 @@
       }
      ],
      "translation": "Day 1 Afternoon | Seaside Momochi Seaside Park & Fukuoka Tower",
-     "audioStart": 198.6,
-     "audioEnd": 205.344
+     "audioStart": 181.128,
+     "audioEnd": 186.816
     }
    ]
   },
@@ -3607,8 +3607,8 @@
       }
      ],
      "translation": "Take a bus from Tenjin to go near the sea in Fukuoka.",
-     "audioStart": 205.344,
-     "audioEnd": 210.912
+     "audioStart": 186.816,
+     "audioEnd": 192.024
     },
     {
      "text": "ビーチの　散歩や　ショッピングが　楽しめる　公園「シーサイドももち海浜公園」に　行きましょう。",
@@ -3718,8 +3718,8 @@
       }
      ],
      "translation": "Let's go to \"Seaside Momochi Seaside Park,\" a park where you can enjoy a beach walk and shopping.",
-     "audioStart": 210.912,
-     "audioEnd": 218.856
+     "audioStart": 192.024,
+     "audioEnd": 199.248
     }
    ]
   },
@@ -3909,8 +3909,8 @@
       }
      ],
      "translation": "In the park there is a shop called \"Marizon\" on the sea, where you can relax at a cafe or restaurant while looking at the ocean.",
-     "audioStart": 218.856,
-     "audioEnd": 228.288
+     "audioStart": 199.248,
+     "audioEnd": 208.056
     }
    ]
   },
@@ -3983,8 +3983,8 @@
       }
      ],
      "translation": "[Seaside Momochi Seaside Park] View the location on Google Maps",
-     "audioStart": 228.288,
-     "audioEnd": 234.048
+     "audioStart": 208.056,
+     "audioEnd": 213.048
     }
    ]
   },
@@ -4157,8 +4157,8 @@
       }
      ],
      "translation": "Furthermore, in the park there is \"Fukuoka Tower,\" where you can see a 360° view of Fukuoka from a height of 234m.",
-     "audioStart": 234.048,
-     "audioEnd": 245.232
+     "audioStart": 213.048,
+     "audioEnd": 223.2
     }
    ]
   },
@@ -4282,8 +4282,8 @@
       }
      ],
      "translation": "At night too, the night view of Fukuoka's cityscape and the tower's lighting are beautiful!",
-     "audioStart": 245.232,
-     "audioEnd": 251.904
+     "audioStart": 223.2,
+     "audioEnd": 229.752
     }
    ]
   },
@@ -4350,8 +4350,8 @@
       }
      ],
      "translation": "[Fukuoka Tower] View the location on Google Maps",
-     "audioStart": 251.904,
-     "audioEnd": 256.104
+     "audioStart": 229.752,
+     "audioEnd": 233.448
     }
    ]
   },
@@ -4456,8 +4456,8 @@
       }
      ],
      "translation": "Day 1 Night | Enjoy Fukuoka Food at Nakasu Yatai Food Stall Alley!",
-     "audioStart": 256.104,
-     "audioEnd": 262.128
+     "audioStart": 233.448,
+     "audioEnd": 238.68
     }
    ]
   },
@@ -4538,8 +4538,8 @@
       }
      ],
      "translation": "\"Nakasu Yatai Food Stall Alley\" is a famous place people want to visit.",
-     "audioStart": 262.128,
-     "audioEnd": 267.096
+     "audioStart": 238.68,
+     "audioEnd": 242.928
     },
     {
      "text": "海浜公園から　バスで　中洲の　屋台横丁に　行きます。",
@@ -4622,8 +4622,8 @@
       }
      ],
      "translation": "Take a bus from the seaside park to the food stall alley in Nakasu.",
-     "audioStart": 267.096,
-     "audioEnd": 272.352
+     "audioStart": 242.928,
+     "audioEnd": 247.776
     }
    ]
   },
@@ -4726,8 +4726,8 @@
       }
      ],
      "translation": "Here, you can eat various dishes at counter seats.",
-     "audioStart": 272.352,
-     "audioEnd": 277.68
+     "audioStart": 247.776,
+     "audioEnd": 252.624
     },
     {
      "text": "焼き鳥や　おでん、博多ラーメンなどを　福岡の　人たちと　一緒に　楽しみましょう。",
@@ -4846,8 +4846,8 @@
       }
      ],
      "translation": "Let's enjoy things like yakitori, oden, and Hakata ramen together with the people of Fukuoka.",
-     "audioStart": 277.68,
-     "audioEnd": 284.784
+     "audioStart": 252.624,
+     "audioEnd": 258.912
     }
    ]
   },
@@ -4922,8 +4922,8 @@
       }
      ],
      "translation": "[Nakasu Yatai Food Stall Alley] View the location on Google Maps",
-     "audioStart": 284.784,
-     "audioEnd": 289.656
+     "audioStart": 258.912,
+     "audioEnd": 263.16
     }
    ]
   },
@@ -5044,8 +5044,8 @@
       }
      ],
      "translation": "Day 1 Late Night | Let's buy souvenirs at Don Quijote, which is open 24 hours!",
-     "audioStart": 289.656,
-     "audioEnd": 296.88
+     "audioStart": 263.16,
+     "audioEnd": 269.256
     }
    ]
   },
@@ -5145,8 +5145,8 @@
       }
      ],
      "translation": "\"Don Quijote Fukuoka Tenjin Main Store\" is a shop open 24 hours.",
-     "audioStart": 296.88,
-     "audioEnd": 303.624
+     "audioStart": 269.256,
+     "audioEnd": 275.184
     },
     {
      "text": "中洲屋台横丁から　歩いて　行くことが　できます。",
@@ -5230,8 +5230,8 @@
       }
      ],
      "translation": "You can walk there from Nakasu Yatai Food Stall Alley.",
-     "audioStart": 303.624,
-     "audioEnd": 308.616
+     "audioStart": 275.184,
+     "audioEnd": 279.48
     }
    ]
   },
@@ -5371,8 +5371,8 @@
       }
      ],
      "translation": "MATCHA has prepared coupons that foreign visitors traveling in Japan can use.",
-     "audioStart": 308.616,
-     "audioEnd": 315.744
+     "audioStart": 279.48,
+     "audioEnd": 285.936
     },
     {
      "text": "こちらを　使って、福岡の　ドン・キホーテで　ショッピングを　楽しんでくださいね！",
@@ -5477,8 +5477,8 @@
       }
      ],
      "translation": "Please use this and enjoy shopping at Don Quijote in Fukuoka!",
-     "audioStart": 315.744,
-     "audioEnd": 322.56
+     "audioStart": 285.936,
+     "audioEnd": 292.104
     }
    ]
   },
@@ -5559,8 +5559,8 @@
       }
      ],
      "translation": "[Don Quijote Fukuoka Tenjin Main Store] View the location on Google Maps",
-     "audioStart": 322.56,
-     "audioEnd": 328.776
+     "audioStart": 292.104,
+     "audioEnd": 297.312
     }
    ]
   },
@@ -5632,8 +5632,8 @@
       }
      ],
      "translation": "Day 2 Morning | Let's Walk in Ohori Park!",
-     "audioStart": 328.776,
-     "audioEnd": 333.48
+     "audioStart": 297.312,
+     "audioEnd": 301.56
     }
    ]
   },
@@ -5726,8 +5726,8 @@
       }
      ],
      "translation": "On the morning of Day 2, let's go to \"Ohori Park.\"",
-     "audioStart": 333.48,
-     "audioEnd": 338.16
+     "audioStart": 301.56,
+     "audioEnd": 305.856
     },
     {
      "text": "公園には「スターバックス コーヒー 福岡大濠公園店」が　あるので、コーヒーを　飲みながら　散歩を　するのも　いいですよ。",
@@ -5902,8 +5902,8 @@
       }
      ],
      "translation": "There is a \"Starbucks Coffee Fukuoka Ohori Park Store\" in the park, so it's also nice to walk while drinking coffee.",
-     "audioStart": 338.16,
-     "audioEnd": 348.12
+     "audioStart": 305.856,
+     "audioEnd": 314.952
     }
    ]
   },
@@ -5982,8 +5982,8 @@
       }
      ],
      "translation": "This is a place that people from Fukuoka often visit too.",
-     "audioStart": 348.12,
-     "audioEnd": 352.296
+     "audioStart": 314.952,
+     "audioEnd": 318.576
     },
     {
      "text": "犬の　散歩や　ジョギング、ウォーキングをしている　人が　たくさん　います。",
@@ -6093,8 +6093,8 @@
       }
      ],
      "translation": "There are many people walking their dogs, jogging, and walking.",
-     "audioStart": 352.296,
-     "audioEnd": 358.32
+     "audioStart": 318.576,
+     "audioEnd": 324.048
     }
    ]
   },
@@ -6251,8 +6251,8 @@
       }
      ],
      "translation": "The \"Fukuoka Art Museum,\" where you can see works by Yayoi Kusama, is also inside the park.",
-     "audioStart": 358.32,
-     "audioEnd": 366.312
+     "audioStart": 324.048,
+     "audioEnd": 331.44
     }
    ]
   },
@@ -6313,8 +6313,8 @@
       }
      ],
      "translation": "[Ohori Park] View the location on Google Maps",
-     "audioStart": 366.312,
-     "audioEnd": 370.608
+     "audioStart": 331.44,
+     "audioEnd": 335.256
     }
    ]
   },
@@ -6380,8 +6380,8 @@
       }
      ],
      "translation": "Day 2 Afternoon | Let's Enjoy Dazaifu!",
-     "audioStart": 370.608,
-     "audioEnd": 374.472
+     "audioStart": 335.256,
+     "audioEnd": 338.832
     }
    ]
   },
@@ -6483,8 +6483,8 @@
       }
      ],
      "translation": "Next, let's take a train to \"Dazaifu Tenmangu.\"",
-     "audioStart": 374.472,
-     "audioEnd": 380.16
+     "audioStart": 338.832,
+     "audioEnd": 344.232
     }
    ]
   },
@@ -6609,8 +6609,8 @@
       }
      ],
      "translation": "It's a shrine visited by many people every year to pray for success on exams and other things.",
-     "audioStart": 380.16,
-     "audioEnd": 387.192
+     "audioStart": 344.232,
+     "audioEnd": 350.568
     }
    ]
   },
@@ -6799,8 +6799,8 @@
       }
      ],
      "translation": "From Ohori Park, ride a bus for about 10 minutes to Tenjin Station, then from Tenjin Station ride the Nishitetsu train for about 20 minutes to get to Dazaifu.",
-     "audioStart": 387.192,
-     "audioEnd": 398.136
+     "audioStart": 350.568,
+     "audioEnd": 360.48
     }
    ]
   },
@@ -6912,8 +6912,8 @@
       }
      ],
      "translation": "Along the road to the shrine, many shops line the street.",
-     "audioStart": 398.136,
-     "audioEnd": 403.512
+     "audioStart": 360.48,
+     "audioEnd": 365.376
     },
     {
      "text": "あんこが　入った　おかしの　梅ヶ枝餅が　有名です。",
@@ -7001,8 +7001,8 @@
       }
      ],
      "translation": "Umegae-mochi, a sweet filled with red bean paste, is famous.",
-     "audioStart": 403.512,
-     "audioEnd": 408.408
+     "audioStart": 365.376,
+     "audioEnd": 369.72
     }
    ]
   },
@@ -7070,8 +7070,8 @@
       }
      ],
      "translation": "[Dazaifu Tenmangu] View the location on Google Maps",
-     "audioStart": 408.408,
-     "audioEnd": 412.896
+     "audioStart": 369.72,
+     "audioEnd": 373.824
     }
    ]
   },
@@ -7141,8 +7141,8 @@
       }
      ],
      "translation": "Day 2 Evening | 15 Minutes to the Airport!",
-     "audioStart": 412.896,
-     "audioEnd": 417.336
+     "audioStart": 373.824,
+     "audioEnd": 377.64
     },
     {
      "text": "博多JRシティで　最後まで　料理や　ショッピングを　楽しもう",
@@ -7219,8 +7219,8 @@
       }
      ],
      "translation": "Enjoy food and shopping to the very end at Hakata JR City",
-     "audioStart": 417.336,
-     "audioEnd": 422.976
+     "audioStart": 377.64,
+     "audioEnd": 382.968
     }
    ]
   },
@@ -7397,8 +7397,8 @@
       }
      ],
      "translation": "At the end of the trip, take the train from Dazaifu to Hakata Station, and let's go to \"Hakata JR City,\" which you can reach directly from the station.",
-     "audioStart": 422.976,
-     "audioEnd": 432.696
+     "audioStart": 382.968,
+     "audioEnd": 391.824
     }
    ]
   },
@@ -7550,8 +7550,8 @@
       }
      ],
      "translation": "Hakata JR City has many shops, such as \"Hakata Hankyu,\" \"KITTE Hakata,\" and \"Amu Plaza Hakata.\"",
-     "audioStart": 432.696,
-     "audioEnd": 441.768
+     "audioStart": 391.824,
+     "audioEnd": 399.624
     }
    ]
   },
@@ -7618,8 +7618,8 @@
       }
      ],
      "translation": "There, you can enjoy both shopping and food.",
-     "audioStart": 441.768,
-     "audioEnd": 445.584
+     "audioStart": 399.624,
+     "audioEnd": 403.176
     },
     {
      "text": "博多駅から　福岡空港まで　電車で　15分くらいで　行けるので、最後まで　福岡旅行を　楽しむことが　できますよ！",
@@ -7788,8 +7788,8 @@
       }
      ],
      "translation": "You can get from Hakata Station to Fukuoka Airport by train in about 15 minutes, so you can enjoy your Fukuoka trip right up to the end!",
-     "audioStart": 445.584,
-     "audioEnd": 455.544
+     "audioStart": 403.176,
+     "audioEnd": 412.248
     }
    ]
   },
@@ -7861,8 +7861,8 @@
       }
      ],
      "translation": "[JR Hakata City] View the location on Google Maps",
-     "audioStart": 455.544,
-     "audioEnd": 460.176
+     "audioStart": 412.248,
+     "audioEnd": 416.424
     }
    ]
   },
@@ -7935,8 +7935,8 @@
       }
      ],
      "translation": "Let's Enjoy a One Night, Two Day Trip to Fukuoka!",
-     "audioStart": 460.176,
-     "audioEnd": 464.304
+     "audioStart": 416.424,
+     "audioEnd": 420.168
     }
    ]
   },
@@ -8083,8 +8083,8 @@
       }
      ],
      "translation": "Fukuoka has many fun places, such as places to shop, restaurants with delicious food, and parks.",
-     "audioStart": 464.304,
-     "audioEnd": 472.848
+     "audioStart": 420.168,
+     "audioEnd": 428.088
     }
    ]
   },
@@ -8194,8 +8194,8 @@
       }
      ],
      "translation": "Please be sure to enjoy Fukuoka using the route introduced in this article!",
-     "audioStart": 472.848,
-     "audioEnd": 478.656
+     "audioStart": 428.088,
+     "audioEnd": 433.632
     }
    ]
   },
@@ -8339,10 +8339,11 @@
       }
      ],
      "translation": "This article, originally written on May 24, 2022, was rewritten in October 2023.",
-     "audioStart": 478.656,
-     "audioEnd": 487.296
+     "audioStart": 433.632,
+     "audioEnd": 441.168
     }
    ]
   }
- ]
+ ],
+ "voice": "ja-JP-KeitaNeural"
 }

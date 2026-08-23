@@ -52,7 +52,7 @@
      ],
      "translation": "Jamal Musiala is a German football player.",
      "audioStart": 0.0,
-     "audioEnd": 4.152
+     "audioEnd": 4.032
     },
     {
      "text": "Er spielt beim Verein Bayern München.",
@@ -93,8 +93,8 @@
       }
      ],
      "translation": "He plays for the club Bayern Munich.",
-     "audioStart": 4.152,
-     "audioEnd": 7.536
+     "audioStart": 4.032,
+     "audioEnd": 7.32
     },
     {
      "text": "Musiala ist bei 2 Spielen ohnmächtig geworden.",
@@ -139,8 +139,8 @@
       }
      ],
      "translation": "Musiala has fainted during 2 matches.",
-     "audioStart": 7.536,
-     "audioEnd": 12.12
+     "audioStart": 7.32,
+     "audioEnd": 11.568
     },
     {
      "text": "Viele Menschen haben sich Sorgen gemacht.",
@@ -181,8 +181,8 @@
       }
      ],
      "translation": "Many people have been worried.",
-     "audioStart": 12.12,
-     "audioEnd": 15.528
+     "audioStart": 11.568,
+     "audioEnd": 14.928
     },
     {
      "text": "Jetzt hat Musiala gesagt: Ich habe eine Krankheit.",
@@ -237,8 +237,8 @@
       }
      ],
      "translation": "Now Musiala has said: I have an illness.",
-     "audioStart": 15.528,
-     "audioEnd": 20.28
+     "audioStart": 14.928,
+     "audioEnd": 19.296
     },
     {
      "text": "Aber ich kann weiter Fußball spielen.",
@@ -279,8 +279,8 @@
       }
      ],
      "translation": "But I can keep playing football.",
-     "audioStart": 20.28,
-     "audioEnd": 23.664
+     "audioStart": 19.296,
+     "audioEnd": 22.584
     }
    ]
   },
@@ -328,8 +328,8 @@
       }
      ],
      "translation": "The illness is called \"neurological dysfunction\".",
-     "audioStart": 23.664,
-     "audioEnd": 28.824
+     "audioStart": 22.584,
+     "audioEnd": 27.12
     },
     {
      "text": "Das bedeutet: In Musialas Gehirn funktioniert manchmal etwas nicht richtig.",
@@ -394,8 +394,8 @@
       }
      ],
      "translation": "That means: something in Musiala's brain sometimes doesn't work correctly.",
-     "audioStart": 28.824,
-     "audioEnd": 34.992
+     "audioStart": 27.12,
+     "audioEnd": 33.024
     },
     {
      "text": "Dann wird er kurz ohnmächtig.",
@@ -431,8 +431,8 @@
       }
      ],
      "translation": "Then he briefly faints.",
-     "audioStart": 34.992,
-     "audioEnd": 37.92
+     "audioStart": 33.024,
+     "audioEnd": 36.024
     },
     {
      "text": "Danach geht es ihm wieder gut.",
@@ -473,8 +473,8 @@
       }
      ],
      "translation": "Afterward he feels fine again.",
-     "audioStart": 37.92,
-     "audioEnd": 40.92
+     "audioStart": 36.024,
+     "audioEnd": 38.856
     }
    ]
   },
@@ -548,8 +548,8 @@
       }
      ],
      "translation": "Musiala's doctors say: The illness is not very dangerous.",
-     "audioStart": 40.92,
-     "audioEnd": 46.896
+     "audioStart": 38.856,
+     "audioEnd": 44.448
     },
     {
      "text": "Musiala darf weiter Fußball spielen.",
@@ -585,8 +585,8 @@
       }
      ],
      "translation": "Musiala is allowed to keep playing football.",
-     "audioStart": 46.896,
-     "audioEnd": 50.688
+     "audioStart": 44.448,
+     "audioEnd": 48.0
     }
    ]
   },
@@ -650,8 +650,8 @@
       }
      ],
      "translation": "His club Bayern Munich says: We support Jamal Musiala.",
-     "audioStart": 50.688,
-     "audioEnd": 56.232
+     "audioStart": 48.0,
+     "audioEnd": 53.304
     },
     {
      "text": "Das Wichtigste ist seine Gesundheit.",
@@ -687,8 +687,8 @@
       }
      ],
      "translation": "The most important thing is his health.",
-     "audioStart": 56.232,
-     "audioEnd": 59.592
+     "audioStart": 53.304,
+     "audioEnd": 56.496
     }
    ]
   },
@@ -743,8 +743,8 @@
       }
      ],
      "translation": "Bayern Munich plays on Saturday against Borussia Dortmund.",
-     "audioStart": 59.592,
-     "audioEnd": 64.488
+     "audioStart": 56.496,
+     "audioEnd": 61.248
     },
     {
      "text": "Ob Musiala mitspielt, ist noch nicht klar.",
@@ -794,8 +794,8 @@
       }
      ],
      "translation": "Whether Musiala will play is not yet clear.",
-     "audioStart": 64.488,
-     "audioEnd": 68.568
+     "audioStart": 61.248,
+     "audioEnd": 65.472
     }
    ]
   },
@@ -860,8 +860,8 @@
       }
      ],
      "translation": "The football club Bayern Munich is one of the most successful in Germany.",
-     "audioStart": 68.568,
-     "audioEnd": 74.424
+     "audioStart": 65.472,
+     "audioEnd": 71.016
     },
     {
      "text": "Die Mannschaft ist schon sehr oft Deutscher Meister geworden.",
@@ -917,8 +917,8 @@
       }
      ],
      "translation": "The team has become German champion very often already.",
-     "audioStart": 74.424,
-     "audioEnd": 78.936
+     "audioStart": 71.016,
+     "audioEnd": 75.12
     },
     {
      "text": "In Europa hat sie mehrmals die Champions League gewonnen.",
@@ -974,10 +974,11 @@
       }
      ],
      "translation": "In Europe, it has won the Champions League several times.",
-     "audioStart": 78.936,
-     "audioEnd": 83.568
+     "audioStart": 75.12,
+     "audioEnd": 79.56
     }
    ]
   }
- ]
+ ],
+ "voice": "de-DE-KillianNeural"
 }

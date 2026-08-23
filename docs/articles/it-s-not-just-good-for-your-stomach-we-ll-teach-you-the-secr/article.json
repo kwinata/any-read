@@ -65,7 +65,7 @@
      ],
      "translation": "It's not just good for your stomach!",
      "audioStart": 0.0,
-     "audioEnd": 2.88
+     "audioEnd": 2.496
     },
     {
      "text": "日本の乳酸菌飲料「ヤクルト」の秘密を教えます",
@@ -139,8 +139,8 @@
       }
      ],
      "translation": "We'll tell you the secrets of Japan's lactic acid bacteria drink 'Yakult'",
-     "audioStart": 2.88,
-     "audioEnd": 8.568
+     "audioStart": 2.496,
+     "audioEnd": 7.632
     }
    ]
   },
@@ -257,8 +257,8 @@
       }
      ],
      "translation": "The lactic acid bacteria drink 'Yakult' is a beverage that was born in Japan about 90 years ago.",
-     "audioStart": 8.568,
-     "audioEnd": 16.104
+     "audioStart": 7.632,
+     "audioEnd": 14.736
     },
     {
      "text": "この記事では、日本で長いあいだ愛されている「ヤクルト」の名前の由来や容器の形の理由など、ヤクルトの秘密を紹介します！",
@@ -485,8 +485,8 @@
       }
      ],
      "translation": "In this article, we'll introduce the secrets of Yakult, which has long been loved in Japan, such as the origin of its name and the reason for the shape of its container!",
-     "audioStart": 16.104,
-     "audioEnd": 27.768
+     "audioStart": 14.736,
+     "audioEnd": 25.32
     }
    ]
   },
@@ -554,8 +554,8 @@
       }
      ],
      "translation": "How was 'Yakult' created?",
-     "audioStart": 27.768,
-     "audioEnd": 31.008
+     "audioStart": 25.32,
+     "audioEnd": 28.224
     }
    ]
   },
@@ -606,8 +606,8 @@
       }
      ],
      "translation": "Minoru Shirota, who created Yakult",
-     "audioStart": 31.008,
-     "audioEnd": 34.368
+     "audioStart": 28.224,
+     "audioEnd": 31.224
     }
    ]
   },
@@ -772,8 +772,8 @@
       }
      ],
      "translation": "'Yakult' contains a lactic acid bacteria called 'Lactobacillus casei Shirota strain' (hereafter, Shirota strain).",
-     "audioStart": 34.368,
-     "audioEnd": 42.84
+     "audioStart": 31.224,
+     "audioEnd": 38.88
     },
     {
      "text": "この「シロタ株」は、酸(※)に強いので、胃液(※)・胆汁(※)などの消化液(※)に負けないで生きたまま腸(※)にとどきます(※)。",
@@ -1039,8 +1039,8 @@
       }
      ],
      "translation": "Because this 'Shirota strain' is resistant to acid, it reaches the intestines alive without being defeated by digestive fluids such as gastric juice and bile.",
-     "audioStart": 42.84,
-     "audioEnd": 53.232
+     "audioStart": 38.88,
+     "audioEnd": 49.728
     },
     {
      "text": "そして、「シロタ株」は腸の中の良い菌(※)を多くして、悪い菌を少なくして、腸の中の環境(※)を良くします。",
@@ -1288,8 +1288,8 @@
       }
      ],
      "translation": "Then, the 'Shirota strain' increases the good bacteria in the intestines and decreases the bad bacteria, improving the environment inside the intestines.",
-     "audioStart": 53.232,
-     "audioEnd": 63.48
+     "audioStart": 49.728,
+     "audioEnd": 59.736
     }
    ]
   },
@@ -1424,8 +1424,8 @@
       }
      ],
      "translation": "The 'Shirota strain' was discovered by Minoru Shirota, who created 'Yakult'.",
-     "audioStart": 63.48,
-     "audioEnd": 69.504
+     "audioStart": 59.736,
+     "audioEnd": 65.592
     }
    ]
   },
@@ -1563,8 +1563,8 @@
       }
      ],
      "translation": "When Shirota was a child, Japan's sanitary environment was not good.",
-     "audioStart": 69.504,
-     "audioEnd": 76.128
+     "audioStart": 65.592,
+     "audioEnd": 71.784
     },
     {
      "text": "感染症(※)で死ぬ子どもがたくさんいました。",
@@ -1646,8 +1646,8 @@
       }
      ],
      "translation": "There were many children who died of infectious diseases.",
-     "audioStart": 76.128,
-     "audioEnd": 80.544
+     "audioStart": 71.784,
+     "audioEnd": 75.672
     },
     {
      "text": "代田はそのような子どもがたくさんいることが悲しかったので、微生物(※)を研究しました。",
@@ -1810,8 +1810,8 @@
       }
      ],
      "translation": "Shirota was saddened that there were so many such children, so he studied microorganisms.",
-     "audioStart": 80.544,
-     "audioEnd": 88.44
+     "audioStart": 75.672,
+     "audioEnd": 83.184
     }
    ]
   },
@@ -2014,8 +2014,8 @@
       }
      ],
      "translation": "While researching microorganisms, Shirota discovered that live lactic acid bacteria have a good effect inside the intestines.",
-     "audioStart": 88.44,
-     "audioEnd": 98.544
+     "audioStart": 83.184,
+     "audioEnd": 92.328
     },
     {
      "text": "しかし、ふつうの乳酸菌は胃液や胆汁などの消化液で死んでしまいます。",
@@ -2133,8 +2133,8 @@
       }
      ],
      "translation": "However, ordinary lactic acid bacteria die from digestive fluids such as gastric juice and bile.",
-     "audioStart": 98.544,
-     "audioEnd": 105.96
+     "audioStart": 92.328,
+     "audioEnd": 98.928
     }
    ]
   },
@@ -2333,8 +2333,8 @@
       }
      ],
      "translation": "So, Shirota researched how to strengthen and cultivate lactic acid bacteria so they could reach the intestines alive.",
-     "audioStart": 105.96,
-     "audioEnd": 116.112
+     "audioStart": 98.928,
+     "audioEnd": 108.12
     }
    ]
   },
@@ -2476,8 +2476,8 @@
       }
      ],
      "translation": "There were many hardships, but in 1930 he finally found a strong lactic acid bacteria.",
-     "audioStart": 116.112,
-     "audioEnd": 124.44
+     "audioStart": 108.12,
+     "audioEnd": 115.728
     },
     {
      "text": "この乳酸菌が「シロタ株」です。",
@@ -2534,8 +2534,8 @@
       }
      ],
      "translation": "This lactic acid bacteria is the 'Shirota strain'.",
-     "audioStart": 124.44,
-     "audioEnd": 128.256
+     "audioStart": 115.728,
+     "audioEnd": 119.472
     }
    ]
   },
@@ -2589,8 +2589,8 @@
       }
      ],
      "translation": "The history of Yakult and the origin of its name",
-     "audioStart": 128.256,
-     "audioEnd": 132.12
+     "audioStart": 119.472,
+     "audioEnd": 122.568
     }
    ]
   },
@@ -2717,8 +2717,8 @@
       }
      ],
      "translation": "The 'Shirota Preventive Bacteria Research Institute' (Fukuoka), which began making and selling 'Yakult'",
-     "audioStart": 132.12,
-     "audioEnd": 139.128
+     "audioStart": 122.568,
+     "audioEnd": 129.048
     }
    ]
   },
@@ -3140,8 +3140,8 @@
       }
      ],
      "translation": "After becoming able to strengthen and cultivate the 'Shirota strain', in order to help more people with the 'Shirota strain', Shirota, together with colleagues, began making and selling the lactic acid bacteria drink 'Yakult' in 1935 at the Shirota Preventive Bacteria Research Institute in Fukuoka Prefecture, Japan.",
-     "audioStart": 139.128,
-     "audioEnd": 161.784
+     "audioStart": 129.048,
+     "audioEnd": 150.288
     }
    ]
   },
@@ -3364,8 +3364,8 @@
       }
      ],
      "translation": "At that time, 'Yakult' came in a glass container, and it was something the buyer would dilute themselves before drinking.",
-     "audioStart": 161.784,
-     "audioEnd": 170.832
+     "audioStart": 150.288,
+     "audioEnd": 159.192
     }
    ]
   },
@@ -3557,8 +3557,8 @@
       }
      ],
      "translation": "In 1940, the 'Shirota Preventive Bacteria Promotion Association', an organization for selling 'Yakult', was established all over Japan.",
-     "audioStart": 170.832,
-     "audioEnd": 180.696
+     "audioStart": 159.192,
+     "audioEnd": 167.976
     },
     {
      "text": "そして、「ヤクルト」が日本のいろいろなところで売られました。",
@@ -3665,8 +3665,8 @@
       }
      ],
      "translation": "And 'Yakult' was sold in various places across Japan.",
-     "audioStart": 180.696,
-     "audioEnd": 186.024
+     "audioStart": 167.976,
+     "audioEnd": 172.968
     }
    ]
   },
@@ -3868,8 +3868,8 @@
       }
      ],
      "translation": "The name 'Yakult' was created from the feeling of wanting to help with health, a wish shared by the whole world.",
-     "audioStart": 186.024,
-     "audioEnd": 195.408
+     "audioStart": 172.968,
+     "audioEnd": 181.536
     },
     {
      "text": "それは世界共通語(※)として作られたエスペラント語で「ヨーグルト」という意味の「ヤフルト(Jahurto)」から作った言葉です。",
@@ -4076,8 +4076,8 @@
       }
      ],
      "translation": "It is a word made from 'Jahurto', which means 'yogurt' in Esperanto, a language created as a universal world language.",
-     "audioStart": 195.408,
-     "audioEnd": 206.16
+     "audioStart": 181.536,
+     "audioEnd": 191.856
     },
     {
      "text": "「ヤフルト」を日本人でも言いやすい「ヤクルト」に変えました。",
@@ -4183,8 +4183,8 @@
       }
      ],
      "translation": "'Jahurto' was changed to 'Yakult', which is easier for Japanese people to say.",
-     "audioStart": 206.16,
-     "audioEnd": 211.512
+     "audioStart": 191.856,
+     "audioEnd": 196.8
     }
    ]
   },
@@ -4235,8 +4235,8 @@
       }
      ],
      "translation": "The secret of Yakult's container",
-     "audioStart": 211.512,
-     "audioEnd": 214.656
+     "audioStart": 196.8,
+     "audioEnd": 199.56
     }
    ]
   },
@@ -4411,8 +4411,8 @@
       }
      ],
      "translation": "Yakult's glass container from the 1950s (left) and Yakult from around when it changed to a plastic container (right)",
-     "audioStart": 214.656,
-     "audioEnd": 224.52
+     "audioStart": 199.56,
+     "audioEnd": 208.656
     }
    ]
   },
@@ -4610,8 +4610,8 @@
       }
      ],
      "translation": "'Yakult' is a drink loved by many people, from children to adults, in many countries and regions around the world.",
-     "audioStart": 224.52,
-     "audioEnd": 233.928
+     "audioStart": 208.656,
+     "audioEnd": 217.32
     },
     {
      "text": "多くの人から愛される理由の1つは、印象的な(※)形の容器でしょう。",
@@ -4749,8 +4749,8 @@
       }
      ],
      "translation": "One reason it's loved by so many people is probably its container's distinctive shape.",
-     "audioStart": 233.928,
-     "audioEnd": 241.008
+     "audioStart": 217.32,
+     "audioEnd": 224.064
     }
    ]
   },
@@ -4861,8 +4861,8 @@
       }
      ],
      "translation": "Easy to hold even for small children's hands, and just right for adult hands too.",
-     "audioStart": 241.008,
-     "audioEnd": 246.48
+     "audioStart": 224.064,
+     "audioEnd": 229.104
     },
     {
      "text": "そんな容器が生まれたのは、1968年のことです。",
@@ -4952,8 +4952,8 @@
       }
      ],
      "translation": "That container was created in 1968.",
-     "audioStart": 246.48,
-     "audioEnd": 252.648
+     "audioStart": 229.104,
+     "audioEnd": 234.792
     }
    ]
   },
@@ -5077,8 +5077,8 @@
       }
      ],
      "translation": "Until then, 'Yakult' was sold in heavy glass containers.",
-     "audioStart": 252.648,
-     "audioEnd": 258.144
+     "audioStart": 234.792,
+     "audioEnd": 239.832
     },
     {
      "text": "しかし、お客さん(※)に届ける(※)「ヤクルト」の数(※)が増えると、「ヤクルト」を届ける人はそれらを持ったまま歩くので、とても大変でした。",
@@ -5333,8 +5333,8 @@
       }
      ],
      "translation": "However, as the number of 'Yakult' delivered to customers increased, it became very hard because the delivery people had to walk while carrying them.",
-     "audioStart": 258.144,
-     "audioEnd": 270.408
+     "audioStart": 239.832,
+     "audioEnd": 251.28
     },
     {
      "text": "そして、ガラスの容器は回収(※)しなければなりませんでした。",
@@ -5453,8 +5453,8 @@
       }
      ],
      "translation": "And the glass containers had to be collected.",
-     "audioStart": 270.408,
-     "audioEnd": 276.216
+     "audioStart": 251.28,
+     "audioEnd": 256.968
     }
    ]
   },
@@ -5602,8 +5602,8 @@
       }
      ],
      "translation": "So a new plastic container that was light and didn't need to be collected was created.",
-     "audioStart": 276.216,
-     "audioEnd": 284.016
+     "audioStart": 256.968,
+     "audioEnd": 264.048
     }
    ]
   },
@@ -5774,8 +5774,8 @@
       }
      ],
      "translation": "The design of that container was created by Isamu Kenmochi, a designer who was famous at the time.",
-     "audioStart": 284.016,
-     "audioEnd": 294.216
+     "audioStart": 264.048,
+     "audioEnd": 272.64
     },
     {
      "text": "剣持さんはいろいろな条件(※)に合う新しい容器のデザインを考え、くびれがある独特の(※)形を作りました。",
@@ -5971,8 +5971,8 @@
       }
      ],
      "translation": "Kenmochi designed a new container that met various conditions and created a unique shape with a narrow waist.",
-     "audioStart": 294.216,
-     "audioEnd": 304.512
+     "audioStart": 272.64,
+     "audioEnd": 282.168
     }
    ]
   },
@@ -6167,8 +6167,8 @@
       }
      ],
      "translation": "Because it has a narrow waist, it's easy to hold, and it's designed so the Yakult inside doesn't all go into your mouth at once.",
-     "audioStart": 304.512,
-     "audioEnd": 312.72
+     "audioStart": 282.168,
+     "audioEnd": 289.848
     },
     {
      "text": "だから、「ヤクルト」をゆっくり楽しめるようになりました。",
@@ -6261,8 +6261,8 @@
       }
      ],
      "translation": "So it became possible to enjoy 'Yakult' slowly.",
-     "audioStart": 312.72,
-     "audioEnd": 317.808
+     "audioStart": 289.848,
+     "audioEnd": 294.552
     }
    ]
   },
@@ -6378,8 +6378,8 @@
       }
      ],
      "translation": "Yakult's container, registered as a three-dimensional trademark in 2011",
-     "audioStart": 317.808,
-     "audioEnd": 324.504
+     "audioStart": 294.552,
+     "audioEnd": 300.624
     }
    ]
   },
@@ -6504,8 +6504,8 @@
       }
      ],
      "translation": "Because 'Yakult' changed to a plastic container, it became easier to carry.",
-     "audioStart": 324.504,
-     "audioEnd": 330.768
+     "audioStart": 300.624,
+     "audioEnd": 306.264
     },
     {
      "text": "そして、その容器の形も多くの人の心に残りました。",
@@ -6618,8 +6618,8 @@
       }
      ],
      "translation": "And the shape of that container also stayed in the hearts of many people.",
-     "audioStart": 330.768,
-     "audioEnd": 336.72
+     "audioStart": 306.264,
+     "audioEnd": 311.736
     }
    ]
   },
@@ -6973,8 +6973,8 @@
       }
      ],
      "translation": "In Japan, just seeing the shape of this container makes many people immediately think of 'Yakult', so in 2011 this container was registered as a three-dimensional trademark.",
-     "audioStart": 336.72,
-     "audioEnd": 352.872
+     "audioStart": 311.736,
+     "audioEnd": 326.424
     }
    ]
   },
@@ -7028,8 +7028,8 @@
       }
      ],
      "translation": "Which 'Yakult' is popular?",
-     "audioStart": 352.872,
-     "audioEnd": 355.8
+     "audioStart": 326.424,
+     "audioEnd": 329.232
     },
     {
      "text": "どこで買える？",
@@ -7059,8 +7059,8 @@
       }
      ],
      "translation": "Where can you buy it?",
-     "audioStart": 355.8,
-     "audioEnd": 357.912
+     "audioStart": 329.232,
+     "audioEnd": 331.176
     }
    ]
   },
@@ -7197,8 +7197,8 @@
       }
      ],
      "translation": "In Japan, various kinds of 'Yakult' are sold, and all of them are popular.",
-     "audioStart": 357.912,
-     "audioEnd": 364.08
+     "audioStart": 331.176,
+     "audioEnd": 337.008
     }
    ]
   },
@@ -7285,8 +7285,8 @@
       }
      ],
      "translation": "We'll introduce a few products you can buy in Japan.",
-     "audioStart": 364.08,
-     "audioEnd": 368.688
+     "audioStart": 337.008,
+     "audioEnd": 341.232
     }
    ]
   },
@@ -7451,8 +7451,8 @@
       }
      ],
      "translation": "New Yakult: One bottle (65ml) of Yakult contains 20 billion 'Shirota strain' bacteria.",
-     "audioStart": 368.688,
-     "audioEnd": 378.216
+     "audioStart": 341.232,
+     "audioEnd": 350.28
     }
    ]
   },
@@ -7553,8 +7553,8 @@
       }
      ],
      "translation": "In the photo, from left, are 'Yakult 1000' and 'Y1000'.",
-     "audioStart": 378.216,
-     "audioEnd": 383.856
+     "audioStart": 350.28,
+     "audioEnd": 355.752
     }
    ]
   },
@@ -7812,8 +7812,8 @@
       }
      ],
      "translation": "Yakult1000: One bottle (100ml) contains 100 billion 'Shirota strain' bacteria, a high density of 1 billion per ml.",
-     "audioStart": 383.856,
-     "audioEnd": 397.08
+     "audioStart": 355.752,
+     "audioEnd": 368.328
     },
     {
      "text": "一時的に(※)精神的な(※)ストレスを感じるとき「ストレスを緩和する(※)」「睡眠(※)の質(※)をよくする」機能(※)があります。",
@@ -8054,8 +8054,8 @@
       }
      ],
      "translation": "It has functions to 'relieve stress' and 'improve sleep quality' when you temporarily feel mental stress.",
-     "audioStart": 397.08,
-     "audioEnd": 407.88
+     "audioStart": 368.328,
+     "audioEnd": 378.984
     },
     {
      "text": "店では売っていません。",
@@ -8120,8 +8120,8 @@
       }
      ],
      "translation": "It is not sold in stores.",
-     "audioStart": 407.88,
-     "audioEnd": 410.688
+     "audioStart": 378.984,
+     "audioEnd": 381.456
     },
     {
      "text": "訪問販売員(※)から買うことができます。",
@@ -8196,8 +8196,8 @@
       }
      ],
      "translation": "You can buy it from door-to-door salespeople.",
-     "audioStart": 410.688,
-     "audioEnd": 415.128
+     "audioStart": 381.456,
+     "audioEnd": 385.704
     }
    ]
   },
@@ -8336,8 +8336,8 @@
       }
      ],
      "translation": "Y1000: One bottle (110ml) contains 110 billion 'Shirota strain' bacteria.",
-     "audioStart": 415.128,
-     "audioEnd": 423.384
+     "audioStart": 385.704,
+     "audioEnd": 393.288
     },
     {
      "text": "「Yakult1000」と同じように高密度の「シロタ株」が入っていて、一時的に精神的なストレスを感じるとき「ストレスを緩和する」「睡眠の質をよくする」機能があると報告(※)されています。",
@@ -8672,8 +8672,8 @@
       }
      ],
      "translation": "Like 'Yakult1000', it contains a high density of 'Shirota strain', and is reported to have functions to 'relieve stress' and 'improve sleep quality' when temporarily feeling mental stress.",
-     "audioStart": 423.384,
-     "audioEnd": 439.776
+     "audioStart": 393.288,
+     "audioEnd": 407.88
     },
     {
      "text": "こちらはスーパーマーケットやコンビニエンスストアで買えます。",
@@ -8734,8 +8734,8 @@
       }
      ],
      "translation": "This one can be bought at supermarkets and convenience stores.",
-     "audioStart": 439.776,
-     "audioEnd": 445.272
+     "audioStart": 407.88,
+     "audioEnd": 412.68
     }
    ]
   },
@@ -8777,8 +8777,8 @@
       }
      ],
      "translation": "About the Yakult Lady",
-     "audioStart": 445.272,
-     "audioEnd": 448.032
+     "audioStart": 412.68,
+     "audioEnd": 415.08
     }
    ]
   },
@@ -8868,8 +8868,8 @@
       }
      ],
      "translation": "A Yakult Lady delivering 'Yakult' to a customer (right)",
-     "audioStart": 448.032,
-     "audioEnd": 452.616
+     "audioStart": 415.08,
+     "audioEnd": 418.992
     }
    ]
   },
@@ -8975,8 +8975,8 @@
       }
      ],
      "translation": "'New Yakult', 'Y1000' and others can be bought at convenience stores and supermarkets.",
-     "audioStart": 452.616,
-     "audioEnd": 459.456
+     "audioStart": 418.992,
+     "audioEnd": 425.016
     }
    ]
   },
@@ -9131,8 +9131,8 @@
       }
      ],
      "translation": "In addition, there are door-to-door salespeople called Yakult Ladies who visit homes and companies to sell 'Yakult'.",
-     "audioStart": 459.456,
-     "audioEnd": 467.688
+     "audioStart": 425.016,
+     "audioEnd": 432.816
     }
    ]
   },
@@ -9195,8 +9195,8 @@
       }
      ],
      "translation": "A Yakult Lady in the 1960s (Japan)",
-     "audioStart": 467.688,
-     "audioEnd": 472.656
+     "audioStart": 432.816,
+     "audioEnd": 437.208
     }
    ]
   },
@@ -9433,8 +9433,8 @@
       }
      ],
      "translation": "From the very beginning, 'Yakult' was sold by visiting homes in order to directly convey Yakult's good points to customers.",
-     "audioStart": 472.656,
-     "audioEnd": 483.648
+     "audioStart": 437.208,
+     "audioEnd": 447.336
     }
    ]
   },
@@ -9734,8 +9734,8 @@
       }
      ],
      "translation": "At first, many customers were housewives, so thinking 'it would be easier to talk if the door-to-door salesperson was also a woman', women began working as door-to-door salespeople in 1963.",
-     "audioStart": 483.648,
-     "audioEnd": 500.424
+     "audioStart": 447.336,
+     "audioEnd": 462.024
     },
     {
      "text": "今はヤクルトレディと言っています。",
@@ -9804,8 +9804,8 @@
       }
      ],
      "translation": "Now they are called Yakult Ladies.",
-     "audioStart": 500.424,
-     "audioEnd": 503.808
+     "audioStart": 462.024,
+     "audioEnd": 465.072
     }
    ]
   },
@@ -9958,8 +9958,8 @@
       }
      ],
      "translation": "As 'Yakult' spread to other countries and regions, the Yakult Lady system spread along with it.",
-     "audioStart": 503.808,
-     "audioEnd": 511.584
+     "audioStart": 465.072,
+     "audioEnd": 471.936
     },
     {
      "text": "今、アジアの国はもちろん、ブラジルやメキシコでもヤクルトレディが活躍(※)しています。",
@@ -10109,8 +10109,8 @@
       }
      ],
      "translation": "Now, Yakult Ladies are active not only in Asian countries but also in Brazil and Mexico.",
-     "audioStart": 511.584,
-     "audioEnd": 519.528
+     "audioStart": 471.936,
+     "audioEnd": 479.616
     }
    ]
   },
@@ -10247,8 +10247,8 @@
       }
      ],
      "translation": "If you meet a Yakult Lady in Japan, you can buy 'Yakult' directly from them!",
-     "audioStart": 519.528,
-     "audioEnd": 526.848
+     "audioStart": 479.616,
+     "audioEnd": 486.576
     },
     {
      "text": "（買うときは、たいてい現金(※)を使います）",
@@ -10331,8 +10331,8 @@
       }
      ],
      "translation": "(When buying, you usually use cash)",
-     "audioStart": 526.848,
-     "audioEnd": 531.096
+     "audioStart": 486.576,
+     "audioEnd": 490.776
     }
    ]
   },
@@ -10378,8 +10378,8 @@
       }
      ],
      "translation": "'Loving Visit Activity'",
-     "audioStart": 531.096,
-     "audioEnd": 533.856
+     "audioStart": 490.776,
+     "audioEnd": 493.272
     }
    ]
   },
@@ -10654,8 +10654,8 @@
       }
      ],
      "translation": "Yakult Ladies not only deliver products to customers, but also share health information and watch over the areas where they deliver 'Yakult'.",
-     "audioStart": 533.856,
-     "audioEnd": 546.168
+     "audioStart": 493.272,
+     "audioEnd": 504.96
     }
    ]
   },
@@ -11020,8 +11020,8 @@
       }
      ],
      "translation": "In Japan, where the population is aging, Yakult Ladies carry out a 'Loving Visit Activity' where, while delivering products, they check whether elderly people living alone are doing well and talk with elderly people.",
-     "audioStart": 546.168,
-     "audioEnd": 563.328
+     "audioStart": 504.96,
+     "audioEnd": 520.944
     },
     {
      "text": "この活動(※)は、生活の中であまり話す人がいない高齢の人たちを元気にして、彼らの心の支え(※)になっています。",
@@ -11278,8 +11278,8 @@
       }
      ],
      "translation": "This activity energizes elderly people who don't have many people to talk to in daily life, and becomes emotional support for them.",
-     "audioStart": 563.328,
-     "audioEnd": 574.128
+     "audioStart": 520.944,
+     "audioEnd": 531.144
     }
    ]
   },
@@ -11325,8 +11325,8 @@
       }
      ],
      "translation": "Yakult's official character, Yakult Man",
-     "audioStart": 574.128,
-     "audioEnd": 578.568
+     "audioStart": 531.144,
+     "audioEnd": 534.792
     }
    ]
   },
@@ -11343,8 +11343,8 @@
       }
      ],
      "translation": "Yakult Man",
-     "audioStart": 578.568,
-     "audioEnd": 580.632
+     "audioStart": 534.792,
+     "audioEnd": 536.688
     }
    ]
   },
@@ -11435,8 +11435,8 @@
       }
      ],
      "translation": "Yakult has an official character called 'Yakult Man'.",
-     "audioStart": 580.632,
-     "audioEnd": 586.224
+     "audioStart": 536.688,
+     "audioEnd": 541.728
     },
     {
      "text": "おなかの平和(※)を守る(※)ヒーローです。",
@@ -11515,8 +11515,8 @@
       }
      ],
      "translation": "He is a hero who protects the peace of your stomach.",
-     "audioStart": 586.224,
-     "audioEnd": 590.184
+     "audioStart": 541.728,
+     "audioEnd": 545.736
     }
    ]
   },
@@ -11757,8 +11757,8 @@
       }
      ],
      "translation": "Yakult Man has companions such as Yakult Man Blue, the Bacteria Brothers, and Dr. Kunitachi, and they share interesting stories about Yakult through fun videos and manga.",
-     "audioStart": 590.184,
-     "audioEnd": 604.032
+     "audioStart": 545.736,
+     "audioEnd": 559.056
     },
     {
      "text": "ぜひ応援(※)してくださいね！",
@@ -11820,8 +11820,8 @@
       }
      ],
      "translation": "Please cheer them on!",
-     "audioStart": 604.032,
-     "audioEnd": 607.248
+     "audioStart": 559.056,
+     "audioEnd": 562.32
     }
    ]
   },
@@ -11879,8 +11879,8 @@
       }
      ],
      "translation": "A drink indispensable to daily life",
-     "audioStart": 607.248,
-     "audioEnd": 611.232
+     "audioStart": 562.32,
+     "audioEnd": 565.872
     }
    ]
   },
@@ -12093,8 +12093,8 @@
       }
      ],
      "translation": "'Yakult' is a drink indispensable to Japanese people's lives, and has long been helpful to the health of many people.",
-     "audioStart": 611.232,
-     "audioEnd": 621.432
+     "audioStart": 565.872,
+     "audioEnd": 575.664
     }
    ]
   },
@@ -12386,8 +12386,8 @@
       }
      ],
      "translation": "'Yakult' is now sold in 40 countries and regions around the world, so if you haven't tried it yet, please check here to see if 'Yakult' is available in your country.",
-     "audioStart": 621.432,
-     "audioEnd": 634.056
+     "audioStart": 575.664,
+     "audioEnd": 587.664
     }
    ]
   },
@@ -12601,10 +12601,11 @@
       }
      ],
      "translation": "Also, when you visit Japan, try looking for a 'Yakult' at supermarkets and convenience stores that's a little different from the 'Yakult' in your own country!",
-     "audioStart": 634.056,
-     "audioEnd": 647.016
+     "audioStart": 587.664,
+     "audioEnd": 600.12
     }
    ]
   }
- ]
+ ],
+ "voice": "ja-JP-KeitaNeural"
 }

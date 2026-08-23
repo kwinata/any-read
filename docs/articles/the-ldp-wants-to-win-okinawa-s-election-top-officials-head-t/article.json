@@ -1,0 +1,4235 @@
+{
+ "schemaVersion": 1,
+ "id": "the-ldp-wants-to-win-okinawa-s-election-top-officials-head-t",
+ "language": "ja",
+ "title": "自民党、沖縄の選挙に勝ちたいえらい人たちが沖縄へ",
+ "titleTranslation": "The LDP wants to win Okinawa's election — top officials head to Okinawa",
+ "level": "N5",
+ "summary": "Ahead of Okinawa's gubernatorial election, the LDP is sending its senior officials to campaign for candidate Genta Koja in hopes of retaking the governorship after 12 years, while downplaying its party image to attract broader support.",
+ "sourceUrl": "https://news.yahoo.co.jp/articles/159f49741fc2b95108a9b25f7f9a187e270529db",
+ "createdAt": "2026-08-23T03:41:41+00:00",
+ "audioFile": "audio.mp3",
+ "voice": "ja-JP-KeitaNeural",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "沖縄県知事を決める選挙が8月27日に始まります。",
+     "tokens": [
+      {
+       "surface": "沖縄",
+       "pos": "noun",
+       "reading": "おきなわ",
+       "romaji": "okinawa",
+       "gloss": "Okinawa"
+      },
+      {
+       "surface": "県知事",
+       "pos": "noun",
+       "reading": "けんちじ",
+       "romaji": "kenchiji",
+       "gloss": "prefectural governor"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "決める",
+       "pos": "verb",
+       "reading": "きめる",
+       "romaji": "kimeru",
+       "gloss": "to decide"
+      },
+      {
+       "surface": "選挙",
+       "pos": "noun",
+       "reading": "せんきょ",
+       "romaji": "senkyo",
+       "gloss": "election"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "8",
+       "pos": "noun",
+       "gloss": "eight"
+      },
+      {
+       "surface": "月",
+       "pos": "noun",
+       "reading": "がつ",
+       "romaji": "gatsu",
+       "gloss": "month"
+      },
+      {
+       "surface": "27",
+       "pos": "noun",
+       "gloss": "twenty-seven"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "time/target marker \"on/at\""
+      },
+      {
+       "surface": "始まり",
+       "pos": "verb",
+       "reading": "はじまり",
+       "romaji": "hajimari",
+       "lemma": "始まる",
+       "gloss": "to begin"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The election to decide Okinawa's governor starts on August 27.",
+     "audioStart": 0.0,
+     "audioEnd": 5.52
+    },
+    {
+     "text": "投票は9月13日です。",
+     "tokens": [
+      {
+       "surface": "投票",
+       "pos": "noun",
+       "reading": "とうひょう",
+       "romaji": "touhyou",
+       "gloss": "voting"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "9",
+       "pos": "noun",
+       "gloss": "nine"
+      },
+      {
+       "surface": "月",
+       "pos": "noun",
+       "reading": "がつ",
+       "romaji": "gatsu",
+       "gloss": "month"
+      },
+      {
+       "surface": "13",
+       "pos": "noun",
+       "gloss": "thirteen"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula \"is\""
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Voting is on September 13.",
+     "audioStart": 5.52,
+     "audioEnd": 8.688
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "自民党は12年ぶりにこの選挙に勝ちたいです。",
+     "tokens": [
+      {
+       "surface": "自民党",
+       "pos": "noun",
+       "reading": "じみんとう",
+       "romaji": "jimintou",
+       "gloss": "Liberal Democratic Party (LDP)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "12",
+       "pos": "noun",
+       "gloss": "twelve"
+      },
+      {
+       "surface": "年",
+       "pos": "noun",
+       "reading": "ねん",
+       "romaji": "nen",
+       "gloss": "year"
+      },
+      {
+       "surface": "ぶり",
+       "pos": "suffix",
+       "romaji": "buri",
+       "gloss": "for the first time in (a span)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "time/target marker \"on/at\""
+      },
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this"
+      },
+      {
+       "surface": "選挙",
+       "pos": "noun",
+       "reading": "せんきょ",
+       "romaji": "senkyo",
+       "gloss": "election"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "time/target marker \"on/at\""
+      },
+      {
+       "surface": "勝ち",
+       "pos": "verb",
+       "reading": "かち",
+       "romaji": "kachi",
+       "lemma": "勝つ",
+       "gloss": "to win"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desire suffix)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula \"is\""
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The LDP wants to win this election for the first time in 12 years.",
+     "audioStart": 8.688,
+     "audioEnd": 13.272
+    },
+    {
+     "text": "だから、党のえらい人たちがたくさん沖縄へ行っています。",
+     "tokens": [
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "copula \"is\" (plain form)"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "because/so"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "党",
+       "pos": "noun",
+       "reading": "とう",
+       "romaji": "tou",
+       "gloss": "party"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "えらい",
+       "pos": "adjective",
+       "romaji": "erai",
+       "gloss": "senior/important"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "たち",
+       "pos": "suffix",
+       "romaji": "tachi",
+       "gloss": "plural suffix"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many"
+      },
+      {
+       "surface": "沖縄",
+       "pos": "noun",
+       "reading": "おきなわ",
+       "romaji": "okinawa",
+       "gloss": "Okinawa"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "direction marker \"to\""
+      },
+      {
+       "surface": "行っ",
+       "pos": "verb",
+       "reading": "いっ",
+       "romaji": "itsu",
+       "lemma": "行く",
+       "gloss": "to go"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "So many senior party officials are going to Okinawa.",
+     "audioStart": 13.272,
+     "audioEnd": 18.408
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "自民党は古謝玄太さん（42歳）を応援しています。",
+     "tokens": [
+      {
+       "surface": "自民党",
+       "pos": "noun",
+       "reading": "じみんとう",
+       "romaji": "jimintou",
+       "gloss": "Liberal Democratic Party (LDP)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "古謝",
+       "pos": "noun",
+       "reading": "こざ",
+       "romaji": "koza",
+       "gloss": "Koja (surname)"
+      },
+      {
+       "surface": "玄太",
+       "pos": "noun",
+       "reading": "げんた",
+       "romaji": "genta",
+       "gloss": "Genta (given name)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "Mr./Ms. (honorific)"
+      },
+      {
+       "surface": "（",
+       "pos": "punct"
+      },
+      {
+       "surface": "42",
+       "pos": "noun",
+       "gloss": "forty-two"
+      },
+      {
+       "surface": "歳",
+       "pos": "suffix",
+       "reading": "さい",
+       "romaji": "sai",
+       "gloss": "years old (counter)"
+      },
+      {
+       "surface": "）",
+       "pos": "punct"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "応援",
+       "pos": "noun",
+       "reading": "おうえん",
+       "romaji": "ouen",
+       "gloss": "support/cheering"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The LDP is supporting Genta Koja (42).",
+     "audioStart": 18.408,
+     "audioEnd": 23.784
+    },
+    {
+     "text": "古謝さんは前は那覇市の仕事をしていました。",
+     "tokens": [
+      {
+       "surface": "古謝",
+       "pos": "noun",
+       "reading": "こざ",
+       "romaji": "koza",
+       "gloss": "Koja (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "Mr./Ms. (honorific)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "前",
+       "pos": "noun",
+       "reading": "まえ",
+       "romaji": "mae",
+       "gloss": "before/previously"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "那覇市",
+       "pos": "noun",
+       "reading": "なはし",
+       "romaji": "nahashi",
+       "gloss": "Naha City"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "仕事",
+       "pos": "noun",
+       "reading": "しごと",
+       "romaji": "shigoto",
+       "gloss": "job/work"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense suffix"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Mr. Koja previously worked for the city of Naha.",
+     "audioStart": 23.784,
+     "audioEnd": 27.816
+    },
+    {
+     "text": "古謝さんは他の党からも応援されています。",
+     "tokens": [
+      {
+       "surface": "古謝",
+       "pos": "noun",
+       "reading": "こざ",
+       "romaji": "koza",
+       "gloss": "Koja (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "Mr./Ms. (honorific)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "他",
+       "pos": "noun",
+       "reading": "た",
+       "romaji": "ta",
+       "gloss": "other"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "党",
+       "pos": "noun",
+       "reading": "とう",
+       "romaji": "tou",
+       "gloss": "party"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "because/so"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too"
+      },
+      {
+       "surface": "応援",
+       "pos": "noun",
+       "reading": "おうえん",
+       "romaji": "ouen",
+       "gloss": "support/cheering"
+      },
+      {
+       "surface": "さ",
+       "pos": "verb",
+       "romaji": "sa",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Mr. Koja is also being supported by other parties.",
+     "audioStart": 27.816,
+     "audioEnd": 31.896
+    },
+    {
+     "text": "だから、自民党は「自民党の色」を強く出さないようにしています。",
+     "tokens": [
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "copula \"is\" (plain form)"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "because/so"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "自民党",
+       "pos": "noun",
+       "reading": "じみんとう",
+       "romaji": "jimintou",
+       "gloss": "Liberal Democratic Party (LDP)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "自民党",
+       "pos": "noun",
+       "reading": "じみんとう",
+       "romaji": "jimintou",
+       "gloss": "Liberal Democratic Party (LDP)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "色",
+       "pos": "noun",
+       "reading": "いろ",
+       "romaji": "iro",
+       "gloss": "color"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "強く",
+       "pos": "adjective",
+       "reading": "つよく",
+       "romaji": "tsuyoku",
+       "lemma": "強い",
+       "gloss": "strong"
+      },
+      {
+       "surface": "出さ",
+       "pos": "verb",
+       "reading": "ださ",
+       "romaji": "dasa",
+       "lemma": "出す",
+       "gloss": "to show/put out"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix"
+      },
+      {
+       "surface": "よう",
+       "pos": "adjective",
+       "romaji": "you",
+       "gloss": "so as to / in order to"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula \"is\" (plain form)"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "So the LDP is trying not to show its \"LDP colors\" too strongly.",
+     "audioStart": 31.896,
+     "audioEnd": 38.064
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "8月20日、浦添市で古謝さんの集会がありました。",
+     "tokens": [
+      {
+       "surface": "8",
+       "pos": "noun",
+       "gloss": "eight"
+      },
+      {
+       "surface": "月",
+       "pos": "noun",
+       "reading": "がつ",
+       "romaji": "gatsu",
+       "gloss": "month"
+      },
+      {
+       "surface": "20",
+       "pos": "noun",
+       "gloss": "twenty"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "浦添市",
+       "pos": "noun",
+       "reading": "うらそえし",
+       "romaji": "urasoeshi",
+       "gloss": "Urasoe City"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location marker \"at/in\""
+      },
+      {
+       "surface": "古謝",
+       "pos": "noun",
+       "reading": "こざ",
+       "romaji": "koza",
+       "gloss": "Koja (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "Mr./Ms. (honorific)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "集会",
+       "pos": "noun",
+       "reading": "しゅうかい",
+       "romaji": "shuukai",
+       "gloss": "rally/gathering"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist/be held (for events)"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense suffix"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On August 20, Mr. Koja held a rally in Urasoe City.",
+     "audioStart": 38.064,
+     "audioEnd": 43.104
+    },
+    {
+     "text": "自民党の西村さんは「古謝さんが約束したことを、みんな実現します」と話しました。",
+     "tokens": [
+      {
+       "surface": "自民党",
+       "pos": "noun",
+       "reading": "じみんとう",
+       "romaji": "jimintou",
+       "gloss": "Liberal Democratic Party (LDP)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "西村",
+       "pos": "noun",
+       "reading": "にしむら",
+       "romaji": "nishimura",
+       "gloss": "Nishimura (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "Mr./Ms. (honorific)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "古謝",
+       "pos": "noun",
+       "reading": "こざ",
+       "romaji": "koza",
+       "gloss": "Koja (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "Mr./Ms. (honorific)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "約束",
+       "pos": "noun",
+       "reading": "やくそく",
+       "romaji": "yakusoku",
+       "gloss": "promise"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense suffix"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing/matter (nominalizer)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "みんな",
+       "pos": "noun",
+       "romaji": "minna",
+       "gloss": "everyone"
+      },
+      {
+       "surface": "実現",
+       "pos": "noun",
+       "reading": "じつげん",
+       "romaji": "jitsugen",
+       "gloss": "realization/fulfillment"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker"
+      },
+      {
+       "surface": "話し",
+       "pos": "verb",
+       "reading": "はなし",
+       "romaji": "hanashi",
+       "lemma": "話す",
+       "gloss": "to speak"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense suffix"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The LDP's Mr. Nishimura said, \"We will make everything Mr. Koja promised happen.\"",
+     "audioStart": 43.104,
+     "audioEnd": 50.712
+    },
+    {
+     "text": "古謝さんは米軍の基地の話はしませんでした。",
+     "tokens": [
+      {
+       "surface": "古謝",
+       "pos": "noun",
+       "reading": "こざ",
+       "romaji": "koza",
+       "gloss": "Koja (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "Mr./Ms. (honorific)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "米軍",
+       "pos": "noun",
+       "reading": "べいぐん",
+       "romaji": "beigun",
+       "gloss": "U.S. military"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "基地",
+       "pos": "noun",
+       "reading": "きち",
+       "romaji": "kichi",
+       "gloss": "base"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "話",
+       "pos": "noun",
+       "reading": "はなし",
+       "romaji": "hanashi",
+       "gloss": "talk/story"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (classical, base of -ません)"
+      },
+      {
+       "surface": "でし",
+       "pos": "auxiliary",
+       "romaji": "deshi",
+       "lemma": "です",
+       "gloss": "polite copula \"is\""
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense suffix"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Mr. Koja did not talk about the U.S. military bases.",
+     "audioStart": 50.712,
+     "audioEnd": 55.032
+    },
+    {
+     "text": "古謝さんは「沖縄の人のお金を2倍にします」と経済の話をしました。",
+     "tokens": [
+      {
+       "surface": "古謝",
+       "pos": "noun",
+       "reading": "こざ",
+       "romaji": "koza",
+       "gloss": "Koja (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "Mr./Ms. (honorific)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "沖縄",
+       "pos": "noun",
+       "reading": "おきなわ",
+       "romaji": "okinawa",
+       "gloss": "Okinawa"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "お金",
+       "pos": "noun",
+       "reading": "おかね",
+       "romaji": "okane",
+       "gloss": "money"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "2",
+       "pos": "noun",
+       "gloss": "two"
+      },
+      {
+       "surface": "倍",
+       "pos": "noun",
+       "reading": "ばい",
+       "romaji": "bai",
+       "gloss": "times/-fold"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "time/target marker \"on/at\""
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker"
+      },
+      {
+       "surface": "経済",
+       "pos": "noun",
+       "reading": "けいざい",
+       "romaji": "keizai",
+       "gloss": "economy"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "話",
+       "pos": "noun",
+       "reading": "はなし",
+       "romaji": "hanashi",
+       "gloss": "talk/story"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense suffix"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Mr. Koja talked about the economy, saying, \"I will double the income of the people of Okinawa.\"",
+     "audioStart": 55.032,
+     "audioEnd": 61.416
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "高市早苗首相は8月4日に「沖縄の選挙をよろしくお願いします」と自民党の人たちに言いました。",
+     "tokens": [
+      {
+       "surface": "高市",
+       "pos": "noun",
+       "reading": "たかいち",
+       "romaji": "takaichi",
+       "gloss": "Takaichi (surname)"
+      },
+      {
+       "surface": "早苗",
+       "pos": "noun",
+       "reading": "さなえ",
+       "romaji": "sanae",
+       "gloss": "Sanae (given name)"
+      },
+      {
+       "surface": "首相",
+       "pos": "noun",
+       "reading": "しゅしょう",
+       "romaji": "shushou",
+       "gloss": "Prime Minister"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "8",
+       "pos": "noun",
+       "gloss": "eight"
+      },
+      {
+       "surface": "月",
+       "pos": "noun",
+       "reading": "がつ",
+       "romaji": "gatsu",
+       "gloss": "month"
+      },
+      {
+       "surface": "4",
+       "pos": "noun",
+       "gloss": "four"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "time/target marker \"on/at\""
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "沖縄",
+       "pos": "noun",
+       "reading": "おきなわ",
+       "romaji": "okinawa",
+       "gloss": "Okinawa"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "選挙",
+       "pos": "noun",
+       "reading": "せんきょ",
+       "romaji": "senkyo",
+       "gloss": "election"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "よろしく",
+       "pos": "adverb",
+       "romaji": "yoroshiku",
+       "gloss": "kindly/well (in requests)"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "願い",
+       "pos": "verb",
+       "reading": "ねがい",
+       "romaji": "negai",
+       "lemma": "願う",
+       "gloss": "to request/hope"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker"
+      },
+      {
+       "surface": "自民党",
+       "pos": "noun",
+       "reading": "じみんとう",
+       "romaji": "jimintou",
+       "gloss": "Liberal Democratic Party (LDP)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "たち",
+       "pos": "suffix",
+       "romaji": "tachi",
+       "gloss": "plural suffix"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "time/target marker \"on/at\""
+      },
+      {
+       "surface": "言い",
+       "pos": "verb",
+       "reading": "いい",
+       "romaji": "ii",
+       "lemma": "言う",
+       "gloss": "to say"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense suffix"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On August 4, Prime Minister Sanae Takaichi told LDP members, \"Please do your best in the Okinawa election.\"",
+     "audioStart": 61.416,
+     "audioEnd": 69.984
+    },
+    {
+     "text": "西村さんは4月から6回、沖縄へ行きました。",
+     "tokens": [
+      {
+       "surface": "西村",
+       "pos": "noun",
+       "reading": "にしむら",
+       "romaji": "nishimura",
+       "gloss": "Nishimura (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "Mr./Ms. (honorific)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "4",
+       "pos": "noun",
+       "gloss": "four"
+      },
+      {
+       "surface": "月",
+       "pos": "noun",
+       "reading": "がつ",
+       "romaji": "gatsu",
+       "gloss": "month"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "because/so"
+      },
+      {
+       "surface": "6",
+       "pos": "noun",
+       "gloss": "six"
+      },
+      {
+       "surface": "回",
+       "pos": "noun",
+       "reading": "かい",
+       "romaji": "kai",
+       "gloss": "times (counter)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "沖縄",
+       "pos": "noun",
+       "reading": "おきなわ",
+       "romaji": "okinawa",
+       "gloss": "Okinawa"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "direction marker \"to\""
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense suffix"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Mr. Nishimura has gone to Okinawa six times since April.",
+     "audioStart": 69.984,
+     "audioEnd": 74.88
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "小林さんは8月24日と25日に、沖縄の会社をいろいろ回ります。",
+     "tokens": [
+      {
+       "surface": "小林",
+       "pos": "noun",
+       "reading": "こばやし",
+       "romaji": "kobayashi",
+       "gloss": "Kobayashi (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "Mr./Ms. (honorific)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "8",
+       "pos": "noun",
+       "gloss": "eight"
+      },
+      {
+       "surface": "月",
+       "pos": "noun",
+       "reading": "がつ",
+       "romaji": "gatsu",
+       "gloss": "month"
+      },
+      {
+       "surface": "24",
+       "pos": "noun",
+       "gloss": "twenty-four"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker"
+      },
+      {
+       "surface": "25",
+       "pos": "noun",
+       "gloss": "twenty-five"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "time/target marker \"on/at\""
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "沖縄",
+       "pos": "noun",
+       "reading": "おきなわ",
+       "romaji": "okinawa",
+       "gloss": "Okinawa"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "会社",
+       "pos": "noun",
+       "reading": "かいしゃ",
+       "romaji": "kaisha",
+       "gloss": "company"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "いろいろ",
+       "pos": "adverb",
+       "romaji": "iroiro",
+       "gloss": "various"
+      },
+      {
+       "surface": "回り",
+       "pos": "verb",
+       "reading": "まわり",
+       "romaji": "mawari",
+       "lemma": "回る",
+       "gloss": "to go around/visit"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Mr. Kobayashi will visit various companies in Okinawa on August 24 and 25.",
+     "audioStart": 74.88,
+     "audioEnd": 81.888
+    },
+    {
+     "text": "萩生田さんも、もうすぐ沖縄へ行きます。",
+     "tokens": [
+      {
+       "surface": "萩生田",
+       "pos": "noun",
+       "reading": "はぎうだ",
+       "romaji": "hagiuda",
+       "gloss": "Hagiuda (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "Mr./Ms. (honorific)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "もう",
+       "pos": "adverb",
+       "romaji": "mou",
+       "gloss": "already/soon"
+      },
+      {
+       "surface": "すぐ",
+       "pos": "adverb",
+       "romaji": "sugu",
+       "gloss": "soon/immediately"
+      },
+      {
+       "surface": "沖縄",
+       "pos": "noun",
+       "reading": "おきなわ",
+       "romaji": "okinawa",
+       "gloss": "Okinawa"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "direction marker \"to\""
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Mr. Hagiuda will also go to Okinawa soon.",
+     "audioStart": 81.888,
+     "audioEnd": 86.16
+    },
+    {
+     "text": "自民党の本部は8月21日、国会議員に「沖縄に住んでいる応援してくれる人のリストをください」とお願いしました。",
+     "tokens": [
+      {
+       "surface": "自民党",
+       "pos": "noun",
+       "reading": "じみんとう",
+       "romaji": "jimintou",
+       "gloss": "Liberal Democratic Party (LDP)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "本部",
+       "pos": "noun",
+       "reading": "ほんぶ",
+       "romaji": "honbu",
+       "gloss": "headquarters"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "8",
+       "pos": "noun",
+       "gloss": "eight"
+      },
+      {
+       "surface": "月",
+       "pos": "noun",
+       "reading": "がつ",
+       "romaji": "gatsu",
+       "gloss": "month"
+      },
+      {
+       "surface": "21",
+       "pos": "noun",
+       "gloss": "twenty-one"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "国会議員",
+       "pos": "noun",
+       "reading": "こっかいぎいん",
+       "romaji": "kokkaigiin",
+       "gloss": "Diet member"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "time/target marker \"on/at\""
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "沖縄",
+       "pos": "noun",
+       "reading": "おきなわ",
+       "romaji": "okinawa",
+       "gloss": "Okinawa"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "time/target marker \"on/at\""
+      },
+      {
+       "surface": "住ん",
+       "pos": "verb",
+       "reading": "すん",
+       "romaji": "sun",
+       "lemma": "住む",
+       "gloss": "to live"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location marker \"at/in\""
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "応援",
+       "pos": "noun",
+       "reading": "おうえん",
+       "romaji": "ouen",
+       "gloss": "support/cheering"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "くれる",
+       "pos": "verb",
+       "romaji": "kureru",
+       "gloss": "to give (to the speaker)"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "リスト",
+       "pos": "noun",
+       "romaji": "risuto",
+       "gloss": "list"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる",
+       "gloss": "to give (honorific, \"please give\")"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "願い",
+       "pos": "verb",
+       "reading": "ねがい",
+       "romaji": "negai",
+       "lemma": "願う",
+       "gloss": "to request/hope"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense suffix"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On August 21, LDP headquarters asked Diet members, \"Please give us a list of supporters who live in Okinawa.\"",
+     "audioStart": 86.16,
+     "audioEnd": 96.48
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "前の2022年の選挙で、自民党は負けました。",
+     "tokens": [
+      {
+       "surface": "前",
+       "pos": "noun",
+       "reading": "まえ",
+       "romaji": "mae",
+       "gloss": "before/previously"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "2022",
+       "pos": "noun",
+       "gloss": "2022"
+      },
+      {
+       "surface": "年",
+       "pos": "noun",
+       "reading": "ねん",
+       "romaji": "nen",
+       "gloss": "year"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "選挙",
+       "pos": "noun",
+       "reading": "せんきょ",
+       "romaji": "senkyo",
+       "gloss": "election"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location marker \"at/in\""
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "自民党",
+       "pos": "noun",
+       "reading": "じみんとう",
+       "romaji": "jimintou",
+       "gloss": "Liberal Democratic Party (LDP)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "負け",
+       "pos": "verb",
+       "reading": "まけ",
+       "romaji": "make",
+       "lemma": "負ける",
+       "gloss": "to lose"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense suffix"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In the previous election in 2022, the LDP lost.",
+     "audioStart": 96.48,
+     "audioEnd": 101.664
+    },
+    {
+     "text": "今の知事の玉城デニーさん（66歳）が勝ちました。",
+     "tokens": [
+      {
+       "surface": "今",
+       "pos": "noun",
+       "reading": "いま",
+       "romaji": "ima",
+       "gloss": "now/current"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "知事",
+       "pos": "noun",
+       "reading": "ちじ",
+       "romaji": "chiji",
+       "gloss": "governor"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "玉城",
+       "pos": "noun",
+       "reading": "たまき",
+       "romaji": "tamaki",
+       "gloss": "Tamaki (surname)"
+      },
+      {
+       "surface": "デニー",
+       "pos": "noun",
+       "romaji": "denii",
+       "gloss": "Denny (given name)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "Mr./Ms. (honorific)"
+      },
+      {
+       "surface": "（",
+       "pos": "punct"
+      },
+      {
+       "surface": "66",
+       "pos": "noun",
+       "gloss": "sixty-six"
+      },
+      {
+       "surface": "歳",
+       "pos": "suffix",
+       "reading": "さい",
+       "romaji": "sai",
+       "gloss": "years old (counter)"
+      },
+      {
+       "surface": "）",
+       "pos": "punct"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "勝ち",
+       "pos": "verb",
+       "reading": "かち",
+       "romaji": "kachi",
+       "lemma": "勝つ",
+       "gloss": "to win"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense suffix"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The current governor, Denny Tamaki (66), won.",
+     "audioStart": 101.664,
+     "audioEnd": 106.776
+    },
+    {
+     "text": "玉城さんは有名です。",
+     "tokens": [
+      {
+       "surface": "玉城",
+       "pos": "noun",
+       "reading": "たまき",
+       "romaji": "tamaki",
+       "gloss": "Tamaki (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "Mr./Ms. (honorific)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "有名",
+       "pos": "adjective",
+       "reading": "ゆうめい",
+       "romaji": "yuumei",
+       "gloss": "famous"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula \"is\""
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Mr. Tamaki is famous.",
+     "audioStart": 106.776,
+     "audioEnd": 109.632
+    },
+    {
+     "text": "でも、辺野古の海の近くで、女子高校生が亡くなる事故があって、玉城さんは悪く言われることもありました。",
+     "tokens": [
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location marker \"at/in\""
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "辺野古",
+       "pos": "noun",
+       "reading": "へのこ",
+       "romaji": "henoko",
+       "gloss": "Henoko (place name)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "海",
+       "pos": "noun",
+       "reading": "うみ",
+       "romaji": "umi",
+       "gloss": "sea"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "近く",
+       "pos": "noun",
+       "reading": "ちかく",
+       "romaji": "chikaku",
+       "gloss": "near/vicinity"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location marker \"at/in\""
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "女子",
+       "pos": "noun",
+       "reading": "じょし",
+       "romaji": "joshi",
+       "gloss": "girl/female"
+      },
+      {
+       "surface": "高校生",
+       "pos": "noun",
+       "reading": "こうこうせい",
+       "romaji": "koukousei",
+       "gloss": "high school student"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "亡くなる",
+       "pos": "verb",
+       "reading": "なくなる",
+       "romaji": "nakunaru",
+       "gloss": "to pass away/die"
+      },
+      {
+       "surface": "事故",
+       "pos": "noun",
+       "reading": "じこ",
+       "romaji": "jiko",
+       "gloss": "accident"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "あっ",
+       "pos": "verb",
+       "romaji": "atsu",
+       "lemma": "ある",
+       "gloss": "to exist/be held (for events)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "玉城",
+       "pos": "noun",
+       "reading": "たまき",
+       "romaji": "tamaki",
+       "gloss": "Tamaki (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "Mr./Ms. (honorific)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "悪く",
+       "pos": "adjective",
+       "reading": "わるく",
+       "romaji": "waruku",
+       "lemma": "悪い",
+       "gloss": "bad"
+      },
+      {
+       "surface": "言わ",
+       "pos": "verb",
+       "reading": "いわ",
+       "romaji": "iwa",
+       "lemma": "言う",
+       "gloss": "to say"
+      },
+      {
+       "surface": "れる",
+       "pos": "auxiliary",
+       "romaji": "reru",
+       "gloss": "passive auxiliary"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing/matter (nominalizer)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist/be held (for events)"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense suffix"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "But there was an accident near the sea at Henoko in which a high school girl died, and Mr. Tamaki was sometimes criticized because of it.",
+     "audioStart": 109.632,
+     "audioEnd": 119.064
+    },
+    {
+     "text": "自民党の人は「今回はいい勝負ができます」と思っています。",
+     "tokens": [
+      {
+       "surface": "自民党",
+       "pos": "noun",
+       "reading": "じみんとう",
+       "romaji": "jimintou",
+       "gloss": "Liberal Democratic Party (LDP)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "今回",
+       "pos": "noun",
+       "reading": "こんかい",
+       "romaji": "konkai",
+       "gloss": "this time"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good"
+      },
+      {
+       "surface": "勝負",
+       "pos": "noun",
+       "reading": "しょうぶ",
+       "romaji": "shoubu",
+       "gloss": "contest/match"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker"
+      },
+      {
+       "surface": "思っ",
+       "pos": "verb",
+       "reading": "おもっ",
+       "romaji": "omotsu",
+       "lemma": "思う",
+       "gloss": "to think"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "LDP members think, \"This time we can put up a good fight.\"",
+     "audioStart": 119.064,
+     "audioEnd": 124.68
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "今回、公明党は古謝さんを応援すると決めました。",
+     "tokens": [
+      {
+       "surface": "今回",
+       "pos": "noun",
+       "reading": "こんかい",
+       "romaji": "konkai",
+       "gloss": "this time"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "公明党",
+       "pos": "noun",
+       "reading": "こうめいとう",
+       "romaji": "koumeitou",
+       "gloss": "Komeito (political party)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "古謝",
+       "pos": "noun",
+       "reading": "こざ",
+       "romaji": "koza",
+       "gloss": "Koja (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "Mr./Ms. (honorific)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "応援",
+       "pos": "noun",
+       "reading": "おうえん",
+       "romaji": "ouen",
+       "gloss": "support/cheering"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker"
+      },
+      {
+       "surface": "決め",
+       "pos": "verb",
+       "reading": "きめ",
+       "romaji": "kime",
+       "lemma": "決める",
+       "gloss": "to decide"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense suffix"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "This time, Komeito decided to support Mr. Koja.",
+     "audioStart": 124.68,
+     "audioEnd": 129.648
+    },
+    {
+     "text": "中道改革連合という人たちは、だれに投票するか自由にします。",
+     "tokens": [
+      {
+       "surface": "中道改革連合",
+       "pos": "noun",
+       "reading": "ちゅうどうかいかくれんごう",
+       "romaji": "chuudoukaikakurengou",
+       "gloss": "Centrist Reform Coalition (party name)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker"
+      },
+      {
+       "surface": "いう",
+       "pos": "verb",
+       "romaji": "iu",
+       "gloss": "to say/called"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "たち",
+       "pos": "suffix",
+       "romaji": "tachi",
+       "gloss": "plural suffix"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "だれ",
+       "pos": "pronoun",
+       "romaji": "dare",
+       "gloss": "who"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "time/target marker \"on/at\""
+      },
+      {
+       "surface": "投票",
+       "pos": "noun",
+       "reading": "とうひょう",
+       "romaji": "touhyou",
+       "gloss": "voting"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question/uncertainty marker"
+      },
+      {
+       "surface": "自由",
+       "pos": "noun",
+       "reading": "じゆう",
+       "romaji": "jiyuu",
+       "gloss": "free/freedom"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula \"is\" (plain form)"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The group called the Centrist Reform Coalition will let people vote for whomever they choose freely.",
+     "audioStart": 129.648,
+     "audioEnd": 135.792
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "古謝さんのチームは、いろいろな人から応援してもらいたいです。",
+     "tokens": [
+      {
+       "surface": "古謝",
+       "pos": "noun",
+       "reading": "こざ",
+       "romaji": "koza",
+       "gloss": "Koja (surname)"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "Mr./Ms. (honorific)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "チーム",
+       "pos": "noun",
+       "romaji": "chiimu",
+       "gloss": "team"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "いろいろ",
+       "pos": "adjective",
+       "romaji": "iroiro",
+       "gloss": "various"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula \"is\" (plain form)"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "because/so"
+      },
+      {
+       "surface": "応援",
+       "pos": "noun",
+       "reading": "おうえん",
+       "romaji": "ouen",
+       "gloss": "support/cheering"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "もらい",
+       "pos": "verb",
+       "romaji": "morai",
+       "lemma": "もらう",
+       "gloss": "to receive"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desire suffix)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula \"is\""
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Mr. Koja's team wants to receive support from a wide variety of people.",
+     "audioStart": 135.792,
+     "audioEnd": 141.096
+    },
+    {
+     "text": "だから、自民党の色を強く出さないようにしています。",
+     "tokens": [
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "copula \"is\" (plain form)"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "because/so"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "自民党",
+       "pos": "noun",
+       "reading": "じみんとう",
+       "romaji": "jimintou",
+       "gloss": "Liberal Democratic Party (LDP)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "色",
+       "pos": "noun",
+       "reading": "いろ",
+       "romaji": "iro",
+       "gloss": "color"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "強く",
+       "pos": "adjective",
+       "reading": "つよく",
+       "romaji": "tsuyoku",
+       "lemma": "強い",
+       "gloss": "strong"
+      },
+      {
+       "surface": "出さ",
+       "pos": "verb",
+       "reading": "ださ",
+       "romaji": "dasa",
+       "lemma": "出す",
+       "gloss": "to show/put out"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix"
+      },
+      {
+       "surface": "よう",
+       "pos": "adjective",
+       "romaji": "you",
+       "gloss": "so as to / in order to"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula \"is\" (plain form)"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "So they are trying not to show the LDP's colors too strongly.",
+     "audioStart": 141.096,
+     "audioEnd": 146.04
+    },
+    {
+     "text": "自民党のえらい人たちは、会社などを回っています。",
+     "tokens": [
+      {
+       "surface": "自民党",
+       "pos": "noun",
+       "reading": "じみんとう",
+       "romaji": "jimintou",
+       "gloss": "Liberal Democratic Party (LDP)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "えらい",
+       "pos": "adjective",
+       "romaji": "erai",
+       "gloss": "senior/important"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "たち",
+       "pos": "suffix",
+       "romaji": "tachi",
+       "gloss": "plural suffix"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "会社",
+       "pos": "noun",
+       "reading": "かいしゃ",
+       "romaji": "kaisha",
+       "gloss": "company"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "and so on/etc."
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "回っ",
+       "pos": "verb",
+       "reading": "まわっ",
+       "romaji": "mawatsu",
+       "lemma": "回る",
+       "gloss": "to go around/visit"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Senior LDP officials are visiting companies and other places.",
+     "audioStart": 146.04,
+     "audioEnd": 151.056
+    },
+    {
+     "text": "高市首相のような色を強く出すと、公明党の票が減るかもしれないからです。",
+     "tokens": [
+      {
+       "surface": "高市",
+       "pos": "noun",
+       "reading": "たかいち",
+       "romaji": "takaichi",
+       "gloss": "Takaichi (surname)"
+      },
+      {
+       "surface": "首相",
+       "pos": "noun",
+       "reading": "しゅしょう",
+       "romaji": "shushou",
+       "gloss": "Prime Minister"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "よう",
+       "pos": "adjective",
+       "romaji": "you",
+       "gloss": "so as to / in order to"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula \"is\" (plain form)"
+      },
+      {
+       "surface": "色",
+       "pos": "noun",
+       "reading": "いろ",
+       "romaji": "iro",
+       "gloss": "color"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "強く",
+       "pos": "adjective",
+       "reading": "つよく",
+       "romaji": "tsuyoku",
+       "lemma": "強い",
+       "gloss": "strong"
+      },
+      {
+       "surface": "出す",
+       "pos": "verb",
+       "reading": "だす",
+       "romaji": "dasu",
+       "gloss": "to show/put out"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "公明党",
+       "pos": "noun",
+       "reading": "こうめいとう",
+       "romaji": "koumeitou",
+       "gloss": "Komeito (political party)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "票",
+       "pos": "noun",
+       "reading": "ひょう",
+       "romaji": "hyou",
+       "gloss": "vote"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "減る",
+       "pos": "verb",
+       "reading": "へる",
+       "romaji": "heru",
+       "gloss": "to decrease"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question/uncertainty marker"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too"
+      },
+      {
+       "surface": "しれ",
+       "pos": "verb",
+       "romaji": "shire",
+       "lemma": "しれる",
+       "gloss": "might/perhaps (in ~かもしれない)"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "because/so"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula \"is\""
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "This is because if they show colors like Prime Minister Takaichi's too strongly, Komeito's votes might decrease.",
+     "audioStart": 151.056,
+     "audioEnd": 157.776
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "でも、自民党の中には「自民党の色を出さないと勝てない」と言う人もいます。",
+     "tokens": [
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location marker \"at/in\""
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "自民党",
+       "pos": "noun",
+       "reading": "じみんとう",
+       "romaji": "jimintou",
+       "gloss": "Liberal Democratic Party (LDP)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "中",
+       "pos": "noun",
+       "reading": "なか",
+       "romaji": "naka",
+       "gloss": "among/within"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "time/target marker \"on/at\""
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "自民党",
+       "pos": "noun",
+       "reading": "じみんとう",
+       "romaji": "jimintou",
+       "gloss": "Liberal Democratic Party (LDP)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "色",
+       "pos": "noun",
+       "reading": "いろ",
+       "romaji": "iro",
+       "gloss": "color"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "出さ",
+       "pos": "verb",
+       "reading": "ださ",
+       "romaji": "dasa",
+       "lemma": "出す",
+       "gloss": "to show/put out"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker"
+      },
+      {
+       "surface": "勝て",
+       "pos": "verb",
+       "reading": "かて",
+       "romaji": "kate",
+       "lemma": "勝てる",
+       "gloss": "to be able to win"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker"
+      },
+      {
+       "surface": "言う",
+       "pos": "verb",
+       "reading": "いう",
+       "romaji": "iu",
+       "gloss": "to say"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "But within the LDP, there are also people who say, \"We can't win unless we show the LDP's colors.\"",
+     "audioStart": 157.776,
+     "audioEnd": 165.0
+    },
+    {
+     "text": "自民党や、他の党（日本維新の会、国民民主党、参政党）のえらい人たちが、みんなで一緒に沖縄で応援するようにお願いしています。",
+     "tokens": [
+      {
+       "surface": "自民党",
+       "pos": "noun",
+       "reading": "じみんとう",
+       "romaji": "jimintou",
+       "gloss": "Liberal Democratic Party (LDP)"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and/or (non-exhaustive listing)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "他",
+       "pos": "noun",
+       "reading": "た",
+       "romaji": "ta",
+       "gloss": "other"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "党",
+       "pos": "noun",
+       "reading": "とう",
+       "romaji": "tou",
+       "gloss": "party"
+      },
+      {
+       "surface": "（",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本維新の会",
+       "pos": "noun",
+       "reading": "にっぽんいしんのかい",
+       "romaji": "nippon'ishinnokai",
+       "gloss": "Japan Innovation Party"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "国民民主党",
+       "pos": "noun",
+       "reading": "こくみんみんしゅとう",
+       "romaji": "kokuminminshutou",
+       "gloss": "Democratic Party for the People"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "参政党",
+       "pos": "noun",
+       "reading": "さんせいとう",
+       "romaji": "sanseitou",
+       "gloss": "Sanseito (political party)"
+      },
+      {
+       "surface": "）",
+       "pos": "punct"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "えらい",
+       "pos": "adjective",
+       "romaji": "erai",
+       "gloss": "senior/important"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "たち",
+       "pos": "suffix",
+       "romaji": "tachi",
+       "gloss": "plural suffix"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "みんな",
+       "pos": "noun",
+       "romaji": "minna",
+       "gloss": "everyone"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location marker \"at/in\""
+      },
+      {
+       "surface": "一緒",
+       "pos": "noun",
+       "reading": "いっしょ",
+       "romaji": "issho",
+       "gloss": "together"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "time/target marker \"on/at\""
+      },
+      {
+       "surface": "沖縄",
+       "pos": "noun",
+       "reading": "おきなわ",
+       "romaji": "okinawa",
+       "gloss": "Okinawa"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location marker \"at/in\""
+      },
+      {
+       "surface": "応援",
+       "pos": "noun",
+       "reading": "おうえん",
+       "romaji": "ouen",
+       "gloss": "support/cheering"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do"
+      },
+      {
+       "surface": "よう",
+       "pos": "adjective",
+       "romaji": "you",
+       "gloss": "so as to / in order to"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula \"is\" (plain form)"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "願い",
+       "pos": "verb",
+       "reading": "ねがい",
+       "romaji": "negai",
+       "lemma": "願う",
+       "gloss": "to request/hope"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Senior officials from the LDP and other parties (the Japan Innovation Party, the Democratic Party for the People, and Sanseito) are asking everyone to campaign together in Okinawa.",
+     "audioStart": 165.0,
+     "audioEnd": 177.456
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "高市首相が選挙の間に沖縄へ行くかどうかも、みんなが見ています。",
+     "tokens": [
+      {
+       "surface": "高市",
+       "pos": "noun",
+       "reading": "たかいち",
+       "romaji": "takaichi",
+       "gloss": "Takaichi (surname)"
+      },
+      {
+       "surface": "首相",
+       "pos": "noun",
+       "reading": "しゅしょう",
+       "romaji": "shushou",
+       "gloss": "Prime Minister"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "選挙",
+       "pos": "noun",
+       "reading": "せんきょ",
+       "romaji": "senkyo",
+       "gloss": "election"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "間",
+       "pos": "noun",
+       "reading": "あいだ",
+       "romaji": "aida",
+       "gloss": "during/interval"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "time/target marker \"on/at\""
+      },
+      {
+       "surface": "沖縄",
+       "pos": "noun",
+       "reading": "おきなわ",
+       "romaji": "okinawa",
+       "gloss": "Okinawa"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "direction marker \"to\""
+      },
+      {
+       "surface": "行く",
+       "pos": "verb",
+       "reading": "いく",
+       "romaji": "iku",
+       "gloss": "to go"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question/uncertainty marker"
+      },
+      {
+       "surface": "どう",
+       "pos": "adverb",
+       "romaji": "dou",
+       "gloss": "how"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question/uncertainty marker"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "みんな",
+       "pos": "noun",
+       "romaji": "minna",
+       "gloss": "everyone"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "見",
+       "pos": "verb",
+       "reading": "み",
+       "romaji": "mi",
+       "lemma": "見る",
+       "gloss": "to watch/see"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Everyone is also watching whether Prime Minister Takaichi will go to Okinawa during the election.",
+     "audioStart": 177.456,
+     "audioEnd": 183.648
+    },
+    {
+     "text": "首相は3月に石川県の選挙で応援しましたが、その人は負けました。",
+     "tokens": [
+      {
+       "surface": "首相",
+       "pos": "noun",
+       "reading": "しゅしょう",
+       "romaji": "shushou",
+       "gloss": "Prime Minister"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "3",
+       "pos": "noun",
+       "gloss": "three"
+      },
+      {
+       "surface": "月",
+       "pos": "noun",
+       "reading": "がつ",
+       "romaji": "gatsu",
+       "gloss": "month"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "time/target marker \"on/at\""
+      },
+      {
+       "surface": "石川県",
+       "pos": "noun",
+       "reading": "いしかわけん",
+       "romaji": "ishikawaken",
+       "gloss": "Ishikawa Prefecture"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "選挙",
+       "pos": "noun",
+       "reading": "せんきょ",
+       "romaji": "senkyo",
+       "gloss": "election"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location marker \"at/in\""
+      },
+      {
+       "surface": "応援",
+       "pos": "noun",
+       "reading": "おうえん",
+       "romaji": "ouen",
+       "gloss": "support/cheering"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense suffix"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "負け",
+       "pos": "verb",
+       "reading": "まけ",
+       "romaji": "make",
+       "lemma": "負ける",
+       "gloss": "to lose"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense suffix"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In March, the Prime Minister campaigned in the Ishikawa Prefecture election, but that candidate lost.",
+     "audioStart": 183.648,
+     "audioEnd": 190.08
+    },
+    {
+     "text": "自民党の人は「石川に続いて沖縄でも負けたら、首相の力が弱くなります」と心配しています。",
+     "tokens": [
+      {
+       "surface": "自民党",
+       "pos": "noun",
+       "reading": "じみんとう",
+       "romaji": "jimintou",
+       "gloss": "Liberal Democratic Party (LDP)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "石川",
+       "pos": "noun",
+       "reading": "いしかわ",
+       "romaji": "ishikawa",
+       "gloss": "Ishikawa"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "time/target marker \"on/at\""
+      },
+      {
+       "surface": "続い",
+       "pos": "verb",
+       "reading": "つづい",
+       "romaji": "tsuzui",
+       "lemma": "続く",
+       "gloss": "to continue/follow"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "沖縄",
+       "pos": "noun",
+       "reading": "おきなわ",
+       "romaji": "okinawa",
+       "gloss": "Okinawa"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location marker \"at/in\""
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too"
+      },
+      {
+       "surface": "負け",
+       "pos": "verb",
+       "reading": "まけ",
+       "romaji": "make",
+       "lemma": "負ける",
+       "gloss": "to lose"
+      },
+      {
+       "surface": "たら",
+       "pos": "auxiliary",
+       "romaji": "tara",
+       "lemma": "た",
+       "gloss": "past tense suffix"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "首相",
+       "pos": "noun",
+       "reading": "しゅしょう",
+       "romaji": "shushou",
+       "gloss": "Prime Minister"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker \"of\""
+      },
+      {
+       "surface": "力",
+       "pos": "noun",
+       "reading": "ちから",
+       "romaji": "chikara",
+       "gloss": "power/strength"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "弱く",
+       "pos": "adjective",
+       "reading": "よわく",
+       "romaji": "yowaku",
+       "lemma": "弱い",
+       "gloss": "weak"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker"
+      },
+      {
+       "surface": "心配",
+       "pos": "noun",
+       "reading": "しんぱい",
+       "romaji": "shinpai",
+       "gloss": "worry"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "progressive/continuous auxiliary"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "LDP members are worried, saying, \"If we lose in Okinawa too, following Ishikawa, the Prime Minister's power will weaken.\"",
+     "audioStart": 190.08,
+     "audioEnd": 199.032
+    }
+   ]
+  }
+ ]
+}

@@ -201,7 +201,7 @@
      ],
      "translation": "Regarding the House of Representatives electoral system, introducing the 'Sainte-Laguë method,' a new way of allocating proportional representation seats, has become a topic under consideration.",
      "audioStart": 0.0,
-     "audioEnd": 11.496
+     "audioEnd": 9.696
     },
     {
      "text": "現行の「ドント式」に比べて小政党に議席を配分しやすいのが特徴。",
@@ -338,8 +338,8 @@
       }
      ],
      "translation": "Compared to the current 'D'Hondt method,' its distinguishing feature is that it makes it easier to allocate seats to smaller parties.",
-     "audioStart": 11.496,
-     "audioEnd": 18.84
+     "audioStart": 9.696,
+     "audioEnd": 16.32
     },
     {
      "text": "与党は秋の臨時国会で比例定数を45削減する法案の成立を目指しており、野党の反発を和らげる狙いも透ける。",
@@ -538,8 +538,8 @@
       }
      ],
      "translation": "The ruling parties aim to pass a bill in the fall extraordinary Diet session to cut 45 proportional seats, and an underlying aim of easing opposition backlash is also apparent.",
-     "audioStart": 18.84,
-     "audioEnd": 31.2
+     "audioStart": 16.32,
+     "audioEnd": 26.544
     },
     {
      "text": "衆院選挙制度の在り方を検討する与野党協議会で自民党の鈴木馨祐座長が10日、「民意の集約と反映のバランスの観点から検討されるべきだ」として、座長試案の骨子の中で示した。",
@@ -860,8 +860,8 @@
       }
      ],
      "translation": "On the 10th, at a ruling-opposition council examining the state of the House of Representatives electoral system, LDP chairperson Keisuke Suzuki presented this in the outline of his draft proposal, saying it 'should be considered from the standpoint of balancing the consolidation and reflection of public opinion.'",
-     "audioStart": 31.2,
-     "audioEnd": 49.272
+     "audioStart": 26.544,
+     "audioEnd": 41.952
     },
     {
      "text": "サンラグ式とドント式の違いは、各政党の得票数を割る「数」にある。",
@@ -994,8 +994,8 @@
       }
      ],
      "translation": "The difference between the Sainte-Laguë method and the D'Hondt method lies in the 'number' by which each party's vote count is divided.",
-     "audioStart": 49.272,
-     "audioEnd": 56.616
+     "audioStart": 41.952,
+     "audioEnd": 48.864
     },
     {
      "text": "現行のドント式は各政党の得票数を1、2、3…",
@@ -1094,8 +1094,8 @@
       }
      ],
      "translation": "The current D'Hondt method divides each party's vote count in order by natural numbers: 1, 2, 3…",
-     "audioStart": 56.616,
-     "audioEnd": 62.856
+     "audioStart": 48.864,
+     "audioEnd": 54.768
     },
     {
      "text": "と自然数で順に割っていき、計算して出た数が大きい政党順に議席を振り分ける。",
@@ -1257,8 +1257,8 @@
       }
      ],
      "translation": "and allocates seats to parties in descending order of the resulting quotient.",
-     "audioStart": 62.856,
-     "audioEnd": 71.256
+     "audioStart": 54.768,
+     "audioEnd": 62.04
     },
     {
      "text": "議席を得た政党はあらかじめ決めていた名簿の順位に沿って当選者を確定させる。",
@@ -1415,8 +1415,8 @@
       }
      ],
      "translation": "Parties that win seats determine their elected candidates according to a predetermined list ranking.",
-     "audioStart": 71.256,
-     "audioEnd": 79.392
+     "audioStart": 62.04,
+     "audioEnd": 68.664
     },
     {
      "text": "一方のサンラグ式は1、3、5…",
@@ -1482,8 +1482,8 @@
       }
      ],
      "translation": "The Sainte-Laguë method, on the other hand, divides by 1, 3, 5…",
-     "audioStart": 79.392,
-     "audioEnd": 83.496
+     "audioStart": 68.664,
+     "audioEnd": 72.912
     },
     {
      "text": "と奇数で割る。",
@@ -1520,8 +1520,8 @@
       }
      ],
      "translation": "that is, by odd numbers.",
-     "audioStart": 83.496,
-     "audioEnd": 85.776
+     "audioStart": 72.912,
+     "audioEnd": 74.856
     },
     {
      "text": "2番目以降の割る数がより大きくなるため、大政党の2、3議席目の計算値よりも中小政党の1、2議席目が上回りやすい。",
@@ -1762,8 +1762,8 @@
       }
      ],
      "translation": "Because the divisor grows larger from the second seat onward, a small or medium party's 1st or 2nd seat quotient tends to exceed a large party's 2nd or 3rd seat quotient.",
-     "audioStart": 85.776,
-     "audioEnd": 98.376
+     "audioStart": 74.856,
+     "audioEnd": 86.232
     },
     {
      "text": "死票を減らして多様な民意を反映する効果が期待され、チームみらいが提案した。",
@@ -1917,8 +1917,8 @@
       }
      ],
      "translation": "It is expected to reduce wasted votes and reflect a more diverse range of public opinion, and was proposed by Team Mirai.",
-     "audioStart": 98.376,
-     "audioEnd": 106.2
+     "audioStart": 86.232,
+     "audioEnd": 93.288
     },
     {
      "text": "ニュージーランドやスウェーデン、ノルウェーなどの国政選挙で導入されているという。",
@@ -2034,8 +2034,8 @@
       }
      ],
      "translation": "It is reportedly used in national elections in countries such as New Zealand, Sweden, and Norway.",
-     "audioStart": 106.2,
-     "audioEnd": 113.184
+     "audioStart": 93.288,
+     "audioEnd": 99.72
     },
     {
      "text": "具体的にどんな変化が現れるのか。",
@@ -2098,8 +2098,8 @@
       }
      ],
      "translation": "What specific changes would this bring about?",
-     "audioStart": 113.184,
-     "audioEnd": 117.12
+     "audioStart": 99.72,
+     "audioEnd": 103.2
     },
     {
      "text": "本紙は独自に2月の衆院選で各党が得た票と候補者名簿を基に試算した。",
@@ -2261,8 +2261,8 @@
       }
      ],
      "translation": "This newspaper independently estimated the effect based on the votes each party received and the candidate lists from February's House of Representatives election.",
-     "audioStart": 117.12,
-     "audioEnd": 125.256
+     "audioStart": 103.2,
+     "audioEnd": 109.92
     },
     {
      "text": "ただし、自民は名簿に掲載した候補者数を上回る議席を獲得し、全国4ブロックで計14議席を他党に譲ったため、これを反映した現有議席数と比較した。",
@@ -2552,8 +2552,8 @@
       }
      ],
      "translation": "However, since the LDP won more seats than it had candidates listed and ceded a total of 14 seats to other parties across four national blocs, the comparison was made against the current seat count adjusted for this.",
-     "audioStart": 125.256,
-     "audioEnd": 140.928
+     "audioStart": 109.92,
+     "audioEnd": 123.912
     },
     {
      "text": "試算では自民が9減の58議席となり、減少幅が最大になった。",
@@ -2682,8 +2682,8 @@
       }
      ],
      "translation": "In the estimate, the LDP would drop by 9 seats to 58, the largest decrease of any party.",
-     "audioStart": 140.928,
-     "audioEnd": 148.368
+     "audioStart": 123.912,
+     "audioEnd": 130.584
     },
     {
      "text": "中規模政党の中道改革連合は6、国民民主党は1それぞれ減らした。",
@@ -2774,8 +2774,8 @@
       }
      ],
      "translation": "Among mid-sized parties, the Chudo Reform Coalition would lose 6 seats and the Democratic Party for the People would lose 1.",
-     "audioStart": 148.368,
-     "audioEnd": 156.384
+     "audioStart": 130.584,
+     "audioEnd": 137.472
     },
     {
      "text": "日本維新の会とみらいは変わらず、小政党では5党が議席を増やすことに。",
@@ -2905,8 +2905,8 @@
       }
      ],
      "translation": "Japan Innovation Party and Mirai would remain unchanged, while among smaller parties, 5 parties would gain seats.",
-     "audioStart": 156.384,
-     "audioEnd": 164.16
+     "audioStart": 137.472,
+     "audioEnd": 144.216
     },
     {
      "text": "れいわ新選組（現・いのちの党）が5増と最も多かった。",
@@ -3007,8 +3007,8 @@
       }
      ],
      "translation": "Reiwa Shinsengumi (now the Inochi Party) had the largest gain, with 5 additional seats.",
-     "audioStart": 164.16,
-     "audioEnd": 170.328
+     "audioStart": 144.216,
+     "audioEnd": 149.952
     },
     {
      "text": "自民には不利になる方式だが、維新との連立合意に盛り込んだ定数削減を実現する上では「野党対策として有用」（閣僚経験者）との見方も。",
@@ -3281,8 +3281,8 @@
       }
      ],
      "translation": "Although the method would be disadvantageous to the LDP, some view it as 'useful for managing the opposition' (a former cabinet minister) in achieving the seat cuts written into the coalition agreement with Ishin.",
-     "audioStart": 170.328,
-     "audioEnd": 184.104
+     "audioStart": 149.952,
+     "audioEnd": 162.24
     },
     {
      "text": "先の特別国会に提出した関連法案は全野党が反対に回り、継続審議になった。",
@@ -3444,8 +3444,8 @@
       }
      ],
      "translation": "The related bill submitted to the previous special Diet session was opposed by every opposition party and was carried over for continued deliberation.",
-     "audioStart": 184.104,
-     "audioEnd": 193.224
+     "audioStart": 162.24,
+     "audioEnd": 170.424
     },
     {
      "text": "小政党が議席を増やす可能性が高まる方式に変え、野党に配慮する姿勢を打ち出せば、法成立につながるとの打算がにじむ。",
@@ -3655,8 +3655,8 @@
       }
      ],
      "translation": "There is a discernible calculation that switching to a method more likely to let small parties gain seats, and showing consideration toward the opposition, could lead to the bill's passage.",
-     "audioStart": 193.224,
-     "audioEnd": 205.128
+     "audioStart": 170.424,
+     "audioEnd": 181.32
     },
     {
      "text": "鈴木氏は「比例の定数を減らすことで、民意の集約と反映のバランスが大きく崩れる」との認識を示した上で、サンラグ式が補正を図る手法になり得ると説明。",
@@ -3946,8 +3946,8 @@
       }
      ],
      "translation": "Suzuki, while stating that 'cutting the proportional seat count would greatly upset the balance between consolidating and reflecting public opinion,' explained that the Sainte-Laguë method could serve as a way to correct for this.",
-     "audioStart": 205.128,
-     "audioEnd": 220.56
+     "audioStart": 181.32,
+     "audioEnd": 194.976
     },
     {
      "text": "自民ベテランも「大政党の議席が激減することもなく、党内の理解も得られやすいだろう」ともくろむ。",
@@ -4120,8 +4120,8 @@
       }
      ],
      "translation": "A veteran LDP lawmaker also calculates that 'large parties' seats won't collapse dramatically, so it should be easier to win understanding within the party.'",
-     "audioStart": 220.56,
-     "audioEnd": 230.232
+     "audioStart": 194.976,
+     "audioEnd": 203.784
     },
     {
      "text": "とはいえ、実際の選挙で小政党に有利に働くかは見通せず、野党側は態度を保留する。",
@@ -4298,8 +4298,8 @@
       }
      ],
      "translation": "Even so, whether it would actually favor small parties in a real election remains uncertain, and the opposition is withholding judgment.",
-     "audioStart": 230.232,
-     "audioEnd": 239.472
+     "audioStart": 203.784,
+     "audioEnd": 212.184
     },
     {
      "text": "中道は「党内で精査する」（中野洋昌幹事長代行）との立場。",
@@ -4412,8 +4412,8 @@
       }
      ],
      "translation": "Chudo's stance is that it will 'scrutinize this within the party' (Acting Secretary-General Hiromasa Nakano).",
-     "audioStart": 239.472,
-     "audioEnd": 246.672
+     "audioStart": 212.184,
+     "audioEnd": 218.304
     },
     {
      "text": "国民の玉木雄一郎代表も「どんな影響があるか見極める」と慎重な姿勢を崩していない。",
@@ -4570,8 +4570,8 @@
       }
      ],
      "translation": "DPP leader Yuichiro Tamaki also remains cautious, saying he wants to 'see what impact it would have.'",
-     "audioStart": 246.672,
-     "audioEnd": 255.888
+     "audioStart": 218.304,
+     "audioEnd": 226.248
     },
     {
      "text": "そもそも野党の多くは選挙制度の抜本的な改革を主張しており、現行制度を維持したままの比例定数削減には否定的だ。",
@@ -4790,8 +4790,8 @@
       }
      ],
      "translation": "To begin with, many opposition parties are calling for fundamental reform of the electoral system and oppose cutting proportional seats while leaving the rest of the current system unchanged.",
-     "audioStart": 255.888,
-     "audioEnd": 267.936
+     "audioStart": 226.248,
+     "audioEnd": 236.856
     },
     {
      "text": "サンラグ式を提案したみらいでさえ、「比例だけの削減は理解できない」（党幹部）と突き放す。",
@@ -4958,10 +4958,11 @@
       }
      ],
      "translation": "Even Mirai, which proposed the Sainte-Laguë method, distances itself, saying, 'We can't accept cutting only the proportional seats' (a party executive).",
-     "audioStart": 267.936,
-     "audioEnd": 277.08
+     "audioStart": 236.856,
+     "audioEnd": 244.68
     }
    ]
   }
- ]
+ ],
+ "voice": "ja-JP-KeitaNeural"
 }

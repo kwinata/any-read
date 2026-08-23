@@ -53,7 +53,7 @@
      ],
      "translation": "There are more and more praying mantises in Germany",
      "audioStart": 0.0,
-     "audioEnd": 4.488
+     "audioEnd": 4.032
     }
    ]
   },
@@ -88,8 +88,8 @@
       }
      ],
      "translation": "Praying mantises are large insects.",
-     "audioStart": 4.488,
-     "audioEnd": 8.4
+     "audioStart": 4.032,
+     "audioEnd": 7.68
     },
     {
      "text": "Forscher sagen: In Deutschland leben immer mehr Gottes-Anbeterinnen.",
@@ -144,8 +144,8 @@
       }
      ],
      "translation": "Researchers say: more and more praying mantises live in Germany.",
-     "audioStart": 8.4,
-     "audioEnd": 13.944
+     "audioStart": 7.68,
+     "audioEnd": 12.96
     },
     {
      "text": "Die Insekten breiten sich in neue Gebiete aus.",
@@ -196,8 +196,8 @@
       }
      ],
      "translation": "The insects are spreading into new areas.",
-     "audioStart": 13.944,
-     "audioEnd": 18.096
+     "audioStart": 12.96,
+     "audioEnd": 16.824
     },
     {
      "text": "Der Grund ist der Klima-Wandel.",
@@ -233,8 +233,8 @@
       }
      ],
      "translation": "The reason is climate change.",
-     "audioStart": 18.096,
-     "audioEnd": 21.264
+     "audioStart": 16.824,
+     "audioEnd": 19.752
     }
    ]
   },
@@ -289,8 +289,8 @@
       }
      ],
      "translation": "Because of climate change, it is getting warmer in Germany.",
-     "audioStart": 21.264,
-     "audioEnd": 25.44
+     "audioStart": 19.752,
+     "audioEnd": 23.736
     },
     {
      "text": "Das ist gut für die Gottes-Anbeterin.",
@@ -331,8 +331,8 @@
       }
      ],
      "translation": "That is good for the praying mantis.",
-     "audioStart": 25.44,
-     "audioEnd": 28.872
+     "audioStart": 23.736,
+     "audioEnd": 27.024
     },
     {
      "text": "Ihre Larven können nur überleben, wenn es im Früh-Jahr warm genug ist.",
@@ -407,8 +407,8 @@
       }
      ],
      "translation": "Its larvae can only survive if it is warm enough in spring.",
-     "audioStart": 28.872,
-     "audioEnd": 34.44
+     "audioStart": 27.024,
+     "audioEnd": 32.304
     },
     {
      "text": "Früher gab es sie deshalb fast nur im Süden von Europa und in Afrika.",
@@ -489,8 +489,8 @@
       }
      ],
      "translation": "In the past, they therefore existed almost only in southern Europe and in Africa.",
-     "audioStart": 34.44,
-     "audioEnd": 40.248
+     "audioStart": 32.304,
+     "audioEnd": 37.8
     }
    ]
   },
@@ -516,8 +516,8 @@
       }
      ],
      "translation": "Praying mantises were counted",
-     "audioStart": 40.248,
-     "audioEnd": 43.776
+     "audioStart": 37.8,
+     "audioEnd": 40.992
     }
    ]
   },
@@ -601,8 +601,8 @@
       }
      ],
      "translation": "The nature conservation association NABU asks people in Germany every summer: count the insects!",
-     "audioStart": 43.776,
-     "audioEnd": 50.808
+     "audioStart": 40.992,
+     "audioEnd": 47.616
     },
     {
      "text": "Bisher wurden dabei schon 17-tausend Gottes-Anbeterinnen gemeldet.",
@@ -656,8 +656,8 @@
       }
      ],
      "translation": "So far, 17,000 praying mantises have already been reported.",
-     "audioStart": 50.808,
-     "audioEnd": 56.472
+     "audioStart": 47.616,
+     "audioEnd": 52.896
     },
     {
      "text": "Der NABU sagt: Das ist ein Rekord in Deutschland.",
@@ -717,8 +717,8 @@
       }
      ],
      "translation": "NABU says: that is a record in Germany.",
-     "audioStart": 56.472,
-     "audioEnd": 61.08
+     "audioStart": 52.896,
+     "audioEnd": 57.024
     },
     {
      "text": "Die meisten Meldungen gab es am Fluss Rhein und in Ost-Deutschland.",
@@ -784,8 +784,8 @@
       }
      ],
      "translation": "Most reports came from the Rhine River and from eastern Germany.",
-     "audioStart": 61.08,
-     "audioEnd": 66.384
+     "audioStart": 57.024,
+     "audioEnd": 61.824
     }
    ]
   },
@@ -821,8 +821,8 @@
       }
      ],
      "translation": "Not dangerous for humans",
-     "audioStart": 66.384,
-     "audioEnd": 69.288
+     "audioStart": 61.824,
+     "audioEnd": 64.704
     }
    ]
   },
@@ -870,8 +870,8 @@
       }
      ],
      "translation": "Praying mantises are 5 to 8 centimeters big.",
-     "audioStart": 69.288,
-     "audioEnd": 74.088
+     "audioStart": 64.704,
+     "audioEnd": 69.072
     },
     {
      "text": "Sie fressen Insekten und Spinnen.",
@@ -907,8 +907,8 @@
       }
      ],
      "translation": "They eat insects and spiders.",
-     "audioStart": 74.088,
-     "audioEnd": 77.352
+     "audioStart": 69.072,
+     "audioEnd": 72.216
     },
     {
      "text": "Für den Menschen sind sie nicht gefährlich.",
@@ -954,8 +954,8 @@
       }
      ],
      "translation": "For humans, they are not dangerous.",
-     "audioStart": 77.352,
-     "audioEnd": 80.736
+     "audioStart": 72.216,
+     "audioEnd": 75.408
     },
     {
      "text": "Sie stechen nicht.",
@@ -981,8 +981,8 @@
       }
      ],
      "translation": "They do not sting.",
-     "audioStart": 80.736,
-     "audioEnd": 82.944
+     "audioStart": 75.408,
+     "audioEnd": 77.544
     },
     {
      "text": "Sie sind auch nicht giftig.",
@@ -1018,8 +1018,8 @@
       }
      ],
      "translation": "They are also not poisonous.",
-     "audioStart": 82.944,
-     "audioEnd": 85.632
+     "audioStart": 77.544,
+     "audioEnd": 80.256
     }
    ]
   },
@@ -1088,8 +1088,8 @@
       }
      ],
      "translation": "Praying mantises are called that because they hold their grasping forelegs forward.",
-     "audioStart": 85.632,
-     "audioEnd": 91.488
+     "audioStart": 80.256,
+     "audioEnd": 85.776
     },
     {
      "text": "Es sieht aus, als würden sie beten.",
@@ -1139,8 +1139,8 @@
       }
      ],
      "translation": "It looks as if they are praying.",
-     "audioStart": 91.488,
-     "audioEnd": 95.088
+     "audioStart": 85.776,
+     "audioEnd": 89.112
     }
    ]
   },
@@ -1199,8 +1199,8 @@
       }
      ],
      "translation": "Climate change means: the Earth is getting warmer.",
-     "audioStart": 95.088,
-     "audioEnd": 99.504
+     "audioStart": 89.112,
+     "audioEnd": 93.096
     },
     {
      "text": "Das gibt viele Probleme, zum Beispiel Überschwemmungen, Dürren und schwere Stürme.",
@@ -1274,8 +1274,8 @@
       }
      ],
      "translation": "That causes many problems, for example floods, droughts, and severe storms.",
-     "audioStart": 99.504,
-     "audioEnd": 106.152
+     "audioStart": 93.096,
+     "audioEnd": 99.192
     },
     {
      "text": "Viele Menschen sterben an den Folgen vom Klima-Wandel.",
@@ -1326,8 +1326,8 @@
       }
      ],
      "translation": "Many people die from the effects of climate change.",
-     "audioStart": 106.152,
-     "audioEnd": 110.592
+     "audioStart": 99.192,
+     "audioEnd": 103.656
     },
     {
      "text": "Gründe für den Klima-Wandel sind auch viele Abgase in der Luft.",
@@ -1393,8 +1393,8 @@
       }
      ],
      "translation": "Causes of climate change also include a lot of exhaust gases in the air.",
-     "audioStart": 110.592,
-     "audioEnd": 115.656
+     "audioStart": 103.656,
+     "audioEnd": 108.6
     },
     {
      "text": "Wenn man heute von Klima-Wandel spricht, sind Veränderungen gemeint, die durch den Menschen verursacht werden.",
@@ -1488,8 +1488,8 @@
       }
      ],
      "translation": "When people today speak of climate change, they mean changes that are caused by humans.",
-     "audioStart": 115.656,
-     "audioEnd": 123.648
+     "audioStart": 108.6,
+     "audioEnd": 116.256
     },
     {
      "text": "In der Wissenschaft gibt es keine Zweifel daran, dass der Mensch zum Klima-Wandel entscheidend beiträgt.",
@@ -1579,10 +1579,11 @@
       }
      ],
      "translation": "In science, there is no doubt that humans contribute decisively to climate change.",
-     "audioStart": 123.648,
-     "audioEnd": 131.184
+     "audioStart": 116.256,
+     "audioEnd": 123.264
     }
    ]
   }
- ]
+ ],
+ "voice": "de-DE-ConradNeural"
 }

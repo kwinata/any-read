@@ -3,7 +3,7 @@
  "id": "access-from-the-jr-shibuya-station-platforms-to-the-ticket-g",
  "language": "ja",
  "title": "JR渋谷駅のホームから改札 (ハチ公・中央・南・新南)へのアクセス",
- "titleTranslation": "Access from the JR Shibuya Station Platforms to the Ticket Gates (Hachiko, Central, South, New South) - MATCHA, Japan Tourism Media (Easy Japanese)",
+ "titleTranslation": "Access from the JR Shibuya Station Platforms to the Ticket Gates",
  "level": "N4",
  "summary": "The article explains, in easy Japanese, how to get from the platforms of JR Shibuya Station to its four ticket gates (Hachiko, Central, South, and New South), including nearby shops, restaurants, and train transfer routes at each one.",
  "sourceUrl": "https://matcha-jp.com/easy/1166",
@@ -9758,5 +9758,6 @@
     }
    ]
   }
- ]
+ ],
+ "voice": "ja-JP-NanamiNeural"
 }

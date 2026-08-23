@@ -67,7 +67,7 @@
      ],
      "translation": "More water in the Rhine: some ferries can run again",
      "audioStart": 0.0,
-     "audioEnd": 4.68
+     "audioEnd": 4.416
     }
    ]
   },
@@ -122,8 +122,8 @@
       }
      ],
      "translation": "The Rhine is a large river in Germany.",
-     "audioStart": 4.68,
-     "audioEnd": 8.592
+     "audioStart": 4.416,
+     "audioEnd": 8.04
     },
     {
      "text": "Auf dem Rhein fahren auch Fähren.",
@@ -164,8 +164,8 @@
       }
      ],
      "translation": "Ferries also travel on the Rhine.",
-     "audioStart": 8.592,
-     "audioEnd": 11.736
+     "audioStart": 8.04,
+     "audioEnd": 10.896
     },
     {
      "text": "Eine Fähre ist ein Schiff.",
@@ -201,8 +201,8 @@
       }
      ],
      "translation": "A ferry is a ship.",
-     "audioStart": 11.736,
-     "audioEnd": 14.448
+     "audioStart": 10.896,
+     "audioEnd": 13.536
     },
     {
      "text": "Das Schiff bringt Menschen, Fahrräder und Autos über den Fluss.",
@@ -267,8 +267,8 @@
       }
      ],
      "translation": "The ship carries people, bicycles, and cars across the river.",
-     "audioStart": 14.448,
-     "audioEnd": 19.608
+     "audioStart": 13.536,
+     "audioEnd": 18.312
     },
     {
      "text": "Es hat lange Zeit wenig geregnet.",
@@ -309,8 +309,8 @@
       }
      ],
      "translation": "It has rained little for a long time.",
-     "audioStart": 19.608,
-     "audioEnd": 23.208
+     "audioStart": 18.312,
+     "audioEnd": 21.432
     },
     {
      "text": "Darum war wenig Wasser im Rhein.",
@@ -351,8 +351,8 @@
       }
      ],
      "translation": "That's why there was little water in the Rhine.",
-     "audioStart": 23.208,
-     "audioEnd": 26.376
+     "audioStart": 21.432,
+     "audioEnd": 24.528
     },
     {
      "text": "Jetzt ist wieder mehr Wasser im Rhein.",
@@ -398,8 +398,8 @@
       }
      ],
      "translation": "Now there is more water in the Rhine again.",
-     "audioStart": 26.376,
-     "audioEnd": 29.76
+     "audioStart": 24.528,
+     "audioEnd": 27.816
     },
     {
      "text": "Viele Fähren können wieder fahren.",
@@ -435,8 +435,8 @@
       }
      ],
      "translation": "Many ferries can run again.",
-     "audioStart": 29.76,
-     "audioEnd": 32.976
+     "audioStart": 27.816,
+     "audioEnd": 30.96
     }
    ]
   },
@@ -535,8 +535,8 @@
       }
      ],
      "translation": "A ferry between the city of Düsseldorf and the town of Zons couldn't run for almost 1 month.",
-     "audioStart": 32.976,
-     "audioEnd": 39.936
+     "audioStart": 30.96,
+     "audioEnd": 37.848
     },
     {
      "text": "Der Betreiber kümmert sich um die Fähre und sorgt dafür, dass das Schiff fahren kann.",
@@ -626,8 +626,8 @@
       }
      ],
      "translation": "The operator takes care of the ferry and makes sure the ship can run.",
-     "audioStart": 39.936,
-     "audioEnd": 46.272
+     "audioStart": 37.848,
+     "audioEnd": 43.704
     },
     {
      "text": "Er sagt: Die Pause hat viel Geld gekostet.",
@@ -682,8 +682,8 @@
       }
      ],
      "translation": "He says: The break cost a lot of money.",
-     "audioStart": 46.272,
-     "audioEnd": 50.616
+     "audioStart": 43.704,
+     "audioEnd": 47.856
     },
     {
      "text": "Viele Menschen nutzen die Fähren auch für Ausflüge.",
@@ -734,8 +734,8 @@
       }
      ],
      "translation": "Many people also use the ferries for outings.",
-     "audioStart": 50.616,
-     "audioEnd": 54.768
+     "audioStart": 47.856,
+     "audioEnd": 51.864
     },
     {
      "text": "Im Sommer verdienen die Betreiber von den Fähren normalerweise den größten Teil ihres Geldes.",
@@ -816,8 +816,8 @@
       }
      ],
      "translation": "In summer, the ferry operators normally earn most of their money.",
-     "audioStart": 54.768,
-     "audioEnd": 61.896
+     "audioStart": 51.864,
+     "audioEnd": 58.392
     }
    ]
   },
@@ -867,8 +867,8 @@
       }
      ],
      "translation": "Other ferries on the Rhine are also running again.",
-     "audioStart": 61.896,
-     "audioEnd": 65.496
+     "audioStart": 58.392,
+     "audioEnd": 61.944
     },
     {
      "text": "Aber große Wohn-Mobile oder schwere Fahrzeuge dürfen nicht überall mitfahren.",
@@ -929,8 +929,8 @@
       }
      ],
      "translation": "But large motorhomes or heavy vehicles are not allowed to ride along everywhere.",
-     "audioStart": 65.496,
-     "audioEnd": 71.784
+     "audioStart": 61.944,
+     "audioEnd": 67.752
     },
     {
      "text": "Der Wasser-Stand des Rheins ist nämlich immer noch recht niedrig.",
@@ -991,10 +991,11 @@
       }
      ],
      "translation": "The water level of the Rhine is namely still quite low.",
-     "audioStart": 71.784,
-     "audioEnd": 76.608
+     "audioStart": 67.752,
+     "audioEnd": 72.24
     }
    ]
   }
- ]
+ ],
+ "voice": "de-DE-KillianNeural"
 }

@@ -111,7 +111,7 @@
      ],
      "translation": "The International Criminal Court is a special court: it deals with war crimes and crimes against humanity.",
      "audioStart": 0.0,
-     "audioEnd": 9.888
+     "audioEnd": 9.72
     },
     {
      "text": "Der Gerichts-Hof ist nur zuständig, wenn ein Land die Verbrecher nicht selbst vor Gericht stellt.",
@@ -201,8 +201,8 @@
       }
      ],
      "translation": "The court only has jurisdiction when a country does not put the criminals on trial itself.",
-     "audioStart": 9.888,
-     "audioEnd": 16.776
+     "audioStart": 9.72,
+     "audioEnd": 16.44
     },
     {
      "text": "Der Gerichts-Hof ist kein Teil von den Vereinten Nationen.",
@@ -258,8 +258,8 @@
       }
      ],
      "translation": "The court is not part of the United Nations.",
-     "audioStart": 16.776,
-     "audioEnd": 21.48
+     "audioStart": 16.44,
+     "audioEnd": 20.928
     },
     {
      "text": "Das heißt: Länder müssen entscheiden, ob sie den Gerichts-Hof anerkennen.",
@@ -328,8 +328,8 @@
       }
      ],
      "translation": "That means: countries must decide whether they recognize the court.",
-     "audioStart": 21.48,
-     "audioEnd": 27.312
+     "audioStart": 20.928,
+     "audioEnd": 26.616
     },
     {
      "text": "Wenn sie ihn anerkennen, müssen sie mit ihm zusammenarbeiten.",
@@ -389,8 +389,8 @@
       }
      ],
      "translation": "If they recognize it, they must cooperate with it.",
-     "audioStart": 27.312,
-     "audioEnd": 32.352
+     "audioStart": 26.616,
+     "audioEnd": 31.2
     },
     {
      "text": "Das heißt: Sie müssen zum Beispiel Menschen ausliefern, die mit einem internationalen Haft-Befehl gesucht werden.",
@@ -484,8 +484,8 @@
       }
      ],
      "translation": "That means: for example, they must extradite people who are wanted under an international arrest warrant.",
-     "audioStart": 32.352,
-     "audioEnd": 40.92
+     "audioStart": 31.2,
+     "audioEnd": 39.384
     },
     {
      "text": "Der Internationale Straf-Gerichts-Hof ist in der Stadt Den Haag in den Niederlanden.",
@@ -556,8 +556,8 @@
       }
      ],
      "translation": "The International Criminal Court is in the city of The Hague in the Netherlands.",
-     "audioStart": 40.92,
-     "audioEnd": 47.088
+     "audioStart": 39.384,
+     "audioEnd": 45.24
     }
    ]
   },
@@ -637,8 +637,8 @@
       }
      ],
      "translation": "In The Hague there is another court with a very similar name.",
-     "audioStart": 47.088,
-     "audioEnd": 52.536
+     "audioStart": 45.24,
+     "audioEnd": 50.208
     },
     {
      "text": "Das ist der Internationale Gerichts-Hof.",
@@ -674,8 +674,8 @@
       }
      ],
      "translation": "That is the International Court of Justice.",
-     "audioStart": 52.536,
-     "audioEnd": 56.064
+     "audioStart": 50.208,
+     "audioEnd": 53.76
     },
     {
      "text": "Er gehört zu den Vereinten Nationen und klärt Streitigkeiten zwischen Ländern.",
@@ -741,10 +741,11 @@
       }
      ],
      "translation": "It belongs to the United Nations and settles disputes between countries.",
-     "audioStart": 56.064,
-     "audioEnd": 62.16
+     "audioStart": 53.76,
+     "audioEnd": 59.592
     }
    ]
   }
- ]
+ ],
+ "voice": "de-DE-SeraphinaMultilingualNeural"
 }

@@ -516,7 +516,7 @@
      ],
      "translation": "On the 22nd, the idol group Nogizaka46 apologized on its official website after starting the performance at its national tour \"Nogizaka46 Midsummer National Tour 2026,\" held at Meiji Jingu Stadium in Tokyo, even though some audience members who had temporarily evacuated to nearby facilities after entry was restricted due to lightning had not yet finished re-entering the venue.",
      "audioStart": 0.0,
-     "audioEnd": 31.776
+     "audioEnd": 25.248
     },
     {
      "text": "公式サイトは「本日8月22日(土)の東京公演におきまして、入場時間中に落雷の危険が予想されたため、会場の規定に則り、ご来場中のお客様には周辺施設への一時避難をご案内いたしました」とし「その後、落雷の危険が解消されたと判断し、入場を再開いたしましたが、避難先から会場へ戻られた一部のお客様が入場を終えていない状況で、公演を開始いたしました」と、入場を終える前に公演が始まっていたことを明かした。",
@@ -1346,8 +1346,8 @@
       }
      ],
      "translation": "The official site explained, \"At today's (Saturday, August 22) Tokyo performance, because danger of lightning was expected during entry, in accordance with venue regulations, we asked visiting guests to temporarily evacuate to nearby facilities,\" and continued, \"After that, judging that the danger of lightning had been resolved, we resumed entry, but the performance began while some guests who had returned to the venue from the evacuation site had not finished entering,\" revealing that the show had started before entry was complete.",
-     "audioStart": 31.776,
-     "audioEnd": 73.008
+     "audioStart": 25.248,
+     "audioEnd": 61.056
     },
     {
      "text": "この不手際について「これは、会場へ戻られるお客様の状況が関係スタッフ間で適切に共有されないまま、開演を判断したことによるものです」と説明した。",
@@ -1634,8 +1634,8 @@
       }
      ],
      "translation": "Regarding this mishap, they explained, \"This occurred because the decision to start the show was made without the situation of guests returning to the venue being properly shared among the relevant staff.\"",
-     "audioStart": 73.008,
-     "audioEnd": 88.032
+     "audioStart": 61.056,
+     "audioEnd": 74.136
     },
     {
      "text": "「本公演を楽しみにご来場いただいた皆様に、多大なるご迷惑をおかけしましたことを、心より深くお詫び申し上げます」と謝罪するとともに「今回の事態を重く受け止め、情報共有と開演判断の手順を見直し、再発防止を徹底してまいります」とした。",
@@ -2082,8 +2082,8 @@
       }
      ],
      "translation": "\"We offer our deepest apologies from the bottom of our hearts for the great inconvenience caused to everyone who came looking forward to this performance,\" they apologized, adding, \"We take this incident seriously and will review our procedures for information sharing and decisions on starting the show, and thoroughly work to prevent a recurrence.\"",
-     "audioStart": 88.032,
-     "audioEnd": 111.384
+     "audioStart": 74.136,
+     "audioEnd": 95.16
     },
     {
      "text": "また「なお、荒天のためご来場を取りやめられた方のうち、未使用のチケットをお持ちの場合には、チケット代金を払い戻しいたします」とし「払い戻し方法などの詳細は、決まり次第、公式サイトでご案内いたします。",
@@ -2425,8 +2425,8 @@
       }
      ],
      "translation": "They also stated, \"For those who canceled their attendance due to the severe weather, if you hold an unused ticket, we will refund the ticket price,\" and \"Details such as the refund method will be announced on the official site once decided.\"",
-     "audioStart": 111.384,
-     "audioEnd": 131.232
+     "audioStart": 95.16,
+     "audioEnd": 113.856
     },
     {
      "text": "ご入場済みのチケットは、原則として払い戻しの対象外となりますので、あらかじめご了承ください」と伝えた。",
@@ -2611,8 +2611,8 @@
       }
      ],
      "translation": "\"Tickets that have already been used for entry are, in principle, not eligible for refunds, so please understand in advance,\" they added.",
-     "audioStart": 131.232,
-     "audioEnd": 141.672
+     "audioStart": 113.856,
+     "audioEnd": 123.336
     },
     {
      "text": "この日、東京都は午後5時過ぎに北区、板橋区で約100ミリの猛烈な雨が降るなど、災害発生の危険度が急激に高まった。",
@@ -2838,8 +2838,8 @@
       }
      ],
      "translation": "That day in Tokyo, torrential rain of about 100mm fell in Kita and Itabashi wards just after 5pm, sharply raising the risk of disaster.",
-     "audioStart": 141.672,
-     "audioEnd": 154.128
+     "audioStart": 123.336,
+     "audioEnd": 134.568
     },
     {
      "text": "開演前には落雷の影響により「一時的にご入場を制限しております」とし、開演時間を午後6時から午後6時30分に変更していた。",
@@ -3115,10 +3115,11 @@
       }
      ],
      "translation": "Before the show, due to the lightning, they had announced that \"entry is being temporarily restricted\" and had changed the start time from 6:00pm to 6:30pm.",
-     "audioStart": 154.128,
-     "audioEnd": 167.376
+     "audioStart": 134.568,
+     "audioEnd": 146.208
     }
    ]
   }
- ]
+ ],
+ "voice": "ja-JP-KeitaNeural"
 }

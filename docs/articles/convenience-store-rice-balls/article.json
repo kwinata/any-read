@@ -1,0 +1,1247 @@
+{
+ "schemaVersion": 1,
+ "id": "convenience-store-rice-balls",
+ "language": "ja",
+ "title": "コンビニのおにぎり",
+ "titleTranslation": "Convenience Store Rice Balls",
+ "level": "N5",
+ "summary": "The article explains what onigiri (Japanese rice balls) are, how they are eaten, and why they are popular and convenient in Japanese daily life.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-23T03:45:41+00:00",
+ "audioFile": "audio.mp3",
+ "voice": "ja-JP-KeitaNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "日本には「おにぎり」という食べ物があります。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time particle (in, at)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "おにぎり",
+       "pos": "noun",
+       "romaji": "onigiri",
+       "gloss": "rice ball"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle (that)"
+      },
+      {
+       "surface": "いう",
+       "pos": "verb",
+       "romaji": "iu",
+       "gloss": "to say, to call"
+      },
+      {
+       "surface": "食べ物",
+       "pos": "noun",
+       "reading": "たべもの",
+       "romaji": "tabemono",
+       "gloss": "food"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, to have (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In Japan, there is a food called \"onigiri.\"",
+     "audioStart": 0.0,
+     "audioEnd": 4.224
+    },
+    {
+     "text": "おにぎりはご飯を三角や丸の形にした食べ物です。",
+     "tokens": [
+      {
+       "surface": "おにぎり",
+       "pos": "noun",
+       "romaji": "onigiri",
+       "gloss": "rice ball"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "ご飯",
+       "pos": "noun",
+       "reading": "ごはん",
+       "romaji": "gohan",
+       "gloss": "rice, meal"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "三角",
+       "pos": "noun",
+       "reading": "さんかく",
+       "romaji": "sankaku",
+       "gloss": "triangle"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list)"
+      },
+      {
+       "surface": "丸",
+       "pos": "noun",
+       "reading": "まる",
+       "romaji": "maru",
+       "gloss": "circle"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "形",
+       "pos": "noun",
+       "reading": "かたち",
+       "romaji": "katachi",
+       "gloss": "shape"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time particle (in, at)"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "食べ物",
+       "pos": "noun",
+       "reading": "たべもの",
+       "romaji": "tabemono",
+       "gloss": "food"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Onigiri is a food made by shaping rice into a triangle or a circle.",
+     "audioStart": 4.224,
+     "audioEnd": 9.168
+    },
+    {
+     "text": "中に魚や梅干しなどを入れます。",
+     "tokens": [
+      {
+       "surface": "中",
+       "pos": "noun",
+       "reading": "なか",
+       "romaji": "naka",
+       "gloss": "inside, middle"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time particle (in, at)"
+      },
+      {
+       "surface": "魚",
+       "pos": "noun",
+       "reading": "さかな",
+       "romaji": "sakana",
+       "gloss": "fish"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list)"
+      },
+      {
+       "surface": "梅干し",
+       "pos": "noun",
+       "reading": "うめぼし",
+       "romaji": "umeboshi",
+       "gloss": "pickled plum"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "and so on, etc."
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "入れ",
+       "pos": "verb",
+       "reading": "いれ",
+       "romaji": "ire",
+       "lemma": "入れる",
+       "gloss": "to put in"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Fish, pickled plums, and other things are put inside.",
+     "audioStart": 9.168,
+     "audioEnd": 12.552
+    },
+    {
+     "text": "おにぎりはコンビニやスーパーで、いつでも買うことができます。",
+     "tokens": [
+      {
+       "surface": "おにぎり",
+       "pos": "noun",
+       "romaji": "onigiri",
+       "gloss": "rice ball"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "コンビニ",
+       "pos": "noun",
+       "romaji": "konbini",
+       "gloss": "convenience store"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list)"
+      },
+      {
+       "surface": "スーパー",
+       "pos": "noun",
+       "romaji": "suupaa",
+       "gloss": "supermarket"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle (at, by)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "いつ",
+       "pos": "pronoun",
+       "romaji": "itsu",
+       "gloss": "when"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle (at, by)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even (here: いつでも = anytime)"
+      },
+      {
+       "surface": "買う",
+       "pos": "verb",
+       "reading": "かう",
+       "romaji": "kau",
+       "gloss": "to buy"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer (the fact/act of)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to, can"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You can buy onigiri anytime at convenience stores and supermarkets.",
+     "audioStart": 12.552,
+     "audioEnd": 17.808
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "おにぎりの外側には、のりがあります。",
+     "tokens": [
+      {
+       "surface": "おにぎり",
+       "pos": "noun",
+       "romaji": "onigiri",
+       "gloss": "rice ball"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "外側",
+       "pos": "noun",
+       "reading": "そとがわ",
+       "romaji": "sotogawa",
+       "gloss": "outside, exterior"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time particle (in, at)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "のり",
+       "pos": "noun",
+       "romaji": "nori",
+       "gloss": "nori, seaweed"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, to have (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On the outside of onigiri, there is nori (seaweed).",
+     "audioStart": 17.808,
+     "audioEnd": 21.792
+    },
+    {
+     "text": "のりは黒くて、とてもおいしいです。",
+     "tokens": [
+      {
+       "surface": "のり",
+       "pos": "noun",
+       "romaji": "nori",
+       "gloss": "nori, seaweed"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "黒く",
+       "pos": "adjective",
+       "reading": "くろく",
+       "romaji": "kuroku",
+       "lemma": "黒い",
+       "gloss": "black"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very"
+      },
+      {
+       "surface": "おいしい",
+       "pos": "adjective",
+       "romaji": "oishii",
+       "gloss": "delicious"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The nori is black and very delicious.",
+     "audioStart": 21.792,
+     "audioEnd": 25.56
+    },
+    {
+     "text": "おにぎりの味はたくさんあります。",
+     "tokens": [
+      {
+       "surface": "おにぎり",
+       "pos": "noun",
+       "romaji": "onigiri",
+       "gloss": "rice ball"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "味",
+       "pos": "noun",
+       "reading": "あじ",
+       "romaji": "aji",
+       "gloss": "flavor, taste"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "many, a lot"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, to have (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are many flavors of onigiri.",
+     "audioStart": 25.56,
+     "audioEnd": 28.824
+    },
+    {
+     "text": "サケやツナや明太子が人気です。",
+     "tokens": [
+      {
+       "surface": "サケ",
+       "pos": "noun",
+       "romaji": "sake",
+       "gloss": "salmon"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list)"
+      },
+      {
+       "surface": "ツナ",
+       "pos": "noun",
+       "romaji": "tsuna",
+       "gloss": "tuna"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list)"
+      },
+      {
+       "surface": "明太子",
+       "pos": "noun",
+       "reading": "めんたいこ",
+       "romaji": "mentaiko",
+       "gloss": "spicy pollock roe"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "人気",
+       "pos": "noun",
+       "reading": "にんき",
+       "romaji": "ninki",
+       "gloss": "popularity"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Salmon, tuna, and spicy cod roe are popular.",
+     "audioStart": 28.824,
+     "audioEnd": 32.184
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "おにぎりは小さいです。",
+     "tokens": [
+      {
+       "surface": "おにぎり",
+       "pos": "noun",
+       "romaji": "onigiri",
+       "gloss": "rice ball"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "小さい",
+       "pos": "adjective",
+       "reading": "ちいさい",
+       "romaji": "chiisai",
+       "gloss": "small"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Onigiri are small.",
+     "audioStart": 32.184,
+     "audioEnd": 34.776
+    },
+    {
+     "text": "手で簡単に食べます。",
+     "tokens": [
+      {
+       "surface": "手",
+       "pos": "noun",
+       "reading": "て",
+       "romaji": "te",
+       "gloss": "hand"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle (at, by)"
+      },
+      {
+       "surface": "簡単",
+       "pos": "adjective",
+       "reading": "かんたん",
+       "romaji": "kantan",
+       "gloss": "easy, simple"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "plain copula (is)"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You eat them easily with your hands.",
+     "audioStart": 34.776,
+     "audioEnd": 37.344
+    },
+    {
+     "text": "学校や仕事に持って行く人が多いです。",
+     "tokens": [
+      {
+       "surface": "学校",
+       "pos": "noun",
+       "reading": "がっこう",
+       "romaji": "gakkou",
+       "gloss": "school"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list)"
+      },
+      {
+       "surface": "仕事",
+       "pos": "noun",
+       "reading": "しごと",
+       "romaji": "shigoto",
+       "gloss": "work, job"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time particle (in, at)"
+      },
+      {
+       "surface": "持っ",
+       "pos": "verb",
+       "reading": "もっ",
+       "romaji": "motsu",
+       "lemma": "持つ",
+       "gloss": "to hold, to carry"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)"
+      },
+      {
+       "surface": "行く",
+       "pos": "verb",
+       "reading": "いく",
+       "romaji": "iku",
+       "gloss": "to go"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "多い",
+       "pos": "adjective",
+       "reading": "おおい",
+       "romaji": "ooi",
+       "gloss": "many, numerous"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many people take them to school or work.",
+     "audioStart": 37.344,
+     "audioEnd": 41.256
+    },
+    {
+     "text": "公園でお弁当と一緒に食べる人もいます。",
+     "tokens": [
+      {
+       "surface": "公園",
+       "pos": "noun",
+       "reading": "こうえん",
+       "romaji": "kouen",
+       "gloss": "park"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle (at, by)"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "弁当",
+       "pos": "noun",
+       "reading": "べんとう",
+       "romaji": "bentou",
+       "gloss": "boxed lunch"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle (that)"
+      },
+      {
+       "surface": "一緒",
+       "pos": "noun",
+       "reading": "いっしょ",
+       "romaji": "issho",
+       "gloss": "together"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time particle (in, at)"
+      },
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even (here: いつでも = anytime)"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist, to be (animate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Some people eat them together with a bento in the park.",
+     "audioStart": 41.256,
+     "audioEnd": 45.24
+    },
+    {
+     "text": "値段も安いので、学生に人気です。",
+     "tokens": [
+      {
+       "surface": "値段",
+       "pos": "noun",
+       "reading": "ねだん",
+       "romaji": "nedan",
+       "gloss": "price"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even (here: いつでも = anytime)"
+      },
+      {
+       "surface": "安い",
+       "pos": "adjective",
+       "reading": "やすい",
+       "romaji": "yasui",
+       "gloss": "cheap"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "plain copula (is)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "学生",
+       "pos": "noun",
+       "reading": "がくせい",
+       "romaji": "gakusei",
+       "gloss": "student"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time particle (in, at)"
+      },
+      {
+       "surface": "人気",
+       "pos": "noun",
+       "reading": "にんき",
+       "romaji": "ninki",
+       "gloss": "popularity"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The price is also cheap, so they are popular with students.",
+     "audioStart": 45.24,
+     "audioEnd": 49.368
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "朝ごはんやお昼ごはんに、おにぎりを食べる人がたくさんいます。",
+     "tokens": [
+      {
+       "surface": "朝ごはん",
+       "pos": "noun",
+       "reading": "あさごはん",
+       "romaji": "asagohan",
+       "gloss": "breakfast"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list)"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "昼",
+       "pos": "noun",
+       "reading": "ひる",
+       "romaji": "hiru",
+       "gloss": "noon, daytime"
+      },
+      {
+       "surface": "ごはん",
+       "pos": "noun",
+       "romaji": "gohan",
+       "gloss": "meal, rice"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time particle (in, at)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "おにぎり",
+       "pos": "noun",
+       "romaji": "onigiri",
+       "gloss": "rice ball"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "many, a lot"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist, to be (animate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many people eat onigiri for breakfast or lunch.",
+     "audioStart": 49.368,
+     "audioEnd": 54.84
+    },
+    {
+     "text": "旅行のときも、おにぎりを買う人が多いです。",
+     "tokens": [
+      {
+       "surface": "旅行",
+       "pos": "noun",
+       "reading": "りょこう",
+       "romaji": "ryokou",
+       "gloss": "travel, trip"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "time, occasion (when)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even (here: いつでも = anytime)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "おにぎり",
+       "pos": "noun",
+       "romaji": "onigiri",
+       "gloss": "rice ball"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "買う",
+       "pos": "verb",
+       "reading": "かう",
+       "romaji": "kau",
+       "gloss": "to buy"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "多い",
+       "pos": "adjective",
+       "reading": "おおい",
+       "romaji": "ooi",
+       "gloss": "many, numerous"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Even when traveling, many people buy onigiri.",
+     "audioStart": 54.84,
+     "audioEnd": 59.232
+    },
+    {
+     "text": "おにぎりは日本人の生活にとても近い食べ物です。",
+     "tokens": [
+      {
+       "surface": "おにぎり",
+       "pos": "noun",
+       "romaji": "onigiri",
+       "gloss": "rice ball"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "日本人",
+       "pos": "noun",
+       "reading": "にほんじん",
+       "romaji": "nihonjin",
+       "gloss": "Japanese person"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "生活",
+       "pos": "noun",
+       "reading": "せいかつ",
+       "romaji": "seikatsu",
+       "gloss": "daily life"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time particle (in, at)"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very"
+      },
+      {
+       "surface": "近い",
+       "pos": "adjective",
+       "reading": "ちかい",
+       "romaji": "chikai",
+       "gloss": "close, near"
+      },
+      {
+       "surface": "食べ物",
+       "pos": "noun",
+       "reading": "たべもの",
+       "romaji": "tabemono",
+       "gloss": "food"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Onigiri is a food very close to the lives of Japanese people.",
+     "audioStart": 59.232,
+     "audioEnd": 64.08
+    }
+   ]
+  }
+ ]
+}

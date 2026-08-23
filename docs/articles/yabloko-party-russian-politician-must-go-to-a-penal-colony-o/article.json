@@ -57,7 +57,7 @@
      ],
      "translation": "Ukraine is a country in Eastern Europe.",
      "audioStart": 0.0,
-     "audioEnd": 4.056
+     "audioEnd": 3.528
     },
     {
      "text": "Die Ukraine gehörte früher zu dem Land Sowjet-Union.",
@@ -108,8 +108,8 @@
       }
      ],
      "translation": "Ukraine used to belong to the country Soviet Union.",
-     "audioStart": 4.056,
-     "audioEnd": 8.808
+     "audioStart": 3.528,
+     "audioEnd": 7.824
     },
     {
      "text": "Die Ukraine ist fast doppelt so groß wie Deutschland, aber es leben viel weniger Menschen dort.",
@@ -204,8 +204,8 @@
       }
      ],
      "translation": "Ukraine is almost twice as big as Germany, but far fewer people live there.",
-     "audioStart": 8.808,
-     "audioEnd": 16.104
+     "audioStart": 7.824,
+     "audioEnd": 14.664
     },
     {
      "text": "Viele von ihnen sprechen Ukrainisch und Russisch.",
@@ -251,8 +251,8 @@
       }
      ],
      "translation": "Many of them speak Ukrainian and Russian.",
-     "audioStart": 16.104,
-     "audioEnd": 20.376
+     "audioStart": 14.664,
+     "audioEnd": 18.648
     },
     {
      "text": "Die Haupt-Stadt heißt Kiew.",
@@ -283,8 +283,8 @@
       }
      ],
      "translation": "The capital city is called Kyiv.",
-     "audioStart": 20.376,
-     "audioEnd": 23.328
+     "audioStart": 18.648,
+     "audioEnd": 21.216
     },
     {
      "text": "Ein Nachbar-Land von der Ukraine ist Russland.",
@@ -330,8 +330,8 @@
       }
      ],
      "translation": "A neighboring country of Ukraine is Russia.",
-     "audioStart": 23.328,
-     "audioEnd": 27.6
+     "audioStart": 21.216,
+     "audioEnd": 25.032
     },
     {
      "text": "Russland möchte Teile von der Ukraine haben.",
@@ -377,8 +377,8 @@
       }
      ],
      "translation": "Russia wants to have parts of Ukraine.",
-     "audioStart": 27.6,
-     "audioEnd": 31.872
+     "audioStart": 25.032,
+     "audioEnd": 28.68
     },
     {
      "text": "Darum gibt es seit 2014 Kämpfe um diese Teile: zum Beispiel um die Halb-Insel Krim oder den Osten von der Ukraine.",
@@ -497,8 +497,8 @@
       }
      ],
      "translation": "That's why there have been fights over these parts since 2014: for example over the peninsula Crimea or the east of Ukraine.",
-     "audioStart": 31.872,
-     "audioEnd": 41.592
+     "audioStart": 28.68,
+     "audioEnd": 37.896
     },
     {
      "text": "Im Jahr 2022 hat Russland dann die ganze Ukraine angegriffen.",
@@ -558,8 +558,8 @@
       }
      ],
      "translation": "In 2022, Russia then attacked the whole of Ukraine.",
-     "audioStart": 41.592,
-     "audioEnd": 48.096
+     "audioStart": 37.896,
+     "audioEnd": 44.184
     },
     {
      "text": "Seitdem ist Krieg in dem Land.",
@@ -600,10 +600,11 @@
       }
      ],
      "translation": "Since then there has been war in the country.",
-     "audioStart": 48.096,
-     "audioEnd": 51.36
+     "audioStart": 44.184,
+     "audioEnd": 46.944
     }
    ]
   }
- ]
+ ],
+ "voice": "de-DE-SeraphinaMultilingualNeural"
 }

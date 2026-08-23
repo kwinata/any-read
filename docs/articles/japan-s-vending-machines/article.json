@@ -1,0 +1,1284 @@
+{
+ "schemaVersion": 1,
+ "id": "japan-s-vending-machines",
+ "language": "ja",
+ "title": "日本の自動販売機",
+ "titleTranslation": "Japan's Vending Machines",
+ "level": "N5",
+ "summary": "This article explains that Japan has an unusually large number of vending machines, which are conveniently available everywhere and at all hours, offering both hot and cold drinks with cash or electronic payment.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-23T03:43:57+00:00",
+ "audioFile": "audio.mp3",
+ "voice": "ja-JP-KeitaNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "日本には自動販売機がたくさんあります。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time particle (in, at)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "自動販売機",
+       "pos": "noun",
+       "reading": "じどうはんばいき",
+       "romaji": "jidouhanbaiki",
+       "gloss": "vending machine"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are many vending machines in Japan.",
+     "audioStart": 0.0,
+     "audioEnd": 4.008
+    },
+    {
+     "text": "街にも、駅の近くにも、山の上にもあります。",
+     "tokens": [
+      {
+       "surface": "街",
+       "pos": "noun",
+       "reading": "まち",
+       "romaji": "machi",
+       "gloss": "town, city"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time particle (in, at)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "駅",
+       "pos": "noun",
+       "reading": "えき",
+       "romaji": "eki",
+       "gloss": "station"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle"
+      },
+      {
+       "surface": "近く",
+       "pos": "noun",
+       "reading": "ちかく",
+       "romaji": "chikaku",
+       "gloss": "vicinity, nearby"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time particle (in, at)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "山",
+       "pos": "noun",
+       "reading": "やま",
+       "romaji": "yama",
+       "gloss": "mountain"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle"
+      },
+      {
+       "surface": "上",
+       "pos": "noun",
+       "reading": "うえ",
+       "romaji": "ue",
+       "gloss": "top, above"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time particle (in, at)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They are in cities, near train stations, and even on mountains.",
+     "audioStart": 4.008,
+     "audioEnd": 9.24
+    },
+    {
+     "text": "日本は世界の中で、自動販売機がとても多い国です。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "世界",
+       "pos": "noun",
+       "reading": "せかい",
+       "romaji": "sekai",
+       "gloss": "world"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle"
+      },
+      {
+       "surface": "中",
+       "pos": "noun",
+       "reading": "なか",
+       "romaji": "naka",
+       "gloss": "among, within"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle (at, by, in)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "自動販売機",
+       "pos": "noun",
+       "reading": "じどうはんばいき",
+       "romaji": "jidouhanbaiki",
+       "gloss": "vending machine"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very"
+      },
+      {
+       "surface": "多い",
+       "pos": "adjective",
+       "reading": "おおい",
+       "romaji": "ooi",
+       "gloss": "many, numerous"
+      },
+      {
+       "surface": "国",
+       "pos": "noun",
+       "reading": "くに",
+       "romaji": "kuni",
+       "gloss": "country"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Japan is a country with very many vending machines compared to the rest of the world.",
+     "audioStart": 9.24,
+     "audioEnd": 14.76
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "自動販売機では、いろいろな飲み物を買うことができます。",
+     "tokens": [
+      {
+       "surface": "自動販売機",
+       "pos": "noun",
+       "reading": "じどうはんばいき",
+       "romaji": "jidouhanbaiki",
+       "gloss": "vending machine"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle (at, by, in)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "いろいろ",
+       "pos": "adjective",
+       "romaji": "iroiro",
+       "gloss": "various"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "plain copula (is)"
+      },
+      {
+       "surface": "飲み物",
+       "pos": "noun",
+       "reading": "のみもの",
+       "romaji": "nomimono",
+       "gloss": "drink, beverage"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "買う",
+       "pos": "verb",
+       "reading": "かう",
+       "romaji": "kau",
+       "gloss": "to buy"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer (the act/fact of)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "can, to be able to"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "At vending machines, you can buy various kinds of drinks.",
+     "audioStart": 14.76,
+     "audioEnd": 20.016
+    },
+    {
+     "text": "夏は冷たい飲み物が人気です。",
+     "tokens": [
+      {
+       "surface": "夏",
+       "pos": "noun",
+       "reading": "なつ",
+       "romaji": "natsu",
+       "gloss": "summer"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "冷たい",
+       "pos": "adjective",
+       "reading": "つめたい",
+       "romaji": "tsumetai",
+       "gloss": "cold (to the touch)"
+      },
+      {
+       "surface": "飲み物",
+       "pos": "noun",
+       "reading": "のみもの",
+       "romaji": "nomimono",
+       "gloss": "drink, beverage"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "人気",
+       "pos": "noun",
+       "reading": "にんき",
+       "romaji": "ninki",
+       "gloss": "popularity"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In summer, cold drinks are popular.",
+     "audioStart": 20.016,
+     "audioEnd": 23.472
+    },
+    {
+     "text": "冬は温かい飲み物もあります。",
+     "tokens": [
+      {
+       "surface": "冬",
+       "pos": "noun",
+       "reading": "ふゆ",
+       "romaji": "fuyu",
+       "gloss": "winter"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "温かい",
+       "pos": "adjective",
+       "reading": "あたたかい",
+       "romaji": "atatakai",
+       "gloss": "warm"
+      },
+      {
+       "surface": "飲み物",
+       "pos": "noun",
+       "reading": "のみもの",
+       "romaji": "nomimono",
+       "gloss": "drink, beverage"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In winter, there are also warm drinks.",
+     "audioStart": 23.472,
+     "audioEnd": 26.736
+    },
+    {
+     "text": "同じ機械で、冷たい物と温かい物を両方買えます。",
+     "tokens": [
+      {
+       "surface": "同じ",
+       "pos": "prenominal",
+       "reading": "おなじ",
+       "romaji": "onaji",
+       "gloss": "same"
+      },
+      {
+       "surface": "機械",
+       "pos": "noun",
+       "reading": "きかい",
+       "romaji": "kikai",
+       "gloss": "machine"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle (at, by, in)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "冷たい",
+       "pos": "adjective",
+       "reading": "つめたい",
+       "romaji": "tsumetai",
+       "gloss": "cold (to the touch)"
+      },
+      {
+       "surface": "物",
+       "pos": "noun",
+       "reading": "もの",
+       "romaji": "mono",
+       "gloss": "thing, item"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and; with"
+      },
+      {
+       "surface": "温かい",
+       "pos": "adjective",
+       "reading": "あたたかい",
+       "romaji": "atatakai",
+       "gloss": "warm"
+      },
+      {
+       "surface": "物",
+       "pos": "noun",
+       "reading": "もの",
+       "romaji": "mono",
+       "gloss": "thing, item"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "両方",
+       "pos": "noun",
+       "reading": "りょうほう",
+       "romaji": "ryouhou",
+       "gloss": "both"
+      },
+      {
+       "surface": "買え",
+       "pos": "verb",
+       "reading": "かえ",
+       "romaji": "kae",
+       "lemma": "買える",
+       "gloss": "can buy (potential form)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You can buy both cold and warm items from the same machine.",
+     "audioStart": 26.736,
+     "audioEnd": 32.112
+    },
+    {
+     "text": "お茶やコーヒー、ジュースなど、種類がたくさんあります。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "茶",
+       "pos": "noun",
+       "reading": "ちゃ",
+       "romaji": "cha",
+       "gloss": "tea"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)"
+      },
+      {
+       "surface": "コーヒー",
+       "pos": "noun",
+       "romaji": "koohii",
+       "gloss": "coffee"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ジュース",
+       "pos": "noun",
+       "romaji": "juusu",
+       "gloss": "juice"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "種類",
+       "pos": "noun",
+       "reading": "しゅるい",
+       "romaji": "shurui",
+       "gloss": "kind, type"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are many kinds of drinks, such as tea, coffee, and juice.",
+     "audioStart": 32.112,
+     "audioEnd": 37.344
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "自動販売機は24時間使うことができます。",
+     "tokens": [
+      {
+       "surface": "自動販売機",
+       "pos": "noun",
+       "reading": "じどうはんばいき",
+       "romaji": "jidouhanbaiki",
+       "gloss": "vending machine"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "24",
+       "pos": "noun",
+       "gloss": "twenty-four"
+      },
+      {
+       "surface": "時間",
+       "pos": "noun",
+       "reading": "じかん",
+       "romaji": "jikan",
+       "gloss": "hour(s), time"
+      },
+      {
+       "surface": "使う",
+       "pos": "verb",
+       "reading": "つかう",
+       "romaji": "tsukau",
+       "gloss": "to use"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer (the act/fact of)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "can, to be able to"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Vending machines can be used 24 hours a day.",
+     "audioStart": 37.344,
+     "audioEnd": 42.024
+    },
+    {
+     "text": "夜遅い時間でも、飲み物を買うことができます。",
+     "tokens": [
+      {
+       "surface": "夜",
+       "pos": "noun",
+       "reading": "よる",
+       "romaji": "yoru",
+       "gloss": "night"
+      },
+      {
+       "surface": "遅い",
+       "pos": "adjective",
+       "reading": "おそい",
+       "romaji": "osoi",
+       "gloss": "late"
+      },
+      {
+       "surface": "時間",
+       "pos": "noun",
+       "reading": "じかん",
+       "romaji": "jikan",
+       "gloss": "hour(s), time"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle (at, by, in)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "飲み物",
+       "pos": "noun",
+       "reading": "のみもの",
+       "romaji": "nomimono",
+       "gloss": "drink, beverage"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "買う",
+       "pos": "verb",
+       "reading": "かう",
+       "romaji": "kau",
+       "gloss": "to buy"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer (the act/fact of)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "can, to be able to"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Even late at night, you can buy drinks.",
+     "audioStart": 42.024,
+     "audioEnd": 46.728
+    },
+    {
+     "text": "お金を入れて、ボタンを押すだけで簡単に買えます。",
+     "tokens": [
+      {
+       "surface": "お金",
+       "pos": "noun",
+       "reading": "おかね",
+       "romaji": "okane",
+       "gloss": "money"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "入れ",
+       "pos": "verb",
+       "reading": "いれ",
+       "romaji": "ire",
+       "lemma": "入れる",
+       "gloss": "to put in, insert"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective verb form"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ボタン",
+       "pos": "noun",
+       "romaji": "botan",
+       "gloss": "button"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "押す",
+       "pos": "verb",
+       "reading": "おす",
+       "romaji": "osu",
+       "gloss": "to press"
+      },
+      {
+       "surface": "だけ",
+       "pos": "particle",
+       "romaji": "dake",
+       "gloss": "only, just"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle (at, by, in)"
+      },
+      {
+       "surface": "簡単",
+       "pos": "adjective",
+       "reading": "かんたん",
+       "romaji": "kantan",
+       "gloss": "simple, easy"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "plain copula (is)"
+      },
+      {
+       "surface": "買え",
+       "pos": "verb",
+       "reading": "かえ",
+       "romaji": "kae",
+       "lemma": "買える",
+       "gloss": "can buy (potential form)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You can buy easily just by inserting money and pressing a button.",
+     "audioStart": 46.728,
+     "audioEnd": 51.504
+    },
+    {
+     "text": "今は電子マネーが使える機械も多くなりました。",
+     "tokens": [
+      {
+       "surface": "今",
+       "pos": "noun",
+       "reading": "いま",
+       "romaji": "ima",
+       "gloss": "now"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "電子マネー",
+       "pos": "noun",
+       "reading": "でんしまねー",
+       "romaji": "denshimanee",
+       "gloss": "electronic money"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "使える",
+       "pos": "verb",
+       "reading": "つかえる",
+       "romaji": "tsukaeru",
+       "gloss": "can use (potential form)"
+      },
+      {
+       "surface": "機械",
+       "pos": "noun",
+       "reading": "きかい",
+       "romaji": "kikai",
+       "gloss": "machine"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "多く",
+       "pos": "adjective",
+       "reading": "おおく",
+       "romaji": "ooku",
+       "lemma": "多い",
+       "gloss": "many, numerous"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Now there are also many machines that accept electronic money.",
+     "audioStart": 51.504,
+     "audioEnd": 55.776
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "日本を旅行するとき、ぜひ自動販売機を使ってみてください。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "旅行",
+       "pos": "noun",
+       "reading": "りょこう",
+       "romaji": "ryokou",
+       "gloss": "travel"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "when, at the time"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ぜひ",
+       "pos": "adverb",
+       "romaji": "zehi",
+       "gloss": "by all means, please do"
+      },
+      {
+       "surface": "自動販売機",
+       "pos": "noun",
+       "reading": "じどうはんばいき",
+       "romaji": "jidouhanbaiki",
+       "gloss": "vending machine"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "使っ",
+       "pos": "verb",
+       "reading": "つかっ",
+       "romaji": "tsukatsu",
+       "lemma": "使う",
+       "gloss": "to use"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective verb form"
+      },
+      {
+       "surface": "み",
+       "pos": "verb",
+       "romaji": "mi",
+       "lemma": "みる",
+       "gloss": "to try (doing something), auxiliary after -te form"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective verb form"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる",
+       "gloss": "to give (honorific), used as 'please do'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When you travel in Japan, please try using a vending machine.",
+     "audioStart": 55.776,
+     "audioEnd": 61.416
+    },
+    {
+     "text": "きっと便利だと思います。",
+     "tokens": [
+      {
+       "surface": "きっと",
+       "pos": "adverb",
+       "romaji": "kitto",
+       "gloss": "surely, certainly"
+      },
+      {
+       "surface": "便利",
+       "pos": "noun",
+       "reading": "べんり",
+       "romaji": "benri",
+       "gloss": "convenient"
+      },
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "plain copula (is)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and; with"
+      },
+      {
+       "surface": "思い",
+       "pos": "verb",
+       "reading": "おもい",
+       "romaji": "omoi",
+       "lemma": "思う",
+       "gloss": "to think"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I'm sure you'll find it convenient.",
+     "audioStart": 61.416,
+     "audioEnd": 64.152
+    },
+    {
+     "text": "日本の自動販売機は、日本の生活の一部です。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle"
+      },
+      {
+       "surface": "自動販売機",
+       "pos": "noun",
+       "reading": "じどうはんばいき",
+       "romaji": "jidouhanbaiki",
+       "gloss": "vending machine"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle"
+      },
+      {
+       "surface": "生活",
+       "pos": "noun",
+       "reading": "せいかつ",
+       "romaji": "seikatsu",
+       "gloss": "life, living"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle"
+      },
+      {
+       "surface": "一部",
+       "pos": "noun",
+       "reading": "いちぶ",
+       "romaji": "ichibu",
+       "gloss": "a part"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Japan's vending machines are a part of daily life in Japan.",
+     "audioStart": 64.152,
+     "audioEnd": 69.24
+    }
+   ]
+  }
+ ]
+}

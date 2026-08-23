@@ -131,7 +131,7 @@
      ],
      "translation": "In autumn, you can see beautiful autumn leaves in various places across Japan.",
      "audioStart": 0.0,
-     "audioEnd": 5.88
+     "audioEnd": 5.208
     },
     {
      "text": "この記事では、北海道、東北、富士山のちかく、東京、福岡の　8つの　紅葉ツアーを　しょうかいします。",
@@ -296,8 +296,8 @@
       }
      ],
      "translation": "In this article, we introduce 8 autumn-leaf tours in Hokkaido, Tohoku, near Mt. Fuji, Tokyo, and Fukuoka.",
-     "audioStart": 5.88,
-     "audioEnd": 16.68
+     "audioStart": 5.208,
+     "audioEnd": 15.552
     }
    ]
   },
@@ -488,8 +488,8 @@
       }
      ],
      "translation": "In Japan, from Hokkaido in the north to Kyushu in the south, you can see beautiful autumn leaves in many different places.",
-     "audioStart": 16.68,
-     "audioEnd": 26.448
+     "audioStart": 15.552,
+     "audioEnd": 24.72
     }
    ]
   },
@@ -639,8 +639,8 @@
       }
      ],
      "translation": "In this article, we introduce 8 autumn-leaf tours and activities you can enjoy in Japan.",
-     "audioStart": 26.448,
-     "audioEnd": 34.656
+     "audioStart": 24.72,
+     "audioEnd": 32.088
     },
     {
      "text": "この記事で　紹介した　ツアーに　参加しなければ　行くことが　できないような　場所も　あります。",
@@ -800,8 +800,8 @@
       }
      ],
      "translation": "There are also places you can only reach by joining the tours introduced in this article.",
-     "audioStart": 34.656,
-     "audioEnd": 41.88
+     "audioStart": 32.088,
+     "audioEnd": 38.352
     }
    ]
   },
@@ -855,8 +855,8 @@
       }
      ],
      "translation": "Japan's 8 autumn-leaf tours",
-     "audioStart": 41.88,
-     "audioEnd": 45.336
+     "audioStart": 38.352,
+     "audioEnd": 41.376
     }
    ]
   },
@@ -979,8 +979,8 @@
       }
      ],
      "translation": "1. Hokkaido Kurodake Ropeway, Asahiyama Zoo, and Shirogane Blue Pond Autumn Bus Tour (from Sapporo)",
-     "audioStart": 45.336,
-     "audioEnd": 55.344
+     "audioStart": 41.376,
+     "audioEnd": 49.584
     }
    ]
   },
@@ -1074,8 +1074,8 @@
       }
      ],
      "translation": "2. Naruko Gorge Autumn Leaves and Ginzan Onsen Day Bus Tour (from Sendai)",
-     "audioStart": 55.344,
-     "audioEnd": 61.92
+     "audioStart": 49.584,
+     "audioEnd": 55.584
     }
    ]
   },
@@ -1179,8 +1179,8 @@
       }
      ],
      "translation": "3. Nasu Autumn Leaves and Ashikaga Flower Park Illumination Day Tour (from Tokyo)",
-     "audioStart": 61.92,
-     "audioEnd": 69.408
+     "audioStart": 55.584,
+     "audioEnd": 62.064
     }
    ]
   },
@@ -1261,8 +1261,8 @@
       }
      ],
      "translation": "4. Mt. Fuji and Lake Kawaguchi Day Autumn-Leaf Tour (from Tokyo)",
-     "audioStart": 69.408,
-     "audioEnd": 75.216
+     "audioStart": 62.064,
+     "audioEnd": 67.296
     }
    ]
   },
@@ -1364,8 +1364,8 @@
       }
      ],
      "translation": "5. Mishima Skywalk, Shuzenji, and Atami Plum Garden Day Tour (from Tokyo)",
-     "audioStart": 75.216,
-     "audioEnd": 82.608
+     "audioStart": 67.296,
+     "audioEnd": 73.368
     }
    ]
   },
@@ -1433,8 +1433,8 @@
       }
      ],
      "translation": "6. Kawagoe Day Autumn-Leaf Tour (from Tokyo)",
-     "audioStart": 82.608,
-     "audioEnd": 87.6
+     "audioStart": 73.368,
+     "audioEnd": 77.736
     }
    ]
   },
@@ -1535,8 +1535,8 @@
       }
      ],
      "translation": "7. Nikko Toshogu Shrine and Kegon Falls Day Autumn-Leaf Tour (from Tokyo)",
-     "audioStart": 87.6,
-     "audioEnd": 94.368
+     "audioStart": 77.736,
+     "audioEnd": 83.736
     }
    ]
   },
@@ -1604,8 +1604,8 @@
       }
      ],
      "translation": "8. Yabakei Day Autumn-Leaf Tour (from Fukuoka)",
-     "audioStart": 94.368,
-     "audioEnd": 99.36
+     "audioStart": 83.736,
+     "audioEnd": 88.584
     }
    ]
   },
@@ -1728,8 +1728,8 @@
       }
      ],
      "translation": "1. Hokkaido Kurodake Ropeway, Asahiyama Zoo, and Shirogane Blue Pond Autumn Bus Tour (from Sapporo)",
-     "audioStart": 99.36,
-     "audioEnd": 109.368
+     "audioStart": 88.584,
+     "audioEnd": 96.792
     }
    ]
   },
@@ -1943,8 +1943,8 @@
       }
      ],
      "translation": "On this bus tour departing from Sapporo, you can have the wonderful experience of riding the ropeway and viewing the orange, sea-like scenery spreading out below.",
-     "audioStart": 109.368,
-     "audioEnd": 121.44
+     "audioStart": 96.792,
+     "audioEnd": 107.064
     }
    ]
   },
@@ -2023,8 +2023,8 @@
       }
      ],
      "translation": "And you can enjoy Hokkaido's nature.",
-     "audioStart": 121.44,
-     "audioEnd": 126.36
+     "audioStart": 107.064,
+     "audioEnd": 111.432
     },
     {
      "text": "日本で　1番　早く　紅葉が　始まる　北海道の　景色を　楽しんで　ください。",
@@ -2130,8 +2130,8 @@
       }
      ],
      "translation": "Please enjoy the scenery of Hokkaido, where the autumn leaves start earliest in Japan.",
-     "audioStart": 126.36,
-     "audioEnd": 132.96
+     "audioStart": 111.432,
+     "audioEnd": 117.288
     }
    ]
   },
@@ -2275,8 +2275,8 @@
       }
      ],
      "translation": "Next, at Asahiyama Zoo, you can see cute animals such as red pandas and polar bear cubs.",
-     "audioStart": 132.96,
-     "audioEnd": 142.512
+     "audioStart": 117.288,
+     "audioEnd": 126.072
     }
    ]
   },
@@ -2378,8 +2378,8 @@
       }
      ],
      "translation": "Finally, you go to the \"Blue Pond of Shirogane\" in Biei Town.",
-     "audioStart": 142.512,
-     "audioEnd": 147.96
+     "audioStart": 126.072,
+     "audioEnd": 131.016
     },
     {
      "text": "自然の　青い　水が　とても　きれいな　池です。",
@@ -2455,8 +2455,8 @@
       }
      ],
      "translation": "It is a pond with beautifully clear, naturally blue water.",
-     "audioStart": 147.96,
-     "audioEnd": 152.352
+     "audioStart": 131.016,
+     "audioEnd": 134.856
     }
    ]
   },
@@ -2592,8 +2592,8 @@
       }
      ],
      "translation": "Day trips are recommended for people who want to keep enjoying their trip right up to the last day.",
-     "audioStart": 152.352,
-     "audioEnd": 159.84
+     "audioStart": 134.856,
+     "audioEnd": 141.768
     },
     {
      "text": "札幌駅を　出発して、札幌駅に　戻ってくる　ツアーです。",
@@ -2686,8 +2686,8 @@
       }
      ],
      "translation": "It is a tour that departs from Sapporo Station and returns to Sapporo Station.",
-     "audioStart": 159.84,
-     "audioEnd": 165.936
+     "audioStart": 141.768,
+     "audioEnd": 147.384
     }
    ]
   },
@@ -2781,8 +2781,8 @@
       }
      ],
      "translation": "2. Naruko Gorge Autumn Leaves and Ginzan Onsen Day Bus Tour (from Sendai)",
-     "audioStart": 165.936,
-     "audioEnd": 172.392
+     "audioStart": 147.384,
+     "audioEnd": 153.336
     }
    ]
   },
@@ -2881,8 +2881,8 @@
       }
      ],
      "translation": "Let's enjoy Japan's autumn on this bus tour departing from Sendai.",
-     "audioStart": 172.392,
-     "audioEnd": 178.44
+     "audioStart": 153.336,
+     "audioEnd": 159.024
     }
    ]
   },
@@ -2968,8 +2968,8 @@
       }
      ],
      "translation": "On this tour, you first go to Ginzan Onsen.",
-     "audioStart": 178.44,
-     "audioEnd": 183.24
+     "audioStart": 159.024,
+     "audioEnd": 163.248
     },
     {
      "text": "銀山温泉は昔、銀を　とっていた場所です。",
@@ -3063,8 +3063,8 @@
       }
      ],
      "translation": "Ginzan Onsen was once a place where silver was mined.",
-     "audioStart": 183.24,
-     "audioEnd": 188.376
+     "audioStart": 163.248,
+     "audioEnd": 168.024
     },
     {
      "text": "今は　昔から　ある　旅館が　並んで　います。",
@@ -3147,8 +3147,8 @@
       }
      ],
      "translation": "Now, inns that have stood since long ago line the streets.",
-     "audioStart": 188.376,
-     "audioEnd": 192.456
+     "audioStart": 168.024,
+     "audioEnd": 171.744
     },
     {
      "text": "歴史を　感じる　美しい　景色で　有名です。",
@@ -3212,8 +3212,8 @@
       }
      ],
      "translation": "It's famous for beautiful scenery that lets you feel its history.",
-     "audioStart": 192.456,
-     "audioEnd": 196.896
+     "audioStart": 171.744,
+     "audioEnd": 175.752
     }
    ]
   },
@@ -3401,8 +3401,8 @@
       }
      ],
      "translation": "While walking through the town of Ginzan Onsen, you can enjoy the old-time scenery and also eat delicious treats and traditional Japanese sweets.",
-     "audioStart": 196.896,
-     "audioEnd": 207.312
+     "audioStart": 175.752,
+     "audioEnd": 185.4
     }
    ]
   },
@@ -3510,8 +3510,8 @@
       }
      ],
      "translation": "After that, you can enjoy the very beautiful autumn leaves of Naruko Gorge.",
-     "audioStart": 207.312,
-     "audioEnd": 213.744
+     "audioStart": 185.4,
+     "audioEnd": 191.232
     },
     {
      "text": "森のなかを　通っている　大深沢橋と　紅葉を　一緒に　見ることが　できる　場所が　あります。",
@@ -3671,8 +3671,8 @@
       }
      ],
      "translation": "There's a spot where you can see the Ofukazawa Bridge running through the forest together with the autumn leaves.",
-     "audioStart": 213.744,
-     "audioEnd": 221.28
+     "audioStart": 191.232,
+     "audioEnd": 197.832
     },
     {
      "text": "そこでは　とても　すばらしい　写真を　とることが　できます。",
@@ -3757,8 +3757,8 @@
       }
      ],
      "translation": "There, you can take truly wonderful photos.",
-     "audioStart": 221.28,
-     "audioEnd": 226.248
+     "audioStart": 197.832,
+     "audioEnd": 202.344
     }
    ]
   },
@@ -3862,8 +3862,8 @@
       }
      ],
      "translation": "3. Nasu Autumn Leaves and Ashikaga Flower Park Illumination Day Tour (from Tokyo)",
-     "audioStart": 226.248,
-     "audioEnd": 233.736
+     "audioStart": 202.344,
+     "audioEnd": 208.824
     }
    ]
   },
@@ -3979,8 +3979,8 @@
       }
      ],
      "translation": "This tour departs from Shinjuku, Tokyo, and lets you enjoy nature along with beautiful cultural heritage.",
-     "audioStart": 233.736,
-     "audioEnd": 241.344
+     "audioStart": 208.824,
+     "audioEnd": 215.712
     },
     {
      "text": "100種類以上の　料理が　並ぶ　レストランで、ビュッフェスタイルの　お昼ご飯を　食べられますよ。",
@@ -4116,8 +4116,8 @@
       }
      ],
      "translation": "You can eat a buffet-style lunch at a restaurant offering over 100 kinds of dishes.",
-     "audioStart": 241.344,
-     "audioEnd": 248.928
+     "audioStart": 215.712,
+     "audioEnd": 222.552
     }
    ]
   },
@@ -4209,8 +4209,8 @@
       }
      ],
      "translation": "The scenery you see on the way to Nasu is very beautiful.",
-     "audioStart": 248.928,
-     "audioEnd": 253.992
+     "audioStart": 222.552,
+     "audioEnd": 226.8
     },
     {
      "text": "白い　火山石で　できた　大谷観音や、あしかがフラワーパークの　きれいな　イルミネーションを　ぜひ　見てください。",
@@ -4361,8 +4361,8 @@
       }
      ],
      "translation": "Be sure to see the Oya Kannon, carved from white volcanic rock, and the beautiful illuminations at Ashikaga Flower Park.",
-     "audioStart": 253.992,
-     "audioEnd": 262.92
+     "audioStart": 226.8,
+     "audioEnd": 234.816
     }
    ]
   },
@@ -4452,8 +4452,8 @@
       }
      ],
      "translation": "The autumn leaves seen from the Nasu Ropeway are truly beautiful!",
-     "audioStart": 262.92,
-     "audioEnd": 268.464
+     "audioStart": 234.816,
+     "audioEnd": 240.072
     },
     {
      "text": "展望台から　見る　那須の　山や　火山など、見るべき　景色が　たくさん　あります。",
@@ -4573,8 +4573,8 @@
       }
      ],
      "translation": "There's so much scenery worth seeing from the observation deck, such as Nasu's mountains and volcanoes.",
-     "audioStart": 268.464,
-     "audioEnd": 275.328
+     "audioStart": 240.072,
+     "audioEnd": 246.312
     }
    ]
   },
@@ -4655,8 +4655,8 @@
       }
      ],
      "translation": "4. Mt. Fuji and Lake Kawaguchi Day Autumn-Leaf Tour (from Tokyo)",
-     "audioStart": 275.328,
-     "audioEnd": 281.136
+     "audioStart": 246.312,
+     "audioEnd": 251.544
     }
    ]
   },
@@ -4822,8 +4822,8 @@
       }
      ],
      "translation": "This is a day trip where you can see the wonderful scenery of Mt. Fuji and Lake Kawaguchi together, refreshing both mind and body!",
-     "audioStart": 281.136,
-     "audioEnd": 291.984
+     "audioStart": 251.544,
+     "audioEnd": 260.304
     }
    ]
   },
@@ -4932,8 +4932,8 @@
       }
      ],
      "translation": "On this tour departing from Tokyo, you can enjoy Mt. Fuji and the autumn leaves.",
-     "audioStart": 291.984,
-     "audioEnd": 298.56
+     "audioStart": 260.304,
+     "audioEnd": 266.328
     }
    ]
   },
@@ -5063,8 +5063,8 @@
       }
      ],
      "translation": "I think you'll also be amazed by the 8 beautiful springs at Oshino Hakkai.",
-     "audioStart": 298.56,
-     "audioEnd": 304.68
+     "audioStart": 266.328,
+     "audioEnd": 271.656
     }
    ]
   },
@@ -5172,8 +5172,8 @@
       }
      ],
      "translation": "After viewing the autumn leaves of Mt. Fuji, you go to Oshino Hakkai.",
-     "audioStart": 304.68,
-     "audioEnd": 309.792
+     "audioStart": 271.656,
+     "audioEnd": 276.072
     },
     {
      "text": "だから、帰る　時間まで、忍野八海を　ゆっくり　見ることが　できます。",
@@ -5289,8 +5289,8 @@
       }
      ],
      "translation": "So you can take your time looking around Oshino Hakkai until it's time to head back.",
-     "audioStart": 309.792,
-     "audioEnd": 316.224
+     "audioStart": 276.072,
+     "audioEnd": 282.192
     }
    ]
   },
@@ -5392,8 +5392,8 @@
       }
      ],
      "translation": "5. Mishima Skywalk, Shuzenji, and Atami Plum Garden Day Tour (from Tokyo)",
-     "audioStart": 316.224,
-     "audioEnd": 323.616
+     "audioStart": 282.192,
+     "audioEnd": 288.264
     }
    ]
   },
@@ -5478,8 +5478,8 @@
       }
      ],
      "translation": "This tour is an autumn-only day trip to the Izu Peninsula.",
-     "audioStart": 323.616,
-     "audioEnd": 328.944
+     "audioStart": 288.264,
+     "audioEnd": 292.776
     },
     {
      "text": "このツアーに参加すれば、伝統的な　建物や　きれいな　紅葉を　見ることが　できます。",
@@ -5617,8 +5617,8 @@
       }
      ],
      "translation": "If you join this tour, you can see traditional buildings and beautiful autumn leaves.",
-     "audioStart": 328.944,
-     "audioEnd": 336.504
+     "audioStart": 292.776,
+     "audioEnd": 299.64
     }
    ]
   },
@@ -5742,8 +5742,8 @@
       }
      ],
      "translation": "On this tour, you cross Japan's longest suspension bridge, the \"Mishima Skywalk.\"",
-     "audioStart": 336.504,
-     "audioEnd": 343.824
+     "audioStart": 299.64,
+     "audioEnd": 306.456
     },
     {
      "text": "三島スカイウォークを　渡りながら、遠くに　見える　富士山、駿河湾、伊豆半島の　山を　見ることが　できます。",
@@ -5904,8 +5904,8 @@
       }
      ],
      "translation": "While crossing the Mishima Skywalk, you can see Mt. Fuji, Suruga Bay, and the mountains of the Izu Peninsula in the distance.",
-     "audioStart": 343.824,
-     "audioEnd": 353.28
+     "audioStart": 306.456,
+     "audioEnd": 315.456
     }
    ]
   },
@@ -6056,8 +6056,8 @@
       }
      ],
      "translation": "And you visit Shuzenji, a temple famous throughout Japan, and Atami Plum Garden, where you can enjoy beautiful autumn leaves.",
-     "audioStart": 353.28,
-     "audioEnd": 361.92
+     "audioStart": 315.456,
+     "audioEnd": 323.16
     }
    ]
   },
@@ -6219,8 +6219,8 @@
       }
      ],
      "translation": "Since it's a small-group tour, you can make friends with fellow participants and enjoy the tour together.",
-     "audioStart": 361.92,
-     "audioEnd": 369.864
+     "audioStart": 323.16,
+     "audioEnd": 330.264
     }
    ]
   },
@@ -6288,8 +6288,8 @@
       }
      ],
      "translation": "6. Kawagoe Day Autumn-Leaf Tour (from Tokyo)",
-     "audioStart": 369.864,
-     "audioEnd": 374.856
+     "audioStart": 330.264,
+     "audioEnd": 334.632
     }
    ]
   },
@@ -6449,8 +6449,8 @@
       }
      ],
      "translation": "Let's enjoy the beautiful autumn leaves while strolling through the old town of Kawagoe, where scenery from the Edo period still remains.",
-     "audioStart": 374.856,
-     "audioEnd": 383.832
+     "audioStart": 334.632,
+     "audioEnd": 342.504
     }
    ]
   },
@@ -6579,8 +6579,8 @@
       }
      ],
      "translation": "Kawagoe, close to Tokyo, is famous as a town where Edo-period buildings still remain.",
-     "audioStart": 383.832,
-     "audioEnd": 391.176
+     "audioStart": 342.504,
+     "audioEnd": 349.416
     }
    ]
   },
@@ -6722,8 +6722,8 @@
       }
      ],
      "translation": "There's also a shopping street lined with shops selling traditional sweets and delicious restaurants.",
-     "audioStart": 391.176,
-     "audioEnd": 398.928
+     "audioStart": 349.416,
+     "audioEnd": 356.64
     }
    ]
   },
@@ -6826,8 +6826,8 @@
       }
      ],
      "translation": "In Kawagoe, there are also temples and shrines where you can enjoy the autumn leaves.",
-     "audioStart": 398.928,
-     "audioEnd": 404.544
+     "audioStart": 356.64,
+     "audioEnd": 361.68
     },
     {
      "text": "ツアーでは、喜多院、中院、川越城本丸御殿、氷川神社などを　訪れる予定です。",
@@ -6967,8 +6967,8 @@
       }
      ],
      "translation": "On the tour, you're scheduled to visit places such as Kitain, Nakain, the Honmaru Palace of Kawagoe Castle, and Hikawa Shrine.",
-     "audioStart": 404.544,
-     "audioEnd": 413.664
+     "audioStart": 361.68,
+     "audioEnd": 370.44
     }
    ]
   },
@@ -7069,8 +7069,8 @@
       }
      ],
      "translation": "7. Nikko Toshogu Shrine and Kegon Falls Day Autumn-Leaf Tour (from Tokyo)",
-     "audioStart": 413.664,
-     "audioEnd": 420.432
+     "audioStart": 370.44,
+     "audioEnd": 376.44
     }
    ]
   },
@@ -7166,8 +7166,8 @@
       }
      ],
      "translation": "In Nikko, the whole mountainside turns a beautiful red.",
-     "audioStart": 420.432,
-     "audioEnd": 425.544
+     "audioStart": 376.44,
+     "audioEnd": 381.192
     },
     {
      "text": "そして、世界遺産の　すばらしい　建物が　あなたを　待っています。",
@@ -7266,8 +7266,8 @@
       }
      ],
      "translation": "And the wonderful buildings of a World Heritage site await you.",
-     "audioStart": 425.544,
-     "audioEnd": 431.568
+     "audioStart": 381.192,
+     "audioEnd": 386.616
     },
     {
      "text": "日光は　自然も　世界遺産も　楽しめるので、1年中　人気の　場所です。",
@@ -7393,8 +7393,8 @@
       }
      ],
      "translation": "Since Nikko lets you enjoy both nature and a World Heritage site, it's a popular spot all year round.",
-     "audioStart": 431.568,
-     "audioEnd": 438.456
+     "audioStart": 386.616,
+     "audioEnd": 392.904
     }
    ]
   },
@@ -7550,8 +7550,8 @@
       }
      ],
      "translation": "On this tour, you go to see Nikko Toshogu Shrine, Lake Chuzenji, and the 97-meter-high Kegon Falls.",
-     "audioStart": 438.456,
-     "audioEnd": 448.44
+     "audioStart": 392.904,
+     "audioEnd": 402.216
     }
    ]
   },
@@ -7667,8 +7667,8 @@
       }
      ],
      "translation": "Be sure to enjoy Nikko Toshogu Shrine, a World Heritage site where you can feel history and tradition.",
-     "audioStart": 448.44,
-     "audioEnd": 455.568
+     "audioStart": 402.216,
+     "audioEnd": 408.552
     }
    ]
   },
@@ -7736,8 +7736,8 @@
       }
      ],
      "translation": "8. Yabakei Day Autumn-Leaf Tour (from Fukuoka)",
-     "audioStart": 455.568,
-     "audioEnd": 460.56
+     "audioStart": 408.552,
+     "audioEnd": 413.4
     }
    ]
   },
@@ -7840,8 +7840,8 @@
       }
      ],
      "translation": "The Kyushu region has several places with beautiful autumn leaves.",
-     "audioStart": 460.56,
-     "audioEnd": 466.656
+     "audioStart": 413.4,
+     "audioEnd": 418.776
     },
     {
      "text": "しかし　車か　バスだけで　行くことが　できる　場所が　多いです。",
@@ -7940,8 +7940,8 @@
       }
      ],
      "translation": "However, many of these places can only be reached by car or bus.",
-     "audioStart": 466.656,
-     "audioEnd": 471.96
+     "audioStart": 418.776,
+     "audioEnd": 423.456
     }
    ]
   },
@@ -8098,8 +8098,8 @@
       }
      ],
      "translation": "This day tour departing from Fukuoka goes to Yabakei, a spot in Kyushu famous for its autumn leaves.",
-     "audioStart": 471.96,
-     "audioEnd": 481.104
+     "audioStart": 423.456,
+     "audioEnd": 431.712
     },
     {
      "text": "このツアーでは、自然と　素晴らしい　文化遺産を　いっしょに　楽しめる　3つの　場所を　訪れます。",
@@ -8241,8 +8241,8 @@
       }
      ],
      "translation": "On this tour, you visit three places where you can enjoy nature and wonderful cultural heritage together.",
-     "audioStart": 481.104,
-     "audioEnd": 489.096
+     "audioStart": 431.712,
+     "audioEnd": 438.888
     }
    ]
   },
@@ -8361,8 +8361,8 @@
       }
      ],
      "translation": "First, you enjoy the wonderful autumn scenery from the suspension bridge at Sarutobi Senko Gorge.",
-     "audioStart": 489.096,
-     "audioEnd": 496.32
+     "audioStart": 438.888,
+     "audioEnd": 445.392
     }
    ]
   },
@@ -8460,8 +8460,8 @@
       }
      ],
      "translation": "After that, you enjoy the autumn leaves and the architecture of Goryo Shrine.",
-     "audioStart": 496.32,
-     "audioEnd": 502.008
+     "audioStart": 445.392,
+     "audioEnd": 450.672
     },
     {
      "text": "それから、渓石園の　きれいな　イルミネーションと　夜の　紅葉を　見ます。",
@@ -8573,8 +8573,8 @@
       }
      ],
      "translation": "Then, you see the beautiful illuminations and nighttime autumn leaves at Keisekien.",
-     "audioStart": 502.008,
-     "audioEnd": 508.296
+     "audioStart": 450.672,
+     "audioEnd": 456.456
     }
    ]
   },
@@ -8652,8 +8652,8 @@
       }
      ],
      "translation": "Come see Japan's autumn leaves for yourself",
-     "audioStart": 508.296,
-     "audioEnd": 512.256
+     "audioStart": 456.456,
+     "audioEnd": 459.888
     }
    ]
   },
@@ -8744,8 +8744,8 @@
       }
      ],
      "translation": "Autumn is the season when you can see beautiful scenery in Japan.",
-     "audioStart": 512.256,
-     "audioEnd": 517.296
+     "audioStart": 459.888,
+     "audioEnd": 464.592
     },
     {
      "text": "この記事で　紹介した　ツアーに　参加すれば、車や　バスに　乗らないと　行きにくい　場所で　紅葉や　美しい　景色を　楽しむことが　できます。",
@@ -8962,8 +8962,8 @@
       }
      ],
      "translation": "If you join the tours introduced in this article, you can enjoy autumn leaves and beautiful scenery in places that are hard to reach without a car or bus.",
-     "audioStart": 517.296,
-     "audioEnd": 528.6
+     "audioStart": 464.592,
+     "audioEnd": 474.408
     }
    ]
   },
@@ -9061,8 +9061,8 @@
       }
      ],
      "translation": "And a guide will show you around and explain about each place.",
-     "audioStart": 528.6,
-     "audioEnd": 533.64
+     "audioStart": 474.408,
+     "audioEnd": 478.776
     }
    ]
   },
@@ -9156,10 +9156,11 @@
       }
      ],
      "translation": "Please join a tour and enjoy Japan's autumn leaves.",
-     "audioStart": 533.64,
-     "audioEnd": 538.632
+     "audioStart": 478.776,
+     "audioEnd": 483.384
     }
    ]
   }
- ]
+ ],
+ "voice": "ja-JP-KeitaNeural"
 }

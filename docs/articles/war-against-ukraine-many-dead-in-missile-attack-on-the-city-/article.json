@@ -77,7 +77,7 @@
      ],
      "translation": "Russia has attacked the capital city Kyiv of the country Ukraine again.",
      "audioStart": 0.0,
-     "audioEnd": 5.904
+     "audioEnd": 5.448
     },
     {
      "text": "Mindestens 16 Menschen sind gestorben.",
@@ -112,8 +112,8 @@
       }
      ],
      "translation": "At least 16 people have died.",
-     "audioStart": 5.904,
-     "audioEnd": 9.864
+     "audioStart": 5.448,
+     "audioEnd": 9.048
     },
     {
      "text": "Russland benutzt seit einiger Zeit besonders schnelle Raketen.",
@@ -164,8 +164,8 @@
       }
      ],
      "translation": "Russia has been using especially fast missiles for some time.",
-     "audioStart": 9.864,
-     "audioEnd": 15.12
+     "audioStart": 9.048,
+     "audioEnd": 13.848
     },
     {
      "text": "Die Ukraine kann die Raketen nicht stoppen.",
@@ -211,8 +211,8 @@
       }
      ],
      "translation": "Ukraine cannot stop the missiles.",
-     "audioStart": 15.12,
-     "audioEnd": 19.176
+     "audioStart": 13.848,
+     "audioEnd": 17.496
     }
    ]
   },
@@ -266,8 +266,8 @@
       }
      ],
      "translation": "1 missile hit a residential building in Kyiv.",
-     "audioStart": 19.176,
-     "audioEnd": 23.52
+     "audioStart": 17.496,
+     "audioEnd": 21.696
     },
     {
      "text": "8 Menschen sind in dem Haus gestorben.",
@@ -312,8 +312,8 @@
       }
      ],
      "translation": "8 people died in the building.",
-     "audioStart": 23.52,
-     "audioEnd": 27.12
+     "audioStart": 21.696,
+     "audioEnd": 25.056
     },
     {
      "text": "Viele Menschen wurden verletzt.",
@@ -344,8 +344,8 @@
       }
      ],
      "translation": "Many people were injured.",
-     "audioStart": 27.12,
-     "audioEnd": 30.072
+     "audioStart": 25.056,
+     "audioEnd": 27.84
     },
     {
      "text": "Raketen haben auch Lager-Hallen für Lebens-Mittel zerstört.",
@@ -391,8 +391,8 @@
       }
      ],
      "translation": "Missiles also destroyed warehouses for food.",
-     "audioStart": 30.072,
-     "audioEnd": 34.896
+     "audioStart": 27.84,
+     "audioEnd": 32.304
     }
    ]
   },
@@ -447,8 +447,8 @@
       }
      ],
      "translation": "The Russian missiles are hard to detect.",
-     "audioStart": 34.896,
-     "audioEnd": 39.096
+     "audioStart": 32.304,
+     "audioEnd": 36.264
     },
     {
      "text": "Sie stürzen aus großer Höhe ab.",
@@ -489,8 +489,8 @@
       }
      ],
      "translation": "They crash down from a great height.",
-     "audioStart": 39.096,
-     "audioEnd": 42.384
+     "audioStart": 36.264,
+     "audioEnd": 39.36
     },
     {
      "text": "Der Präsident von der Ukraine heißt Wolodymyr Selenskyj.",
@@ -541,8 +541,8 @@
       }
      ],
      "translation": "The president of Ukraine is named Volodymyr Zelenskyy.",
-     "audioStart": 42.384,
-     "audioEnd": 47.4
+     "audioStart": 39.36,
+     "audioEnd": 44.136
     },
     {
      "text": "Er sagt: Wir können uns gegen diese Raketen im Moment nicht schützen.",
@@ -617,8 +617,8 @@
       }
      ],
      "translation": "He says: We cannot protect ourselves against these missiles at the moment.",
-     "audioStart": 47.4,
-     "audioEnd": 53.304
+     "audioStart": 44.136,
+     "audioEnd": 49.368
     }
    ]
   },
@@ -687,8 +687,8 @@
       }
      ],
      "translation": "The problem is: Ukraine needs very special interceptor missiles for that.",
-     "audioStart": 53.304,
-     "audioEnd": 59.76
+     "audioStart": 49.368,
+     "audioEnd": 55.224
     },
     {
      "text": "Diese Raketen heißen Patriot.",
@@ -719,8 +719,8 @@
       }
      ],
      "translation": "These missiles are called Patriot.",
-     "audioStart": 59.76,
-     "audioEnd": 63.144
+     "audioStart": 55.224,
+     "audioEnd": 58.248
     },
     {
      "text": "Sie sind sehr teuer.",
@@ -751,8 +751,8 @@
       }
      ],
      "translation": "They are very expensive.",
-     "audioStart": 63.144,
-     "audioEnd": 65.52
+     "audioStart": 58.248,
+     "audioEnd": 60.624
     },
     {
      "text": "Sie werden fast nur von dem Land USA hergestellt.",
@@ -808,8 +808,8 @@
       }
      ],
      "translation": "They are made almost only by the country USA.",
-     "audioStart": 65.52,
-     "audioEnd": 70.128
+     "audioStart": 60.624,
+     "audioEnd": 64.848
     },
     {
      "text": "Die USA sagen: Wir haben gerade zu wenig von diesen Abfang-Raketen.",
@@ -879,8 +879,8 @@
       }
      ],
      "translation": "The USA says: We currently have too few of these interceptor missiles.",
-     "audioStart": 70.128,
-     "audioEnd": 76.32
+     "audioStart": 64.848,
+     "audioEnd": 70.584
     },
     {
      "text": "Wir brauchen sie selbst.",
@@ -911,8 +911,8 @@
       }
      ],
      "translation": "We need them ourselves.",
-     "audioStart": 76.32,
-     "audioEnd": 78.912
+     "audioStart": 70.584,
+     "audioEnd": 73.104
     }
    ]
   },
@@ -962,8 +962,8 @@
       }
      ],
      "translation": "In the month of July, 437 civilians died",
-     "audioStart": 78.912,
-     "audioEnd": 84.72
+     "audioStart": 73.104,
+     "audioEnd": 78.648
     }
    ]
   },
@@ -1027,8 +1027,8 @@
       }
      ],
      "translation": "Russia has been attacking Ukraine for more than 4 years.",
-     "audioStart": 84.72,
-     "audioEnd": 89.688
+     "audioStart": 78.648,
+     "audioEnd": 83.184
     },
     {
      "text": "Im Monat Juli sind 437 Zivilisten in der Ukraine gestorben.",
@@ -1088,8 +1088,8 @@
       }
      ],
      "translation": "In the month of July, 437 civilians died in Ukraine.",
-     "audioStart": 89.688,
-     "audioEnd": 96.312
+     "audioStart": 83.184,
+     "audioEnd": 89.592
     },
     {
      "text": "Das waren so viele wie lange nicht mehr.",
@@ -1140,8 +1140,8 @@
       }
      ],
      "translation": "That was more than in a long time.",
-     "audioStart": 96.312,
-     "audioEnd": 99.72
+     "audioStart": 89.592,
+     "audioEnd": 92.952
     }
    ]
   },
@@ -1205,8 +1205,8 @@
       }
      ],
      "translation": "Civilians are all people who do not fight in the war.",
-     "audioStart": 99.72,
-     "audioEnd": 104.568
+     "audioStart": 92.952,
+     "audioEnd": 97.536
     },
     {
      "text": "Jeden Tag sterben in dem Krieg auch viele ukrainische und russische Soldaten.",
@@ -1277,8 +1277,8 @@
       }
      ],
      "translation": "Every day, many Ukrainian and Russian soldiers also die in the war.",
-     "audioStart": 104.568,
-     "audioEnd": 110.76
+     "audioStart": 97.536,
+     "audioEnd": 103.2
     }
    ]
   },
@@ -1328,8 +1328,8 @@
       }
      ],
      "translation": "Ukraine is a country in Eastern Europe.",
-     "audioStart": 110.76,
-     "audioEnd": 114.816
+     "audioStart": 103.2,
+     "audioEnd": 107.016
     },
     {
      "text": "Die Ukraine gehörte früher zu dem Land Sowjet-Union.",
@@ -1380,8 +1380,8 @@
       }
      ],
      "translation": "Ukraine used to belong to the country Soviet Union.",
-     "audioStart": 114.816,
-     "audioEnd": 119.568
+     "audioStart": 107.016,
+     "audioEnd": 111.384
     },
     {
      "text": "Die Ukraine ist fast doppelt so groß wie Deutschland, aber es leben viel weniger Menschen dort.",
@@ -1476,8 +1476,8 @@
       }
      ],
      "translation": "Ukraine is almost twice as big as Germany, but far fewer people live there.",
-     "audioStart": 119.568,
-     "audioEnd": 126.864
+     "audioStart": 111.384,
+     "audioEnd": 118.104
     },
     {
      "text": "Viele von ihnen sprechen Ukrainisch und Russisch.",
@@ -1523,8 +1523,8 @@
       }
      ],
      "translation": "Many of them speak Ukrainian and Russian.",
-     "audioStart": 126.864,
-     "audioEnd": 131.136
+     "audioStart": 118.104,
+     "audioEnd": 122.208
     },
     {
      "text": "Die Haupt-Stadt heißt Kiew.",
@@ -1555,8 +1555,8 @@
       }
      ],
      "translation": "The capital city is called Kyiv.",
-     "audioStart": 131.136,
-     "audioEnd": 134.088
+     "audioStart": 122.208,
+     "audioEnd": 124.944
     },
     {
      "text": "Ein Nachbar-Land von der Ukraine ist Russland.",
@@ -1602,8 +1602,8 @@
       }
      ],
      "translation": "A neighboring country of Ukraine is Russia.",
-     "audioStart": 134.088,
-     "audioEnd": 138.36
+     "audioStart": 124.944,
+     "audioEnd": 128.88
     },
     {
      "text": "Russland möchte Teile von der Ukraine haben.",
@@ -1649,8 +1649,8 @@
       }
      ],
      "translation": "Russia wants to have parts of Ukraine.",
-     "audioStart": 138.36,
-     "audioEnd": 142.632
+     "audioStart": 128.88,
+     "audioEnd": 132.912
     },
     {
      "text": "Darum gibt es seit 2014 Kämpfe um diese Teile: zum Beispiel um die Halb-Insel Krim oder den Osten von der Ukraine.",
@@ -1769,8 +1769,8 @@
       }
      ],
      "translation": "That is why there have been fights over these parts since 2014: for example over the Crimean peninsula or the east of Ukraine.",
-     "audioStart": 142.632,
-     "audioEnd": 152.352
+     "audioStart": 132.912,
+     "audioEnd": 141.864
     },
     {
      "text": "Im Jahr 2022 hat Russland dann die ganze Ukraine angegriffen.",
@@ -1830,8 +1830,8 @@
       }
      ],
      "translation": "In the year 2022, Russia then attacked the whole of Ukraine.",
-     "audioStart": 152.352,
-     "audioEnd": 158.856
+     "audioStart": 141.864,
+     "audioEnd": 147.96
     },
     {
      "text": "Seitdem ist Krieg in dem Land.",
@@ -1872,8 +1872,8 @@
       }
      ],
      "translation": "Since then there has been war in the country.",
-     "audioStart": 158.856,
-     "audioEnd": 162.12
+     "audioStart": 147.96,
+     "audioEnd": 151.008
     }
    ]
   },
@@ -1889,8 +1889,8 @@
       }
      ],
      "translation": "Russia",
-     "audioStart": 162.12,
-     "audioEnd": 163.968
+     "audioStart": 151.008,
+     "audioEnd": 152.832
     }
    ]
   },
@@ -1935,8 +1935,8 @@
       }
      ],
      "translation": "Russia is a very large country.",
-     "audioStart": 163.968,
-     "audioEnd": 167.496
+     "audioStart": 152.832,
+     "audioEnd": 156.072
     },
     {
      "text": "Es ist eines der mächtigsten Länder der Welt.",
@@ -1987,8 +1987,8 @@
       }
      ],
      "translation": "It is one of the most powerful countries in the world.",
-     "audioStart": 167.496,
-     "audioEnd": 171.336
+     "audioStart": 156.072,
+     "audioEnd": 159.48
     },
     {
      "text": "Der größte Teil von Russland gehört zu Asien.",
@@ -2039,8 +2039,8 @@
       }
      ],
      "translation": "The largest part of Russia belongs to Asia.",
-     "audioStart": 171.336,
-     "audioEnd": 175.608
+     "audioStart": 159.48,
+     "audioEnd": 163.512
     },
     {
      "text": "Der kleinere Teil liegt in Europa.",
@@ -2081,8 +2081,8 @@
       }
      ],
      "translation": "The smaller part lies in Europe.",
-     "audioStart": 175.608,
-     "audioEnd": 179.208
+     "audioStart": 163.512,
+     "audioEnd": 166.848
     },
     {
      "text": "Die Haupt-Stadt von Russland ist Moskau.",
@@ -2123,8 +2123,8 @@
       }
      ],
      "translation": "The capital city of Russia is Moscow.",
-     "audioStart": 179.208,
-     "audioEnd": 182.856
+     "audioStart": 166.848,
+     "audioEnd": 170.256
     }
    ]
   },
@@ -2140,8 +2140,8 @@
       }
      ],
      "translation": "USA",
-     "audioStart": 182.856,
-     "audioEnd": 184.632
+     "audioStart": 170.256,
+     "audioEnd": 172.032
     }
    ]
   },
@@ -2223,8 +2223,8 @@
       }
      ],
      "translation": "The USA is also called \"United States of America\" or for short: America.",
-     "audioStart": 184.632,
-     "audioEnd": 191.784
+     "audioStart": 172.032,
+     "audioEnd": 178.488
     },
     {
      "text": "Das Land ist eines der mächtigsten der Welt.",
@@ -2275,8 +2275,8 @@
       }
      ],
      "translation": "The country is one of the most powerful in the world.",
-     "audioStart": 191.784,
-     "audioEnd": 195.696
+     "audioStart": 178.488,
+     "audioEnd": 181.944
     },
     {
      "text": "Die USA sind etwa 9,8 Millionen Quadrat-Kilometer groß.",
@@ -2326,8 +2326,8 @@
       }
      ],
      "translation": "The USA is about 9.8 million square kilometers in size.",
-     "audioStart": 195.696,
-     "audioEnd": 201.72
+     "audioStart": 181.944,
+     "audioEnd": 187.296
     },
     {
      "text": "Sie sind der dritt-größte Staat der Erde.",
@@ -2373,8 +2373,8 @@
       }
      ],
      "translation": "It is the third-largest state on Earth.",
-     "audioStart": 201.72,
-     "audioEnd": 205.248
+     "audioStart": 187.296,
+     "audioEnd": 190.704
     },
     {
      "text": "Zu den USA gehören 50 Bundes-Staaten.",
@@ -2414,10 +2414,11 @@
       }
      ],
      "translation": "The USA consists of 50 federal states.",
-     "audioStart": 205.248,
-     "audioEnd": 209.616
+     "audioStart": 190.704,
+     "audioEnd": 194.664
     }
    ]
   }
- ]
+ ],
+ "voice": "de-DE-ConradNeural"
 }

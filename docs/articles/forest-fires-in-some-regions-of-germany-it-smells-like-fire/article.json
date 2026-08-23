@@ -67,7 +67,7 @@
      ],
      "translation": "In recent weeks there have been large forest fires.",
      "audioStart": 0.0,
-     "audioEnd": 4.584
+     "audioEnd": 4.296
     },
     {
      "text": "Der Wind bläst den Rauch viele Kilometer weit.",
@@ -118,8 +118,8 @@
       }
      ],
      "translation": "The wind blows the smoke many kilometers away.",
-     "audioStart": 4.584,
-     "audioEnd": 8.64
+     "audioStart": 4.296,
+     "audioEnd": 8.208
     },
     {
      "text": "In einigen Orten in Deutschland riecht es deshalb nach Feuer.",
@@ -180,8 +180,8 @@
       }
      ],
      "translation": "That's why it smells like fire in some places in Germany.",
-     "audioStart": 8.64,
-     "audioEnd": 13.488
+     "audioStart": 8.208,
+     "audioEnd": 12.696
     }
    ]
   },
@@ -241,8 +241,8 @@
       }
      ],
      "translation": "A very large fire is in the country of Belgium.",
-     "audioStart": 13.488,
-     "audioEnd": 17.592
+     "audioStart": 12.696,
+     "audioEnd": 16.608
     },
     {
      "text": "Das Feuer ist fast an der Grenze zu Deutschland.",
@@ -298,8 +298,8 @@
       }
      ],
      "translation": "The fire is almost at the border with Germany.",
-     "audioStart": 17.592,
-     "audioEnd": 21.768
+     "audioStart": 16.608,
+     "audioEnd": 20.4
     },
     {
      "text": "In einigen deutschen Städten riecht man das Feuer.",
@@ -350,8 +350,8 @@
       }
      ],
      "translation": "In some German cities you can smell the fire.",
-     "audioStart": 21.768,
-     "audioEnd": 25.776
+     "audioStart": 20.4,
+     "audioEnd": 24.216
     },
     {
      "text": "Zum Beispiel in Köln und Bonn.",
@@ -392,8 +392,8 @@
       }
      ],
      "translation": "For example in Cologne and Bonn.",
-     "audioStart": 25.776,
-     "audioEnd": 28.8
+     "audioStart": 24.216,
+     "audioEnd": 27.312
     }
    ]
   },
@@ -457,8 +457,8 @@
       }
      ],
      "translation": "The fire department says: The air is not dangerous so far.",
-     "audioStart": 28.8,
-     "audioEnd": 33.6
+     "audioStart": 27.312,
+     "audioEnd": 31.848
     }
    ]
   },
@@ -517,8 +517,8 @@
       }
      ],
      "translation": "Some doctors say: One should still be careful.",
-     "audioStart": 33.6,
-     "audioEnd": 38.592
+     "audioStart": 31.848,
+     "audioEnd": 36.744
     },
     {
      "text": "In der Luft ist mehr feiner Staub als sonst.",
@@ -574,8 +574,8 @@
       }
      ],
      "translation": "There is more fine dust in the air than usual.",
-     "audioStart": 38.592,
-     "audioEnd": 42.384
+     "audioStart": 36.744,
+     "audioEnd": 40.416
     },
     {
      "text": "Fein-Staub ist schlecht für die Lunge.",
@@ -616,8 +616,8 @@
       }
      ],
      "translation": "Fine dust is bad for the lungs.",
-     "audioStart": 42.384,
-     "audioEnd": 45.648
+     "audioStart": 40.416,
+     "audioEnd": 43.656
     },
     {
      "text": "Die Ärzte sagen: Wenn es stark nach Feuer riecht, sollte man keinen Sport im Freien machen.",
@@ -716,8 +716,8 @@
       }
      ],
      "translation": "The doctors say: If it smells strongly of fire, one should not do sports outdoors.",
-     "audioStart": 45.648,
-     "audioEnd": 52.872
+     "audioStart": 43.656,
+     "audioEnd": 50.4
     },
     {
      "text": "Man sollte auch die Fenster schließen.",
@@ -758,8 +758,8 @@
       }
      ],
      "translation": "One should also close the windows.",
-     "audioStart": 52.872,
-     "audioEnd": 56.232
+     "audioStart": 50.4,
+     "audioEnd": 53.64
     }
    ]
   },
@@ -819,8 +819,8 @@
       }
      ],
      "translation": "The forests are currently very dry and burn quickly.",
-     "audioStart": 56.232,
-     "audioEnd": 60.576
+     "audioStart": 53.64,
+     "audioEnd": 57.744
     },
     {
      "text": "Die Feuerwehr muss deshalb in vielen Regionen in Deutschland Brände löschen.",
@@ -886,8 +886,8 @@
       }
      ],
      "translation": "The fire department therefore has to put out fires in many regions of Germany.",
-     "audioStart": 60.576,
-     "audioEnd": 66.36
+     "audioStart": 57.744,
+     "audioEnd": 63.048
     }
    ]
   },
@@ -986,8 +986,8 @@
       }
      ],
      "translation": "But there is also good news: This week it is raining again after a long time.",
-     "audioStart": 66.36,
-     "audioEnd": 72.912
+     "audioStart": 63.048,
+     "audioEnd": 69.264
     }
    ]
   },
@@ -1047,8 +1047,8 @@
       }
      ],
      "translation": "Cologne is the largest city in the federal state of North Rhine-Westphalia.",
-     "audioStart": 72.912,
-     "audioEnd": 78.288
+     "audioStart": 69.264,
+     "audioEnd": 74.088
     },
     {
      "text": "In Köln steht die berühmteste Kirche in Deutschland: der Kölner Dom.",
@@ -1118,8 +1118,8 @@
       }
      ],
      "translation": "In Cologne stands the most famous church in Germany: Cologne Cathedral.",
-     "audioStart": 78.288,
-     "audioEnd": 83.976
+     "audioStart": 74.088,
+     "audioEnd": 79.32
     },
     {
      "text": "Köln liegt an dem Fluss Rhein.",
@@ -1160,8 +1160,8 @@
       }
      ],
      "translation": "Cologne lies on the river Rhine.",
-     "audioStart": 83.976,
-     "audioEnd": 86.976
+     "audioStart": 79.32,
+     "audioEnd": 82.224
     }
    ]
   },
@@ -1177,8 +1177,8 @@
       }
      ],
      "translation": "Bonn",
-     "audioStart": 86.976,
-     "audioEnd": 88.752
+     "audioStart": 82.224,
+     "audioEnd": 84.0
     }
    ]
   },
@@ -1233,8 +1233,8 @@
       }
      ],
      "translation": "Bonn is a large city in the federal state of North Rhine-Westphalia.",
-     "audioStart": 88.752,
-     "audioEnd": 93.792
+     "audioStart": 84.0,
+     "audioEnd": 88.656
     },
     {
      "text": "Sie liegt an dem Fluss Rhein.",
@@ -1275,8 +1275,8 @@
       }
      ],
      "translation": "It lies on the river Rhine.",
-     "audioStart": 93.792,
-     "audioEnd": 96.624
+     "audioStart": 88.656,
+     "audioEnd": 91.368
     },
     {
      "text": "Von dem Jahr 1949 bis zum Jahr 1990 war Bonn die Haupt-Stadt von der Bundes-Republik Deutschland.",
@@ -1365,8 +1365,8 @@
       }
      ],
      "translation": "From 1949 to 1990, Bonn was the capital of the Federal Republic of Germany.",
-     "audioStart": 96.624,
-     "audioEnd": 105.912
+     "audioStart": 91.368,
+     "audioEnd": 100.44
     },
     {
      "text": "Deshalb sind viele Ministerien bis heute auch in Bonn.",
@@ -1422,8 +1422,8 @@
       }
      ],
      "translation": "That's why many ministries are still in Bonn today too.",
-     "audioStart": 105.912,
-     "audioEnd": 110.496
+     "audioStart": 100.44,
+     "audioEnd": 105.024
     },
     {
      "text": "In Bonn sind auch wichtige Behörden wie der Bundes-Rechnungshof und die Bundes-Netz-Agentur.",
@@ -1494,8 +1494,8 @@
       }
      ],
      "translation": "Important authorities such as the Federal Audit Office and the Federal Network Agency are also in Bonn.",
-     "audioStart": 110.496,
-     "audioEnd": 117.048
+     "audioStart": 105.024,
+     "audioEnd": 111.288
     },
     {
      "text": "In dem Jahr 1999 ist die Bundes-Regierung von Bonn in die neue Haupt-Stadt Berlin umgezogen.",
@@ -1580,8 +1580,8 @@
       }
      ],
      "translation": "In 1999 the federal government moved from Bonn to the new capital, Berlin.",
-     "audioStart": 117.048,
-     "audioEnd": 125.472
+     "audioStart": 111.288,
+     "audioEnd": 119.232
     },
     {
      "text": "In Bonn wurde auch der berühmte Komponist Ludwig van Beethoven geboren.",
@@ -1647,8 +1647,8 @@
       }
      ],
      "translation": "The famous composer Ludwig van Beethoven was also born in Bonn.",
-     "audioStart": 125.472,
-     "audioEnd": 131.304
+     "audioStart": 119.232,
+     "audioEnd": 124.464
     }
    ]
   },
@@ -1664,8 +1664,8 @@
       }
      ],
      "translation": "Fine dust",
-     "audioStart": 131.304,
-     "audioEnd": 133.224
+     "audioStart": 124.464,
+     "audioEnd": 126.408
     }
    ]
   },
@@ -1734,8 +1734,8 @@
       }
      ],
      "translation": "Fine dust is made up of very small particles that fly through the air.",
-     "audioStart": 133.224,
-     "audioEnd": 138.336
+     "audioStart": 126.408,
+     "audioEnd": 131.352
     },
     {
      "text": "Sie kommen zum Beispiel aus Abgasen von Autos oder Fabriken und Kraft-Werken.",
@@ -1806,8 +1806,8 @@
       }
      ],
      "translation": "It comes, for example, from the exhaust of cars or from factories and power plants.",
-     "audioStart": 138.336,
-     "audioEnd": 144.672
+     "audioStart": 131.352,
+     "audioEnd": 137.16
     },
     {
      "text": "Wenn ein Mensch zu viel Fein-Staub einatmet, kann er krank werden.",
@@ -1877,10 +1877,11 @@
       }
      ],
      "translation": "If a person breathes in too much fine dust, they can become sick.",
-     "audioStart": 144.672,
-     "audioEnd": 150.12
+     "audioStart": 137.16,
+     "audioEnd": 142.464
     }
    ]
   }
- ]
+ ],
+ "voice": "de-DE-KillianNeural"
 }

@@ -52,7 +52,7 @@
      ],
      "translation": "A tariff is a kind of fee.",
      "audioStart": 0.0,
-     "audioEnd": 3.024
+     "audioEnd": 3.168
     },
     {
      "text": "Wenn man Waren aus dem Ausland kauft, kann es sein, dass man dafür Zoll bezahlen muss.",
@@ -151,8 +151,8 @@
       }
      ],
      "translation": "When you buy goods from abroad, you may have to pay a tariff for them.",
-     "audioStart": 3.024,
-     "audioEnd": 9.864
+     "audioStart": 3.168,
+     "audioEnd": 10.248
     },
     {
      "text": "Wenn die Zölle hoch sind, werden die Waren teurer.",
@@ -212,8 +212,8 @@
       }
      ],
      "translation": "When tariffs are high, the goods become more expensive.",
-     "audioStart": 9.864,
-     "audioEnd": 14.184
+     "audioStart": 10.248,
+     "audioEnd": 14.88
     },
     {
      "text": "Regierungen können aus verschiedenen Gründen Zölle verlangen.",
@@ -259,8 +259,8 @@
       }
      ],
      "translation": "Governments can demand tariffs for various reasons.",
-     "audioStart": 14.184,
-     "audioEnd": 19.032
+     "audioStart": 14.88,
+     "audioEnd": 20.016
     },
     {
      "text": "Meistens geht es darum, die Unternehmen im eigenen Land vor Konkurrenz aus dem Ausland zu schützen.",
@@ -355,10 +355,11 @@
       }
      ],
      "translation": "Mostly it's about protecting companies in their own country from foreign competition.",
-     "audioStart": 19.032,
-     "audioEnd": 26.856
+     "audioStart": 20.016,
+     "audioEnd": 27.432
     }
    ]
   }
- ]
+ ],
+ "voice": "de-DE-AmalaNeural"
 }

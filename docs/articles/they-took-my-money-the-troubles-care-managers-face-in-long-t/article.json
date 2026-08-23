@@ -243,7 +243,7 @@
      ],
      "translation": "In Kawaguchi City, Saitama Prefecture, a care manager was murdered at a client's home in June, prompting questions about how to ensure the safety of long-term care workers.",
      "audioStart": 0.0,
-     "audioEnd": 14.952
+     "audioEnd": 13.416
     },
     {
      "text": "利用者や家族からのカスタマーハラスメント（カスハラ）が相次いでおり、10月からは全ての介護事業者にカスハラ対策が義務化される。",
@@ -440,8 +440,8 @@
       }
      ],
      "translation": "Customer harassment (\"kasu-hara\") from users and their families has been occurring one after another, and from October all long-term care providers will be required to take measures against it.",
-     "audioStart": 14.952,
-     "audioEnd": 26.88
+     "audioStart": 13.416,
+     "audioEnd": 23.928
     },
     {
      "text": "複数人での訪問といった対策が推奨され、関連経費が補助されるものの深刻な人手不足に直面する現場からは「実態に即していない」との声が上がる。",
@@ -726,8 +726,8 @@
       }
      ],
      "translation": "Measures such as visiting in pairs are being recommended and related costs subsidized, but voices from the field, which faces a severe labor shortage, say \"this doesn't match reality.\"",
-     "audioStart": 26.88,
-     "audioEnd": 41.328
+     "audioStart": 23.928,
+     "audioEnd": 36.672
     },
     {
      "text": "専門家は積極的な行政の介入を求めている。",
@@ -811,8 +811,8 @@
       }
      ],
      "translation": "Experts are calling for active government intervention.",
-     "audioStart": 41.328,
-     "audioEnd": 46.752
+     "audioStart": 36.672,
+     "audioEnd": 41.328
     }
    ]
   },
@@ -870,8 +870,8 @@
       }
      ],
      "translation": "\"I stabbed the care manager with a blade.",
-     "audioStart": 46.752,
-     "audioEnd": 49.968
+     "audioStart": 41.328,
+     "audioEnd": 44.184
     },
     {
      "text": "これから自分も刺す」。",
@@ -918,8 +918,8 @@
       }
      ],
      "translation": "I'm going to stab myself next.\"",
-     "audioStart": 49.968,
-     "audioEnd": 52.68
+     "audioStart": 44.184,
+     "audioEnd": 46.68
     },
     {
      "text": "6月1日午後、川口市飯原町の住宅で無職の男＝当時（60）＝から110番があった。",
@@ -1071,8 +1071,8 @@
       }
      ],
      "translation": "On the afternoon of June 1, an unemployed man (60 at the time) called 110 from a home in Iihara-cho, Kawaguchi City.",
-     "audioStart": 52.68,
-     "audioEnd": 62.496
+     "audioStart": 46.68,
+     "audioEnd": 55.56
     },
     {
      "text": "埼玉県警によると、血を流して倒れていた鈴木希代子さん＝同（63）＝を署員が見つけ、男は自ら首を切った。",
@@ -1299,8 +1299,8 @@
       }
      ],
      "translation": "According to the Saitama prefectural police, officers found Suzuki Kiyoko (63) collapsed and bleeding, and the man had cut his own throat.",
-     "audioStart": 62.496,
-     "audioEnd": 74.256
+     "audioStart": 55.56,
+     "audioEnd": 66.0
     },
     {
      "text": "いずれも搬送先の病院で死亡した。",
@@ -1376,8 +1376,8 @@
       }
      ],
      "translation": "Both died at the hospital they were taken to.",
-     "audioStart": 74.256,
-     "audioEnd": 78.432
+     "audioStart": 66.0,
+     "audioEnd": 69.696
     }
    ]
   },
@@ -1531,8 +1531,8 @@
       }
      ],
      "translation": "Suzuki had visited multiple times as the care manager for the man's mother, who is in her 90s and lives with him.",
-     "audioStart": 78.432,
-     "audioEnd": 86.976
+     "audioStart": 69.696,
+     "audioEnd": 76.944
     },
     {
      "text": "この日は医師の訪問診療に付き添う予定だったが、医師の到着前に襲われたとみられる。",
@@ -1705,8 +1705,8 @@
       }
      ],
      "translation": "That day she was scheduled to accompany a doctor on a home visit, but is believed to have been attacked before the doctor arrived.",
-     "audioStart": 86.976,
-     "audioEnd": 95.304
+     "audioStart": 76.944,
+     "audioEnd": 84.24
     },
     {
      "text": "男は110番の際「お金をだまし取られる」と話したが、トラブルは確認されておらず、何らかの思い込みが事件の背景にあった可能性がある。",
@@ -1972,8 +1972,8 @@
       }
      ],
      "translation": "During the 110 call the man said \"money was swindled from me,\" but no such trouble had been confirmed, suggesting some kind of delusion may have been behind the incident.",
-     "audioStart": 95.304,
-     "audioEnd": 108.288
+     "audioStart": 84.24,
+     "audioEnd": 95.976
     }
    ]
   },
@@ -2044,8 +2044,8 @@
       }
      ],
      "translation": "\"I felt this could have happened to me too.",
-     "audioStart": 108.288,
-     "audioEnd": 111.816
+     "audioStart": 95.976,
+     "audioEnd": 99.168
     },
     {
      "text": "怖い」と話すのは、和歌山市のケアマネの女性（58）だ。",
@@ -2147,8 +2147,8 @@
       }
      ],
      "translation": "It's frightening,\" says a female care manager (58) in Wakayama City.",
-     "audioStart": 111.816,
-     "audioEnd": 118.32
+     "audioStart": 99.168,
+     "audioEnd": 105.144
     },
     {
      "text": "ケアマネは、利用者側の意向を考慮して介護サービスの利用計画「ケアプラン」を作成。",
@@ -2282,8 +2282,8 @@
       }
      ],
      "translation": "Care managers draw up \"care plans,\" the long-term care service plans, taking the user's wishes into account.",
-     "audioStart": 118.32,
-     "audioEnd": 127.608
+     "audioStart": 105.144,
+     "audioEnd": 113.16
     },
     {
      "text": "対価として介護報酬が事業者に支給される。",
@@ -2373,8 +2373,8 @@
       }
      ],
      "translation": "In return, long-term care fees are paid to the provider.",
-     "audioStart": 127.608,
-     "audioEnd": 132.576
+     "audioStart": 113.16,
+     "audioEnd": 117.504
     },
     {
      "text": "ただ、居宅を訪問し、生活の補助をする業務性から「物を盗まれた」「お金を取られた」と言われるトラブルは珍しくなく、介護ヘルパーなども同様の状況にあるという。",
@@ -2682,8 +2682,8 @@
       }
      ],
      "translation": "However, because the job involves visiting people's homes and helping with daily life, complaints like \"something was stolen\" or \"money was taken\" are not uncommon, and home helpers reportedly face similar situations.",
-     "audioStart": 132.576,
-     "audioEnd": 148.08
+     "audioStart": 117.504,
+     "audioEnd": 131.904
     }
    ]
   },
@@ -3002,8 +3002,8 @@
       }
      ],
      "translation": "According to a survey conducted by the Japan Association of Certified Care Managers in November-December of Reiwa 6 (2024), 33.7% of care managers said they had experienced verbal abuse or psychological attacks in the past year.",
-     "audioStart": 148.08,
-     "audioEnd": 167.472
+     "audioStart": 131.904,
+     "audioEnd": 148.296
     },
     {
      "text": "身体的な暴力を受けたと答えた人もいた。",
@@ -3101,8 +3101,8 @@
       }
      ],
      "translation": "Some also reported experiencing physical violence.",
-     "audioStart": 167.472,
-     "audioEnd": 172.272
+     "audioStart": 148.296,
+     "audioEnd": 152.376
     },
     {
      "text": "これらの行為をした人物を複数回答で尋ねたところ、利用者の介護を担う家族や身元保証人らが44.8％と最も多く、次に利用者本人の27.6％だった。",
@@ -3370,8 +3370,8 @@
       }
      ],
      "translation": "Asked (with multiple answers allowed) who committed these acts, family members or guarantors responsible for the user's care were most common at 44.8%, followed by the users themselves at 27.6%.",
-     "audioStart": 172.272,
-     "audioEnd": 190.056
+     "audioStart": 152.376,
+     "audioEnd": 167.784
     }
    ]
   },
@@ -3679,8 +3679,8 @@
       }
      ],
      "translation": "Visiting in pairs is considered effective for safety, but since bringing another staff member incurs extra costs, most care workers currently visit clients' homes alone.",
-     "audioStart": 190.056,
-     "audioEnd": 206.136
+     "audioStart": 167.784,
+     "audioEnd": 182.208
     },
     {
      "text": "埼玉の事件を受け、厚生労働省は、ケアマネらが介護サービス利用者の自宅を複数人で訪問する際の経費の補助事業などについて自治体に通知。",
@@ -3908,8 +3908,8 @@
       }
      ],
      "translation": "Following the Saitama incident, the Ministry of Health, Labour and Welfare notified local governments about a program to subsidize the costs of care managers and others visiting users' homes in pairs.",
-     "audioStart": 206.136,
-     "audioEnd": 220.68
+     "audioStart": 182.208,
+     "audioEnd": 194.664
     },
     {
      "text": "事業者の負担を軽減する狙いがあり、具体的な金額は自治体が判断する。",
@@ -4036,10 +4036,11 @@
       }
      ],
      "translation": "The aim is to ease the burden on providers, with the specific amount left to each local government to decide.",
-     "audioStart": 220.68,
-     "audioEnd": 228.216
+     "audioStart": 194.664,
+     "audioEnd": 201.528
     }
    ]
   }
- ]
+ ],
+ "voice": "ja-JP-KeitaNeural"
 }

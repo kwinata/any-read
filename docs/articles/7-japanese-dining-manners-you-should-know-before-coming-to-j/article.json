@@ -1,0 +1,7796 @@
+{
+ "schemaVersion": 1,
+ "id": "7-japanese-dining-manners-you-should-know-before-coming-to-j",
+ "language": "ja",
+ "title": "日本へ来る前に知っておきたい日本の食事のマナー 7つ",
+ "titleTranslation": "7 Japanese Dining Manners You Should Know Before Coming to Japan",
+ "level": "N3",
+ "summary": "The article introduces seven Japanese dining etiquette points for visitors to know before eating at restaurants in Japan, covering oshibori use, the itadakimasu/gochisousama greetings, chopstick etiquette, holding bowls, keeping elbows off the table, slurping noodles and soup, and finishing everything you order.",
+ "sourceUrl": "https://matcha-jp.com/easy/192",
+ "createdAt": "2026-08-23T03:41:28+00:00",
+ "audioFile": "audio.mp3",
+ "voice": "ja-JP-NanamiNeural",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "この記事では和食を食べるときに知っておきたいマナーについて紹介します。",
+     "tokens": [
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this (demonstrative)"
+      },
+      {
+       "surface": "記事",
+       "pos": "noun",
+       "reading": "きじ",
+       "romaji": "kiji",
+       "gloss": "article"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "和食",
+       "pos": "noun",
+       "reading": "わしょく",
+       "romaji": "washoku",
+       "gloss": "Japanese cuisine"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "time, when"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "知っ",
+       "pos": "verb",
+       "reading": "しっ",
+       "romaji": "shitsu",
+       "lemma": "知る",
+       "gloss": "to know"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "おき",
+       "pos": "verb",
+       "romaji": "oki",
+       "lemma": "おく",
+       "gloss": "to do in advance (auxiliary)"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desire suffix)"
+      },
+      {
+       "surface": "マナー",
+       "pos": "noun",
+       "romaji": "manaa",
+       "gloss": "manners"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "つい",
+       "pos": "verb",
+       "romaji": "tsui",
+       "lemma": "つく",
+       "gloss": "to attach (root of について 'regarding')"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "紹介",
+       "pos": "noun",
+       "reading": "しょうかい",
+       "romaji": "shoukai",
+       "gloss": "introduction"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "This article introduces manners you should know when eating Japanese food.",
+     "audioStart": 0.0,
+     "audioEnd": 6.696
+    },
+    {
+     "text": "マナーを守って、ユネスコの無形文化遺産になった和食を楽しんでください！",
+     "tokens": [
+      {
+       "surface": "マナー",
+       "pos": "noun",
+       "romaji": "manaa",
+       "gloss": "manners"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "守っ",
+       "pos": "verb",
+       "reading": "まもっ",
+       "romaji": "mamotsu",
+       "lemma": "守る",
+       "gloss": "to keep/follow (rules)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ユネスコ",
+       "pos": "noun",
+       "romaji": "yunesuko",
+       "gloss": "UNESCO"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "無形",
+       "pos": "noun",
+       "reading": "むけい",
+       "romaji": "mukei",
+       "gloss": "intangible"
+      },
+      {
+       "surface": "文化",
+       "pos": "noun",
+       "reading": "ぶんか",
+       "romaji": "bunka",
+       "gloss": "culture"
+      },
+      {
+       "surface": "遺産",
+       "pos": "noun",
+       "reading": "いさん",
+       "romaji": "isan",
+       "gloss": "heritage"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "なっ",
+       "pos": "verb",
+       "romaji": "natsu",
+       "lemma": "なる",
+       "gloss": "to become"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "和食",
+       "pos": "noun",
+       "reading": "わしょく",
+       "romaji": "washoku",
+       "gloss": "Japanese cuisine"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "楽しん",
+       "pos": "verb",
+       "reading": "たのしん",
+       "romaji": "tanoshin",
+       "lemma": "楽しむ",
+       "gloss": "to enjoy"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる",
+       "gloss": "to give (respectful; used in ~てください)"
+      },
+      {
+       "surface": "！",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Please follow proper manners and enjoy washoku, which has become a UNESCO Intangible Cultural Heritage!",
+     "audioStart": 6.696,
+     "audioEnd": 13.296
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "日本に来たら、ぜひ楽しんでほしいものが、日本の料理です。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "来",
+       "pos": "verb",
+       "reading": "き",
+       "romaji": "ki",
+       "lemma": "来る",
+       "gloss": "to come"
+      },
+      {
+       "surface": "たら",
+       "pos": "auxiliary",
+       "romaji": "tara",
+       "lemma": "た",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ぜひ",
+       "pos": "adverb",
+       "romaji": "zehi",
+       "gloss": "by all means, really"
+      },
+      {
+       "surface": "楽しん",
+       "pos": "verb",
+       "reading": "たのしん",
+       "romaji": "tanoshin",
+       "lemma": "楽しむ",
+       "gloss": "to enjoy"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "ほしい",
+       "pos": "adjective",
+       "romaji": "hoshii",
+       "gloss": "want (something)"
+      },
+      {
+       "surface": "もの",
+       "pos": "noun",
+       "romaji": "mono",
+       "gloss": "thing"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "料理",
+       "pos": "noun",
+       "reading": "りょうり",
+       "romaji": "ryouri",
+       "gloss": "cuisine, cooking"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (polite 'is')"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If you come to Japan, one thing we really want you to enjoy is Japanese cuisine.",
+     "audioStart": 13.296,
+     "audioEnd": 19.488
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "寿司や焼肉、ラーメン、そして日本人が家で食べる料理とよく似た食事など、日本だからこそ食べることができる味がたくさんあります。",
+     "tokens": [
+      {
+       "surface": "寿司",
+       "pos": "noun",
+       "reading": "すし",
+       "romaji": "sushi",
+       "gloss": "sushi"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "listing particle: and/or"
+      },
+      {
+       "surface": "焼肉",
+       "pos": "noun",
+       "reading": "やきにく",
+       "romaji": "yakiniku",
+       "gloss": "yakiniku, grilled meat"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ラーメン",
+       "pos": "noun",
+       "romaji": "raamen",
+       "gloss": "ramen"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "そして",
+       "pos": "conjunction",
+       "romaji": "soshite",
+       "gloss": "and then, also"
+      },
+      {
+       "surface": "日本人",
+       "pos": "noun",
+       "reading": "にほんじん",
+       "romaji": "nihonjin",
+       "gloss": "Japanese person"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "家",
+       "pos": "noun",
+       "reading": "いえ",
+       "romaji": "ie",
+       "gloss": "home, house"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "料理",
+       "pos": "noun",
+       "reading": "りょうり",
+       "romaji": "ryouri",
+       "gloss": "cuisine, cooking"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: and, with, quotative"
+      },
+      {
+       "surface": "よく",
+       "pos": "adverb",
+       "romaji": "yoku",
+       "gloss": "well, often"
+      },
+      {
+       "surface": "似",
+       "pos": "verb",
+       "reading": "に",
+       "romaji": "ni",
+       "lemma": "似る",
+       "gloss": "to resemble"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "食事",
+       "pos": "noun",
+       "reading": "しょくじ",
+       "romaji": "shokuji",
+       "gloss": "meal"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "copula (plain 'is')"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "because; from"
+      },
+      {
+       "surface": "こそ",
+       "pos": "particle",
+       "romaji": "koso",
+       "gloss": "emphasis particle: precisely, especially"
+      },
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing (abstract), nominalizer"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "できる",
+       "pos": "verb",
+       "romaji": "dekiru",
+       "gloss": "to be able to"
+      },
+      {
+       "surface": "味",
+       "pos": "noun",
+       "reading": "あじ",
+       "romaji": "aji",
+       "gloss": "taste, flavor"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate/abstract)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are many flavors you can only taste in Japan, such as sushi, yakiniku, ramen, and meals similar to what Japanese people eat at home.",
+     "audioStart": 19.488,
+     "audioEnd": 31.656
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "楽しく食事をするために、食事中のマナーにも気をつけたいですね。",
+     "tokens": [
+      {
+       "surface": "楽しく",
+       "pos": "adjective",
+       "reading": "たのしく",
+       "romaji": "tanoshiku",
+       "lemma": "楽しい",
+       "gloss": "fun, enjoyable"
+      },
+      {
+       "surface": "食事",
+       "pos": "noun",
+       "reading": "しょくじ",
+       "romaji": "shokuji",
+       "gloss": "meal"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do"
+      },
+      {
+       "surface": "ため",
+       "pos": "noun",
+       "romaji": "tame",
+       "gloss": "for the sake of, in order to"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "食事",
+       "pos": "noun",
+       "reading": "しょくじ",
+       "romaji": "shokuji",
+       "gloss": "meal"
+      },
+      {
+       "surface": "中",
+       "pos": "suffix",
+       "reading": "ちゅう",
+       "romaji": "chuu",
+       "gloss": "inside, during"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "マナー",
+       "pos": "noun",
+       "romaji": "manaa",
+       "gloss": "manners"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "気",
+       "pos": "noun",
+       "reading": "き",
+       "romaji": "ki",
+       "gloss": "feeling, attention (as in 気をつける)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "つけ",
+       "pos": "verb",
+       "romaji": "tsuke",
+       "lemma": "つける",
+       "gloss": "to attach, to pay (attention)"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desire suffix)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (polite 'is')"
+      },
+      {
+       "surface": "ね",
+       "pos": "particle",
+       "romaji": "ne",
+       "gloss": "sentence-ending particle seeking agreement"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "To enjoy your meal, it's good to be mindful of table manners too.",
+     "audioStart": 31.656,
+     "audioEnd": 38.04
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "自分の国では大丈夫でも、日本ではしてはいけないこともあります。",
+     "tokens": [
+      {
+       "surface": "自分",
+       "pos": "noun",
+       "reading": "じぶん",
+       "romaji": "jibun",
+       "gloss": "oneself"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "国",
+       "pos": "noun",
+       "reading": "くに",
+       "romaji": "kuni",
+       "gloss": "country"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "大丈夫",
+       "pos": "adjective",
+       "reading": "だいじょうぶ",
+       "romaji": "daijoubu",
+       "gloss": "okay, fine"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula (plain 'is')"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "いけ",
+       "pos": "verb",
+       "romaji": "ike",
+       "lemma": "いける",
+       "gloss": "to be permissible (used in negative いけない 'must not')"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing (abstract), nominalizer"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate/abstract)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Some things that are fine in your own country may not be acceptable in Japan.",
+     "audioStart": 38.04,
+     "audioEnd": 44.304
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "この記事では日本料理の店で食べるときに「これだけは知っておいてほしい」という食事のマナーを紹介します。",
+     "tokens": [
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this (demonstrative)"
+      },
+      {
+       "surface": "記事",
+       "pos": "noun",
+       "reading": "きじ",
+       "romaji": "kiji",
+       "gloss": "article"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "料理",
+       "pos": "noun",
+       "reading": "りょうり",
+       "romaji": "ryouri",
+       "gloss": "cuisine, cooking"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "店",
+       "pos": "noun",
+       "reading": "みせ",
+       "romaji": "mise",
+       "gloss": "shop, restaurant"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "time, when"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore",
+       "gloss": "this (pronoun)"
+      },
+      {
+       "surface": "だけ",
+       "pos": "particle",
+       "romaji": "dake",
+       "gloss": "only"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "知っ",
+       "pos": "verb",
+       "reading": "しっ",
+       "romaji": "shitsu",
+       "lemma": "知る",
+       "gloss": "to know"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "おい",
+       "pos": "verb",
+       "romaji": "oi",
+       "lemma": "おく",
+       "gloss": "to do in advance (auxiliary)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "ほしい",
+       "pos": "adjective",
+       "romaji": "hoshii",
+       "gloss": "want (something)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: and, with, quotative"
+      },
+      {
+       "surface": "いう",
+       "pos": "verb",
+       "romaji": "iu",
+       "gloss": "to say"
+      },
+      {
+       "surface": "食事",
+       "pos": "noun",
+       "reading": "しょくじ",
+       "romaji": "shokuji",
+       "gloss": "meal"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "マナー",
+       "pos": "noun",
+       "romaji": "manaa",
+       "gloss": "manners"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "紹介",
+       "pos": "noun",
+       "reading": "しょうかい",
+       "romaji": "shoukai",
+       "gloss": "introduction"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "This article introduces the dining manners we especially want you to know when eating at a Japanese restaurant.",
+     "audioStart": 44.304,
+     "audioEnd": 53.952
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "食べるときに困らないようにチェックしておきましょう。",
+     "tokens": [
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "time, when"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "困ら",
+       "pos": "verb",
+       "reading": "こまら",
+       "romaji": "komara",
+       "lemma": "困る",
+       "gloss": "to be troubled, to have difficulty"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix"
+      },
+      {
+       "surface": "よう",
+       "pos": "adjective",
+       "romaji": "you",
+       "gloss": "manner, way, seeming"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula (plain 'is')"
+      },
+      {
+       "surface": "チェック",
+       "pos": "noun",
+       "romaji": "chekku",
+       "gloss": "check"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "おき",
+       "pos": "verb",
+       "romaji": "oki",
+       "lemma": "おく",
+       "gloss": "to do in advance (auxiliary)"
+      },
+      {
+       "surface": "ましょう",
+       "pos": "auxiliary",
+       "romaji": "mashou",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Let's check them so you won't be troubled when eating.",
+     "audioStart": 53.952,
+     "audioEnd": 58.896
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "1.おしぼりは手を拭くときだけ使う",
+     "tokens": [
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "numeral used as list-item marker"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      },
+      {
+       "surface": "おしぼり",
+       "pos": "noun",
+       "romaji": "oshibori",
+       "gloss": "wet hand towel"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "手",
+       "pos": "noun",
+       "reading": "て",
+       "romaji": "te",
+       "gloss": "hand"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "拭く",
+       "pos": "verb",
+       "reading": "ふく",
+       "romaji": "fuku",
+       "gloss": "to wipe"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "time, when"
+      },
+      {
+       "surface": "だけ",
+       "pos": "particle",
+       "romaji": "dake",
+       "gloss": "only"
+      },
+      {
+       "surface": "使う",
+       "pos": "verb",
+       "reading": "つかう",
+       "romaji": "tsukau",
+       "gloss": "to use"
+      }
+     ],
+     "translation": "1. Use the oshibori (wet towel) only to wipe your hands",
+     "audioStart": 58.896,
+     "audioEnd": 63.12
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "大体の日本のレストランでは、入るとおしぼりを出してくれます。",
+     "tokens": [
+      {
+       "surface": "大体",
+       "pos": "noun",
+       "reading": "だいたい",
+       "romaji": "daitai",
+       "gloss": "mostly, generally"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "レストラン",
+       "pos": "noun",
+       "romaji": "resutoran",
+       "gloss": "restaurant"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "入る",
+       "pos": "verb",
+       "reading": "はいる",
+       "romaji": "hairu",
+       "gloss": "to enter"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: and, with, quotative"
+      },
+      {
+       "surface": "おしぼり",
+       "pos": "noun",
+       "romaji": "oshibori",
+       "gloss": "wet hand towel"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "出し",
+       "pos": "verb",
+       "reading": "だし",
+       "romaji": "dashi",
+       "lemma": "出す",
+       "gloss": "to put out, to serve"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "くれ",
+       "pos": "verb",
+       "romaji": "kure",
+       "lemma": "くれる",
+       "gloss": "to give (to me/us)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "At most Japanese restaurants, you're given an oshibori when you enter.",
+     "audioStart": 63.12,
+     "audioEnd": 69.096
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "使ったらそのまま捨てる紙のおしぼりや、繰り返し使うことができる布のおしぼりなど、店によって種類は違います。",
+     "tokens": [
+      {
+       "surface": "使っ",
+       "pos": "verb",
+       "reading": "つかっ",
+       "romaji": "tsukatsu",
+       "lemma": "使う",
+       "gloss": "to use"
+      },
+      {
+       "surface": "たら",
+       "pos": "auxiliary",
+       "romaji": "tara",
+       "lemma": "た",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "そのまま",
+       "pos": "noun",
+       "romaji": "sonomama",
+       "gloss": "as is, without change"
+      },
+      {
+       "surface": "捨てる",
+       "pos": "verb",
+       "reading": "すてる",
+       "romaji": "suteru",
+       "gloss": "to throw away"
+      },
+      {
+       "surface": "紙",
+       "pos": "noun",
+       "reading": "かみ",
+       "romaji": "kami",
+       "gloss": "paper"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "おしぼり",
+       "pos": "noun",
+       "romaji": "oshibori",
+       "gloss": "wet hand towel"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "listing particle: and/or"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "繰り返し",
+       "pos": "verb",
+       "reading": "くりかえし",
+       "romaji": "kurikaeshi",
+       "lemma": "繰り返す",
+       "gloss": "to repeat"
+      },
+      {
+       "surface": "使う",
+       "pos": "verb",
+       "reading": "つかう",
+       "romaji": "tsukau",
+       "gloss": "to use"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing (abstract), nominalizer"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "できる",
+       "pos": "verb",
+       "romaji": "dekiru",
+       "gloss": "to be able to"
+      },
+      {
+       "surface": "布",
+       "pos": "noun",
+       "reading": "ぬの",
+       "romaji": "nuno",
+       "gloss": "cloth"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "おしぼり",
+       "pos": "noun",
+       "romaji": "oshibori",
+       "gloss": "wet hand towel"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "店",
+       "pos": "noun",
+       "reading": "みせ",
+       "romaji": "mise",
+       "gloss": "shop, restaurant"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "よっ",
+       "pos": "verb",
+       "romaji": "yotsu",
+       "lemma": "よる",
+       "gloss": "to depend on (による)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "種類",
+       "pos": "noun",
+       "reading": "しゅるい",
+       "romaji": "shurui",
+       "gloss": "type, kind"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "違い",
+       "pos": "verb",
+       "reading": "ちがい",
+       "romaji": "chigai",
+       "lemma": "違う",
+       "gloss": "to differ, be different"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The type varies by restaurant, from disposable paper oshibori to reusable cloth oshibori.",
+     "audioStart": 69.096,
+     "audioEnd": 79.368
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "そしておしぼりは「手を拭く」ためだけのものです。",
+     "tokens": [
+      {
+       "surface": "そして",
+       "pos": "conjunction",
+       "romaji": "soshite",
+       "gloss": "and then, also"
+      },
+      {
+       "surface": "おしぼり",
+       "pos": "noun",
+       "romaji": "oshibori",
+       "gloss": "wet hand towel"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "手",
+       "pos": "noun",
+       "reading": "て",
+       "romaji": "te",
+       "gloss": "hand"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "拭く",
+       "pos": "verb",
+       "reading": "ふく",
+       "romaji": "fuku",
+       "gloss": "to wipe"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "ため",
+       "pos": "noun",
+       "romaji": "tame",
+       "gloss": "for the sake of, in order to"
+      },
+      {
+       "surface": "だけ",
+       "pos": "particle",
+       "romaji": "dake",
+       "gloss": "only"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "もの",
+       "pos": "noun",
+       "romaji": "mono",
+       "gloss": "thing"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (polite 'is')"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "And the oshibori is only for wiping your hands.",
+     "audioStart": 79.368,
+     "audioEnd": 84.48
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "とくに布のおしぼりで、顔や口、テーブルなど手以外を拭かないでくださいね。",
+     "tokens": [
+      {
+       "surface": "とくに",
+       "pos": "adverb",
+       "romaji": "tokuni",
+       "gloss": "especially"
+      },
+      {
+       "surface": "布",
+       "pos": "noun",
+       "reading": "ぬの",
+       "romaji": "nuno",
+       "gloss": "cloth"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "おしぼり",
+       "pos": "noun",
+       "romaji": "oshibori",
+       "gloss": "wet hand towel"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula (plain 'is')"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "顔",
+       "pos": "noun",
+       "reading": "かお",
+       "romaji": "kao",
+       "gloss": "face"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "listing particle: and/or"
+      },
+      {
+       "surface": "口",
+       "pos": "noun",
+       "reading": "くち",
+       "romaji": "kuchi",
+       "gloss": "mouth"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "テーブル",
+       "pos": "noun",
+       "romaji": "teeburu",
+       "gloss": "table"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "手",
+       "pos": "noun",
+       "reading": "て",
+       "romaji": "te",
+       "gloss": "hand"
+      },
+      {
+       "surface": "以外",
+       "pos": "noun",
+       "reading": "いがい",
+       "romaji": "igai",
+       "gloss": "other than, except"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "拭か",
+       "pos": "verb",
+       "reading": "ふか",
+       "romaji": "fuka",
+       "lemma": "拭く",
+       "gloss": "to wipe"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる",
+       "gloss": "to give (respectful; used in ~てください)"
+      },
+      {
+       "surface": "ね",
+       "pos": "particle",
+       "romaji": "ne",
+       "gloss": "sentence-ending particle seeking agreement"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Especially with cloth oshibori, please don't wipe your face, mouth, the table, or anything other than your hands.",
+     "audioStart": 84.48,
+     "audioEnd": 91.728
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "2.食べる前と食べた後に手を合わせて挨拶する",
+     "tokens": [
+      {
+       "surface": "2",
+       "pos": "noun",
+       "gloss": "numeral used as list-item marker"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      },
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "前",
+       "pos": "noun",
+       "reading": "まえ",
+       "romaji": "mae",
+       "gloss": "before"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: and, with, quotative"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "後",
+       "pos": "noun",
+       "reading": "あと",
+       "romaji": "ato",
+       "gloss": "after"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "手",
+       "pos": "noun",
+       "reading": "て",
+       "romaji": "te",
+       "gloss": "hand"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "合わせ",
+       "pos": "verb",
+       "reading": "あわせ",
+       "romaji": "awase",
+       "lemma": "合わせる",
+       "gloss": "to put together (hands)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "挨拶",
+       "pos": "noun",
+       "reading": "あいさつ",
+       "romaji": "aisatsu",
+       "gloss": "greeting"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do"
+      }
+     ],
+     "translation": "2. Put your hands together and greet before and after eating",
+     "audioStart": 91.728,
+     "audioEnd": 96.984
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "日本では食べる前と食べた後に両手を合わせ、料理に挨拶をします。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "前",
+       "pos": "noun",
+       "reading": "まえ",
+       "romaji": "mae",
+       "gloss": "before"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: and, with, quotative"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "後",
+       "pos": "noun",
+       "reading": "あと",
+       "romaji": "ato",
+       "gloss": "after"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "両手",
+       "pos": "noun",
+       "reading": "りょうて",
+       "romaji": "ryoute",
+       "gloss": "both hands"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "合わせ",
+       "pos": "verb",
+       "reading": "あわせ",
+       "romaji": "awase",
+       "lemma": "合わせる",
+       "gloss": "to put together (hands)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "料理",
+       "pos": "noun",
+       "reading": "りょうり",
+       "romaji": "ryouri",
+       "gloss": "cuisine, cooking"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "挨拶",
+       "pos": "noun",
+       "reading": "あいさつ",
+       "romaji": "aisatsu",
+       "gloss": "greeting"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In Japan, people put their hands together before and after eating to greet the food.",
+     "audioStart": 96.984,
+     "audioEnd": 103.848
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "食べる前に「いただきます」、食べた後に「ごちそうさま」と言います。",
+     "tokens": [
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "前",
+       "pos": "noun",
+       "reading": "まえ",
+       "romaji": "mae",
+       "gloss": "before"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "いただき",
+       "pos": "verb",
+       "romaji": "itadaki",
+       "lemma": "いただく",
+       "gloss": "to receive (humble); used in itadakimasu"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "後",
+       "pos": "noun",
+       "reading": "あと",
+       "romaji": "ato",
+       "gloss": "after"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "ごちそう",
+       "pos": "noun",
+       "romaji": "gochisou",
+       "gloss": "feast, treat"
+      },
+      {
+       "surface": "さま",
+       "pos": "suffix",
+       "romaji": "sama",
+       "gloss": "honorific suffix (as in ごちそうさま)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: and, with, quotative"
+      },
+      {
+       "surface": "言い",
+       "pos": "verb",
+       "reading": "いい",
+       "romaji": "ii",
+       "lemma": "言う",
+       "gloss": "to say"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They say \"itadakimasu\" before eating and \"gochisousama\" after eating.",
+     "audioStart": 103.848,
+     "audioEnd": 110.136
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "どちらも2つの感謝（ありがとう）の意味があります。",
+     "tokens": [
+      {
+       "surface": "どちら",
+       "pos": "pronoun",
+       "romaji": "dochira",
+       "gloss": "which (of two), both"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "2",
+       "pos": "noun",
+       "gloss": "numeral used as list-item marker"
+      },
+      {
+       "surface": "つ",
+       "pos": "suffix",
+       "romaji": "tsu",
+       "gloss": "generic counter for items"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "感謝",
+       "pos": "noun",
+       "reading": "かんしゃ",
+       "romaji": "kansha",
+       "gloss": "gratitude"
+      },
+      {
+       "surface": "（",
+       "pos": "punct"
+      },
+      {
+       "surface": "ありがとう",
+       "pos": "interjection",
+       "romaji": "arigatou",
+       "gloss": "thank you"
+      },
+      {
+       "surface": "）",
+       "pos": "punct"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "意味",
+       "pos": "noun",
+       "reading": "いみ",
+       "romaji": "imi",
+       "gloss": "meaning"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate/abstract)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Both phrases carry two kinds of gratitude (thanks).",
+     "audioStart": 110.136,
+     "audioEnd": 115.176
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "1つは、食事に関係しているぜんぶの人への感謝です。",
+     "tokens": [
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "numeral used as list-item marker"
+      },
+      {
+       "surface": "つ",
+       "pos": "suffix",
+       "romaji": "tsu",
+       "gloss": "generic counter for items"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "食事",
+       "pos": "noun",
+       "reading": "しょくじ",
+       "romaji": "shokuji",
+       "gloss": "meal"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "関係",
+       "pos": "noun",
+       "reading": "かんけい",
+       "romaji": "kankei",
+       "gloss": "relation, connection"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "to exist (animate); auxiliary for ongoing action"
+      },
+      {
+       "surface": "ぜんぶ",
+       "pos": "noun",
+       "romaji": "zenbu",
+       "gloss": "all, everything"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "particle: toward, to (direction)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "感謝",
+       "pos": "noun",
+       "reading": "かんしゃ",
+       "romaji": "kansha",
+       "gloss": "gratitude"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (polite 'is')"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "One is gratitude toward everyone involved in the meal.",
+     "audioStart": 115.176,
+     "audioEnd": 120.936
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "食材を作ってくれた人、料理を作ってくれた人など私たちが今ここで食事を食べるために関わった、ぜんぶの人への感謝です。",
+     "tokens": [
+      {
+       "surface": "食材",
+       "pos": "noun",
+       "reading": "しょくざい",
+       "romaji": "shokuzai",
+       "gloss": "ingredients"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "作っ",
+       "pos": "verb",
+       "reading": "つくっ",
+       "romaji": "tsukutsu",
+       "lemma": "作る",
+       "gloss": "to make"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "くれ",
+       "pos": "verb",
+       "romaji": "kure",
+       "lemma": "くれる",
+       "gloss": "to give (to me/us)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "料理",
+       "pos": "noun",
+       "reading": "りょうり",
+       "romaji": "ryouri",
+       "gloss": "cuisine, cooking"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "作っ",
+       "pos": "verb",
+       "reading": "つくっ",
+       "romaji": "tsukutsu",
+       "lemma": "作る",
+       "gloss": "to make"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "くれ",
+       "pos": "verb",
+       "romaji": "kure",
+       "lemma": "くれる",
+       "gloss": "to give (to me/us)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "私たち",
+       "pos": "pronoun",
+       "reading": "わたしたち",
+       "romaji": "watashitachi",
+       "gloss": "we, us"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "今",
+       "pos": "noun",
+       "reading": "いま",
+       "romaji": "ima",
+       "gloss": "now"
+      },
+      {
+       "surface": "ここ",
+       "pos": "pronoun",
+       "romaji": "koko",
+       "gloss": "here"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "食事",
+       "pos": "noun",
+       "reading": "しょくじ",
+       "romaji": "shokuji",
+       "gloss": "meal"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "ため",
+       "pos": "noun",
+       "romaji": "tame",
+       "gloss": "for the sake of, in order to"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "関わっ",
+       "pos": "verb",
+       "reading": "かかわっ",
+       "romaji": "kakawatsu",
+       "lemma": "関わる",
+       "gloss": "to be involved with"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ぜんぶ",
+       "pos": "noun",
+       "romaji": "zenbu",
+       "gloss": "all, everything"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "particle: toward, to (direction)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "感謝",
+       "pos": "noun",
+       "reading": "かんしゃ",
+       "romaji": "kansha",
+       "gloss": "gratitude"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (polite 'is')"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It's gratitude toward everyone who was involved in us being able to eat this meal here now, such as the people who produced the ingredients and the people who cooked the food.",
+     "audioStart": 120.936,
+     "audioEnd": 132.576
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "2つ目は、食材への感謝です。",
+     "tokens": [
+      {
+       "surface": "2",
+       "pos": "noun",
+       "gloss": "numeral used as list-item marker"
+      },
+      {
+       "surface": "つ",
+       "pos": "suffix",
+       "romaji": "tsu",
+       "gloss": "generic counter for items"
+      },
+      {
+       "surface": "目",
+       "pos": "suffix",
+       "reading": "め",
+       "romaji": "me",
+       "gloss": "ordinal suffix '-th' (e.g. 2つ目 'second')"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "食材",
+       "pos": "noun",
+       "reading": "しょくざい",
+       "romaji": "shokuzai",
+       "gloss": "ingredients"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "particle: toward, to (direction)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "感謝",
+       "pos": "noun",
+       "reading": "かんしゃ",
+       "romaji": "kansha",
+       "gloss": "gratitude"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (polite 'is')"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The second is gratitude toward the ingredients.",
+     "audioStart": 132.576,
+     "audioEnd": 136.608
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "肉や魚を食べることは、生きていた動物たちの命をもらうということです。",
+     "tokens": [
+      {
+       "surface": "肉",
+       "pos": "noun",
+       "reading": "にく",
+       "romaji": "niku",
+       "gloss": "meat"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "listing particle: and/or"
+      },
+      {
+       "surface": "魚",
+       "pos": "noun",
+       "reading": "さかな",
+       "romaji": "sakana",
+       "gloss": "fish"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing (abstract), nominalizer"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "生き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "生きる",
+       "gloss": "to live"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (animate); auxiliary for ongoing action"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "動物",
+       "pos": "noun",
+       "reading": "どうぶつ",
+       "romaji": "doubutsu",
+       "gloss": "animal"
+      },
+      {
+       "surface": "たち",
+       "pos": "suffix",
+       "romaji": "tachi",
+       "gloss": "plural suffix"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "命",
+       "pos": "noun",
+       "reading": "いのち",
+       "romaji": "inochi",
+       "gloss": "life"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "もらう",
+       "pos": "verb",
+       "romaji": "morau",
+       "gloss": "to receive"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: and, with, quotative"
+      },
+      {
+       "surface": "いう",
+       "pos": "verb",
+       "romaji": "iu",
+       "gloss": "to say"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing (abstract), nominalizer"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (polite 'is')"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Eating meat and fish means receiving the lives of animals that were once living.",
+     "audioStart": 136.608,
+     "audioEnd": 143.808
+    },
+    {
+     "text": "同じように野菜にも命があると考えて、ほかの命が自分が生きるためのエネルギーに変わることに感謝します。",
+     "tokens": [
+      {
+       "surface": "同じ",
+       "pos": "prenominal",
+       "reading": "おなじ",
+       "romaji": "onaji",
+       "gloss": "same"
+      },
+      {
+       "surface": "よう",
+       "pos": "adjective",
+       "romaji": "you",
+       "gloss": "manner, way, seeming"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula (plain 'is')"
+      },
+      {
+       "surface": "野菜",
+       "pos": "noun",
+       "reading": "やさい",
+       "romaji": "yasai",
+       "gloss": "vegetable"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "命",
+       "pos": "noun",
+       "reading": "いのち",
+       "romaji": "inochi",
+       "gloss": "life"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "ある",
+       "pos": "verb",
+       "romaji": "aru",
+       "gloss": "to exist (inanimate/abstract)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: and, with, quotative"
+      },
+      {
+       "surface": "考え",
+       "pos": "verb",
+       "reading": "かんがえ",
+       "romaji": "kangae",
+       "lemma": "考える",
+       "gloss": "to think, to consider"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ほか",
+       "pos": "noun",
+       "romaji": "hoka",
+       "gloss": "other"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "命",
+       "pos": "noun",
+       "reading": "いのち",
+       "romaji": "inochi",
+       "gloss": "life"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "自分",
+       "pos": "noun",
+       "reading": "じぶん",
+       "romaji": "jibun",
+       "gloss": "oneself"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "生きる",
+       "pos": "verb",
+       "reading": "いきる",
+       "romaji": "ikiru",
+       "gloss": "to live"
+      },
+      {
+       "surface": "ため",
+       "pos": "noun",
+       "romaji": "tame",
+       "gloss": "for the sake of, in order to"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "エネルギー",
+       "pos": "noun",
+       "romaji": "enerugii",
+       "gloss": "energy"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "変わる",
+       "pos": "verb",
+       "reading": "かわる",
+       "romaji": "kawaru",
+       "gloss": "to change"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing (abstract), nominalizer"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "感謝",
+       "pos": "noun",
+       "reading": "かんしゃ",
+       "romaji": "kansha",
+       "gloss": "gratitude"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Likewise, thinking that vegetables also have life, we feel gratitude that other lives become the energy for our own.",
+     "audioStart": 143.808,
+     "audioEnd": 153.528
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "3.箸を正しく使う",
+     "tokens": [
+      {
+       "surface": "3",
+       "pos": "noun",
+       "gloss": "numeral used as list-item marker"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      },
+      {
+       "surface": "箸",
+       "pos": "noun",
+       "reading": "はし",
+       "romaji": "hashi",
+       "gloss": "chopsticks"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "正しく",
+       "pos": "adjective",
+       "reading": "ただしく",
+       "romaji": "tadashiku",
+       "lemma": "正しい",
+       "gloss": "correct"
+      },
+      {
+       "surface": "使う",
+       "pos": "verb",
+       "reading": "つかう",
+       "romaji": "tsukau",
+       "gloss": "to use"
+      }
+     ],
+     "translation": "3. Use chopsticks correctly",
+     "audioStart": 153.528,
+     "audioEnd": 156.768
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "箸は日本で食事をするときに使います。",
+     "tokens": [
+      {
+       "surface": "箸",
+       "pos": "noun",
+       "reading": "はし",
+       "romaji": "hashi",
+       "gloss": "chopsticks"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "食事",
+       "pos": "noun",
+       "reading": "しょくじ",
+       "romaji": "shokuji",
+       "gloss": "meal"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "time, when"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "使い",
+       "pos": "verb",
+       "reading": "つかい",
+       "romaji": "tsukai",
+       "lemma": "使う",
+       "gloss": "to use"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Chopsticks are used when eating meals in Japan.",
+     "audioStart": 156.768,
+     "audioEnd": 161.016
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "箸の持ち方や、食事中の使い方にはいろいろなルールがあります。",
+     "tokens": [
+      {
+       "surface": "箸",
+       "pos": "noun",
+       "reading": "はし",
+       "romaji": "hashi",
+       "gloss": "chopsticks"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "持ち方",
+       "pos": "noun",
+       "reading": "もちかた",
+       "romaji": "mochikata",
+       "gloss": "way of holding"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "listing particle: and/or"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "食事",
+       "pos": "noun",
+       "reading": "しょくじ",
+       "romaji": "shokuji",
+       "gloss": "meal"
+      },
+      {
+       "surface": "中",
+       "pos": "suffix",
+       "reading": "ちゅう",
+       "romaji": "chuu",
+       "gloss": "inside, during"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "使い方",
+       "pos": "noun",
+       "reading": "つかいかた",
+       "romaji": "tsukaikata",
+       "gloss": "way of using"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "いろいろ",
+       "pos": "adjective",
+       "romaji": "iroiro",
+       "gloss": "various"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula (plain 'is')"
+      },
+      {
+       "surface": "ルール",
+       "pos": "noun",
+       "romaji": "ruuru",
+       "gloss": "rule"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate/abstract)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are various rules about how to hold chopsticks and how to use them during a meal.",
+     "audioStart": 161.016,
+     "audioEnd": 167.472
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "これは一緒に食べている人を、嫌な気持ちにさせないためにあるルールです。",
+     "tokens": [
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore",
+       "gloss": "this (pronoun)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "一緒",
+       "pos": "noun",
+       "reading": "いっしょ",
+       "romaji": "issho",
+       "gloss": "together"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "to exist (animate); auxiliary for ongoing action"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "嫌",
+       "pos": "adjective",
+       "reading": "いや",
+       "romaji": "iya",
+       "gloss": "unpleasant, disliked"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula (plain 'is')"
+      },
+      {
+       "surface": "気持ち",
+       "pos": "noun",
+       "reading": "きもち",
+       "romaji": "kimochi",
+       "gloss": "feeling"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "さ",
+       "pos": "verb",
+       "romaji": "sa",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "せ",
+       "pos": "auxiliary",
+       "romaji": "se",
+       "lemma": "せる",
+       "gloss": "causative suffix (させる)"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix"
+      },
+      {
+       "surface": "ため",
+       "pos": "noun",
+       "romaji": "tame",
+       "gloss": "for the sake of, in order to"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "ある",
+       "pos": "verb",
+       "romaji": "aru",
+       "gloss": "to exist (inanimate/abstract)"
+      },
+      {
+       "surface": "ルール",
+       "pos": "noun",
+       "romaji": "ruuru",
+       "gloss": "rule"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (polite 'is')"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "These rules exist so as not to make the people eating with you feel uncomfortable.",
+     "audioStart": 167.472,
+     "audioEnd": 174.0
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "下の「お箸の持ち方と基本的なマナー5つ」の記事を読んで、箸のマナーも確認しておきましょう。",
+     "tokens": [
+      {
+       "surface": "下",
+       "pos": "noun",
+       "reading": "した",
+       "romaji": "shita",
+       "gloss": "below"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "箸",
+       "pos": "noun",
+       "reading": "はし",
+       "romaji": "hashi",
+       "gloss": "chopsticks"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "持ち方",
+       "pos": "noun",
+       "reading": "もちかた",
+       "romaji": "mochikata",
+       "gloss": "way of holding"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: and, with, quotative"
+      },
+      {
+       "surface": "基本的",
+       "pos": "noun",
+       "reading": "きほんてき",
+       "romaji": "kihonteki",
+       "gloss": "basic, fundamental"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula (plain 'is')"
+      },
+      {
+       "surface": "マナー",
+       "pos": "noun",
+       "romaji": "manaa",
+       "gloss": "manners"
+      },
+      {
+       "surface": "5",
+       "pos": "noun",
+       "gloss": "numeral used as list-item marker"
+      },
+      {
+       "surface": "つ",
+       "pos": "suffix",
+       "romaji": "tsu",
+       "gloss": "generic counter for items"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "記事",
+       "pos": "noun",
+       "reading": "きじ",
+       "romaji": "kiji",
+       "gloss": "article"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "読ん",
+       "pos": "verb",
+       "reading": "よん",
+       "romaji": "yon",
+       "lemma": "読む",
+       "gloss": "to read"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "箸",
+       "pos": "noun",
+       "reading": "はし",
+       "romaji": "hashi",
+       "gloss": "chopsticks"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "マナー",
+       "pos": "noun",
+       "romaji": "manaa",
+       "gloss": "manners"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "確認",
+       "pos": "noun",
+       "reading": "かくにん",
+       "romaji": "kakunin",
+       "gloss": "confirmation"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "おき",
+       "pos": "verb",
+       "romaji": "oki",
+       "lemma": "おく",
+       "gloss": "to do in advance (auxiliary)"
+      },
+      {
+       "surface": "ましょう",
+       "pos": "auxiliary",
+       "romaji": "mashou",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Read the article below, \"5 Basic Manners and How to Hold Chopsticks,\" to check chopstick manners too.",
+     "audioStart": 174.0,
+     "audioEnd": 182.928
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "フォークを頼んでも大丈夫？",
+     "tokens": [
+      {
+       "surface": "フォーク",
+       "pos": "noun",
+       "romaji": "fooku",
+       "gloss": "fork"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "頼ん",
+       "pos": "verb",
+       "reading": "たのん",
+       "romaji": "tanon",
+       "lemma": "頼む",
+       "gloss": "to ask, to order"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "大丈夫",
+       "pos": "adjective",
+       "reading": "だいじょうぶ",
+       "romaji": "daijoubu",
+       "gloss": "okay, fine"
+      },
+      {
+       "surface": "？",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Is it okay to ask for a fork?",
+     "audioStart": 182.928,
+     "audioEnd": 186.144
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "箸で食べることがあまり上手ではない人は、フォークがあるか店の人に聞いてみてください。",
+     "tokens": [
+      {
+       "surface": "箸",
+       "pos": "noun",
+       "reading": "はし",
+       "romaji": "hashi",
+       "gloss": "chopsticks"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing (abstract), nominalizer"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "あまり",
+       "pos": "adverb",
+       "romaji": "amari",
+       "gloss": "not very (with negative)"
+      },
+      {
+       "surface": "上手",
+       "pos": "adjective",
+       "reading": "じょうず",
+       "romaji": "jouzu",
+       "gloss": "skilled, good at"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula (plain 'is')"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "ない",
+       "pos": "adjective",
+       "romaji": "nai",
+       "gloss": "negative suffix"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "フォーク",
+       "pos": "noun",
+       "romaji": "fooku",
+       "gloss": "fork"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "ある",
+       "pos": "verb",
+       "romaji": "aru",
+       "gloss": "to exist (inanimate/abstract)"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question particle"
+      },
+      {
+       "surface": "店",
+       "pos": "noun",
+       "reading": "みせ",
+       "romaji": "mise",
+       "gloss": "shop, restaurant"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "聞い",
+       "pos": "verb",
+       "reading": "きい",
+       "romaji": "kii",
+       "lemma": "聞く",
+       "gloss": "to ask, to listen"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "み",
+       "pos": "verb",
+       "romaji": "mi",
+       "lemma": "みる",
+       "gloss": "to try (~てみる)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる",
+       "gloss": "to give (respectful; used in ~てください)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If you're not very good at eating with chopsticks, try asking the restaurant staff if they have a fork.",
+     "audioStart": 186.144,
+     "audioEnd": 194.112
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "店によってはフォークを貸してくれるところもあります。",
+     "tokens": [
+      {
+       "surface": "店",
+       "pos": "noun",
+       "reading": "みせ",
+       "romaji": "mise",
+       "gloss": "shop, restaurant"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "よっ",
+       "pos": "verb",
+       "romaji": "yotsu",
+       "lemma": "よる",
+       "gloss": "to depend on (による)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "フォーク",
+       "pos": "noun",
+       "romaji": "fooku",
+       "gloss": "fork"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "貸し",
+       "pos": "verb",
+       "reading": "かし",
+       "romaji": "kashi",
+       "lemma": "貸す",
+       "gloss": "to lend"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "くれる",
+       "pos": "verb",
+       "romaji": "kureru",
+       "gloss": "to give (to me/us)"
+      },
+      {
+       "surface": "ところ",
+       "pos": "noun",
+       "romaji": "tokoro",
+       "gloss": "place"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate/abstract)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Depending on the restaurant, some will lend you a fork.",
+     "audioStart": 194.112,
+     "audioEnd": 198.96
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "4.お茶碗は持って食べる",
+     "tokens": [
+      {
+       "surface": "4",
+       "pos": "noun",
+       "gloss": "numeral used as list-item marker"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "茶碗",
+       "pos": "noun",
+       "reading": "ちゃわん",
+       "romaji": "chawan",
+       "gloss": "rice bowl"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "持っ",
+       "pos": "verb",
+       "reading": "もっ",
+       "romaji": "motsu",
+       "lemma": "持つ",
+       "gloss": "to hold"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat"
+      }
+     ],
+     "translation": "4. Hold your rice bowl while eating",
+     "audioStart": 198.96,
+     "audioEnd": 202.272
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "和食や定食を頼むと、多くのレストランではご飯の入った茶碗と、味噌汁が入ったお椀が出てきます。",
+     "tokens": [
+      {
+       "surface": "和食",
+       "pos": "noun",
+       "reading": "わしょく",
+       "romaji": "washoku",
+       "gloss": "Japanese cuisine"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "listing particle: and/or"
+      },
+      {
+       "surface": "定食",
+       "pos": "noun",
+       "reading": "ていしょく",
+       "romaji": "teishoku",
+       "gloss": "set meal"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "頼む",
+       "pos": "verb",
+       "reading": "たのむ",
+       "romaji": "tanomu",
+       "gloss": "to ask, to order"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: and, with, quotative"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "多く",
+       "pos": "noun",
+       "reading": "おおく",
+       "romaji": "ooku",
+       "gloss": "many, much"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "レストラン",
+       "pos": "noun",
+       "romaji": "resutoran",
+       "gloss": "restaurant"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "ご飯",
+       "pos": "noun",
+       "reading": "ごはん",
+       "romaji": "gohan",
+       "gloss": "cooked rice, meal"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "入っ",
+       "pos": "verb",
+       "reading": "はいっ",
+       "romaji": "haitsu",
+       "lemma": "入る",
+       "gloss": "to enter"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "茶碗",
+       "pos": "noun",
+       "reading": "ちゃわん",
+       "romaji": "chawan",
+       "gloss": "rice bowl"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: and, with, quotative"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "味噌汁",
+       "pos": "noun",
+       "reading": "みそしる",
+       "romaji": "misoshiru",
+       "gloss": "miso soup"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "入っ",
+       "pos": "verb",
+       "reading": "はいっ",
+       "romaji": "haitsu",
+       "lemma": "入る",
+       "gloss": "to enter"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "椀",
+       "pos": "noun",
+       "reading": "わん",
+       "romaji": "wan",
+       "gloss": "bowl"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "出",
+       "pos": "verb",
+       "reading": "で",
+       "romaji": "de",
+       "lemma": "出る",
+       "gloss": "to come out, to appear"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "き",
+       "pos": "verb",
+       "romaji": "ki",
+       "lemma": "くる",
+       "gloss": "to come (auxiliary)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When you order washoku or a set meal, many restaurants will bring out a rice bowl with rice and a bowl with miso soup.",
+     "audioStart": 202.272,
+     "audioEnd": 211.68
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "こちらは食事のとき、手で持って食べます。",
+     "tokens": [
+      {
+       "surface": "こちら",
+       "pos": "pronoun",
+       "romaji": "kochira",
+       "gloss": "this one, here"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "食事",
+       "pos": "noun",
+       "reading": "しょくじ",
+       "romaji": "shokuji",
+       "gloss": "meal"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "time, when"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "手",
+       "pos": "noun",
+       "reading": "て",
+       "romaji": "te",
+       "gloss": "hand"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "持っ",
+       "pos": "verb",
+       "reading": "もっ",
+       "romaji": "motsu",
+       "lemma": "持つ",
+       "gloss": "to hold"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You hold these in your hand while eating.",
+     "audioStart": 211.68,
+     "audioEnd": 216.024
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "片手で持つことができるぐらい軽い器は持って食べます。",
+     "tokens": [
+      {
+       "surface": "片手",
+       "pos": "noun",
+       "reading": "かたて",
+       "romaji": "katate",
+       "gloss": "one hand"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "持つ",
+       "pos": "verb",
+       "reading": "もつ",
+       "romaji": "motsu",
+       "gloss": "to hold"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing (abstract), nominalizer"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "できる",
+       "pos": "verb",
+       "romaji": "dekiru",
+       "gloss": "to be able to"
+      },
+      {
+       "surface": "ぐらい",
+       "pos": "particle",
+       "romaji": "gurai",
+       "gloss": "approximately, about"
+      },
+      {
+       "surface": "軽い",
+       "pos": "adjective",
+       "reading": "かるい",
+       "romaji": "karui",
+       "gloss": "light (weight)"
+      },
+      {
+       "surface": "器",
+       "pos": "noun",
+       "reading": "うつわ",
+       "romaji": "utsuwa",
+       "gloss": "vessel, bowl"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "持っ",
+       "pos": "verb",
+       "reading": "もっ",
+       "romaji": "motsu",
+       "lemma": "持つ",
+       "gloss": "to hold"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Bowls light enough to hold in one hand should be held while eating.",
+     "audioStart": 216.024,
+     "audioEnd": 221.376
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "例えば小さい丼ぶり、小さい皿、小鉢などです。",
+     "tokens": [
+      {
+       "surface": "例えば",
+       "pos": "adverb",
+       "reading": "たとえば",
+       "romaji": "tatoeba",
+       "gloss": "for example"
+      },
+      {
+       "surface": "小さい",
+       "pos": "adjective",
+       "reading": "ちいさい",
+       "romaji": "chiisai",
+       "gloss": "small"
+      },
+      {
+       "surface": "丼",
+       "pos": "noun",
+       "reading": "どんぶり",
+       "romaji": "donburi",
+       "gloss": "donburi (rice bowl dish)"
+      },
+      {
+       "surface": "ぶり",
+       "pos": "suffix",
+       "romaji": "buri",
+       "gloss": "suffix forming 丼ぶり 'donburi bowl'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "小さい",
+       "pos": "adjective",
+       "reading": "ちいさい",
+       "romaji": "chiisai",
+       "gloss": "small"
+      },
+      {
+       "surface": "皿",
+       "pos": "noun",
+       "reading": "さら",
+       "romaji": "sara",
+       "gloss": "plate"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "小鉢",
+       "pos": "noun",
+       "reading": "こばち",
+       "romaji": "kobachi",
+       "gloss": "small bowl, side dish"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (polite 'is')"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "For example, small donburi bowls, small plates, and small side dishes.",
+     "audioStart": 221.376,
+     "audioEnd": 227.04
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ラーメンやうどんなどが入った大きい丼ぶりや平らな皿は持たないでください。",
+     "tokens": [
+      {
+       "surface": "ラーメン",
+       "pos": "noun",
+       "romaji": "raamen",
+       "gloss": "ramen"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "listing particle: and/or"
+      },
+      {
+       "surface": "うどん",
+       "pos": "noun",
+       "romaji": "udon",
+       "gloss": "udon noodles"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "入っ",
+       "pos": "verb",
+       "reading": "はいっ",
+       "romaji": "haitsu",
+       "lemma": "入る",
+       "gloss": "to enter"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "大きい",
+       "pos": "adjective",
+       "reading": "おおきい",
+       "romaji": "ookii",
+       "gloss": "big"
+      },
+      {
+       "surface": "丼",
+       "pos": "noun",
+       "reading": "どんぶり",
+       "romaji": "donburi",
+       "gloss": "donburi (rice bowl dish)"
+      },
+      {
+       "surface": "ぶり",
+       "pos": "suffix",
+       "romaji": "buri",
+       "gloss": "suffix forming 丼ぶり 'donburi bowl'"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "listing particle: and/or"
+      },
+      {
+       "surface": "平ら",
+       "pos": "adjective",
+       "reading": "たいら",
+       "romaji": "taira",
+       "gloss": "flat"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula (plain 'is')"
+      },
+      {
+       "surface": "皿",
+       "pos": "noun",
+       "reading": "さら",
+       "romaji": "sara",
+       "gloss": "plate"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "持た",
+       "pos": "verb",
+       "reading": "もた",
+       "romaji": "mota",
+       "lemma": "持つ",
+       "gloss": "to hold"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる",
+       "gloss": "to give (respectful; used in ~てください)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Please don't hold large donburi bowls containing ramen or udon, or flat plates.",
+     "audioStart": 227.04,
+     "audioEnd": 234.048
+    },
+    {
+     "text": "箸を持っていないほうの手で添えて食べるときれいな食べ方に見えます。",
+     "tokens": [
+      {
+       "surface": "箸",
+       "pos": "noun",
+       "reading": "はし",
+       "romaji": "hashi",
+       "gloss": "chopsticks"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "持っ",
+       "pos": "verb",
+       "reading": "もっ",
+       "romaji": "motsu",
+       "lemma": "持つ",
+       "gloss": "to hold"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (animate); auxiliary for ongoing action"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix"
+      },
+      {
+       "surface": "ほう",
+       "pos": "noun",
+       "romaji": "hou",
+       "gloss": "direction, side (the ~ one)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "手",
+       "pos": "noun",
+       "reading": "て",
+       "romaji": "te",
+       "gloss": "hand"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "添え",
+       "pos": "verb",
+       "reading": "そえ",
+       "romaji": "soe",
+       "lemma": "添える",
+       "gloss": "to add, to support alongside"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: and, with, quotative"
+      },
+      {
+       "surface": "きれい",
+       "pos": "adjective",
+       "romaji": "kirei",
+       "gloss": "pretty, neat"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula (plain 'is')"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "方",
+       "pos": "suffix",
+       "reading": "かた",
+       "romaji": "kata",
+       "gloss": "way, manner (as in 食べ方)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "見え",
+       "pos": "verb",
+       "reading": "みえ",
+       "romaji": "mie",
+       "lemma": "見える",
+       "gloss": "to look, to appear, to be visible"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Supporting the bowl with the hand not holding your chopsticks makes for a neater way of eating.",
+     "audioStart": 234.048,
+     "audioEnd": 240.672
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "5.テーブルに肘をつけない",
+     "tokens": [
+      {
+       "surface": "5",
+       "pos": "noun",
+       "gloss": "numeral used as list-item marker"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      },
+      {
+       "surface": "テーブル",
+       "pos": "noun",
+       "romaji": "teeburu",
+       "gloss": "table"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "肘",
+       "pos": "noun",
+       "reading": "ひじ",
+       "romaji": "hiji",
+       "gloss": "elbow"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "つけ",
+       "pos": "verb",
+       "romaji": "tsuke",
+       "lemma": "つける",
+       "gloss": "to attach, to pay (attention)"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix"
+      }
+     ],
+     "translation": "5. Don't put your elbows on the table",
+     "audioStart": 240.672,
+     "audioEnd": 243.888
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "テーブルの上に肘をついて食べると、姿勢が悪くなります。",
+     "tokens": [
+      {
+       "surface": "テーブル",
+       "pos": "noun",
+       "romaji": "teeburu",
+       "gloss": "table"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "上",
+       "pos": "noun",
+       "reading": "うえ",
+       "romaji": "ue",
+       "gloss": "top, on"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "肘",
+       "pos": "noun",
+       "reading": "ひじ",
+       "romaji": "hiji",
+       "gloss": "elbow"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "つい",
+       "pos": "verb",
+       "romaji": "tsui",
+       "lemma": "つく",
+       "gloss": "to attach (root of について 'regarding')"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: and, with, quotative"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "姿勢",
+       "pos": "noun",
+       "reading": "しせい",
+       "romaji": "shisei",
+       "gloss": "posture"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "悪く",
+       "pos": "adjective",
+       "reading": "わるく",
+       "romaji": "waruku",
+       "lemma": "悪い",
+       "gloss": "bad"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Eating with your elbows on the table results in poor posture.",
+     "audioStart": 243.888,
+     "audioEnd": 249.552
+    },
+    {
+     "text": "そして、他の人が肘をついたあなたを見ると「悪い」と思います。",
+     "tokens": [
+      {
+       "surface": "そして",
+       "pos": "conjunction",
+       "romaji": "soshite",
+       "gloss": "and then, also"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "他",
+       "pos": "noun",
+       "reading": "た",
+       "romaji": "ta",
+       "gloss": "other"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "肘",
+       "pos": "noun",
+       "reading": "ひじ",
+       "romaji": "hiji",
+       "gloss": "elbow"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "つい",
+       "pos": "verb",
+       "romaji": "tsui",
+       "lemma": "つく",
+       "gloss": "to attach (root of について 'regarding')"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "あなた",
+       "pos": "pronoun",
+       "romaji": "anata",
+       "gloss": "you"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "見る",
+       "pos": "verb",
+       "reading": "みる",
+       "romaji": "miru",
+       "gloss": "to see"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: and, with, quotative"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "悪い",
+       "pos": "adjective",
+       "reading": "わるい",
+       "romaji": "warui",
+       "gloss": "bad"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: and, with, quotative"
+      },
+      {
+       "surface": "思い",
+       "pos": "verb",
+       "reading": "おもい",
+       "romaji": "omoi",
+       "lemma": "思う",
+       "gloss": "to think"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Also, other people who see you with your elbows on the table will think it looks bad.",
+     "audioStart": 249.552,
+     "audioEnd": 256.248
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "腕は持ち上げて食事をします。",
+     "tokens": [
+      {
+       "surface": "腕",
+       "pos": "noun",
+       "reading": "うで",
+       "romaji": "ude",
+       "gloss": "arm"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "持ち上げ",
+       "pos": "verb",
+       "reading": "もちあげ",
+       "romaji": "mochiage",
+       "lemma": "持ち上げる",
+       "gloss": "to lift up"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "食事",
+       "pos": "noun",
+       "reading": "しょくじ",
+       "romaji": "shokuji",
+       "gloss": "meal"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Keep your arms raised while eating.",
+     "audioStart": 256.248,
+     "audioEnd": 259.752
+    },
+    {
+     "text": "そして、箸を持っていないほうの手はテーブルの上におくか、器に添えましょう。",
+     "tokens": [
+      {
+       "surface": "そして",
+       "pos": "conjunction",
+       "romaji": "soshite",
+       "gloss": "and then, also"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "箸",
+       "pos": "noun",
+       "reading": "はし",
+       "romaji": "hashi",
+       "gloss": "chopsticks"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "持っ",
+       "pos": "verb",
+       "reading": "もっ",
+       "romaji": "motsu",
+       "lemma": "持つ",
+       "gloss": "to hold"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (animate); auxiliary for ongoing action"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix"
+      },
+      {
+       "surface": "ほう",
+       "pos": "noun",
+       "romaji": "hou",
+       "gloss": "direction, side (the ~ one)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "手",
+       "pos": "noun",
+       "reading": "て",
+       "romaji": "te",
+       "gloss": "hand"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "テーブル",
+       "pos": "noun",
+       "romaji": "teeburu",
+       "gloss": "table"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "上",
+       "pos": "noun",
+       "reading": "うえ",
+       "romaji": "ue",
+       "gloss": "top, on"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "おく",
+       "pos": "verb",
+       "romaji": "oku",
+       "gloss": "to do in advance (auxiliary)"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question particle"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "器",
+       "pos": "noun",
+       "reading": "うつわ",
+       "romaji": "utsuwa",
+       "gloss": "vessel, bowl"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "添え",
+       "pos": "verb",
+       "reading": "そえ",
+       "romaji": "soe",
+       "lemma": "添える",
+       "gloss": "to add, to support alongside"
+      },
+      {
+       "surface": "ましょう",
+       "pos": "auxiliary",
+       "romaji": "mashou",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "And place the hand not holding your chopsticks on the table, or use it to support your bowl.",
+     "audioStart": 259.752,
+     "audioEnd": 267.096
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "6. 汁や麺を食べるときは音を出しても大丈夫",
+     "tokens": [
+      {
+       "surface": "6",
+       "pos": "noun",
+       "gloss": "numeral used as list-item marker"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      },
+      {
+       "surface": "汁",
+       "pos": "noun",
+       "reading": "しる",
+       "romaji": "shiru",
+       "gloss": "soup, broth"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "listing particle: and/or"
+      },
+      {
+       "surface": "麺",
+       "pos": "noun",
+       "reading": "めん",
+       "romaji": "men",
+       "gloss": "noodles"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "time, when"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "音",
+       "pos": "noun",
+       "reading": "おと",
+       "romaji": "oto",
+       "gloss": "sound"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "出し",
+       "pos": "verb",
+       "reading": "だし",
+       "romaji": "dashi",
+       "lemma": "出す",
+       "gloss": "to put out, to serve"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "大丈夫",
+       "pos": "adjective",
+       "reading": "だいじょうぶ",
+       "romaji": "daijoubu",
+       "gloss": "okay, fine"
+      }
+     ],
+     "translation": "6. It's okay to make noise when eating soup or noodles",
+     "audioStart": 267.096,
+     "audioEnd": 272.376
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "味噌汁、ラーメン、うどん、お茶など、和食で温かい汁の料理は音を出して食べても大丈夫です。",
+     "tokens": [
+      {
+       "surface": "味噌汁",
+       "pos": "noun",
+       "reading": "みそしる",
+       "romaji": "misoshiru",
+       "gloss": "miso soup"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ラーメン",
+       "pos": "noun",
+       "romaji": "raamen",
+       "gloss": "ramen"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "うどん",
+       "pos": "noun",
+       "romaji": "udon",
+       "gloss": "udon noodles"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "茶",
+       "pos": "noun",
+       "reading": "ちゃ",
+       "romaji": "cha",
+       "gloss": "tea"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "和食",
+       "pos": "noun",
+       "reading": "わしょく",
+       "romaji": "washoku",
+       "gloss": "Japanese cuisine"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "温かい",
+       "pos": "adjective",
+       "reading": "あたたかい",
+       "romaji": "atatakai",
+       "gloss": "warm"
+      },
+      {
+       "surface": "汁",
+       "pos": "noun",
+       "reading": "しる",
+       "romaji": "shiru",
+       "gloss": "soup, broth"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "料理",
+       "pos": "noun",
+       "reading": "りょうり",
+       "romaji": "ryouri",
+       "gloss": "cuisine, cooking"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "音",
+       "pos": "noun",
+       "reading": "おと",
+       "romaji": "oto",
+       "gloss": "sound"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "出し",
+       "pos": "verb",
+       "reading": "だし",
+       "romaji": "dashi",
+       "lemma": "出す",
+       "gloss": "to put out, to serve"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "大丈夫",
+       "pos": "adjective",
+       "reading": "だいじょうぶ",
+       "romaji": "daijoubu",
+       "gloss": "okay, fine"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (polite 'is')"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "For hot soup dishes in Japanese cuisine like miso soup, ramen, udon, and tea, it's fine to make noise while eating.",
+     "audioStart": 272.376,
+     "audioEnd": 281.976
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "麺や具を食べる時は箸を使い、汁を飲むときは両手でお椀を持ってそのまま飲むことが多いです。",
+     "tokens": [
+      {
+       "surface": "麺",
+       "pos": "noun",
+       "reading": "めん",
+       "romaji": "men",
+       "gloss": "noodles"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "listing particle: and/or"
+      },
+      {
+       "surface": "具",
+       "pos": "noun",
+       "reading": "ぐ",
+       "romaji": "gu",
+       "gloss": "ingredients (in a soup/dish)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "時",
+       "pos": "noun",
+       "reading": "とき",
+       "romaji": "toki",
+       "gloss": "time, when"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "箸",
+       "pos": "noun",
+       "reading": "はし",
+       "romaji": "hashi",
+       "gloss": "chopsticks"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "使い",
+       "pos": "verb",
+       "reading": "つかい",
+       "romaji": "tsukai",
+       "lemma": "使う",
+       "gloss": "to use"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "汁",
+       "pos": "noun",
+       "reading": "しる",
+       "romaji": "shiru",
+       "gloss": "soup, broth"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "飲む",
+       "pos": "verb",
+       "reading": "のむ",
+       "romaji": "nomu",
+       "gloss": "to drink"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "time, when"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "両手",
+       "pos": "noun",
+       "reading": "りょうて",
+       "romaji": "ryoute",
+       "gloss": "both hands"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "椀",
+       "pos": "noun",
+       "reading": "わん",
+       "romaji": "wan",
+       "gloss": "bowl"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "持っ",
+       "pos": "verb",
+       "reading": "もっ",
+       "romaji": "motsu",
+       "lemma": "持つ",
+       "gloss": "to hold"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "そのまま",
+       "pos": "noun",
+       "romaji": "sonomama",
+       "gloss": "as is, without change"
+      },
+      {
+       "surface": "飲む",
+       "pos": "verb",
+       "reading": "のむ",
+       "romaji": "nomu",
+       "gloss": "to drink"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing (abstract), nominalizer"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "多い",
+       "pos": "adjective",
+       "reading": "おおい",
+       "romaji": "ooi",
+       "gloss": "many, much"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (polite 'is')"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When eating the noodles or ingredients, people use chopsticks, and when drinking the broth, they often hold the bowl with both hands and drink directly from it.",
+     "audioStart": 281.976,
+     "audioEnd": 291.096
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "しかし、すべて音を出してもいいわけではありません。",
+     "tokens": [
+      {
+       "surface": "しかし",
+       "pos": "conjunction",
+       "romaji": "shikashi",
+       "gloss": "however"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "すべて",
+       "pos": "noun",
+       "romaji": "subete",
+       "gloss": "all, everything"
+      },
+      {
+       "surface": "音",
+       "pos": "noun",
+       "reading": "おと",
+       "romaji": "oto",
+       "gloss": "sound"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "出し",
+       "pos": "verb",
+       "reading": "だし",
+       "romaji": "dashi",
+       "lemma": "出す",
+       "gloss": "to put out, to serve"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good"
+      },
+      {
+       "surface": "わけ",
+       "pos": "noun",
+       "romaji": "wake",
+       "gloss": "reason, sense (わけではない 'it's not that...')"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate/abstract)"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "classical negative auxiliary (root seen in ~ません)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "However, it's not the case that any noise at all is acceptable.",
+     "audioStart": 291.096,
+     "audioEnd": 296.088
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "器を置くときの音や、食べたときの咀嚼音は出してはいけません。",
+     "tokens": [
+      {
+       "surface": "器",
+       "pos": "noun",
+       "reading": "うつわ",
+       "romaji": "utsuwa",
+       "gloss": "vessel, bowl"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "置く",
+       "pos": "verb",
+       "reading": "おく",
+       "romaji": "oku",
+       "gloss": "to put, to place"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "time, when"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "音",
+       "pos": "noun",
+       "reading": "おと",
+       "romaji": "oto",
+       "gloss": "sound"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "listing particle: and/or"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "time, when"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "咀嚼",
+       "pos": "noun",
+       "reading": "そしゃく",
+       "romaji": "soshaku",
+       "gloss": "chewing, mastication"
+      },
+      {
+       "surface": "音",
+       "pos": "noun",
+       "reading": "おん",
+       "romaji": "on",
+       "gloss": "sound"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "出し",
+       "pos": "verb",
+       "reading": "だし",
+       "romaji": "dashi",
+       "lemma": "出す",
+       "gloss": "to put out, to serve"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "いけ",
+       "pos": "verb",
+       "romaji": "ike",
+       "lemma": "いける",
+       "gloss": "to be permissible (used in negative いけない 'must not')"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "classical negative auxiliary (root seen in ~ません)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You shouldn't make noise when putting down a dish, or make chewing sounds while eating.",
+     "audioStart": 296.088,
+     "audioEnd": 302.304
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "食事中に鼻をかむときも、席から離れた音が聞こえないところでしましょう。",
+     "tokens": [
+      {
+       "surface": "食事",
+       "pos": "noun",
+       "reading": "しょくじ",
+       "romaji": "shokuji",
+       "gloss": "meal"
+      },
+      {
+       "surface": "中",
+       "pos": "suffix",
+       "reading": "ちゅう",
+       "romaji": "chuu",
+       "gloss": "inside, during"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "鼻",
+       "pos": "noun",
+       "reading": "はな",
+       "romaji": "hana",
+       "gloss": "nose"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "かむ",
+       "pos": "verb",
+       "romaji": "kamu",
+       "gloss": "to blow (one's nose), to bite"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "time, when"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "席",
+       "pos": "noun",
+       "reading": "せき",
+       "romaji": "seki",
+       "gloss": "seat"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "because; from"
+      },
+      {
+       "surface": "離れ",
+       "pos": "verb",
+       "reading": "はなれ",
+       "romaji": "hanare",
+       "lemma": "離れる",
+       "gloss": "to leave, to be away from"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "音",
+       "pos": "noun",
+       "reading": "おと",
+       "romaji": "oto",
+       "gloss": "sound"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "聞こえ",
+       "pos": "verb",
+       "reading": "きこえ",
+       "romaji": "kikoe",
+       "lemma": "聞こえる",
+       "gloss": "to be audible, to be heard"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix"
+      },
+      {
+       "surface": "ところ",
+       "pos": "noun",
+       "romaji": "tokoro",
+       "gloss": "place"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "ましょう",
+       "pos": "auxiliary",
+       "romaji": "mashou",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If you need to blow your nose during a meal, do it away from your seat where the sound can't be heard.",
+     "audioStart": 302.304,
+     "audioEnd": 309.504
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "音を出してもいいかわからないときは、出さないで食べたほうがいいです。",
+     "tokens": [
+      {
+       "surface": "音",
+       "pos": "noun",
+       "reading": "おと",
+       "romaji": "oto",
+       "gloss": "sound"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "出し",
+       "pos": "verb",
+       "reading": "だし",
+       "romaji": "dashi",
+       "lemma": "出す",
+       "gloss": "to put out, to serve"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question particle"
+      },
+      {
+       "surface": "わから",
+       "pos": "verb",
+       "romaji": "wakara",
+       "lemma": "わかる",
+       "gloss": "to understand, to know"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "time, when"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "出さ",
+       "pos": "verb",
+       "reading": "ださ",
+       "romaji": "dasa",
+       "lemma": "出す",
+       "gloss": "to put out, to serve"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "ほう",
+       "pos": "noun",
+       "romaji": "hou",
+       "gloss": "direction, side (the ~ one)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (polite 'is')"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If you're not sure whether it's okay to make noise, it's better to eat without making any.",
+     "audioStart": 309.504,
+     "audioEnd": 315.528
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "7．食事はぜんぶ食べる",
+     "tokens": [
+      {
+       "surface": "7",
+       "pos": "noun",
+       "gloss": "numeral used as list-item marker"
+      },
+      {
+       "surface": "．",
+       "pos": "punct"
+      },
+      {
+       "surface": "食事",
+       "pos": "noun",
+       "reading": "しょくじ",
+       "romaji": "shokuji",
+       "gloss": "meal"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "ぜんぶ",
+       "pos": "noun",
+       "romaji": "zenbu",
+       "gloss": "all, everything"
+      },
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat"
+      }
+     ],
+     "translation": "7. Eat everything you order",
+     "audioStart": 315.528,
+     "audioEnd": 318.936
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "料理は食べることができるものだけ頼みましょう。",
+     "tokens": [
+      {
+       "surface": "料理",
+       "pos": "noun",
+       "reading": "りょうり",
+       "romaji": "ryouri",
+       "gloss": "cuisine, cooking"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing (abstract), nominalizer"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "できる",
+       "pos": "verb",
+       "romaji": "dekiru",
+       "gloss": "to be able to"
+      },
+      {
+       "surface": "もの",
+       "pos": "noun",
+       "romaji": "mono",
+       "gloss": "thing"
+      },
+      {
+       "surface": "だけ",
+       "pos": "particle",
+       "romaji": "dake",
+       "gloss": "only"
+      },
+      {
+       "surface": "頼み",
+       "pos": "verb",
+       "reading": "たのみ",
+       "romaji": "tanomi",
+       "lemma": "頼む",
+       "gloss": "to ask, to order"
+      },
+      {
+       "surface": "ましょう",
+       "pos": "auxiliary",
+       "romaji": "mashou",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Order only dishes you're able to finish.",
+     "audioStart": 318.936,
+     "audioEnd": 323.352
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "日本では残さないで食べることが、料理を作ってくれた人や、食材にありがとうという気持ちを伝えることになります。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "残さ",
+       "pos": "verb",
+       "reading": "のこさ",
+       "romaji": "nokosa",
+       "lemma": "残す",
+       "gloss": "to leave behind, to not finish"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing (abstract), nominalizer"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "料理",
+       "pos": "noun",
+       "reading": "りょうり",
+       "romaji": "ryouri",
+       "gloss": "cuisine, cooking"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "作っ",
+       "pos": "verb",
+       "reading": "つくっ",
+       "romaji": "tsukutsu",
+       "lemma": "作る",
+       "gloss": "to make"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "くれ",
+       "pos": "verb",
+       "romaji": "kure",
+       "lemma": "くれる",
+       "gloss": "to give (to me/us)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "listing particle: and/or"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "食材",
+       "pos": "noun",
+       "reading": "しょくざい",
+       "romaji": "shokuzai",
+       "gloss": "ingredients"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "ありがとう",
+       "pos": "interjection",
+       "romaji": "arigatou",
+       "gloss": "thank you"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: and, with, quotative"
+      },
+      {
+       "surface": "いう",
+       "pos": "verb",
+       "romaji": "iu",
+       "gloss": "to say"
+      },
+      {
+       "surface": "気持ち",
+       "pos": "noun",
+       "reading": "きもち",
+       "romaji": "kimochi",
+       "gloss": "feeling"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "伝える",
+       "pos": "verb",
+       "reading": "つたえる",
+       "romaji": "tsutaeru",
+       "gloss": "to convey, to tell"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing (abstract), nominalizer"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In Japan, eating without leaving anything is a way of expressing thanks to the people who cooked the food and to the ingredients.",
+     "audioStart": 323.352,
+     "audioEnd": 333.624
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "アレルギーや食べることができない食材があるときは、店の人に伝えてみましょう。",
+     "tokens": [
+      {
+       "surface": "アレルギー",
+       "pos": "noun",
+       "romaji": "arerugii",
+       "gloss": "allergy"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "listing particle: and/or"
+      },
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing (abstract), nominalizer"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix"
+      },
+      {
+       "surface": "食材",
+       "pos": "noun",
+       "reading": "しょくざい",
+       "romaji": "shokuzai",
+       "gloss": "ingredients"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "ある",
+       "pos": "verb",
+       "romaji": "aru",
+       "gloss": "to exist (inanimate/abstract)"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "time, when"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "店",
+       "pos": "noun",
+       "reading": "みせ",
+       "romaji": "mise",
+       "gloss": "shop, restaurant"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "伝え",
+       "pos": "verb",
+       "reading": "つたえ",
+       "romaji": "tsutae",
+       "lemma": "伝える",
+       "gloss": "to convey, to tell"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "み",
+       "pos": "verb",
+       "romaji": "mi",
+       "lemma": "みる",
+       "gloss": "to try (~てみる)"
+      },
+      {
+       "surface": "ましょう",
+       "pos": "auxiliary",
+       "romaji": "mashou",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If you have allergies or ingredients you can't eat, try telling the restaurant staff.",
+     "audioStart": 333.624,
+     "audioEnd": 340.8
+    },
+    {
+     "text": "その食べ物を料理に入れないでくれる店もあります。",
+     "tokens": [
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that (attributive)"
+      },
+      {
+       "surface": "食べ物",
+       "pos": "noun",
+       "reading": "たべもの",
+       "romaji": "tabemono",
+       "gloss": "food"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "料理",
+       "pos": "noun",
+       "reading": "りょうり",
+       "romaji": "ryouri",
+       "gloss": "cuisine, cooking"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "入れ",
+       "pos": "verb",
+       "reading": "いれ",
+       "romaji": "ire",
+       "lemma": "入れる",
+       "gloss": "to put in"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "くれる",
+       "pos": "verb",
+       "romaji": "kureru",
+       "gloss": "to give (to me/us)"
+      },
+      {
+       "surface": "店",
+       "pos": "noun",
+       "reading": "みせ",
+       "romaji": "mise",
+       "gloss": "shop, restaurant"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate/abstract)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Some restaurants will leave that food out of the dish for you.",
+     "audioStart": 340.8,
+     "audioEnd": 345.648
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "しかしお腹がいっぱいになったときなど、どうしても食べることができないときは無理に食べなくても大丈夫です。",
+     "tokens": [
+      {
+       "surface": "しかし",
+       "pos": "conjunction",
+       "romaji": "shikashi",
+       "gloss": "however"
+      },
+      {
+       "surface": "お腹",
+       "pos": "noun",
+       "reading": "おなか",
+       "romaji": "onaka",
+       "gloss": "stomach"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "いっぱい",
+       "pos": "noun",
+       "romaji": "ippai",
+       "gloss": "full"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula (plain 'is')"
+      },
+      {
+       "surface": "なっ",
+       "pos": "verb",
+       "romaji": "natsu",
+       "lemma": "なる",
+       "gloss": "to become"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "time, when"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "どう",
+       "pos": "adverb",
+       "romaji": "dou",
+       "gloss": "how"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing (abstract), nominalizer"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "time, when"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "無理",
+       "pos": "noun",
+       "reading": "むり",
+       "romaji": "muri",
+       "gloss": "unreasonable, forcing oneself"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat"
+      },
+      {
+       "surface": "なく",
+       "pos": "auxiliary",
+       "romaji": "naku",
+       "lemma": "ない",
+       "gloss": "negative suffix"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "大丈夫",
+       "pos": "adjective",
+       "reading": "だいじょうぶ",
+       "romaji": "daijoubu",
+       "gloss": "okay, fine"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (polite 'is')"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "However, in situations such as when you're already full and simply can't eat any more, it's okay not to force yourself.",
+     "audioStart": 345.648,
+     "audioEnd": 354.864
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "そのときは店の人に「おいしかったです」などありがとうという気持ちを伝えて店を出ましょう。",
+     "tokens": [
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that (attributive)"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "time, when"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "店",
+       "pos": "noun",
+       "reading": "みせ",
+       "romaji": "mise",
+       "gloss": "shop, restaurant"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "おいしかっ",
+       "pos": "adjective",
+       "romaji": "oishikatsu",
+       "lemma": "おいしい",
+       "gloss": "delicious"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (polite 'is')"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "ありがとう",
+       "pos": "interjection",
+       "romaji": "arigatou",
+       "gloss": "thank you"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: and, with, quotative"
+      },
+      {
+       "surface": "いう",
+       "pos": "verb",
+       "romaji": "iu",
+       "gloss": "to say"
+      },
+      {
+       "surface": "気持ち",
+       "pos": "noun",
+       "reading": "きもち",
+       "romaji": "kimochi",
+       "gloss": "feeling"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "伝え",
+       "pos": "verb",
+       "reading": "つたえ",
+       "romaji": "tsutae",
+       "lemma": "伝える",
+       "gloss": "to convey, to tell"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "店",
+       "pos": "noun",
+       "reading": "みせ",
+       "romaji": "mise",
+       "gloss": "shop, restaurant"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "出",
+       "pos": "verb",
+       "reading": "で",
+       "romaji": "de",
+       "lemma": "出る",
+       "gloss": "to come out, to appear"
+      },
+      {
+       "surface": "ましょう",
+       "pos": "auxiliary",
+       "romaji": "mashou",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In that case, tell the restaurant staff something like \"It was delicious\" to express your thanks before leaving.",
+     "audioStart": 354.864,
+     "audioEnd": 363.096
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "まとめ",
+     "tokens": [
+      {
+       "surface": "まとめ",
+       "pos": "noun",
+       "romaji": "matome",
+       "gloss": "summary"
+      }
+     ],
+     "translation": "Summary",
+     "audioStart": 363.096,
+     "audioEnd": 364.872
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "楽しい食事の時間なので、マナーを知らないで他の人に迷惑をかけてしまったり、注意されて嫌な気持ちになりたくないですね。",
+     "tokens": [
+      {
+       "surface": "楽しい",
+       "pos": "adjective",
+       "reading": "たのしい",
+       "romaji": "tanoshii",
+       "gloss": "fun, enjoyable"
+      },
+      {
+       "surface": "食事",
+       "pos": "noun",
+       "reading": "しょくじ",
+       "romaji": "shokuji",
+       "gloss": "meal"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "時間",
+       "pos": "noun",
+       "reading": "じかん",
+       "romaji": "jikan",
+       "gloss": "time"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula (plain 'is')"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula (plain 'is')"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "マナー",
+       "pos": "noun",
+       "romaji": "manaa",
+       "gloss": "manners"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "知ら",
+       "pos": "verb",
+       "reading": "しら",
+       "romaji": "shira",
+       "lemma": "知る",
+       "gloss": "to know"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "他",
+       "pos": "noun",
+       "reading": "ほか",
+       "romaji": "hoka",
+       "gloss": "other"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "迷惑",
+       "pos": "noun",
+       "reading": "めいわく",
+       "romaji": "meiwaku",
+       "gloss": "trouble, inconvenience"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "かけ",
+       "pos": "verb",
+       "romaji": "kake",
+       "lemma": "かける",
+       "gloss": "to cause (trouble), to put on"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "しまっ",
+       "pos": "verb",
+       "romaji": "shimatsu",
+       "lemma": "しまう",
+       "gloss": "auxiliary verb indicating completion/regret"
+      },
+      {
+       "surface": "たり",
+       "pos": "particle",
+       "romaji": "tari",
+       "gloss": "listing/exemplifying suffix (~たり~たり)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "注意",
+       "pos": "noun",
+       "reading": "ちゅうい",
+       "romaji": "chuui",
+       "gloss": "caution, being warned"
+      },
+      {
+       "surface": "さ",
+       "pos": "verb",
+       "romaji": "sa",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive/potential suffix"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "嫌",
+       "pos": "adjective",
+       "reading": "いや",
+       "romaji": "iya",
+       "gloss": "unpleasant, disliked"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula (plain 'is')"
+      },
+      {
+       "surface": "気持ち",
+       "pos": "noun",
+       "reading": "きもち",
+       "romaji": "kimochi",
+       "gloss": "feeling"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become"
+      },
+      {
+       "surface": "たく",
+       "pos": "auxiliary",
+       "romaji": "taku",
+       "lemma": "たい",
+       "gloss": "want to (desire suffix)"
+      },
+      {
+       "surface": "ない",
+       "pos": "adjective",
+       "romaji": "nai",
+       "gloss": "negative suffix"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (polite 'is')"
+      },
+      {
+       "surface": "ね",
+       "pos": "particle",
+       "romaji": "ne",
+       "gloss": "sentence-ending particle seeking agreement"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Since mealtime should be enjoyable, you probably don't want to inconvenience others by not knowing the manners, or feel bad about being corrected.",
+     "audioStart": 364.872,
+     "audioEnd": 376.008
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "マナーを守って、日本の食事をたくさん楽しんでください。",
+     "tokens": [
+      {
+       "surface": "マナー",
+       "pos": "noun",
+       "romaji": "manaa",
+       "gloss": "manners"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "守っ",
+       "pos": "verb",
+       "reading": "まもっ",
+       "romaji": "mamotsu",
+       "lemma": "守る",
+       "gloss": "to keep/follow (rules)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form: connects verbs/clauses"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "食事",
+       "pos": "noun",
+       "reading": "しょくじ",
+       "romaji": "shokuji",
+       "gloss": "meal"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many"
+      },
+      {
+       "surface": "楽しん",
+       "pos": "verb",
+       "reading": "たのしん",
+       "romaji": "tanoshin",
+       "lemma": "楽しむ",
+       "gloss": "to enjoy"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means or location)"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる",
+       "gloss": "to give (respectful; used in ~てください)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Please follow proper manners and thoroughly enjoy Japanese food.",
+     "audioStart": 376.008,
+     "audioEnd": 381.576
+    }
+   ]
+  }
+ ]
+}

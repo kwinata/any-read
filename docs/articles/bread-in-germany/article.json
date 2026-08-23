@@ -1,0 +1,884 @@
+{
+ "schemaVersion": 1,
+ "id": "bread-in-germany",
+ "language": "de",
+ "title": "Brot in Deutschland",
+ "titleTranslation": "Bread in Germany",
+ "level": "A1",
+ "summary": "This article describes Germany's rich bread culture, from the many varieties bakers make fresh daily to how bread is eaten at breakfast and dinner.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-23T03:49:10+00:00",
+ "audioFile": "audio.mp3",
+ "voice": "de-DE-AmalaNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "In Deutschland gibt es sehr viel Brot.",
+     "tokens": [
+      {
+       "surface": "In",
+       "pos": "word",
+       "gloss": "in (preposition)"
+      },
+      {
+       "surface": "Deutschland",
+       "pos": "word",
+       "gloss": "Germany"
+      },
+      {
+       "surface": "gibt",
+       "pos": "word",
+       "gloss": "gives (from 'geben'; 'es gibt' = there is/are)"
+      },
+      {
+       "surface": "es",
+       "pos": "word",
+       "gloss": "it"
+      },
+      {
+       "surface": "sehr",
+       "pos": "word",
+       "gloss": "very"
+      },
+      {
+       "surface": "viel",
+       "pos": "word",
+       "gloss": "much/a lot"
+      },
+      {
+       "surface": "Brot",
+       "pos": "word",
+       "gloss": "bread"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In Germany there is a lot of bread.",
+     "audioStart": 0.0,
+     "audioEnd": 3.648
+    },
+    {
+     "text": "Es gibt über 300 Brotsorten.",
+     "tokens": [
+      {
+       "surface": "Es",
+       "pos": "word",
+       "gloss": "it (sentence-initial)"
+      },
+      {
+       "surface": "gibt",
+       "pos": "word",
+       "gloss": "gives (from 'geben'; 'es gibt' = there is/are)"
+      },
+      {
+       "surface": "über",
+       "pos": "word",
+       "gloss": "over/more than"
+      },
+      {
+       "surface": "300",
+       "pos": "number"
+      },
+      {
+       "surface": "Brotsorten",
+       "pos": "word",
+       "gloss": "types of bread"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are over 300 types of bread.",
+     "audioStart": 3.648,
+     "audioEnd": 7.92
+    },
+    {
+     "text": "Das ist eine große Zahl!",
+     "tokens": [
+      {
+       "surface": "Das",
+       "pos": "word",
+       "gloss": "that/this"
+      },
+      {
+       "surface": "ist",
+       "pos": "word",
+       "gloss": "is"
+      },
+      {
+       "surface": "eine",
+       "pos": "word",
+       "gloss": "a/an (feminine)"
+      },
+      {
+       "surface": "große",
+       "pos": "word",
+       "gloss": "large/big"
+      },
+      {
+       "surface": "Zahl",
+       "pos": "word",
+       "gloss": "number"
+      },
+      {
+       "surface": "!",
+       "pos": "punct"
+      }
+     ],
+     "translation": "That is a large number!",
+     "audioStart": 7.92,
+     "audioEnd": 10.944
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "Viele Menschen kaufen ihr Brot beim Bäcker.",
+     "tokens": [
+      {
+       "surface": "Viele",
+       "pos": "word",
+       "gloss": "many"
+      },
+      {
+       "surface": "Menschen",
+       "pos": "word",
+       "gloss": "people"
+      },
+      {
+       "surface": "kaufen",
+       "pos": "word",
+       "gloss": "buy"
+      },
+      {
+       "surface": "ihr",
+       "pos": "word",
+       "gloss": "their"
+      },
+      {
+       "surface": "Brot",
+       "pos": "word",
+       "gloss": "bread"
+      },
+      {
+       "surface": "beim",
+       "pos": "word",
+       "gloss": "at the (bei + dem)"
+      },
+      {
+       "surface": "Bäcker",
+       "pos": "word",
+       "gloss": "baker/bakery"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many people buy their bread at the bakery.",
+     "audioStart": 10.944,
+     "audioEnd": 14.904
+    },
+    {
+     "text": "Der Bäcker macht das Brot jeden Morgen frisch.",
+     "tokens": [
+      {
+       "surface": "Der",
+       "pos": "word",
+       "gloss": "the (masculine, subject)"
+      },
+      {
+       "surface": "Bäcker",
+       "pos": "word",
+       "gloss": "baker/bakery"
+      },
+      {
+       "surface": "macht",
+       "pos": "word",
+       "gloss": "makes"
+      },
+      {
+       "surface": "das",
+       "pos": "word",
+       "gloss": "the/that (neuter)"
+      },
+      {
+       "surface": "Brot",
+       "pos": "word",
+       "gloss": "bread"
+      },
+      {
+       "surface": "jeden",
+       "pos": "word",
+       "gloss": "every (accusative masculine)"
+      },
+      {
+       "surface": "Morgen",
+       "pos": "word",
+       "gloss": "morning"
+      },
+      {
+       "surface": "frisch",
+       "pos": "word",
+       "gloss": "fresh"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The baker makes the bread fresh every morning.",
+     "audioStart": 14.904,
+     "audioEnd": 18.72
+    },
+    {
+     "text": "Das Brot ist dann noch warm.",
+     "tokens": [
+      {
+       "surface": "Das",
+       "pos": "word",
+       "gloss": "that/this"
+      },
+      {
+       "surface": "Brot",
+       "pos": "word",
+       "gloss": "bread"
+      },
+      {
+       "surface": "ist",
+       "pos": "word",
+       "gloss": "is"
+      },
+      {
+       "surface": "dann",
+       "pos": "word",
+       "gloss": "then"
+      },
+      {
+       "surface": "noch",
+       "pos": "word",
+       "gloss": "still"
+      },
+      {
+       "surface": "warm",
+       "pos": "word",
+       "gloss": "warm"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The bread is then still warm.",
+     "audioStart": 18.72,
+     "audioEnd": 21.792
+    },
+    {
+     "text": "Viele Leute lieben den Geruch von frischem Brot.",
+     "tokens": [
+      {
+       "surface": "Viele",
+       "pos": "word",
+       "gloss": "many"
+      },
+      {
+       "surface": "Leute",
+       "pos": "word",
+       "gloss": "people"
+      },
+      {
+       "surface": "lieben",
+       "pos": "word",
+       "gloss": "love"
+      },
+      {
+       "surface": "den",
+       "pos": "word",
+       "gloss": "the (masculine, accusative)"
+      },
+      {
+       "surface": "Geruch",
+       "pos": "word",
+       "gloss": "smell"
+      },
+      {
+       "surface": "von",
+       "pos": "word",
+       "gloss": "of/from"
+      },
+      {
+       "surface": "frischem",
+       "pos": "word",
+       "gloss": "fresh (dative form)"
+      },
+      {
+       "surface": "Brot",
+       "pos": "word",
+       "gloss": "bread"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many people love the smell of fresh bread.",
+     "audioStart": 21.792,
+     "audioEnd": 25.896
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "Zum Frühstück essen viele Deutsche ein Brot mit Butter.",
+     "tokens": [
+      {
+       "surface": "Zum",
+       "pos": "word",
+       "gloss": "to the (zu + dem)"
+      },
+      {
+       "surface": "Frühstück",
+       "pos": "word",
+       "gloss": "breakfast"
+      },
+      {
+       "surface": "essen",
+       "pos": "word",
+       "gloss": "eat"
+      },
+      {
+       "surface": "viele",
+       "pos": "word",
+       "gloss": "many"
+      },
+      {
+       "surface": "Deutsche",
+       "pos": "word",
+       "gloss": "Germans"
+      },
+      {
+       "surface": "ein",
+       "pos": "word",
+       "gloss": "a/an (neuter/masculine)"
+      },
+      {
+       "surface": "Brot",
+       "pos": "word",
+       "gloss": "bread"
+      },
+      {
+       "surface": "mit",
+       "pos": "word",
+       "gloss": "with"
+      },
+      {
+       "surface": "Butter",
+       "pos": "word",
+       "gloss": "butter"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "For breakfast many Germans eat bread with butter.",
+     "audioStart": 25.896,
+     "audioEnd": 30.48
+    },
+    {
+     "text": "Oft essen sie auch Käse oder Wurst dazu.",
+     "tokens": [
+      {
+       "surface": "Oft",
+       "pos": "word",
+       "gloss": "often"
+      },
+      {
+       "surface": "essen",
+       "pos": "word",
+       "gloss": "eat"
+      },
+      {
+       "surface": "sie",
+       "pos": "word",
+       "gloss": "they"
+      },
+      {
+       "surface": "auch",
+       "pos": "word",
+       "gloss": "also"
+      },
+      {
+       "surface": "Käse",
+       "pos": "word",
+       "gloss": "cheese"
+      },
+      {
+       "surface": "oder",
+       "pos": "word",
+       "gloss": "or"
+      },
+      {
+       "surface": "Wurst",
+       "pos": "word",
+       "gloss": "sausage"
+      },
+      {
+       "surface": "dazu",
+       "pos": "word",
+       "gloss": "with it/in addition"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Often they also eat cheese or sausage with it.",
+     "audioStart": 30.48,
+     "audioEnd": 34.56
+    },
+    {
+     "text": "Zum Abendessen essen viele Familien wieder Brot.",
+     "tokens": [
+      {
+       "surface": "Zum",
+       "pos": "word",
+       "gloss": "to the (zu + dem)"
+      },
+      {
+       "surface": "Abendessen",
+       "pos": "word",
+       "gloss": "dinner/evening meal"
+      },
+      {
+       "surface": "essen",
+       "pos": "word",
+       "gloss": "eat"
+      },
+      {
+       "surface": "viele",
+       "pos": "word",
+       "gloss": "many"
+      },
+      {
+       "surface": "Familien",
+       "pos": "word",
+       "gloss": "families"
+      },
+      {
+       "surface": "wieder",
+       "pos": "word",
+       "gloss": "again"
+      },
+      {
+       "surface": "Brot",
+       "pos": "word",
+       "gloss": "bread"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "For dinner many families eat bread again.",
+     "audioStart": 34.56,
+     "audioEnd": 39.216
+    },
+    {
+     "text": "Das nennt man auch \"Abendbrot\".",
+     "tokens": [
+      {
+       "surface": "Das",
+       "pos": "word",
+       "gloss": "that/this"
+      },
+      {
+       "surface": "nennt",
+       "pos": "word",
+       "gloss": "calls (from 'nennen')"
+      },
+      {
+       "surface": "man",
+       "pos": "word",
+       "gloss": "one/people (impersonal pronoun)"
+      },
+      {
+       "surface": "auch",
+       "pos": "word",
+       "gloss": "also"
+      },
+      {
+       "surface": "\"",
+       "pos": "punct"
+      },
+      {
+       "surface": "Abendbrot",
+       "pos": "word",
+       "gloss": "evening bread meal (German dinner tradition)"
+      },
+      {
+       "surface": "\"",
+       "pos": "punct"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "That is also called \"Abendbrot\" (evening bread).",
+     "audioStart": 39.216,
+     "audioEnd": 42.6
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "Ein sehr bekanntes Brot ist das Roggenbrot.",
+     "tokens": [
+      {
+       "surface": "Ein",
+       "pos": "word",
+       "gloss": "a/an (masculine, subject)"
+      },
+      {
+       "surface": "sehr",
+       "pos": "word",
+       "gloss": "very"
+      },
+      {
+       "surface": "bekanntes",
+       "pos": "word",
+       "gloss": "well-known (neuter)"
+      },
+      {
+       "surface": "Brot",
+       "pos": "word",
+       "gloss": "bread"
+      },
+      {
+       "surface": "ist",
+       "pos": "word",
+       "gloss": "is"
+      },
+      {
+       "surface": "das",
+       "pos": "word",
+       "gloss": "the/that (neuter)"
+      },
+      {
+       "surface": "Roggenbrot",
+       "pos": "word",
+       "gloss": "rye bread"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "A very well-known bread is rye bread.",
+     "audioStart": 42.6,
+     "audioEnd": 46.752
+    },
+    {
+     "text": "Es ist dunkel und hat einen starken Geschmack.",
+     "tokens": [
+      {
+       "surface": "Es",
+       "pos": "word",
+       "gloss": "it (sentence-initial)"
+      },
+      {
+       "surface": "ist",
+       "pos": "word",
+       "gloss": "is"
+      },
+      {
+       "surface": "dunkel",
+       "pos": "word",
+       "gloss": "dark"
+      },
+      {
+       "surface": "und",
+       "pos": "word",
+       "gloss": "and"
+      },
+      {
+       "surface": "hat",
+       "pos": "word",
+       "gloss": "has"
+      },
+      {
+       "surface": "einen",
+       "pos": "word",
+       "gloss": "a/an (masculine, accusative)"
+      },
+      {
+       "surface": "starken",
+       "pos": "word",
+       "gloss": "strong (accusative)"
+      },
+      {
+       "surface": "Geschmack",
+       "pos": "word",
+       "gloss": "taste"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is dark and has a strong taste.",
+     "audioStart": 46.752,
+     "audioEnd": 51.0
+    },
+    {
+     "text": "Auch Vollkornbrot ist sehr beliebt.",
+     "tokens": [
+      {
+       "surface": "Auch",
+       "pos": "word",
+       "gloss": "also"
+      },
+      {
+       "surface": "Vollkornbrot",
+       "pos": "word",
+       "gloss": "wholegrain bread"
+      },
+      {
+       "surface": "ist",
+       "pos": "word",
+       "gloss": "is"
+      },
+      {
+       "surface": "sehr",
+       "pos": "word",
+       "gloss": "very"
+      },
+      {
+       "surface": "beliebt",
+       "pos": "word",
+       "gloss": "popular"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Wholegrain bread is also very popular.",
+     "audioStart": 51.0,
+     "audioEnd": 54.912
+    },
+    {
+     "text": "Es ist gesund und macht lange satt.",
+     "tokens": [
+      {
+       "surface": "Es",
+       "pos": "word",
+       "gloss": "it (sentence-initial)"
+      },
+      {
+       "surface": "ist",
+       "pos": "word",
+       "gloss": "is"
+      },
+      {
+       "surface": "gesund",
+       "pos": "word",
+       "gloss": "healthy"
+      },
+      {
+       "surface": "und",
+       "pos": "word",
+       "gloss": "and"
+      },
+      {
+       "surface": "macht",
+       "pos": "word",
+       "gloss": "makes"
+      },
+      {
+       "surface": "lange",
+       "pos": "word",
+       "gloss": "for a long time"
+      },
+      {
+       "surface": "satt",
+       "pos": "word",
+       "gloss": "full (from eating)"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is healthy and keeps you full for a long time.",
+     "audioStart": 54.912,
+     "audioEnd": 58.632
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "Touristen finden die deutsche Brotkultur oft spannend.",
+     "tokens": [
+      {
+       "surface": "Touristen",
+       "pos": "word",
+       "gloss": "tourists"
+      },
+      {
+       "surface": "finden",
+       "pos": "word",
+       "gloss": "find"
+      },
+      {
+       "surface": "die",
+       "pos": "word",
+       "gloss": "the (feminine/plural)"
+      },
+      {
+       "surface": "deutsche",
+       "pos": "word",
+       "gloss": "German (adjective)"
+      },
+      {
+       "surface": "Brotkultur",
+       "pos": "word",
+       "gloss": "bread culture"
+      },
+      {
+       "surface": "oft",
+       "pos": "word",
+       "gloss": "often"
+      },
+      {
+       "surface": "spannend",
+       "pos": "word",
+       "gloss": "exciting"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Tourists often find German bread culture exciting.",
+     "audioStart": 58.632,
+     "audioEnd": 63.456
+    },
+    {
+     "text": "In vielen Bäckereien kann man das Brot auch probieren.",
+     "tokens": [
+      {
+       "surface": "In",
+       "pos": "word",
+       "gloss": "in (preposition)"
+      },
+      {
+       "surface": "vielen",
+       "pos": "word",
+       "gloss": "many (dative plural)"
+      },
+      {
+       "surface": "Bäckereien",
+       "pos": "word",
+       "gloss": "bakeries"
+      },
+      {
+       "surface": "kann",
+       "pos": "word",
+       "gloss": "can"
+      },
+      {
+       "surface": "man",
+       "pos": "word",
+       "gloss": "one/people (impersonal pronoun)"
+      },
+      {
+       "surface": "das",
+       "pos": "word",
+       "gloss": "the/that (neuter)"
+      },
+      {
+       "surface": "Brot",
+       "pos": "word",
+       "gloss": "bread"
+      },
+      {
+       "surface": "auch",
+       "pos": "word",
+       "gloss": "also"
+      },
+      {
+       "surface": "probieren",
+       "pos": "word",
+       "gloss": "try/taste"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In many bakeries you can also try the bread.",
+     "audioStart": 63.456,
+     "audioEnd": 67.896
+    },
+    {
+     "text": "So lernt man schnell die Lieblingssorte kennen.",
+     "tokens": [
+      {
+       "surface": "So",
+       "pos": "word",
+       "gloss": "so/thus"
+      },
+      {
+       "surface": "lernt",
+       "pos": "word",
+       "gloss": "learns"
+      },
+      {
+       "surface": "man",
+       "pos": "word",
+       "gloss": "one/people (impersonal pronoun)"
+      },
+      {
+       "surface": "schnell",
+       "pos": "word",
+       "gloss": "quickly"
+      },
+      {
+       "surface": "die",
+       "pos": "word",
+       "gloss": "the (feminine/plural)"
+      },
+      {
+       "surface": "Lieblingssorte",
+       "pos": "word",
+       "gloss": "favorite kind/variety"
+      },
+      {
+       "surface": "kennen",
+       "pos": "word",
+       "gloss": "to know (infinitive)"
+      },
+      {
+       "surface": ".",
+       "pos": "punct"
+      }
+     ],
+     "translation": "That way you quickly learn your favorite kind.",
+     "audioStart": 67.896,
+     "audioEnd": 72.024
+    }
+   ]
+  }
+ ]
+}

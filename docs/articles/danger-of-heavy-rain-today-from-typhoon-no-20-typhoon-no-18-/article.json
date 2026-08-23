@@ -1,0 +1,4829 @@
+{
+ "schemaVersion": 1,
+ "id": "danger-of-heavy-rain-today-from-typhoon-no-20-typhoon-no-18-",
+ "language": "ja",
+ "title": "台風20号で今日大雨の危険台風18号は26日に沖縄へ",
+ "titleTranslation": "Danger of Heavy Rain Today from Typhoon No. 20; Typhoon No. 18 to Reach Okinawa on the 26th",
+ "level": "N5",
+ "summary": "Three typhoons are active near Japan, with Typhoon No. 20 bringing dangerously heavy rain to the Sakishima Islands today while Typhoon No. 18 strengthens and is expected to reach Okinawa with destructive winds and high waves around the 25th-27th.",
+ "sourceUrl": "https://news.yahoo.co.jp/articles/5939131cdb4bfa6f3b1cf0375b15ff5286b3f46a",
+ "createdAt": "2026-08-23T03:42:18+00:00",
+ "audioFile": "audio.mp3",
+ "voice": "ja-JP-KeitaNeural",
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "今、日本には台風が3つあります。",
+     "tokens": [
+      {
+       "surface": "今",
+       "pos": "noun",
+       "reading": "いま",
+       "romaji": "ima",
+       "gloss": "now"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "台風",
+       "pos": "noun",
+       "reading": "たいふう",
+       "romaji": "taifuu",
+       "gloss": "typhoon"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "3",
+       "pos": "noun",
+       "gloss": "three"
+      },
+      {
+       "surface": "つ",
+       "pos": "suffix",
+       "romaji": "tsu",
+       "gloss": "counter for general objects"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Right now, there are three typhoons around Japan.",
+     "audioStart": 0.0,
+     "audioEnd": 4.08
+    },
+    {
+     "text": "18号と19号と20号です。",
+     "tokens": [
+      {
+       "surface": "18",
+       "pos": "noun",
+       "gloss": "eighteen"
+      },
+      {
+       "surface": "号",
+       "pos": "noun",
+       "reading": "ごう",
+       "romaji": "gou",
+       "gloss": "number/issue (counter for typhoons)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and (connects nouns)"
+      },
+      {
+       "surface": "19",
+       "pos": "noun",
+       "gloss": "nineteen"
+      },
+      {
+       "surface": "号",
+       "pos": "noun",
+       "reading": "ごう",
+       "romaji": "gou",
+       "gloss": "number/issue (counter for typhoons)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and (connects nouns)"
+      },
+      {
+       "surface": "20",
+       "pos": "noun",
+       "gloss": "twenty"
+      },
+      {
+       "surface": "号",
+       "pos": "noun",
+       "reading": "ごう",
+       "romaji": "gou",
+       "gloss": "number/issue (counter for typhoons)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They are No. 18, No. 19, and No. 20.",
+     "audioStart": 4.08,
+     "audioEnd": 8.04
+    },
+    {
+     "text": "日本の南にも、台風になるかもしれない雲があります。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "南",
+       "pos": "noun",
+       "reading": "みなみ",
+       "romaji": "minami",
+       "gloss": "south"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "台風",
+       "pos": "noun",
+       "reading": "たいふう",
+       "romaji": "taifuu",
+       "gloss": "typhoon"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "なる",
+       "pos": "verb",
+       "romaji": "naru",
+       "gloss": "to become"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question/uncertainty marker"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too"
+      },
+      {
+       "surface": "しれ",
+       "pos": "verb",
+       "romaji": "shire",
+       "lemma": "しれる",
+       "gloss": "'might' (in 〜かもしれない)"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative auxiliary 'not'"
+      },
+      {
+       "surface": "雲",
+       "pos": "noun",
+       "reading": "くも",
+       "romaji": "kumo",
+       "gloss": "cloud"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are also clouds south of Japan that might become a typhoon.",
+     "audioStart": 8.04,
+     "audioEnd": 13.368
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "台風20号は、先島諸島の近くにいます。",
+     "tokens": [
+      {
+       "surface": "台風",
+       "pos": "noun",
+       "reading": "たいふう",
+       "romaji": "taifuu",
+       "gloss": "typhoon"
+      },
+      {
+       "surface": "20",
+       "pos": "noun",
+       "gloss": "twenty"
+      },
+      {
+       "surface": "号",
+       "pos": "noun",
+       "reading": "ごう",
+       "romaji": "gou",
+       "gloss": "number/issue (counter for typhoons)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "先島",
+       "pos": "noun",
+       "reading": "さきしま",
+       "romaji": "sakishima",
+       "gloss": "Sakishima (place name)"
+      },
+      {
+       "surface": "諸島",
+       "pos": "noun",
+       "reading": "しょとう",
+       "romaji": "shotou",
+       "gloss": "islands/archipelago"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "近く",
+       "pos": "noun",
+       "reading": "ちかく",
+       "romaji": "chikaku",
+       "gloss": "nearby, vicinity"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (animate/moving things)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Typhoon No. 20 is near the Sakishima Islands.",
+     "audioStart": 13.368,
+     "audioEnd": 18.144
+    },
+    {
+     "text": "今日23日の夕方まで、とても強い雨が降るかもしれません。",
+     "tokens": [
+      {
+       "surface": "今日",
+       "pos": "noun",
+       "reading": "こんにち",
+       "romaji": "konnichi",
+       "gloss": "today"
+      },
+      {
+       "surface": "23",
+       "pos": "noun",
+       "gloss": "twenty-three"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "夕方",
+       "pos": "noun",
+       "reading": "ゆうがた",
+       "romaji": "yuugata",
+       "gloss": "evening"
+      },
+      {
+       "surface": "まで",
+       "pos": "particle",
+       "romaji": "made",
+       "gloss": "until"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very"
+      },
+      {
+       "surface": "強い",
+       "pos": "adjective",
+       "reading": "つよい",
+       "romaji": "tsuyoi",
+       "gloss": "strong"
+      },
+      {
+       "surface": "雨",
+       "pos": "noun",
+       "reading": "あめ",
+       "romaji": "ame",
+       "gloss": "rain"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "降る",
+       "pos": "verb",
+       "reading": "ふる",
+       "romaji": "furu",
+       "gloss": "to fall (rain)"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question/uncertainty marker"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too"
+      },
+      {
+       "surface": "しれ",
+       "pos": "verb",
+       "romaji": "shire",
+       "lemma": "しれる",
+       "gloss": "'might' (in 〜かもしれない)"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (as in 〜ません)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Very heavy rain may fall until this evening, the 23rd.",
+     "audioStart": 18.144,
+     "audioEnd": 23.976
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "台風18号は、26日ごろ沖縄に来るかもしれません。",
+     "tokens": [
+      {
+       "surface": "台風",
+       "pos": "noun",
+       "reading": "たいふう",
+       "romaji": "taifuu",
+       "gloss": "typhoon"
+      },
+      {
+       "surface": "18",
+       "pos": "noun",
+       "gloss": "eighteen"
+      },
+      {
+       "surface": "号",
+       "pos": "noun",
+       "reading": "ごう",
+       "romaji": "gou",
+       "gloss": "number/issue (counter for typhoons)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "26",
+       "pos": "noun",
+       "gloss": "twenty-six"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "ごろ",
+       "pos": "noun",
+       "romaji": "goro",
+       "gloss": "approximately (time)"
+      },
+      {
+       "surface": "沖縄",
+       "pos": "noun",
+       "reading": "おきなわ",
+       "romaji": "okinawa",
+       "gloss": "Okinawa"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "来る",
+       "pos": "verb",
+       "reading": "くる",
+       "romaji": "kuru",
+       "gloss": "to come"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question/uncertainty marker"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too"
+      },
+      {
+       "surface": "しれ",
+       "pos": "verb",
+       "romaji": "shire",
+       "lemma": "しれる",
+       "gloss": "'might' (in 〜かもしれない)"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (as in 〜ません)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Typhoon No. 18 may reach Okinawa around the 26th.",
+     "audioStart": 23.976,
+     "audioEnd": 29.736
+    },
+    {
+     "text": "台風が来ると、強い雨や風が来ます。",
+     "tokens": [
+      {
+       "surface": "台風",
+       "pos": "noun",
+       "reading": "たいふう",
+       "romaji": "taifuu",
+       "gloss": "typhoon"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "来る",
+       "pos": "verb",
+       "reading": "くる",
+       "romaji": "kuru",
+       "gloss": "to come"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and (connects nouns)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "強い",
+       "pos": "adjective",
+       "reading": "つよい",
+       "romaji": "tsuyoi",
+       "gloss": "strong"
+      },
+      {
+       "surface": "雨",
+       "pos": "noun",
+       "reading": "あめ",
+       "romaji": "ame",
+       "gloss": "rain"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and/or (listing particle)"
+      },
+      {
+       "surface": "風",
+       "pos": "noun",
+       "reading": "かぜ",
+       "romaji": "kaze",
+       "gloss": "wind"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "来",
+       "pos": "verb",
+       "reading": "き",
+       "romaji": "ki",
+       "lemma": "来る",
+       "gloss": "to come"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When a typhoon comes, strong rain and wind come with it.",
+     "audioStart": 29.736,
+     "audioEnd": 34.008
+    },
+    {
+     "text": "海の波も高くなります。",
+     "tokens": [
+      {
+       "surface": "海",
+       "pos": "noun",
+       "reading": "うみ",
+       "romaji": "umi",
+       "gloss": "sea"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "波",
+       "pos": "noun",
+       "reading": "なみ",
+       "romaji": "nami",
+       "gloss": "wave"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too"
+      },
+      {
+       "surface": "高く",
+       "pos": "adjective",
+       "reading": "たかく",
+       "romaji": "takaku",
+       "lemma": "高い",
+       "gloss": "high/tall"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The ocean waves also become high.",
+     "audioStart": 34.008,
+     "audioEnd": 36.84
+    },
+    {
+     "text": "気をつけてください。",
+     "tokens": [
+      {
+       "surface": "気",
+       "pos": "noun",
+       "reading": "き",
+       "romaji": "ki",
+       "gloss": "care/attention (in 気をつける)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "つけ",
+       "pos": "verb",
+       "romaji": "tsuke",
+       "lemma": "つける",
+       "gloss": "to attach/pay (気をつける 'be careful')"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる",
+       "gloss": "to give (polite, 〜てください 'please')"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Please be careful.",
+     "audioStart": 36.84,
+     "audioEnd": 39.072
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "【台風20号について】",
+     "tokens": [
+      {
+       "surface": "【",
+       "pos": "punct"
+      },
+      {
+       "surface": "台風",
+       "pos": "noun",
+       "reading": "たいふう",
+       "romaji": "taifuu",
+       "gloss": "typhoon"
+      },
+      {
+       "surface": "20",
+       "pos": "noun",
+       "gloss": "twenty"
+      },
+      {
+       "surface": "号",
+       "pos": "noun",
+       "reading": "ごう",
+       "romaji": "gou",
+       "gloss": "number/issue (counter for typhoons)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "つい",
+       "pos": "verb",
+       "romaji": "tsui",
+       "lemma": "つく",
+       "gloss": "to attach/stick"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "】",
+       "pos": "punct"
+      }
+     ],
+     "translation": "[About Typhoon No. 20]",
+     "audioStart": 39.072,
+     "audioEnd": 41.832
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "今日の午前3時、台風20号は与那国島の北、約100キロにいました。",
+     "tokens": [
+      {
+       "surface": "今日",
+       "pos": "noun",
+       "reading": "きょう",
+       "romaji": "kyou",
+       "gloss": "today"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "午前",
+       "pos": "noun",
+       "reading": "ごぜん",
+       "romaji": "gozen",
+       "gloss": "morning/A.M."
+      },
+      {
+       "surface": "3",
+       "pos": "noun",
+       "gloss": "three"
+      },
+      {
+       "surface": "時",
+       "pos": "noun",
+       "reading": "じ",
+       "romaji": "ji",
+       "gloss": "o'clock/hour"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "台風",
+       "pos": "noun",
+       "reading": "たいふう",
+       "romaji": "taifuu",
+       "gloss": "typhoon"
+      },
+      {
+       "surface": "20",
+       "pos": "noun",
+       "gloss": "twenty"
+      },
+      {
+       "surface": "号",
+       "pos": "noun",
+       "reading": "ごう",
+       "romaji": "gou",
+       "gloss": "number/issue (counter for typhoons)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "与那国",
+       "pos": "noun",
+       "reading": "よなぐに",
+       "romaji": "yonaguni",
+       "gloss": "Yonaguni (place name)"
+      },
+      {
+       "surface": "島",
+       "pos": "suffix",
+       "reading": "とう",
+       "romaji": "tou",
+       "gloss": "island"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "北",
+       "pos": "noun",
+       "reading": "きた",
+       "romaji": "kita",
+       "gloss": "north"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "約",
+       "pos": "prefix",
+       "reading": "やく",
+       "romaji": "yaku",
+       "gloss": "approximately"
+      },
+      {
+       "surface": "100",
+       "pos": "noun",
+       "gloss": "one hundred"
+      },
+      {
+       "surface": "キロ",
+       "pos": "noun",
+       "romaji": "kiro",
+       "gloss": "kilometer(s)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (animate/moving things)"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "At 3 a.m. today, Typhoon No. 20 was about 100 km north of Yonaguni Island.",
+     "audioStart": 41.832,
+     "audioEnd": 48.816
+    },
+    {
+     "text": "南南西に、1時間に15キロの速さで進んでいます。",
+     "tokens": [
+      {
+       "surface": "南",
+       "pos": "noun",
+       "reading": "みなみ",
+       "romaji": "minami",
+       "gloss": "south"
+      },
+      {
+       "surface": "南西",
+       "pos": "noun",
+       "reading": "なんせい",
+       "romaji": "nansei",
+       "gloss": "southwest"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "時間",
+       "pos": "noun",
+       "reading": "じかん",
+       "romaji": "jikan",
+       "gloss": "hour/time duration"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "15",
+       "pos": "noun",
+       "gloss": "fifteen"
+      },
+      {
+       "surface": "キロ",
+       "pos": "noun",
+       "romaji": "kiro",
+       "gloss": "kilometer(s)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "速さ",
+       "pos": "noun",
+       "reading": "はやさ",
+       "romaji": "hayasa",
+       "gloss": "speed"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location"
+      },
+      {
+       "surface": "進ん",
+       "pos": "verb",
+       "reading": "すすん",
+       "romaji": "susun",
+       "lemma": "進む",
+       "gloss": "to advance/proceed"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (animate/moving things)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is moving south-southwest at a speed of 15 km per hour.",
+     "audioStart": 48.816,
+     "audioEnd": 54.168
+    },
+    {
+     "text": "台風の中心の風は、1秒間に18メートルです。",
+     "tokens": [
+      {
+       "surface": "台風",
+       "pos": "noun",
+       "reading": "たいふう",
+       "romaji": "taifuu",
+       "gloss": "typhoon"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "中心",
+       "pos": "noun",
+       "reading": "ちゅうしん",
+       "romaji": "chuushin",
+       "gloss": "center"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "風",
+       "pos": "noun",
+       "reading": "かぜ",
+       "romaji": "kaze",
+       "gloss": "wind"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "秒間",
+       "pos": "noun",
+       "reading": "びょうかん",
+       "romaji": "byoukan",
+       "gloss": "duration in seconds"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "18",
+       "pos": "noun",
+       "gloss": "eighteen"
+      },
+      {
+       "surface": "メートル",
+       "pos": "noun",
+       "romaji": "meetoru",
+       "gloss": "meter"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The wind at the center of the typhoon is 18 meters per second.",
+     "audioStart": 54.168,
+     "audioEnd": 59.544
+    },
+    {
+     "text": "もっと強い風は、1秒間に25メートルです。",
+     "tokens": [
+      {
+       "surface": "もっと",
+       "pos": "adverb",
+       "romaji": "motto",
+       "gloss": "more"
+      },
+      {
+       "surface": "強い",
+       "pos": "adjective",
+       "reading": "つよい",
+       "romaji": "tsuyoi",
+       "gloss": "strong"
+      },
+      {
+       "surface": "風",
+       "pos": "noun",
+       "reading": "かぜ",
+       "romaji": "kaze",
+       "gloss": "wind"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "秒間",
+       "pos": "noun",
+       "reading": "びょうかん",
+       "romaji": "byoukan",
+       "gloss": "duration in seconds"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "25",
+       "pos": "noun",
+       "gloss": "twenty-five"
+      },
+      {
+       "surface": "メートル",
+       "pos": "noun",
+       "romaji": "meetoru",
+       "gloss": "meter"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Stronger gusts reach 25 meters per second.",
+     "audioStart": 59.544,
+     "audioEnd": 64.44
+    },
+    {
+     "text": "台風の近くでは、強い風が吹いています。",
+     "tokens": [
+      {
+       "surface": "台風",
+       "pos": "noun",
+       "reading": "たいふう",
+       "romaji": "taifuu",
+       "gloss": "typhoon"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "近く",
+       "pos": "noun",
+       "reading": "ちかく",
+       "romaji": "chikaku",
+       "gloss": "nearby, vicinity"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "強い",
+       "pos": "adjective",
+       "reading": "つよい",
+       "romaji": "tsuyoi",
+       "gloss": "strong"
+      },
+      {
+       "surface": "風",
+       "pos": "noun",
+       "reading": "かぜ",
+       "romaji": "kaze",
+       "gloss": "wind"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "吹い",
+       "pos": "verb",
+       "reading": "ふい",
+       "romaji": "fui",
+       "lemma": "吹く",
+       "gloss": "to blow"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (animate/moving things)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Near the typhoon, strong winds are blowing.",
+     "audioStart": 64.44,
+     "audioEnd": 68.856
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "台風20号は、これから西へ進みます。",
+     "tokens": [
+      {
+       "surface": "台風",
+       "pos": "noun",
+       "reading": "たいふう",
+       "romaji": "taifuu",
+       "gloss": "typhoon"
+      },
+      {
+       "surface": "20",
+       "pos": "noun",
+       "gloss": "twenty"
+      },
+      {
+       "surface": "号",
+       "pos": "noun",
+       "reading": "ごう",
+       "romaji": "gou",
+       "gloss": "number/issue (counter for typhoons)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore",
+       "gloss": "this"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from/since"
+      },
+      {
+       "surface": "西",
+       "pos": "noun",
+       "reading": "にし",
+       "romaji": "nishi",
+       "gloss": "west"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "direction particle 'to/toward'"
+      },
+      {
+       "surface": "進み",
+       "pos": "verb",
+       "reading": "すすみ",
+       "romaji": "susumi",
+       "lemma": "進む",
+       "gloss": "to advance/proceed"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Typhoon No. 20 will move west from now on.",
+     "audioStart": 68.856,
+     "audioEnd": 73.32
+    },
+    {
+     "text": "明日24日は、台湾の近くの海に行くでしょう。",
+     "tokens": [
+      {
+       "surface": "明日",
+       "pos": "noun",
+       "reading": "あす",
+       "romaji": "asu",
+       "gloss": "tomorrow"
+      },
+      {
+       "surface": "24",
+       "pos": "noun",
+       "gloss": "twenty-four"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "台湾",
+       "pos": "noun",
+       "reading": "たいわん",
+       "romaji": "taiwan",
+       "gloss": "Taiwan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "近く",
+       "pos": "noun",
+       "reading": "ちかく",
+       "romaji": "chikaku",
+       "gloss": "nearby, vicinity"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "海",
+       "pos": "noun",
+       "reading": "うみ",
+       "romaji": "umi",
+       "gloss": "sea"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "行く",
+       "pos": "verb",
+       "reading": "いく",
+       "romaji": "iku",
+       "gloss": "to go"
+      },
+      {
+       "surface": "でしょう",
+       "pos": "auxiliary",
+       "romaji": "deshou",
+       "lemma": "です",
+       "gloss": "polite copula 'is'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Tomorrow, the 24th, it will likely move to the sea near Taiwan.",
+     "audioStart": 73.32,
+     "audioEnd": 78.36
+    },
+    {
+     "text": "台風の周りには、暖かくて湿った空気があります。",
+     "tokens": [
+      {
+       "surface": "台風",
+       "pos": "noun",
+       "reading": "たいふう",
+       "romaji": "taifuu",
+       "gloss": "typhoon"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "周り",
+       "pos": "noun",
+       "reading": "まわり",
+       "romaji": "mawari",
+       "gloss": "surroundings/around"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "暖かく",
+       "pos": "adjective",
+       "reading": "あたたかく",
+       "romaji": "atatakaku",
+       "lemma": "暖かい",
+       "gloss": "warm"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "湿っ",
+       "pos": "verb",
+       "reading": "しめっ",
+       "romaji": "shimetsu",
+       "lemma": "湿る",
+       "gloss": "to become moist/damp"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "空気",
+       "pos": "noun",
+       "reading": "くうき",
+       "romaji": "kuuki",
+       "gloss": "air"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Around the typhoon there is warm, moist air.",
+     "audioStart": 78.36,
+     "audioEnd": 83.424
+    },
+    {
+     "text": "それで、雨の雲がたくさんできています。",
+     "tokens": [
+      {
+       "surface": "それ",
+       "pos": "pronoun",
+       "romaji": "sore",
+       "gloss": "that/it (referring back)"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "雨",
+       "pos": "noun",
+       "reading": "あめ",
+       "romaji": "ame",
+       "gloss": "rain"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "雲",
+       "pos": "noun",
+       "reading": "くも",
+       "romaji": "kumo",
+       "gloss": "cloud"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot/many"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be formed/to be able to"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (animate/moving things)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Because of that, many rain clouds are forming.",
+     "audioStart": 83.424,
+     "audioEnd": 87.552
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "八重山の地域では、今日の夕方まで、とても強い雨が降るかもしれません。",
+     "tokens": [
+      {
+       "surface": "八重山",
+       "pos": "noun",
+       "reading": "やえやま",
+       "romaji": "yaeyama",
+       "gloss": "Yaeyama (place name)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "地域",
+       "pos": "noun",
+       "reading": "ちいき",
+       "romaji": "chiiki",
+       "gloss": "region/area"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "今日",
+       "pos": "noun",
+       "reading": "きょう",
+       "romaji": "kyou",
+       "gloss": "today"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "夕方",
+       "pos": "noun",
+       "reading": "ゆうがた",
+       "romaji": "yuugata",
+       "gloss": "evening"
+      },
+      {
+       "surface": "まで",
+       "pos": "particle",
+       "romaji": "made",
+       "gloss": "until"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very"
+      },
+      {
+       "surface": "強い",
+       "pos": "adjective",
+       "reading": "つよい",
+       "romaji": "tsuyoi",
+       "gloss": "strong"
+      },
+      {
+       "surface": "雨",
+       "pos": "noun",
+       "reading": "あめ",
+       "romaji": "ame",
+       "gloss": "rain"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "降る",
+       "pos": "verb",
+       "reading": "ふる",
+       "romaji": "furu",
+       "gloss": "to fall (rain)"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question/uncertainty marker"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too"
+      },
+      {
+       "surface": "しれ",
+       "pos": "verb",
+       "romaji": "shire",
+       "lemma": "しれる",
+       "gloss": "'might' (in 〜かもしれない)"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (as in 〜ません)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In the Yaeyama region, very heavy rain may fall until this evening.",
+     "audioStart": 87.552,
+     "audioEnd": 94.272
+    },
+    {
+     "text": "山が崩れたり、低い土地に水が入ったり、川の水が増えたりするかもしれません。",
+     "tokens": [
+      {
+       "surface": "山",
+       "pos": "noun",
+       "reading": "やま",
+       "romaji": "yama",
+       "gloss": "mountain"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "崩れ",
+       "pos": "verb",
+       "reading": "くずれ",
+       "romaji": "kuzure",
+       "lemma": "崩れる",
+       "gloss": "to collapse/crumble"
+      },
+      {
+       "surface": "たり",
+       "pos": "particle",
+       "romaji": "tari",
+       "gloss": "listing action particle '~ing and such'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "低い",
+       "pos": "adjective",
+       "reading": "ひくい",
+       "romaji": "hikui",
+       "gloss": "low"
+      },
+      {
+       "surface": "土地",
+       "pos": "noun",
+       "reading": "とち",
+       "romaji": "tochi",
+       "gloss": "land/ground"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "水",
+       "pos": "noun",
+       "reading": "みず",
+       "romaji": "mizu",
+       "gloss": "water"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "入っ",
+       "pos": "verb",
+       "reading": "はいっ",
+       "romaji": "haitsu",
+       "lemma": "入る",
+       "gloss": "to enter"
+      },
+      {
+       "surface": "たり",
+       "pos": "particle",
+       "romaji": "tari",
+       "gloss": "listing action particle '~ing and such'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "川",
+       "pos": "noun",
+       "reading": "かわ",
+       "romaji": "kawa",
+       "gloss": "river"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "水",
+       "pos": "noun",
+       "reading": "みず",
+       "romaji": "mizu",
+       "gloss": "water"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "増え",
+       "pos": "verb",
+       "reading": "ふえ",
+       "romaji": "fue",
+       "lemma": "増える",
+       "gloss": "to increase"
+      },
+      {
+       "surface": "たり",
+       "pos": "particle",
+       "romaji": "tari",
+       "gloss": "listing action particle '~ing and such'"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question/uncertainty marker"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too"
+      },
+      {
+       "surface": "しれ",
+       "pos": "verb",
+       "romaji": "shire",
+       "lemma": "しれる",
+       "gloss": "'might' (in 〜かもしれない)"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (as in 〜ません)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Landslides, flooding of low-lying land, and rising river water may occur.",
+     "audioStart": 94.272,
+     "audioEnd": 101.4
+    },
+    {
+     "text": "気をつけてください。",
+     "tokens": [
+      {
+       "surface": "気",
+       "pos": "noun",
+       "reading": "き",
+       "romaji": "ki",
+       "gloss": "care/attention (in 気をつける)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "つけ",
+       "pos": "verb",
+       "romaji": "tsuke",
+       "lemma": "つける",
+       "gloss": "to attach/pay (気をつける 'be careful')"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる",
+       "gloss": "to give (polite, 〜てください 'please')"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Please be careful.",
+     "audioStart": 101.4,
+     "audioEnd": 103.632
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "【雨の量】",
+     "tokens": [
+      {
+       "surface": "【",
+       "pos": "punct"
+      },
+      {
+       "surface": "雨",
+       "pos": "noun",
+       "reading": "あめ",
+       "romaji": "ame",
+       "gloss": "rain"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "量",
+       "pos": "noun",
+       "reading": "りょう",
+       "romaji": "ryou",
+       "gloss": "amount/quantity"
+      },
+      {
+       "surface": "】",
+       "pos": "punct"
+      }
+     ],
+     "translation": "[Amount of rain]",
+     "audioStart": 103.632,
+     "audioEnd": 105.408
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "23日、1時間の雨は、石垣島で60ミリ、与那国島で80ミリになるかもしれません。",
+     "tokens": [
+      {
+       "surface": "23",
+       "pos": "noun",
+       "gloss": "twenty-three"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "時間",
+       "pos": "noun",
+       "reading": "じかん",
+       "romaji": "jikan",
+       "gloss": "hour/time duration"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "雨",
+       "pos": "noun",
+       "reading": "あめ",
+       "romaji": "ame",
+       "gloss": "rain"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "石垣島",
+       "pos": "noun",
+       "reading": "いしがきじま",
+       "romaji": "ishigakijima",
+       "gloss": "Ishigaki Island"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location"
+      },
+      {
+       "surface": "60",
+       "pos": "noun",
+       "gloss": "sixty"
+      },
+      {
+       "surface": "ミリ",
+       "pos": "noun",
+       "romaji": "miri",
+       "gloss": "millimeter(s)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "与那国",
+       "pos": "noun",
+       "reading": "よなぐに",
+       "romaji": "yonaguni",
+       "gloss": "Yonaguni (place name)"
+      },
+      {
+       "surface": "島",
+       "pos": "suffix",
+       "reading": "とう",
+       "romaji": "tou",
+       "gloss": "island"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location"
+      },
+      {
+       "surface": "80",
+       "pos": "noun",
+       "gloss": "eighty"
+      },
+      {
+       "surface": "ミリ",
+       "pos": "noun",
+       "romaji": "miri",
+       "gloss": "millimeter(s)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "なる",
+       "pos": "verb",
+       "romaji": "naru",
+       "gloss": "to become"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question/uncertainty marker"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too"
+      },
+      {
+       "surface": "しれ",
+       "pos": "verb",
+       "romaji": "shire",
+       "lemma": "しれる",
+       "gloss": "'might' (in 〜かもしれない)"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (as in 〜ません)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On the 23rd, hourly rainfall may reach 60 mm in Ishigaki Island and 80 mm in Yonaguni Island.",
+     "audioStart": 105.408,
+     "audioEnd": 114.576
+    },
+    {
+     "text": "24日の朝6時までの雨は、石垣島で150ミリ、与那国島で180ミリになるかもしれません。",
+     "tokens": [
+      {
+       "surface": "24",
+       "pos": "noun",
+       "gloss": "twenty-four"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "朝",
+       "pos": "noun",
+       "reading": "あさ",
+       "romaji": "asa",
+       "gloss": "morning"
+      },
+      {
+       "surface": "6",
+       "pos": "noun",
+       "gloss": "six"
+      },
+      {
+       "surface": "時",
+       "pos": "noun",
+       "reading": "じ",
+       "romaji": "ji",
+       "gloss": "o'clock/hour"
+      },
+      {
+       "surface": "まで",
+       "pos": "particle",
+       "romaji": "made",
+       "gloss": "until"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "雨",
+       "pos": "noun",
+       "reading": "あめ",
+       "romaji": "ame",
+       "gloss": "rain"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "石垣島",
+       "pos": "noun",
+       "reading": "いしがきじま",
+       "romaji": "ishigakijima",
+       "gloss": "Ishigaki Island"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location"
+      },
+      {
+       "surface": "150",
+       "pos": "noun",
+       "gloss": "one hundred fifty"
+      },
+      {
+       "surface": "ミリ",
+       "pos": "noun",
+       "romaji": "miri",
+       "gloss": "millimeter(s)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "与那国",
+       "pos": "noun",
+       "reading": "よなぐに",
+       "romaji": "yonaguni",
+       "gloss": "Yonaguni (place name)"
+      },
+      {
+       "surface": "島",
+       "pos": "suffix",
+       "reading": "とう",
+       "romaji": "tou",
+       "gloss": "island"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location"
+      },
+      {
+       "surface": "180",
+       "pos": "noun",
+       "gloss": "one hundred eighty"
+      },
+      {
+       "surface": "ミリ",
+       "pos": "noun",
+       "romaji": "miri",
+       "gloss": "millimeter(s)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "なる",
+       "pos": "verb",
+       "romaji": "naru",
+       "gloss": "to become"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question/uncertainty marker"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too"
+      },
+      {
+       "surface": "しれ",
+       "pos": "verb",
+       "romaji": "shire",
+       "lemma": "しれる",
+       "gloss": "'might' (in 〜かもしれない)"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (as in 〜ません)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Rainfall until 6 a.m. on the 24th may reach 150 mm in Ishigaki Island and 180 mm in Yonaguni Island.",
+     "audioStart": 114.576,
+     "audioEnd": 123.744
+    },
+    {
+     "text": "強い雨の雲が来ると、もっと雨が降るかもしれません。",
+     "tokens": [
+      {
+       "surface": "強い",
+       "pos": "adjective",
+       "reading": "つよい",
+       "romaji": "tsuyoi",
+       "gloss": "strong"
+      },
+      {
+       "surface": "雨",
+       "pos": "noun",
+       "reading": "あめ",
+       "romaji": "ame",
+       "gloss": "rain"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "雲",
+       "pos": "noun",
+       "reading": "くも",
+       "romaji": "kumo",
+       "gloss": "cloud"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "来る",
+       "pos": "verb",
+       "reading": "くる",
+       "romaji": "kuru",
+       "gloss": "to come"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and (connects nouns)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "もっと",
+       "pos": "adverb",
+       "romaji": "motto",
+       "gloss": "more"
+      },
+      {
+       "surface": "雨",
+       "pos": "noun",
+       "reading": "あめ",
+       "romaji": "ame",
+       "gloss": "rain"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "降る",
+       "pos": "verb",
+       "reading": "ふる",
+       "romaji": "furu",
+       "gloss": "to fall (rain)"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question/uncertainty marker"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too"
+      },
+      {
+       "surface": "しれ",
+       "pos": "verb",
+       "romaji": "shire",
+       "lemma": "しれる",
+       "gloss": "'might' (in 〜かもしれない)"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (as in 〜ません)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If strong rain clouds come, even more rain may fall.",
+     "audioStart": 123.744,
+     "audioEnd": 128.784
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "【台風18号について】",
+     "tokens": [
+      {
+       "surface": "【",
+       "pos": "punct"
+      },
+      {
+       "surface": "台風",
+       "pos": "noun",
+       "reading": "たいふう",
+       "romaji": "taifuu",
+       "gloss": "typhoon"
+      },
+      {
+       "surface": "18",
+       "pos": "noun",
+       "gloss": "eighteen"
+      },
+      {
+       "surface": "号",
+       "pos": "noun",
+       "reading": "ごう",
+       "romaji": "gou",
+       "gloss": "number/issue (counter for typhoons)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "つい",
+       "pos": "verb",
+       "romaji": "tsui",
+       "lemma": "つく",
+       "gloss": "to attach/stick"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "】",
+       "pos": "punct"
+      }
+     ],
+     "translation": "[About Typhoon No. 18]",
+     "audioStart": 128.784,
+     "audioEnd": 131.712
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "今日の午前3時、台風18号は小笠原諸島の近くにいました。",
+     "tokens": [
+      {
+       "surface": "今日",
+       "pos": "noun",
+       "reading": "きょう",
+       "romaji": "kyou",
+       "gloss": "today"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "午前",
+       "pos": "noun",
+       "reading": "ごぜん",
+       "romaji": "gozen",
+       "gloss": "morning/A.M."
+      },
+      {
+       "surface": "3",
+       "pos": "noun",
+       "gloss": "three"
+      },
+      {
+       "surface": "時",
+       "pos": "noun",
+       "reading": "じ",
+       "romaji": "ji",
+       "gloss": "o'clock/hour"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "台風",
+       "pos": "noun",
+       "reading": "たいふう",
+       "romaji": "taifuu",
+       "gloss": "typhoon"
+      },
+      {
+       "surface": "18",
+       "pos": "noun",
+       "gloss": "eighteen"
+      },
+      {
+       "surface": "号",
+       "pos": "noun",
+       "reading": "ごう",
+       "romaji": "gou",
+       "gloss": "number/issue (counter for typhoons)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "小笠原",
+       "pos": "noun",
+       "reading": "おがさわら",
+       "romaji": "ogasawara",
+       "gloss": "Ogasawara (place name)"
+      },
+      {
+       "surface": "諸島",
+       "pos": "noun",
+       "reading": "しょとう",
+       "romaji": "shotou",
+       "gloss": "islands/archipelago"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "近く",
+       "pos": "noun",
+       "reading": "ちかく",
+       "romaji": "chikaku",
+       "gloss": "nearby, vicinity"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (animate/moving things)"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "At 3 a.m. today, Typhoon No. 18 was near the Ogasawara Islands.",
+     "audioStart": 131.712,
+     "audioEnd": 137.928
+    },
+    {
+     "text": "北西に、1時間に25キロの速さで進んでいます。",
+     "tokens": [
+      {
+       "surface": "北西",
+       "pos": "noun",
+       "reading": "ほくせい",
+       "romaji": "hokusei",
+       "gloss": "northwest"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "時間",
+       "pos": "noun",
+       "reading": "じかん",
+       "romaji": "jikan",
+       "gloss": "hour/time duration"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "25",
+       "pos": "noun",
+       "gloss": "twenty-five"
+      },
+      {
+       "surface": "キロ",
+       "pos": "noun",
+       "romaji": "kiro",
+       "gloss": "kilometer(s)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "速さ",
+       "pos": "noun",
+       "reading": "はやさ",
+       "romaji": "hayasa",
+       "gloss": "speed"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location"
+      },
+      {
+       "surface": "進ん",
+       "pos": "verb",
+       "reading": "すすん",
+       "romaji": "susun",
+       "lemma": "進む",
+       "gloss": "to advance/proceed"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (animate/moving things)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is moving northwest at a speed of 25 km per hour.",
+     "audioStart": 137.928,
+     "audioEnd": 143.16
+    },
+    {
+     "text": "台風の中心の風は、1秒間に40メートルです。",
+     "tokens": [
+      {
+       "surface": "台風",
+       "pos": "noun",
+       "reading": "たいふう",
+       "romaji": "taifuu",
+       "gloss": "typhoon"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "中心",
+       "pos": "noun",
+       "reading": "ちゅうしん",
+       "romaji": "chuushin",
+       "gloss": "center"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "風",
+       "pos": "noun",
+       "reading": "かぜ",
+       "romaji": "kaze",
+       "gloss": "wind"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "秒間",
+       "pos": "noun",
+       "reading": "びょうかん",
+       "romaji": "byoukan",
+       "gloss": "duration in seconds"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "40",
+       "pos": "noun",
+       "gloss": "forty"
+      },
+      {
+       "surface": "メートル",
+       "pos": "noun",
+       "romaji": "meetoru",
+       "gloss": "meter"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The wind at the center of the typhoon is 40 meters per second.",
+     "audioStart": 143.16,
+     "audioEnd": 148.488
+    },
+    {
+     "text": "もっと強い風は、1秒間に60メートルです。",
+     "tokens": [
+      {
+       "surface": "もっと",
+       "pos": "adverb",
+       "romaji": "motto",
+       "gloss": "more"
+      },
+      {
+       "surface": "強い",
+       "pos": "adjective",
+       "reading": "つよい",
+       "romaji": "tsuyoi",
+       "gloss": "strong"
+      },
+      {
+       "surface": "風",
+       "pos": "noun",
+       "reading": "かぜ",
+       "romaji": "kaze",
+       "gloss": "wind"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "秒間",
+       "pos": "noun",
+       "reading": "びょうかん",
+       "romaji": "byoukan",
+       "gloss": "duration in seconds"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "60",
+       "pos": "noun",
+       "gloss": "sixty"
+      },
+      {
+       "surface": "メートル",
+       "pos": "noun",
+       "romaji": "meetoru",
+       "gloss": "meter"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Stronger gusts reach 60 meters per second.",
+     "audioStart": 148.488,
+     "audioEnd": 153.384
+    },
+    {
+     "text": "とても強い台風です。",
+     "tokens": [
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very"
+      },
+      {
+       "surface": "強い",
+       "pos": "adjective",
+       "reading": "つよい",
+       "romaji": "tsuyoi",
+       "gloss": "strong"
+      },
+      {
+       "surface": "台風",
+       "pos": "noun",
+       "reading": "たいふう",
+       "romaji": "taifuu",
+       "gloss": "typhoon"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is a very strong typhoon.",
+     "audioStart": 153.384,
+     "audioEnd": 156.072
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "台風18号は、これからもっと強くなります。",
+     "tokens": [
+      {
+       "surface": "台風",
+       "pos": "noun",
+       "reading": "たいふう",
+       "romaji": "taifuu",
+       "gloss": "typhoon"
+      },
+      {
+       "surface": "18",
+       "pos": "noun",
+       "gloss": "eighteen"
+      },
+      {
+       "surface": "号",
+       "pos": "noun",
+       "reading": "ごう",
+       "romaji": "gou",
+       "gloss": "number/issue (counter for typhoons)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore",
+       "gloss": "this"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from/since"
+      },
+      {
+       "surface": "もっと",
+       "pos": "adverb",
+       "romaji": "motto",
+       "gloss": "more"
+      },
+      {
+       "surface": "強く",
+       "pos": "adjective",
+       "reading": "つよく",
+       "romaji": "tsuyoku",
+       "lemma": "強い",
+       "gloss": "strong"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Typhoon No. 18 will become even stronger from now on.",
+     "audioStart": 156.072,
+     "audioEnd": 160.824
+    },
+    {
+     "text": "そして、西へ進みます。",
+     "tokens": [
+      {
+       "surface": "そして",
+       "pos": "conjunction",
+       "romaji": "soshite",
+       "gloss": "and then"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "西",
+       "pos": "noun",
+       "reading": "にし",
+       "romaji": "nishi",
+       "gloss": "west"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "direction particle 'to/toward'"
+      },
+      {
+       "surface": "進み",
+       "pos": "verb",
+       "reading": "すすみ",
+       "romaji": "susumi",
+       "lemma": "進む",
+       "gloss": "to advance/proceed"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "And it will move west.",
+     "audioStart": 160.824,
+     "audioEnd": 164.136
+    },
+    {
+     "text": "25日は大東島、26日は沖縄本島、27日は先島諸島に近づくでしょう。",
+     "tokens": [
+      {
+       "surface": "25",
+       "pos": "noun",
+       "gloss": "twenty-five"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "大東",
+       "pos": "noun",
+       "reading": "だいとう",
+       "romaji": "daitou",
+       "gloss": "Daito (place name)"
+      },
+      {
+       "surface": "島",
+       "pos": "suffix",
+       "reading": "とう",
+       "romaji": "tou",
+       "gloss": "island"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "26",
+       "pos": "noun",
+       "gloss": "twenty-six"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "沖縄",
+       "pos": "noun",
+       "reading": "おきなわ",
+       "romaji": "okinawa",
+       "gloss": "Okinawa"
+      },
+      {
+       "surface": "本島",
+       "pos": "noun",
+       "reading": "ほんとう",
+       "romaji": "hontou",
+       "gloss": "main island"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "27",
+       "pos": "noun",
+       "gloss": "twenty-seven"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "先島",
+       "pos": "noun",
+       "reading": "さきしま",
+       "romaji": "sakishima",
+       "gloss": "Sakishima (place name)"
+      },
+      {
+       "surface": "諸島",
+       "pos": "noun",
+       "reading": "しょとう",
+       "romaji": "shotou",
+       "gloss": "islands/archipelago"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "近づく",
+       "pos": "verb",
+       "reading": "ちかづく",
+       "romaji": "chikazuku",
+       "gloss": "to approach/get near"
+      },
+      {
+       "surface": "でしょう",
+       "pos": "auxiliary",
+       "romaji": "deshou",
+       "lemma": "です",
+       "gloss": "polite copula 'is'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It will likely approach Daito Island on the 25th, the main island of Okinawa on the 26th, and the Sakishima Islands on the 27th.",
+     "audioStart": 164.136,
+     "audioEnd": 172.944
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "沖縄では、明日24日から風が強くなります。",
+     "tokens": [
+      {
+       "surface": "沖縄",
+       "pos": "noun",
+       "reading": "おきなわ",
+       "romaji": "okinawa",
+       "gloss": "Okinawa"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "明日",
+       "pos": "noun",
+       "reading": "みょうにち",
+       "romaji": "myounichi",
+       "gloss": "tomorrow"
+      },
+      {
+       "surface": "24",
+       "pos": "noun",
+       "gloss": "twenty-four"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from/since"
+      },
+      {
+       "surface": "風",
+       "pos": "noun",
+       "reading": "かぜ",
+       "romaji": "kaze",
+       "gloss": "wind"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "強く",
+       "pos": "adjective",
+       "reading": "つよく",
+       "romaji": "tsuyoku",
+       "lemma": "強い",
+       "gloss": "strong"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In Okinawa, winds will become strong starting tomorrow, the 24th.",
+     "audioStart": 172.944,
+     "audioEnd": 178.008
+    },
+    {
+     "text": "25日と26日は、建物が壊れるくらい強い風が吹くかもしれません。",
+     "tokens": [
+      {
+       "surface": "25",
+       "pos": "noun",
+       "gloss": "twenty-five"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and (connects nouns)"
+      },
+      {
+       "surface": "26",
+       "pos": "noun",
+       "gloss": "twenty-six"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "建物",
+       "pos": "noun",
+       "reading": "たてもの",
+       "romaji": "tatemono",
+       "gloss": "building"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "壊れる",
+       "pos": "verb",
+       "reading": "こわれる",
+       "romaji": "kowareru",
+       "gloss": "to break/be destroyed"
+      },
+      {
+       "surface": "くらい",
+       "pos": "particle",
+       "romaji": "kurai",
+       "gloss": "approximately/to the extent that"
+      },
+      {
+       "surface": "強い",
+       "pos": "adjective",
+       "reading": "つよい",
+       "romaji": "tsuyoi",
+       "gloss": "strong"
+      },
+      {
+       "surface": "風",
+       "pos": "noun",
+       "reading": "かぜ",
+       "romaji": "kaze",
+       "gloss": "wind"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "吹く",
+       "pos": "verb",
+       "reading": "ふく",
+       "romaji": "fuku",
+       "gloss": "to blow"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question/uncertainty marker"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too"
+      },
+      {
+       "surface": "しれ",
+       "pos": "verb",
+       "romaji": "shire",
+       "lemma": "しれる",
+       "gloss": "'might' (in 〜かもしれない)"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (as in 〜ません)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On the 25th and 26th, winds strong enough to destroy buildings may blow.",
+     "audioStart": 178.008,
+     "audioEnd": 184.752
+    },
+    {
+     "text": "強い雨や高い波、高潮も心配です。",
+     "tokens": [
+      {
+       "surface": "強い",
+       "pos": "adjective",
+       "reading": "つよい",
+       "romaji": "tsuyoi",
+       "gloss": "strong"
+      },
+      {
+       "surface": "雨",
+       "pos": "noun",
+       "reading": "あめ",
+       "romaji": "ame",
+       "gloss": "rain"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and/or (listing particle)"
+      },
+      {
+       "surface": "高い",
+       "pos": "adjective",
+       "reading": "たかい",
+       "romaji": "takai",
+       "gloss": "high/tall"
+      },
+      {
+       "surface": "波",
+       "pos": "noun",
+       "reading": "なみ",
+       "romaji": "nami",
+       "gloss": "wave"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "高潮",
+       "pos": "noun",
+       "reading": "たかしお",
+       "romaji": "takashio",
+       "gloss": "storm surge"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too"
+      },
+      {
+       "surface": "心配",
+       "pos": "noun",
+       "reading": "しんぱい",
+       "romaji": "shinpai",
+       "gloss": "worry/concern"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Strong rain, high waves, and storm surges are also concerns.",
+     "audioStart": 184.752,
+     "audioEnd": 189.264
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "【風の強さ】",
+     "tokens": [
+      {
+       "surface": "【",
+       "pos": "punct"
+      },
+      {
+       "surface": "風",
+       "pos": "noun",
+       "reading": "かぜ",
+       "romaji": "kaze",
+       "gloss": "wind"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "強さ",
+       "pos": "noun",
+       "reading": "つよさ",
+       "romaji": "tsuyosa",
+       "gloss": "strength/intensity"
+      },
+      {
+       "surface": "】",
+       "pos": "punct"
+      }
+     ],
+     "translation": "[Wind strength]",
+     "audioStart": 189.264,
+     "audioEnd": 191.208
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "24日、大東島の風は1秒間に17メートル、強い時は30メートルになるかもしれません。",
+     "tokens": [
+      {
+       "surface": "24",
+       "pos": "noun",
+       "gloss": "twenty-four"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "大東",
+       "pos": "noun",
+       "reading": "だいとう",
+       "romaji": "daitou",
+       "gloss": "Daito (place name)"
+      },
+      {
+       "surface": "島",
+       "pos": "suffix",
+       "reading": "とう",
+       "romaji": "tou",
+       "gloss": "island"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "風",
+       "pos": "noun",
+       "reading": "かぜ",
+       "romaji": "kaze",
+       "gloss": "wind"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "秒間",
+       "pos": "noun",
+       "reading": "びょうかん",
+       "romaji": "byoukan",
+       "gloss": "duration in seconds"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "17",
+       "pos": "noun",
+       "gloss": "seventeen"
+      },
+      {
+       "surface": "メートル",
+       "pos": "noun",
+       "romaji": "meetoru",
+       "gloss": "meter"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "強い",
+       "pos": "adjective",
+       "reading": "つよい",
+       "romaji": "tsuyoi",
+       "gloss": "strong"
+      },
+      {
+       "surface": "時",
+       "pos": "noun",
+       "reading": "とき",
+       "romaji": "toki",
+       "gloss": "o'clock/hour"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "30",
+       "pos": "noun",
+       "gloss": "thirty"
+      },
+      {
+       "surface": "メートル",
+       "pos": "noun",
+       "romaji": "meetoru",
+       "gloss": "meter"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "なる",
+       "pos": "verb",
+       "romaji": "naru",
+       "gloss": "to become"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question/uncertainty marker"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too"
+      },
+      {
+       "surface": "しれ",
+       "pos": "verb",
+       "romaji": "shire",
+       "lemma": "しれる",
+       "gloss": "'might' (in 〜かもしれない)"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (as in 〜ません)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On the 24th, wind in Daito Island may be 17 meters per second, reaching 30 meters per second at its strongest.",
+     "audioStart": 191.208,
+     "audioEnd": 200.16
+    },
+    {
+     "text": "25日、沖縄本島の風は1秒間に23メートル、強い時は35メートルになるかもしれません。",
+     "tokens": [
+      {
+       "surface": "25",
+       "pos": "noun",
+       "gloss": "twenty-five"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "沖縄",
+       "pos": "noun",
+       "reading": "おきなわ",
+       "romaji": "okinawa",
+       "gloss": "Okinawa"
+      },
+      {
+       "surface": "本島",
+       "pos": "noun",
+       "reading": "ほんとう",
+       "romaji": "hontou",
+       "gloss": "main island"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "風",
+       "pos": "noun",
+       "reading": "かぜ",
+       "romaji": "kaze",
+       "gloss": "wind"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "秒間",
+       "pos": "noun",
+       "reading": "びょうかん",
+       "romaji": "byoukan",
+       "gloss": "duration in seconds"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "23",
+       "pos": "noun",
+       "gloss": "twenty-three"
+      },
+      {
+       "surface": "メートル",
+       "pos": "noun",
+       "romaji": "meetoru",
+       "gloss": "meter"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "強い",
+       "pos": "adjective",
+       "reading": "つよい",
+       "romaji": "tsuyoi",
+       "gloss": "strong"
+      },
+      {
+       "surface": "時",
+       "pos": "noun",
+       "reading": "とき",
+       "romaji": "toki",
+       "gloss": "o'clock/hour"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "35",
+       "pos": "noun",
+       "gloss": "thirty-five"
+      },
+      {
+       "surface": "メートル",
+       "pos": "noun",
+       "romaji": "meetoru",
+       "gloss": "meter"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "なる",
+       "pos": "verb",
+       "romaji": "naru",
+       "gloss": "to become"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question/uncertainty marker"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too"
+      },
+      {
+       "surface": "しれ",
+       "pos": "verb",
+       "romaji": "shire",
+       "lemma": "しれる",
+       "gloss": "'might' (in 〜かもしれない)"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (as in 〜ません)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On the 25th, wind on the main island of Okinawa may be 23 meters per second, reaching 35 meters per second at its strongest.",
+     "audioStart": 200.16,
+     "audioEnd": 209.544
+    },
+    {
+     "text": "大東島の風は1秒間に35メートル、強い時は50メートルになるかもしれません。",
+     "tokens": [
+      {
+       "surface": "大東",
+       "pos": "noun",
+       "reading": "だいとう",
+       "romaji": "daitou",
+       "gloss": "Daito (place name)"
+      },
+      {
+       "surface": "島",
+       "pos": "suffix",
+       "reading": "とう",
+       "romaji": "tou",
+       "gloss": "island"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "風",
+       "pos": "noun",
+       "reading": "かぜ",
+       "romaji": "kaze",
+       "gloss": "wind"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one"
+      },
+      {
+       "surface": "秒間",
+       "pos": "noun",
+       "reading": "びょうかん",
+       "romaji": "byoukan",
+       "gloss": "duration in seconds"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "35",
+       "pos": "noun",
+       "gloss": "thirty-five"
+      },
+      {
+       "surface": "メートル",
+       "pos": "noun",
+       "romaji": "meetoru",
+       "gloss": "meter"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "強い",
+       "pos": "adjective",
+       "reading": "つよい",
+       "romaji": "tsuyoi",
+       "gloss": "strong"
+      },
+      {
+       "surface": "時",
+       "pos": "noun",
+       "reading": "とき",
+       "romaji": "toki",
+       "gloss": "o'clock/hour"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "50",
+       "pos": "noun",
+       "gloss": "fifty"
+      },
+      {
+       "surface": "メートル",
+       "pos": "noun",
+       "romaji": "meetoru",
+       "gloss": "meter"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "なる",
+       "pos": "verb",
+       "romaji": "naru",
+       "gloss": "to become"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question/uncertainty marker"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too"
+      },
+      {
+       "surface": "しれ",
+       "pos": "verb",
+       "romaji": "shire",
+       "lemma": "しれる",
+       "gloss": "'might' (in 〜かもしれない)"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (as in 〜ません)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Wind in Daito Island may be 35 meters per second, reaching 50 meters per second at its strongest.",
+     "audioStart": 209.544,
+     "audioEnd": 217.512
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "【波の高さ】",
+     "tokens": [
+      {
+       "surface": "【",
+       "pos": "punct"
+      },
+      {
+       "surface": "波",
+       "pos": "noun",
+       "reading": "なみ",
+       "romaji": "nami",
+       "gloss": "wave"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "高さ",
+       "pos": "noun",
+       "reading": "たかさ",
+       "romaji": "takasa",
+       "gloss": "height"
+      },
+      {
+       "surface": "】",
+       "pos": "punct"
+      }
+     ],
+     "translation": "[Wave height]",
+     "audioStart": 217.512,
+     "audioEnd": 219.48
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "23日、小笠原諸島は5メートルの波です。",
+     "tokens": [
+      {
+       "surface": "23",
+       "pos": "noun",
+       "gloss": "twenty-three"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "小笠原",
+       "pos": "noun",
+       "reading": "おがさわら",
+       "romaji": "ogasawara",
+       "gloss": "Ogasawara (place name)"
+      },
+      {
+       "surface": "諸島",
+       "pos": "noun",
+       "reading": "しょとう",
+       "romaji": "shotou",
+       "gloss": "islands/archipelago"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "5",
+       "pos": "noun",
+       "gloss": "five"
+      },
+      {
+       "surface": "メートル",
+       "pos": "noun",
+       "romaji": "meetoru",
+       "gloss": "meter"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "波",
+       "pos": "noun",
+       "reading": "なみ",
+       "romaji": "nami",
+       "gloss": "wave"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On the 23rd, waves near the Ogasawara Islands are 5 meters.",
+     "audioStart": 219.48,
+     "audioEnd": 224.592
+    },
+    {
+     "text": "24日、小笠原諸島は5メートル、沖縄本島は3メートル、大東島は6メートル、宮古島は2.5メートル、八重山は3メートルの波です。",
+     "tokens": [
+      {
+       "surface": "24",
+       "pos": "noun",
+       "gloss": "twenty-four"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "小笠原",
+       "pos": "noun",
+       "reading": "おがさわら",
+       "romaji": "ogasawara",
+       "gloss": "Ogasawara (place name)"
+      },
+      {
+       "surface": "諸島",
+       "pos": "noun",
+       "reading": "しょとう",
+       "romaji": "shotou",
+       "gloss": "islands/archipelago"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "5",
+       "pos": "noun",
+       "gloss": "five"
+      },
+      {
+       "surface": "メートル",
+       "pos": "noun",
+       "romaji": "meetoru",
+       "gloss": "meter"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "沖縄",
+       "pos": "noun",
+       "reading": "おきなわ",
+       "romaji": "okinawa",
+       "gloss": "Okinawa"
+      },
+      {
+       "surface": "本島",
+       "pos": "noun",
+       "reading": "ほんとう",
+       "romaji": "hontou",
+       "gloss": "main island"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "3",
+       "pos": "noun",
+       "gloss": "three"
+      },
+      {
+       "surface": "メートル",
+       "pos": "noun",
+       "romaji": "meetoru",
+       "gloss": "meter"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "大東",
+       "pos": "noun",
+       "reading": "だいとう",
+       "romaji": "daitou",
+       "gloss": "Daito (place name)"
+      },
+      {
+       "surface": "島",
+       "pos": "suffix",
+       "reading": "とう",
+       "romaji": "tou",
+       "gloss": "island"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "6",
+       "pos": "noun",
+       "gloss": "six"
+      },
+      {
+       "surface": "メートル",
+       "pos": "noun",
+       "romaji": "meetoru",
+       "gloss": "meter"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "宮古島",
+       "pos": "noun",
+       "reading": "みやこじま",
+       "romaji": "miyakojima",
+       "gloss": "Miyako Island"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "2.5",
+       "pos": "noun",
+       "gloss": "two point five"
+      },
+      {
+       "surface": "メートル",
+       "pos": "noun",
+       "romaji": "meetoru",
+       "gloss": "meter"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "八重山",
+       "pos": "noun",
+       "reading": "やえやま",
+       "romaji": "yaeyama",
+       "gloss": "Yaeyama (place name)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "3",
+       "pos": "noun",
+       "gloss": "three"
+      },
+      {
+       "surface": "メートル",
+       "pos": "noun",
+       "romaji": "meetoru",
+       "gloss": "meter"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "波",
+       "pos": "noun",
+       "reading": "なみ",
+       "romaji": "nami",
+       "gloss": "wave"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On the 24th, waves are 5 meters near the Ogasawara Islands, 3 meters near the main island of Okinawa, 6 meters near Daito Island, 2.5 meters near Miyako Island, and 3 meters near Yaeyama.",
+     "audioStart": 224.592,
+     "audioEnd": 238.08
+    },
+    {
+     "text": "25日、沖縄本島は7メートル、大東島は11メートル、宮古島は5メートル、八重山は3メートルの波になるでしょう。",
+     "tokens": [
+      {
+       "surface": "25",
+       "pos": "noun",
+       "gloss": "twenty-five"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "ka",
+       "gloss": "day"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "沖縄",
+       "pos": "noun",
+       "reading": "おきなわ",
+       "romaji": "okinawa",
+       "gloss": "Okinawa"
+      },
+      {
+       "surface": "本島",
+       "pos": "noun",
+       "reading": "ほんとう",
+       "romaji": "hontou",
+       "gloss": "main island"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "7",
+       "pos": "noun",
+       "gloss": "seven"
+      },
+      {
+       "surface": "メートル",
+       "pos": "noun",
+       "romaji": "meetoru",
+       "gloss": "meter"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "大東",
+       "pos": "noun",
+       "reading": "だいとう",
+       "romaji": "daitou",
+       "gloss": "Daito (place name)"
+      },
+      {
+       "surface": "島",
+       "pos": "suffix",
+       "reading": "とう",
+       "romaji": "tou",
+       "gloss": "island"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "11",
+       "pos": "noun",
+       "gloss": "eleven"
+      },
+      {
+       "surface": "メートル",
+       "pos": "noun",
+       "romaji": "meetoru",
+       "gloss": "meter"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "宮古島",
+       "pos": "noun",
+       "reading": "みやこじま",
+       "romaji": "miyakojima",
+       "gloss": "Miyako Island"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "5",
+       "pos": "noun",
+       "gloss": "five"
+      },
+      {
+       "surface": "メートル",
+       "pos": "noun",
+       "romaji": "meetoru",
+       "gloss": "meter"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "八重山",
+       "pos": "noun",
+       "reading": "やえやま",
+       "romaji": "yaeyama",
+       "gloss": "Yaeyama (place name)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "3",
+       "pos": "noun",
+       "gloss": "three"
+      },
+      {
+       "surface": "メートル",
+       "pos": "noun",
+       "romaji": "meetoru",
+       "gloss": "meter"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "波",
+       "pos": "noun",
+       "reading": "なみ",
+       "romaji": "nami",
+       "gloss": "wave"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time marker"
+      },
+      {
+       "surface": "なる",
+       "pos": "verb",
+       "romaji": "naru",
+       "gloss": "to become"
+      },
+      {
+       "surface": "でしょう",
+       "pos": "auxiliary",
+       "romaji": "deshou",
+       "lemma": "です",
+       "gloss": "polite copula 'is'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On the 25th, waves will likely be 7 meters near the main island of Okinawa, 11 meters near Daito Island, 5 meters near Miyako Island, and 3 meters near Yaeyama.",
+     "audioStart": 238.08,
+     "audioEnd": 249.576
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "早く、台風の準備をしてください。",
+     "tokens": [
+      {
+       "surface": "早く",
+       "pos": "adjective",
+       "reading": "はやく",
+       "romaji": "hayaku",
+       "lemma": "早い",
+       "gloss": "early/quick"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "台風",
+       "pos": "noun",
+       "reading": "たいふう",
+       "romaji": "taifuu",
+       "gloss": "typhoon"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle"
+      },
+      {
+       "surface": "準備",
+       "pos": "noun",
+       "reading": "じゅんび",
+       "romaji": "junbi",
+       "gloss": "preparation"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる",
+       "gloss": "to give (polite, 〜てください 'please')"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Please prepare for the typhoon quickly.",
+     "audioStart": 249.576,
+     "audioEnd": 253.464
+    }
+   ]
+  }
+ ]
+}

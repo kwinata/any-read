@@ -1,0 +1,2013 @@
+{
+ "schemaVersion": 1,
+ "id": "let-s-go-to-a-sento-public-bath",
+ "language": "ja",
+ "title": "銭湯に行ってみましょう",
+ "titleTranslation": "Let's Go to a Sento (Public Bath)",
+ "level": "N4",
+ "summary": "The article introduces Japanese public bathhouses called sento, covering their history, bathing rules, features, and the social role they play for local communities.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-23T03:46:51+00:00",
+ "audioFile": "audio.mp3",
+ "voice": "ja-JP-NanamiNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "日本には「銭湯」という大きいお風呂があります。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction marker"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "銭湯",
+       "pos": "noun",
+       "reading": "せんとう",
+       "romaji": "sentou",
+       "gloss": "public bathhouse"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: quotation, \"called ~\""
+      },
+      {
+       "surface": "いう",
+       "pos": "verb",
+       "romaji": "iu",
+       "gloss": "to say, to call"
+      },
+      {
+       "surface": "大きい",
+       "pos": "adjective",
+       "reading": "おおきい",
+       "romaji": "ookii",
+       "gloss": "big, large"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "風呂",
+       "pos": "noun",
+       "reading": "ふろ",
+       "romaji": "furo",
+       "gloss": "bath"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In Japan, there is a large bath called a \"sento.\"",
+     "audioStart": 0.0,
+     "audioEnd": 5.064
+    },
+    {
+     "text": "銭湯は、家にお風呂がない人や、大きいお風呂に入りたい人が使う場所です。",
+     "tokens": [
+      {
+       "surface": "銭湯",
+       "pos": "noun",
+       "reading": "せんとう",
+       "romaji": "sentou",
+       "gloss": "public bathhouse"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "家",
+       "pos": "noun",
+       "reading": "いえ",
+       "romaji": "ie",
+       "gloss": "house, home"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction marker"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "風呂",
+       "pos": "noun",
+       "reading": "ふろ",
+       "romaji": "furo",
+       "gloss": "bath"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "ない",
+       "pos": "adjective",
+       "romaji": "nai",
+       "gloss": "negative (not exist/not)"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "particle: and/or (non-exhaustive list)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "大きい",
+       "pos": "adjective",
+       "reading": "おおきい",
+       "romaji": "ookii",
+       "gloss": "big, large"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "風呂",
+       "pos": "noun",
+       "reading": "ふろ",
+       "romaji": "furo",
+       "gloss": "bath"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction marker"
+      },
+      {
+       "surface": "入り",
+       "pos": "verb",
+       "reading": "はいり",
+       "romaji": "hairi",
+       "lemma": "入る",
+       "gloss": "to enter"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desiderative ending)"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "使う",
+       "pos": "verb",
+       "reading": "つかう",
+       "romaji": "tsukau",
+       "gloss": "to use"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "A sento is a place used by people who don't have a bath at home, or people who want to soak in a large bath.",
+     "audioStart": 5.064,
+     "audioEnd": 12.696
+    },
+    {
+     "text": "昔は多くの家にお風呂がなかったので、銭湯はとても大切な場所でした。",
+     "tokens": [
+      {
+       "surface": "昔",
+       "pos": "noun",
+       "reading": "むかし",
+       "romaji": "mukashi",
+       "gloss": "long ago, the past"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "多く",
+       "pos": "noun",
+       "reading": "おおく",
+       "romaji": "ooku",
+       "gloss": "many, much"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle"
+      },
+      {
+       "surface": "家",
+       "pos": "noun",
+       "reading": "いえ",
+       "romaji": "ie",
+       "gloss": "house, home"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction marker"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "風呂",
+       "pos": "noun",
+       "reading": "ふろ",
+       "romaji": "furo",
+       "gloss": "bath"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "なかっ",
+       "pos": "adjective",
+       "romaji": "nakatsu",
+       "lemma": "ない",
+       "gloss": "negative (not exist/not)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "plain copula"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "銭湯",
+       "pos": "noun",
+       "reading": "せんとう",
+       "romaji": "sentou",
+       "gloss": "public bathhouse"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very"
+      },
+      {
+       "surface": "大切",
+       "pos": "adjective",
+       "reading": "たいせつ",
+       "romaji": "taisetsu",
+       "gloss": "important"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "plain copula"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place"
+      },
+      {
+       "surface": "でし",
+       "pos": "auxiliary",
+       "romaji": "deshi",
+       "lemma": "です",
+       "gloss": "polite copula"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In the past, many homes didn't have a bath, so sentos were a very important place.",
+     "audioStart": 12.696,
+     "audioEnd": 20.04
+    },
+    {
+     "text": "今も日本のいろいろな町に銭湯があります。",
+     "tokens": [
+      {
+       "surface": "今",
+       "pos": "noun",
+       "reading": "いま",
+       "romaji": "ima",
+       "gloss": "now"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle"
+      },
+      {
+       "surface": "いろいろ",
+       "pos": "adjective",
+       "romaji": "iroiro",
+       "gloss": "various"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "plain copula"
+      },
+      {
+       "surface": "町",
+       "pos": "noun",
+       "reading": "まち",
+       "romaji": "machi",
+       "gloss": "town"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction marker"
+      },
+      {
+       "surface": "銭湯",
+       "pos": "noun",
+       "reading": "せんとう",
+       "romaji": "sentou",
+       "gloss": "public bathhouse"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Even now, there are sentos in various towns in Japan.",
+     "audioStart": 20.04,
+     "audioEnd": 24.624
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "銭湯に入るときは、まず入り口でお金を払います。",
+     "tokens": [
+      {
+       "surface": "銭湯",
+       "pos": "noun",
+       "reading": "せんとう",
+       "romaji": "sentou",
+       "gloss": "public bathhouse"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction marker"
+      },
+      {
+       "surface": "入る",
+       "pos": "verb",
+       "reading": "はいる",
+       "romaji": "hairu",
+       "gloss": "to enter"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "when, time"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "まず",
+       "pos": "adverb",
+       "romaji": "mazu",
+       "gloss": "first, first of all"
+      },
+      {
+       "surface": "入り口",
+       "pos": "noun",
+       "reading": "いりぐち",
+       "romaji": "iriguchi",
+       "gloss": "entrance"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: place of action"
+      },
+      {
+       "surface": "お金",
+       "pos": "noun",
+       "reading": "おかね",
+       "romaji": "okane",
+       "gloss": "money"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "払い",
+       "pos": "verb",
+       "reading": "はらい",
+       "romaji": "harai",
+       "lemma": "払う",
+       "gloss": "to pay"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When you enter a sento, you first pay money at the entrance.",
+     "audioStart": 24.624,
+     "audioEnd": 30.024
+    },
+    {
+     "text": "それから、服を脱いで、体を洗ってからお風呂に入ります。",
+     "tokens": [
+      {
+       "surface": "それ",
+       "pos": "pronoun",
+       "romaji": "sore",
+       "gloss": "that"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from, after that"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "服",
+       "pos": "noun",
+       "reading": "ふく",
+       "romaji": "fuku",
+       "gloss": "clothes"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "脱い",
+       "pos": "verb",
+       "reading": "ぬい",
+       "romaji": "nui",
+       "lemma": "脱ぐ",
+       "gloss": "to take off (clothing)"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: place of action"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "体",
+       "pos": "noun",
+       "reading": "からだ",
+       "romaji": "karada",
+       "gloss": "body"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "洗っ",
+       "pos": "verb",
+       "reading": "あらっ",
+       "romaji": "aratsu",
+       "lemma": "洗う",
+       "gloss": "to wash"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form (connective)"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from, after that"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "風呂",
+       "pos": "noun",
+       "reading": "ふろ",
+       "romaji": "furo",
+       "gloss": "bath"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction marker"
+      },
+      {
+       "surface": "入り",
+       "pos": "verb",
+       "reading": "はいり",
+       "romaji": "hairi",
+       "lemma": "入る",
+       "gloss": "to enter"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Then, you take off your clothes, wash your body, and after that enter the bath.",
+     "audioStart": 30.024,
+     "audioEnd": 36.192
+    },
+    {
+     "text": "お風呂に入る前に体を洗うのは、日本のお風呂のルールです。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "風呂",
+       "pos": "noun",
+       "reading": "ふろ",
+       "romaji": "furo",
+       "gloss": "bath"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction marker"
+      },
+      {
+       "surface": "入る",
+       "pos": "verb",
+       "reading": "はいる",
+       "romaji": "hairu",
+       "gloss": "to enter"
+      },
+      {
+       "surface": "前",
+       "pos": "noun",
+       "reading": "まえ",
+       "romaji": "mae",
+       "gloss": "before"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction marker"
+      },
+      {
+       "surface": "体",
+       "pos": "noun",
+       "reading": "からだ",
+       "romaji": "karada",
+       "gloss": "body"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "洗う",
+       "pos": "verb",
+       "reading": "あらう",
+       "romaji": "arau",
+       "gloss": "to wash"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "風呂",
+       "pos": "noun",
+       "reading": "ふろ",
+       "romaji": "furo",
+       "gloss": "bath"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle"
+      },
+      {
+       "surface": "ルール",
+       "pos": "noun",
+       "romaji": "ruuru",
+       "gloss": "rule"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Washing your body before entering the bath is a rule of Japanese baths.",
+     "audioStart": 36.192,
+     "audioEnd": 42.192
+    },
+    {
+     "text": "みんなが気持ちよくお風呂に入れるように、このルールを守ります。",
+     "tokens": [
+      {
+       "surface": "みんな",
+       "pos": "noun",
+       "romaji": "minna",
+       "gloss": "everyone"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "気持ち",
+       "pos": "noun",
+       "reading": "きもち",
+       "romaji": "kimochi",
+       "gloss": "feeling"
+      },
+      {
+       "surface": "よく",
+       "pos": "adjective",
+       "romaji": "yoku",
+       "lemma": "よい",
+       "gloss": "good"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "風呂",
+       "pos": "noun",
+       "reading": "ふろ",
+       "romaji": "furo",
+       "gloss": "bath"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction marker"
+      },
+      {
+       "surface": "入れる",
+       "pos": "verb",
+       "reading": "いれる",
+       "romaji": "ireru",
+       "gloss": "can enter (potential form)"
+      },
+      {
+       "surface": "よう",
+       "pos": "adjective",
+       "romaji": "you",
+       "gloss": "so that, in order to"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "plain copula"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this"
+      },
+      {
+       "surface": "ルール",
+       "pos": "noun",
+       "romaji": "ruuru",
+       "gloss": "rule"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "守り",
+       "pos": "verb",
+       "reading": "まもり",
+       "romaji": "mamori",
+       "lemma": "守る",
+       "gloss": "to follow, to protect (a rule)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "People follow this rule so that everyone can enjoy the bath comfortably.",
+     "audioStart": 42.192,
+     "audioEnd": 48.024
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "銭湯のお風呂はとても大きくて、たくさんの人が一緒に入ることができます。",
+     "tokens": [
+      {
+       "surface": "銭湯",
+       "pos": "noun",
+       "reading": "せんとう",
+       "romaji": "sentou",
+       "gloss": "public bathhouse"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "風呂",
+       "pos": "noun",
+       "reading": "ふろ",
+       "romaji": "furo",
+       "gloss": "bath"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very"
+      },
+      {
+       "surface": "大きく",
+       "pos": "adjective",
+       "reading": "おおきく",
+       "romaji": "ookiku",
+       "lemma": "大きい",
+       "gloss": "big, large"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form (connective)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adjective",
+       "romaji": "takusan",
+       "gloss": "a lot, many"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "一緒",
+       "pos": "noun",
+       "reading": "いっしょ",
+       "romaji": "issho",
+       "gloss": "together"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction marker"
+      },
+      {
+       "surface": "入る",
+       "pos": "verb",
+       "reading": "はいる",
+       "romaji": "hairu",
+       "gloss": "to enter"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer: the act of ~"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to, can"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The baths at a sento are very large, so many people can bathe together.",
+     "audioStart": 48.024,
+     "audioEnd": 55.176
+    },
+    {
+     "text": "熱いお風呂や冷たいお風呂など、いろいろな種類のお風呂がある銭湯もあります。",
+     "tokens": [
+      {
+       "surface": "熱い",
+       "pos": "adjective",
+       "reading": "あつい",
+       "romaji": "atsui",
+       "gloss": "hot"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "風呂",
+       "pos": "noun",
+       "reading": "ふろ",
+       "romaji": "furo",
+       "gloss": "bath"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "particle: and/or (non-exhaustive list)"
+      },
+      {
+       "surface": "冷たい",
+       "pos": "adjective",
+       "reading": "つめたい",
+       "romaji": "tsumetai",
+       "gloss": "cold"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "風呂",
+       "pos": "noun",
+       "reading": "ふろ",
+       "romaji": "furo",
+       "gloss": "bath"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "いろいろ",
+       "pos": "adjective",
+       "romaji": "iroiro",
+       "gloss": "various"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "plain copula"
+      },
+      {
+       "surface": "種類",
+       "pos": "noun",
+       "reading": "しゅるい",
+       "romaji": "shurui",
+       "gloss": "kind, type"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "風呂",
+       "pos": "noun",
+       "reading": "ふろ",
+       "romaji": "furo",
+       "gloss": "bath"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "ある",
+       "pos": "verb",
+       "romaji": "aru",
+       "gloss": "to exist (inanimate)"
+      },
+      {
+       "surface": "銭湯",
+       "pos": "noun",
+       "reading": "せんとう",
+       "romaji": "sentou",
+       "gloss": "public bathhouse"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Some sentos have various kinds of baths, such as hot baths and cold baths.",
+     "audioStart": 55.176,
+     "audioEnd": 62.256
+    },
+    {
+     "text": "壁に富士山の絵がかいてある銭湯も多いです。",
+     "tokens": [
+      {
+       "surface": "壁",
+       "pos": "noun",
+       "reading": "かべ",
+       "romaji": "kabe",
+       "gloss": "wall"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction marker"
+      },
+      {
+       "surface": "富士山",
+       "pos": "noun",
+       "reading": "ふじやま",
+       "romaji": "fujiyama",
+       "gloss": "Mt. Fuji"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle"
+      },
+      {
+       "surface": "絵",
+       "pos": "noun",
+       "reading": "え",
+       "romaji": "e",
+       "gloss": "picture, painting"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "かい",
+       "pos": "verb",
+       "romaji": "kai",
+       "lemma": "かく",
+       "gloss": "to draw, to paint"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form (connective)"
+      },
+      {
+       "surface": "ある",
+       "pos": "verb",
+       "romaji": "aru",
+       "gloss": "to exist (inanimate)"
+      },
+      {
+       "surface": "銭湯",
+       "pos": "noun",
+       "reading": "せんとう",
+       "romaji": "sentou",
+       "gloss": "public bathhouse"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "多い",
+       "pos": "adjective",
+       "reading": "おおい",
+       "romaji": "ooi",
+       "gloss": "many, numerous"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many sentos have a painting of Mt. Fuji on the wall.",
+     "audioStart": 62.256,
+     "audioEnd": 66.984
+    },
+    {
+     "text": "この絵を見ながらお風呂に入るのが好きな人もたくさんいます。",
+     "tokens": [
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this"
+      },
+      {
+       "surface": "絵",
+       "pos": "noun",
+       "reading": "え",
+       "romaji": "e",
+       "gloss": "picture, painting"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "見",
+       "pos": "verb",
+       "reading": "み",
+       "romaji": "mi",
+       "lemma": "見る",
+       "gloss": "to see, to look"
+      },
+      {
+       "surface": "ながら",
+       "pos": "particle",
+       "romaji": "nagara",
+       "gloss": "while (doing)"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "風呂",
+       "pos": "noun",
+       "reading": "ふろ",
+       "romaji": "furo",
+       "gloss": "bath"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction marker"
+      },
+      {
+       "surface": "入る",
+       "pos": "verb",
+       "reading": "はいる",
+       "romaji": "hairu",
+       "gloss": "to enter"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "好き",
+       "pos": "adjective",
+       "reading": "すき",
+       "romaji": "suki",
+       "gloss": "like, fond of"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "plain copula"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (animate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many people like to bathe while looking at this painting.",
+     "audioStart": 66.984,
+     "audioEnd": 72.48
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "お風呂に入った後は、休憩室で牛乳を飲む人がよくいます。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "風呂",
+       "pos": "noun",
+       "reading": "ふろ",
+       "romaji": "furo",
+       "gloss": "bath"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction marker"
+      },
+      {
+       "surface": "入っ",
+       "pos": "verb",
+       "reading": "はいっ",
+       "romaji": "haitsu",
+       "lemma": "入る",
+       "gloss": "to enter"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "後",
+       "pos": "noun",
+       "reading": "あと",
+       "romaji": "ato",
+       "gloss": "after"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "休憩室",
+       "pos": "noun",
+       "reading": "きゅうけいしつ",
+       "romaji": "kyuukeishitsu",
+       "gloss": "resting room, lounge"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: place of action"
+      },
+      {
+       "surface": "牛乳",
+       "pos": "noun",
+       "reading": "ぎゅうにゅう",
+       "romaji": "gyuunyuu",
+       "gloss": "milk"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "飲む",
+       "pos": "verb",
+       "reading": "のむ",
+       "romaji": "nomu",
+       "gloss": "to drink"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker"
+      },
+      {
+       "surface": "よく",
+       "pos": "adverb",
+       "romaji": "yoku",
+       "gloss": "often"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (animate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "After bathing, people often drink milk in the resting room.",
+     "audioStart": 72.48,
+     "audioEnd": 78.768
+    },
+    {
+     "text": "お風呂に入った後の冷たい牛乳は、とてもおいしいです。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix"
+      },
+      {
+       "surface": "風呂",
+       "pos": "noun",
+       "reading": "ふろ",
+       "romaji": "furo",
+       "gloss": "bath"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction marker"
+      },
+      {
+       "surface": "入っ",
+       "pos": "verb",
+       "reading": "はいっ",
+       "romaji": "haitsu",
+       "lemma": "入る",
+       "gloss": "to enter"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "後",
+       "pos": "noun",
+       "reading": "あと",
+       "romaji": "ato",
+       "gloss": "after"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle"
+      },
+      {
+       "surface": "冷たい",
+       "pos": "adjective",
+       "reading": "つめたい",
+       "romaji": "tsumetai",
+       "gloss": "cold"
+      },
+      {
+       "surface": "牛乳",
+       "pos": "noun",
+       "reading": "ぎゅうにゅう",
+       "romaji": "gyuunyuu",
+       "gloss": "milk"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very"
+      },
+      {
+       "surface": "おいしい",
+       "pos": "adjective",
+       "romaji": "oishii",
+       "gloss": "delicious"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Cold milk after a bath is very delicious.",
+     "audioStart": 78.768,
+     "audioEnd": 84.36
+    },
+    {
+     "text": "銭湯は体を洗うだけの場所ではなく、近所の人と話したり、ゆっくり休んだりする場所でもあります。",
+     "tokens": [
+      {
+       "surface": "銭湯",
+       "pos": "noun",
+       "reading": "せんとう",
+       "romaji": "sentou",
+       "gloss": "public bathhouse"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "体",
+       "pos": "noun",
+       "reading": "からだ",
+       "romaji": "karada",
+       "gloss": "body"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker"
+      },
+      {
+       "surface": "洗う",
+       "pos": "verb",
+       "reading": "あらう",
+       "romaji": "arau",
+       "gloss": "to wash"
+      },
+      {
+       "surface": "だけ",
+       "pos": "particle",
+       "romaji": "dake",
+       "gloss": "only, just"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: place of action"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker"
+      },
+      {
+       "surface": "なく",
+       "pos": "adjective",
+       "romaji": "naku",
+       "lemma": "ない",
+       "gloss": "negative (not exist/not)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "近所",
+       "pos": "noun",
+       "reading": "きんじょ",
+       "romaji": "kinjo",
+       "gloss": "neighborhood"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: quotation, \"called ~\""
+      },
+      {
+       "surface": "話し",
+       "pos": "verb",
+       "reading": "はなし",
+       "romaji": "hanashi",
+       "lemma": "話す",
+       "gloss": "to talk, to speak"
+      },
+      {
+       "surface": "たり",
+       "pos": "particle",
+       "romaji": "tari",
+       "gloss": "listing representative actions (~たり~たりする)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ゆっくり",
+       "pos": "adverb",
+       "romaji": "yukkuri",
+       "gloss": "slowly, leisurely"
+      },
+      {
+       "surface": "休ん",
+       "pos": "verb",
+       "reading": "やすん",
+       "romaji": "yasun",
+       "lemma": "休む",
+       "gloss": "to rest"
+      },
+      {
+       "surface": "だり",
+       "pos": "particle",
+       "romaji": "dari",
+       "gloss": "voiced variant of たり (after ん)"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: place of action"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "A sento is not just a place to wash your body, but also a place to chat with neighbors and relax.",
+     "audioStart": 84.36,
+     "audioEnd": 93.792
+    },
+    {
+     "text": "日本に来たら、ぜひ銭湯に行ってみてください。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction marker"
+      },
+      {
+       "surface": "来",
+       "pos": "verb",
+       "reading": "き",
+       "romaji": "ki",
+       "lemma": "来る",
+       "gloss": "to come"
+      },
+      {
+       "surface": "たら",
+       "pos": "auxiliary",
+       "romaji": "tara",
+       "lemma": "た",
+       "gloss": "past tense marker"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ぜひ",
+       "pos": "adverb",
+       "romaji": "zehi",
+       "gloss": "by all means, definitely"
+      },
+      {
+       "surface": "銭湯",
+       "pos": "noun",
+       "reading": "せんとう",
+       "romaji": "sentou",
+       "gloss": "public bathhouse"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction marker"
+      },
+      {
+       "surface": "行っ",
+       "pos": "verb",
+       "reading": "いっ",
+       "romaji": "itsu",
+       "lemma": "行く",
+       "gloss": "to go"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form (connective)"
+      },
+      {
+       "surface": "み",
+       "pos": "verb",
+       "romaji": "mi",
+       "lemma": "みる",
+       "gloss": "to try doing (as てみる auxiliary)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form (connective)"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる",
+       "gloss": "to give (honorific; used in please do ~ ~てください)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If you come to Japan, please be sure to try going to a sento.",
+     "audioStart": 93.792,
+     "audioEnd": 98.568
+    }
+   ]
+  }
+ ]
+}
