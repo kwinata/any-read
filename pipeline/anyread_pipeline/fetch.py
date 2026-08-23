@@ -11,6 +11,7 @@ class FetchedArticle:
     title: str
     text: str  # paragraphs separated by blank lines
     url: str | None = None
+    generated: bool = False
 
 
 def fetch_url(url: str) -> FetchedArticle:

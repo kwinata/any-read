@@ -133,6 +133,7 @@ async function renderLibrary() {
     if (a.level) meta.append(el('span', null, a.level));
     if (a.createdAt) meta.append(el('span', null, a.createdAt.slice(0, 10)));
     if (a.hasAudio) meta.append(el('span', null, '🔊'));
+    if (a.generated) meta.append(el('span', 'badge ai', 'AI'));
     const dl = el('button', 'dl', '⬇');
     dl.title = 'Save for offline';
     isCached(a.id).then((c) => {
@@ -222,6 +223,7 @@ async function renderReader(id) {
   meta.append(el('span', 'badge', langName(article.language)));
   if (article.level) meta.append(el('span', null, article.level));
   if (article.createdAt) meta.append(el('span', null, article.createdAt.slice(0, 10)));
+  if (article.generated) meta.append(el('span', 'badge ai', 'AI-written'));
   header.append(meta);
   reader.append(header);
 

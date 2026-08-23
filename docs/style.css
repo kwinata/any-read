@@ -103,6 +103,7 @@ body {
   font-weight: 700; font-size: 11px;
   border-radius: 10px; padding: 2px 7px;
 }
+.badge.ai { background: rgba(52, 168, 83, 0.15); color: #34a853; }
 .dl {
   margin-left: auto;
   border: none; background: none;

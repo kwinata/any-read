@@ -32,6 +32,7 @@ def rebuild_index(articles_dir: Path) -> None:
         entry = {k: a.get(k) for k in
                  ("id", "language", "title", "titleTranslation", "level", "summary", "createdAt")}
         entry["hasAudio"] = bool(a.get("audioFile"))
+        entry["generated"] = bool(a.get("generated"))
         entries.append(entry)
     entries.sort(key=lambda e: e.get("createdAt") or "", reverse=True)
     (articles_dir / "index.json").write_text(

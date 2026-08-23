@@ -87,6 +87,39 @@ Reply with ONLY a JSON object: {{"title": "...", "text": "..."}} where "text" us
     raise AssertionError("unreachable")
 
 
+def generate_article(lang: str, level: str, topic: str | None) -> dict:
+    """Have Claude write an original graded article. Returns {title, text}."""
+    lang_name = _LANG_NAME[lang]
+    topic_line = (f"Topic: {topic}"
+                  if topic else
+                  "Pick one interesting, concrete topic yourself (culture, daily life, food, "
+                  "travel, nature, science basics, history). Avoid current events.")
+    prompt = f"""Write an ORIGINAL short article in {lang_name} for a language learner at {level} level
+({_LEVEL_SCALE[lang]} scale). This is for a graded-reader app.
+
+{topic_line}
+
+Rules:
+- Written entirely in {lang_name}, in the style of an easy-news / magazine article.
+- Vocabulary and grammar strictly appropriate for {level}. Short, clear sentences.
+- 3-5 paragraphs, about 10-16 sentences total.
+- Informative and true-to-life; do NOT invent news events, statistics, or named people.
+
+Reply with ONLY a JSON object: {{"title": "...", "text": "..."}} where "text" uses \\n\\n between paragraphs."""
+    for attempt in range(2):
+        raw = _run_claude(prompt)
+        try:
+            data = _extract_json(raw)
+            if data.get("title") and data.get("text"):
+                return data
+            raise ValueError("missing title or text")
+        except (ValueError, json.JSONDecodeError) as e:
+            if attempt == 1:
+                raise RuntimeError(f"LLM generate failed: {e}") from e
+            prompt += f"\n\nYour previous reply was invalid ({e}). Reply with only the JSON object."
+    raise AssertionError("unreachable")
+
+
 def annotate(lang: str, title: str, sentences: list[str], gloss_keys: list[str]) -> dict:
     """Returns {titleTranslation, level, summary, translations: [str], glosses: {key: gloss}}."""
     lang_name = _LANG_NAME[lang]

@@ -39,6 +39,21 @@ def _build_article(args) -> None:
         simple = llm.simplify(lang, args.simplify, art.title, art.text)
         art.title, art.text = simple["title"], simple["text"]
 
+    _process_article(art, lang, args, level_override=args.simplify)
+
+
+def _generate(args) -> None:
+    for i in range(args.count):
+        if args.count > 1:
+            print(f"--- generating {i + 1}/{args.count}")
+        print(f"Asking Claude for an original {args.lang} article at {args.level}...")
+        gen = llm.generate_article(args.lang, args.level, args.topic)
+        art = fetch.FetchedArticle(title=gen["title"], text=gen["text"], generated=True)
+        print(f"Title: {art.title}")
+        _process_article(art, args.lang, args, level_override=args.level)
+
+
+def _process_article(art, lang: str, args, level_override: str | None = None) -> None:
     tokenize = ja.tokenize if lang == "ja" else de.tokenize
     paras = []
     flat_sentences: list[str] = []
@@ -72,8 +87,8 @@ def _build_article(args) -> None:
         ann["titleTranslation"] = re.sub(
             r"\s*(\([^)]*\))?\s*[-–]\s*(Yahoo! News|MATCHA.*)\s*$", "",
             ann["titleTranslation"])
-    if args.simplify:
-        ann["level"] = args.simplify
+    if level_override:
+        ann["level"] = level_override
     glosses = ann["glosses"]
     i = 0
     for p in paras:
@@ -110,6 +125,7 @@ def _build_article(args) -> None:
         "createdAt": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "audioFile": None if args.no_audio else "audio.mp3",
         "voice": None if args.no_audio else voice,
+        "generated": art.generated,
         "paragraphs": paras,
     }
 
@@ -249,7 +265,16 @@ def main() -> None:
                      help="Rewrite the article at a target level, e.g. N5 or A1")
     add.add_argument("--out", default=str(Path(__file__).resolve().parents[2] / "docs" / "articles"),
                      help="Output directory (default: <repo>/docs/articles)")
-    news = sub.add_parser("news", help="List recent headlines (NHK / nachrichtenleicht)")
+    gen = sub.add_parser("generate", help="Have Claude write an original graded article")
+    gen.add_argument("--lang", choices=["ja", "de"], required=True)
+    gen.add_argument("--level", required=True, help="Target level, e.g. N5 or A1")
+    gen.add_argument("--topic", help="Topic (default: Claude picks one)")
+    gen.add_argument("--count", type=int, default=1, help="How many articles to generate")
+    gen.add_argument("--voice", help="edge-tts voice (default: per-article rotation)")
+    gen.add_argument("--rate", default="-10%", help="Speech rate (default -10%%)")
+    gen.add_argument("--no-audio", action="store_true", help="Skip TTS")
+    gen.add_argument("--out", default=str(Path(__file__).resolve().parents[2] / "docs" / "articles"))
+    news = sub.add_parser("news", help="List recent headlines (Yahoo/Matcha / nachrichtenleicht)")
     news.add_argument("--lang", choices=["ja", "de"])
     news.add_argument("--limit", type=int, default=10)
     pub = sub.add_parser("publish", help="Commit and push new articles to the site")
@@ -257,6 +282,8 @@ def main() -> None:
     args = parser.parse_args()
     if args.cmd == "add":
         _build_article(args)
+    elif args.cmd == "generate":
+        _generate(args)
     elif args.cmd == "news":
         _list_news(args)
     elif args.cmd == "publish":
