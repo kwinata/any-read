@@ -432,9 +432,51 @@ async function renderReader(id) {
   }
 }
 
+/* ---------------- Password gate ---------------- */
+
+// To change the password: printf 'newpass' | shasum -a 256  → paste the hex here.
+const PASS_HASH = '8c28ed22b31b278b871e4d8cd9f466e3bf53071db1cfde72c37c91cb7f1f70ed';
+const AUTH_KEY = 'anyread-auth';
+
+async function sha256Hex(s) {
+  const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(s));
+  return [...new Uint8Array(buf)].map((b) => b.toString(16).padStart(2, '0')).join('');
+}
+
+function isAuthed() {
+  try { return localStorage.getItem(AUTH_KEY) === PASS_HASH; } catch (e) { return false; }
+}
+
+function renderLock() {
+  $app.innerHTML = '';
+  const box = el('div', 'lock');
+  box.append(el('h1', null, 'AnyRead'));
+  box.append(el('p', 'sub', 'Enter the password to open the library.'));
+  const input = el('input', 'pw');
+  input.type = 'password';
+  input.autocapitalize = 'none';
+  const btn = el('button', 'unlock', 'Open');
+  const err = el('p', 'pwerr', '');
+  async function attempt() {
+    if ((await sha256Hex(input.value)) === PASS_HASH) {
+      try { localStorage.setItem(AUTH_KEY, PASS_HASH); } catch (e) {}
+      route();
+    } else {
+      err.textContent = 'Wrong password.';
+      input.value = '';
+    }
+  }
+  btn.addEventListener('click', attempt);
+  input.addEventListener('keydown', (ev) => { if (ev.key === 'Enter') attempt(); });
+  box.append(input, btn, err);
+  $app.append(box);
+  input.focus();
+}
+
 /* ---------------- Router ---------------- */
 
 function route() {
+  if (!isAuthed()) { renderLock(); return; }
   const m = location.hash.match(/^#\/a\/(.+)$/);
   if (m) renderReader(decodeURIComponent(m[1]));
   else renderLibrary();

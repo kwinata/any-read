@@ -112,6 +112,38 @@ body {
 .dl.cached { color: #34a853; }
 .empty { text-align: center; color: var(--muted); padding: 60px 30px; line-height: 1.6; }
 
+.lock {
+  max-width: 320px;
+  margin: 18vh auto 0;
+  padding: 0 20px;
+  text-align: center;
+}
+.lock h1 { font-size: 26px; margin: 0 0 6px; }
+.lock .sub { color: var(--muted); font-size: 14px; margin: 0 0 18px; }
+.lock .pw {
+  width: 100%;
+  font-size: 17px;
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--text);
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+.lock .unlock {
+  width: 100%;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  background: var(--accent);
+  color: #fff;
+  cursor: pointer;
+}
+.lock .pwerr { color: #d93025; font-size: 13px; min-height: 18px; }
+
 /* Reader */
 .reader { padding: 14px 16px 190px; max-width: 640px; margin: 0 auto; }
 .reader header { margin-bottom: 16px; }
