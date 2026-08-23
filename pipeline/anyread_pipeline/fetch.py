@@ -35,7 +35,7 @@ def fetch_url(url: str) -> FetchedArticle:
 
 def clean_title(title: str) -> str:
     # Site-name suffixes ("... - NHK", "...（毎日新聞） - Yahoo!ニュース", "... | ...MATCHA...")
-    title = re.sub(r"\s*[|｜-]\s*(NHK.*|nachrichtenleicht\.de.*|日本の観光メディア.*|.*MATCHA.*|Yahoo!ニュース.*)$", "", title)
+    title = re.sub(r"\s+[|｜-]\s+(NHK.*|nachrichtenleicht\.de.*|日本の観光メディア.*|.*MATCHA.*|Yahoo!ニュース.*)$", "", title)
     # Trailing publisher credit, possibly nested: 「...（FNN（フジテレビ系））」
     title = title.rstrip()
     while title.endswith("）"):
