@@ -1,0 +1,691 @@
+{
+ "schemaVersion": 1,
+ "id": "breakfast",
+ "language": "ja",
+ "title": "朝ごはん",
+ "titleTranslation": "Breakfast",
+ "titleTranslationId": "Sarapan",
+ "level": "Beginner",
+ "summary": "The article explains that Japanese breakfast typically includes rice, miso soup, and sometimes strong-smelling but healthy natto, and describes it as simple and delicious.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T08:01:51+00:00",
+ "audioFile": "audio.mp3",
+ "voice": "ja-JP-NanamiNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "日本は朝ごはんが大切です。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "朝ごはん",
+       "pos": "noun",
+       "reading": "あさごはん",
+       "romaji": "asagohan",
+       "gloss": "breakfast",
+       "glossId": "sarapan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "大切",
+       "pos": "adjective",
+       "reading": "たいせつ",
+       "romaji": "taisetsu",
+       "gloss": "important",
+       "glossId": "penting"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Breakfast is important in Japan.",
+     "translationId": "Sarapan itu penting di Jepang.",
+     "audioStart": 0.0,
+     "audioEnd": 3.672
+    },
+    {
+     "text": "日本人は朝、ごはんを食べます。",
+     "tokens": [
+      {
+       "surface": "日本人",
+       "pos": "noun",
+       "reading": "にほんじん",
+       "romaji": "nihonjin",
+       "gloss": "Japanese person",
+       "glossId": "orang Jepang"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "朝",
+       "pos": "noun",
+       "reading": "あさ",
+       "romaji": "asa",
+       "gloss": "morning",
+       "glossId": "pagi"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ごはん",
+       "pos": "noun",
+       "romaji": "gohan",
+       "gloss": "rice/meal",
+       "glossId": "nasi/makanan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Japanese people eat rice in the morning.",
+     "translationId": "Orang Jepang makan nasi di pagi hari.",
+     "audioStart": 3.672,
+     "audioEnd": 7.776
+    },
+    {
+     "text": "みそ汁も飲みます。",
+     "tokens": [
+      {
+       "surface": "みそ汁",
+       "pos": "noun",
+       "reading": "みそしる",
+       "romaji": "misoshiru",
+       "gloss": "miso soup",
+       "glossId": "sup miso"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "飲み",
+       "pos": "verb",
+       "reading": "のみ",
+       "romaji": "nomi",
+       "lemma": "飲む",
+       "gloss": "to drink",
+       "glossId": "minum"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They also drink miso soup.",
+     "translationId": "Mereka juga minum sup miso.",
+     "audioStart": 7.776,
+     "audioEnd": 10.368
+    },
+    {
+     "text": "みそ汁は温かいです。",
+     "tokens": [
+      {
+       "surface": "みそ汁",
+       "pos": "noun",
+       "reading": "みそしる",
+       "romaji": "misoshiru",
+       "gloss": "miso soup",
+       "glossId": "sup miso"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "温かい",
+       "pos": "adjective",
+       "reading": "あたたかい",
+       "romaji": "atatakai",
+       "gloss": "warm",
+       "glossId": "hangat"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Miso soup is warm.",
+     "translationId": "Sup miso itu hangat.",
+     "audioStart": 10.368,
+     "audioEnd": 13.392
+    },
+    {
+     "text": "とてもおいしいです。",
+     "tokens": [
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "おいしい",
+       "pos": "adjective",
+       "romaji": "oishii",
+       "gloss": "delicious",
+       "glossId": "enak"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is very delicious.",
+     "translationId": "Rasanya sangat enak.",
+     "audioStart": 13.392,
+     "audioEnd": 15.912
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "朝ごはんに、なっとうを食べる人もいます。",
+     "tokens": [
+      {
+       "surface": "朝ごはん",
+       "pos": "noun",
+       "reading": "あさごはん",
+       "romaji": "asagohan",
+       "gloss": "breakfast",
+       "glossId": "sarapan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle (time/place/purpose)",
+       "glossId": "partikel (waktu/tempat/tujuan)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "なっとう",
+       "pos": "noun",
+       "romaji": "nattou",
+       "gloss": "natto (fermented beans)",
+       "glossId": "natto (kacang fermentasi)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist/be (animate)",
+       "glossId": "ada/berada (makhluk hidup)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Some people eat natto with breakfast.",
+     "translationId": "Ada juga orang yang makan natto saat sarapan.",
+     "audioStart": 15.912,
+     "audioEnd": 20.352
+    },
+    {
+     "text": "なっとうは豆です。",
+     "tokens": [
+      {
+       "surface": "なっとう",
+       "pos": "noun",
+       "romaji": "nattou",
+       "gloss": "natto (fermented beans)",
+       "glossId": "natto (kacang fermentasi)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "豆",
+       "pos": "noun",
+       "reading": "まめ",
+       "romaji": "mame",
+       "gloss": "bean",
+       "glossId": "kacang"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Natto is beans.",
+     "translationId": "Natto adalah kacang.",
+     "audioStart": 20.352,
+     "audioEnd": 22.92
+    },
+    {
+     "text": "においが強いです。",
+     "tokens": [
+      {
+       "surface": "におい",
+       "pos": "noun",
+       "romaji": "nioi",
+       "gloss": "smell",
+       "glossId": "bau"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "強い",
+       "pos": "adjective",
+       "reading": "つよい",
+       "romaji": "tsuyoi",
+       "gloss": "strong",
+       "glossId": "kuat"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It has a strong smell.",
+     "translationId": "Baunya kuat.",
+     "audioStart": 22.92,
+     "audioEnd": 25.464
+    },
+    {
+     "text": "でも、体にいいです。",
+     "tokens": [
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "connective form of です (and/is)",
+       "glossId": "bentuk penghubung dari です (dan/adalah)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "体",
+       "pos": "noun",
+       "reading": "からだ",
+       "romaji": "karada",
+       "gloss": "body",
+       "glossId": "tubuh"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle (time/place/purpose)",
+       "glossId": "partikel (waktu/tempat/tujuan)"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good",
+       "glossId": "baik"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "But it is good for the body.",
+     "translationId": "Tapi baik untuk tubuh.",
+     "audioStart": 25.464,
+     "audioEnd": 28.488
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ごはんと、みそ汁と、なっとうです。",
+     "tokens": [
+      {
+       "surface": "ごはん",
+       "pos": "noun",
+       "romaji": "gohan",
+       "gloss": "rice/meal",
+       "glossId": "nasi/makanan"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and (connecting nouns)",
+       "glossId": "dan (menghubungkan kata benda)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "みそ汁",
+       "pos": "noun",
+       "reading": "みそしる",
+       "romaji": "misoshiru",
+       "gloss": "miso soup",
+       "glossId": "sup miso"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and (connecting nouns)",
+       "glossId": "dan (menghubungkan kata benda)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "なっとう",
+       "pos": "noun",
+       "romaji": "nattou",
+       "gloss": "natto (fermented beans)",
+       "glossId": "natto (kacang fermentasi)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is rice, miso soup, and natto.",
+     "translationId": "Yaitu nasi, sup miso, dan natto.",
+     "audioStart": 28.488,
+     "audioEnd": 32.568
+    },
+    {
+     "text": "日本人は、朝、これを食べます。",
+     "tokens": [
+      {
+       "surface": "日本人",
+       "pos": "noun",
+       "reading": "にほんじん",
+       "romaji": "nihonjin",
+       "gloss": "Japanese person",
+       "glossId": "orang Jepang"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "朝",
+       "pos": "noun",
+       "reading": "あさ",
+       "romaji": "asa",
+       "gloss": "morning",
+       "glossId": "pagi"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore",
+       "gloss": "this",
+       "glossId": "ini"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Japanese people eat this in the morning.",
+     "translationId": "Orang Jepang makan ini di pagi hari.",
+     "audioStart": 32.568,
+     "audioEnd": 36.888
+    },
+    {
+     "text": "簡単で、おいしいです。",
+     "tokens": [
+      {
+       "surface": "簡単",
+       "pos": "adjective",
+       "reading": "かんたん",
+       "romaji": "kantan",
+       "gloss": "simple/easy",
+       "glossId": "sederhana/mudah"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "plain copula (is)",
+       "glossId": "kopula biasa (adalah)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "おいしい",
+       "pos": "adjective",
+       "romaji": "oishii",
+       "gloss": "delicious",
+       "glossId": "enak"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is simple and delicious.",
+     "translationId": "Sederhana dan enak.",
+     "audioStart": 36.888,
+     "audioEnd": 39.84
+    }
+   ]
+  }
+ ]
+}

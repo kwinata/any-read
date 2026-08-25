@@ -1,0 +1,748 @@
+{
+ "schemaVersion": 1,
+ "id": "my-day",
+ "language": "ja",
+ "title": "わたしの一日",
+ "titleTranslation": "My Day",
+ "titleTranslationId": "Hariku",
+ "level": "Beginner",
+ "summary": "The narrator describes their daily routine from waking up in the morning to going to bed at night.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T08:00:42+00:00",
+ "audioFile": "audio.mp3",
+ "voice": "ja-JP-KeitaNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "わたしは まいあさ 六時に おきます。",
+     "tokens": [
+      {
+       "surface": "わたし",
+       "pos": "pronoun",
+       "romaji": "watashi",
+       "gloss": "I, me",
+       "glossId": "saya"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "まい",
+       "pos": "auxiliary",
+       "romaji": "mai",
+       "gloss": "prefix meaning \"every\" (e.g. まいあさ \"every morning\")",
+       "glossId": "awalan \"setiap\" (mis. まいあさ \"setiap pagi\")"
+      },
+      {
+       "surface": "あさ",
+       "pos": "noun",
+       "romaji": "asa",
+       "gloss": "morning",
+       "glossId": "pagi"
+      },
+      {
+       "surface": "六",
+       "pos": "noun",
+       "reading": "ろく",
+       "romaji": "roku",
+       "gloss": "six",
+       "glossId": "enam"
+      },
+      {
+       "surface": "時",
+       "pos": "noun",
+       "reading": "じ",
+       "romaji": "ji",
+       "gloss": "o'clock, hour",
+       "glossId": "jam (pukul)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking a point in time",
+       "glossId": "partikel penanda waktu"
+      },
+      {
+       "surface": "おき",
+       "pos": "verb",
+       "romaji": "oki",
+       "lemma": "おく",
+       "gloss": "to get up (from おきる)",
+       "glossId": "bangun (dari おきる)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja formal"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I wake up at six o'clock every morning.",
+     "translationId": "Saya bangun jam enam setiap pagi.",
+     "audioStart": 0.0,
+     "audioEnd": 3.264
+    },
+    {
+     "text": "かおを あらいます。",
+     "tokens": [
+      {
+       "surface": "かお",
+       "pos": "noun",
+       "romaji": "kao",
+       "gloss": "face",
+       "glossId": "wajah"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker",
+       "glossId": "penanda objek langsung"
+      },
+      {
+       "surface": "あらい",
+       "pos": "verb",
+       "romaji": "arai",
+       "lemma": "あらう",
+       "gloss": "to wash",
+       "glossId": "mencuci"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja formal"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I wash my face.",
+     "translationId": "Saya mencuci muka.",
+     "audioStart": 3.264,
+     "audioEnd": 5.4
+    },
+    {
+     "text": "ごはんを たべます。",
+     "tokens": [
+      {
+       "surface": "ごはん",
+       "pos": "noun",
+       "romaji": "gohan",
+       "gloss": "cooked rice, meal",
+       "glossId": "nasi, makanan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker",
+       "glossId": "penanda objek langsung"
+      },
+      {
+       "surface": "たべ",
+       "pos": "verb",
+       "romaji": "tabe",
+       "lemma": "たべる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja formal"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I eat breakfast.",
+     "translationId": "Saya makan (sarapan).",
+     "audioStart": 5.4,
+     "audioEnd": 7.632
+    },
+    {
+     "text": "七時半に いえを でます。",
+     "tokens": [
+      {
+       "surface": "七",
+       "pos": "noun",
+       "reading": "なな",
+       "romaji": "nana",
+       "gloss": "seven",
+       "glossId": "tujuh"
+      },
+      {
+       "surface": "時半",
+       "pos": "suffix",
+       "reading": "じはん",
+       "romaji": "jihan",
+       "gloss": "half past the hour",
+       "glossId": "setengah lewat jam"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking a point in time",
+       "glossId": "partikel penanda waktu"
+      },
+      {
+       "surface": "いえ",
+       "pos": "noun",
+       "romaji": "ie",
+       "gloss": "house, home",
+       "glossId": "rumah"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker",
+       "glossId": "penanda objek langsung"
+      },
+      {
+       "surface": "で",
+       "pos": "conjunction",
+       "romaji": "de",
+       "gloss": "particle marking place of action/means",
+       "glossId": "partikel penanda tempat/alat"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja formal"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I leave home at seven thirty.",
+     "translationId": "Saya keluar rumah jam tujuh setengah.",
+     "audioStart": 7.632,
+     "audioEnd": 10.296
+    },
+    {
+     "text": "でんしゃで かいしゃに いきます。",
+     "tokens": [
+      {
+       "surface": "でんしゃ",
+       "pos": "noun",
+       "romaji": "densha",
+       "gloss": "train",
+       "glossId": "kereta"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking place of action/means",
+       "glossId": "partikel penanda tempat/alat"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "part of かいしゃ \"company\"",
+       "glossId": "bagian dari かいしゃ \"perusahaan\""
+      },
+      {
+       "surface": "いしゃ",
+       "pos": "noun",
+       "romaji": "isha",
+       "gloss": "part of かいしゃ \"company\"",
+       "glossId": "bagian dari かいしゃ \"perusahaan\""
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking a point in time",
+       "glossId": "partikel penanda waktu"
+      },
+      {
+       "surface": "いき",
+       "pos": "verb",
+       "romaji": "iki",
+       "lemma": "いく",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja formal"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I go to the office by train.",
+     "translationId": "Saya pergi ke kantor naik kereta.",
+     "audioStart": 10.296,
+     "audioEnd": 13.008
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "かいしゃで しごとを します。",
+     "tokens": [
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "part of かいしゃ \"company\"",
+       "glossId": "bagian dari かいしゃ \"perusahaan\""
+      },
+      {
+       "surface": "いしゃ",
+       "pos": "noun",
+       "romaji": "isha",
+       "gloss": "part of かいしゃ \"company\"",
+       "glossId": "bagian dari かいしゃ \"perusahaan\""
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking place of action/means",
+       "glossId": "partikel penanda tempat/alat"
+      },
+      {
+       "surface": "しごと",
+       "pos": "noun",
+       "romaji": "shigoto",
+       "gloss": "work, job",
+       "glossId": "pekerjaan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker",
+       "glossId": "penanda objek langsung"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja formal"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I work at the office.",
+     "translationId": "Saya bekerja di kantor.",
+     "audioStart": 13.008,
+     "audioEnd": 15.6
+    },
+    {
+     "text": "ひるに ともだちと ひるごはんを たべます。",
+     "tokens": [
+      {
+       "surface": "ひる",
+       "pos": "noun",
+       "romaji": "hiru",
+       "gloss": "noon, daytime",
+       "glossId": "siang"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking a point in time",
+       "glossId": "partikel penanda waktu"
+      },
+      {
+       "surface": "ともだち",
+       "pos": "noun",
+       "romaji": "tomodachi",
+       "gloss": "friend",
+       "glossId": "teman"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle \"with\"",
+       "glossId": "partikel \"dengan\""
+      },
+      {
+       "surface": "ひる",
+       "pos": "noun",
+       "romaji": "hiru",
+       "gloss": "noon, daytime",
+       "glossId": "siang"
+      },
+      {
+       "surface": "ごはん",
+       "pos": "noun",
+       "romaji": "gohan",
+       "gloss": "cooked rice, meal",
+       "glossId": "nasi, makanan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker",
+       "glossId": "penanda objek langsung"
+      },
+      {
+       "surface": "たべ",
+       "pos": "verb",
+       "romaji": "tabe",
+       "lemma": "たべる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja formal"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "At noon I eat lunch with a friend.",
+     "translationId": "Siang hari saya makan siang bersama teman.",
+     "audioStart": 15.6,
+     "audioEnd": 19.032
+    },
+    {
+     "text": "ごごも しごとを します。",
+     "tokens": [
+      {
+       "surface": "ごご",
+       "pos": "noun",
+       "romaji": "gogo",
+       "gloss": "afternoon, P.M.",
+       "glossId": "sore (P.M.)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "particle \"also, too\"",
+       "glossId": "partikel \"juga\""
+      },
+      {
+       "surface": "しごと",
+       "pos": "noun",
+       "romaji": "shigoto",
+       "gloss": "work, job",
+       "glossId": "pekerjaan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker",
+       "glossId": "penanda objek langsung"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja formal"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I work in the afternoon too.",
+     "translationId": "Sore hari saya juga bekerja.",
+     "audioStart": 19.032,
+     "audioEnd": 21.576
+    },
+    {
+     "text": "六時に かいしゃを でます。",
+     "tokens": [
+      {
+       "surface": "六",
+       "pos": "noun",
+       "reading": "ろく",
+       "romaji": "roku",
+       "gloss": "six",
+       "glossId": "enam"
+      },
+      {
+       "surface": "時",
+       "pos": "noun",
+       "reading": "じ",
+       "romaji": "ji",
+       "gloss": "o'clock, hour",
+       "glossId": "jam (pukul)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking a point in time",
+       "glossId": "partikel penanda waktu"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "part of かいしゃ \"company\"",
+       "glossId": "bagian dari かいしゃ \"perusahaan\""
+      },
+      {
+       "surface": "いしゃ",
+       "pos": "noun",
+       "romaji": "isha",
+       "gloss": "part of かいしゃ \"company\"",
+       "glossId": "bagian dari かいしゃ \"perusahaan\""
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker",
+       "glossId": "penanda objek langsung"
+      },
+      {
+       "surface": "で",
+       "pos": "conjunction",
+       "romaji": "de",
+       "gloss": "particle marking place of action/means",
+       "glossId": "partikel penanda tempat/alat"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja formal"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I leave the office at six o'clock.",
+     "translationId": "Saya keluar dari kantor jam enam.",
+     "audioStart": 21.576,
+     "audioEnd": 24.24
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "いえで ばんごはんを たべます。",
+     "tokens": [
+      {
+       "surface": "いえ",
+       "pos": "interjection",
+       "romaji": "ie",
+       "gloss": "house, home",
+       "glossId": "rumah"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking place of action/means",
+       "glossId": "partikel penanda tempat/alat"
+      },
+      {
+       "surface": "ばん",
+       "pos": "adverb",
+       "romaji": "ban",
+       "gloss": "evening",
+       "glossId": "malam"
+      },
+      {
+       "surface": "ごはん",
+       "pos": "noun",
+       "romaji": "gohan",
+       "gloss": "cooked rice, meal",
+       "glossId": "nasi, makanan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker",
+       "glossId": "penanda objek langsung"
+      },
+      {
+       "surface": "たべ",
+       "pos": "verb",
+       "romaji": "tabe",
+       "lemma": "たべる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja formal"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I eat dinner at home.",
+     "translationId": "Saya makan malam di rumah.",
+     "audioStart": 24.24,
+     "audioEnd": 27.072
+    },
+    {
+     "text": "おふろに はいります。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "ふろ",
+       "pos": "noun",
+       "romaji": "furo",
+       "gloss": "bath",
+       "glossId": "mandi"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking a point in time",
+       "glossId": "partikel penanda waktu"
+      },
+      {
+       "surface": "はいり",
+       "pos": "verb",
+       "romaji": "hairi",
+       "lemma": "はいる",
+       "gloss": "to enter, to get in",
+       "glossId": "masuk"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja formal"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I take a bath.",
+     "translationId": "Saya mandi.",
+     "audioStart": 27.072,
+     "audioEnd": 29.376
+    },
+    {
+     "text": "十時に ねます。",
+     "tokens": [
+      {
+       "surface": "十",
+       "pos": "noun",
+       "reading": "じゅう",
+       "romaji": "juu",
+       "gloss": "ten",
+       "glossId": "sepuluh"
+      },
+      {
+       "surface": "時",
+       "pos": "noun",
+       "reading": "じ",
+       "romaji": "ji",
+       "gloss": "o'clock, hour",
+       "glossId": "jam (pukul)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking a point in time",
+       "glossId": "partikel penanda waktu"
+      },
+      {
+       "surface": "ね",
+       "pos": "particle",
+       "romaji": "ne",
+       "gloss": "to sleep (from ねる)",
+       "glossId": "tidur (dari ねる)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja formal"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I go to bed at ten o'clock.",
+     "translationId": "Saya tidur jam sepuluh.",
+     "audioStart": 29.376,
+     "audioEnd": 31.512
+    }
+   ]
+  }
+ ]
+}

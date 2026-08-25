@@ -1,5 +1,113 @@
 [
  {
+  "id": "japan-s-four-seasons",
+  "language": "ja",
+  "title": "日本の四季",
+  "titleTranslation": "Japan's Four Seasons",
+  "level": "Beginner",
+  "summary": "The article introduces Japan's four seasons and describes the characteristic weather and activities of each one.",
+  "createdAt": "2026-08-25T08:03:41+00:00",
+  "hasAudio": true,
+  "generated": true,
+  "broadcast": false
+ },
+ {
+  "id": "going-to-the-park",
+  "language": "ja",
+  "title": "こうえんへ いきます",
+  "titleTranslation": "Going to the Park",
+  "level": "Beginner",
+  "summary": "The narrator visits a park on a nice day and enjoys the trees, flowers, birds, playing children and dogs, and a quiet moment on a bench before promising to return.",
+  "createdAt": "2026-08-25T08:03:32+00:00",
+  "hasAudio": true,
+  "generated": true,
+  "broadcast": false
+ },
+ {
+  "id": "japan-and-cats",
+  "language": "ja",
+  "title": "日本と猫",
+  "titleTranslation": "Japan and Cats",
+  "level": "Beginner",
+  "summary": "The article introduces Japan's love of cats, including popular cat cafes and the lucky beckoning cat figurine called maneki-neko.",
+  "createdAt": "2026-08-25T08:02:59+00:00",
+  "hasAudio": true,
+  "generated": true,
+  "broadcast": false
+ },
+ {
+  "id": "sushi",
+  "language": "ja",
+  "title": "すし",
+  "titleTranslation": "Sushi",
+  "level": "Beginner",
+  "summary": "An introduction to sushi as a popular Japanese food made with rice and fish, eaten in various styles with hands or chopsticks and dipped in soy sauce.",
+  "createdAt": "2026-08-25T08:02:47+00:00",
+  "hasAudio": true,
+  "generated": true,
+  "broadcast": false
+ },
+ {
+  "id": "cherry-blossoms-and-flower-viewing",
+  "language": "ja",
+  "title": "桜と花見",
+  "titleTranslation": "Cherry Blossoms and Flower Viewing",
+  "level": "Beginner",
+  "summary": "The article explains hanami, the Japanese tradition of viewing cherry blossoms in parks with friends and family.",
+  "createdAt": "2026-08-25T08:02:41+00:00",
+  "hasAudio": true,
+  "generated": true,
+  "broadcast": false
+ },
+ {
+  "id": "trains-in-japan",
+  "language": "ja",
+  "title": "日本の電車",
+  "titleTranslation": "Trains in Japan",
+  "level": "Beginner",
+  "summary": "This article describes how convenient, fast, and reliable trains are in Japan, covering IC card use at ticket gates and the quiet etiquette passengers follow.",
+  "createdAt": "2026-08-25T08:01:56+00:00",
+  "hasAudio": true,
+  "generated": true,
+  "broadcast": false
+ },
+ {
+  "id": "breakfast",
+  "language": "ja",
+  "title": "朝ごはん",
+  "titleTranslation": "Breakfast",
+  "level": "Beginner",
+  "summary": "The article explains that Japanese breakfast typically includes rice, miso soup, and sometimes strong-smelling but healthy natto, and describes it as simple and delicious.",
+  "createdAt": "2026-08-25T08:01:51+00:00",
+  "hasAudio": true,
+  "generated": true,
+  "broadcast": false
+ },
+ {
+  "id": "convenience-store",
+  "language": "ja",
+  "title": "コンビニ",
+  "titleTranslation": "Convenience Store",
+  "level": "Beginner",
+  "summary": "The article describes how convenient stores are, being open all hours and selling a wide variety of items like food, drinks, magazines, and tickets.",
+  "createdAt": "2026-08-25T08:01:46+00:00",
+  "hasAudio": true,
+  "generated": true,
+  "broadcast": false
+ },
+ {
+  "id": "my-day",
+  "language": "ja",
+  "title": "わたしの一日",
+  "titleTranslation": "My Day",
+  "level": "Beginner",
+  "summary": "The narrator describes their daily routine from waking up in the morning to going to bed at night.",
+  "createdAt": "2026-08-25T08:00:42+00:00",
+  "hasAudio": true,
+  "generated": true,
+  "broadcast": false
+ },
+ {
   "id": "bread-in-germany",
   "language": "de",
   "title": "Brot in Deutschland",
@@ -8,7 +116,8 @@
   "summary": "This article describes Germany's rich bread culture, from the many varieties bakers make fresh daily to how bread is eaten at breakfast and dinner.",
   "createdAt": "2026-08-23T03:49:10+00:00",
   "hasAudio": true,
-  "generated": true
+  "generated": true,
+  "broadcast": false
  },
  {
   "id": "a-day-at-the-sento",
@@ -19,7 +128,8 @@
   "summary": "This article explains what a sento is and describes the etiquette and social experience of visiting a traditional Japanese public bathhouse.",
   "createdAt": "2026-08-23T03:48:32+00:00",
   "hasAudio": true,
-  "generated": true
+  "generated": true,
+  "broadcast": false
  },
  {
   "id": "the-joy-of-ekiben-station-lunch-boxes",
@@ -30,7 +140,8 @@
   "summary": "The article explains what ekiben (station lunch boxes) are, their long history, regional variety, and the enjoyment of choosing and eating them while traveling by train in Japan.",
   "createdAt": "2026-08-23T03:47:44+00:00",
   "hasAudio": true,
-  "generated": true
+  "generated": true,
+  "broadcast": false
  },
  {
   "id": "let-s-go-to-a-sento-public-bath",
@@ -41,7 +152,8 @@
   "summary": "The article introduces Japanese public bathhouses called sento, covering their history, bathing rules, features, and the social role they play for local communities.",
   "createdAt": "2026-08-23T03:46:51+00:00",
   "hasAudio": true,
-  "generated": true
+  "generated": true,
+  "broadcast": false
  },
  {
   "id": "convenience-store-rice-balls",
@@ -52,7 +164,8 @@
   "summary": "The article explains what onigiri (Japanese rice balls) are, how they are eaten, and why they are popular and convenient in Japanese daily life.",
   "createdAt": "2026-08-23T03:45:41+00:00",
   "hasAudio": true,
-  "generated": true
+  "generated": true,
+  "broadcast": false
  },
  {
   "id": "japan-s-hanko-personal-seal",
@@ -63,7 +176,8 @@
   "summary": "The article explains what a hanko (personal name stamp) is, how and when Japanese people use it in daily life, and how it is gradually being supplemented by signatures.",
   "createdAt": "2026-08-23T03:44:49+00:00",
   "hasAudio": true,
-  "generated": true
+  "generated": true,
+  "broadcast": false
  },
  {
   "id": "japan-s-vending-machines",
@@ -74,7 +188,8 @@
   "summary": "This article explains that Japan has an unusually large number of vending machines, which are conveniently available everywhere and at all hours, offering both hot and cold drinks with cash or electronic payment.",
   "createdAt": "2026-08-23T03:43:57+00:00",
   "hasAudio": true,
-  "generated": true
+  "generated": true,
+  "broadcast": false
  },
  {
   "id": "the-ministry-of-education-culture-sports-science-and-technol",
@@ -85,7 +200,8 @@
   "summary": "Japan's education ministry plans to double the Kaken-hi science research grant to a record 455.2 billion yen and convert it into a multi-year fund, backed by Prime Minister Takaichi's push to strengthen basic research and Keidanren's request to reverse Japan's declining scientific competitiveness.",
   "createdAt": "2026-08-23T03:43:47+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "the-story-of-origami",
@@ -96,7 +212,8 @@
   "summary": "This article introduces origami, Japan's traditional paper-folding play, explaining how it is done, its most famous form (the crane), and its popularity both in Japan and abroad.",
   "createdAt": "2026-08-23T03:42:39+00:00",
   "hasAudio": true,
-  "generated": true
+  "generated": true,
+  "broadcast": false
  },
  {
   "id": "danger-of-heavy-rain-today-from-typhoon-no-20-typhoon-no-18-",
@@ -107,7 +224,8 @@
   "summary": "Three typhoons are active near Japan, with Typhoon No. 20 bringing dangerously heavy rain to the Sakishima Islands today while Typhoon No. 18 strengthens and is expected to reach Okinawa with destructive winds and high waves around the 25th-27th.",
   "createdAt": "2026-08-23T03:42:18+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "the-ldp-wants-to-win-okinawa-s-election-top-officials-head-t",
@@ -118,7 +236,8 @@
   "summary": "Ahead of Okinawa's gubernatorial election, the LDP is sending its senior officials to campaign for candidate Genta Koja in hopes of retaking the governorship after 12 years, while downplaying its party image to attract broader support.",
   "createdAt": "2026-08-23T03:41:41+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "7-japanese-dining-manners-you-should-know-before-coming-to-j",
@@ -129,7 +248,8 @@
   "summary": "The article introduces seven Japanese dining etiquette points for visitors to know before eating at restaurants in Japan, covering oshibori use, the itadakimasu/gochisousama greetings, chopstick etiquette, holding bowls, keeping elbows off the table, slurping noodles and soup, and finishing everything you order.",
   "createdAt": "2026-08-23T03:41:28+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "noto-peninsula-earthquake-a-roundup-of-disaster-information-",
@@ -140,7 +260,8 @@
   "summary": "This article compiles reliable, multilingual sources of information—such as NHK World Japan, the Safety Tips app, prefectural and city websites, and embassy phone numbers—to help foreign visitors and residents in Japan stay informed about the January 2024 Noto Peninsula earthquake and its damage.",
   "createdAt": "2026-08-23T03:38:52+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "earthquake-hits-tokyo-ibaraki-saitama-and-chiba-37-injured",
@@ -151,7 +272,8 @@
   "summary": "A magnitude earthquake registering upper 5 on the Japanese intensity scale struck the Tokyo, Ibaraki, Saitama, and Chiba region early on the 23rd, injuring 37 people, causing water leaks and a false fire alarm, and briefly halting train service.",
   "createdAt": "2026-08-23T03:38:48+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "the-listen-to-matcha-easy-japanese-service-where-you-can-dow",
@@ -162,7 +284,8 @@
   "summary": "MATCHA's Easy Japanese edition now offers downloadable audio of native Japanese staff reading select articles, letting learners practice natural pronunciation anytime, with some recordings free and others costing 100 yen.",
   "createdAt": "2026-08-23T03:37:20+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "oita-prefecture-yufuin-onsen-how-to-get-there-day-trip-hot-s",
@@ -173,7 +296,8 @@
   "summary": "This article introduces Yufuin Onsen in Oita Prefecture, covering its health benefits, how to get there from Tokyo and Osaka, recommended day-trip baths and inns, and nearby sightseeing spots.",
   "createdAt": "2026-08-23T03:36:46+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "good-value-for-money-5-recommended-business-hotel-chains-in-",
@@ -184,7 +308,8 @@
   "summary": "The article introduces five popular Japanese business hotel chains (Toyoko Inn, APA Hotel, Dormy Inn, Super Hotel, and Route Inn), describing their prices, room types, and convenient services for travelers.",
   "createdAt": "2026-08-23T03:34:35+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "2024-10-recommended-hydrangea-spots-in-kyoto",
@@ -195,7 +320,8 @@
   "summary": "A guide to ten recommended hydrangea-viewing spots in and around Kyoto, covering temples, shrines, and a nature park, along with their blooming seasons, access information, and nearby hydrangea-themed cafes.",
   "createdAt": "2026-08-23T03:33:14+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "5-recommended-cafes-in-arashiyama-kyoto-enjoy-coffee-while-l",
@@ -206,7 +332,8 @@
   "summary": "The article introduces five recommended cafes near Arashiyama, Kyoto, describing each shop's history, specialty food and drink, and atmosphere for visitors near Togetsukyo Bridge and the Bamboo Grove Path.",
   "createdAt": "2026-08-23T03:30:10+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "6-convenient-taxi-apps-you-can-use-in-japan-how-to-use-them-",
@@ -217,7 +344,8 @@
   "summary": "The article introduces six convenient taxi-calling apps usable in Japan, explaining how to register, communicate, and pay for each service.",
   "createdAt": "2026-08-23T03:29:43+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "police-minister-in-israel-central-council-of-jews-criticizes",
@@ -228,7 +356,8 @@
   "summary": "Israel's far-right police and security minister Itamar Ben-Gvir has sparked widespread criticism, including from Germany's Central Council of Jews, after calling for 30 to 40 people to be deliberately killed in Gaza every night.",
   "createdAt": "2026-08-22T16:41:28+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "digital-services-disability-commissioner-says-accessibility-",
@@ -239,7 +368,8 @@
   "summary": "Germany's disability commissioner, Jürgen Dusel, argues that the country's new law requiring digital accessibility doesn't go far enough, since it excludes many apps and carries no penalties for violations.",
   "createdAt": "2026-08-22T16:41:21+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "forest-fires-in-some-regions-of-germany-it-smells-like-fire",
@@ -250,7 +380,8 @@
   "summary": "Large wildfires in Belgium and elsewhere are sending smoke smell and fine dust into German cities like Cologne and Bonn, prompting doctor warnings, though rain is expected to bring relief this week.",
   "createdAt": "2026-08-22T16:39:09+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "yabloko-party-russian-politician-must-go-to-a-penal-colony-o",
@@ -261,7 +392,8 @@
   "summary": "The article gives simplified background on Ukraine's geography, language, and its history of conflict with Russia, including the 2022 invasion.",
   "createdAt": "2026-08-22T16:39:04+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "illness-football-player-jamal-musiala-explains-his-fainting-",
@@ -272,7 +404,8 @@
   "summary": "German football star Jamal Musiala revealed he has a neurological condition that causes brief fainting spells but says it is not dangerous and he can keep playing.",
   "createdAt": "2026-08-22T16:38:20+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "war-against-ukraine-many-dead-in-missile-attack-on-the-city-",
@@ -283,7 +416,8 @@
   "summary": "Russia launched a renewed missile attack on Kyiv killing at least 16 people, while Ukraine struggles to defend itself against fast Russian missiles due to a shortage of costly Patriot interceptor missiles.",
   "createdAt": "2026-08-22T16:37:55+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "the-hague-the-usa-imposes-sanctions-on-important-internation",
@@ -294,7 +428,8 @@
   "summary": "The article explains the difference between the International Criminal Court, which prosecutes war crimes and crimes against humanity, and the International Court of Justice, which settles disputes between states under the United Nations.",
   "createdAt": "2026-08-22T16:37:38+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "climate-change-there-are-more-and-more-praying-mantises-in-g",
@@ -305,7 +440,8 @@
   "summary": "Climate change is making Germany warmer, allowing praying mantises to spread from southern Europe and Africa into new regions, with a record 17,000 reported this year, mostly along the Rhine and in eastern Germany, and the article explains they pose no danger to humans.",
   "createdAt": "2026-08-22T16:36:46+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "against-violence-disability-commissioner-calls-for-more-prot",
@@ -316,7 +452,8 @@
   "summary": "Germany's federal disability commissioner Jürgen Dusel is calling for a mandatory women's representative in every residential group home, after a study found that half of women with disabilities have experienced physical violence and one in five has experienced sexual violence.",
   "createdAt": "2026-08-22T16:36:39+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "new-figures-german-companies-selling-more-goods-abroad-again",
@@ -327,7 +464,8 @@
   "summary": "The article explains what tariffs are and why governments impose them, framed by news that German companies are exporting more goods again.",
   "createdAt": "2026-08-22T16:35:56+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "editorial-on-the-other-hand-instagram-channel-receives-award",
@@ -338,7 +476,8 @@
   "summary": "This article explains what Instagram is: an app where people create pages, share photos and videos, and view content from others, owned by Meta and popular among young people.",
   "createdAt": "2026-08-22T16:35:19+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "cup-competition-dfb-investigates-dispute-in-match-between-ma",
@@ -349,7 +488,8 @@
   "summary": "After a violent altercation and injuries at a DFB Cup match between SV Waldhof Mannheim and 1. FC Kaiserslautern, the German Football Association is investigating the incident and considering possible penalties.",
   "createdAt": "2026-08-22T16:35:02+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "west-bank-germany-calls-on-israel-to-build-no-new-settlement",
@@ -360,7 +500,8 @@
   "summary": "The article explains who the Palestinians are, the divided control over the West Bank and Gaza Strip between Palestinians and Israel, and the historical roots of the ongoing conflict.",
   "createdAt": "2026-08-22T16:34:52+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "river-more-water-in-the-rhine-some-ferries-can-run-again",
@@ -371,7 +512,8 @@
   "summary": "After a long dry spell lowered the Rhine's water level and halted several ferries for weeks, recent rainfall has raised the river enough for most ferries to resume operation, though large or heavy vehicles still face restrictions.",
   "createdAt": "2026-08-22T16:34:24+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "dpfp-leadership-election-announced-hashimoto-and-tamaki-in-h",
@@ -382,7 +524,8 @@
   "summary": "The Democratic Party for the People announced its leadership election with incumbent Yuichiro Tamaki facing challenger Mikihiko Hashimoto, who clashed over party direction and coalition politics ahead of the September 6 vote.",
   "createdAt": "2026-08-22T16:33:54+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "takaichi-diplomacy-criticized-as-weak-kneed-over-icc-russia-",
@@ -393,7 +536,8 @@
   "summary": "The Takaichi administration is facing domestic criticism for its timid response to U.S. sanctions on ICC President Akane Tomoko and to Putin's visit to the Northern Territories, largely out of concern for relations with the U.S. and Japan's energy supply from Russia.",
   "createdAt": "2026-08-22T16:33:36+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "war-in-ukraine-the-german-foreign-minister-visits-kyiv-and-p",
@@ -404,7 +548,8 @@
   "summary": "The article gives background on Ukraine's geography, language, and history with Russia, explaining the roots of the war that forms the context for the German foreign minister's visit to Kyiv.",
   "createdAt": "2026-08-22T16:33:29+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "nogizaka46-apologizes-for-starting-show-before-audience-memb",
@@ -415,7 +560,8 @@
   "summary": "Idol group Nogizaka46 apologized after starting a Tokyo concert while some fans who had evacuated due to lightning danger had not yet finished re-entering the venue, blaming a lack of communication among staff.",
   "createdAt": "2026-08-22T16:32:42+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "anger-being-born-a-woman-is-a-loss-the-government-finally-mo",
@@ -426,7 +572,8 @@
   "summary": "The article examines why women face much longer restroom lines than men in Japan, and covers Japan's new government guidelines plus overseas laws and next-generation toilet designs aimed at fixing the imbalance.",
   "createdAt": "2026-08-22T16:32:29+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "the-wolf-boy-of-sierra-morena-who-lived-with-a-wolf-pack-die",
@@ -437,7 +584,8 @@
   "summary": "A Spanish man known as the 'Wolf Boy of Sierra Morena,' who was abandoned as a child and spent 12 years living in the wild with a pack of wolves before eventually returning to human society, has died at age 80.",
   "createdAt": "2026-08-22T16:30:36+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "at-age-9-he-suddenly-started-touching-my-body-sexually-abuse",
@@ -448,7 +596,8 @@
   "summary": "A woman called Kana describes years of sexual and physical abuse by her alcoholic father starting at age nine, a pregnancy and abortion at fifteen, repeated self-harm, and being disbelieved by school, child welfare, and police, illustrating how sexual abuse within families in Japan stays hidden and hard for victims' SOS signals to reach help.",
   "createdAt": "2026-08-22T16:30:17+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "they-took-my-money-the-troubles-care-managers-face-in-long-t",
@@ -459,7 +608,8 @@
   "summary": "The June murder of a care manager in Kawaguchi, Saitama has exposed the customer harassment and safety risks facing Japan's long-term care workers, prompting new mandatory anti-harassment measures and government subsidies for accompanied home visits.",
   "createdAt": "2026-08-22T16:29:01+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "autumn-leaves-at-mt-fuji-and-hokkaido-too-8-autumn-foliage-t",
@@ -470,7 +620,8 @@
   "summary": "The article introduces eight day-trip bus tours across Japan — from Hokkaido and Tohoku to the Mt. Fuji area, greater Tokyo, and Fukuoka — for enjoying autumn foliage together with local nature, food, and cultural sites.",
   "createdAt": "2026-08-22T16:28:01+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "new-sainte-lagu-method-proposal-emerges-for-house-of-represe",
@@ -481,7 +632,8 @@
   "summary": "Japan's ruling party is considering adopting the Sainte-Laguë method for allocating House of Representatives proportional seats instead of the current D'Hondt method, a change that would favor smaller parties and appears aimed at easing opposition resistance to a planned cut in proportional seats.",
   "createdAt": "2026-08-22T16:27:41+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "hole-opens-in-road-near-tokyo-station-water-flows-into-excav",
@@ -492,7 +644,8 @@
   "summary": "Torrential rain in southern Kanto on the afternoon of the 22nd triggered flood warnings, a flooded road that stranded a car, and a road cave-in near Tokyo Station, though no injuries were reported.",
   "createdAt": "2026-08-22T16:26:26+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "dazaifu-tenmangu-hakata-ramen-and-more-a-route-to-enjoy-fuku",
@@ -503,7 +656,8 @@
   "summary": "This easy-Japanese travel guide from MATCHA lays out a one-night, two-day route for enjoying Fukuoka, covering shopping in Tenjin, ramen at Ichiran, Seaside Momochi Park and Fukuoka Tower, Nakasu's food stalls, Don Quijote, Ohori Park, Dazaifu Tenmangu shrine, and shopping at Hakata JR City before flying out.",
   "createdAt": "2026-08-22T16:24:49+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "spacia-x-sounded-horn-200-meters-before-the-site-tobu-railwa",
@@ -514,7 +668,8 @@
   "summary": "A Tobu Railway recording device shows the express train \"Spacia X\" sounded its horn 200 meters before hitting and killing four weed-clearing workers in Kanuma, Tochigi Prefecture, and police are now investigating the safety-check procedures used at the time.",
   "createdAt": "2026-08-22T16:24:01+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "access-from-the-jr-shibuya-station-platforms-to-the-ticket-g",
@@ -525,7 +680,8 @@
   "summary": "The article explains, in easy Japanese, how to get from the platforms of JR Shibuya Station to its four ticket gates (Hachiko, Central, South, and New South), including nearby shops, restaurants, and train transfer routes at each one.",
   "createdAt": "2026-08-22T16:23:00+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "it-s-not-just-good-for-your-stomach-we-ll-teach-you-the-secr",
@@ -536,7 +692,8 @@
   "summary": "This article introduces the history of Japan's beloved probiotic drink Yakult, from its founder's discovery of the resilient 'Shirota strain' bacteria to the design story behind its iconic container, its product lineup, and the door-to-door 'Yakult Lady' sales tradition.",
   "createdAt": "2026-08-22T16:21:35+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  },
  {
   "id": "kawasaki-daishi-kanagawa-the-popular-temple-visited-by-3-mil",
@@ -547,6 +704,7 @@
   "summary": "This article introduces Kawasaki Daishi, a historic temple in Kanagawa Prefecture founded in 1128 that enshrines the monk Kobo Daishi Kukai and draws about 3 million visitors over the New Year holiday, describing its main hall, octagonal pagoda, ponds, bridges, and Yakushi Hall.",
   "createdAt": "2026-08-22T16:19:06+00:00",
   "hasAudio": true,
-  "generated": false
+  "generated": false,
+  "broadcast": false
  }
 ]

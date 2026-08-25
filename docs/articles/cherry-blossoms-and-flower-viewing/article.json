@@ -1,0 +1,780 @@
+{
+ "schemaVersion": 1,
+ "id": "cherry-blossoms-and-flower-viewing",
+ "language": "ja",
+ "title": "桜と花見",
+ "titleTranslation": "Cherry Blossoms and Flower Viewing",
+ "titleTranslationId": "Sakura dan Hanami",
+ "level": "Beginner",
+ "summary": "The article explains hanami, the Japanese tradition of viewing cherry blossoms in parks with friends and family.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T08:02:41+00:00",
+ "audioFile": "audio.mp3",
+ "voice": "ja-JP-KeitaNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "春です。",
+     "tokens": [
+      {
+       "surface": "春",
+       "pos": "noun",
+       "reading": "はる",
+       "romaji": "haru",
+       "gloss": "spring",
+       "glossId": "musim semi"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (is/am/are, polite)",
+       "glossId": "kopula (adalah, bentuk sopan)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is spring.",
+     "translationId": "Ini musim semi.",
+     "audioStart": 0.0,
+     "audioEnd": 1.776
+    },
+    {
+     "text": "桜の花が咲きます。",
+     "tokens": [
+      {
+       "surface": "桜",
+       "pos": "noun",
+       "reading": "さくら",
+       "romaji": "sakura",
+       "gloss": "cherry blossom",
+       "glossId": "bunga sakura"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle ('of')",
+       "glossId": "partikel kepemilikan ('dari/nya')"
+      },
+      {
+       "surface": "花",
+       "pos": "noun",
+       "reading": "はな",
+       "romaji": "hana",
+       "gloss": "flower",
+       "glossId": "bunga"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "咲き",
+       "pos": "verb",
+       "reading": "さき",
+       "romaji": "saki",
+       "lemma": "咲く",
+       "gloss": "to bloom",
+       "glossId": "mekar"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Cherry blossoms bloom.",
+     "translationId": "Bunga sakura mekar.",
+     "audioStart": 1.776,
+     "audioEnd": 4.44
+    },
+    {
+     "text": "桜はピンク色です。",
+     "tokens": [
+      {
+       "surface": "桜",
+       "pos": "noun",
+       "reading": "さくら",
+       "romaji": "sakura",
+       "gloss": "cherry blossom",
+       "glossId": "bunga sakura"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "ピンク色",
+       "pos": "noun",
+       "reading": "ぴんくいろ",
+       "romaji": "pinkuiro",
+       "gloss": "pink color",
+       "glossId": "warna merah muda"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (is/am/are, polite)",
+       "glossId": "kopula (adalah, bentuk sopan)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Cherry blossoms are pink.",
+     "translationId": "Sakura berwarna merah muda.",
+     "audioStart": 4.44,
+     "audioEnd": 7.08
+    },
+    {
+     "text": "とてもきれいです。",
+     "tokens": [
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "きれい",
+       "pos": "adjective",
+       "romaji": "kirei",
+       "gloss": "pretty, beautiful",
+       "glossId": "indah, cantik"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (is/am/are, polite)",
+       "glossId": "kopula (adalah, bentuk sopan)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They are very beautiful.",
+     "translationId": "Sangat indah.",
+     "audioStart": 7.08,
+     "audioEnd": 9.288
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "日本人は花見をします。",
+     "tokens": [
+      {
+       "surface": "日本人",
+       "pos": "noun",
+       "reading": "にほんじん",
+       "romaji": "nihonjin",
+       "gloss": "Japanese person",
+       "glossId": "orang Jepang"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "花見",
+       "pos": "noun",
+       "reading": "はなみ",
+       "romaji": "hanami",
+       "gloss": "cherry blossom viewing",
+       "glossId": "melihat bunga sakura (hanami)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Japanese people do hanami (flower viewing).",
+     "translationId": "Orang Jepang melakukan hanami.",
+     "audioStart": 9.288,
+     "audioEnd": 12.192
+    },
+    {
+     "text": "花見は公園で桜を見ることです。",
+     "tokens": [
+      {
+       "surface": "花見",
+       "pos": "noun",
+       "reading": "はなみ",
+       "romaji": "hanami",
+       "gloss": "cherry blossom viewing",
+       "glossId": "melihat bunga sakura (hanami)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "公園",
+       "pos": "noun",
+       "reading": "こうえん",
+       "romaji": "kouen",
+       "gloss": "park",
+       "glossId": "taman"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location marker ('at/in')",
+       "glossId": "penanda lokasi ('di')"
+      },
+      {
+       "surface": "桜",
+       "pos": "noun",
+       "reading": "さくら",
+       "romaji": "sakura",
+       "gloss": "cherry blossom",
+       "glossId": "bunga sakura"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "見る",
+       "pos": "verb",
+       "reading": "みる",
+       "romaji": "miru",
+       "gloss": "to see, look at",
+       "glossId": "melihat"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer ('the act of ~')",
+       "glossId": "nominalisasi ('hal/kegiatan ~')"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (is/am/are, polite)",
+       "glossId": "kopula (adalah, bentuk sopan)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Hanami is looking at cherry blossoms in a park.",
+     "translationId": "Hanami adalah melihat bunga sakura di taman.",
+     "audioStart": 12.192,
+     "audioEnd": 15.792
+    },
+    {
+     "text": "友達や家族と行きます。",
+     "tokens": [
+      {
+       "surface": "友達",
+       "pos": "noun",
+       "reading": "ともだち",
+       "romaji": "tomodachi",
+       "gloss": "friend",
+       "glossId": "teman"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "non-exhaustive listing particle ('and')",
+       "glossId": "partikel penyebutan tidak lengkap ('dan')"
+      },
+      {
+       "surface": "家族",
+       "pos": "noun",
+       "reading": "かぞく",
+       "romaji": "kazoku",
+       "gloss": "family",
+       "glossId": "keluarga"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "with (particle)",
+       "glossId": "bersama (partikel)"
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They go with friends and family.",
+     "translationId": "Mereka pergi bersama teman atau keluarga.",
+     "audioStart": 15.792,
+     "audioEnd": 18.624
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "みんな公園に座ります。",
+     "tokens": [
+      {
+       "surface": "みんな",
+       "pos": "noun",
+       "romaji": "minna",
+       "gloss": "everyone",
+       "glossId": "semua orang"
+      },
+      {
+       "surface": "公園",
+       "pos": "noun",
+       "reading": "こうえん",
+       "romaji": "kouen",
+       "gloss": "park",
+       "glossId": "taman"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/direction marker",
+       "glossId": "penanda arah/lokasi"
+      },
+      {
+       "surface": "座り",
+       "pos": "verb",
+       "reading": "すわり",
+       "romaji": "suwari",
+       "lemma": "座る",
+       "gloss": "to sit",
+       "glossId": "duduk"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Everyone sits in the park.",
+     "translationId": "Semua orang duduk di taman.",
+     "audioStart": 18.624,
+     "audioEnd": 21.384
+    },
+    {
+     "text": "お弁当を食べます。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "弁当",
+       "pos": "noun",
+       "reading": "べんとう",
+       "romaji": "bentou",
+       "gloss": "boxed lunch",
+       "glossId": "bekal makan siang"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They eat bento.",
+     "translationId": "Mereka makan bento.",
+     "audioStart": 21.384,
+     "audioEnd": 23.832
+    },
+    {
+     "text": "お茶も飲みます。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "茶",
+       "pos": "noun",
+       "reading": "ちゃ",
+       "romaji": "cha",
+       "gloss": "tea",
+       "glossId": "teh"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "飲み",
+       "pos": "verb",
+       "reading": "のみ",
+       "romaji": "nomi",
+       "lemma": "飲む",
+       "gloss": "to drink",
+       "glossId": "minum"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They also drink tea.",
+     "translationId": "Mereka juga minum teh.",
+     "audioStart": 23.832,
+     "audioEnd": 25.968
+    },
+    {
+     "text": "写真も撮ります。",
+     "tokens": [
+      {
+       "surface": "写真",
+       "pos": "noun",
+       "reading": "しゃしん",
+       "romaji": "shashin",
+       "gloss": "photo",
+       "glossId": "foto"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "撮り",
+       "pos": "verb",
+       "reading": "とり",
+       "romaji": "tori",
+       "lemma": "撮る",
+       "gloss": "to take (a photo)",
+       "glossId": "mengambil (foto)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They also take photos.",
+     "translationId": "Mereka juga mengambil foto.",
+     "audioStart": 25.968,
+     "audioEnd": 28.272
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "桜の花はすぐ散ります。",
+     "tokens": [
+      {
+       "surface": "桜",
+       "pos": "noun",
+       "reading": "さくら",
+       "romaji": "sakura",
+       "gloss": "cherry blossom",
+       "glossId": "bunga sakura"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle ('of')",
+       "glossId": "partikel kepemilikan ('dari/nya')"
+      },
+      {
+       "surface": "花",
+       "pos": "noun",
+       "reading": "はな",
+       "romaji": "hana",
+       "gloss": "flower",
+       "glossId": "bunga"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "すぐ",
+       "pos": "adverb",
+       "romaji": "sugu",
+       "gloss": "soon, quickly",
+       "glossId": "segera, cepat"
+      },
+      {
+       "surface": "散り",
+       "pos": "verb",
+       "reading": "ちり",
+       "romaji": "chiri",
+       "lemma": "散る",
+       "gloss": "to fall/scatter (petals)",
+       "glossId": "berguguran, jatuh (kelopak)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Cherry blossoms fall quickly.",
+     "translationId": "Bunga sakura cepat berguguran.",
+     "audioStart": 28.272,
+     "audioEnd": 31.248
+    },
+    {
+     "text": "だから花見は大切です。",
+     "tokens": [
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "copula (plain form)",
+       "glossId": "kopula (bentuk biasa)"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "because, so (conjunction)",
+       "glossId": "karena, jadi (konjungsi)"
+      },
+      {
+       "surface": "花見",
+       "pos": "noun",
+       "reading": "はなみ",
+       "romaji": "hanami",
+       "gloss": "cherry blossom viewing",
+       "glossId": "melihat bunga sakura (hanami)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "大切",
+       "pos": "adjective",
+       "reading": "たいせつ",
+       "romaji": "taisetsu",
+       "gloss": "important",
+       "glossId": "penting"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (is/am/are, polite)",
+       "glossId": "kopula (adalah, bentuk sopan)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "That's why hanami is important.",
+     "translationId": "Oleh karena itu, hanami itu penting.",
+     "audioStart": 31.248,
+     "audioEnd": 34.128
+    },
+    {
+     "text": "今年も花見を楽しみたいです。",
+     "tokens": [
+      {
+       "surface": "今年",
+       "pos": "noun",
+       "reading": "ことし",
+       "romaji": "kotoshi",
+       "gloss": "this year",
+       "glossId": "tahun ini"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "花見",
+       "pos": "noun",
+       "reading": "はなみ",
+       "romaji": "hanami",
+       "gloss": "cherry blossom viewing",
+       "glossId": "melihat bunga sakura (hanami)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "楽しみ",
+       "pos": "verb",
+       "reading": "たのしみ",
+       "romaji": "tanoshimi",
+       "lemma": "楽しむ",
+       "gloss": "to enjoy",
+       "glossId": "menikmati"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desire suffix)",
+       "glossId": "ingin (akhiran keinginan)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (is/am/are, polite)",
+       "glossId": "kopula (adalah, bentuk sopan)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I want to enjoy hanami this year too.",
+     "translationId": "Tahun ini pun saya ingin menikmati hanami.",
+     "audioStart": 34.128,
+     "audioEnd": 37.32
+    }
+   ]
+  }
+ ]
+}

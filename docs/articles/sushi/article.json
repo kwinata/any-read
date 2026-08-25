@@ -1,0 +1,636 @@
+{
+ "schemaVersion": 1,
+ "id": "sushi",
+ "language": "ja",
+ "title": "すし",
+ "titleTranslation": "Sushi",
+ "titleTranslationId": "Sushi",
+ "level": "Beginner",
+ "summary": "An introduction to sushi as a popular Japanese food made with rice and fish, eaten in various styles with hands or chopsticks and dipped in soy sauce.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T08:02:47+00:00",
+ "audioFile": "audio.mp3",
+ "voice": "ja-JP-NanamiNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "すしは にほんの たべものです。",
+     "tokens": [
+      {
+       "surface": "すし",
+       "pos": "noun",
+       "romaji": "sushi",
+       "gloss": "sushi",
+       "glossId": "sushi"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "にほん",
+       "pos": "noun",
+       "romaji": "nihon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "たべもの",
+       "pos": "noun",
+       "romaji": "tabemono",
+       "gloss": "food",
+       "glossId": "makanan"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula \"is\"",
+       "glossId": "kopula sopan \"adalah\""
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Sushi is a Japanese food.",
+     "translationId": "Sushi adalah makanan Jepang.",
+     "audioStart": 0.0,
+     "audioEnd": 3.24
+    },
+    {
+     "text": "ごはんと さかなを つかいます。",
+     "tokens": [
+      {
+       "surface": "ごはん",
+       "pos": "noun",
+       "romaji": "gohan",
+       "gloss": "rice, cooked rice",
+       "glossId": "nasi"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle \"and\"",
+       "glossId": "partikel \"dan\""
+      },
+      {
+       "surface": "さかな",
+       "pos": "noun",
+       "romaji": "sakana",
+       "gloss": "fish",
+       "glossId": "ikan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "つかい",
+       "pos": "verb",
+       "romaji": "tsukai",
+       "lemma": "つかう",
+       "gloss": "to use",
+       "glossId": "memakai, menggunakan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It uses rice and fish.",
+     "translationId": "Menggunakan nasi dan ikan.",
+     "audioStart": 3.24,
+     "audioEnd": 6.336
+    },
+    {
+     "text": "おみせで たべます。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan hormat"
+      },
+      {
+       "surface": "みせ",
+       "pos": "noun",
+       "romaji": "mise",
+       "gloss": "shop, store",
+       "glossId": "toko"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle \"at/by\" (place or means)",
+       "glossId": "partikel tempat/alat \"di/dengan\""
+      },
+      {
+       "surface": "たべ",
+       "pos": "verb",
+       "romaji": "tabe",
+       "lemma": "たべる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You eat it at a restaurant.",
+     "translationId": "Dimakan di restoran.",
+     "audioStart": 6.336,
+     "audioEnd": 8.76
+    },
+    {
+     "text": "いえでも たべます。",
+     "tokens": [
+      {
+       "surface": "いえ",
+       "pos": "interjection",
+       "romaji": "ie",
+       "gloss": "house, home",
+       "glossId": "rumah"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle \"at/by\" (place or means)",
+       "glossId": "partikel tempat/alat \"di/dengan\""
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "particle \"also, too\"",
+       "glossId": "partikel \"juga\""
+      },
+      {
+       "surface": "たべ",
+       "pos": "verb",
+       "romaji": "tabe",
+       "lemma": "たべる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You also eat it at home.",
+     "translationId": "Juga dimakan di rumah.",
+     "audioStart": 8.76,
+     "audioEnd": 11.184
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "すしは たくさん あります。",
+     "tokens": [
+      {
+       "surface": "すし",
+       "pos": "noun",
+       "romaji": "sushi",
+       "gloss": "sushi",
+       "glossId": "sushi"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate things)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are many kinds of sushi.",
+     "translationId": "Ada banyak jenis sushi.",
+     "audioStart": 11.184,
+     "audioEnd": 14.04
+    },
+    {
+     "text": "まぐろの すしが あります。",
+     "tokens": [
+      {
+       "surface": "まぐろ",
+       "pos": "noun",
+       "romaji": "maguro",
+       "gloss": "tuna",
+       "glossId": "tuna"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "すし",
+       "pos": "noun",
+       "romaji": "sushi",
+       "gloss": "sushi",
+       "glossId": "sushi"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate things)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There is tuna sushi.",
+     "translationId": "Ada sushi tuna.",
+     "audioStart": 14.04,
+     "audioEnd": 16.872
+    },
+    {
+     "text": "えびの すしも あります。",
+     "tokens": [
+      {
+       "surface": "えび",
+       "pos": "noun",
+       "romaji": "ebi",
+       "gloss": "shrimp",
+       "glossId": "udang"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "すし",
+       "pos": "noun",
+       "romaji": "sushi",
+       "gloss": "sushi",
+       "glossId": "sushi"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "particle \"also, too\"",
+       "glossId": "partikel \"juga\""
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate things)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There is also shrimp sushi.",
+     "translationId": "Ada juga sushi udang.",
+     "audioStart": 16.872,
+     "audioEnd": 19.56
+    },
+    {
+     "text": "たまごの すしも あります。",
+     "tokens": [
+      {
+       "surface": "たまご",
+       "pos": "noun",
+       "romaji": "tamago",
+       "gloss": "egg",
+       "glossId": "telur"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "すし",
+       "pos": "noun",
+       "romaji": "sushi",
+       "gloss": "sushi",
+       "glossId": "sushi"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "particle \"also, too\"",
+       "glossId": "partikel \"juga\""
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate things)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There is also egg sushi.",
+     "translationId": "Ada juga sushi telur.",
+     "audioStart": 19.56,
+     "audioEnd": 22.32
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "すしは てで たべます。",
+     "tokens": [
+      {
+       "surface": "すし",
+       "pos": "noun",
+       "romaji": "sushi",
+       "gloss": "sushi",
+       "glossId": "sushi"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "て",
+       "pos": "conjunction",
+       "romaji": "te",
+       "gloss": "hand",
+       "glossId": "tangan"
+      },
+      {
+       "surface": "で",
+       "pos": "conjunction",
+       "romaji": "de",
+       "gloss": "particle \"at/by\" (place or means)",
+       "glossId": "partikel tempat/alat \"di/dengan\""
+      },
+      {
+       "surface": "たべ",
+       "pos": "verb",
+       "romaji": "tabe",
+       "lemma": "たべる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You eat sushi with your hands.",
+     "translationId": "Sushi dimakan dengan tangan.",
+     "audioStart": 22.32,
+     "audioEnd": 24.96
+    },
+    {
+     "text": "はしでも たべます。",
+     "tokens": [
+      {
+       "surface": "はし",
+       "pos": "noun",
+       "romaji": "hashi",
+       "gloss": "chopsticks",
+       "glossId": "sumpit"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle \"at/by\" (place or means)",
+       "glossId": "partikel tempat/alat \"di/dengan\""
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "particle \"also, too\"",
+       "glossId": "partikel \"juga\""
+      },
+      {
+       "surface": "たべ",
+       "pos": "verb",
+       "romaji": "tabe",
+       "lemma": "たべる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You also eat it with chopsticks.",
+     "translationId": "Juga dimakan dengan sumpit.",
+     "audioStart": 24.96,
+     "audioEnd": 27.432
+    },
+    {
+     "text": "しょうゆを つけます。",
+     "tokens": [
+      {
+       "surface": "しょうゆ",
+       "pos": "noun",
+       "romaji": "shouyu",
+       "gloss": "soy sauce",
+       "glossId": "kecap asin"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "つけ",
+       "pos": "verb",
+       "romaji": "tsuke",
+       "lemma": "つける",
+       "gloss": "to dip, to apply",
+       "glossId": "mencelupkan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You dip it in soy sauce.",
+     "translationId": "Dicelupkan ke kecap asin.",
+     "audioStart": 27.432,
+     "audioEnd": 29.832
+    },
+    {
+     "text": "とても おいしいです。",
+     "tokens": [
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "おいしい",
+       "pos": "adjective",
+       "romaji": "oishii",
+       "gloss": "delicious",
+       "glossId": "enak, lezat"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula \"is\"",
+       "glossId": "kopula sopan \"adalah\""
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is very delicious.",
+     "translationId": "Sangat enak.",
+     "audioStart": 29.832,
+     "audioEnd": 32.352
+    }
+   ]
+  }
+ ]
+}

@@ -183,6 +183,7 @@ body {
 .tok.sel { background: var(--accent-soft); }
 
 .trans { font-size: 14.5px; color: var(--muted); margin-top: 4px; }
+.trans-id { font-size: 14px; opacity: 0.85; font-style: italic; margin-top: 2px; }
 .playhere {
   display: inline-block; margin-left: 8px;
   color: var(--accent); font-size: 13px; font-weight: 600; cursor: pointer;
@@ -210,6 +211,7 @@ body {
 .gloss .read { color: var(--muted); margin-left: 8px; }
 .gloss .rom { color: var(--muted); margin-left: 6px; font-size: 14px; }
 .gloss .g { margin-top: 4px; font-size: 15px; }
+.gloss .gid { font-style: italic; opacity: 0.85; }
 .gloss .pos { color: var(--muted); font-size: 12px; margin-top: 2px; }
 .gloss .close {
   position: absolute; top: 8px; right: 10px;

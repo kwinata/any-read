@@ -5,7 +5,8 @@ import os
 import subprocess
 
 _LANG_NAME = {"ja": "Japanese", "de": "German"}
-_LEVEL_SCALE = {"ja": "JLPT (N5 easiest .. N1 hardest)", "de": "CEFR (A1 .. C2)"}
+_LEVEL_SCALE = {"ja": "JLPT (Beginner = pre-N5 easiest, then N5 .. N1 hardest)",
+                "de": "CEFR (A1 .. C2)"}
 
 
 def _run_claude(prompt: str, model: str = "sonnet") -> str:
@@ -87,6 +88,13 @@ Reply with ONLY a JSON object: {{"title": "...", "text": "..."}} where "text" us
     raise AssertionError("unreachable")
 
 
+_BEGINNER_RULES = """- "Beginner" means EASIER than JLPT N5: absolute first-steps Japanese.
+  Only the most common everyday vocabulary (roughly the first 150 words a learner meets),
+  only です/ます sentences in present or simple past, particles limited to は・が・を・に・で・と・も・か.
+  Sentences of 3-8 words each. 2-3 short paragraphs, about 8-12 sentences total is enough.
+  Everyday kanji are fine (the app shows furigana), but keep the words themselves simple."""
+
+
 def generate_article(lang: str, level: str, topic: str | None) -> dict:
     """Have Claude write an original graded article. Returns {title, text}."""
     lang_name = _LANG_NAME[lang]
@@ -104,6 +112,7 @@ Rules:
 - Vocabulary and grammar strictly appropriate for {level}. Short, clear sentences.
 - 3-5 paragraphs, about 10-16 sentences total.
 - Informative and true-to-life; do NOT invent news events, statistics, or named people.
+{_BEGINNER_RULES if level.lower() == "beginner" else ""}
 
 Reply with ONLY a JSON object: {{"title": "...", "text": "..."}} where "text" uses \\n\\n between paragraphs."""
     for attempt in range(2):
@@ -120,11 +129,22 @@ Reply with ONLY a JSON object: {{"title": "...", "text": "..."}} where "text" us
     raise AssertionError("unreachable")
 
 
-def annotate(lang: str, title: str, sentences: list[str], gloss_keys: list[str]) -> dict:
-    """Returns {titleTranslation, level, summary, translations: [str], glosses: {key: gloss}}."""
+def annotate(lang: str, title: str, sentences: list[str], gloss_keys: list[str],
+             extra_lang: str | None = None) -> dict:
+    """Returns {titleTranslation, level, summary, translations: [str], glosses: {key: gloss}}.
+
+    With extra_lang="id", also returns titleTranslationId, translationsId, glossesId
+    (Indonesian versions of the same fields).
+    """
     lang_name = _LANG_NAME[lang]
     numbered = "\n".join(f"{i}\t{s}" for i, s in enumerate(sentences))
     keys = "\n".join(gloss_keys)
+    extra = ""
+    if extra_lang == "id":
+        extra = f"""- "titleTranslationId": natural Indonesian translation of the title
+- "translationsId": array with one natural Indonesian translation per sentence, same order and same length ({len(sentences)} items)
+- "glossesId": object mapping EVERY vocabulary item above to a short Indonesian gloss (e.g. "水": "air"; for function words explain the role, e.g. "は": "penanda topik")
+"""
     prompt = f"""You are annotating a {lang_name} news article for a language learner's reading app.
 
 Article title: {title}
@@ -141,7 +161,7 @@ Reply with ONLY a JSON object, no markdown fences, with exactly these keys:
 - "summary": one-sentence English summary of the article
 - "translations": array with one natural English translation per sentence, same order and same length as the sentence list ({len(sentences)} items)
 - "glosses": object mapping EVERY vocabulary item above (exact string as given) to a short English gloss (a few words; for function words explain the role, e.g. "は": "topic marker")
-"""
+{extra}"""
     for attempt in range(2):
         raw = _run_claude(prompt)
         try:
@@ -151,6 +171,14 @@ Reply with ONLY a JSON object, no markdown fences, with exactly these keys:
                 raise ValueError(
                     f"Got {len(translations)} translations for {len(sentences)} sentences"
                 )
+            if extra_lang == "id":
+                tid = data.get("translationsId")
+                if not tid or len(tid) != len(sentences):
+                    raise ValueError(
+                        f"Got {len(tid) if tid else 0} Indonesian translations "
+                        f"for {len(sentences)} sentences"
+                    )
+                data.setdefault("glossesId", {})
             data.setdefault("glosses", {})
             return data
         except (ValueError, KeyError, json.JSONDecodeError) as e:

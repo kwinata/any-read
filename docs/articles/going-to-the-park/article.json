@@ -1,0 +1,793 @@
+{
+ "schemaVersion": 1,
+ "id": "going-to-the-park",
+ "language": "ja",
+ "title": "こうえんへ いきます",
+ "titleTranslation": "Going to the Park",
+ "titleTranslationId": "Pergi ke Taman",
+ "level": "Beginner",
+ "summary": "The narrator visits a park on a nice day and enjoys the trees, flowers, birds, playing children and dogs, and a quiet moment on a bench before promising to return.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T08:03:32+00:00",
+ "audioFile": "audio.mp3",
+ "voice": "ja-JP-NanamiNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "きょうは いい てんきです。",
+     "tokens": [
+      {
+       "surface": "きょう",
+       "pos": "noun",
+       "romaji": "kyou",
+       "gloss": "today",
+       "glossId": "hari ini"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good, nice",
+       "glossId": "bagus"
+      },
+      {
+       "surface": "てんき",
+       "pos": "noun",
+       "romaji": "tenki",
+       "gloss": "weather",
+       "glossId": "cuaca"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Today is nice weather.",
+     "translationId": "Hari ini cuacanya bagus.",
+     "audioStart": 0.0,
+     "audioEnd": 2.688
+    },
+    {
+     "text": "そらは あおいです。",
+     "tokens": [
+      {
+       "surface": "そら",
+       "pos": "pronoun",
+       "romaji": "sora",
+       "gloss": "sky",
+       "glossId": "langit"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "あおい",
+       "pos": "adjective",
+       "romaji": "aoi",
+       "gloss": "blue",
+       "glossId": "biru"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The sky is blue.",
+     "translationId": "Langitnya biru.",
+     "audioStart": 2.688,
+     "audioEnd": 5.208
+    },
+    {
+     "text": "わたしは こうえんへ いきます。",
+     "tokens": [
+      {
+       "surface": "わたし",
+       "pos": "pronoun",
+       "romaji": "watashi",
+       "gloss": "I, me",
+       "glossId": "saya"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "こうえん",
+       "pos": "noun",
+       "romaji": "kouen",
+       "gloss": "park",
+       "glossId": "taman"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "direction marker 'to'",
+       "glossId": "penanda arah 'ke'"
+      },
+      {
+       "surface": "いき",
+       "pos": "verb",
+       "romaji": "iki",
+       "lemma": "いく",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I go to the park.",
+     "translationId": "Saya pergi ke taman.",
+     "audioStart": 5.208,
+     "audioEnd": 8.304
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "こうえんに おおきい きが あります。",
+     "tokens": [
+      {
+       "surface": "こうえん",
+       "pos": "noun",
+       "romaji": "kouen",
+       "gloss": "park",
+       "glossId": "taman"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location marker 'in/at'",
+       "glossId": "penanda lokasi 'di'"
+      },
+      {
+       "surface": "おおきい",
+       "pos": "adjective",
+       "romaji": "ookii",
+       "gloss": "big, large",
+       "glossId": "besar"
+      },
+      {
+       "surface": "き",
+       "pos": "verb",
+       "romaji": "ki",
+       "lemma": "くる",
+       "gloss": "to come",
+       "glossId": "datang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There is a big tree in the park.",
+     "translationId": "Ada pohon besar di taman.",
+     "audioStart": 8.304,
+     "audioEnd": 11.568
+    },
+    {
+     "text": "はなも たくさん あります。",
+     "tokens": [
+      {
+       "surface": "はな",
+       "pos": "noun",
+       "romaji": "hana",
+       "gloss": "flower",
+       "glossId": "bunga"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are also many flowers.",
+     "translationId": "Ada juga banyak bunga.",
+     "audioStart": 11.568,
+     "audioEnd": 14.328
+    },
+    {
+     "text": "とても きれいです。",
+     "tokens": [
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "きれい",
+       "pos": "adjective",
+       "romaji": "kirei",
+       "gloss": "pretty, beautiful",
+       "glossId": "indah, cantik"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It's very beautiful.",
+     "translationId": "Sangat indah.",
+     "audioStart": 14.328,
+     "audioEnd": 16.8
+    },
+    {
+     "text": "とりの こえが きこえます。",
+     "tokens": [
+      {
+       "surface": "とり",
+       "pos": "noun",
+       "romaji": "tori",
+       "gloss": "bird",
+       "glossId": "burung"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker 'of'",
+       "glossId": "penanda kepemilikan 'punya'"
+      },
+      {
+       "surface": "こえ",
+       "pos": "noun",
+       "romaji": "koe",
+       "gloss": "voice, sound",
+       "glossId": "suara"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "きこえ",
+       "pos": "verb",
+       "romaji": "kikoe",
+       "lemma": "きこえる",
+       "gloss": "to be audible, to hear",
+       "glossId": "terdengar"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I can hear the birds singing.",
+     "translationId": "Terdengar suara burung.",
+     "audioStart": 16.8,
+     "audioEnd": 19.56
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "こうえんで こどもたちが あそびます。",
+     "tokens": [
+      {
+       "surface": "こうえん",
+       "pos": "noun",
+       "romaji": "kouen",
+       "gloss": "park",
+       "glossId": "taman"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location marker 'at' (for actions)",
+       "glossId": "penanda lokasi (tempat aksi)"
+      },
+      {
+       "surface": "こども",
+       "pos": "noun",
+       "romaji": "kodomo",
+       "gloss": "child",
+       "glossId": "anak"
+      },
+      {
+       "surface": "たち",
+       "pos": "suffix",
+       "romaji": "tachi",
+       "gloss": "plural suffix",
+       "glossId": "akhiran jamak"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あそび",
+       "pos": "verb",
+       "romaji": "asobi",
+       "lemma": "あそぶ",
+       "gloss": "to play",
+       "glossId": "bermain"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Children play in the park.",
+     "translationId": "Anak-anak bermain di taman.",
+     "audioStart": 19.56,
+     "audioEnd": 22.992
+    },
+    {
+     "text": "いぬも あそびます。",
+     "tokens": [
+      {
+       "surface": "いぬ",
+       "pos": "noun",
+       "romaji": "inu",
+       "gloss": "dog",
+       "glossId": "anjing"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "あそび",
+       "pos": "verb",
+       "romaji": "asobi",
+       "lemma": "あそぶ",
+       "gloss": "to play",
+       "glossId": "bermain"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Dogs play too.",
+     "translationId": "Anjing juga bermain.",
+     "audioStart": 22.992,
+     "audioEnd": 25.44
+    },
+    {
+     "text": "みんな たのしそうです。",
+     "tokens": [
+      {
+       "surface": "みんな",
+       "pos": "noun",
+       "romaji": "minna",
+       "gloss": "everyone",
+       "glossId": "semua orang"
+      },
+      {
+       "surface": "たのし",
+       "pos": "adjective",
+       "romaji": "tanoshi",
+       "lemma": "たのしい",
+       "gloss": "fun, enjoyable",
+       "glossId": "menyenangkan"
+      },
+      {
+       "surface": "そう",
+       "pos": "adjective",
+       "romaji": "sou",
+       "gloss": "seems like, looks like",
+       "glossId": "terlihat, kelihatannya"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Everyone looks like they're having fun.",
+     "translationId": "Semuanya terlihat senang.",
+     "audioStart": 25.44,
+     "audioEnd": 28.08
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "わたしは ベンチに すわります。",
+     "tokens": [
+      {
+       "surface": "わたし",
+       "pos": "pronoun",
+       "romaji": "watashi",
+       "gloss": "I, me",
+       "glossId": "saya"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "ベンチ",
+       "pos": "noun",
+       "romaji": "benchi",
+       "gloss": "bench",
+       "glossId": "bangku"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location marker 'in/at'",
+       "glossId": "penanda lokasi 'di'"
+      },
+      {
+       "surface": "すわり",
+       "pos": "verb",
+       "romaji": "suwari",
+       "lemma": "すわる",
+       "gloss": "to sit",
+       "glossId": "duduk"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I sit on a bench.",
+     "translationId": "Saya duduk di bangku.",
+     "audioStart": 28.08,
+     "audioEnd": 31.32
+    },
+    {
+     "text": "ジュースを のみます。",
+     "tokens": [
+      {
+       "surface": "ジュース",
+       "pos": "noun",
+       "romaji": "juusu",
+       "gloss": "juice",
+       "glossId": "jus"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "のみ",
+       "pos": "particle",
+       "romaji": "nomi",
+       "gloss": "drink (stem of のむ)",
+       "glossId": "minum (bentuk batang dari のむ)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I drink juice.",
+     "translationId": "Saya minum jus.",
+     "audioStart": 31.32,
+     "audioEnd": 33.792
+    },
+    {
+     "text": "かぜが きもちいいです。",
+     "tokens": [
+      {
+       "surface": "かぜ",
+       "pos": "noun",
+       "romaji": "kaze",
+       "gloss": "wind",
+       "glossId": "angin"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "きもち",
+       "pos": "noun",
+       "romaji": "kimochi",
+       "gloss": "feeling",
+       "glossId": "perasaan"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good, nice",
+       "glossId": "bagus"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The wind feels nice.",
+     "translationId": "Anginnya terasa nyaman.",
+     "audioStart": 33.792,
+     "audioEnd": 36.456
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "こうえんは しずかで、たのしい ばしょです。",
+     "tokens": [
+      {
+       "surface": "こうえん",
+       "pos": "noun",
+       "romaji": "kouen",
+       "gloss": "park",
+       "glossId": "taman"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "しずか",
+       "pos": "adjective",
+       "romaji": "shizuka",
+       "gloss": "quiet",
+       "glossId": "tenang"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "plain copula 'is'",
+       "glossId": "kopula biasa 'adalah'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "たのしい",
+       "pos": "adjective",
+       "romaji": "tanoshii",
+       "gloss": "fun, enjoyable",
+       "glossId": "menyenangkan"
+      },
+      {
+       "surface": "ばしょ",
+       "pos": "noun",
+       "romaji": "basho",
+       "gloss": "place",
+       "glossId": "tempat"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The park is a quiet, pleasant place.",
+     "translationId": "Taman itu tempat yang tenang dan menyenangkan.",
+     "audioStart": 36.456,
+     "audioEnd": 40.44
+    },
+    {
+     "text": "わたしは また きます。",
+     "tokens": [
+      {
+       "surface": "わたし",
+       "pos": "pronoun",
+       "romaji": "watashi",
+       "gloss": "I, me",
+       "glossId": "saya"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "また",
+       "pos": "conjunction",
+       "romaji": "mata",
+       "gloss": "again",
+       "glossId": "lagi"
+      },
+      {
+       "surface": "き",
+       "pos": "verb",
+       "romaji": "ki",
+       "lemma": "くる",
+       "gloss": "to come",
+       "glossId": "datang"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I will come again.",
+     "translationId": "Saya akan datang lagi.",
+     "audioStart": 40.44,
+     "audioEnd": 43.08
+    }
+   ]
+  }
+ ]
+}

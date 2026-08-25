@@ -1,0 +1,692 @@
+{
+ "schemaVersion": 1,
+ "id": "trains-in-japan",
+ "language": "ja",
+ "title": "日本の電車",
+ "titleTranslation": "Trains in Japan",
+ "titleTranslationId": "Kereta di Jepang",
+ "level": "Beginner",
+ "summary": "This article describes how convenient, fast, and reliable trains are in Japan, covering IC card use at ticket gates and the quiet etiquette passengers follow.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T08:01:56+00:00",
+ "audioFile": "audio.mp3",
+ "voice": "ja-JP-NanamiNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "日本に電車があります。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location of existence, \"in/at\"",
+       "glossId": "partikel penanda lokasi keberadaan, \"di\""
+      },
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha",
+       "gloss": "train",
+       "glossId": "kereta"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are trains in Japan.",
+     "translationId": "Ada kereta di Jepang.",
+     "audioStart": 0.0,
+     "audioEnd": 2.88
+    },
+    {
+     "text": "電車はとても便利です。",
+     "tokens": [
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha",
+       "gloss": "train",
+       "glossId": "kereta"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "便利",
+       "pos": "noun",
+       "reading": "べんり",
+       "romaji": "benri",
+       "gloss": "convenient",
+       "glossId": "praktis, nyaman"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Trains are very convenient.",
+     "translationId": "Kereta sangat praktis.",
+     "audioStart": 2.88,
+     "audioEnd": 5.976
+    },
+    {
+     "text": "たくさんの人が毎日電車に乗ります。",
+     "tokens": [
+      {
+       "surface": "たくさん",
+       "pos": "adjective",
+       "romaji": "takusan",
+       "gloss": "a lot, many",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle, \"of\"",
+       "glossId": "partikel kepemilikan/atributif, \"punya\""
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel penanda subjek"
+      },
+      {
+       "surface": "毎日",
+       "pos": "noun",
+       "reading": "まいにち",
+       "romaji": "mainichi",
+       "gloss": "every day",
+       "glossId": "setiap hari"
+      },
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha",
+       "gloss": "train",
+       "glossId": "kereta"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location of existence, \"in/at\"",
+       "glossId": "partikel penanda lokasi keberadaan, \"di\""
+      },
+      {
+       "surface": "乗り",
+       "pos": "verb",
+       "reading": "のり",
+       "romaji": "nori",
+       "lemma": "乗る",
+       "gloss": "to ride",
+       "glossId": "naik (kendaraan)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many people ride the train every day.",
+     "translationId": "Banyak orang naik kereta setiap hari.",
+     "audioStart": 5.976,
+     "audioEnd": 9.96
+    },
+    {
+     "text": "電車は速いです。",
+     "tokens": [
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha",
+       "gloss": "train",
+       "glossId": "kereta"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "速い",
+       "pos": "adjective",
+       "reading": "はやい",
+       "romaji": "hayai",
+       "gloss": "fast",
+       "glossId": "cepat"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Trains are fast.",
+     "translationId": "Kereta itu cepat.",
+     "audioStart": 9.96,
+     "audioEnd": 12.504
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "駅で切符を買います。",
+     "tokens": [
+      {
+       "surface": "駅",
+       "pos": "noun",
+       "reading": "えき",
+       "romaji": "eki",
+       "gloss": "station",
+       "glossId": "stasiun"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking location of action, \"at\"",
+       "glossId": "partikel penanda lokasi aksi, \"di\""
+      },
+      {
+       "surface": "切符",
+       "pos": "noun",
+       "reading": "きっぷ",
+       "romaji": "kippu",
+       "gloss": "ticket",
+       "glossId": "tiket"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "partikel penanda objek"
+      },
+      {
+       "surface": "買い",
+       "pos": "verb",
+       "reading": "かい",
+       "romaji": "kai",
+       "lemma": "買う",
+       "gloss": "to buy",
+       "glossId": "membeli"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You buy a ticket at the station.",
+     "translationId": "Membeli tiket di stasiun.",
+     "audioStart": 12.504,
+     "audioEnd": 15.36
+    },
+    {
+     "text": "今はICカードも使います。",
+     "tokens": [
+      {
+       "surface": "今",
+       "pos": "noun",
+       "reading": "いま",
+       "romaji": "ima",
+       "gloss": "now",
+       "glossId": "sekarang"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "ICカード",
+       "pos": "noun",
+       "romaji": "aishiikaado",
+       "gloss": "IC card",
+       "glossId": "kartu IC"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "使い",
+       "pos": "verb",
+       "reading": "つかい",
+       "romaji": "tsukai",
+       "lemma": "使う",
+       "gloss": "to use",
+       "glossId": "menggunakan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Nowadays, people also use IC cards.",
+     "translationId": "Sekarang juga menggunakan kartu IC.",
+     "audioStart": 15.36,
+     "audioEnd": 18.984
+    },
+    {
+     "text": "ICカードで改札を通ります。",
+     "tokens": [
+      {
+       "surface": "ICカード",
+       "pos": "noun",
+       "romaji": "aishiikaado",
+       "gloss": "IC card",
+       "glossId": "kartu IC"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking location of action, \"at\"",
+       "glossId": "partikel penanda lokasi aksi, \"di\""
+      },
+      {
+       "surface": "改札",
+       "pos": "noun",
+       "reading": "かいさつ",
+       "romaji": "kaisatsu",
+       "gloss": "ticket gate",
+       "glossId": "gerbang tiket"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "partikel penanda objek"
+      },
+      {
+       "surface": "通り",
+       "pos": "verb",
+       "reading": "とおり",
+       "romaji": "toori",
+       "lemma": "通る",
+       "gloss": "to pass through",
+       "glossId": "melewati"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You pass through the ticket gate with an IC card.",
+     "translationId": "Melewati gerbang tiket dengan kartu IC.",
+     "audioStart": 18.984,
+     "audioEnd": 22.632
+    },
+    {
+     "text": "とても簡単です。",
+     "tokens": [
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "簡単",
+       "pos": "adjective",
+       "reading": "かんたん",
+       "romaji": "kantan",
+       "gloss": "simple, easy",
+       "glossId": "mudah, sederhana"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It's very easy.",
+     "translationId": "Sangat mudah.",
+     "audioStart": 22.632,
+     "audioEnd": 25.224
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "電車の中は静かです。",
+     "tokens": [
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha",
+       "gloss": "train",
+       "glossId": "kereta"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle, \"of\"",
+       "glossId": "partikel kepemilikan/atributif, \"punya\""
+      },
+      {
+       "surface": "中",
+       "pos": "noun",
+       "reading": "なか",
+       "romaji": "naka",
+       "gloss": "inside",
+       "glossId": "dalam, di dalam"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "静か",
+       "pos": "adjective",
+       "reading": "しずか",
+       "romaji": "shizuka",
+       "gloss": "quiet",
+       "glossId": "tenang"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Inside the train it is quiet.",
+     "translationId": "Di dalam kereta itu tenang.",
+     "audioStart": 25.224,
+     "audioEnd": 28.296
+    },
+    {
+     "text": "みんな静かに座ります。",
+     "tokens": [
+      {
+       "surface": "みんな",
+       "pos": "noun",
+       "romaji": "minna",
+       "gloss": "everyone",
+       "glossId": "semua orang"
+      },
+      {
+       "surface": "静か",
+       "pos": "adjective",
+       "reading": "しずか",
+       "romaji": "shizuka",
+       "gloss": "quiet",
+       "glossId": "tenang"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "plain copula",
+       "glossId": "kopula biasa"
+      },
+      {
+       "surface": "座り",
+       "pos": "verb",
+       "reading": "すわり",
+       "romaji": "suwari",
+       "lemma": "座る",
+       "gloss": "to sit",
+       "glossId": "duduk"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Everyone sits quietly.",
+     "translationId": "Semua orang duduk dengan tenang.",
+     "audioStart": 28.296,
+     "audioEnd": 31.296
+    },
+    {
+     "text": "電話はあまり使いません。",
+     "tokens": [
+      {
+       "surface": "電話",
+       "pos": "noun",
+       "reading": "でんわ",
+       "romaji": "denwa",
+       "gloss": "phone",
+       "glossId": "telepon"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "あまり",
+       "pos": "adverb",
+       "romaji": "amari",
+       "gloss": "not much (used with negative)",
+       "glossId": "tidak terlalu (dipakai dengan negasi)"
+      },
+      {
+       "surface": "使い",
+       "pos": "verb",
+       "reading": "つかい",
+       "romaji": "tsukai",
+       "lemma": "使う",
+       "gloss": "to use",
+       "glossId": "menggunakan"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negation auxiliary (classical form, ~ない)",
+       "glossId": "akhiran negasi (bentuk klasik, ~ない)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "People don't use their phones much.",
+     "translationId": "Telepon tidak terlalu digunakan.",
+     "audioStart": 31.296,
+     "audioEnd": 34.392
+    },
+    {
+     "text": "電車はいつも来ます。",
+     "tokens": [
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha",
+       "gloss": "train",
+       "glossId": "kereta"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "いつも",
+       "pos": "noun",
+       "romaji": "itsumo",
+       "gloss": "always",
+       "glossId": "selalu"
+      },
+      {
+       "surface": "来",
+       "pos": "verb",
+       "reading": "き",
+       "romaji": "ki",
+       "lemma": "来る",
+       "gloss": "to come",
+       "glossId": "datang"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The train always comes (on time).",
+     "translationId": "Kereta selalu datang (tepat waktu).",
+     "audioStart": 34.392,
+     "audioEnd": 37.152
+    }
+   ]
+  }
+ ]
+}

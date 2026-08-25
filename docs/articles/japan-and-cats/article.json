@@ -1,0 +1,942 @@
+{
+ "schemaVersion": 1,
+ "id": "japan-and-cats",
+ "language": "ja",
+ "title": "日本と猫",
+ "titleTranslation": "Japan and Cats",
+ "titleTranslationId": "Jepang dan Kucing",
+ "level": "Beginner",
+ "summary": "The article introduces Japan's love of cats, including popular cat cafes and the lucky beckoning cat figurine called maneki-neko.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T08:02:59+00:00",
+ "audioFile": "audio.mp3",
+ "voice": "ja-JP-KeitaNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "日本には猫が好きな人がたくさんいます。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to (location or time marker)",
+       "glossId": "partikel: di/ke (penanda lokasi atau waktu)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "猫",
+       "pos": "noun",
+       "reading": "ねこ",
+       "romaji": "neko",
+       "gloss": "cat",
+       "glossId": "kucing"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "好き",
+       "pos": "adjective",
+       "reading": "すき",
+       "romaji": "suki",
+       "gloss": "fond of, like (na-adjective)",
+       "glossId": "suka (kata sifat-na)"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula: to be (plain form)",
+       "glossId": "kopula: adalah (bentuk biasa)"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist, to be (animate)",
+       "glossId": "ada, berada (untuk makhluk hidup)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In Japan, there are many people who like cats.",
+     "translationId": "Di Jepang, ada banyak orang yang suka kucing.",
+     "audioStart": 0.0,
+     "audioEnd": 3.792
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "多くの人は家で猫を飼っています。",
+     "tokens": [
+      {
+       "surface": "多く",
+       "pos": "noun",
+       "reading": "おおく",
+       "romaji": "ooku",
+       "gloss": "many, a lot",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "家",
+       "pos": "noun",
+       "reading": "いえ",
+       "romaji": "ie",
+       "gloss": "house, home",
+       "glossId": "rumah"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by (location of action)",
+       "glossId": "partikel: di (lokasi tindakan)"
+      },
+      {
+       "surface": "猫",
+       "pos": "noun",
+       "reading": "ねこ",
+       "romaji": "neko",
+       "gloss": "cat",
+       "glossId": "kucing"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "飼っ",
+       "pos": "verb",
+       "reading": "かっ",
+       "romaji": "katsu",
+       "lemma": "飼う",
+       "gloss": "to keep (a pet)",
+       "glossId": "memelihara (hewan)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk-te"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist, to be (animate)",
+       "glossId": "ada, berada (untuk makhluk hidup)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many people keep cats at home.",
+     "translationId": "Banyak orang memelihara kucing di rumah.",
+     "audioStart": 3.792,
+     "audioEnd": 7.392
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "猫はとても人気があるペットです。",
+     "tokens": [
+      {
+       "surface": "猫",
+       "pos": "noun",
+       "reading": "ねこ",
+       "romaji": "neko",
+       "gloss": "cat",
+       "glossId": "kucing"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "人気",
+       "pos": "noun",
+       "reading": "にんき",
+       "romaji": "ninki",
+       "gloss": "popularity",
+       "glossId": "popularitas"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "ある",
+       "pos": "verb",
+       "romaji": "aru",
+       "gloss": "to exist, to have (inanimate)",
+       "glossId": "ada, memiliki (untuk benda mati)"
+      },
+      {
+       "surface": "ペット",
+       "pos": "noun",
+       "romaji": "petto",
+       "gloss": "pet",
+       "glossId": "hewan peliharaan"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula: to be (polite)",
+       "glossId": "kopula: adalah (sopan)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Cats are a very popular pet.",
+     "translationId": "Kucing adalah hewan peliharaan yang sangat populer.",
+     "audioStart": 7.392,
+     "audioEnd": 10.776
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "日本には猫カフェがあります。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to (location or time marker)",
+       "glossId": "partikel: di/ke (penanda lokasi atau waktu)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "猫",
+       "pos": "noun",
+       "reading": "ねこ",
+       "romaji": "neko",
+       "gloss": "cat",
+       "glossId": "kucing"
+      },
+      {
+       "surface": "カフェ",
+       "pos": "noun",
+       "romaji": "kafe",
+       "gloss": "cafe",
+       "glossId": "kafe"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, to have (inanimate)",
+       "glossId": "ada, memiliki (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In Japan, there are cat cafes.",
+     "translationId": "Di Jepang ada kafe kucing.",
+     "audioStart": 10.776,
+     "audioEnd": 13.776
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "猫カフェで、猫と遊ぶことができます。",
+     "tokens": [
+      {
+       "surface": "猫",
+       "pos": "noun",
+       "reading": "ねこ",
+       "romaji": "neko",
+       "gloss": "cat",
+       "glossId": "kucing"
+      },
+      {
+       "surface": "カフェ",
+       "pos": "noun",
+       "romaji": "kafe",
+       "gloss": "cafe",
+       "glossId": "kafe"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by (location of action)",
+       "glossId": "partikel: di (lokasi tindakan)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "猫",
+       "pos": "noun",
+       "reading": "ねこ",
+       "romaji": "neko",
+       "gloss": "cat",
+       "glossId": "kucing"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: with, and",
+       "glossId": "partikel: dengan, dan"
+      },
+      {
+       "surface": "遊ぶ",
+       "pos": "verb",
+       "reading": "あそぶ",
+       "romaji": "asobu",
+       "gloss": "to play",
+       "glossId": "bermain"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer: the act/fact of",
+       "glossId": "nominalisasi: hal/tindakan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to, can",
+       "glossId": "bisa, mampu"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "At cat cafes, you can play with cats.",
+     "translationId": "Di kafe kucing, kamu bisa bermain dengan kucing.",
+     "audioStart": 13.776,
+     "audioEnd": 17.88
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "お茶を飲みながら、猫を見ます。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "茶",
+       "pos": "noun",
+       "reading": "ちゃ",
+       "romaji": "cha",
+       "gloss": "tea",
+       "glossId": "teh"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "飲み",
+       "pos": "verb",
+       "reading": "のみ",
+       "romaji": "nomi",
+       "lemma": "飲む",
+       "gloss": "to drink",
+       "glossId": "minum"
+      },
+      {
+       "surface": "ながら",
+       "pos": "particle",
+       "romaji": "nagara",
+       "gloss": "while (doing something)",
+       "glossId": "sambil"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "猫",
+       "pos": "noun",
+       "reading": "ねこ",
+       "romaji": "neko",
+       "gloss": "cat",
+       "glossId": "kucing"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "見",
+       "pos": "verb",
+       "reading": "み",
+       "romaji": "mi",
+       "lemma": "見る",
+       "gloss": "to see, to watch",
+       "glossId": "melihat"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "While drinking tea, you watch the cats.",
+     "translationId": "Sambil minum teh, kamu melihat kucing.",
+     "audioStart": 17.88,
+     "audioEnd": 21.36
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "とても楽しいです。",
+     "tokens": [
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "楽しい",
+       "pos": "adjective",
+       "reading": "たのしい",
+       "romaji": "tanoshii",
+       "gloss": "fun, enjoyable",
+       "glossId": "menyenangkan"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula: to be (polite)",
+       "glossId": "kopula: adalah (sopan)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It's very fun.",
+     "translationId": "Sangat menyenangkan.",
+     "audioStart": 21.36,
+     "audioEnd": 23.688
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "「招き猫」も有名です。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "招き猫",
+       "pos": "noun",
+       "reading": "まねきねこ",
+       "romaji": "manekineko",
+       "gloss": "beckoning cat (lucky cat figurine)",
+       "glossId": "kucing pengundang keberuntungan"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "有名",
+       "pos": "adjective",
+       "reading": "ゆうめい",
+       "romaji": "yuumei",
+       "gloss": "famous",
+       "glossId": "terkenal"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula: to be (polite)",
+       "glossId": "kopula: adalah (sopan)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The \"maneki-neko\" (beckoning cat) is also famous.",
+     "translationId": "\"Maneki-neko\" (kucing pengundang keberuntungan) juga terkenal.",
+     "audioStart": 23.688,
+     "audioEnd": 26.472
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "招き猫は猫の置物です。",
+     "tokens": [
+      {
+       "surface": "招き猫",
+       "pos": "noun",
+       "reading": "まねきねこ",
+       "romaji": "manekineko",
+       "gloss": "beckoning cat (lucky cat figurine)",
+       "glossId": "kucing pengundang keberuntungan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "猫",
+       "pos": "noun",
+       "reading": "ねこ",
+       "romaji": "neko",
+       "gloss": "cat",
+       "glossId": "kucing"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "置物",
+       "pos": "noun",
+       "reading": "おきもの",
+       "romaji": "okimono",
+       "gloss": "ornament, figurine",
+       "glossId": "patung hias, pajangan"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula: to be (polite)",
+       "glossId": "kopula: adalah (sopan)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The maneki-neko is a cat figurine.",
+     "translationId": "Maneki-neko adalah patung kucing.",
+     "audioStart": 26.472,
+     "audioEnd": 29.808
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "お店の前によく置きます。",
+     "tokens": [
+      {
+       "surface": "お店",
+       "pos": "noun",
+       "reading": "おみせ",
+       "romaji": "omise",
+       "gloss": "shop, store",
+       "glossId": "toko"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "前",
+       "pos": "noun",
+       "reading": "まえ",
+       "romaji": "mae",
+       "gloss": "front, before",
+       "glossId": "depan, sebelum"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to (location or time marker)",
+       "glossId": "partikel: di/ke (penanda lokasi atau waktu)"
+      },
+      {
+       "surface": "よく",
+       "pos": "adverb",
+       "romaji": "yoku",
+       "gloss": "often, well",
+       "glossId": "sering, dengan baik"
+      },
+      {
+       "surface": "置き",
+       "pos": "verb",
+       "reading": "おき",
+       "romaji": "oki",
+       "lemma": "置く",
+       "gloss": "to place, to put",
+       "glossId": "meletakkan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It's often placed in front of shops.",
+     "translationId": "Sering diletakkan di depan toko.",
+     "audioStart": 29.808,
+     "audioEnd": 32.688
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "招き猫は手を上げています。",
+     "tokens": [
+      {
+       "surface": "招き猫",
+       "pos": "noun",
+       "reading": "まねきねこ",
+       "romaji": "manekineko",
+       "gloss": "beckoning cat (lucky cat figurine)",
+       "glossId": "kucing pengundang keberuntungan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "手",
+       "pos": "noun",
+       "reading": "て",
+       "romaji": "te",
+       "gloss": "hand, paw",
+       "glossId": "tangan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "上げ",
+       "pos": "verb",
+       "reading": "あげ",
+       "romaji": "age",
+       "lemma": "上げる",
+       "gloss": "to raise",
+       "glossId": "mengangkat"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk-te"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist, to be (animate)",
+       "glossId": "ada, berada (untuk makhluk hidup)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The maneki-neko has its paw raised.",
+     "translationId": "Maneki-neko mengangkat tangannya.",
+     "audioStart": 32.688,
+     "audioEnd": 35.664
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "招き猫はいい運を呼びます。",
+     "tokens": [
+      {
+       "surface": "招き猫",
+       "pos": "noun",
+       "reading": "まねきねこ",
+       "romaji": "manekineko",
+       "gloss": "beckoning cat (lucky cat figurine)",
+       "glossId": "kucing pengundang keberuntungan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good",
+       "glossId": "bagus"
+      },
+      {
+       "surface": "運",
+       "pos": "noun",
+       "reading": "うん",
+       "romaji": "un",
+       "gloss": "luck, fortune",
+       "glossId": "keberuntungan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "呼び",
+       "pos": "verb",
+       "reading": "よび",
+       "romaji": "yobi",
+       "lemma": "呼ぶ",
+       "gloss": "to call, to invite, to bring (about)",
+       "glossId": "memanggil, mendatangkan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The maneki-neko brings good luck.",
+     "translationId": "Maneki-neko mendatangkan keberuntungan.",
+     "audioStart": 35.664,
+     "audioEnd": 38.832
+    }
+   ]
+  }
+ ]
+}

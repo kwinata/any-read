@@ -48,7 +48,7 @@ async function isCached(id) {
 
 /* ---------------- Library ---------------- */
 
-const LEVEL_ORDER = ['N5', 'N4', 'N3', 'N2', 'N1', 'A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
+const LEVEL_ORDER = ['Beginner', 'N5', 'N4', 'N3', 'N2', 'N1', 'A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
 
 async function renderLibrary() {
   stopAudio();
@@ -268,6 +268,7 @@ async function renderReader(id) {
 
       if (s.translation) {
         const tEl = el('div', 'trans', s.translation);
+        if (s.translationId) tEl.append(el('div', 'trans-id', s.translationId));
         if (!settings.translations) tEl.classList.add('hidden');
         if (article.audioFile && s.audioStart != null) {
           const chip = el('span', 'playhere', '▶ play from here');
@@ -322,6 +323,7 @@ async function renderReader(id) {
       card.append(el('div', 'pos', 'base form: ' + tok.lemma));
     }
     card.append(el('div', 'g', tok.gloss || 'no gloss'));
+    if (tok.glossId) card.append(el('div', 'g gid', tok.glossId));
     card.append(el('div', 'pos', tok.pos));
     const close = el('button', 'close', '✕');
     close.addEventListener('click', hideGloss);

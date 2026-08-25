@@ -1,0 +1,714 @@
+{
+ "schemaVersion": 1,
+ "id": "japan-s-four-seasons",
+ "language": "ja",
+ "title": "日本の四季",
+ "titleTranslation": "Japan's Four Seasons",
+ "titleTranslationId": "Empat Musim di Jepang",
+ "level": "Beginner",
+ "summary": "The article introduces Japan's four seasons and describes the characteristic weather and activities of each one.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T08:03:41+00:00",
+ "audioFile": "audio.mp3",
+ "voice": "ja-JP-NanamiNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "日本には四つの季節があります。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time marker",
+       "glossId": "penanda lokasi/waktu"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "四",
+       "pos": "noun",
+       "reading": "よん",
+       "romaji": "yon",
+       "gloss": "four",
+       "glossId": "empat"
+      },
+      {
+       "surface": "つ",
+       "pos": "suffix",
+       "romaji": "tsu",
+       "gloss": "counter for small objects",
+       "glossId": "penghitung untuk benda kecil"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle",
+       "glossId": "partikel kepemilikan/penghubung"
+      },
+      {
+       "surface": "季節",
+       "pos": "noun",
+       "reading": "きせつ",
+       "romaji": "kisetsu",
+       "gloss": "season",
+       "glossId": "musim"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Japan has four seasons.",
+     "translationId": "Di Jepang ada empat musim.",
+     "audioStart": 0.0,
+     "audioEnd": 3.84
+    },
+    {
+     "text": "春と夏と秋と冬です。",
+     "tokens": [
+      {
+       "surface": "春",
+       "pos": "noun",
+       "reading": "はる",
+       "romaji": "haru",
+       "gloss": "spring",
+       "glossId": "musim semi"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and (connects nouns)",
+       "glossId": "dan (menghubungkan kata benda)"
+      },
+      {
+       "surface": "夏",
+       "pos": "noun",
+       "reading": "なつ",
+       "romaji": "natsu",
+       "gloss": "summer",
+       "glossId": "musim panas"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and (connects nouns)",
+       "glossId": "dan (menghubungkan kata benda)"
+      },
+      {
+       "surface": "秋",
+       "pos": "noun",
+       "reading": "あき",
+       "romaji": "aki",
+       "gloss": "autumn",
+       "glossId": "musim gugur"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and (connects nouns)",
+       "glossId": "dan (menghubungkan kata benda)"
+      },
+      {
+       "surface": "冬",
+       "pos": "noun",
+       "reading": "ふゆ",
+       "romaji": "fuyu",
+       "gloss": "winter",
+       "glossId": "musim dingin"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is/am/are)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They are spring, summer, autumn, and winter.",
+     "translationId": "Yaitu musim semi, musim panas, musim gugur, dan musim dingin.",
+     "audioStart": 3.84,
+     "audioEnd": 7.104
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "春はあたたかいです。",
+     "tokens": [
+      {
+       "surface": "春",
+       "pos": "noun",
+       "reading": "はる",
+       "romaji": "haru",
+       "gloss": "spring",
+       "glossId": "musim semi"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "あたたかい",
+       "pos": "adjective",
+       "romaji": "atatakai",
+       "gloss": "warm",
+       "glossId": "hangat"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is/am/are)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Spring is warm.",
+     "translationId": "Musim semi itu hangat.",
+     "audioStart": 7.104,
+     "audioEnd": 9.84
+    },
+    {
+     "text": "花がさきます。",
+     "tokens": [
+      {
+       "surface": "花",
+       "pos": "noun",
+       "reading": "はな",
+       "romaji": "hana",
+       "gloss": "flower",
+       "glossId": "bunga"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "さき",
+       "pos": "verb",
+       "romaji": "saki",
+       "lemma": "さく",
+       "gloss": "to bloom",
+       "glossId": "mekar"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Flowers bloom.",
+     "translationId": "Bunga-bunga bermekaran.",
+     "audioStart": 9.84,
+     "audioEnd": 12.144
+    },
+    {
+     "text": "桜の花はきれいです。",
+     "tokens": [
+      {
+       "surface": "桜",
+       "pos": "noun",
+       "reading": "さくら",
+       "romaji": "sakura",
+       "gloss": "cherry blossom",
+       "glossId": "bunga sakura"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle",
+       "glossId": "partikel kepemilikan/penghubung"
+      },
+      {
+       "surface": "花",
+       "pos": "noun",
+       "reading": "はな",
+       "romaji": "hana",
+       "gloss": "flower",
+       "glossId": "bunga"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "きれい",
+       "pos": "adjective",
+       "romaji": "kirei",
+       "gloss": "pretty, beautiful",
+       "glossId": "indah, cantik"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is/am/are)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Cherry blossoms are beautiful.",
+     "translationId": "Bunga sakura itu indah.",
+     "audioStart": 12.144,
+     "audioEnd": 15.24
+    },
+    {
+     "text": "夏は暑いです。",
+     "tokens": [
+      {
+       "surface": "夏",
+       "pos": "noun",
+       "reading": "なつ",
+       "romaji": "natsu",
+       "gloss": "summer",
+       "glossId": "musim panas"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "暑い",
+       "pos": "adjective",
+       "reading": "あつい",
+       "romaji": "atsui",
+       "gloss": "hot (weather)",
+       "glossId": "panas (cuaca)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is/am/are)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Summer is hot.",
+     "translationId": "Musim panas itu panas.",
+     "audioStart": 15.24,
+     "audioEnd": 17.736
+    },
+    {
+     "text": "人は海に行きます。",
+     "tokens": [
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person, people",
+       "glossId": "orang"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "海",
+       "pos": "noun",
+       "reading": "うみ",
+       "romaji": "umi",
+       "gloss": "sea, ocean",
+       "glossId": "laut"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time marker",
+       "glossId": "penanda lokasi/waktu"
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "People go to the sea.",
+     "translationId": "Orang-orang pergi ke laut.",
+     "audioStart": 17.736,
+     "audioEnd": 20.544
+    },
+    {
+     "text": "夏休みがあります。",
+     "tokens": [
+      {
+       "surface": "夏休み",
+       "pos": "noun",
+       "reading": "なつやすみ",
+       "romaji": "natsuyasumi",
+       "gloss": "summer vacation",
+       "glossId": "libur musim panas"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There is summer vacation.",
+     "translationId": "Ada libur musim panas.",
+     "audioStart": 20.544,
+     "audioEnd": 23.208
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "秋はすずしいです。",
+     "tokens": [
+      {
+       "surface": "秋",
+       "pos": "noun",
+       "reading": "あき",
+       "romaji": "aki",
+       "gloss": "autumn",
+       "glossId": "musim gugur"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "すずしい",
+       "pos": "adjective",
+       "romaji": "suzushii",
+       "gloss": "cool (weather)",
+       "glossId": "sejuk"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is/am/are)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Autumn is cool.",
+     "translationId": "Musim gugur itu sejuk.",
+     "audioStart": 23.208,
+     "audioEnd": 25.872
+    },
+    {
+     "text": "木の葉が赤くなります。",
+     "tokens": [
+      {
+       "surface": "木の葉",
+       "pos": "noun",
+       "reading": "このは",
+       "romaji": "konoha",
+       "gloss": "tree leaf",
+       "glossId": "daun pohon"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "赤く",
+       "pos": "adjective",
+       "reading": "あかく",
+       "romaji": "akaku",
+       "lemma": "赤い",
+       "gloss": "red",
+       "glossId": "merah"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Tree leaves turn red.",
+     "translationId": "Daun-daun pohon menjadi merah.",
+     "audioStart": 25.872,
+     "audioEnd": 28.656
+    },
+    {
+     "text": "秋の食べ物はおいしいです。",
+     "tokens": [
+      {
+       "surface": "秋",
+       "pos": "noun",
+       "reading": "あき",
+       "romaji": "aki",
+       "gloss": "autumn",
+       "glossId": "musim gugur"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle",
+       "glossId": "partikel kepemilikan/penghubung"
+      },
+      {
+       "surface": "食べ物",
+       "pos": "noun",
+       "reading": "たべもの",
+       "romaji": "tabemono",
+       "gloss": "food",
+       "glossId": "makanan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "おいしい",
+       "pos": "adjective",
+       "romaji": "oishii",
+       "gloss": "delicious",
+       "glossId": "enak"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is/am/are)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Autumn food is delicious.",
+     "translationId": "Makanan musim gugur itu enak.",
+     "audioStart": 28.656,
+     "audioEnd": 31.896
+    },
+    {
+     "text": "冬は寒いです。",
+     "tokens": [
+      {
+       "surface": "冬",
+       "pos": "noun",
+       "reading": "ふゆ",
+       "romaji": "fuyu",
+       "gloss": "winter",
+       "glossId": "musim dingin"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "寒い",
+       "pos": "adjective",
+       "reading": "さむい",
+       "romaji": "samui",
+       "gloss": "cold (weather)",
+       "glossId": "dingin (cuaca)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is/am/are)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Winter is cold.",
+     "translationId": "Musim dingin itu dingin.",
+     "audioStart": 31.896,
+     "audioEnd": 34.392
+    },
+    {
+     "text": "雪が降ります。",
+     "tokens": [
+      {
+       "surface": "雪",
+       "pos": "noun",
+       "reading": "ゆき",
+       "romaji": "yuki",
+       "gloss": "snow",
+       "glossId": "salju"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "降り",
+       "pos": "verb",
+       "reading": "ふり",
+       "romaji": "furi",
+       "lemma": "降る",
+       "gloss": "to fall (rain/snow)",
+       "glossId": "turun (hujan/salju)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Snow falls.",
+     "translationId": "Salju turun.",
+     "audioStart": 34.392,
+     "audioEnd": 36.72
+    }
+   ]
+  }
+ ]
+}

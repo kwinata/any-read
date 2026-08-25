@@ -1,0 +1,628 @@
+{
+ "schemaVersion": 1,
+ "id": "convenience-store",
+ "language": "ja",
+ "title": "コンビニ",
+ "titleTranslation": "Convenience Store",
+ "titleTranslationId": "Minimarket",
+ "level": "Beginner",
+ "summary": "The article describes how convenient stores are, being open all hours and selling a wide variety of items like food, drinks, magazines, and tickets.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T08:01:46+00:00",
+ "audioFile": "audio.mp3",
+ "voice": "ja-JP-KeitaNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "コンビニは便利な店です。",
+     "tokens": [
+      {
+       "surface": "コンビニ",
+       "pos": "noun",
+       "romaji": "konbini",
+       "gloss": "convenience store",
+       "glossId": "minimarket"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "便利",
+       "pos": "noun",
+       "reading": "べんり",
+       "romaji": "benri",
+       "gloss": "convenient",
+       "glossId": "praktis, nyaman"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "plain copula 'is'",
+       "glossId": "kopula bentuk biasa 'adalah'"
+      },
+      {
+       "surface": "店",
+       "pos": "noun",
+       "reading": "みせ",
+       "romaji": "mise",
+       "gloss": "shop, store",
+       "glossId": "toko"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "A convenience store is a convenient shop.",
+     "translationId": "Minimarket adalah toko yang praktis.",
+     "audioStart": 0.0,
+     "audioEnd": 2.784
+    },
+    {
+     "text": "町にたくさんあります。",
+     "tokens": [
+      {
+       "surface": "町",
+       "pos": "noun",
+       "reading": "まち",
+       "romaji": "machi",
+       "gloss": "town",
+       "glossId": "kota"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/existence marker",
+       "glossId": "penanda lokasi/keberadaan"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are many in town.",
+     "translationId": "Ada banyak di kota.",
+     "audioStart": 2.784,
+     "audioEnd": 5.352
+    },
+    {
+     "text": "朝も夜も開いています。",
+     "tokens": [
+      {
+       "surface": "朝",
+       "pos": "noun",
+       "reading": "あさ",
+       "romaji": "asa",
+       "gloss": "morning",
+       "glossId": "pagi"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "夜",
+       "pos": "noun",
+       "reading": "よる",
+       "romaji": "yoru",
+       "gloss": "night",
+       "glossId": "malam"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "開い",
+       "pos": "verb",
+       "reading": "ひらい",
+       "romaji": "hirai",
+       "lemma": "開く",
+       "gloss": "to open",
+       "glossId": "buka"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective te-form particle",
+       "glossId": "partikel penghubung bentuk te"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be (ongoing state)",
+       "glossId": "berada (keadaan berlangsung)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is open morning and night.",
+     "translationId": "Buka pagi maupun malam.",
+     "audioStart": 5.352,
+     "audioEnd": 8.184
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "コンビニで食べ物を買います。",
+     "tokens": [
+      {
+       "surface": "コンビニ",
+       "pos": "noun",
+       "romaji": "konbini",
+       "gloss": "convenience store",
+       "glossId": "minimarket"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location of action marker",
+       "glossId": "penanda lokasi aksi"
+      },
+      {
+       "surface": "食べ物",
+       "pos": "noun",
+       "reading": "たべもの",
+       "romaji": "tabemono",
+       "gloss": "food",
+       "glossId": "makanan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker",
+       "glossId": "penanda objek langsung"
+      },
+      {
+       "surface": "買い",
+       "pos": "verb",
+       "reading": "かい",
+       "romaji": "kai",
+       "lemma": "買う",
+       "gloss": "to buy",
+       "glossId": "membeli"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I buy food at the convenience store.",
+     "translationId": "Saya membeli makanan di minimarket.",
+     "audioStart": 8.184,
+     "audioEnd": 11.088
+    },
+    {
+     "text": "おにぎりを買います。",
+     "tokens": [
+      {
+       "surface": "おにぎり",
+       "pos": "noun",
+       "romaji": "onigiri",
+       "gloss": "rice ball",
+       "glossId": "onigiri (nasi kepal)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "direct object marker",
+       "glossId": "penanda objek langsung"
+      },
+      {
+       "surface": "買い",
+       "pos": "verb",
+       "reading": "かい",
+       "romaji": "kai",
+       "lemma": "買う",
+       "gloss": "to buy",
+       "glossId": "membeli"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I buy rice balls.",
+     "translationId": "Saya membeli onigiri.",
+     "audioStart": 11.088,
+     "audioEnd": 13.392
+    },
+    {
+     "text": "パンも買います。",
+     "tokens": [
+      {
+       "surface": "パン",
+       "pos": "noun",
+       "romaji": "pan",
+       "gloss": "bread",
+       "glossId": "roti"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "買い",
+       "pos": "verb",
+       "reading": "かい",
+       "romaji": "kai",
+       "lemma": "買う",
+       "gloss": "to buy",
+       "glossId": "membeli"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I also buy bread.",
+     "translationId": "Saya juga membeli roti.",
+     "audioStart": 13.392,
+     "audioEnd": 15.432
+    },
+    {
+     "text": "お弁当も人気です。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "polite prefix",
+       "glossId": "awalan sopan"
+      },
+      {
+       "surface": "弁当",
+       "pos": "noun",
+       "reading": "べんとう",
+       "romaji": "bentou",
+       "gloss": "boxed lunch",
+       "glossId": "bekal makan (bento)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "人気",
+       "pos": "noun",
+       "reading": "にんき",
+       "romaji": "ninki",
+       "gloss": "popularity",
+       "glossId": "populer"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Bento boxes are also popular.",
+     "translationId": "Bento juga populer.",
+     "audioStart": 15.432,
+     "audioEnd": 18.024
+    },
+    {
+     "text": "飲み物もあります。",
+     "tokens": [
+      {
+       "surface": "飲み物",
+       "pos": "noun",
+       "reading": "のみもの",
+       "romaji": "nomimono",
+       "gloss": "drink, beverage",
+       "glossId": "minuman"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are also drinks.",
+     "translationId": "Ada juga minuman.",
+     "audioStart": 18.024,
+     "audioEnd": 20.424
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "雑誌もあります。",
+     "tokens": [
+      {
+       "surface": "雑誌",
+       "pos": "noun",
+       "reading": "ざっし",
+       "romaji": "zasshi",
+       "gloss": "magazine",
+       "glossId": "majalah"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are also magazines.",
+     "translationId": "Ada juga majalah.",
+     "audioStart": 20.424,
+     "audioEnd": 22.632
+    },
+    {
+     "text": "切符も買います。",
+     "tokens": [
+      {
+       "surface": "切符",
+       "pos": "noun",
+       "reading": "きっぷ",
+       "romaji": "kippu",
+       "gloss": "ticket",
+       "glossId": "tiket"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "買い",
+       "pos": "verb",
+       "reading": "かい",
+       "romaji": "kai",
+       "lemma": "買う",
+       "gloss": "to buy",
+       "glossId": "membeli"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I also buy tickets.",
+     "translationId": "Saya juga membeli tiket.",
+     "audioStart": 22.632,
+     "audioEnd": 24.864
+    },
+    {
+     "text": "お金も出します。",
+     "tokens": [
+      {
+       "surface": "お金",
+       "pos": "noun",
+       "reading": "おかね",
+       "romaji": "okane",
+       "gloss": "money",
+       "glossId": "uang"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "出し",
+       "pos": "verb",
+       "reading": "だし",
+       "romaji": "dashi",
+       "lemma": "出す",
+       "gloss": "to take out, withdraw",
+       "glossId": "mengeluarkan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I also withdraw money.",
+     "translationId": "Saya juga mengeluarkan uang.",
+     "audioStart": 24.864,
+     "audioEnd": 27.168
+    },
+    {
+     "text": "コンビニはとても便利です。",
+     "tokens": [
+      {
+       "surface": "コンビニ",
+       "pos": "noun",
+       "romaji": "konbini",
+       "gloss": "convenience store",
+       "glossId": "minimarket"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "便利",
+       "pos": "noun",
+       "reading": "べんり",
+       "romaji": "benri",
+       "gloss": "convenient",
+       "glossId": "praktis, nyaman"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Convenience stores are very convenient.",
+     "translationId": "Minimarket sangat praktis.",
+     "audioStart": 27.168,
+     "audioEnd": 30.024
+    }
+   ]
+  }
+ ]
+}

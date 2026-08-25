@@ -50,10 +50,11 @@ def _generate(args) -> None:
         gen = llm.generate_article(args.lang, args.level, args.topic)
         art = fetch.FetchedArticle(title=gen["title"], text=gen["text"], generated=True)
         print(f"Title: {art.title}")
-        _process_article(art, args.lang, args, level_override=args.level)
+        _process_article(art, args.lang, args, level_override=args.level, extra_lang="id")
 
 
-def _process_article(art, lang: str, args, level_override: str | None = None) -> None:
+def _process_article(art, lang: str, args, level_override: str | None = None,
+                     extra_lang: str | None = None) -> None:
     tokenize = ja.tokenize if lang == "ja" else de.tokenize
     paras = []
     flat_sentences: list[str] = []
@@ -82,7 +83,7 @@ def _process_article(art, lang: str, args, level_override: str | None = None) ->
                     gloss_keys.append(key)
 
     print(f"Annotating with Claude ({len(gloss_keys)} vocab items)...")
-    ann = llm.annotate(lang, art.title, flat_sentences, gloss_keys)
+    ann = llm.annotate(lang, art.title, flat_sentences, gloss_keys, extra_lang=extra_lang)
     if ann.get("titleTranslation"):
         ann["titleTranslation"] = re.sub(
             r"\s*(\([^)]*\))?\s*[-–]\s*(Yahoo! News|MATCHA.*)\s*$", "",
@@ -90,17 +91,25 @@ def _process_article(art, lang: str, args, level_override: str | None = None) ->
     if level_override:
         ann["level"] = level_override
     glosses = ann["glosses"]
+    glosses_id = ann.get("glossesId") or {}
+    translations_id = ann.get("translationsId")
     i = 0
     for p in paras:
         for s in p["sentences"]:
             s["translation"] = ann["translations"][i]
+            if translations_id:
+                s["translationId"] = translations_id[i]
             i += 1
             for t in s["tokens"]:
                 if t["pos"] in skip_gloss:
                     continue
-                g = glosses.get(t.get("lemma") or t["surface"])
+                key = t.get("lemma") or t["surface"]
+                g = glosses.get(key)
                 if g:
                     t["gloss"] = g
+                gi = glosses_id.get(key)
+                if gi:
+                    t["glossId"] = gi
 
     audio = None
     voice = args.voice or tts.pick_voice(lang, art.title)
@@ -119,6 +128,7 @@ def _process_article(art, lang: str, args, level_override: str | None = None) ->
         "language": lang,
         "title": art.title,
         "titleTranslation": ann.get("titleTranslation", ""),
+        "titleTranslationId": ann.get("titleTranslationId"),
         "level": ann.get("level", ""),
         "summary": ann.get("summary", ""),
         "sourceUrl": art.url,
