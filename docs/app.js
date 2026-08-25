@@ -622,6 +622,9 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
         secIdx: sections.length - 1,
         hay: [w.w, w.reading, w.romaji, w.en, w.id]
           .filter(Boolean).join(' ').toLowerCase(),
+        hayEx: (w.examples || []).map((e2) =>
+          [e2.text, e2.en, e2.id, e2.tokens.map((t) => t.romaji || '').join(' ')]
+            .filter(Boolean).join(' ')).join(' ').toLowerCase(),
       });
       host.append(item);
     }
@@ -649,8 +652,11 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
     const q = searchInput.value.trim().toLowerCase();
     const hits = new Array(sections.length).fill(0);
     for (const e of searchEntries) {
-      const show = !q || e.hay.includes(q);
+      const inEx = !!q && !!e.hayEx && e.hayEx.includes(q);
+      const show = !q || e.hay.includes(q) || inEx;
       e.el.style.display = show ? '' : 'none';
+      // A hit inside an example reveals it even in compact (no-ex) mode
+      e.el.classList.toggle('show-ex', inEx);
       if (show) hits[e.secIdx] += 1;
     }
     sections.forEach((s, i) => {

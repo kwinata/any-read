@@ -302,6 +302,7 @@ body {
 .vex.current { background: var(--highlight); }
 .vex .vtrans { margin-top: 0; font-size: 13px; }
 .no-ex .vex { display: none; }
+.no-ex .vitem.show-ex .vex { display: block; }
 .vrow.current { background: var(--highlight); }
 .vgloss { text-align: right; font-size: 14px; color: var(--muted); flex-shrink: 1; }
 .vgloss .idn { font-style: italic; opacity: 0.85; }
