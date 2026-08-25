@@ -1,0 +1,1147 @@
+{
+ "language": "ja",
+ "level": "Beginner",
+ "audioFile": "audio.mp3",
+ "categories": [
+  {
+   "name": "あいさつ",
+   "nameEn": "Greetings & expressions",
+   "words": [
+    {
+     "w": "こんにちは",
+     "reading": "こんにちは",
+     "en": "hello",
+     "id": "halo",
+     "romaji": "konnichiwa",
+     "start": 0.0,
+     "end": 2.016
+    },
+    {
+     "w": "ありがとう",
+     "reading": "ありがとう",
+     "en": "thank you",
+     "id": "terima kasih",
+     "romaji": "arigatou",
+     "start": 2.016,
+     "end": 4.08
+    },
+    {
+     "w": "すみません",
+     "reading": "すみません",
+     "en": "excuse me / sorry",
+     "id": "permisi / maaf",
+     "romaji": "sumimasen",
+     "start": 4.08,
+     "end": 6.12
+    },
+    {
+     "w": "お願いします",
+     "reading": "おねがいします",
+     "en": "please",
+     "id": "tolong",
+     "romaji": "onegaishimasu",
+     "start": 6.12,
+     "end": 8.376
+    },
+    {
+     "w": "おはよう",
+     "reading": "おはよう",
+     "en": "good morning",
+     "id": "selamat pagi",
+     "romaji": "ohayou",
+     "start": 8.376,
+     "end": 10.272
+    },
+    {
+     "w": "こんばんは",
+     "reading": "こんばんは",
+     "en": "good evening",
+     "id": "selamat malam",
+     "romaji": "konbanwa",
+     "start": 10.272,
+     "end": 12.312
+    },
+    {
+     "w": "さようなら",
+     "reading": "さようなら",
+     "en": "goodbye",
+     "id": "selamat tinggal",
+     "romaji": "sayounara",
+     "start": 12.312,
+     "end": 14.424
+    },
+    {
+     "w": "はい",
+     "reading": "はい",
+     "en": "yes",
+     "id": "ya",
+     "romaji": "hai",
+     "start": 14.424,
+     "end": 16.2
+    },
+    {
+     "w": "いいえ",
+     "reading": "いいえ",
+     "en": "no",
+     "id": "tidak",
+     "romaji": "iie",
+     "start": 16.2,
+     "end": 17.976
+    },
+    {
+     "w": "ごめんなさい",
+     "reading": "ごめんなさい",
+     "en": "I'm sorry",
+     "id": "maaf",
+     "romaji": "gomennasai",
+     "start": 17.976,
+     "end": 20.136
+    },
+    {
+     "w": "どういたしまして",
+     "reading": "どういたしまして",
+     "en": "you're welcome",
+     "id": "sama-sama",
+     "romaji": "douitashimashite",
+     "start": 20.136,
+     "end": 22.656
+    },
+    {
+     "w": "いただきます",
+     "reading": "いただきます",
+     "en": "let's eat (before a meal)",
+     "id": "selamat makan (sebelum makan)",
+     "romaji": "itadakimasu",
+     "start": 22.656,
+     "end": 24.864
+    }
+   ]
+  },
+  {
+   "name": "かず",
+   "nameEn": "Numbers",
+   "words": [
+    {
+     "w": "一",
+     "reading": "いち",
+     "en": "one",
+     "id": "satu",
+     "romaji": "ichi",
+     "start": 24.864,
+     "end": 26.64
+    },
+    {
+     "w": "二",
+     "reading": "に",
+     "en": "two",
+     "id": "dua",
+     "romaji": "ni",
+     "start": 26.64,
+     "end": 28.416
+    },
+    {
+     "w": "三",
+     "reading": "さん",
+     "en": "three",
+     "id": "tiga",
+     "romaji": "san",
+     "start": 28.416,
+     "end": 30.192
+    },
+    {
+     "w": "四",
+     "reading": "よん",
+     "en": "four",
+     "id": "empat",
+     "romaji": "yon",
+     "start": 30.192,
+     "end": 31.968
+    },
+    {
+     "w": "五",
+     "reading": "ご",
+     "en": "five",
+     "id": "lima",
+     "romaji": "go",
+     "start": 31.968,
+     "end": 33.744
+    },
+    {
+     "w": "十",
+     "reading": "じゅう",
+     "en": "ten",
+     "id": "sepuluh",
+     "romaji": "juu",
+     "start": 33.744,
+     "end": 35.52
+    },
+    {
+     "w": "百",
+     "reading": "ひゃく",
+     "en": "hundred",
+     "id": "seratus",
+     "romaji": "hyaku",
+     "start": 35.52,
+     "end": 37.296
+    },
+    {
+     "w": "千",
+     "reading": "せん",
+     "en": "thousand",
+     "id": "seribu",
+     "romaji": "sen",
+     "start": 37.296,
+     "end": 39.072
+    },
+    {
+     "w": "万",
+     "reading": "まん",
+     "en": "ten thousand",
+     "id": "sepuluh ribu",
+     "romaji": "man",
+     "start": 39.072,
+     "end": 40.848
+    },
+    {
+     "w": "一つ",
+     "reading": "ひとつ",
+     "en": "one (thing)",
+     "id": "satu (benda)",
+     "romaji": "hitotsu",
+     "start": 40.848,
+     "end": 42.768
+    },
+    {
+     "w": "二つ",
+     "reading": "ふたつ",
+     "en": "two (things)",
+     "id": "dua (benda)",
+     "romaji": "futatsu",
+     "start": 42.768,
+     "end": 44.664
+    },
+    {
+     "w": "三つ",
+     "reading": "みっつ",
+     "en": "three (things)",
+     "id": "tiga (benda)",
+     "romaji": "mittsu",
+     "start": 44.664,
+     "end": 46.488
+    }
+   ]
+  },
+  {
+   "name": "じかん",
+   "nameEn": "Time & days",
+   "words": [
+    {
+     "w": "今日",
+     "reading": "きょう",
+     "en": "today",
+     "id": "hari ini",
+     "romaji": "kyou",
+     "start": 46.488,
+     "end": 48.264
+    },
+    {
+     "w": "明日",
+     "reading": "あした",
+     "en": "tomorrow",
+     "id": "besok",
+     "romaji": "ashita",
+     "start": 48.264,
+     "end": 50.064
+    },
+    {
+     "w": "今",
+     "reading": "いま",
+     "en": "now",
+     "id": "sekarang",
+     "romaji": "ima",
+     "start": 50.064,
+     "end": 51.84
+    },
+    {
+     "w": "昨日",
+     "reading": "きのう",
+     "en": "yesterday",
+     "id": "kemarin",
+     "romaji": "kinou",
+     "start": 51.84,
+     "end": 53.64
+    },
+    {
+     "w": "朝",
+     "reading": "あさ",
+     "en": "morning",
+     "id": "pagi",
+     "romaji": "asa",
+     "start": 53.64,
+     "end": 55.416
+    },
+    {
+     "w": "夜",
+     "reading": "よる",
+     "en": "night",
+     "id": "malam",
+     "romaji": "yoru",
+     "start": 55.416,
+     "end": 57.192
+    },
+    {
+     "w": "月曜日",
+     "reading": "げつようび",
+     "en": "Monday",
+     "id": "hari Senin",
+     "romaji": "getsuyoubi",
+     "start": 57.192,
+     "end": 59.304
+    },
+    {
+     "w": "火曜日",
+     "reading": "かようび",
+     "en": "Tuesday",
+     "id": "hari Selasa",
+     "romaji": "kayoubi",
+     "start": 59.304,
+     "end": 61.248
+    },
+    {
+     "w": "水曜日",
+     "reading": "すいようび",
+     "en": "Wednesday",
+     "id": "hari Rabu",
+     "romaji": "suiyoubi",
+     "start": 61.248,
+     "end": 63.36
+    },
+    {
+     "w": "木曜日",
+     "reading": "もくようび",
+     "en": "Thursday",
+     "id": "hari Kamis",
+     "romaji": "mokuyoubi",
+     "start": 63.36,
+     "end": 65.448
+    },
+    {
+     "w": "金曜日",
+     "reading": "きんようび",
+     "en": "Friday",
+     "id": "hari Jumat",
+     "romaji": "kinyoubi",
+     "start": 65.448,
+     "end": 67.44
+    },
+    {
+     "w": "週末",
+     "reading": "しゅうまつ",
+     "en": "weekend",
+     "id": "akhir pekan",
+     "romaji": "shuumatsu",
+     "start": 67.44,
+     "end": 69.48
+    }
+   ]
+  },
+  {
+   "name": "かぞくとひと",
+   "nameEn": "Family & people",
+   "words": [
+    {
+     "w": "母",
+     "reading": "はは",
+     "en": "mother (own)",
+     "id": "ibu (sendiri)",
+     "romaji": "haha",
+     "start": 69.48,
+     "end": 71.256
+    },
+    {
+     "w": "父",
+     "reading": "ちち",
+     "en": "father (own)",
+     "id": "ayah (sendiri)",
+     "romaji": "chichi",
+     "start": 71.256,
+     "end": 73.032
+    },
+    {
+     "w": "友達",
+     "reading": "ともだち",
+     "en": "friend",
+     "id": "teman",
+     "romaji": "tomodachi",
+     "start": 73.032,
+     "end": 75.048
+    },
+    {
+     "w": "先生",
+     "reading": "せんせい",
+     "en": "teacher",
+     "id": "guru",
+     "romaji": "sensei",
+     "start": 75.048,
+     "end": 77.016
+    },
+    {
+     "w": "子供",
+     "reading": "こども",
+     "en": "child",
+     "id": "anak",
+     "romaji": "kodomo",
+     "start": 77.016,
+     "end": 78.792
+    },
+    {
+     "w": "お母さん",
+     "reading": "おかあさん",
+     "en": "mom (someone's)",
+     "id": "ibu (orang lain)",
+     "romaji": "okaasan",
+     "start": 78.792,
+     "end": 80.832
+    },
+    {
+     "w": "お父さん",
+     "reading": "おとうさん",
+     "en": "dad (someone's)",
+     "id": "ayah (orang lain)",
+     "romaji": "otousan",
+     "start": 80.832,
+     "end": 82.872
+    },
+    {
+     "w": "兄弟",
+     "reading": "きょうだい",
+     "en": "siblings",
+     "id": "saudara kandung",
+     "romaji": "kyoudai",
+     "start": 82.872,
+     "end": 84.72
+    },
+    {
+     "w": "家族",
+     "reading": "かぞく",
+     "en": "family",
+     "id": "keluarga",
+     "romaji": "kazoku",
+     "start": 84.72,
+     "end": 86.64
+    },
+    {
+     "w": "人",
+     "reading": "ひと",
+     "en": "person",
+     "id": "orang",
+     "romaji": "hito",
+     "start": 86.64,
+     "end": 88.416
+    },
+    {
+     "w": "男の子",
+     "reading": "おとこのこ",
+     "en": "boy",
+     "id": "anak laki-laki",
+     "romaji": "otokonoko",
+     "start": 88.416,
+     "end": 90.48
+    },
+    {
+     "w": "女の子",
+     "reading": "おんなのこ",
+     "en": "girl",
+     "id": "anak perempuan",
+     "romaji": "onnanoko",
+     "start": 90.48,
+     "end": 92.52
+    }
+   ]
+  },
+  {
+   "name": "たべものとのみもの",
+   "nameEn": "Food & drink",
+   "words": [
+    {
+     "w": "水",
+     "reading": "みず",
+     "en": "water",
+     "id": "air",
+     "romaji": "mizu",
+     "start": 92.52,
+     "end": 94.296
+    },
+    {
+     "w": "お茶",
+     "reading": "おちゃ",
+     "en": "tea",
+     "id": "teh",
+     "romaji": "ocha",
+     "start": 94.296,
+     "end": 96.072
+    },
+    {
+     "w": "ご飯",
+     "reading": "ごはん",
+     "en": "rice/meal",
+     "id": "nasi",
+     "romaji": "gohan",
+     "start": 96.072,
+     "end": 97.848
+    },
+    {
+     "w": "肉",
+     "reading": "にく",
+     "en": "meat",
+     "id": "daging",
+     "romaji": "niku",
+     "start": 97.848,
+     "end": 99.624
+    },
+    {
+     "w": "魚",
+     "reading": "さかな",
+     "en": "fish",
+     "id": "ikan",
+     "romaji": "sakana",
+     "start": 99.624,
+     "end": 101.4
+    },
+    {
+     "w": "パン",
+     "reading": "ぱん",
+     "en": "bread",
+     "id": "roti",
+     "romaji": "pan",
+     "start": 101.4,
+     "end": 103.176
+    },
+    {
+     "w": "卵",
+     "reading": "たまご",
+     "en": "egg",
+     "id": "telur",
+     "romaji": "tamago",
+     "start": 103.176,
+     "end": 104.952
+    },
+    {
+     "w": "果物",
+     "reading": "くだもの",
+     "en": "fruit",
+     "id": "buah",
+     "romaji": "kudamono",
+     "start": 104.952,
+     "end": 106.848
+    },
+    {
+     "w": "野菜",
+     "reading": "やさい",
+     "en": "vegetable",
+     "id": "sayur",
+     "romaji": "yasai",
+     "start": 106.848,
+     "end": 108.72
+    },
+    {
+     "w": "牛乳",
+     "reading": "ぎゅうにゅう",
+     "en": "milk",
+     "id": "susu",
+     "romaji": "gyuunyuu",
+     "start": 108.72,
+     "end": 110.688
+    },
+    {
+     "w": "コーヒー",
+     "reading": "こーひー",
+     "en": "coffee",
+     "id": "kopi",
+     "romaji": "koohii",
+     "start": 110.688,
+     "end": 112.608
+    },
+    {
+     "w": "塩",
+     "reading": "しお",
+     "en": "salt",
+     "id": "garam",
+     "romaji": "shio",
+     "start": 112.608,
+     "end": 114.384
+    }
+   ]
+  },
+  {
+   "name": "ばしょ",
+   "nameEn": "Places",
+   "words": [
+    {
+     "w": "家",
+     "reading": "いえ",
+     "en": "house",
+     "id": "rumah",
+     "romaji": "ie",
+     "start": 114.384,
+     "end": 116.16
+    },
+    {
+     "w": "学校",
+     "reading": "がっこう",
+     "en": "school",
+     "id": "sekolah",
+     "romaji": "gakkou",
+     "start": 116.16,
+     "end": 118.152
+    },
+    {
+     "w": "駅",
+     "reading": "えき",
+     "en": "station",
+     "id": "stasiun",
+     "romaji": "eki",
+     "start": 118.152,
+     "end": 119.928
+    },
+    {
+     "w": "店",
+     "reading": "みせ",
+     "en": "shop",
+     "id": "toko",
+     "romaji": "mise",
+     "start": 119.928,
+     "end": 121.704
+    },
+    {
+     "w": "病院",
+     "reading": "びょういん",
+     "en": "hospital",
+     "id": "rumah sakit",
+     "romaji": "byouin",
+     "start": 121.704,
+     "end": 123.6
+    },
+    {
+     "w": "公園",
+     "reading": "こうえん",
+     "en": "park",
+     "id": "taman",
+     "romaji": "kouen",
+     "start": 123.6,
+     "end": 125.472
+    },
+    {
+     "w": "トイレ",
+     "reading": "といれ",
+     "en": "toilet",
+     "id": "toilet",
+     "romaji": "toire",
+     "start": 125.472,
+     "end": 127.248
+    },
+    {
+     "w": "国",
+     "reading": "くに",
+     "en": "country",
+     "id": "negara",
+     "romaji": "kuni",
+     "start": 127.248,
+     "end": 129.024
+    },
+    {
+     "w": "町",
+     "reading": "まち",
+     "en": "town",
+     "id": "kota kecil",
+     "romaji": "machi",
+     "start": 129.024,
+     "end": 130.8
+    },
+    {
+     "w": "部屋",
+     "reading": "へや",
+     "en": "room",
+     "id": "kamar",
+     "romaji": "heya",
+     "start": 130.8,
+     "end": 132.576
+    },
+    {
+     "w": "銀行",
+     "reading": "ぎんこう",
+     "en": "bank",
+     "id": "bank",
+     "romaji": "ginkou",
+     "start": 132.576,
+     "end": 134.544
+    },
+    {
+     "w": "図書館",
+     "reading": "としょかん",
+     "en": "library",
+     "id": "perpustakaan",
+     "romaji": "toshokan",
+     "start": 134.544,
+     "end": 136.512
+    }
+   ]
+  },
+  {
+   "name": "どうし",
+   "nameEn": "Verbs",
+   "words": [
+    {
+     "w": "食べます",
+     "reading": "たべます",
+     "en": "to eat",
+     "id": "makan",
+     "romaji": "tabemasu",
+     "start": 136.512,
+     "end": 138.456
+    },
+    {
+     "w": "飲みます",
+     "reading": "のみます",
+     "en": "to drink",
+     "id": "minum",
+     "romaji": "nomimasu",
+     "start": 138.456,
+     "end": 140.448
+    },
+    {
+     "w": "行きます",
+     "reading": "いきます",
+     "en": "to go",
+     "id": "pergi",
+     "romaji": "ikimasu",
+     "start": 140.448,
+     "end": 142.368
+    },
+    {
+     "w": "来ます",
+     "reading": "きます",
+     "en": "to come",
+     "id": "datang",
+     "romaji": "kimasu",
+     "start": 142.368,
+     "end": 144.144
+    },
+    {
+     "w": "見ます",
+     "reading": "みます",
+     "en": "to see/watch",
+     "id": "melihat",
+     "romaji": "mimasu",
+     "start": 144.144,
+     "end": 145.944
+    },
+    {
+     "w": "します",
+     "reading": "します",
+     "en": "to do",
+     "id": "melakukan",
+     "romaji": "shimasu",
+     "start": 145.944,
+     "end": 147.792
+    },
+    {
+     "w": "買います",
+     "reading": "かいます",
+     "en": "to buy",
+     "id": "membeli",
+     "romaji": "kaimasu",
+     "start": 147.792,
+     "end": 149.712
+    },
+    {
+     "w": "寝ます",
+     "reading": "ねます",
+     "en": "to sleep",
+     "id": "tidur",
+     "romaji": "nemasu",
+     "start": 149.712,
+     "end": 151.512
+    },
+    {
+     "w": "読みます",
+     "reading": "よみます",
+     "en": "to read",
+     "id": "membaca",
+     "romaji": "yomimasu",
+     "start": 151.512,
+     "end": 153.504
+    },
+    {
+     "w": "話します",
+     "reading": "はなします",
+     "en": "to speak",
+     "id": "berbicara",
+     "romaji": "hanashimasu",
+     "start": 153.504,
+     "end": 155.544
+    },
+    {
+     "w": "聞きます",
+     "reading": "ききます",
+     "en": "to listen/ask",
+     "id": "mendengar",
+     "romaji": "kikimasu",
+     "start": 155.544,
+     "end": 157.488
+    },
+    {
+     "w": "書きます",
+     "reading": "かきます",
+     "en": "to write",
+     "id": "menulis",
+     "romaji": "kakimasu",
+     "start": 157.488,
+     "end": 159.408
+    }
+   ]
+  },
+  {
+   "name": "けいようし",
+   "nameEn": "Adjectives",
+   "words": [
+    {
+     "w": "大きい",
+     "reading": "おおきい",
+     "en": "big",
+     "id": "besar",
+     "romaji": "ookii",
+     "start": 159.408,
+     "end": 161.4
+    },
+    {
+     "w": "小さい",
+     "reading": "ちいさい",
+     "en": "small",
+     "id": "kecil",
+     "romaji": "chiisai",
+     "start": 161.4,
+     "end": 163.368
+    },
+    {
+     "w": "いい",
+     "reading": "いい",
+     "en": "good",
+     "id": "bagus",
+     "romaji": "ii",
+     "start": 163.368,
+     "end": 165.144
+    },
+    {
+     "w": "美味しい",
+     "reading": "おいしい",
+     "en": "delicious",
+     "id": "enak",
+     "romaji": "oishii",
+     "start": 165.144,
+     "end": 167.064
+    },
+    {
+     "w": "暑い",
+     "reading": "あつい",
+     "en": "hot (weather)",
+     "id": "panas",
+     "romaji": "atsui",
+     "start": 167.064,
+     "end": 168.888
+    },
+    {
+     "w": "寒い",
+     "reading": "さむい",
+     "en": "cold (weather)",
+     "id": "dingin",
+     "romaji": "samui",
+     "start": 168.888,
+     "end": 170.688
+    },
+    {
+     "w": "高い",
+     "reading": "たかい",
+     "en": "expensive",
+     "id": "mahal",
+     "romaji": "takai",
+     "start": 170.688,
+     "end": 172.464
+    },
+    {
+     "w": "安い",
+     "reading": "やすい",
+     "en": "cheap",
+     "id": "murah",
+     "romaji": "yasui",
+     "start": 172.464,
+     "end": 174.336
+    },
+    {
+     "w": "楽しい",
+     "reading": "たのしい",
+     "en": "fun",
+     "id": "menyenangkan",
+     "romaji": "tanoshii",
+     "start": 174.336,
+     "end": 176.328
+    },
+    {
+     "w": "熱い",
+     "reading": "あつい",
+     "en": "hot (to touch)",
+     "id": "panas (benda)",
+     "romaji": "atsui",
+     "start": 176.328,
+     "end": 178.152
+    },
+    {
+     "w": "冷たい",
+     "reading": "つめたい",
+     "en": "cold (to touch)",
+     "id": "dingin (benda)",
+     "romaji": "tsumetai",
+     "start": 178.152,
+     "end": 180.12
+    },
+    {
+     "w": "面白い",
+     "reading": "おもしろい",
+     "en": "interesting",
+     "id": "menarik",
+     "romaji": "omoshiroi",
+     "start": 180.12,
+     "end": 182.16
+    }
+   ]
+  },
+  {
+   "name": "ぎもんし",
+   "nameEn": "Question words & pronouns",
+   "words": [
+    {
+     "w": "何",
+     "reading": "なに",
+     "en": "what",
+     "id": "apa",
+     "romaji": "nani",
+     "start": 182.16,
+     "end": 183.936
+    },
+    {
+     "w": "誰",
+     "reading": "だれ",
+     "en": "who",
+     "id": "siapa",
+     "romaji": "dare",
+     "start": 183.936,
+     "end": 185.712
+    },
+    {
+     "w": "私",
+     "reading": "わたし",
+     "en": "I",
+     "id": "saya",
+     "romaji": "watashi",
+     "start": 185.712,
+     "end": 187.656
+    },
+    {
+     "w": "あなた",
+     "reading": "あなた",
+     "en": "you",
+     "id": "kamu",
+     "romaji": "anata",
+     "start": 187.656,
+     "end": 189.432
+    },
+    {
+     "w": "どこ",
+     "reading": "どこ",
+     "en": "where",
+     "id": "di mana",
+     "romaji": "doko",
+     "start": 189.432,
+     "end": 191.208
+    },
+    {
+     "w": "いつ",
+     "reading": "いつ",
+     "en": "when",
+     "id": "kapan",
+     "romaji": "itsu",
+     "start": 191.208,
+     "end": 192.984
+    },
+    {
+     "w": "これ",
+     "reading": "これ",
+     "en": "this",
+     "id": "ini",
+     "romaji": "kore",
+     "start": 192.984,
+     "end": 194.76
+    },
+    {
+     "w": "それ",
+     "reading": "それ",
+     "en": "that",
+     "id": "itu",
+     "romaji": "sore",
+     "start": 194.76,
+     "end": 196.536
+    },
+    {
+     "w": "どう",
+     "reading": "どう",
+     "en": "how",
+     "id": "bagaimana",
+     "romaji": "dou",
+     "start": 196.536,
+     "end": 198.312
+    },
+    {
+     "w": "なぜ",
+     "reading": "なぜ",
+     "en": "why",
+     "id": "mengapa",
+     "romaji": "naze",
+     "start": 198.312,
+     "end": 200.088
+    },
+    {
+     "w": "いくら",
+     "reading": "いくら",
+     "en": "how much",
+     "id": "berapa harga",
+     "romaji": "ikura",
+     "start": 200.088,
+     "end": 201.864
+    },
+    {
+     "w": "どれ",
+     "reading": "どれ",
+     "en": "which one",
+     "id": "yang mana",
+     "romaji": "dore",
+     "start": 201.864,
+     "end": 203.64
+    }
+   ]
+  },
+  {
+   "name": "いろとしぜん",
+   "nameEn": "Colors & nature",
+   "words": [
+    {
+     "w": "赤",
+     "reading": "あか",
+     "en": "red",
+     "id": "merah",
+     "romaji": "aka",
+     "start": 203.64,
+     "end": 205.416
+    },
+    {
+     "w": "青",
+     "reading": "あお",
+     "en": "blue",
+     "id": "biru",
+     "romaji": "ao",
+     "start": 205.416,
+     "end": 207.192
+    },
+    {
+     "w": "白",
+     "reading": "しろ",
+     "en": "white",
+     "id": "putih",
+     "romaji": "shiro",
+     "start": 207.192,
+     "end": 208.968
+    },
+    {
+     "w": "黒",
+     "reading": "くろ",
+     "en": "black",
+     "id": "hitam",
+     "romaji": "kuro",
+     "start": 208.968,
+     "end": 210.744
+    },
+    {
+     "w": "空",
+     "reading": "そら",
+     "en": "sky",
+     "id": "langit",
+     "romaji": "sora",
+     "start": 210.744,
+     "end": 212.52
+    },
+    {
+     "w": "海",
+     "reading": "うみ",
+     "en": "sea",
+     "id": "laut",
+     "romaji": "umi",
+     "start": 212.52,
+     "end": 214.296
+    },
+    {
+     "w": "山",
+     "reading": "やま",
+     "en": "mountain",
+     "id": "gunung",
+     "romaji": "yama",
+     "start": 214.296,
+     "end": 216.072
+    },
+    {
+     "w": "雨",
+     "reading": "あめ",
+     "en": "rain",
+     "id": "hujan",
+     "romaji": "ame",
+     "start": 216.072,
+     "end": 217.848
+    },
+    {
+     "w": "花",
+     "reading": "はな",
+     "en": "flower",
+     "id": "bunga",
+     "romaji": "hana",
+     "start": 217.848,
+     "end": 219.624
+    },
+    {
+     "w": "木",
+     "reading": "き",
+     "en": "tree",
+     "id": "pohon",
+     "romaji": "ki",
+     "start": 219.624,
+     "end": 221.4
+    },
+    {
+     "w": "色",
+     "reading": "いろ",
+     "en": "color",
+     "id": "warna",
+     "romaji": "iro",
+     "start": 221.4,
+     "end": 223.176
+    },
+    {
+     "w": "緑",
+     "reading": "みどり",
+     "en": "green",
+     "id": "hijau",
+     "romaji": "midori",
+     "start": 223.176,
+     "end": 224.952
+    }
+   ]
+  }
+ ]
+}

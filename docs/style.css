@@ -217,6 +217,17 @@ body {
 .gloss .rom { color: var(--muted); margin-left: 6px; font-size: 14px; }
 .gloss .g { margin-top: 4px; font-size: 15px; }
 .gloss .gid { font-style: italic; opacity: 0.85; }
+
+/* Vocabulary page */
+.vcat { font-size: 16px; margin: 24px 0 4px; color: var(--accent); }
+.vrow {
+  display: flex; justify-content: space-between; align-items: center; gap: 12px;
+  padding: 8px 6px; border-bottom: 1px solid var(--border); cursor: pointer;
+  border-radius: 8px;
+}
+.vrow.current { background: var(--highlight); }
+.vgloss { text-align: right; font-size: 14px; color: var(--muted); flex-shrink: 1; }
+.vgloss .idn { font-style: italic; opacity: 0.85; }
 .gloss .pos { color: var(--muted); font-size: 12px; margin-top: 2px; }
 .gloss .close {
   position: absolute; top: 8px; right: 10px;

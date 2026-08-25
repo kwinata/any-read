@@ -109,6 +109,18 @@ async function renderLibrary() {
     listHost.innerHTML = '';
     const lang = settings.filterLang || 'all';
     const lvl = settings.filterLevel || 'all';
+    if (lang !== 'de' && (lvl === 'all' || lvl === 'Beginner')) {
+      const card = el('div', 'card');
+      card.append(el('h2', null, 'たんごちょう'));
+      card.append(el('p', 'sub', 'Useful beginner vocabulary'));
+      const meta = el('div', 'meta');
+      meta.append(el('span', 'badge', '日本語'));
+      meta.append(el('span', null, 'Beginner'));
+      meta.append(el('span', null, '🔊 tap a word to hear it'));
+      card.append(meta);
+      card.addEventListener('click', () => { location.hash = '#/vocab'; });
+      listHost.append(card);
+    }
     const shown = index.filter((a) =>
       (lang === 'all' || a.language === lang) && (lvl === 'all' || a.level === lvl));
     buildList(shown);
@@ -440,6 +452,94 @@ async function renderReader(id) {
   }
 }
 
+/* ---------------- Vocabulary ---------------- */
+
+async function renderVocab() {
+  $app.innerHTML = '';
+  const bar = el('div', 'topbar');
+  const back = el('button', 'back', '‹');
+  back.addEventListener('click', () => { location.hash = ''; });
+  bar.append(back, el('div', 'spacer'));
+  const host = el('div', 'reader');
+
+  function mkToggle(label, key, apply) {
+    const b = el('button', 'toggle' + (settings[key] ? ' on' : ''), label);
+    b.addEventListener('click', () => {
+      settings[key] = !settings[key];
+      saveSettings();
+      b.classList.toggle('on', settings[key]);
+      apply();
+    });
+    return b;
+  }
+  bar.append(
+    mkToggle('ふ', 'furigana', () => host.classList.toggle('no-furigana', !settings.furigana)),
+    mkToggle('rо̄', 'romaji', () => host.classList.toggle('no-romaji', !settings.romaji))
+  );
+  $app.append(bar);
+  if (!settings.furigana) host.classList.add('no-furigana');
+  if (!settings.romaji) host.classList.add('no-romaji');
+
+  let data;
+  try {
+    data = await (await fetch('vocab/ja-beginner.json')).json();
+  } catch (e) {
+    $app.append(el('div', 'empty', 'Could not load the vocabulary list.'));
+    return;
+  }
+
+  const header = el('header');
+  header.append(el('h1', null, 'たんごちょう'));
+  header.append(el('p', 'sub', 'Useful beginner vocabulary — tap a word to hear it'));
+  host.append(header);
+
+  const audio = data.audioFile ? new Audio('vocab/' + data.audioFile) : null;
+  let stopAt = null;
+  let currentRow = null;
+  if (audio) {
+    audio.preload = 'auto';
+    audio.addEventListener('timeupdate', () => {
+      if (stopAt != null && audio.currentTime >= stopAt) {
+        audio.pause();
+        stopAt = null;
+        if (currentRow) currentRow.classList.remove('current');
+      }
+    });
+  }
+  function playWord(w, row) {
+    if (!audio || w.start == null) return;
+    if (currentRow) currentRow.classList.remove('current');
+    currentRow = row;
+    row.classList.add('current');
+    audio.currentTime = w.start;
+    stopAt = w.end - 0.05;
+    audio.play();
+  }
+
+  for (const c of data.categories) {
+    host.append(el('h2', 'vcat', c.name + '・' + c.nameEn));
+    for (const w of c.words) {
+      const row = el('div', 'vrow');
+      const jt = el('span', 'jtext');
+      const stk = el('span', 'stk');
+      stk.append(
+        el('span', 'fg', w.reading || ''),
+        el('span', 'base', w.w),
+        el('span', 'rom', w.romaji || '')
+      );
+      jt.append(stk);
+      row.append(jt);
+      const gl = el('div', 'vgloss');
+      gl.append(el('div', null, w.en));
+      if (w.id) gl.append(el('div', 'idn', w.id));
+      row.append(gl);
+      row.addEventListener('click', () => playWord(w, row));
+      host.append(row);
+    }
+  }
+  $app.append(host);
+}
+
 /* ---------------- Password gate ---------------- */
 
 // To change the password: printf 'newpass' | shasum -a 256  → paste the hex here.
@@ -485,6 +585,7 @@ function renderLock() {
 
 function route() {
   if (!isAuthed()) { renderLock(); return; }
+  if (location.hash === '#/vocab') { renderVocab(); return; }
   const m = location.hash.match(/^#\/a\/(.+)$/);
   if (m) renderReader(decodeURIComponent(m[1]));
   else renderLibrary();
