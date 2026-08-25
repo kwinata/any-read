@@ -406,7 +406,9 @@
       {
        "surface": "45",
        "pos": "noun",
-       "gloss": "forty-five"
+       "gloss": "forty-five",
+       "reading": "よんじゅうご",
+       "romaji": "yonjuugo"
       },
       {
        "surface": "削減",
@@ -653,13 +655,15 @@
       {
        "surface": "10",
        "pos": "noun",
-       "gloss": "ten"
+       "gloss": "ten",
+       "reading": "とお",
+       "romaji": "tooka"
       },
       {
        "surface": "日",
        "pos": "noun",
-       "reading": "にち",
-       "romaji": "nichi",
+       "reading": "か",
+       "romaji": "",
        "gloss": "day (counter)"
       },
       {
@@ -1068,7 +1072,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": "、",
@@ -1077,7 +1083,9 @@
       {
        "surface": "2",
        "pos": "noun",
-       "gloss": "two"
+       "gloss": "two",
+       "reading": "に",
+       "romaji": "ni"
       },
       {
        "surface": "、",
@@ -1086,7 +1094,9 @@
       {
        "surface": "3",
        "pos": "noun",
-       "gloss": "three"
+       "gloss": "three",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": "…",
@@ -1456,7 +1466,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": "、",
@@ -1465,7 +1477,9 @@
       {
        "surface": "3",
        "pos": "noun",
-       "gloss": "three"
+       "gloss": "three",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": "、",
@@ -1474,7 +1488,9 @@
       {
        "surface": "5",
        "pos": "noun",
-       "gloss": "five"
+       "gloss": "five",
+       "reading": "ご",
+       "romaji": "go"
       },
       {
        "surface": "…",
@@ -1529,7 +1545,9 @@
       {
        "surface": "2",
        "pos": "noun",
-       "gloss": "two"
+       "gloss": "two",
+       "reading": "に",
+       "romaji": "ni"
       },
       {
        "surface": "番目",
@@ -1624,7 +1642,9 @@
       {
        "surface": "2",
        "pos": "noun",
-       "gloss": "two"
+       "gloss": "two",
+       "reading": "に",
+       "romaji": "ni"
       },
       {
        "surface": "、",
@@ -1633,7 +1653,9 @@
       {
        "surface": "3",
        "pos": "noun",
-       "gloss": "three"
+       "gloss": "three",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": "議席",
@@ -1711,7 +1733,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": "、",
@@ -1720,7 +1744,9 @@
       {
        "surface": "2",
        "pos": "noun",
-       "gloss": "two"
+       "gloss": "two",
+       "reading": "に",
+       "romaji": "ni"
       },
       {
        "surface": "議席",
@@ -2134,7 +2160,9 @@
       {
        "surface": "2",
        "pos": "noun",
-       "gloss": "two"
+       "gloss": "two",
+       "reading": "に",
+       "romaji": "ni"
       },
       {
        "surface": "月",
@@ -2391,7 +2419,9 @@
       {
        "surface": "4",
        "pos": "noun",
-       "gloss": "four"
+       "gloss": "four",
+       "reading": "よん",
+       "romaji": "yon"
       },
       {
        "surface": "ブロック",
@@ -2415,7 +2445,9 @@
       {
        "surface": "14",
        "pos": "noun",
-       "gloss": "fourteen"
+       "gloss": "fourteen",
+       "reading": "じゅうよん",
+       "romaji": "juuyon"
       },
       {
        "surface": "議席",
@@ -2593,7 +2625,9 @@
       {
        "surface": "9",
        "pos": "noun",
-       "gloss": "nine"
+       "gloss": "nine",
+       "reading": "きゅう",
+       "romaji": "kyuu"
       },
       {
        "surface": "減",
@@ -2611,7 +2645,9 @@
       {
        "surface": "58",
        "pos": "noun",
-       "gloss": "fifty-eight"
+       "gloss": "fifty-eight",
+       "reading": "ごじゅうはち",
+       "romaji": "gojuuhachi"
       },
       {
        "surface": "議席",
@@ -2724,7 +2760,9 @@
       {
        "surface": "6",
        "pos": "noun",
-       "gloss": "six"
+       "gloss": "six",
+       "reading": "ろく",
+       "romaji": "roku"
       },
       {
        "surface": "、",
@@ -2746,7 +2784,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": "それぞれ",
@@ -2852,7 +2892,9 @@
       {
        "surface": "5",
        "pos": "noun",
-       "gloss": "five"
+       "gloss": "five",
+       "reading": "ご",
+       "romaji": "go"
       },
       {
        "surface": "党",
@@ -2965,7 +3007,9 @@
       {
        "surface": "5",
        "pos": "noun",
-       "gloss": "five"
+       "gloss": "five",
+       "reading": "ご",
+       "romaji": "go"
       },
       {
        "surface": "増",

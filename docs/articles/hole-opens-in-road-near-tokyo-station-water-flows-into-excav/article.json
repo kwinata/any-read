@@ -155,7 +155,9 @@
       {
        "surface": "22",
        "pos": "noun",
-       "gloss": "22 (day of month)"
+       "gloss": "22 (day of month)",
+       "reading": "にじゅうに",
+       "romaji": "nijuuni"
       },
       {
        "surface": "日",
@@ -382,7 +384,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": "時間",
@@ -407,7 +411,9 @@
       {
        "surface": "100",
        "pos": "noun",
-       "gloss": "one hundred"
+       "gloss": "one hundred",
+       "reading": "ひゃく",
+       "romaji": "hyaku"
       },
       {
        "surface": "～",
@@ -416,7 +422,9 @@
       {
        "surface": "120",
        "pos": "noun",
-       "gloss": "one hundred twenty"
+       "gloss": "one hundred twenty",
+       "reading": "ひゃくにじゅう",
+       "romaji": "hyakunijuu"
       },
       {
        "surface": "ミリ",
@@ -603,7 +611,9 @@
       {
        "surface": "4",
        "pos": "noun",
-       "gloss": "four"
+       "gloss": "four",
+       "reading": "よん",
+       "romaji": "yon"
       },
       {
        "surface": "大雨危険警報",
@@ -754,7 +764,9 @@
       {
        "surface": "4",
        "pos": "noun",
-       "gloss": "four"
+       "gloss": "four",
+       "reading": "よん",
+       "romaji": "yon"
       },
       {
        "surface": "氾濫危険警報",
@@ -849,7 +861,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": "の",
@@ -886,7 +900,9 @@
       {
        "surface": "4",
        "pos": "noun",
-       "gloss": "four"
+       "gloss": "four",
+       "reading": "よ",
+       "romaji": "yo"
       },
       {
        "surface": "時",
@@ -898,13 +914,15 @@
       {
        "surface": "50",
        "pos": "noun",
-       "gloss": "fifty"
+       "gloss": "fifty",
+       "reading": "ごじゅっ",
+       "romaji": "gojup"
       },
       {
        "surface": "分",
        "pos": "noun",
-       "reading": "ふん",
-       "romaji": "fun",
+       "reading": "ぷん",
+       "romaji": "pun",
        "gloss": "minute"
       },
       {
@@ -1048,7 +1066,9 @@
       {
        "surface": "110",
        "pos": "noun",
-       "gloss": "110 (Japan's emergency police number)"
+       "gloss": "110 (Japan's emergency police number)",
+       "reading": "ひゃくじゅう",
+       "romaji": "hyakujuu"
       },
       {
        "surface": "番",
@@ -1274,7 +1294,9 @@
       {
        "surface": "6",
        "pos": "noun",
-       "gloss": "six"
+       "gloss": "six",
+       "reading": "ろく",
+       "romaji": "roku"
       },
       {
        "surface": "時",
@@ -1286,13 +1308,15 @@
       {
        "surface": "10",
        "pos": "noun",
-       "gloss": "ten"
+       "gloss": "ten",
+       "reading": "じゅっ",
+       "romaji": "jup"
       },
       {
        "surface": "分",
        "pos": "noun",
-       "reading": "ふん",
-       "romaji": "fun",
+       "reading": "ぷん",
+       "romaji": "pun",
        "gloss": "minute"
       },
       {
@@ -1441,7 +1465,9 @@
       {
        "surface": "110",
        "pos": "noun",
-       "gloss": "110 (Japan's emergency police number)"
+       "gloss": "110 (Japan's emergency police number)",
+       "reading": "ひゃくじゅう",
+       "romaji": "hyakujuu"
       },
       {
        "surface": "番",

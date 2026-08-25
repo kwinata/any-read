@@ -1216,7 +1216,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "numeral used as list-item marker"
+       "gloss": "numeral used as list-item marker",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": ".",
@@ -1825,7 +1827,9 @@
       {
        "surface": "2",
        "pos": "noun",
-       "gloss": "numeral used as list-item marker"
+       "gloss": "numeral used as list-item marker",
+       "reading": "に",
+       "romaji": "ni"
       },
       {
        "surface": ".",
@@ -2219,7 +2223,9 @@
       {
        "surface": "2",
        "pos": "noun",
-       "gloss": "numeral used as list-item marker"
+       "gloss": "numeral used as list-item marker",
+       "reading": "ふた",
+       "romaji": "futa"
       },
       {
        "surface": "つ",
@@ -2305,7 +2311,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "numeral used as list-item marker"
+       "gloss": "numeral used as list-item marker",
+       "reading": "ひと",
+       "romaji": "hito"
       },
       {
        "surface": "つ",
@@ -2671,7 +2679,9 @@
       {
        "surface": "2",
        "pos": "noun",
-       "gloss": "numeral used as list-item marker"
+       "gloss": "numeral used as list-item marker",
+       "reading": "ふた",
+       "romaji": "futa"
       },
       {
        "surface": "つ",
@@ -3103,7 +3113,9 @@
       {
        "surface": "3",
        "pos": "noun",
-       "gloss": "numeral used as list-item marker"
+       "gloss": "numeral used as list-item marker",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": ".",
@@ -3586,7 +3598,9 @@
       {
        "surface": "5",
        "pos": "noun",
-       "gloss": "numeral used as list-item marker"
+       "gloss": "numeral used as list-item marker",
+       "reading": "いつ",
+       "romaji": "itsu"
       },
       {
        "surface": "つ",
@@ -4054,7 +4068,9 @@
       {
        "surface": "4",
        "pos": "noun",
-       "gloss": "numeral used as list-item marker"
+       "gloss": "numeral used as list-item marker",
+       "reading": "よん",
+       "romaji": "yon"
       },
       {
        "surface": ".",
@@ -4898,7 +4914,9 @@
       {
        "surface": "5",
        "pos": "noun",
-       "gloss": "numeral used as list-item marker"
+       "gloss": "numeral used as list-item marker",
+       "reading": "ご",
+       "romaji": "go"
       },
       {
        "surface": ".",
@@ -5434,7 +5452,9 @@
       {
        "surface": "6",
        "pos": "noun",
-       "gloss": "numeral used as list-item marker"
+       "gloss": "numeral used as list-item marker",
+       "reading": "ろく",
+       "romaji": "roku"
       },
       {
        "surface": ".",
@@ -6480,7 +6500,9 @@
       {
        "surface": "7",
        "pos": "noun",
-       "gloss": "numeral used as list-item marker"
+       "gloss": "numeral used as list-item marker",
+       "reading": "なな",
+       "romaji": "nana"
       },
       {
        "surface": "．",

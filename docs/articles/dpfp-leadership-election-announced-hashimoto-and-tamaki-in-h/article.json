@@ -44,7 +44,9 @@
       {
        "surface": "22",
        "pos": "noun",
-       "gloss": "22 (day)"
+       "gloss": "22 (day)",
+       "reading": "にじゅうに",
+       "romaji": "nijuuni"
       },
       {
        "surface": "日",
@@ -133,7 +135,9 @@
       {
        "surface": "30",
        "pos": "noun",
-       "gloss": "30 (age)"
+       "gloss": "30 (age)",
+       "reading": "さんじゅう",
+       "romaji": "sanjuu"
       },
       {
        "surface": "）",
@@ -173,7 +177,9 @@
       {
        "surface": "57",
        "pos": "noun",
-       "gloss": "57 (age)"
+       "gloss": "57 (age)",
+       "reading": "ごじゅうなな",
+       "romaji": "gojuunana"
       },
       {
        "surface": "）",
@@ -527,7 +533,9 @@
       {
        "surface": "9",
        "pos": "noun",
-       "gloss": "9 (month)"
+       "gloss": "9 (month)",
+       "reading": "く",
+       "romaji": "ku"
       },
       {
        "surface": "月",
@@ -539,13 +547,15 @@
       {
        "surface": "6",
        "pos": "noun",
-       "gloss": "6 (day)"
+       "gloss": "6 (day)",
+       "reading": "むい",
+       "romaji": "muika"
       },
       {
        "surface": "日",
        "pos": "suffix",
        "reading": "か",
-       "romaji": "ka",
+       "romaji": "",
        "gloss": "day"
       },
       {
@@ -741,7 +751,9 @@
       {
        "surface": "53",
        "pos": "noun",
-       "gloss": "53 (people)"
+       "gloss": "53 (people)",
+       "reading": "ごじゅうさん",
+       "romaji": "gojuusan"
       },
       {
        "surface": "人",
@@ -828,7 +840,9 @@
       {
        "surface": "159",
        "pos": "noun",
-       "gloss": "159 (points)"
+       "gloss": "159 (points)",
+       "reading": "ひゃくごじゅうきゅう",
+       "romaji": "hyakugojuukyuu"
       },
       {
        "surface": "ポイント",

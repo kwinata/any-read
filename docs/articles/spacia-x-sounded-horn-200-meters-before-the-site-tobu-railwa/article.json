@@ -71,7 +71,9 @@
       {
        "surface": "4",
        "pos": "noun",
-       "gloss": "four"
+       "gloss": "four",
+       "reading": "よ",
+       "romaji": "yo"
       },
       {
        "surface": "人",
@@ -199,7 +201,9 @@
       {
        "surface": "200",
        "pos": "noun",
-       "gloss": "two hundred"
+       "gloss": "two hundred",
+       "reading": "にひゃく",
+       "romaji": "nihyaku"
       },
       {
        "surface": "メートル",
@@ -314,13 +318,15 @@
       {
        "surface": "20",
        "pos": "noun",
-       "gloss": "twenty"
+       "gloss": "twenty",
+       "reading": "はつ",
+       "romaji": "hatsuka"
       },
       {
        "surface": "日",
        "pos": "noun",
-       "reading": "にち",
-       "romaji": "nichi",
+       "reading": "か",
+       "romaji": "",
        "gloss": "day (of month)"
       },
       {
@@ -414,7 +420,9 @@
       {
        "surface": "4",
        "pos": "noun",
-       "gloss": "four"
+       "gloss": "four",
+       "reading": "よ",
+       "romaji": "yo"
       },
       {
        "surface": "人",
@@ -737,7 +745,9 @@
       {
        "surface": "200",
        "pos": "noun",
-       "gloss": "two hundred"
+       "gloss": "two hundred",
+       "reading": "にひゃく",
+       "romaji": "nihyaku"
       },
       {
        "surface": "メートル",
@@ -1058,7 +1068,9 @@
       {
        "surface": "5",
        "pos": "noun",
-       "gloss": "five"
+       "gloss": "five",
+       "reading": "ご",
+       "romaji": "go"
       },
       {
        "surface": "年",

@@ -59,7 +59,9 @@
       {
        "surface": "8",
        "pos": "noun",
-       "gloss": "eight"
+       "gloss": "eight",
+       "reading": "はち",
+       "romaji": "hachi"
       },
       {
        "surface": "月",
@@ -71,13 +73,15 @@
       {
        "surface": "27",
        "pos": "noun",
-       "gloss": "twenty-seven"
+       "gloss": "twenty-seven",
+       "reading": "にじゅうなな",
+       "romaji": "nijuunana"
       },
       {
        "surface": "日",
        "pos": "suffix",
-       "reading": "か",
-       "romaji": "ka",
+       "reading": "にち",
+       "romaji": "nichi",
        "gloss": "day"
       },
       {
@@ -128,7 +132,9 @@
       {
        "surface": "9",
        "pos": "noun",
-       "gloss": "nine"
+       "gloss": "nine",
+       "reading": "く",
+       "romaji": "ku"
       },
       {
        "surface": "月",
@@ -140,13 +146,15 @@
       {
        "surface": "13",
        "pos": "noun",
-       "gloss": "thirteen"
+       "gloss": "thirteen",
+       "reading": "じゅうさん",
+       "romaji": "juusan"
       },
       {
        "surface": "日",
        "pos": "suffix",
-       "reading": "か",
-       "romaji": "ka",
+       "reading": "にち",
+       "romaji": "nichi",
        "gloss": "day"
       },
       {
@@ -187,7 +195,9 @@
       {
        "surface": "12",
        "pos": "noun",
-       "gloss": "twelve"
+       "gloss": "twelve",
+       "reading": "じゅうに",
+       "romaji": "juuni"
       },
       {
        "surface": "年",
@@ -415,7 +425,9 @@
       {
        "surface": "42",
        "pos": "noun",
-       "gloss": "forty-two"
+       "gloss": "forty-two",
+       "reading": "よんじゅうに",
+       "romaji": "yonjuuni"
       },
       {
        "surface": "歳",
@@ -828,7 +840,9 @@
       {
        "surface": "8",
        "pos": "noun",
-       "gloss": "eight"
+       "gloss": "eight",
+       "reading": "はち",
+       "romaji": "hachi"
       },
       {
        "surface": "月",
@@ -840,13 +854,15 @@
       {
        "surface": "20",
        "pos": "noun",
-       "gloss": "twenty"
+       "gloss": "twenty",
+       "reading": "はつ",
+       "romaji": "hatsuka"
       },
       {
        "surface": "日",
        "pos": "noun",
-       "reading": "にち",
-       "romaji": "nichi",
+       "reading": "か",
+       "romaji": "",
        "gloss": "day"
       },
       {
@@ -1259,7 +1275,9 @@
       {
        "surface": "2",
        "pos": "noun",
-       "gloss": "two"
+       "gloss": "two",
+       "reading": "に",
+       "romaji": "ni"
       },
       {
        "surface": "倍",
@@ -1389,7 +1407,9 @@
       {
        "surface": "8",
        "pos": "noun",
-       "gloss": "eight"
+       "gloss": "eight",
+       "reading": "はち",
+       "romaji": "hachi"
       },
       {
        "surface": "月",
@@ -1401,13 +1421,15 @@
       {
        "surface": "4",
        "pos": "noun",
-       "gloss": "four"
+       "gloss": "four",
+       "reading": "よっ",
+       "romaji": "yokka"
       },
       {
        "surface": "日",
        "pos": "suffix",
        "reading": "か",
-       "romaji": "ka",
+       "romaji": "",
        "gloss": "day"
       },
       {
@@ -1576,7 +1598,9 @@
       {
        "surface": "4",
        "pos": "noun",
-       "gloss": "four"
+       "gloss": "four",
+       "reading": "し",
+       "romaji": "shi"
       },
       {
        "surface": "月",
@@ -1594,7 +1618,9 @@
       {
        "surface": "6",
        "pos": "noun",
-       "gloss": "six"
+       "gloss": "six",
+       "reading": "ろっ",
+       "romaji": "rok"
       },
       {
        "surface": "回",
@@ -1679,7 +1705,9 @@
       {
        "surface": "8",
        "pos": "noun",
-       "gloss": "eight"
+       "gloss": "eight",
+       "reading": "はち",
+       "romaji": "hachi"
       },
       {
        "surface": "月",
@@ -1691,13 +1719,15 @@
       {
        "surface": "24",
        "pos": "noun",
-       "gloss": "twenty-four"
+       "gloss": "twenty-four",
+       "reading": "にじゅうよっ",
+       "romaji": "nijuuyokka"
       },
       {
        "surface": "日",
        "pos": "suffix",
        "reading": "か",
-       "romaji": "ka",
+       "romaji": "",
        "gloss": "day"
       },
       {
@@ -1709,13 +1739,15 @@
       {
        "surface": "25",
        "pos": "noun",
-       "gloss": "twenty-five"
+       "gloss": "twenty-five",
+       "reading": "にじゅうご",
+       "romaji": "nijuugo"
       },
       {
        "surface": "日",
        "pos": "suffix",
-       "reading": "か",
-       "romaji": "ka",
+       "reading": "にち",
+       "romaji": "nichi",
        "gloss": "day"
       },
       {
@@ -1889,7 +1921,9 @@
       {
        "surface": "8",
        "pos": "noun",
-       "gloss": "eight"
+       "gloss": "eight",
+       "reading": "はち",
+       "romaji": "hachi"
       },
       {
        "surface": "月",
@@ -1901,7 +1935,9 @@
       {
        "surface": "21",
        "pos": "noun",
-       "gloss": "twenty-one"
+       "gloss": "twenty-one",
+       "reading": "にじゅういち",
+       "romaji": "nijuuichi"
       },
       {
        "surface": "日",
@@ -2098,7 +2134,9 @@
       {
        "surface": "2022",
        "pos": "noun",
-       "gloss": "2022"
+       "gloss": "2022",
+       "reading": "にせんにじゅうに",
+       "romaji": "nisennijuuni"
       },
       {
        "surface": "年",
@@ -2228,7 +2266,9 @@
       {
        "surface": "66",
        "pos": "noun",
-       "gloss": "sixty-six"
+       "gloss": "sixty-six",
+       "reading": "ろくじゅうろく",
+       "romaji": "rokujuuroku"
       },
       {
        "surface": "歳",
@@ -3905,7 +3945,9 @@
       {
        "surface": "3",
        "pos": "noun",
-       "gloss": "three"
+       "gloss": "three",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": "月",

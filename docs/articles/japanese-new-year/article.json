@@ -22,7 +22,9 @@
        "surface": "1",
        "pos": "noun",
        "gloss": "one (number)",
-       "glossId": "satu (angka)"
+       "glossId": "satu (angka)",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": "月",

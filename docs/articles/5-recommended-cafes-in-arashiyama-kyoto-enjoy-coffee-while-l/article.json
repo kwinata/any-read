@@ -154,7 +154,9 @@
       {
        "surface": "5",
        "pos": "noun",
-       "gloss": "five"
+       "gloss": "five",
+       "reading": "いつ",
+       "romaji": "itsu"
       },
       {
        "surface": "つ",
@@ -472,7 +474,9 @@
       {
        "surface": "5",
        "pos": "noun",
-       "gloss": "five"
+       "gloss": "five",
+       "reading": "いつ",
+       "romaji": "itsu"
       },
       {
        "surface": "つ",
@@ -537,7 +541,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": ".",
@@ -776,7 +782,9 @@
       {
        "surface": "20",
        "pos": "noun",
-       "gloss": "twenty"
+       "gloss": "twenty",
+       "reading": "にじゅう",
+       "romaji": "nijuu"
       },
       {
        "surface": "以上",
@@ -1671,7 +1679,9 @@
       {
        "surface": "2",
        "pos": "noun",
-       "gloss": "two"
+       "gloss": "two",
+       "reading": "に",
+       "romaji": "ni"
       },
       {
        "surface": ".",
@@ -1772,7 +1782,9 @@
       {
        "surface": "2019",
        "pos": "noun",
-       "gloss": "year 2019"
+       "gloss": "year 2019",
+       "reading": "にせんじゅうきゅう",
+       "romaji": "nisenjuukyuu"
       },
       {
        "surface": "年",
@@ -2030,7 +2042,9 @@
       {
        "surface": "200",
        "pos": "noun",
-       "gloss": "two hundred"
+       "gloss": "two hundred",
+       "reading": "にひゃく",
+       "romaji": "nihyaku"
       },
       {
        "surface": "年",
@@ -2993,7 +3007,9 @@
       {
        "surface": "3",
        "pos": "noun",
-       "gloss": "three"
+       "gloss": "three",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": ".",
@@ -3061,13 +3077,15 @@
       {
        "surface": "20",
        "pos": "noun",
-       "gloss": "twenty"
+       "gloss": "twenty",
+       "reading": "にじゅっ",
+       "romaji": "nijup"
       },
       {
        "surface": "分",
        "pos": "noun",
-       "reading": "ふん",
-       "romaji": "fun",
+       "reading": "ぷん",
+       "romaji": "pun",
        "gloss": "minutes"
       },
       {
@@ -3581,7 +3599,9 @@
       {
        "surface": "2023",
        "pos": "noun",
-       "gloss": "year 2023"
+       "gloss": "year 2023",
+       "reading": "にせんにじゅうさん",
+       "romaji": "nisennijuusan"
       },
       {
        "surface": "年",
@@ -3593,7 +3613,9 @@
       {
        "surface": "7",
        "pos": "noun",
-       "gloss": "seven"
+       "gloss": "seven",
+       "reading": "しち",
+       "romaji": "shichi"
       },
       {
        "surface": "月",
@@ -4650,7 +4672,9 @@
       {
        "surface": "4",
        "pos": "noun",
-       "gloss": "four"
+       "gloss": "four",
+       "reading": "よん",
+       "romaji": "yon"
       },
       {
        "surface": ".",
@@ -4763,7 +4787,9 @@
       {
        "surface": "4",
        "pos": "noun",
-       "gloss": "four"
+       "gloss": "four",
+       "reading": "よっ",
+       "romaji": "yot"
       },
       {
        "surface": "つ",
@@ -5857,7 +5883,9 @@
       {
        "surface": "80",
        "pos": "noun",
-       "gloss": "eighty"
+       "gloss": "eighty",
+       "reading": "はちじゅう",
+       "romaji": "hachijuu"
       },
       {
        "surface": "分間",
@@ -6136,7 +6164,9 @@
       {
        "surface": "3",
        "pos": "noun",
-       "gloss": "three"
+       "gloss": "three",
+       "reading": "みっ",
+       "romaji": "mit"
       },
       {
        "surface": "つ",
@@ -6342,7 +6372,9 @@
       {
        "surface": "5",
        "pos": "noun",
-       "gloss": "five"
+       "gloss": "five",
+       "reading": "ご",
+       "romaji": "go"
       },
       {
        "surface": ".",
@@ -6742,7 +6774,9 @@
       {
        "surface": "850",
        "pos": "noun",
-       "gloss": "eight hundred fifty"
+       "gloss": "eight hundred fifty",
+       "reading": "はっぴゃくごじゅう",
+       "romaji": "happyakugojuu"
       },
       {
        "surface": "円",

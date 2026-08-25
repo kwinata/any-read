@@ -238,7 +238,9 @@
       {
        "surface": "8",
        "pos": "noun",
-       "gloss": "eight"
+       "gloss": "eight",
+       "reading": "やっ",
+       "romaji": "yat"
       },
       {
        "surface": "つ",
@@ -568,7 +570,9 @@
       {
        "surface": "8",
        "pos": "noun",
-       "gloss": "eight"
+       "gloss": "eight",
+       "reading": "やっ",
+       "romaji": "yat"
       },
       {
        "surface": "つ",
@@ -826,7 +830,9 @@
       {
        "surface": "8",
        "pos": "noun",
-       "gloss": "eight"
+       "gloss": "eight",
+       "reading": "やっ",
+       "romaji": "yat"
       },
       {
        "surface": "つ",
@@ -868,7 +874,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": ".",
@@ -992,7 +1000,9 @@
       {
        "surface": "2",
        "pos": "noun",
-       "gloss": "two"
+       "gloss": "two",
+       "reading": "に",
+       "romaji": "ni"
       },
       {
        "surface": ".",
@@ -1087,7 +1097,9 @@
       {
        "surface": "3",
        "pos": "noun",
-       "gloss": "three"
+       "gloss": "three",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": ".",
@@ -1192,7 +1204,9 @@
       {
        "surface": "4",
        "pos": "noun",
-       "gloss": "four"
+       "gloss": "four",
+       "reading": "よん",
+       "romaji": "yon"
       },
       {
        "surface": ".",
@@ -1274,7 +1288,9 @@
       {
        "surface": "5",
        "pos": "noun",
-       "gloss": "five"
+       "gloss": "five",
+       "reading": "ご",
+       "romaji": "go"
       },
       {
        "surface": ".",
@@ -1377,7 +1393,9 @@
       {
        "surface": "6",
        "pos": "noun",
-       "gloss": "six"
+       "gloss": "six",
+       "reading": "ろく",
+       "romaji": "roku"
       },
       {
        "surface": ".",
@@ -1446,7 +1464,9 @@
       {
        "surface": "7",
        "pos": "noun",
-       "gloss": "seven"
+       "gloss": "seven",
+       "reading": "なな",
+       "romaji": "nana"
       },
       {
        "surface": ".",
@@ -1548,7 +1568,9 @@
       {
        "surface": "8",
        "pos": "noun",
-       "gloss": "eight"
+       "gloss": "eight",
+       "reading": "はち",
+       "romaji": "hachi"
       },
       {
        "surface": ".",
@@ -1617,7 +1639,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": ".",
@@ -2699,7 +2723,9 @@
       {
        "surface": "2",
        "pos": "noun",
-       "gloss": "two"
+       "gloss": "two",
+       "reading": "に",
+       "romaji": "ni"
       },
       {
        "surface": ".",
@@ -3770,7 +3796,9 @@
       {
        "surface": "3",
        "pos": "noun",
-       "gloss": "three"
+       "gloss": "three",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": ".",
@@ -3988,7 +4016,9 @@
       {
        "surface": "100",
        "pos": "noun",
-       "gloss": "one hundred"
+       "gloss": "one hundred",
+       "reading": "ひゃく",
+       "romaji": "hyaku"
       },
       {
        "surface": "種類",
@@ -4586,7 +4616,9 @@
       {
        "surface": "4",
        "pos": "noun",
-       "gloss": "four"
+       "gloss": "four",
+       "reading": "よん",
+       "romaji": "yon"
       },
       {
        "surface": ".",
@@ -4978,7 +5010,9 @@
       {
        "surface": "8",
        "pos": "noun",
-       "gloss": "eight"
+       "gloss": "eight",
+       "reading": "やっ",
+       "romaji": "yat"
       },
       {
        "surface": "つ",
@@ -5302,7 +5336,9 @@
       {
        "surface": "5",
        "pos": "noun",
-       "gloss": "five"
+       "gloss": "five",
+       "reading": "ご",
+       "romaji": "go"
       },
       {
        "surface": ".",
@@ -6232,7 +6268,9 @@
       {
        "surface": "6",
        "pos": "noun",
-       "gloss": "six"
+       "gloss": "six",
+       "reading": "ろく",
+       "romaji": "roku"
       },
       {
        "surface": ".",
@@ -6980,7 +7018,9 @@
       {
        "surface": "7",
        "pos": "noun",
-       "gloss": "seven"
+       "gloss": "seven",
+       "reading": "なな",
+       "romaji": "nana"
       },
       {
        "surface": ".",
@@ -7345,7 +7385,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": "年",
@@ -7476,7 +7518,9 @@
       {
        "surface": "97",
        "pos": "noun",
-       "gloss": "ninety-seven"
+       "gloss": "ninety-seven",
+       "reading": "きゅうじゅうなな",
+       "romaji": "kyuujuunana"
       },
       {
        "surface": "メートル",
@@ -7680,7 +7724,9 @@
       {
        "surface": "8",
        "pos": "noun",
-       "gloss": "eight"
+       "gloss": "eight",
+       "reading": "はち",
+       "romaji": "hachi"
       },
       {
        "surface": ".",
@@ -8194,7 +8240,9 @@
       {
        "surface": "3",
        "pos": "noun",
-       "gloss": "three"
+       "gloss": "three",
+       "reading": "みっ",
+       "romaji": "mit"
       },
       {
        "surface": "つ",

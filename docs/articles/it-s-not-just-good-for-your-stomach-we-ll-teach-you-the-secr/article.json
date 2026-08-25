@@ -183,7 +183,9 @@
       {
        "surface": "90",
        "pos": "noun",
-       "gloss": "ninety"
+       "gloss": "ninety",
+       "reading": "きゅうじゅう",
+       "romaji": "kyuujuu"
       },
       {
        "surface": "年",
@@ -2408,7 +2410,9 @@
       {
        "surface": "1930",
        "pos": "noun",
-       "gloss": "year 1930"
+       "gloss": "year 1930",
+       "reading": "せんきゅうひゃくさんじゅう",
+       "romaji": "senkyuuhyakusanjuu"
       },
       {
        "surface": "年",
@@ -2981,7 +2985,9 @@
       {
        "surface": "1935",
        "pos": "noun",
-       "gloss": "year 1935"
+       "gloss": "year 1935",
+       "reading": "せんきゅうひゃくさんじゅうご",
+       "romaji": "senkyuuhyakusanjuugo"
       },
       {
        "surface": "年",
@@ -3377,7 +3383,9 @@
       {
        "surface": "1940",
        "pos": "noun",
-       "gloss": "year 1940"
+       "gloss": "year 1940",
+       "reading": "せんきゅうひゃくよんじゅう",
+       "romaji": "senkyuuhyakuyonjuu"
       },
       {
        "surface": "年",
@@ -4248,7 +4256,9 @@
       {
        "surface": "1950",
        "pos": "noun",
-       "gloss": "year 1950"
+       "gloss": "year 1950",
+       "reading": "せんきゅうひゃくごじゅう",
+       "romaji": "senkyuuhyakugojuu"
       },
       {
        "surface": "年",
@@ -4672,7 +4682,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "ひと",
+       "romaji": "hito"
       },
       {
        "surface": "つ",
@@ -4919,7 +4931,9 @@
       {
        "surface": "1968",
        "pos": "noun",
-       "gloss": "year 1968"
+       "gloss": "year 1968",
+       "reading": "せんきゅうひゃくろくじゅうはち",
+       "romaji": "senkyuuhyakurokujuuhachi"
       },
       {
        "surface": "年",
@@ -6274,7 +6288,9 @@
       {
        "surface": "2011",
        "pos": "noun",
-       "gloss": "year 2011"
+       "gloss": "year 2011",
+       "reading": "にせんじゅういち",
+       "romaji": "nisenjuuichi"
       },
       {
        "surface": "年",
@@ -6838,7 +6854,9 @@
       {
        "surface": "2011",
        "pos": "noun",
-       "gloss": "year 2011"
+       "gloss": "year 2011",
+       "reading": "にせんじゅういち",
+       "romaji": "nisenjuuichi"
       },
       {
        "surface": "年",
@@ -7313,7 +7331,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いっ",
+       "romaji": "ip"
       },
       {
        "surface": "本",
@@ -7329,7 +7349,9 @@
       {
        "surface": "65",
        "pos": "noun",
-       "gloss": "sixty-five"
+       "gloss": "sixty-five",
+       "reading": "ろくじゅうご",
+       "romaji": "rokujuugo"
       },
       {
        "surface": "ｍｌ",
@@ -7513,7 +7535,9 @@
       {
        "surface": "1000",
        "pos": "noun",
-       "gloss": "one thousand"
+       "gloss": "one thousand",
+       "reading": "せん",
+       "romaji": "sen"
       },
       {
        "surface": "」",
@@ -7535,7 +7559,9 @@
       {
        "surface": "１０００",
        "pos": "noun",
-       "gloss": "1000 (product name)"
+       "gloss": "1000 (product name)",
+       "reading": "せん",
+       "romaji": "sen"
       },
       {
        "surface": "」",
@@ -7571,7 +7597,9 @@
       {
        "surface": "1000",
        "pos": "noun",
-       "gloss": "one thousand"
+       "gloss": "one thousand",
+       "reading": "せん",
+       "romaji": "sen"
       },
       {
        "surface": "：",
@@ -7580,7 +7608,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いっ",
+       "romaji": "ip"
       },
       {
        "surface": "本",
@@ -7596,7 +7626,9 @@
       {
        "surface": "100",
        "pos": "noun",
-       "gloss": "one hundred"
+       "gloss": "one hundred",
+       "reading": "ひゃく",
+       "romaji": "hyaku"
       },
       {
        "surface": "ｍｌ",
@@ -7694,7 +7726,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": "ｍｌ",
@@ -8214,7 +8248,9 @@
       {
        "surface": "１０００",
        "pos": "noun",
-       "gloss": "1000 (product name)"
+       "gloss": "1000 (product name)",
+       "reading": "せん",
+       "romaji": "sen"
       },
       {
        "surface": "：",
@@ -8223,7 +8259,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いっ",
+       "romaji": "ip"
       },
       {
        "surface": "本",
@@ -8239,7 +8277,9 @@
       {
        "surface": "110",
        "pos": "noun",
-       "gloss": "one hundred ten"
+       "gloss": "one hundred ten",
+       "reading": "ひゃくじゅう",
+       "romaji": "hyakujuu"
       },
       {
        "surface": "ｍｌ",
@@ -8354,7 +8394,9 @@
       {
        "surface": "1000",
        "pos": "noun",
-       "gloss": "one thousand"
+       "gloss": "one thousand",
+       "reading": "せん",
+       "romaji": "sen"
       },
       {
        "surface": "」",
@@ -8913,7 +8955,9 @@
       {
        "surface": "１０００",
        "pos": "noun",
-       "gloss": "1000 (product name)"
+       "gloss": "1000 (product name)",
+       "reading": "せん",
+       "romaji": "sen"
       },
       {
        "surface": "」",
@@ -9144,7 +9188,9 @@
       {
        "surface": "1960",
        "pos": "noun",
-       "gloss": "year 1960"
+       "gloss": "year 1960",
+       "reading": "せんきゅうひゃくろくじゅう",
+       "romaji": "senkyuuhyakurokujuu"
       },
       {
        "surface": "年",
@@ -9638,7 +9684,9 @@
       {
        "surface": "1963",
        "pos": "noun",
-       "gloss": "year 1963"
+       "gloss": "year 1963",
+       "reading": "せんきゅうひゃくろくじゅうさん",
+       "romaji": "senkyuuhyakurokujuusan"
       },
       {
        "surface": "年",
@@ -12150,7 +12198,9 @@
       {
        "surface": "40",
        "pos": "noun",
-       "gloss": "forty"
+       "gloss": "forty",
+       "reading": "よんじゅう",
+       "romaji": "yonjuu"
       },
       {
        "surface": "の",

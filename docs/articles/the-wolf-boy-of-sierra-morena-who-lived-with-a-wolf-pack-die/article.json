@@ -277,7 +277,9 @@
       {
        "surface": "80",
        "pos": "noun",
-       "gloss": "eighty"
+       "gloss": "eighty",
+       "reading": "はちじゅっ",
+       "romaji": "hachijus"
       },
       {
        "surface": "歳",
@@ -621,7 +623,9 @@
       {
        "surface": "12",
        "pos": "noun",
-       "gloss": "twelve"
+       "gloss": "twelve",
+       "reading": "じゅうに",
+       "romaji": "juuni"
       },
       {
        "surface": "年間",
@@ -792,7 +796,9 @@
       {
        "surface": "2001",
        "pos": "noun",
-       "gloss": "two thousand one"
+       "gloss": "two thousand one",
+       "reading": "にせんいち",
+       "romaji": "nisen'ichi"
       },
       {
        "surface": "年",
@@ -860,7 +866,9 @@
       {
        "surface": "80",
        "pos": "noun",
-       "gloss": "eighty"
+       "gloss": "eighty",
+       "reading": "はちじゅっ",
+       "romaji": "hachijus"
       },
       {
        "surface": "歳",
@@ -1414,7 +1422,9 @@
       {
        "surface": "1946",
        "pos": "noun",
-       "gloss": "nineteen forty-six"
+       "gloss": "nineteen forty-six",
+       "reading": "せんきゅうひゃくよんじゅうろく",
+       "romaji": "senkyuuhyakuyonjuuroku"
       },
       {
        "surface": "年",
@@ -2145,7 +2155,9 @@
       {
        "surface": "7",
        "pos": "noun",
-       "gloss": "seven"
+       "gloss": "seven",
+       "reading": "なな",
+       "romaji": "nana"
       },
       {
        "surface": "歳",
@@ -4330,7 +4342,9 @@
       {
        "surface": "19",
        "pos": "noun",
-       "gloss": "nineteen"
+       "gloss": "nineteen",
+       "reading": "じゅうきゅう",
+       "romaji": "juukyuu"
       },
       {
        "surface": "歳",

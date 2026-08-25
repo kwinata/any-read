@@ -41,7 +41,9 @@
       {
        "surface": "46",
        "pos": "noun",
-       "gloss": "forty-six"
+       "gloss": "forty-six",
+       "reading": "よんじゅうろく",
+       "romaji": "yonjuuroku"
       },
       {
        "surface": "」",
@@ -56,7 +58,9 @@
       {
        "surface": "22",
        "pos": "noun",
-       "gloss": "twenty-two"
+       "gloss": "twenty-two",
+       "reading": "にじゅうに",
+       "romaji": "nijuuni"
       },
       {
        "surface": "日",
@@ -147,7 +151,9 @@
       {
        "surface": "46",
        "pos": "noun",
-       "gloss": "forty-six"
+       "gloss": "forty-six",
+       "reading": "よんじゅうろく",
+       "romaji": "yonjuuroku"
       },
       {
        "surface": "真夏",
@@ -178,7 +184,9 @@
       {
        "surface": "2026",
        "pos": "noun",
-       "gloss": "twenty twenty-six"
+       "gloss": "twenty twenty-six",
+       "reading": "にせんにじゅうろく",
+       "romaji": "nisennijuuroku"
       },
       {
        "surface": "」",
@@ -554,7 +562,9 @@
       {
        "surface": "8",
        "pos": "noun",
-       "gloss": "eight"
+       "gloss": "eight",
+       "reading": "はち",
+       "romaji": "hachi"
       },
       {
        "surface": "月",
@@ -566,7 +576,9 @@
       {
        "surface": "22",
        "pos": "noun",
-       "gloss": "twenty-two"
+       "gloss": "twenty-two",
+       "reading": "にじゅうに",
+       "romaji": "nijuuni"
       },
       {
        "surface": "日",
@@ -2657,7 +2669,9 @@
       {
        "surface": "5",
        "pos": "noun",
-       "gloss": "five"
+       "gloss": "five",
+       "reading": "ご",
+       "romaji": "go"
       },
       {
        "surface": "時",
@@ -2713,7 +2727,9 @@
       {
        "surface": "100",
        "pos": "noun",
-       "gloss": "one hundred"
+       "gloss": "one hundred",
+       "reading": "ひゃく",
+       "romaji": "hyaku"
       },
       {
        "surface": "ミリ",
@@ -3024,7 +3040,9 @@
       {
        "surface": "6",
        "pos": "noun",
-       "gloss": "six"
+       "gloss": "six",
+       "reading": "ろく",
+       "romaji": "roku"
       },
       {
        "surface": "時",
@@ -3049,7 +3067,9 @@
       {
        "surface": "6",
        "pos": "noun",
-       "gloss": "six"
+       "gloss": "six",
+       "reading": "ろく",
+       "romaji": "roku"
       },
       {
        "surface": "時",
@@ -3061,13 +3081,15 @@
       {
        "surface": "30",
        "pos": "noun",
-       "gloss": "thirty"
+       "gloss": "thirty",
+       "reading": "さんじゅっ",
+       "romaji": "sanjup"
       },
       {
        "surface": "分",
        "pos": "noun",
-       "reading": "ふん",
-       "romaji": "fun",
+       "reading": "ぷん",
+       "romaji": "pun",
        "gloss": "minutes"
       },
       {

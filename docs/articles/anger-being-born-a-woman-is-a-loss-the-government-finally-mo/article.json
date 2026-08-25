@@ -18,7 +18,9 @@
       {
        "surface": "2025",
        "pos": "noun",
-       "gloss": "the year 2025"
+       "gloss": "the year 2025",
+       "reading": "にせんにじゅうご",
+       "romaji": "nisennijuugo"
       },
       {
        "surface": "年",
@@ -950,13 +952,15 @@
       {
        "surface": "30",
        "pos": "noun",
-       "gloss": "the number 30"
+       "gloss": "the number 30",
+       "reading": "さんじゅっ",
+       "romaji": "sanjup"
       },
       {
        "surface": "分",
        "pos": "noun",
-       "reading": "ふん",
-       "romaji": "fun",
+       "reading": "ぷん",
+       "romaji": "pun",
        "gloss": "minutes"
       },
       {
@@ -1859,7 +1863,9 @@
       {
        "surface": "2026",
        "pos": "noun",
-       "gloss": "the year 2026"
+       "gloss": "the year 2026",
+       "reading": "にせんにじゅうろく",
+       "romaji": "nisennijuuroku"
       },
       {
        "surface": "年",
@@ -1871,7 +1877,9 @@
       {
        "surface": "6",
        "pos": "noun",
-       "gloss": "the number 6"
+       "gloss": "the number 6",
+       "reading": "ろく",
+       "romaji": "roku"
       },
       {
        "surface": "月",
@@ -2387,7 +2395,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "the number 1"
+       "gloss": "the number 1",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": ":",
@@ -2432,7 +2442,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "the number 1"
+       "gloss": "the number 1",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": ":",
@@ -2477,7 +2489,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "the number 1"
+       "gloss": "the number 1",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": ":",
@@ -2531,7 +2545,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "the number 1"
+       "gloss": "the number 1",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": ":",
@@ -2785,7 +2801,9 @@
       {
        "surface": "1000",
        "pos": "noun",
-       "gloss": "the number 1000"
+       "gloss": "the number 1000",
+       "reading": "せん",
+       "romaji": "sen"
       },
       {
        "surface": "人",
@@ -3067,7 +3085,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "the number 1"
+       "gloss": "the number 1",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": ":",
@@ -3083,7 +3103,9 @@
       {
        "surface": "5",
        "pos": "noun",
-       "gloss": "the number 5"
+       "gloss": "the number 5",
+       "reading": "ご",
+       "romaji": "go"
       },
       {
        "surface": "、",
@@ -3117,7 +3139,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "the number 1"
+       "gloss": "the number 1",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": ":",
@@ -3133,7 +3157,9 @@
       {
        "surface": "3",
        "pos": "noun",
-       "gloss": "the number 3"
+       "gloss": "the number 3",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": "の",

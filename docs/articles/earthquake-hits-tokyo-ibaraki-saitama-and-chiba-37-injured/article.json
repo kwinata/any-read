@@ -19,13 +19,15 @@
       {
        "surface": "23",
        "pos": "noun",
-       "gloss": "twenty-three (day of month)"
+       "gloss": "twenty-three (day of month)",
+       "reading": "にじゅうさん",
+       "romaji": "nijuusan"
       },
       {
        "surface": "日",
        "pos": "suffix",
-       "reading": "か",
-       "romaji": "ka",
+       "reading": "にち",
+       "romaji": "nichi",
        "gloss": "day / sun"
       },
       {
@@ -192,7 +194,9 @@
       {
        "surface": "5",
        "pos": "noun",
-       "gloss": "five"
+       "gloss": "five",
+       "reading": "ご",
+       "romaji": "go"
       },
       {
        "surface": "弱",
@@ -248,7 +252,9 @@
       {
        "surface": "37",
        "pos": "noun",
-       "gloss": "thirty-seven"
+       "gloss": "thirty-seven",
+       "reading": "さんじゅうなな",
+       "romaji": "sanjuunana"
       },
       {
        "surface": "人",
@@ -323,7 +329,9 @@
       {
        "surface": "15",
        "pos": "noun",
-       "gloss": "fifteen"
+       "gloss": "fifteen",
+       "reading": "じゅうご",
+       "romaji": "juugo"
       },
       {
        "surface": "人",
@@ -352,7 +360,9 @@
       {
        "surface": "9",
        "pos": "noun",
-       "gloss": "nine"
+       "gloss": "nine",
+       "reading": "きゅう",
+       "romaji": "kyuu"
       },
       {
        "surface": "人",
@@ -381,7 +391,9 @@
       {
        "surface": "8",
        "pos": "noun",
-       "gloss": "eight"
+       "gloss": "eight",
+       "reading": "はち",
+       "romaji": "hachi"
       },
       {
        "surface": "人",
@@ -434,7 +446,9 @@
       {
        "surface": "80",
        "pos": "noun",
-       "gloss": "eighty"
+       "gloss": "eighty",
+       "reading": "はちじゅう",
+       "romaji": "hachijuu"
       },
       {
        "surface": "代",
@@ -803,7 +817,9 @@
       {
        "surface": "100",
        "pos": "noun",
-       "gloss": "one hundred"
+       "gloss": "one hundred",
+       "reading": "ひゃく",
+       "romaji": "hyaku"
       },
       {
        "surface": "件",
@@ -1426,7 +1442,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": "週間",

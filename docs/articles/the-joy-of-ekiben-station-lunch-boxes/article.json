@@ -424,7 +424,9 @@
       {
        "surface": "100",
        "pos": "noun",
-       "gloss": "100"
+       "gloss": "100",
+       "reading": "ひゃく",
+       "romaji": "hyaku"
       },
       {
        "surface": "年",
@@ -1147,7 +1149,9 @@
       {
        "surface": "1000",
        "pos": "noun",
-       "gloss": "1000"
+       "gloss": "1000",
+       "reading": "せん",
+       "romaji": "sen"
       },
       {
        "surface": "円",
@@ -1171,7 +1175,9 @@
       {
        "surface": "2000",
        "pos": "noun",
-       "gloss": "2000"
+       "gloss": "2000",
+       "reading": "にせん",
+       "romaji": "nisen"
       },
       {
        "surface": "円",

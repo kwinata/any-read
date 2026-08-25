@@ -507,7 +507,12 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
     header.append(el('h1', null, 'たんごちょう'));
     header.append(el('p', 'sub', 'Useful beginner vocabulary — tap a word to hear it'));
   }
+  const searchInput = el('input', 'vsearch');
+  searchInput.type = 'search';
+  searchInput.placeholder = 'Search: english / indonesia / romaji…';
+  header.append(searchInput);
   host.append(header);
+  const searchEntries = []; // {el, secIdx, hay}
 
   const audio = data.audioFile ? new Audio('vocab/' + data.audioFile) : null;
   let stopAt = null;
@@ -605,6 +610,12 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
         });
         item.append(exEl);
       }
+      searchEntries.push({
+        el: item,
+        secIdx: sections.length - 1,
+        hay: [w.w, w.reading, w.romaji, w.en, w.id]
+          .filter(Boolean).join(' ').toLowerCase(),
+      });
       host.append(item);
     }
   }
@@ -616,9 +627,29 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
       const row = el('div', 'vsent');
       row.append(jline(s.tokens), transBlock(s));
       row.addEventListener('click', () => playWord(s, row));
+      searchEntries.push({
+        el: row,
+        secIdx: sections.length - 1,
+        hay: [s.text, s.en, s.id,
+          s.tokens.map((t) => t.romaji || '').join(' ')]
+          .filter(Boolean).join(' ').toLowerCase(),
+      });
       host.append(row);
     }
   }
+
+  searchInput.addEventListener('input', () => {
+    const q = searchInput.value.trim().toLowerCase();
+    const hits = new Array(sections.length).fill(0);
+    for (const e of searchEntries) {
+      const show = !q || e.hay.includes(q);
+      e.el.style.display = show ? '' : 'none';
+      if (show) hits[e.secIdx] += 1;
+    }
+    sections.forEach((s, i) => {
+      s.catEl.style.display = !q || hits[i] ? '' : 'none';
+    });
+  });
   $app.append(host);
 
   // Scroll-spy: highlight the section currently at the top of the view

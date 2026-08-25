@@ -236,7 +236,9 @@
       {
        "surface": "5",
        "pos": "noun",
-       "gloss": "five"
+       "gloss": "five",
+       "reading": "いつ",
+       "romaji": "itsu"
       },
       {
        "surface": "つ",
@@ -972,7 +974,9 @@
       {
        "surface": "5",
        "pos": "noun",
-       "gloss": "five"
+       "gloss": "five",
+       "reading": "いつ",
+       "romaji": "itsu"
       },
       {
        "surface": "つ",
@@ -1048,7 +1052,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": ".",
@@ -1082,7 +1088,9 @@
       {
        "surface": "2",
        "pos": "noun",
-       "gloss": "two"
+       "gloss": "two",
+       "reading": "に",
+       "romaji": "ni"
       },
       {
        "surface": ".",
@@ -1109,7 +1117,9 @@
       {
        "surface": "3",
        "pos": "noun",
-       "gloss": "three"
+       "gloss": "three",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": ".",
@@ -1136,7 +1146,9 @@
       {
        "surface": "4",
        "pos": "noun",
-       "gloss": "four"
+       "gloss": "four",
+       "reading": "よん",
+       "romaji": "yon"
       },
       {
        "surface": ".",
@@ -1169,7 +1181,9 @@
       {
        "surface": "5",
        "pos": "noun",
-       "gloss": "five"
+       "gloss": "five",
+       "reading": "ご",
+       "romaji": "go"
       },
       {
        "surface": ".",
@@ -1196,7 +1210,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": ".",
@@ -1352,7 +1368,9 @@
       {
        "surface": "350",
        "pos": "noun",
-       "gloss": "350"
+       "gloss": "350",
+       "reading": "さんびゃくごじゅう",
+       "romaji": "sanbyakugojuu"
       },
       {
        "surface": "の",
@@ -1886,7 +1904,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": "人",
@@ -1902,7 +1922,9 @@
       {
        "surface": "4",
        "pos": "noun",
-       "gloss": "four"
+       "gloss": "four",
+       "reading": "よ",
+       "romaji": "yo"
       },
       {
        "surface": "人",
@@ -2598,7 +2620,9 @@
       {
        "surface": "200",
        "pos": "noun",
-       "gloss": "two hundred"
+       "gloss": "two hundred",
+       "reading": "にひゃく",
+       "romaji": "nihyaku"
       },
       {
        "surface": "円",
@@ -2753,7 +2777,9 @@
       {
        "surface": "200",
        "pos": "noun",
-       "gloss": "two hundred"
+       "gloss": "two hundred",
+       "reading": "にひゃく",
+       "romaji": "nihyaku"
       },
       {
        "surface": "円",
@@ -2986,7 +3012,9 @@
       {
        "surface": "2",
        "pos": "noun",
-       "gloss": "two"
+       "gloss": "two",
+       "reading": "に",
+       "romaji": "ni"
       },
       {
        "surface": ".",
@@ -3114,7 +3142,9 @@
       {
        "surface": "300",
        "pos": "noun",
-       "gloss": "300"
+       "gloss": "300",
+       "reading": "さんびゃく",
+       "romaji": "sanbyaku"
       },
       {
        "surface": "店",
@@ -3150,7 +3180,9 @@
       {
        "surface": "45",
        "pos": "noun",
-       "gloss": "45"
+       "gloss": "45",
+       "reading": "よんじゅうご",
+       "romaji": "yonjuugo"
       },
       {
        "surface": "の",
@@ -3958,7 +3990,9 @@
       {
        "surface": "5",
        "pos": "noun",
-       "gloss": "five"
+       "gloss": "five",
+       "reading": "ご",
+       "romaji": "go"
       },
       {
        "surface": "分",
@@ -4215,7 +4249,9 @@
       {
        "surface": "3",
        "pos": "noun",
-       "gloss": "three"
+       "gloss": "three",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": ".",
@@ -4767,7 +4803,9 @@
       {
        "surface": "4",
        "pos": "noun",
-       "gloss": "four"
+       "gloss": "four",
+       "reading": "よ",
+       "romaji": "yo"
       },
       {
        "surface": "人",
@@ -5712,7 +5750,9 @@
       {
        "surface": "4",
        "pos": "noun",
-       "gloss": "four"
+       "gloss": "four",
+       "reading": "よん",
+       "romaji": "yon"
       },
       {
        "surface": ".",
@@ -5858,7 +5898,9 @@
       {
        "surface": "170",
        "pos": "noun",
-       "gloss": "170"
+       "gloss": "170",
+       "reading": "ひゃくななじゅう",
+       "romaji": "hyakunanajuu"
       },
       {
        "surface": "店",
@@ -6095,7 +6137,9 @@
       {
        "surface": "2",
        "pos": "noun",
-       "gloss": "two"
+       "gloss": "two",
+       "reading": "ふた",
+       "romaji": "futa"
       },
       {
        "surface": "つ",
@@ -6852,7 +6896,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いっ",
+       "romaji": "ik"
       },
       {
        "surface": "回",
@@ -6877,7 +6923,9 @@
       {
        "surface": "500",
        "pos": "noun",
-       "gloss": "500"
+       "gloss": "500",
+       "reading": "ごひゃく",
+       "romaji": "gohyaku"
       },
       {
        "surface": "円",
@@ -6943,7 +6991,9 @@
       {
        "surface": "5",
        "pos": "noun",
-       "gloss": "five"
+       "gloss": "five",
+       "reading": "ご",
+       "romaji": "go"
       },
       {
        "surface": ".",
@@ -7052,7 +7102,9 @@
       {
        "surface": "280",
        "pos": "noun",
-       "gloss": "280"
+       "gloss": "280",
+       "reading": "にひゃくはちじゅう",
+       "romaji": "nihyakuhachijuu"
       },
       {
        "surface": "店",
@@ -7528,7 +7580,9 @@
       {
        "surface": "4",
        "pos": "noun",
-       "gloss": "four"
+       "gloss": "four",
+       "reading": "よ",
+       "romaji": "yo"
       },
       {
        "surface": "人",
@@ -7884,7 +7938,9 @@
       {
        "surface": "30",
        "pos": "noun",
-       "gloss": "thirty"
+       "gloss": "thirty",
+       "reading": "さんじゅう",
+       "romaji": "sanjuu"
       },
       {
        "surface": "種類",
@@ -8115,7 +8171,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いっ",
+       "romaji": "ip"
       },
       {
        "surface": "本",

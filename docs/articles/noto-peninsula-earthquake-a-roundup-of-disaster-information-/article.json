@@ -19,7 +19,9 @@
       {
        "surface": "2024",
        "pos": "noun",
-       "gloss": "2024 (year)"
+       "gloss": "2024 (year)",
+       "reading": "にせんにじゅうよ",
+       "romaji": "nisennijuuyo"
       },
       {
        "surface": "年",
@@ -31,7 +33,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": "月",
@@ -341,7 +345,9 @@
       {
        "surface": "2024",
        "pos": "noun",
-       "gloss": "2024 (year)"
+       "gloss": "2024 (year)",
+       "reading": "にせんにじゅうよ",
+       "romaji": "nisennijuuyo"
       },
       {
        "surface": "年",
@@ -353,7 +359,9 @@
       {
        "surface": "１",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": "月",
@@ -373,7 +381,9 @@
       {
        "surface": "16",
        "pos": "noun",
-       "gloss": "16"
+       "gloss": "16",
+       "reading": "じゅうろく",
+       "romaji": "juuroku"
       },
       {
        "surface": "時",
@@ -385,13 +395,15 @@
       {
        "surface": "10",
        "pos": "noun",
-       "gloss": "10"
+       "gloss": "10",
+       "reading": "じゅっ",
+       "romaji": "jup"
       },
       {
        "surface": "分",
        "pos": "noun",
-       "reading": "ふん",
-       "romaji": "fun",
+       "reading": "ぷん",
+       "romaji": "pun",
        "gloss": "minute"
       },
       {
@@ -518,7 +530,9 @@
       {
        "surface": "１",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": "月",
@@ -530,13 +544,15 @@
       {
        "surface": "4",
        "pos": "noun",
-       "gloss": "four"
+       "gloss": "four",
+       "reading": "よっ",
+       "romaji": "yokka"
       },
       {
        "surface": "日",
        "pos": "suffix",
        "reading": "か",
-       "romaji": "ka",
+       "romaji": "",
        "gloss": "day"
       },
       {
@@ -1303,7 +1319,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": "月",
@@ -1315,13 +1333,15 @@
       {
        "surface": "4",
        "pos": "noun",
-       "gloss": "four"
+       "gloss": "four",
+       "reading": "よっ",
+       "romaji": "yokka"
       },
       {
        "surface": "日",
        "pos": "suffix",
        "reading": "か",
-       "romaji": "ka",
+       "romaji": "",
        "gloss": "day"
       },
       {
@@ -1771,7 +1791,9 @@
       {
        "surface": "82",
        "pos": "noun",
-       "gloss": "82"
+       "gloss": "82",
+       "reading": "はちじゅうに",
+       "romaji": "hachijuuni"
       },
       {
        "surface": "人",
@@ -1855,7 +1877,9 @@
       {
        "surface": "339",
        "pos": "noun",
-       "gloss": "339"
+       "gloss": "339",
+       "reading": "さんびゃくさんじゅうきゅう",
+       "romaji": "sanbyakusanjuukyuu"
       },
       {
        "surface": "人",
@@ -1948,7 +1972,9 @@
       {
        "surface": "250",
        "pos": "noun",
-       "gloss": "250"
+       "gloss": "250",
+       "reading": "にひゃくごじゅう",
+       "romaji": "nihyakugojuu"
       },
       {
        "surface": "の",
@@ -2070,7 +2096,9 @@
       {
        "surface": "26",
        "pos": "noun",
-       "gloss": "26"
+       "gloss": "26",
+       "reading": "にじゅうろく",
+       "romaji": "nijuuroku"
       },
       {
        "surface": "人",
@@ -2132,7 +2160,9 @@
       {
        "surface": "420",
        "pos": "noun",
-       "gloss": "420"
+       "gloss": "420",
+       "reading": "よんひゃくにじゅう",
+       "romaji": "yonhyakunijuu"
       },
       {
        "surface": "の",
@@ -2378,7 +2408,9 @@
       {
        "surface": "37",
        "pos": "noun",
-       "gloss": "37"
+       "gloss": "37",
+       "reading": "さんじゅうなな",
+       "romaji": "sanjuunana"
       },
       {
        "surface": "人",
@@ -2406,7 +2438,9 @@
       {
        "surface": "3",
        "pos": "noun",
-       "gloss": "three"
+       "gloss": "three",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": "人",
@@ -2449,7 +2483,9 @@
       {
        "surface": "48",
        "pos": "noun",
-       "gloss": "48"
+       "gloss": "48",
+       "reading": "よんじゅうはち",
+       "romaji": "yonjuuhachi"
       },
       {
        "surface": "の",
@@ -2562,7 +2598,9 @@
       {
        "surface": "6",
        "pos": "noun",
-       "gloss": "six"
+       "gloss": "six",
+       "reading": "ろく",
+       "romaji": "roku"
       },
       {
        "surface": "人",
@@ -3047,7 +3085,9 @@
       {
        "surface": "20",
        "pos": "noun",
-       "gloss": "20"
+       "gloss": "20",
+       "reading": "にじゅう",
+       "romaji": "nijuu"
       },
       {
        "surface": "ぐらい",
@@ -3280,7 +3320,9 @@
       {
        "surface": "3",
        "pos": "noun",
-       "gloss": "three"
+       "gloss": "three",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": ".",
@@ -5629,7 +5671,9 @@
       {
        "surface": "202401",
        "pos": "noun",
-       "gloss": "January 2024 (in URL)"
+       "gloss": "January 2024 (in URL)",
+       "reading": "にじゅうまんにせんよんひゃくいち",
+       "romaji": "nijuumannisenyonhyakuichi"
       },
       {
        "surface": "jishin",
@@ -6122,7 +6166,9 @@
       {
        "surface": "4",
        "pos": "noun",
-       "gloss": "four"
+       "gloss": "four",
+       "reading": "よん",
+       "romaji": "yon"
       },
       {
        "surface": ".",
@@ -6975,7 +7021,9 @@
       {
        "surface": "03",
        "pos": "noun",
-       "gloss": "area code (Tokyo)"
+       "gloss": "area code (Tokyo)",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": "-",
@@ -6984,7 +7032,9 @@
       {
        "surface": "3224",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "さんぜんにひゃくにじゅうよん",
+       "romaji": "sanzennihyakunijuuyon"
       },
       {
        "surface": "-",
@@ -6993,7 +7043,9 @@
       {
        "surface": "5000",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "ごせん",
+       "romaji": "gosen"
       }
      ],
      "translation": "Phone number: 03-3224-5000",
@@ -7040,7 +7092,9 @@
       {
        "surface": "03",
        "pos": "noun",
-       "gloss": "area code (Tokyo)"
+       "gloss": "area code (Tokyo)",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": "-",
@@ -7049,7 +7103,9 @@
       {
        "surface": "3455",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "さんぜんよんひゃくごじゅうご",
+       "romaji": "sanzenyonhyakugojuugo"
       },
       {
        "surface": "-",
@@ -7058,7 +7114,9 @@
       {
        "surface": "2601",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "にせんろっぴゃくいち",
+       "romaji": "nisenroppyakuichi"
       },
       {
        "surface": "/",
@@ -7067,7 +7125,9 @@
       {
        "surface": "3",
        "pos": "noun",
-       "gloss": "three"
+       "gloss": "three",
+       "reading": "さん",
+       "romaji": "san"
       }
      ],
      "translation": "Phone number: 03-3455-2601/3",
@@ -7114,7 +7174,9 @@
       {
        "surface": "03",
        "pos": "noun",
-       "gloss": "area code (Tokyo)"
+       "gloss": "area code (Tokyo)",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": "-",
@@ -7123,7 +7185,9 @@
       {
        "surface": "3440",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "さんぜんよんひゃくよんじゅう",
+       "romaji": "sanzenyonhyakuyonjuu"
       },
       {
        "surface": "-",
@@ -7132,7 +7196,9 @@
       {
        "surface": "2011",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "にせんじゅういち",
+       "romaji": "nisenjuuichi"
       }
      ],
      "translation": "Phone number: 03-3440-2011",
@@ -7179,7 +7245,9 @@
       {
        "surface": "03",
        "pos": "noun",
-       "gloss": "area code (Tokyo)"
+       "gloss": "area code (Tokyo)",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": "-",
@@ -7188,7 +7256,9 @@
       {
        "surface": "3280",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "さんぜんにひゃくはちじゅう",
+       "romaji": "sanzennihyakuhachijuu"
       },
       {
        "surface": "-",
@@ -7197,7 +7267,9 @@
       {
        "surface": "7811",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "ななせんはっぴゃくじゅういち",
+       "romaji": "nanasenhappyakujuuichi"
       },
       {
        "surface": "(",
@@ -7236,7 +7308,9 @@
       },
       {
        "surface": "81",
-       "pos": "noun"
+       "pos": "noun",
+       "reading": "はちじゅういち",
+       "romaji": "hachijuuichi"
       },
       {
        "surface": "-",
@@ -7245,7 +7319,9 @@
       {
        "surface": "3",
        "pos": "noun",
-       "gloss": "three"
+       "gloss": "three",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": ")",
@@ -7254,7 +7330,9 @@
       {
        "surface": "3280",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "さんぜんにひゃくはちじゅう",
+       "romaji": "sanzennihyakuhachijuu"
       },
       {
        "surface": "-",
@@ -7263,7 +7341,9 @@
       {
        "surface": "7811",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "ななせんはっぴゃくじゅういち",
+       "romaji": "nanasenhappyakujuuichi"
       },
       {
        "surface": ")",
@@ -7313,7 +7393,9 @@
       {
        "surface": "03",
        "pos": "noun",
-       "gloss": "area code (Tokyo)"
+       "gloss": "area code (Tokyo)",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": "-",
@@ -7322,7 +7404,9 @@
       {
        "surface": "5789",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "ごせんななひゃくはちじゅうきゅう",
+       "romaji": "gosennanahyakuhachijuukyuu"
       },
       {
        "surface": "-",
@@ -7331,7 +7415,9 @@
       {
        "surface": "2433",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "にせんよんひゃくさんじゅうさん",
+       "romaji": "nisenyonhyakusanjuusan"
       }
      ],
      "translation": "Phone number: 03-5789-2433",
@@ -7377,7 +7463,9 @@
       {
        "surface": "03",
        "pos": "noun",
-       "gloss": "area code (Tokyo)"
+       "gloss": "area code (Tokyo)",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": "-",
@@ -7386,7 +7474,9 @@
       {
        "surface": "3441",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "さんぜんよんひゃくよんじゅういち",
+       "romaji": "sanzenyonhyakuyonjuuichi"
       },
       {
        "surface": "-",
@@ -7395,7 +7485,9 @@
       {
        "surface": "4201",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "よんせんにひゃくいち",
+       "romaji": "yonsennihyakuichi"
       }
      ],
      "translation": "Phone number: 03-3441-4201",
@@ -7442,7 +7534,9 @@
       {
        "surface": "03",
        "pos": "noun",
-       "gloss": "area code (Tokyo)"
+       "gloss": "area code (Tokyo)",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": "-",
@@ -7451,7 +7545,9 @@
       {
        "surface": "3466",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "さんぜんよんひゃくろくじゅうろく",
+       "romaji": "sanzenyonhyakurokujuuroku"
       },
       {
        "surface": "-",
@@ -7460,7 +7556,9 @@
       {
        "surface": "3311",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "さんぜんさんびゃくじゅういち",
+       "romaji": "sanzensanbyakujuuichi"
       },
       {
        "surface": "/",
@@ -7469,7 +7567,9 @@
       {
        "surface": "3313",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "さんぜんさんびゃくじゅうさん",
+       "romaji": "sanzensanbyakujuusan"
       },
       {
        "surface": "/",
@@ -7478,7 +7578,9 @@
       {
        "surface": "3314",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "さんぜんさんびゃくじゅうよん",
+       "romaji": "sanzensanbyakujuuyon"
       }
      ],
      "translation": "Phone number: 03-3466-3311/3313/3314",
@@ -7524,7 +7626,9 @@
       {
        "surface": "03",
        "pos": "noun",
-       "gloss": "area code (Tokyo)"
+       "gloss": "area code (Tokyo)",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": "-",
@@ -7533,7 +7637,9 @@
       {
        "surface": "5562",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "ごせんごひゃくろくじゅうに",
+       "romaji": "gosengohyakurokujuuni"
       },
       {
        "surface": "-",
@@ -7542,7 +7648,9 @@
       {
        "surface": "1600",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "せんろっぴゃく",
+       "romaji": "senroppyaku"
       }
      ],
      "translation": "Phone number: 03-5562-1600",
@@ -7588,7 +7696,9 @@
       {
        "surface": "03",
        "pos": "noun",
-       "gloss": "area code (Tokyo)"
+       "gloss": "area code (Tokyo)",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": "-",
@@ -7597,7 +7707,9 @@
       {
        "surface": "5211",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "ごせんにひゃくじゅういち",
+       "romaji": "gosennihyakujuuichi"
       },
       {
        "surface": "-",
@@ -7606,7 +7718,9 @@
       {
        "surface": "1100",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "せんひゃく",
+       "romaji": "senhyaku"
       }
      ],
      "translation": "Phone number: 03-5211-1100",
@@ -7652,7 +7766,9 @@
       {
        "surface": "03",
        "pos": "noun",
-       "gloss": "area code (Tokyo)"
+       "gloss": "area code (Tokyo)",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": "-",
@@ -7661,7 +7777,9 @@
       {
        "surface": "5232",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "ごせんにひゃくさんじゅうに",
+       "romaji": "gosennihyakusanjuuni"
       },
       {
        "surface": "-",
@@ -7670,7 +7788,9 @@
       {
        "surface": "4111",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "よんせんひゃくじゅういち",
+       "romaji": "yonsenhyakujuuichi"
       }
      ],
      "translation": "Phone number: 03-5232-4111",
@@ -7716,7 +7836,9 @@
       {
        "surface": "03",
        "pos": "noun",
-       "gloss": "area code (Tokyo)"
+       "gloss": "area code (Tokyo)",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": "-",
@@ -7725,7 +7847,9 @@
       {
        "surface": "5791",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "ごせんななひゃくきゅうじゅういち",
+       "romaji": "gosennanahyakukyuujuuichi"
       },
       {
        "surface": "-",
@@ -7734,7 +7858,9 @@
       {
        "surface": "7700",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "ななせんななひゃく",
+       "romaji": "nanasennanahyaku"
       }
      ],
      "translation": "Phone number: 03-5791-7700",
@@ -7780,7 +7906,9 @@
       {
        "surface": "03",
        "pos": "noun",
-       "gloss": "area code (Tokyo)"
+       "gloss": "area code (Tokyo)",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": "-",
@@ -7789,7 +7917,9 @@
       {
        "surface": "5798",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "ごせんななひゃくきゅうじゅうはち",
+       "romaji": "gosennanahyakukyuujuuhachi"
       },
       {
        "surface": "-",
@@ -7798,7 +7928,9 @@
       {
        "surface": "6000",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "ろくせん",
+       "romaji": "rokusen"
       }
      ],
      "translation": "Phone number: 03-5798-6000",
@@ -7844,7 +7976,9 @@
       {
        "surface": "03",
        "pos": "noun",
-       "gloss": "area code (Tokyo)"
+       "gloss": "area code (Tokyo)",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": "-",
@@ -7853,7 +7987,9 @@
       {
        "surface": "3586",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "さんぜんごひゃくはちじゅうろく",
+       "romaji": "sanzengohyakuhachijuuroku"
       },
       {
        "surface": "-",
@@ -7862,7 +7998,9 @@
       {
        "surface": "9111",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "きゅうせんひゃくじゅういち",
+       "romaji": "kyuusenhyakujuuichi"
       },
       {
        "surface": "/",
@@ -7871,7 +8009,9 @@
       {
        "surface": "2",
        "pos": "noun",
-       "gloss": "two"
+       "gloss": "two",
+       "reading": "に",
+       "romaji": "ni"
       }
      ],
      "translation": "Phone number: 03-3586-9111/2",
@@ -7917,7 +8057,9 @@
       {
        "surface": "03",
        "pos": "noun",
-       "gloss": "area code (Tokyo)"
+       "gloss": "area code (Tokyo)",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": "-",
@@ -7926,7 +8068,9 @@
       {
        "surface": "3583",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "さんぜんごひゃくはちじゅうさん",
+       "romaji": "sanzengohyakuhachijuusan"
       },
       {
        "surface": "-",
@@ -7935,7 +8079,9 @@
       {
        "surface": "8531",
        "pos": "noun",
-       "gloss": "phone number digits"
+       "gloss": "phone number digits",
+       "reading": "はっせんごひゃくさんじゅういち",
+       "romaji": "hassengohyakusanjuuichi"
       },
       {
        "surface": "/",
@@ -7944,7 +8090,9 @@
       {
        "surface": "2",
        "pos": "noun",
-       "gloss": "two"
+       "gloss": "two",
+       "reading": "に",
+       "romaji": "ni"
       }
      ],
      "translation": "Phone number: 03-3583-8531/2",

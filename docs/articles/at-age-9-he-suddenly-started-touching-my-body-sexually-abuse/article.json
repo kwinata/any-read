@@ -430,7 +430,9 @@
       {
        "surface": "7",
        "pos": "noun",
-       "gloss": "seven"
+       "gloss": "seven",
+       "reading": "なな",
+       "romaji": "nana"
       },
       {
        "surface": "割",
@@ -1030,7 +1032,9 @@
       {
        "surface": "20",
        "pos": "noun",
-       "gloss": "twenty"
+       "gloss": "twenty",
+       "reading": "にじゅう",
+       "romaji": "nijuu"
       },
       {
        "surface": "代",
@@ -1247,7 +1251,9 @@
       {
        "surface": "9",
        "pos": "noun",
-       "gloss": "nine"
+       "gloss": "nine",
+       "reading": "きゅう",
+       "romaji": "kyuu"
       },
       {
        "surface": "歳",
@@ -1331,7 +1337,9 @@
       {
        "surface": "15",
        "pos": "noun",
-       "gloss": "fifteen"
+       "gloss": "fifteen",
+       "reading": "じゅうご",
+       "romaji": "juugo"
       },
       {
        "surface": "歳",
@@ -1917,7 +1925,9 @@
       {
        "surface": "9",
        "pos": "noun",
-       "gloss": "nine"
+       "gloss": "nine",
+       "reading": "きゅう",
+       "romaji": "kyuu"
       },
       {
        "surface": "歳",
@@ -2789,7 +2799,9 @@
       {
        "surface": "15",
        "pos": "noun",
-       "gloss": "fifteen"
+       "gloss": "fifteen",
+       "reading": "じゅうご",
+       "romaji": "juugo"
       },
       {
        "surface": "歳",
@@ -2814,7 +2826,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": "年",

@@ -656,7 +656,9 @@
       {
        "surface": "21",
        "pos": "noun",
-       "gloss": "21 (day of the month)"
+       "gloss": "21 (day of the month)",
+       "reading": "にじゅういち",
+       "romaji": "nijuuichi"
       },
       {
        "surface": "日",
@@ -1084,7 +1086,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one (month)"
+       "gloss": "one (month)",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": "月",
@@ -1293,7 +1297,9 @@
       {
        "surface": "19",
        "pos": "noun",
-       "gloss": "19 (day of the month)"
+       "gloss": "19 (day of the month)",
+       "reading": "じゅうきゅう",
+       "romaji": "juukyuu"
       },
       {
        "surface": "日",
@@ -1551,7 +1557,9 @@
       {
        "surface": "6",
        "pos": "noun",
-       "gloss": "six"
+       "gloss": "six",
+       "reading": "ろく",
+       "romaji": "roku"
       },
       {
        "surface": "時",
@@ -2632,7 +2640,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one (month)"
+       "gloss": "one (month)",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": "週間",
@@ -2990,13 +3000,15 @@
       {
        "surface": "20",
        "pos": "noun",
-       "gloss": "20 (day of the month)"
+       "gloss": "20 (day of the month)",
+       "reading": "はつ",
+       "romaji": "hatsuka"
       },
       {
        "surface": "日",
        "pos": "noun",
-       "reading": "にち",
-       "romaji": "nichi",
+       "reading": "か",
+       "romaji": "",
        "gloss": "day"
       },
       {
@@ -3408,7 +3420,9 @@
       {
        "surface": "18",
        "pos": "noun",
-       "gloss": "18 (day of the month)"
+       "gloss": "18 (day of the month)",
+       "reading": "じゅうはち",
+       "romaji": "juuhachi"
       },
       {
        "surface": "日",

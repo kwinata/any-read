@@ -821,7 +821,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": "記事",
@@ -833,7 +835,9 @@
       {
        "surface": "100",
        "pos": "noun",
-       "gloss": "hundred"
+       "gloss": "hundred",
+       "reading": "ひゃく",
+       "romaji": "hyaku"
       },
       {
        "surface": "円",
@@ -1085,7 +1089,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": ".",
@@ -1321,7 +1327,9 @@
       {
        "surface": "2",
        "pos": "noun",
-       "gloss": "two"
+       "gloss": "two",
+       "reading": "に",
+       "romaji": "ni"
       },
       {
        "surface": ".",
@@ -1710,7 +1718,9 @@
       {
        "surface": "3",
        "pos": "noun",
-       "gloss": "three"
+       "gloss": "three",
+       "reading": "さん",
+       "romaji": "san"
       },
       {
        "surface": ".",
@@ -2143,7 +2153,9 @@
       {
        "surface": "2020",
        "pos": "noun",
-       "gloss": "year 2020"
+       "gloss": "year 2020",
+       "reading": "にせんにじゅう",
+       "romaji": "nisennijuu"
       },
       {
        "surface": "年",
@@ -2154,7 +2166,9 @@
       },
       {
        "surface": "7",
-       "pos": "noun"
+       "pos": "noun",
+       "reading": "しち",
+       "romaji": "shichi"
       },
       {
        "surface": "月",
@@ -2208,7 +2222,9 @@
       {
        "surface": "50",
        "pos": "noun",
-       "gloss": "fifty"
+       "gloss": "fifty",
+       "reading": "ごじゅう",
+       "romaji": "gojuu"
       },
       {
        "surface": "記事",
@@ -2525,7 +2541,9 @@
       },
       {
        "surface": "7",
-       "pos": "noun"
+       "pos": "noun",
+       "reading": "なな",
+       "romaji": "nana"
       },
       {
        "surface": "つ",

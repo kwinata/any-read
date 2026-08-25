@@ -1728,7 +1728,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": "時間",
@@ -1740,7 +1742,9 @@
       {
        "surface": "35",
        "pos": "noun",
-       "gloss": "thirty-five"
+       "gloss": "thirty-five",
+       "reading": "さんじゅうご",
+       "romaji": "sanjuugo"
       },
       {
        "surface": "分",
@@ -1819,7 +1823,9 @@
       {
        "surface": "2",
        "pos": "noun",
-       "gloss": "two"
+       "gloss": "two",
+       "reading": "に",
+       "romaji": "ni"
       },
       {
        "surface": "時間",
@@ -2076,7 +2082,9 @@
       {
        "surface": "55",
        "pos": "noun",
-       "gloss": "fifty-five"
+       "gloss": "fifty-five",
+       "reading": "ごじゅうご",
+       "romaji": "gojuugo"
       },
       {
        "surface": "分",
@@ -2382,7 +2390,9 @@
       {
        "surface": "7",
        "pos": "noun",
-       "gloss": "seven"
+       "gloss": "seven",
+       "reading": "なな",
+       "romaji": "nana"
       },
       {
        "surface": "時間",
@@ -2394,13 +2404,15 @@
       {
        "surface": "30",
        "pos": "noun",
-       "gloss": "thirty"
+       "gloss": "thirty",
+       "reading": "さんじゅっ",
+       "romaji": "sanjup"
       },
       {
        "surface": "分",
        "pos": "noun",
-       "reading": "ふん",
-       "romaji": "fun",
+       "reading": "ぷん",
+       "romaji": "pun",
        "gloss": "minute(s)"
       },
       {
@@ -2780,7 +2792,9 @@
       {
        "surface": "5",
        "pos": "noun",
-       "gloss": "five"
+       "gloss": "five",
+       "reading": "ご",
+       "romaji": "go"
       },
       {
        "surface": "時間",
@@ -3221,7 +3235,9 @@
       {
        "surface": "11",
        "pos": "noun",
-       "gloss": "eleven"
+       "gloss": "eleven",
+       "reading": "じゅういち",
+       "romaji": "juuichi"
       },
       {
        "surface": "時間",
@@ -3233,13 +3249,15 @@
       {
        "surface": "50",
        "pos": "noun",
-       "gloss": "fifty"
+       "gloss": "fifty",
+       "reading": "ごじゅっ",
+       "romaji": "gojup"
       },
       {
        "surface": "分",
        "pos": "noun",
-       "reading": "ふん",
-       "romaji": "fun",
+       "reading": "ぷん",
+       "romaji": "pun",
        "gloss": "minute(s)"
       },
       {
@@ -3546,7 +3564,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": "時間",
@@ -3881,7 +3901,9 @@
       {
        "surface": "180",
        "pos": "noun",
-       "gloss": "one hundred eighty"
+       "gloss": "one hundred eighty",
+       "reading": "ひゃくはちじゅう",
+       "romaji": "hyakuhachijuu"
       },
       {
        "surface": "㎡",
@@ -3940,7 +3962,9 @@
       {
        "surface": "270",
        "pos": "noun",
-       "gloss": "two hundred seventy"
+       "gloss": "two hundred seventy",
+       "reading": "にひゃくななじゅう",
+       "romaji": "nihyakunanajuu"
       },
       {
        "surface": "㎡",
@@ -4018,7 +4042,9 @@
       {
        "surface": "1243",
        "pos": "noun",
-       "gloss": "address number 1243"
+       "gloss": "address number 1243",
+       "reading": "せんにひゃくよんじゅうさん",
+       "romaji": "sennihyakuyonjuusan"
       }
      ],
      "translation": "Address: 1243 Kawaminami, Yufuin-cho, Yufu City, Oita Prefecture",
@@ -4053,7 +4079,9 @@
       {
        "surface": "700",
        "pos": "noun",
-       "gloss": "seven hundred"
+       "gloss": "seven hundred",
+       "reading": "ななひゃく",
+       "romaji": "nanahyaku"
       },
       {
        "surface": "円",
@@ -4069,7 +4097,9 @@
       {
        "surface": "5",
        "pos": "noun",
-       "gloss": "five"
+       "gloss": "five",
+       "reading": "ご",
+       "romaji": "go"
       },
       {
        "surface": "〜",
@@ -4078,7 +4108,9 @@
       {
        "surface": "12",
        "pos": "noun",
-       "gloss": "twelve"
+       "gloss": "twelve",
+       "reading": "じゅうに",
+       "romaji": "juuni"
       },
       {
        "surface": "歳",
@@ -4090,7 +4122,9 @@
       {
        "surface": "600",
        "pos": "noun",
-       "gloss": "six hundred"
+       "gloss": "six hundred",
+       "reading": "ろっぴゃく",
+       "romaji": "roppyaku"
       },
       {
        "surface": "円",
@@ -4106,7 +4140,9 @@
       {
        "surface": "5",
        "pos": "noun",
-       "gloss": "five"
+       "gloss": "five",
+       "reading": "ご",
+       "romaji": "go"
       },
       {
        "surface": "歳",
@@ -4175,7 +4211,9 @@
       {
        "surface": "10",
        "pos": "noun",
-       "gloss": "ten"
+       "gloss": "ten",
+       "reading": "じゅう",
+       "romaji": "juu"
       },
       {
        "surface": "：",
@@ -4184,7 +4222,9 @@
       {
        "surface": "00",
        "pos": "noun",
-       "gloss": "zero zero (time notation)"
+       "gloss": "zero zero (time notation)",
+       "reading": "ゼロ",
+       "romaji": "zero"
       },
       {
        "surface": "〜",
@@ -4193,7 +4233,9 @@
       {
        "surface": "15",
        "pos": "noun",
-       "gloss": "fifteen"
+       "gloss": "fifteen",
+       "reading": "じゅうご",
+       "romaji": "juugo"
       },
       {
        "surface": "：",
@@ -4202,7 +4244,9 @@
       {
        "surface": "30",
        "pos": "noun",
-       "gloss": "thirty"
+       "gloss": "thirty",
+       "reading": "さんじゅう",
+       "romaji": "sanjuu"
       }
      ],
      "translation": "Business hours: 10:00-15:30",
@@ -4300,7 +4344,9 @@
       {
        "surface": "1911",
        "pos": "noun",
-       "gloss": "nineteen eleven"
+       "gloss": "nineteen eleven",
+       "reading": "せんきゅうひゃくじゅういち",
+       "romaji": "senkyuuhyakujuuichi"
       },
       {
        "surface": "年",
@@ -4407,13 +4453,15 @@
       {
        "surface": "8",
        "pos": "noun",
-       "gloss": "eight"
+       "gloss": "eight",
+       "reading": "はっ",
+       "romaji": "hap"
       },
       {
        "surface": "分",
        "pos": "noun",
-       "reading": "ふん",
-       "romaji": "fun",
+       "reading": "ぷん",
+       "romaji": "pun",
        "gloss": "minute(s)"
       },
       {
@@ -4631,7 +4679,9 @@
       {
        "surface": "108",
        "pos": "noun",
-       "gloss": "address number 108"
+       "gloss": "address number 108",
+       "reading": "ひゃくはち",
+       "romaji": "hyakuhachi"
       },
       {
        "surface": "-",
@@ -4640,7 +4690,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       }
      ],
      "translation": "Address: 108-1 Kawaminami, Yufuin-cho, Yufu City, Oita Prefecture",
@@ -4675,7 +4727,9 @@
       {
        "surface": "700",
        "pos": "noun",
-       "gloss": "seven hundred"
+       "gloss": "seven hundred",
+       "reading": "ななひゃく",
+       "romaji": "nanahyaku"
       },
       {
        "surface": "円",
@@ -4691,7 +4745,9 @@
       {
        "surface": "4",
        "pos": "noun",
-       "gloss": "four"
+       "gloss": "four",
+       "reading": "よん",
+       "romaji": "yon"
       },
       {
        "surface": "～",
@@ -4700,7 +4756,9 @@
       {
        "surface": "12",
        "pos": "noun",
-       "gloss": "twelve"
+       "gloss": "twelve",
+       "reading": "じゅうに",
+       "romaji": "juuni"
       },
       {
        "surface": "歳",
@@ -4712,7 +4770,9 @@
       {
        "surface": "400",
        "pos": "noun",
-       "gloss": "four hundred"
+       "gloss": "four hundred",
+       "reading": "よんひゃく",
+       "romaji": "yonhyaku"
       },
       {
        "surface": "円",
@@ -4742,7 +4802,9 @@
       {
        "surface": "12",
        "pos": "noun",
-       "gloss": "twelve"
+       "gloss": "twelve",
+       "reading": "じゅうに",
+       "romaji": "juuni"
       },
       {
        "surface": "：",
@@ -4751,7 +4813,9 @@
       {
        "surface": "00",
        "pos": "noun",
-       "gloss": "zero zero (time notation)"
+       "gloss": "zero zero (time notation)",
+       "reading": "ゼロ",
+       "romaji": "zero"
       },
       {
        "surface": "～",
@@ -4760,7 +4824,9 @@
       {
        "surface": "16",
        "pos": "noun",
-       "gloss": "sixteen"
+       "gloss": "sixteen",
+       "reading": "じゅうろく",
+       "romaji": "juuroku"
       },
       {
        "surface": "：",
@@ -4769,7 +4835,9 @@
       {
        "surface": "00",
        "pos": "noun",
-       "gloss": "zero zero (time notation)"
+       "gloss": "zero zero (time notation)",
+       "reading": "ゼロ",
+       "romaji": "zero"
       }
      ],
      "translation": "Bathing fee: Adults 700 yen, ages 4-12 400 yen. Business hours: 12:00-16:00",
@@ -5091,7 +5159,9 @@
       {
        "surface": "1946",
        "pos": "noun",
-       "gloss": "address number 1946"
+       "gloss": "address number 1946",
+       "reading": "せんきゅうひゃくよんじゅうろく",
+       "romaji": "senkyuuhyakuyonjuuroku"
       },
       {
        "surface": "－",
@@ -5100,7 +5170,9 @@
       {
        "surface": "25",
        "pos": "noun",
-       "gloss": "twenty-five"
+       "gloss": "twenty-five",
+       "reading": "にじゅうご",
+       "romaji": "nijuugo"
       }
      ],
      "translation": "Address: 1946-25 Kawakami, Yufuin-cho, Yufu City, Oita Prefecture",
@@ -5135,7 +5207,9 @@
       {
        "surface": "600",
        "pos": "noun",
-       "gloss": "six hundred"
+       "gloss": "six hundred",
+       "reading": "ろっぴゃく",
+       "romaji": "roppyaku"
       },
       {
        "surface": "円",
@@ -5158,7 +5232,9 @@
       {
        "surface": "300",
        "pos": "noun",
-       "gloss": "three hundred"
+       "gloss": "three hundred",
+       "reading": "さんびゃく",
+       "romaji": "sanbyaku"
       },
       {
        "surface": "円",
@@ -5188,7 +5264,9 @@
       {
        "surface": "12",
        "pos": "noun",
-       "gloss": "twelve"
+       "gloss": "twelve",
+       "reading": "じゅうに",
+       "romaji": "juuni"
       },
       {
        "surface": "：",
@@ -5197,7 +5275,9 @@
       {
        "surface": "00",
        "pos": "noun",
-       "gloss": "zero zero (time notation)"
+       "gloss": "zero zero (time notation)",
+       "reading": "ゼロ",
+       "romaji": "zero"
       },
       {
        "surface": "～",
@@ -5206,7 +5286,9 @@
       {
        "surface": "18",
        "pos": "noun",
-       "gloss": "eighteen"
+       "gloss": "eighteen",
+       "reading": "じゅうはち",
+       "romaji": "juuhachi"
       },
       {
        "surface": "：",
@@ -5215,7 +5297,9 @@
       {
        "surface": "00",
        "pos": "noun",
-       "gloss": "zero zero (time notation)"
+       "gloss": "zero zero (time notation)",
+       "reading": "ゼロ",
+       "romaji": "zero"
       }
      ],
      "translation": "Bathing fee: Adults 600 yen, children 300 yen. Business hours: 12:00-18:00",
@@ -5569,7 +5653,9 @@
       {
        "surface": "2863",
        "pos": "noun",
-       "gloss": "address number 2863"
+       "gloss": "address number 2863",
+       "reading": "にせんはっぴゃくろくじゅうさん",
+       "romaji": "nisenhappyakurokujuusan"
       }
      ],
      "translation": "Address: 2863 Kawakami, Yufuin-cho, Yufu City, Oita Prefecture",
@@ -5611,7 +5697,9 @@
       {
        "surface": "820",
        "pos": "noun",
-       "gloss": "eight hundred twenty"
+       "gloss": "eight hundred twenty",
+       "reading": "はっぴゃくにじゅう",
+       "romaji": "happyakunijuu"
       },
       {
        "surface": "円",
@@ -5634,7 +5722,9 @@
       {
        "surface": "610",
        "pos": "noun",
-       "gloss": "six hundred ten"
+       "gloss": "six hundred ten",
+       "reading": "ろっぴゃくじゅう",
+       "romaji": "roppyakujuu"
       },
       {
        "surface": "円",
@@ -5664,7 +5754,9 @@
       {
        "surface": "10",
        "pos": "noun",
-       "gloss": "ten"
+       "gloss": "ten",
+       "reading": "じゅう",
+       "romaji": "juu"
       },
       {
        "surface": "：",
@@ -5673,7 +5765,9 @@
       {
        "surface": "00",
        "pos": "noun",
-       "gloss": "zero zero (time notation)"
+       "gloss": "zero zero (time notation)",
+       "reading": "ゼロ",
+       "romaji": "zero"
       },
       {
        "surface": "～",
@@ -5682,7 +5776,9 @@
       {
        "surface": "21",
        "pos": "noun",
-       "gloss": "twenty-one"
+       "gloss": "twenty-one",
+       "reading": "にじゅういち",
+       "romaji": "nijuuichi"
       },
       {
        "surface": "：",
@@ -5691,7 +5787,9 @@
       {
        "surface": "30",
        "pos": "noun",
-       "gloss": "thirty"
+       "gloss": "thirty",
+       "reading": "さんじゅう",
+       "romaji": "sanjuu"
       }
      ],
      "translation": "Bathing fee: Adults 820 yen, children 610 yen. Business hours: 10:00-21:30",
@@ -5795,7 +5893,9 @@
       {
        "surface": "4424",
        "pos": "noun",
-       "gloss": "ID number (part of URL)"
+       "gloss": "ID number (part of URL)",
+       "reading": "よんせんよんひゃくにじゅうよん",
+       "romaji": "yonsenyonhyakunijuuyon"
       }
      ],
      "translation": "Official website: https://www.visit-oita.jp/spots/detail/4424",
@@ -5896,7 +5996,9 @@
       {
        "surface": "1921",
        "pos": "noun",
-       "gloss": "nineteen twenty-one"
+       "gloss": "nineteen twenty-one",
+       "reading": "せんきゅうひゃくにじゅういち",
+       "romaji": "senkyuuhyakunijuuichi"
       },
       {
        "surface": "年",
@@ -6363,7 +6465,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "ひと",
+       "romaji": "hito"
       },
       {
        "surface": "つ",
@@ -6428,7 +6532,9 @@
       {
        "surface": "2633",
        "pos": "noun",
-       "gloss": "address number 2633"
+       "gloss": "address number 2633",
+       "reading": "にせんろっぴゃくさんじゅうさん",
+       "romaji": "nisenroppyakusanjuusan"
       },
       {
        "surface": "-",
@@ -6437,7 +6543,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       }
      ],
      "translation": "Address: 2633-1 Kawakami, Yufuin-cho, Yufu City, Oita Prefecture",
@@ -7135,7 +7243,9 @@
       {
        "surface": "2106",
        "pos": "noun",
-       "gloss": "address number 2106"
+       "gloss": "address number 2106",
+       "reading": "にせんひゃくろく",
+       "romaji": "nisenhyakuroku"
       },
       {
        "surface": "-",
@@ -7144,7 +7254,9 @@
       {
        "surface": "2",
        "pos": "noun",
-       "gloss": "two"
+       "gloss": "two",
+       "reading": "に",
+       "romaji": "ni"
       }
      ],
      "translation": "Address: 2106-2 Kawakami, Yufuin-cho, Yufu City, Oita Prefecture",
@@ -7487,7 +7599,9 @@
       {
        "surface": "1270",
        "pos": "noun",
-       "gloss": "address number 1270"
+       "gloss": "address number 1270",
+       "reading": "せんにひゃくななじゅう",
+       "romaji": "sennihyakunanajuu"
       },
       {
        "surface": "－",
@@ -7496,7 +7610,9 @@
       {
        "surface": "48",
        "pos": "noun",
-       "gloss": "forty-eight"
+       "gloss": "forty-eight",
+       "reading": "よんじゅうはち",
+       "romaji": "yonjuuhachi"
       }
      ],
      "translation": "Address: 1270-48 Kawakami, Yufuin-cho, Yufu City, Oita Prefecture",
@@ -7790,7 +7906,9 @@
       {
        "surface": "5",
        "pos": "noun",
-       "gloss": "five"
+       "gloss": "five",
+       "reading": "ご",
+       "romaji": "go"
       },
       {
        "surface": "分",
@@ -8037,7 +8155,9 @@
       {
        "surface": "25",
        "pos": "noun",
-       "gloss": "twenty-five"
+       "gloss": "twenty-five",
+       "reading": "にじゅうご",
+       "romaji": "nijuugo"
       },
       {
        "surface": "分",
@@ -8221,7 +8341,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": "年",
@@ -9182,7 +9304,9 @@
       {
        "surface": "2024",
        "pos": "noun",
-       "gloss": "two thousand twenty-four"
+       "gloss": "two thousand twenty-four",
+       "reading": "にせんにじゅうよ",
+       "romaji": "nisennijuuyo"
       },
       {
        "surface": "年",
@@ -9194,7 +9318,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": "月",

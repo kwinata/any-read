@@ -31,7 +31,9 @@
       {
        "surface": "6",
        "pos": "noun",
-       "gloss": "six"
+       "gloss": "six",
+       "reading": "ろく",
+       "romaji": "roku"
       },
       {
        "surface": "月",
@@ -341,7 +343,9 @@
       {
        "surface": "10",
        "pos": "noun",
-       "gloss": "ten"
+       "gloss": "ten",
+       "reading": "じゅう",
+       "romaji": "juu"
       },
       {
        "surface": "月",
@@ -927,7 +931,9 @@
       {
        "surface": "6",
        "pos": "noun",
-       "gloss": "six"
+       "gloss": "six",
+       "reading": "ろく",
+       "romaji": "roku"
       },
       {
        "surface": "月",
@@ -1018,7 +1024,9 @@
       {
        "surface": "60",
        "pos": "noun",
-       "gloss": "sixty"
+       "gloss": "sixty",
+       "reading": "ろくじゅう",
+       "romaji": "rokujuu"
       },
       {
        "surface": "）",
@@ -1037,7 +1045,9 @@
       {
        "surface": "110",
        "pos": "noun",
-       "gloss": "110 (emergency police number)"
+       "gloss": "110 (emergency police number)",
+       "reading": "ひゃくじゅう",
+       "romaji": "hyakujuu"
       },
       {
        "surface": "番",
@@ -1205,7 +1215,9 @@
       {
        "surface": "63",
        "pos": "noun",
-       "gloss": "sixty-three"
+       "gloss": "sixty-three",
+       "reading": "ろくじゅうさん",
+       "romaji": "rokujuusan"
       },
       {
        "surface": "）",
@@ -1438,7 +1450,9 @@
       {
        "surface": "90",
        "pos": "noun",
-       "gloss": "ninety"
+       "gloss": "ninety",
+       "reading": "きゅうじゅう",
+       "romaji": "kyuujuu"
       },
       {
        "surface": "代",
@@ -1727,7 +1741,9 @@
       {
        "surface": "110",
        "pos": "noun",
-       "gloss": "110 (emergency police number)"
+       "gloss": "110 (emergency police number)",
+       "reading": "ひゃくじゅう",
+       "romaji": "hyakujuu"
       },
       {
        "surface": "番",
@@ -2129,7 +2145,9 @@
       {
        "surface": "58",
        "pos": "noun",
-       "gloss": "fifty-eight"
+       "gloss": "fifty-eight",
+       "reading": "ごじゅうはち",
+       "romaji": "gojuuhachi"
       },
       {
        "surface": "）",
@@ -2751,7 +2769,9 @@
       {
        "surface": "6",
        "pos": "noun",
-       "gloss": "six"
+       "gloss": "six",
+       "reading": "ろく",
+       "romaji": "roku"
       },
       {
        "surface": "年",
@@ -2763,7 +2783,9 @@
       {
        "surface": "11",
        "pos": "noun",
-       "gloss": "eleven"
+       "gloss": "eleven",
+       "reading": "じゅういち",
+       "romaji": "juuichi"
       },
       {
        "surface": "～",
@@ -2772,7 +2794,9 @@
       {
        "surface": "12",
        "pos": "noun",
-       "gloss": "twelve"
+       "gloss": "twelve",
+       "reading": "じゅうに",
+       "romaji": "juuni"
       },
       {
        "surface": "月",
@@ -2895,7 +2919,9 @@
       {
        "surface": "1",
        "pos": "noun",
-       "gloss": "one"
+       "gloss": "one",
+       "reading": "いち",
+       "romaji": "ichi"
       },
       {
        "surface": "年間",

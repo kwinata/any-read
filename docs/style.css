@@ -273,6 +273,18 @@ body {
   }
   .vcat { scroll-margin-top: calc(60px + env(safe-area-inset-top)); }
 }
+.vsearch {
+  width: 100%;
+  margin-top: 10px;
+  padding: 9px 12px;
+  font-size: 16px;
+  color: var(--text);
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  outline: none;
+}
+.vsearch:focus { border-color: var(--accent); }
 .vitem { border-bottom: 1px solid var(--border); padding: 2px 0 6px; }
 .vrow {
   display: flex; justify-content: space-between; align-items: center; gap: 12px;
