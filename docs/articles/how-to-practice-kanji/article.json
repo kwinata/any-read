@@ -1,0 +1,1571 @@
+{
+ "schemaVersion": 1,
+ "id": "how-to-practice-kanji",
+ "language": "ja",
+ "title": "漢字の練習の仕方",
+ "titleTranslation": "How to Practice Kanji",
+ "titleTranslationId": "Cara Berlatih Kanji",
+ "level": "N5",
+ "summary": "The article describes several methods Japanese students use to memorize kanji, such as writing repeatedly, reading aloud, using apps and quizzes, or flashcards, while stressing that daily practice with a method one enjoys is key.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T18:02:08+00:00",
+ "audioFile": "audio-2ed0c778.mp3",
+ "voice": "ja-JP-KeitaNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "日本語には漢字がたくさんあります。",
+     "tokens": [
+      {
+       "surface": "日本語",
+       "pos": "noun",
+       "reading": "にほんご",
+       "romaji": "nihongo",
+       "gloss": "Japanese language",
+       "glossId": "bahasa Jepang"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: in/at (location)",
+       "glossId": "partikel: di/pada (lokasi)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "漢字",
+       "pos": "noun",
+       "reading": "かんじ",
+       "romaji": "kanji",
+       "gloss": "kanji (Chinese characters)",
+       "glossId": "kanji (aksara Tionghoa)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are many kanji in Japanese.",
+     "translationId": "Dalam bahasa Jepang ada banyak kanji.",
+     "audioStart": 0.0,
+     "audioEnd": 3.456
+    },
+    {
+     "text": "学校の学生は毎日漢字を勉強します。",
+     "tokens": [
+      {
+       "surface": "学校",
+       "pos": "noun",
+       "reading": "がっこう",
+       "romaji": "gakkou",
+       "gloss": "school",
+       "glossId": "sekolah"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "学生",
+       "pos": "noun",
+       "reading": "がくせい",
+       "romaji": "gakusei",
+       "gloss": "student",
+       "glossId": "siswa, pelajar"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "毎日",
+       "pos": "noun",
+       "reading": "まいにち",
+       "romaji": "mainichi",
+       "gloss": "every day",
+       "glossId": "setiap hari"
+      },
+      {
+       "surface": "漢字",
+       "pos": "noun",
+       "reading": "かんじ",
+       "romaji": "kanji",
+       "gloss": "kanji (Chinese characters)",
+       "glossId": "kanji (aksara Tionghoa)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "勉強",
+       "pos": "noun",
+       "reading": "べんきょう",
+       "romaji": "benkyou",
+       "gloss": "study",
+       "glossId": "belajar"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Students at school study kanji every day.",
+     "translationId": "Siswa di sekolah belajar kanji setiap hari.",
+     "audioStart": 3.456,
+     "audioEnd": 7.968
+    },
+    {
+     "text": "新しい漢字を勉強するとき、まず読み方を覚えます。",
+     "tokens": [
+      {
+       "surface": "新しい",
+       "pos": "adjective",
+       "reading": "あたらしい",
+       "romaji": "atarashii",
+       "gloss": "new",
+       "glossId": "baru"
+      },
+      {
+       "surface": "漢字",
+       "pos": "noun",
+       "reading": "かんじ",
+       "romaji": "kanji",
+       "gloss": "kanji (Chinese characters)",
+       "glossId": "kanji (aksara Tionghoa)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "勉強",
+       "pos": "noun",
+       "reading": "べんきょう",
+       "romaji": "benkyou",
+       "gloss": "study",
+       "glossId": "belajar"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "when, time",
+       "glossId": "saat, waktu"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "まず",
+       "pos": "adverb",
+       "romaji": "mazu",
+       "gloss": "first, firstly",
+       "glossId": "pertama-tama"
+      },
+      {
+       "surface": "読み方",
+       "pos": "noun",
+       "reading": "よみかた",
+       "romaji": "yomikata",
+       "gloss": "how to read",
+       "glossId": "cara membaca"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "覚え",
+       "pos": "verb",
+       "reading": "おぼえ",
+       "romaji": "oboe",
+       "lemma": "覚える",
+       "gloss": "to memorize, learn",
+       "glossId": "menghafal, mengingat"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When learning a new kanji, they first memorize how to read it.",
+     "translationId": "Saat mempelajari kanji baru, mereka pertama-tama menghafal cara membacanya.",
+     "audioStart": 7.968,
+     "audioEnd": 13.392
+    },
+    {
+     "text": "それから、書き方も覚えます。",
+     "tokens": [
+      {
+       "surface": "それ",
+       "pos": "pronoun",
+       "romaji": "sore",
+       "gloss": "that",
+       "glossId": "itu"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from, after that",
+       "glossId": "dari, setelah itu"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "書き方",
+       "pos": "noun",
+       "reading": "かきかた",
+       "romaji": "kakikata",
+       "gloss": "how to write",
+       "glossId": "cara menulis"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "覚え",
+       "pos": "verb",
+       "reading": "おぼえ",
+       "romaji": "oboe",
+       "lemma": "覚える",
+       "gloss": "to memorize, learn",
+       "glossId": "menghafal, mengingat"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Then, they also learn how to write it.",
+     "translationId": "Setelah itu, mereka juga menghafal cara menulisnya.",
+     "audioStart": 13.392,
+     "audioEnd": 16.872
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "多くの学生はノートに漢字を何回も書きます。",
+     "tokens": [
+      {
+       "surface": "多く",
+       "pos": "noun",
+       "reading": "おおく",
+       "romaji": "ooku",
+       "gloss": "many, a lot of",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "学生",
+       "pos": "noun",
+       "reading": "がくせい",
+       "romaji": "gakusei",
+       "gloss": "student",
+       "glossId": "siswa, pelajar"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "ノート",
+       "pos": "noun",
+       "romaji": "nooto",
+       "gloss": "notebook",
+       "glossId": "buku catatan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: in/at (location)",
+       "glossId": "partikel: di/pada (lokasi)"
+      },
+      {
+       "surface": "漢字",
+       "pos": "noun",
+       "reading": "かんじ",
+       "romaji": "kanji",
+       "gloss": "kanji (Chinese characters)",
+       "glossId": "kanji (aksara Tionghoa)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "何回",
+       "pos": "noun",
+       "reading": "なんかい",
+       "romaji": "nankai",
+       "gloss": "how many times",
+       "glossId": "berapa kali"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "書き",
+       "pos": "verb",
+       "reading": "かき",
+       "romaji": "kaki",
+       "lemma": "書く",
+       "gloss": "to write",
+       "glossId": "menulis"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many students write kanji many times in their notebooks.",
+     "translationId": "Banyak siswa menulis kanji berulang kali di buku catatan.",
+     "audioStart": 16.872,
+     "audioEnd": 21.456
+    },
+    {
+     "text": "一つの漢字を十回ぐらい書く人もいます。",
+     "tokens": [
+      {
+       "surface": "一",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "one",
+       "glossId": "satu"
+      },
+      {
+       "surface": "つ",
+       "pos": "suffix",
+       "romaji": "tsu",
+       "gloss": "counter for objects",
+       "glossId": "kata bantu bilangan untuk benda"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "漢字",
+       "pos": "noun",
+       "reading": "かんじ",
+       "romaji": "kanji",
+       "gloss": "kanji (Chinese characters)",
+       "glossId": "kanji (aksara Tionghoa)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "十",
+       "pos": "noun",
+       "reading": "じゅう",
+       "romaji": "juu",
+       "gloss": "ten",
+       "glossId": "sepuluh"
+      },
+      {
+       "surface": "回",
+       "pos": "noun",
+       "reading": "かい",
+       "romaji": "kai",
+       "gloss": "counter for times/occurrences",
+       "glossId": "kata bantu bilangan untuk kali/frekuensi"
+      },
+      {
+       "surface": "ぐらい",
+       "pos": "particle",
+       "romaji": "gurai",
+       "gloss": "about, approximately",
+       "glossId": "sekitar, kira-kira"
+      },
+      {
+       "surface": "書く",
+       "pos": "verb",
+       "reading": "かく",
+       "romaji": "kaku",
+       "gloss": "to write",
+       "glossId": "menulis"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (animate)",
+       "glossId": "ada (makhluk hidup)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Some people write a single kanji about ten times.",
+     "translationId": "Ada yang menulis satu kanji sekitar sepuluh kali.",
+     "audioStart": 21.456,
+     "audioEnd": 25.392
+    },
+    {
+     "text": "手で書くと、漢字を覚えやすいです。",
+     "tokens": [
+      {
+       "surface": "手",
+       "pos": "noun",
+       "reading": "て",
+       "romaji": "te",
+       "gloss": "hand",
+       "glossId": "tangan"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: by means of/with",
+       "glossId": "partikel: dengan/menggunakan"
+      },
+      {
+       "surface": "書く",
+       "pos": "verb",
+       "reading": "かく",
+       "romaji": "kaku",
+       "gloss": "to write",
+       "glossId": "menulis"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: if/when, and, quotation",
+       "glossId": "partikel: jika/kalau, dan, kutipan"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "漢字",
+       "pos": "noun",
+       "reading": "かんじ",
+       "romaji": "kanji",
+       "gloss": "kanji (Chinese characters)",
+       "glossId": "kanji (aksara Tionghoa)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "覚え",
+       "pos": "verb",
+       "reading": "おぼえ",
+       "romaji": "oboe",
+       "lemma": "覚える",
+       "gloss": "to memorize, learn",
+       "glossId": "menghafal, mengingat"
+      },
+      {
+       "surface": "やすい",
+       "pos": "suffix",
+       "romaji": "yasui",
+       "gloss": "easy to (do)",
+       "glossId": "mudah untuk (dilakukan)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Writing by hand makes kanji easier to remember.",
+     "translationId": "Menulis dengan tangan membuat kanji lebih mudah diingat.",
+     "audioStart": 25.392,
+     "audioEnd": 29.232
+    },
+    {
+     "text": "声に出して読む人もいます。",
+     "tokens": [
+      {
+       "surface": "声",
+       "pos": "noun",
+       "reading": "こえ",
+       "romaji": "koe",
+       "gloss": "voice",
+       "glossId": "suara"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: in/at (location)",
+       "glossId": "partikel: di/pada (lokasi)"
+      },
+      {
+       "surface": "出し",
+       "pos": "verb",
+       "reading": "だし",
+       "romaji": "dashi",
+       "lemma": "出す",
+       "gloss": "to put out, take out",
+       "glossId": "mengeluarkan"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connective particle",
+       "glossId": "partikel penghubung bentuk te"
+      },
+      {
+       "surface": "読む",
+       "pos": "verb",
+       "reading": "よむ",
+       "romaji": "yomu",
+       "gloss": "to read",
+       "glossId": "membaca"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (animate)",
+       "glossId": "ada (makhluk hidup)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Some people read them out loud.",
+     "translationId": "Ada juga yang membacanya dengan bersuara keras.",
+     "audioStart": 29.232,
+     "audioEnd": 32.064
+    },
+    {
+     "text": "読みながら書くと、もっと覚えられます。",
+     "tokens": [
+      {
+       "surface": "読み",
+       "pos": "verb",
+       "reading": "よみ",
+       "romaji": "yomi",
+       "lemma": "読む",
+       "gloss": "to read",
+       "glossId": "membaca"
+      },
+      {
+       "surface": "ながら",
+       "pos": "particle",
+       "romaji": "nagara",
+       "gloss": "while (doing)",
+       "glossId": "sambil (melakukan)"
+      },
+      {
+       "surface": "書く",
+       "pos": "verb",
+       "reading": "かく",
+       "romaji": "kaku",
+       "gloss": "to write",
+       "glossId": "menulis"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: if/when, and, quotation",
+       "glossId": "partikel: jika/kalau, dan, kutipan"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "もっと",
+       "pos": "adverb",
+       "romaji": "motto",
+       "gloss": "more",
+       "glossId": "lebih"
+      },
+      {
+       "surface": "覚え",
+       "pos": "verb",
+       "reading": "おぼえ",
+       "romaji": "oboe",
+       "lemma": "覚える",
+       "gloss": "to memorize, learn",
+       "glossId": "menghafal, mengingat"
+      },
+      {
+       "surface": "られ",
+       "pos": "auxiliary",
+       "romaji": "rare",
+       "lemma": "られる",
+       "gloss": "potential auxiliary: can be ~ed",
+       "glossId": "bentuk potensial: dapat di-"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Reading while writing helps you remember even more.",
+     "translationId": "Menulis sambil membaca membuat kita lebih mudah mengingatnya.",
+     "audioStart": 32.064,
+     "audioEnd": 36.024
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "最近はアプリやパソコンで勉強する学生も多いです。",
+     "tokens": [
+      {
+       "surface": "最近",
+       "pos": "noun",
+       "reading": "さいきん",
+       "romaji": "saikin",
+       "gloss": "recently",
+       "glossId": "belakangan ini, akhir-akhir ini"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "アプリ",
+       "pos": "noun",
+       "romaji": "apuri",
+       "gloss": "app",
+       "glossId": "aplikasi"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and/or (non-exhaustive listing)",
+       "glossId": "dan/atau (daftar tidak lengkap)"
+      },
+      {
+       "surface": "パソコン",
+       "pos": "noun",
+       "romaji": "pasokon",
+       "gloss": "personal computer",
+       "glossId": "komputer pribadi"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: by means of/with",
+       "glossId": "partikel: dengan/menggunakan"
+      },
+      {
+       "surface": "勉強",
+       "pos": "noun",
+       "reading": "べんきょう",
+       "romaji": "benkyou",
+       "gloss": "study",
+       "glossId": "belajar"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "学生",
+       "pos": "noun",
+       "reading": "がくせい",
+       "romaji": "gakusei",
+       "gloss": "student",
+       "glossId": "siswa, pelajar"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "多い",
+       "pos": "adjective",
+       "reading": "おおい",
+       "romaji": "ooi",
+       "gloss": "many, numerous",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Recently, many students also study using apps or computers.",
+     "translationId": "Belakangan ini, banyak juga siswa yang belajar menggunakan aplikasi atau komputer.",
+     "audioStart": 36.024,
+     "audioEnd": 40.872
+    },
+    {
+     "text": "スマホのアプリで漢字のクイズをします。",
+     "tokens": [
+      {
+       "surface": "スマホ",
+       "pos": "noun",
+       "romaji": "sumaho",
+       "gloss": "smartphone",
+       "glossId": "ponsel pintar"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "アプリ",
+       "pos": "noun",
+       "romaji": "apuri",
+       "gloss": "app",
+       "glossId": "aplikasi"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: by means of/with",
+       "glossId": "partikel: dengan/menggunakan"
+      },
+      {
+       "surface": "漢字",
+       "pos": "noun",
+       "reading": "かんじ",
+       "romaji": "kanji",
+       "gloss": "kanji (Chinese characters)",
+       "glossId": "kanji (aksara Tionghoa)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "クイズ",
+       "pos": "noun",
+       "romaji": "kuizu",
+       "gloss": "quiz",
+       "glossId": "kuis"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They do kanji quizzes with smartphone apps.",
+     "translationId": "Mereka mengerjakan kuis kanji dengan aplikasi di ponsel pintar.",
+     "audioStart": 40.872,
+     "audioEnd": 44.52
+    },
+    {
+     "text": "クイズは楽しいので、毎日続けやすいです。",
+     "tokens": [
+      {
+       "surface": "クイズ",
+       "pos": "noun",
+       "romaji": "kuizu",
+       "gloss": "quiz",
+       "glossId": "kuis"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "楽しい",
+       "pos": "adjective",
+       "reading": "たのしい",
+       "romaji": "tanoshii",
+       "gloss": "fun, enjoyable",
+       "glossId": "menyenangkan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "plain copula",
+       "glossId": "kopula biasa"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "毎日",
+       "pos": "noun",
+       "reading": "まいにち",
+       "romaji": "mainichi",
+       "gloss": "every day",
+       "glossId": "setiap hari"
+      },
+      {
+       "surface": "続け",
+       "pos": "verb",
+       "reading": "つづけ",
+       "romaji": "tsuzuke",
+       "lemma": "続ける",
+       "gloss": "to continue",
+       "glossId": "melanjutkan, terus melakukan"
+      },
+      {
+       "surface": "やすい",
+       "pos": "suffix",
+       "romaji": "yasui",
+       "gloss": "easy to (do)",
+       "glossId": "mudah untuk (dilakukan)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Because the quizzes are fun, it's easy to keep doing them every day.",
+     "translationId": "Karena kuisnya menyenangkan, mudah untuk terus dilakukan setiap hari.",
+     "audioStart": 44.52,
+     "audioEnd": 49.056
+    },
+    {
+     "text": "カードを使う人もいます。",
+     "tokens": [
+      {
+       "surface": "カード",
+       "pos": "noun",
+       "romaji": "kaado",
+       "gloss": "card",
+       "glossId": "kartu"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "使う",
+       "pos": "verb",
+       "reading": "つかう",
+       "romaji": "tsukau",
+       "gloss": "to use",
+       "glossId": "menggunakan"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (animate)",
+       "glossId": "ada (makhluk hidup)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Some people use flashcards.",
+     "translationId": "Ada juga yang menggunakan kartu.",
+     "audioStart": 49.056,
+     "audioEnd": 51.864
+    },
+    {
+     "text": "カードの前に漢字を書いて、後ろに意味を書きます。",
+     "tokens": [
+      {
+       "surface": "カード",
+       "pos": "noun",
+       "romaji": "kaado",
+       "gloss": "card",
+       "glossId": "kartu"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "前",
+       "pos": "noun",
+       "reading": "まえ",
+       "romaji": "mae",
+       "gloss": "front, before",
+       "glossId": "depan, sebelum"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: in/at (location)",
+       "glossId": "partikel: di/pada (lokasi)"
+      },
+      {
+       "surface": "漢字",
+       "pos": "noun",
+       "reading": "かんじ",
+       "romaji": "kanji",
+       "gloss": "kanji (Chinese characters)",
+       "glossId": "kanji (aksara Tionghoa)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "書い",
+       "pos": "verb",
+       "reading": "かい",
+       "romaji": "kai",
+       "lemma": "書く",
+       "gloss": "to write",
+       "glossId": "menulis"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connective particle",
+       "glossId": "partikel penghubung bentuk te"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "後ろ",
+       "pos": "noun",
+       "reading": "うしろ",
+       "romaji": "ushiro",
+       "gloss": "back, behind",
+       "glossId": "belakang"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: in/at (location)",
+       "glossId": "partikel: di/pada (lokasi)"
+      },
+      {
+       "surface": "意味",
+       "pos": "noun",
+       "reading": "いみ",
+       "romaji": "imi",
+       "gloss": "meaning",
+       "glossId": "arti"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "書き",
+       "pos": "verb",
+       "reading": "かき",
+       "romaji": "kaki",
+       "lemma": "書く",
+       "gloss": "to write",
+       "glossId": "menulis"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They write the kanji on the front of the card and the meaning on the back.",
+     "translationId": "Mereka menulis kanji di depan kartu dan artinya di belakang.",
+     "audioStart": 51.864,
+     "audioEnd": 56.664
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "漢字を覚えるのは簡単ではありません。",
+     "tokens": [
+      {
+       "surface": "漢字",
+       "pos": "noun",
+       "reading": "かんじ",
+       "romaji": "kanji",
+       "gloss": "kanji (Chinese characters)",
+       "glossId": "kanji (aksara Tionghoa)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "覚える",
+       "pos": "verb",
+       "reading": "おぼえる",
+       "romaji": "oboeru",
+       "gloss": "to memorize, learn",
+       "glossId": "menghafal, mengingat"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "簡単",
+       "pos": "adjective",
+       "reading": "かんたん",
+       "romaji": "kantan",
+       "gloss": "easy, simple",
+       "glossId": "mudah, sederhana"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "plain copula",
+       "glossId": "kopula biasa"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (benda mati)"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (classical/literary 'not')",
+       "glossId": "bantu negasi (bentuk klasik/sastra 'tidak')"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Memorizing kanji is not easy.",
+     "translationId": "Menghafal kanji bukanlah hal yang mudah.",
+     "audioStart": 56.664,
+     "audioEnd": 60.408
+    },
+    {
+     "text": "でも、毎日少しずつ練習すると、だんだん覚えられます。",
+     "tokens": [
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: by means of/with",
+       "glossId": "partikel: dengan/menggunakan"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "毎日",
+       "pos": "noun",
+       "reading": "まいにち",
+       "romaji": "mainichi",
+       "gloss": "every day",
+       "glossId": "setiap hari"
+      },
+      {
+       "surface": "少し",
+       "pos": "adverb",
+       "reading": "すこし",
+       "romaji": "sukoshi",
+       "gloss": "a little",
+       "glossId": "sedikit"
+      },
+      {
+       "surface": "ずつ",
+       "pos": "particle",
+       "romaji": "zutsu",
+       "gloss": "each, little by little",
+       "glossId": "masing-masing, sedikit demi sedikit"
+      },
+      {
+       "surface": "練習",
+       "pos": "noun",
+       "reading": "れんしゅう",
+       "romaji": "renshuu",
+       "gloss": "practice",
+       "glossId": "latihan"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: if/when, and, quotation",
+       "glossId": "partikel: jika/kalau, dan, kutipan"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "だんだん",
+       "pos": "adverb",
+       "romaji": "dandan",
+       "gloss": "gradually",
+       "glossId": "lama-lama, makin lama makin"
+      },
+      {
+       "surface": "覚え",
+       "pos": "verb",
+       "reading": "おぼえ",
+       "romaji": "oboe",
+       "lemma": "覚える",
+       "gloss": "to memorize, learn",
+       "glossId": "menghafal, mengingat"
+      },
+      {
+       "surface": "られ",
+       "pos": "auxiliary",
+       "romaji": "rare",
+       "lemma": "られる",
+       "gloss": "potential auxiliary: can be ~ed",
+       "glossId": "bentuk potensial: dapat di-"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "But if you practice a little every day, you will gradually be able to remember them.",
+     "translationId": "Tapi, jika berlatih sedikit demi sedikit setiap hari, lama-lama kita akan bisa mengingatnya.",
+     "audioStart": 60.408,
+     "audioEnd": 66.312
+    },
+    {
+     "text": "好きな方法で練習するのが大切です。",
+     "tokens": [
+      {
+       "surface": "好き",
+       "pos": "adjective",
+       "reading": "すき",
+       "romaji": "suki",
+       "gloss": "like, favorite",
+       "glossId": "suka, kesukaan"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "plain copula",
+       "glossId": "kopula biasa"
+      },
+      {
+       "surface": "方法",
+       "pos": "noun",
+       "reading": "ほうほう",
+       "romaji": "houhou",
+       "gloss": "method",
+       "glossId": "metode, cara"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: by means of/with",
+       "glossId": "partikel: dengan/menggunakan"
+      },
+      {
+       "surface": "練習",
+       "pos": "noun",
+       "reading": "れんしゅう",
+       "romaji": "renshuu",
+       "gloss": "practice",
+       "glossId": "latihan"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "大切",
+       "pos": "adjective",
+       "reading": "たいせつ",
+       "romaji": "taisetsu",
+       "gloss": "important",
+       "glossId": "penting"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It's important to practice using a method you like.",
+     "translationId": "Yang penting adalah berlatih dengan cara yang disukai.",
+     "audioStart": 66.312,
+     "audioEnd": 70.2
+    }
+   ]
+  }
+ ]
+}

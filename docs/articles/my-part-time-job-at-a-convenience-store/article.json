@@ -1,0 +1,1453 @@
+{
+ "schemaVersion": 1,
+ "id": "my-part-time-job-at-a-convenience-store",
+ "language": "ja",
+ "title": "コンビニのアルバイト",
+ "titleTranslation": "My Part-Time Job at a Convenience Store",
+ "titleTranslationId": "Kerja Paruh Waktu di Minimarket",
+ "level": "N5",
+ "summary": "A university student describes their part-time job at a nearby convenience store, the daily tasks involved, and how the experience has improved their Japanese and brought new friendships.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T18:02:11+00:00",
+ "audioFile": "audio-0e35f177.mp3",
+ "voice": "ja-JP-NanamiNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "私は大学生です。",
+     "tokens": [
+      {
+       "surface": "私",
+       "pos": "pronoun",
+       "reading": "わたくし",
+       "romaji": "watakushi",
+       "gloss": "I",
+       "glossId": "saya"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "大学生",
+       "pos": "noun",
+       "reading": "だいがくせい",
+       "romaji": "daigakusei",
+       "gloss": "university student",
+       "glossId": "mahasiswa"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (polite \"is/am\")",
+       "glossId": "kopula (bentuk sopan \"adalah\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I am a university student.",
+     "translationId": "Saya adalah mahasiswa.",
+     "audioStart": 0.0,
+     "audioEnd": 2.928
+    },
+    {
+     "text": "週に三回、近くのコンビニでアルバイトをしています。",
+     "tokens": [
+      {
+       "surface": "週",
+       "pos": "noun",
+       "reading": "しゅう",
+       "romaji": "shuu",
+       "gloss": "week",
+       "glossId": "minggu"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "time marker \"at/in\"",
+       "glossId": "penanda waktu \"pada\""
+      },
+      {
+       "surface": "三",
+       "pos": "noun",
+       "reading": "さん",
+       "romaji": "san",
+       "gloss": "three",
+       "glossId": "tiga"
+      },
+      {
+       "surface": "回",
+       "pos": "noun",
+       "reading": "かい",
+       "romaji": "kai",
+       "gloss": "times (counter)",
+       "glossId": "kali (penghitung)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "近く",
+       "pos": "noun",
+       "reading": "ちかく",
+       "romaji": "chikaku",
+       "gloss": "nearby",
+       "glossId": "dekat"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "コンビニ",
+       "pos": "noun",
+       "romaji": "konbini",
+       "gloss": "convenience store",
+       "glossId": "minimarket"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker \"at/by\"",
+       "glossId": "penanda tempat/cara \"di\""
+      },
+      {
+       "surface": "アルバイト",
+       "pos": "noun",
+       "romaji": "arubaito",
+       "gloss": "part-time job",
+       "glossId": "kerja paruh waktu"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form (connective)",
+       "glossId": "bentuk te (penghubung)"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be (progressive auxiliary)",
+       "glossId": "berada (bantu progresif)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Three times a week, I work part-time at a nearby convenience store.",
+     "translationId": "Tiga kali seminggu, saya kerja paruh waktu di minimarket dekat rumah.",
+     "audioStart": 2.928,
+     "audioEnd": 8.256
+    },
+    {
+     "text": "仕事は夕方六時から夜十時までです。",
+     "tokens": [
+      {
+       "surface": "仕事",
+       "pos": "noun",
+       "reading": "しごと",
+       "romaji": "shigoto",
+       "gloss": "work, job",
+       "glossId": "pekerjaan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "夕方",
+       "pos": "noun",
+       "reading": "ゆうがた",
+       "romaji": "yuugata",
+       "gloss": "evening",
+       "glossId": "sore hari"
+      },
+      {
+       "surface": "六",
+       "pos": "noun",
+       "reading": "ろく",
+       "romaji": "roku",
+       "gloss": "six",
+       "glossId": "enam"
+      },
+      {
+       "surface": "時",
+       "pos": "noun",
+       "reading": "じ",
+       "romaji": "ji",
+       "gloss": "o'clock",
+       "glossId": "jam"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from",
+       "glossId": "dari"
+      },
+      {
+       "surface": "夜",
+       "pos": "noun",
+       "reading": "よる",
+       "romaji": "yoru",
+       "gloss": "night",
+       "glossId": "malam"
+      },
+      {
+       "surface": "十",
+       "pos": "noun",
+       "reading": "じゅう",
+       "romaji": "juu",
+       "gloss": "ten",
+       "glossId": "sepuluh"
+      },
+      {
+       "surface": "時",
+       "pos": "noun",
+       "reading": "じ",
+       "romaji": "ji",
+       "gloss": "o'clock",
+       "glossId": "jam"
+      },
+      {
+       "surface": "まで",
+       "pos": "particle",
+       "romaji": "made",
+       "gloss": "until",
+       "glossId": "sampai"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (polite \"is/am\")",
+       "glossId": "kopula (bentuk sopan \"adalah\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The work is from 6 p.m. to 10 p.m.",
+     "translationId": "Pekerjaannya dari jam 6 sore sampai jam 10 malam.",
+     "audioStart": 8.256,
+     "audioEnd": 12.84
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "コンビニの仕事はいろいろあります。",
+     "tokens": [
+      {
+       "surface": "コンビニ",
+       "pos": "noun",
+       "romaji": "konbini",
+       "gloss": "convenience store",
+       "glossId": "minimarket"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "仕事",
+       "pos": "noun",
+       "reading": "しごと",
+       "romaji": "shigoto",
+       "gloss": "work, job",
+       "glossId": "pekerjaan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "いろいろ",
+       "pos": "adverb",
+       "romaji": "iroiro",
+       "gloss": "various",
+       "glossId": "bermacam-macam"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are various jobs at the convenience store.",
+     "translationId": "Ada berbagai macam pekerjaan di minimarket.",
+     "audioStart": 12.84,
+     "audioEnd": 16.344
+    },
+    {
+     "text": "レジでお金を受け取ります。",
+     "tokens": [
+      {
+       "surface": "レジ",
+       "pos": "noun",
+       "romaji": "reji",
+       "gloss": "cash register",
+       "glossId": "kasir"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker \"at/by\"",
+       "glossId": "penanda tempat/cara \"di\""
+      },
+      {
+       "surface": "お金",
+       "pos": "noun",
+       "reading": "おかね",
+       "romaji": "okane",
+       "gloss": "money",
+       "glossId": "uang"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "受け取り",
+       "pos": "verb",
+       "reading": "うけとり",
+       "romaji": "uketori",
+       "lemma": "受け取る",
+       "gloss": "to receive",
+       "glossId": "menerima"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I take money at the register.",
+     "translationId": "Saya menerima uang di kasir.",
+     "audioStart": 16.344,
+     "audioEnd": 19.488
+    },
+    {
+     "text": "商品を棚に並べます。",
+     "tokens": [
+      {
+       "surface": "商品",
+       "pos": "noun",
+       "reading": "しょうひん",
+       "romaji": "shouhin",
+       "gloss": "product, merchandise",
+       "glossId": "barang, produk"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "棚",
+       "pos": "noun",
+       "reading": "たな",
+       "romaji": "tana",
+       "gloss": "shelf",
+       "glossId": "rak"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "time marker \"at/in\"",
+       "glossId": "penanda waktu \"pada\""
+      },
+      {
+       "surface": "並べ",
+       "pos": "verb",
+       "reading": "ならべ",
+       "romaji": "narabe",
+       "lemma": "並べる",
+       "gloss": "to arrange, line up",
+       "glossId": "menata, menyusun"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I stock products on the shelves.",
+     "translationId": "Saya menata barang di rak.",
+     "audioStart": 19.488,
+     "audioEnd": 22.608
+    },
+    {
+     "text": "お店の中を掃除します。",
+     "tokens": [
+      {
+       "surface": "お店",
+       "pos": "noun",
+       "reading": "おみせ",
+       "romaji": "omise",
+       "gloss": "shop, store",
+       "glossId": "toko"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "中",
+       "pos": "noun",
+       "reading": "なか",
+       "romaji": "naka",
+       "gloss": "inside",
+       "glossId": "dalam"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "掃除",
+       "pos": "noun",
+       "reading": "そうじ",
+       "romaji": "souji",
+       "gloss": "cleaning",
+       "glossId": "bersih-bersih"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I clean inside the store.",
+     "translationId": "Saya membersihkan bagian dalam toko.",
+     "audioStart": 22.608,
+     "audioEnd": 25.752
+    },
+    {
+     "text": "最初は難しかったですが、今は慣れました。",
+     "tokens": [
+      {
+       "surface": "最初",
+       "pos": "noun",
+       "reading": "さいしょ",
+       "romaji": "saisho",
+       "gloss": "at first",
+       "glossId": "pada awalnya"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "難しかっ",
+       "pos": "adjective",
+       "reading": "むずかしかっ",
+       "romaji": "muzukashikat",
+       "lemma": "難しい",
+       "gloss": "difficult",
+       "glossId": "sulit"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda lampau"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (polite \"is/am\")",
+       "glossId": "kopula (bentuk sopan \"adalah\")"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "but/and (conjunction)",
+       "glossId": "tapi/dan (konjungsi)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "今",
+       "pos": "noun",
+       "reading": "いま",
+       "romaji": "ima",
+       "gloss": "now",
+       "glossId": "sekarang"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "慣れ",
+       "pos": "verb",
+       "reading": "なれ",
+       "romaji": "nare",
+       "lemma": "慣れる",
+       "gloss": "to get used to",
+       "glossId": "menjadi terbiasa"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "At first it was difficult, but now I've gotten used to it.",
+     "translationId": "Awalnya sulit, tapi sekarang saya sudah terbiasa.",
+     "audioStart": 25.752,
+     "audioEnd": 30.528
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "お客さんはたくさん来ます。",
+     "tokens": [
+      {
+       "surface": "お客さん",
+       "pos": "noun",
+       "reading": "おきゃくさん",
+       "romaji": "okyakusan",
+       "gloss": "customer",
+       "glossId": "pelanggan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "来",
+       "pos": "verb",
+       "reading": "き",
+       "romaji": "ki",
+       "lemma": "来る",
+       "gloss": "to come",
+       "glossId": "datang"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many customers come.",
+     "translationId": "Banyak pelanggan yang datang.",
+     "audioStart": 30.528,
+     "audioEnd": 33.72
+    },
+    {
+     "text": "会社員やお年寄りや学生が来ます。",
+     "tokens": [
+      {
+       "surface": "会社員",
+       "pos": "noun",
+       "reading": "かいしゃいん",
+       "romaji": "kaishain",
+       "gloss": "office worker",
+       "glossId": "pegawai kantoran"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan hormat"
+      },
+      {
+       "surface": "年寄り",
+       "pos": "noun",
+       "reading": "としより",
+       "romaji": "toshiyori",
+       "gloss": "elderly person",
+       "glossId": "orang tua/lansia"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "学生",
+       "pos": "noun",
+       "reading": "がくせい",
+       "romaji": "gakusei",
+       "gloss": "student",
+       "glossId": "pelajar"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "but/and (conjunction)",
+       "glossId": "tapi/dan (konjungsi)"
+      },
+      {
+       "surface": "来",
+       "pos": "verb",
+       "reading": "き",
+       "romaji": "ki",
+       "lemma": "来る",
+       "gloss": "to come",
+       "glossId": "datang"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Office workers, elderly people, and students come.",
+     "translationId": "Pegawai kantoran, orang tua, dan pelajar datang.",
+     "audioStart": 33.72,
+     "audioEnd": 38.088
+    },
+    {
+     "text": "「ありがとうございます」と毎日言います。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "ありがとう",
+       "pos": "interjection",
+       "romaji": "arigatou",
+       "gloss": "thank you",
+       "glossId": "terima kasih"
+      },
+      {
+       "surface": "ござい",
+       "pos": "verb",
+       "romaji": "gozai",
+       "lemma": "ござる",
+       "gloss": "polite auxiliary (archaic \"to be/exist\")",
+       "glossId": "bantu sopan (arkais \"ada/menjadi\")"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker",
+       "glossId": "penanda kutipan"
+      },
+      {
+       "surface": "毎日",
+       "pos": "noun",
+       "reading": "まいにち",
+       "romaji": "mainichi",
+       "gloss": "every day",
+       "glossId": "setiap hari"
+      },
+      {
+       "surface": "言い",
+       "pos": "verb",
+       "reading": "いい",
+       "romaji": "ii",
+       "lemma": "言う",
+       "gloss": "to say",
+       "glossId": "mengatakan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I say \"thank you\" every day.",
+     "translationId": "Saya mengucapkan \"terima kasih\" setiap hari.",
+     "audioStart": 38.088,
+     "audioEnd": 42.216
+    },
+    {
+     "text": "忙しい時は大変ですが、楽しいです。",
+     "tokens": [
+      {
+       "surface": "忙しい",
+       "pos": "adjective",
+       "reading": "いそがしい",
+       "romaji": "isogashii",
+       "gloss": "busy",
+       "glossId": "sibuk"
+      },
+      {
+       "surface": "時",
+       "pos": "noun",
+       "reading": "とき",
+       "romaji": "toki",
+       "gloss": "o'clock",
+       "glossId": "jam"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "大変",
+       "pos": "adjective",
+       "reading": "たいへん",
+       "romaji": "taihen",
+       "gloss": "tough, hard",
+       "glossId": "berat, susah"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (polite \"is/am\")",
+       "glossId": "kopula (bentuk sopan \"adalah\")"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "but/and (conjunction)",
+       "glossId": "tapi/dan (konjungsi)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "楽しい",
+       "pos": "adjective",
+       "reading": "たのしい",
+       "romaji": "tanoshii",
+       "gloss": "fun, enjoyable",
+       "glossId": "menyenangkan"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (polite \"is/am\")",
+       "glossId": "kopula (bentuk sopan \"adalah\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When it's busy it's tough, but it's fun.",
+     "translationId": "Saat sibuk memang berat, tapi menyenangkan.",
+     "audioStart": 42.216,
+     "audioEnd": 46.896
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "新しい商品も覚えなければなりません。",
+     "tokens": [
+      {
+       "surface": "新しい",
+       "pos": "adjective",
+       "reading": "あたらしい",
+       "romaji": "atarashii",
+       "gloss": "new",
+       "glossId": "baru"
+      },
+      {
+       "surface": "商品",
+       "pos": "noun",
+       "reading": "しょうひん",
+       "romaji": "shouhin",
+       "gloss": "product, merchandise",
+       "glossId": "barang, produk"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "覚え",
+       "pos": "verb",
+       "reading": "おぼえ",
+       "romaji": "oboe",
+       "lemma": "覚える",
+       "gloss": "to learn, memorize",
+       "glossId": "mengingat, menghafal"
+      },
+      {
+       "surface": "なけれ",
+       "pos": "auxiliary",
+       "romaji": "nakere",
+       "lemma": "ない",
+       "gloss": "negative suffix",
+       "glossId": "akhiran negatif"
+      },
+      {
+       "surface": "ば",
+       "pos": "particle",
+       "romaji": "ba",
+       "gloss": "conditional \"if\" marker",
+       "glossId": "penanda kondisional \"jika\""
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "archaic negative suffix",
+       "glossId": "akhiran negatif arkais"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I also have to learn about new products.",
+     "translationId": "Saya juga harus mengingat produk baru.",
+     "audioStart": 46.896,
+     "audioEnd": 51.12
+    },
+    {
+     "text": "おにぎりやお弁当やお菓子の場所を覚えます。",
+     "tokens": [
+      {
+       "surface": "おにぎり",
+       "pos": "noun",
+       "romaji": "onigiri",
+       "gloss": "rice ball",
+       "glossId": "onigiri"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan hormat"
+      },
+      {
+       "surface": "弁当",
+       "pos": "noun",
+       "reading": "べんとう",
+       "romaji": "bentou",
+       "gloss": "boxed lunch",
+       "glossId": "bento"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan hormat"
+      },
+      {
+       "surface": "菓子",
+       "pos": "noun",
+       "reading": "かし",
+       "romaji": "kashi",
+       "gloss": "sweets, snacks",
+       "glossId": "camilan, kue"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place, location",
+       "glossId": "tempat"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "覚え",
+       "pos": "verb",
+       "reading": "おぼえ",
+       "romaji": "oboe",
+       "lemma": "覚える",
+       "gloss": "to learn, memorize",
+       "glossId": "mengingat, menghafal"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I learn the locations of rice balls, bento boxes, and snacks.",
+     "translationId": "Saya menghafal letak onigiri, bento, dan camilan.",
+     "audioStart": 51.12,
+     "audioEnd": 55.632
+    },
+    {
+     "text": "日本語も上手になりました。",
+     "tokens": [
+      {
+       "surface": "日本語",
+       "pos": "noun",
+       "reading": "にほんご",
+       "romaji": "nihongo",
+       "gloss": "Japanese language",
+       "glossId": "bahasa Jepang"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "上手",
+       "pos": "adjective",
+       "reading": "じょうず",
+       "romaji": "jouzu",
+       "gloss": "skillful, good at",
+       "glossId": "pandai, mahir"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula (plain \"is\")",
+       "glossId": "kopula (bentuk biasa \"adalah\")"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "My Japanese has also improved.",
+     "translationId": "Bahasa Jepang saya juga jadi lebih baik.",
+     "audioStart": 55.632,
+     "audioEnd": 58.872
+    },
+    {
+     "text": "お客さんとよく話すからです。",
+     "tokens": [
+      {
+       "surface": "お客さん",
+       "pos": "noun",
+       "reading": "おきゃくさん",
+       "romaji": "okyakusan",
+       "gloss": "customer",
+       "glossId": "pelanggan"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker",
+       "glossId": "penanda kutipan"
+      },
+      {
+       "surface": "よく",
+       "pos": "adverb",
+       "romaji": "yoku",
+       "gloss": "often, well",
+       "glossId": "sering, dengan baik"
+      },
+      {
+       "surface": "話す",
+       "pos": "verb",
+       "reading": "はなす",
+       "romaji": "hanasu",
+       "gloss": "to talk, speak",
+       "glossId": "berbicara"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from",
+       "glossId": "dari"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (polite \"is/am\")",
+       "glossId": "kopula (bentuk sopan \"adalah\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "That's because I often talk with customers.",
+     "translationId": "Itu karena saya sering mengobrol dengan pelanggan.",
+     "audioStart": 58.872,
+     "audioEnd": 62.304
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "このアルバイトのおかげで、お金も勉強もできます。",
+     "tokens": [
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this",
+       "glossId": "ini"
+      },
+      {
+       "surface": "アルバイト",
+       "pos": "noun",
+       "romaji": "arubaito",
+       "gloss": "part-time job",
+       "glossId": "kerja paruh waktu"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "おかげ",
+       "pos": "noun",
+       "romaji": "okage",
+       "gloss": "thanks to",
+       "glossId": "berkat"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula (plain \"is\")",
+       "glossId": "kopula (bentuk biasa \"adalah\")"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "お金",
+       "pos": "noun",
+       "reading": "おかね",
+       "romaji": "okane",
+       "gloss": "money",
+       "glossId": "uang"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "勉強",
+       "pos": "noun",
+       "reading": "べんきょう",
+       "romaji": "benkyou",
+       "gloss": "study",
+       "glossId": "belajar"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to, can do",
+       "glossId": "bisa, mampu"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Thanks to this part-time job, I can earn money and study too.",
+     "translationId": "Berkat kerja paruh waktu ini, saya bisa dapat uang sekaligus belajar.",
+     "audioStart": 62.304,
+     "audioEnd": 67.368
+    },
+    {
+     "text": "友達もできました。",
+     "tokens": [
+      {
+       "surface": "友達",
+       "pos": "noun",
+       "reading": "ともだち",
+       "romaji": "tomodachi",
+       "gloss": "friend",
+       "glossId": "teman"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to, can do",
+       "glossId": "bisa, mampu"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I've also made friends.",
+     "translationId": "Saya juga jadi punya teman.",
+     "audioStart": 67.368,
+     "audioEnd": 69.984
+    },
+    {
+     "text": "私はこの仕事が好きです。",
+     "tokens": [
+      {
+       "surface": "私",
+       "pos": "pronoun",
+       "reading": "わたくし",
+       "romaji": "watakushi",
+       "gloss": "I",
+       "glossId": "saya"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this",
+       "glossId": "ini"
+      },
+      {
+       "surface": "仕事",
+       "pos": "noun",
+       "reading": "しごと",
+       "romaji": "shigoto",
+       "gloss": "work, job",
+       "glossId": "pekerjaan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "but/and (conjunction)",
+       "glossId": "tapi/dan (konjungsi)"
+      },
+      {
+       "surface": "好き",
+       "pos": "adjective",
+       "reading": "すき",
+       "romaji": "suki",
+       "gloss": "to like, fond of",
+       "glossId": "suka"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (polite \"is/am\")",
+       "glossId": "kopula (bentuk sopan \"adalah\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I like this job.",
+     "translationId": "Saya suka pekerjaan ini.",
+     "audioStart": 69.984,
+     "audioEnd": 73.344
+    }
+   ]
+  }
+ ]
+}

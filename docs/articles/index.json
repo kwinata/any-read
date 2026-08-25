@@ -1,5 +1,35 @@
 [
  {
+  "id": "my-part-time-job-at-a-convenience-store",
+  "language": "ja",
+  "title": "コンビニのアルバイト",
+  "titleTranslation": "My Part-Time Job at a Convenience Store",
+  "level": "N5",
+  "summary": "A university student describes their part-time job at a nearby convenience store, the daily tasks involved, and how the experience has improved their Japanese and brought new friendships.",
+  "topic": null,
+  "topicEn": null,
+  "topicId": null,
+  "createdAt": "2026-08-25T18:02:11+00:00",
+  "hasAudio": true,
+  "generated": true,
+  "broadcast": false
+ },
+ {
+  "id": "how-to-practice-kanji",
+  "language": "ja",
+  "title": "漢字の練習の仕方",
+  "titleTranslation": "How to Practice Kanji",
+  "level": "N5",
+  "summary": "The article describes several methods Japanese students use to memorize kanji, such as writing repeatedly, reading aloud, using apps and quizzes, or flashcards, while stressing that daily practice with a method one enjoys is key.",
+  "topic": null,
+  "topicEn": null,
+  "topicId": null,
+  "createdAt": "2026-08-25T18:02:08+00:00",
+  "hasAudio": true,
+  "generated": true,
+  "broadcast": false
+ },
+ {
   "id": "japanese-new-year",
   "language": "ja",
   "title": "日本のお正月",

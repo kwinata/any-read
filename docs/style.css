@@ -39,6 +39,8 @@ body {
   display: flex;
   align-items: center;
   gap: 8px;
+  /* Fixed height: page-specific tools must not shift the bar between pages */
+  height: calc(47px + env(safe-area-inset-top));
   padding: 10px 14px;
   padding-top: calc(10px + env(safe-area-inset-top));
   margin-top: calc(-1 * env(safe-area-inset-top));
@@ -47,8 +49,9 @@ body {
   backdrop-filter: blur(14px);
   border-bottom: 1px solid var(--border);
 }
-.topbar h1 { font-size: 20px; margin: 0; }
+.topbar h1 { font-size: 20px; margin: 0; line-height: 24px; }
 .topbar .bartools { display: flex; gap: 8px; align-items: center; }
+.topbar .toggle { padding: 3px 10px; line-height: 18px; }
 .topbar .back {
   border: none; background: none; color: var(--accent);
   font-size: 17px; padding: 4px 8px 4px 0; cursor: pointer;
@@ -276,7 +279,7 @@ body {
 }
 .vsearch-wrap {
   position: sticky;
-  top: calc(92px + env(safe-area-inset-top));
+  top: calc(95px + env(safe-area-inset-top));
   z-index: 8;
   background: var(--bg);
   padding: 8px 0 10px;
@@ -364,14 +367,15 @@ body {
 /* Top-level tabs */
 .tabs {
   position: sticky;
-  top: calc(46px + env(safe-area-inset-top));
+  top: calc(47px + env(safe-area-inset-top));
   z-index: 9;
-  display: flex; gap: 8px;
-  max-width: 640px; margin: 0 auto; padding: 10px 16px 4px;
+  display: flex; gap: 8px; align-items: center;
+  height: 48px;
+  max-width: 640px; margin: 0 auto; padding: 8px 16px 6px;
   background: var(--bg);
 }
 .tabs .tab {
-  flex: 1; padding: 8px 4px; font-size: 13.5px; cursor: pointer;
+  flex: 1; height: 34px; padding: 0 4px; font-size: 13.5px; cursor: pointer;
   border: 1px solid var(--border); border-radius: 10px;
   background: var(--card); color: var(--muted);
 }
