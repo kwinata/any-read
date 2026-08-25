@@ -512,8 +512,7 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
   searchInput.type = 'search';
   searchInput.placeholder = 'Search: english / indonesia / romaji…';
   searchWrap.append(el('span', 'vsearch-ico', '🔍'), searchInput);
-  header.append(searchWrap);
-  host.append(header);
+  host.append(header, searchWrap);
   const searchEntries = []; // {el, secIdx, hay}
 
   const audio = data.audioFile ? new Audio('vocab/' + data.audioFile) : null;

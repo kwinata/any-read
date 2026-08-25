@@ -252,7 +252,7 @@ body {
   z-index: 29;
 }
 .vscrim.show { opacity: 1; pointer-events: auto; }
-.vcat { font-size: 16px; margin: 24px 0 4px; color: var(--accent); scroll-margin-top: calc(58px + env(safe-area-inset-top)); }
+.vcat { font-size: 16px; margin: 24px 0 4px; color: var(--accent); scroll-margin-top: calc(112px + env(safe-area-inset-top)); }
 .vcat .vcat-sub { display: block; font-size: 12.5px; font-weight: 400; color: var(--muted); margin-top: 1px; }
 @media (min-width: 1080px) {
   /* Wide screens: always-visible sidebar, no hamburger */
@@ -271,9 +271,17 @@ body {
     overflow-y: auto;
     z-index: 9;
   }
-  .vcat { scroll-margin-top: calc(60px + env(safe-area-inset-top)); }
+  .vcat { scroll-margin-top: calc(116px + env(safe-area-inset-top)); }
 }
-.vsearch-wrap { position: relative; margin-top: 10px; }
+.vsearch-wrap {
+  position: sticky;
+  top: calc(46px + env(safe-area-inset-top));
+  z-index: 8;
+  background: var(--bg);
+  padding: 8px 0 10px;
+  margin-top: 2px;
+}
+.vsearch-ico { margin-top: -1px; }
 .vsearch-ico {
   position: absolute; left: 12px; top: 50%; transform: translateY(-50%);
   font-size: 14px; opacity: 0.65; pointer-events: none;
