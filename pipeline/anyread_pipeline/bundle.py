@@ -16,11 +16,18 @@ def slugify(title: str) -> str:
 def write_article(articles_dir: Path, article: dict, audio: bytes | None) -> Path:
     d = articles_dir / article["id"]
     d.mkdir(parents=True, exist_ok=True)
+    if audio is not None:
+        # Content-hashed name: re-recorded audio gets a new URL, so cached
+        # copies can never be served against newer timings.
+        fname = "audio-" + hashlib.sha1(audio).hexdigest()[:8] + ".mp3"
+        article["audioFile"] = fname
+        for old in d.glob("audio*.mp3"):
+            if old.name != fname:
+                old.unlink()
+        (d / fname).write_bytes(audio)
     (d / "article.json").write_text(
         json.dumps(article, ensure_ascii=False, indent=1), encoding="utf-8"
     )
-    if audio is not None:
-        (d / "audio.mp3").write_bytes(audio)
     rebuild_index(articles_dir)
     return d
 

@@ -237,9 +237,11 @@ body {
   background: var(--card);
   border-right: 1px solid var(--border);
   overflow-y: auto;
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
 }
 .vnav.open { transform: translateX(0); }
-.vnav .toggle { text-align: left; white-space: normal; line-height: 1.35; }
+.vnav .toggle { text-align: left; white-space: normal; line-height: 1.35; flex-shrink: 0; }
 .vscrim {
   position: fixed;
   inset: 0;

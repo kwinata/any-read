@@ -58,7 +58,10 @@ async function renderLibrary() {
   const vocabBtn = el('button', 'toggle', '📖 Vocab・たんご');
   vocabBtn.title = 'Beginner vocabulary';
   vocabBtn.addEventListener('click', () => { location.hash = '#/vocab'; });
-  bar.append(vocabBtn);
+  const sentBtn = el('button', 'toggle', '💬 Sentences・れいぶん');
+  sentBtn.title = 'Beginner example sentences';
+  sentBtn.addEventListener('click', () => { location.hash = '#/sentences'; });
+  bar.append(vocabBtn, sentBtn);
   $app.append(bar);
 
   let index = [];
@@ -148,8 +151,8 @@ async function renderLibrary() {
       ev.stopPropagation();
       dl.textContent = '…';
       try {
-        await fetch(`articles/${a.id}/article.json`);
-        if (a.hasAudio) await fetch(`articles/${a.id}/audio.mp3`);
+        const art = await (await fetch(`articles/${a.id}/article.json`)).json();
+        if (art.audioFile) await fetch(`articles/${a.id}/${art.audioFile}`);
         dl.textContent = '✓';
         dl.classList.add('cached');
       } catch (e) {
@@ -446,7 +449,7 @@ async function renderReader(id) {
 
 /* ---------------- Vocabulary ---------------- */
 
-async function renderVocab() {
+async function renderVocab(mode) {  // 'words' | 'sentences'
   $app.innerHTML = '';
   const bar = el('div', 'topbar');
   const back = el('button', 'back', '‹');
@@ -497,8 +500,13 @@ async function renderVocab() {
   $app.append(scrim, nav);
 
   const header = el('header');
-  header.append(el('h1', null, 'たんごちょう'));
-  header.append(el('p', 'sub', 'Useful beginner vocabulary — tap a word to hear it'));
+  if (mode === 'sentences') {
+    header.append(el('h1', null, 'れいぶん'));
+    header.append(el('p', 'sub', 'Example sentences · Contoh kalimat — tap a sentence to hear it'));
+  } else {
+    header.append(el('h1', null, 'たんごちょう'));
+    header.append(el('p', 'sub', 'Useful beginner vocabulary — tap a word to hear it'));
+  }
   host.append(header);
 
   const audio = data.audioFile ? new Audio('vocab/' + data.audioFile) : null;
@@ -544,7 +552,7 @@ async function renderVocab() {
     nav.append(btn);
     sections.push({ btn, catEl });
   }
-  for (const c of data.categories) {
+  for (const c of (mode === 'sentences' ? [] : data.categories)) {
     addSection(c);
     for (const w of c.words) {
       const row = el('div', 'vrow');
@@ -569,7 +577,7 @@ async function renderVocab() {
   }
 
   // Example sentences, tokenized like the reader
-  for (const gDef of data.sentenceGroups || []) {
+  for (const gDef of (mode === 'sentences' ? data.sentenceGroups || [] : [])) {
     addSection(gDef);
     for (const s of gDef.sentences) {
       const row = el('div', 'vsent');
@@ -656,7 +664,8 @@ function renderLock() {
 
 function route() {
   if (!isAuthed()) { renderLock(); return; }
-  if (location.hash === '#/vocab') { renderVocab(); return; }
+  if (location.hash === '#/vocab') { renderVocab('words'); return; }
+  if (location.hash === '#/sentences') { renderVocab('sentences'); return; }
   const m = location.hash.match(/^#\/a\/(.+)$/);
   if (m) renderReader(decodeURIComponent(m[1]));
   else renderLibrary();

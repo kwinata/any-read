@@ -1,6 +1,6 @@
 'use strict';
 
-const VERSION = 'anyread-v2'; // v2: beginner audio re-recorded slower
+const VERSION = 'anyread-v3'; // v3: content-hashed audio filenames
 const SHELL = [
   './',
   'index.html',
@@ -77,7 +77,7 @@ self.addEventListener('fetch', (e) => {
   const url = new URL(e.request.url);
   if (url.origin !== location.origin || e.request.method !== 'GET') return;
   const path = url.pathname;
-  if (path.endsWith('/audio.mp3')) {
+  if (path.endsWith('.mp3')) {
     e.respondWith(audioResponse(e.request));
   } else if (path.endsWith('/articles/index.json')) {
     e.respondWith(networkFirst(e.request));
