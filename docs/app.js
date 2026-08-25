@@ -603,12 +603,13 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
       if (w.id) gl.append(el('div', 'idn', w.id));
       row.append(gl);
       if ((w.examples || []).length) {
-        const tog = el('button', 'vtoggle', 'example / contoh ▾');
+        const tog = el('button', 'vtoggle', '📋 ▾');
+        tog.title = 'example / contoh';
         tog.addEventListener('click', (ev) => {
           ev.stopPropagation();
           const open = item.classList.toggle('open');
           tog.classList.toggle('on', open);
-          tog.textContent = open ? 'example / contoh ▴' : 'example / contoh ▾';
+          tog.textContent = open ? '📋 ▴' : '📋 ▾';
         });
         row.append(tog);
       }
