@@ -480,6 +480,11 @@ async function renderVocab() {
     return;
   }
 
+  // Section nav: sticky chip row on phones, fixed sidebar on wide screens
+  const nav = el('nav', 'vnav');
+  const sections = []; // {btn, catEl}
+  $app.append(nav);
+
   const header = el('header');
   header.append(el('h1', null, 'たんごちょう'));
   header.append(el('p', 'sub', 'Useful beginner vocabulary — tap a word to hear it'));
@@ -508,8 +513,21 @@ async function renderVocab() {
     audio.play();
   }
 
+  function setActive(i) {
+    sections.forEach((s, j) => s.btn.classList.toggle('on', i === j));
+  }
   for (const c of data.categories) {
-    host.append(el('h2', 'vcat', c.name + '・' + c.nameEn));
+    const catEl = el('h2', 'vcat', c.name + '・' + c.nameEn);
+    host.append(catEl);
+    const btn = el('button', 'toggle', c.name);
+    btn.title = c.nameEn;
+    const i = sections.length;
+    btn.addEventListener('click', () => {
+      setActive(i);
+      catEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+    nav.append(btn);
+    sections.push({ btn, catEl });
     for (const w of c.words) {
       const row = el('div', 'vrow');
       const jt = el('span', 'jtext');
@@ -530,6 +548,21 @@ async function renderVocab() {
     }
   }
   $app.append(host);
+
+  // Scroll-spy: highlight the section currently at the top of the view
+  function onScroll() {
+    if (!host.isConnected) {
+      window.removeEventListener('scroll', onScroll);
+      return;
+    }
+    let active = 0;
+    sections.forEach((s, i) => {
+      if (s.catEl.getBoundingClientRect().top <= 130) active = i;
+    });
+    setActive(active);
+  }
+  window.addEventListener('scroll', onScroll, { passive: true });
+  onScroll();
 }
 
 /* ---------------- Password gate ---------------- */

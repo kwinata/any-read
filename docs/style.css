@@ -219,7 +219,41 @@ body {
 .gloss .gid { font-style: italic; opacity: 0.85; }
 
 /* Vocabulary page */
-.vcat { font-size: 16px; margin: 24px 0 4px; color: var(--accent); }
+.vnav {
+  position: sticky;
+  top: calc(46px + env(safe-area-inset-top));
+  z-index: 9;
+  display: flex;
+  gap: 6px;
+  overflow-x: auto;
+  padding: 8px 14px;
+  background: color-mix(in srgb, var(--bg) 88%, transparent);
+  -webkit-backdrop-filter: blur(14px);
+  backdrop-filter: blur(14px);
+  border-bottom: 1px solid var(--border);
+  scrollbar-width: none;
+}
+.vnav::-webkit-scrollbar { display: none; }
+.vnav .toggle { white-space: nowrap; flex-shrink: 0; }
+.vcat { font-size: 16px; margin: 24px 0 4px; color: var(--accent); scroll-margin-top: calc(96px + env(safe-area-inset-top)); }
+@media (min-width: 1080px) {
+  .vnav {
+    position: fixed;
+    top: calc(76px + env(safe-area-inset-top));
+    left: calc(50% - 320px - 200px);
+    width: 180px;
+    flex-direction: column;
+    align-items: stretch;
+    overflow: visible;
+    background: none;
+    border: none;
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+    padding: 0;
+  }
+  .vnav .toggle { text-align: left; }
+  .vcat { scroll-margin-top: calc(60px + env(safe-area-inset-top)); }
+}
 .vrow {
   display: flex; justify-content: space-between; align-items: center; gap: 12px;
   padding: 8px 6px; border-bottom: 1px solid var(--border); cursor: pointer;
