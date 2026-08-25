@@ -414,13 +414,14 @@ def _publish(args) -> None:
 
     git("add", "-A")
     commit = git("commit", "-m", args.message, check=False)
-    if commit.returncode != 0:
-        if "nothing to commit" in commit.stdout + commit.stderr:
-            print("Nothing new to publish.")
-            return
+    if commit.returncode != 0 and "nothing to commit" not in commit.stdout + commit.stderr:
         raise SystemExit(commit.stderr.strip() or commit.stdout.strip())
-    git("push")
-    print("Published. The site updates in a minute or two.")
+    if commit.returncode == 0:
+        git("push")
+    _bundle(args)
+    print("Deploying to Netlify...")
+    subprocess.run(["netlify", "deploy", "--prod", "--dir", "dist"], cwd=root, check=True)
+    print("Published to https://anyread-kw.netlify.app")
 
 
 def main() -> None:
