@@ -1,0 +1,2215 @@
+{
+ "schemaVersion": 1,
+ "id": "garbage-and-recycling-in-japan",
+ "language": "ja",
+ "title": "日本のごみとリサイクル",
+ "titleTranslation": "Garbage and Recycling in Japan",
+ "titleTranslationId": "Sampah dan Daur Ulang di Jepang",
+ "level": "N5",
+ "summary": "The article explains Japan's detailed garbage-sorting and collection-day rules, how recyclables like bottles and newspapers should be prepared, and how city halls help residents (including foreigners) learn the rules.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T18:03:19+00:00",
+ "audioFile": "audio-88d64f24.mp3",
+ "voice": "en-US-AvaMultilingualNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "日本では、ごみを出すとき、ルールがたくさんあります。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means)",
+       "glossId": "partikel: di/dengan (cara atau tempat)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ごみ",
+       "pos": "noun",
+       "romaji": "gomi",
+       "gloss": "garbage, trash",
+       "glossId": "sampah"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "出す",
+       "pos": "verb",
+       "reading": "だす",
+       "romaji": "dasu",
+       "gloss": "to put out, take out",
+       "glossId": "mengeluarkan, membuang"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "when, time",
+       "glossId": "saat, waktu"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ルール",
+       "pos": "noun",
+       "romaji": "ruuru",
+       "gloss": "rule",
+       "glossId": "aturan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate things)",
+       "glossId": "ada (untuk benda)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In Japan, there are many rules for putting out the garbage.",
+     "translationId": "Di Jepang, ada banyak aturan saat membuang sampah.",
+     "audioStart": 0.0,
+     "audioEnd": 4.464
+    },
+    {
+     "text": "まちによって、ルールは少し違います。",
+     "tokens": [
+      {
+       "surface": "まち",
+       "pos": "noun",
+       "romaji": "machi",
+       "gloss": "town",
+       "glossId": "kota"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/at/in",
+       "glossId": "partikel: ke/di/pada"
+      },
+      {
+       "surface": "よっ",
+       "pos": "verb",
+       "romaji": "yotsu",
+       "lemma": "よる",
+       "gloss": "to depend on (によって)",
+       "glossId": "tergantung pada (によって)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk-te (penghubung)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ルール",
+       "pos": "noun",
+       "romaji": "ruuru",
+       "gloss": "rule",
+       "glossId": "aturan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "少し",
+       "pos": "adverb",
+       "reading": "すこし",
+       "romaji": "sukoshi",
+       "gloss": "a little, slightly",
+       "glossId": "sedikit"
+      },
+      {
+       "surface": "違い",
+       "pos": "verb",
+       "reading": "ちがい",
+       "romaji": "chigai",
+       "lemma": "違う",
+       "gloss": "to differ, be different",
+       "glossId": "berbeda"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The rules differ slightly depending on the town.",
+     "translationId": "Aturannya sedikit berbeda tergantung kotanya.",
+     "audioStart": 4.464,
+     "audioEnd": 7.8
+    },
+    {
+     "text": "でも、たいてい「もえるごみ」「もえないごみ」「プラスチック」「かん・びん・ペットボトル」など、いくつかのしゅるいに分けます。",
+     "tokens": [
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means)",
+       "glossId": "partikel: di/dengan (cara atau tempat)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "たいてい",
+       "pos": "adverb",
+       "romaji": "taitei",
+       "gloss": "usually, mostly",
+       "glossId": "biasanya"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "もえる",
+       "pos": "verb",
+       "romaji": "moeru",
+       "gloss": "to burn (intransitive)",
+       "glossId": "terbakar, bisa dibakar"
+      },
+      {
+       "surface": "ごみ",
+       "pos": "noun",
+       "romaji": "gomi",
+       "gloss": "garbage, trash",
+       "glossId": "sampah"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "もえ",
+       "pos": "verb",
+       "romaji": "moe",
+       "lemma": "もえる",
+       "gloss": "to burn (intransitive)",
+       "glossId": "terbakar, bisa dibakar"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix",
+       "glossId": "akhiran negatif"
+      },
+      {
+       "surface": "ごみ",
+       "pos": "noun",
+       "romaji": "gomi",
+       "gloss": "garbage, trash",
+       "glossId": "sampah"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "プラスチック",
+       "pos": "noun",
+       "romaji": "purasuchikku",
+       "gloss": "plastic",
+       "glossId": "plastik"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "かん",
+       "pos": "pronoun",
+       "romaji": "kan",
+       "gloss": "can (container)",
+       "glossId": "kaleng"
+      },
+      {
+       "surface": "・",
+       "pos": "punct"
+      },
+      {
+       "surface": "びん",
+       "pos": "noun",
+       "romaji": "bin",
+       "gloss": "bottle (glass)",
+       "glossId": "botol kaca"
+      },
+      {
+       "surface": "・",
+       "pos": "punct"
+      },
+      {
+       "surface": "ペットボトル",
+       "pos": "noun",
+       "romaji": "pettobotoru",
+       "gloss": "PET bottle",
+       "glossId": "botol PET"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on",
+       "glossId": "dan lain-lain"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "いくつ",
+       "pos": "noun",
+       "romaji": "ikutsu",
+       "gloss": "how many, several",
+       "glossId": "berapa, beberapa"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question/uncertainty particle",
+       "glossId": "partikel tanya/ketidakpastian"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive / nominalizer particle",
+       "glossId": "partikel kepemilikan/pembentuk nomina"
+      },
+      {
+       "surface": "しゅるい",
+       "pos": "noun",
+       "romaji": "shurui",
+       "gloss": "type, kind",
+       "glossId": "jenis"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/at/in",
+       "glossId": "partikel: ke/di/pada"
+      },
+      {
+       "surface": "分け",
+       "pos": "verb",
+       "reading": "わけ",
+       "romaji": "wake",
+       "lemma": "分ける",
+       "gloss": "to divide, sort",
+       "glossId": "membagi, memilah"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "But usually garbage is sorted into several types, such as \"burnable garbage,\" \"non-burnable garbage,\" \"plastic,\" and \"cans, bottles, and PET bottles.\"",
+     "translationId": "Tapi biasanya sampah dipilah menjadi beberapa jenis, seperti \"sampah yang bisa dibakar,\" \"sampah yang tidak bisa dibakar,\" \"plastik,\" dan \"kaleng, botol kaca, dan botol PET.\"",
+     "audioStart": 7.8,
+     "audioEnd": 17.52
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ごみを出す日も決まっています。",
+     "tokens": [
+      {
+       "surface": "ごみ",
+       "pos": "noun",
+       "romaji": "gomi",
+       "gloss": "garbage, trash",
+       "glossId": "sampah"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "出す",
+       "pos": "verb",
+       "reading": "だす",
+       "romaji": "dasu",
+       "gloss": "to put out, take out",
+       "glossId": "mengeluarkan, membuang"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "ひ",
+       "romaji": "hi",
+       "gloss": "day",
+       "glossId": "hari"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "決まっ",
+       "pos": "verb",
+       "reading": "きまっ",
+       "romaji": "kimat",
+       "lemma": "決まる",
+       "gloss": "to be decided, fixed",
+       "glossId": "ditentukan, ditetapkan"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk-te (penghubung)"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (living things) / -ている auxiliary",
+       "glossId": "ada (untuk makhluk hidup) / bentuk sedang -ている"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The day for putting out the garbage is also fixed.",
+     "translationId": "Hari untuk membuang sampah juga sudah ditentukan.",
+     "audioStart": 17.52,
+     "audioEnd": 19.776
+    },
+    {
+     "text": "たとえば、もえるごみは月曜日と木曜日、プラスチックは水曜日だけ、というふうにです。",
+     "tokens": [
+      {
+       "surface": "たとえば",
+       "pos": "adverb",
+       "romaji": "tatoeba",
+       "gloss": "for example",
+       "glossId": "misalnya"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "もえる",
+       "pos": "verb",
+       "romaji": "moeru",
+       "gloss": "to burn (intransitive)",
+       "glossId": "terbakar, bisa dibakar"
+      },
+      {
+       "surface": "ごみ",
+       "pos": "noun",
+       "romaji": "gomi",
+       "gloss": "garbage, trash",
+       "glossId": "sampah"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "月曜日",
+       "pos": "noun",
+       "reading": "げつようび",
+       "romaji": "getsuyoubi",
+       "gloss": "Monday",
+       "glossId": "hari Senin"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and, with",
+       "glossId": "dan, dengan"
+      },
+      {
+       "surface": "木曜日",
+       "pos": "noun",
+       "reading": "もくようび",
+       "romaji": "mokuyoubi",
+       "gloss": "Thursday",
+       "glossId": "hari Kamis"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "プラスチック",
+       "pos": "noun",
+       "romaji": "purasuchikku",
+       "gloss": "plastic",
+       "glossId": "plastik"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "水曜日",
+       "pos": "noun",
+       "reading": "すいようび",
+       "romaji": "suiyoubi",
+       "gloss": "Wednesday",
+       "glossId": "hari Rabu"
+      },
+      {
+       "surface": "だけ",
+       "pos": "particle",
+       "romaji": "dake",
+       "gloss": "only",
+       "glossId": "hanya"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and, with",
+       "glossId": "dan, dengan"
+      },
+      {
+       "surface": "いう",
+       "pos": "verb",
+       "romaji": "iu",
+       "gloss": "to say",
+       "glossId": "mengatakan"
+      },
+      {
+       "surface": "ふう",
+       "pos": "noun",
+       "romaji": "fuu",
+       "gloss": "way, manner (というふう)",
+       "glossId": "cara (というふう)"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "plain copula (\"is\")",
+       "glossId": "kopula bentuk biasa"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (\"is\")",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "For example, burnable garbage is on Mondays and Thursdays, and plastic is only on Wednesdays.",
+     "translationId": "Misalnya, sampah yang bisa dibakar dibuang hari Senin dan Kamis, sedangkan plastik hanya hari Rabu.",
+     "audioStart": 19.776,
+     "audioEnd": 26.904
+    },
+    {
+     "text": "決まった日の朝、決まった場所にごみを出します。",
+     "tokens": [
+      {
+       "surface": "決まっ",
+       "pos": "verb",
+       "reading": "きまっ",
+       "romaji": "kimat",
+       "lemma": "決まる",
+       "gloss": "to be decided, fixed",
+       "glossId": "ditentukan, ditetapkan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense suffix",
+       "glossId": "akhiran bentuk lampau"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "ひ",
+       "romaji": "hi",
+       "gloss": "day",
+       "glossId": "hari"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive / nominalizer particle",
+       "glossId": "partikel kepemilikan/pembentuk nomina"
+      },
+      {
+       "surface": "朝",
+       "pos": "noun",
+       "reading": "あさ",
+       "romaji": "asa",
+       "gloss": "morning",
+       "glossId": "pagi"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "決まっ",
+       "pos": "verb",
+       "reading": "きまっ",
+       "romaji": "kimat",
+       "lemma": "決まる",
+       "gloss": "to be decided, fixed",
+       "glossId": "ditentukan, ditetapkan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense suffix",
+       "glossId": "akhiran bentuk lampau"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place",
+       "glossId": "tempat"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/at/in",
+       "glossId": "partikel: ke/di/pada"
+      },
+      {
+       "surface": "ごみ",
+       "pos": "noun",
+       "romaji": "gomi",
+       "gloss": "garbage, trash",
+       "glossId": "sampah"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "出し",
+       "pos": "verb",
+       "reading": "だし",
+       "romaji": "dashi",
+       "lemma": "出す",
+       "gloss": "to put out, take out",
+       "glossId": "mengeluarkan, membuang"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You put out the garbage in the morning of the fixed day, at the fixed place.",
+     "translationId": "Sampah dibuang pada pagi hari yang sudah ditentukan, di tempat yang sudah ditentukan.",
+     "audioStart": 26.904,
+     "audioEnd": 30.864
+    },
+    {
+     "text": "ちがう日にごみを出すと、そのごみは持って行ってもらえません。",
+     "tokens": [
+      {
+       "surface": "ちがう",
+       "pos": "verb",
+       "romaji": "chigau",
+       "gloss": "different, wrong",
+       "glossId": "berbeda, salah"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "ひ",
+       "romaji": "hi",
+       "gloss": "day",
+       "glossId": "hari"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/at/in",
+       "glossId": "partikel: ke/di/pada"
+      },
+      {
+       "surface": "ごみ",
+       "pos": "noun",
+       "romaji": "gomi",
+       "gloss": "garbage, trash",
+       "glossId": "sampah"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "出す",
+       "pos": "verb",
+       "reading": "だす",
+       "romaji": "dasu",
+       "gloss": "to put out, take out",
+       "glossId": "mengeluarkan, membuang"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and, with",
+       "glossId": "dan, dengan"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that (adnominal)",
+       "glossId": "itu (penunjuk)"
+      },
+      {
+       "surface": "ごみ",
+       "pos": "noun",
+       "romaji": "gomi",
+       "gloss": "garbage, trash",
+       "glossId": "sampah"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "持っ",
+       "pos": "verb",
+       "reading": "もっ",
+       "romaji": "mot",
+       "lemma": "持つ",
+       "gloss": "to hold, carry",
+       "glossId": "membawa, memegang"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk-te (penghubung)"
+      },
+      {
+       "surface": "行っ",
+       "pos": "verb",
+       "reading": "いっ",
+       "romaji": "it",
+       "lemma": "行く",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk-te (penghubung)"
+      },
+      {
+       "surface": "もらえ",
+       "pos": "verb",
+       "romaji": "morae",
+       "lemma": "もらえる",
+       "gloss": "potential form of もらう, to be able to receive",
+       "glossId": "bentuk potensial menerima, bisa menerima"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "classical negative suffix",
+       "glossId": "akhiran negatif klasik"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If you put out the garbage on the wrong day, it will not be taken away.",
+     "translationId": "Jika membuang sampah di hari yang salah, sampah itu tidak akan diambil.",
+     "audioStart": 30.864,
+     "audioEnd": 35.184
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ペットボトルやかんは、リサイクルされます。",
+     "tokens": [
+      {
+       "surface": "ペットボトル",
+       "pos": "noun",
+       "romaji": "pettobotoru",
+       "gloss": "PET bottle",
+       "glossId": "botol PET"
+      },
+      {
+       "surface": "やかん",
+       "pos": "noun",
+       "romaji": "yakan",
+       "gloss": "kettle",
+       "glossId": "ketel, teko"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "リサイクル",
+       "pos": "noun",
+       "romaji": "risaikuru",
+       "gloss": "recycling",
+       "glossId": "daur ulang"
+      },
+      {
+       "surface": "さ",
+       "pos": "verb",
+       "romaji": "sa",
+       "lemma": "する",
+       "gloss": "to do (suru verb)",
+       "glossId": "melakukan (kata kerja suru)"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive/potential suffix",
+       "glossId": "akhiran pasif/potensial"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "PET bottles and cans are recycled.",
+     "translationId": "Botol PET dan kaleng didaur ulang.",
+     "audioStart": 35.184,
+     "audioEnd": 38.856
+    },
+    {
+     "text": "だから、キャップとラベルを取ってから、水であらって出します。",
+     "tokens": [
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "plain copula (\"is\")",
+       "glossId": "kopula bentuk biasa"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "because, from",
+       "glossId": "karena, dari"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "キャップ",
+       "pos": "noun",
+       "romaji": "kyappu",
+       "gloss": "cap, bottle cap",
+       "glossId": "tutup botol"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and, with",
+       "glossId": "dan, dengan"
+      },
+      {
+       "surface": "ラベル",
+       "pos": "noun",
+       "romaji": "raberu",
+       "gloss": "label",
+       "glossId": "label"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "取っ",
+       "pos": "verb",
+       "reading": "とっ",
+       "romaji": "tot",
+       "lemma": "取る",
+       "gloss": "to remove, take",
+       "glossId": "melepas, mengambil"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk-te (penghubung)"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "because, from",
+       "glossId": "karena, dari"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "水",
+       "pos": "noun",
+       "reading": "みず",
+       "romaji": "mizu",
+       "gloss": "water",
+       "glossId": "air"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means)",
+       "glossId": "partikel: di/dengan (cara atau tempat)"
+      },
+      {
+       "surface": "あらっ",
+       "pos": "verb",
+       "romaji": "aratsu",
+       "lemma": "あらう",
+       "gloss": "to wash",
+       "glossId": "mencuci"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk-te (penghubung)"
+      },
+      {
+       "surface": "出し",
+       "pos": "verb",
+       "reading": "だし",
+       "romaji": "dashi",
+       "lemma": "出す",
+       "gloss": "to put out, take out",
+       "glossId": "mengeluarkan, membuang"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "So, after removing the cap and label, you wash them with water before putting them out.",
+     "translationId": "Karena itu, setelah melepas tutup dan labelnya, cuci dengan air lalu buang.",
+     "audioStart": 38.856,
+     "audioEnd": 43.512
+    },
+    {
+     "text": "新聞や雑誌もリサイクルできます。",
+     "tokens": [
+      {
+       "surface": "新聞",
+       "pos": "noun",
+       "reading": "しんぶん",
+       "romaji": "shinbun",
+       "gloss": "newspaper",
+       "glossId": "koran"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "雑誌",
+       "pos": "noun",
+       "reading": "ざっし",
+       "romaji": "zasshi",
+       "gloss": "magazine",
+       "glossId": "majalah"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "リサイクル",
+       "pos": "noun",
+       "romaji": "risaikuru",
+       "gloss": "recycling",
+       "glossId": "daur ulang"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "can do, to be able to",
+       "glossId": "bisa, dapat"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Newspapers and magazines can also be recycled.",
+     "translationId": "Koran dan majalah juga bisa didaur ulang.",
+     "audioStart": 43.512,
+     "audioEnd": 46.392
+    },
+    {
+     "text": "ひもでしばって、まとめて出します。",
+     "tokens": [
+      {
+       "surface": "ひも",
+       "pos": "noun",
+       "romaji": "himo",
+       "gloss": "string, cord",
+       "glossId": "tali"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means)",
+       "glossId": "partikel: di/dengan (cara atau tempat)"
+      },
+      {
+       "surface": "しばっ",
+       "pos": "verb",
+       "romaji": "shibatsu",
+       "lemma": "しばる",
+       "gloss": "to tie, bind",
+       "glossId": "mengikat"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk-te (penghubung)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "まとめ",
+       "pos": "verb",
+       "romaji": "matome",
+       "lemma": "まとめる",
+       "gloss": "to gather, bundle together",
+       "glossId": "mengumpulkan, menyatukan"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk-te (penghubung)"
+      },
+      {
+       "surface": "出し",
+       "pos": "verb",
+       "reading": "だし",
+       "romaji": "dashi",
+       "lemma": "出す",
+       "gloss": "to put out, take out",
+       "glossId": "mengeluarkan, membuang"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Tie them together with string and put them out in a bundle.",
+     "translationId": "Ikat dengan tali, lalu buang sekaligus.",
+     "audioStart": 46.392,
+     "audioEnd": 49.272
+    },
+    {
+     "text": "大きい家具や電気製品は、ふつうのごみと一緒に出せません。",
+     "tokens": [
+      {
+       "surface": "大きい",
+       "pos": "adjective",
+       "reading": "おおきい",
+       "romaji": "ookii",
+       "gloss": "big, large",
+       "glossId": "besar"
+      },
+      {
+       "surface": "家具",
+       "pos": "noun",
+       "reading": "かぐ",
+       "romaji": "kagu",
+       "gloss": "furniture",
+       "glossId": "perabot, mebel"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "電気",
+       "pos": "noun",
+       "reading": "でんき",
+       "romaji": "denki",
+       "gloss": "electricity",
+       "glossId": "listrik"
+      },
+      {
+       "surface": "製品",
+       "pos": "noun",
+       "reading": "せいひん",
+       "romaji": "seihin",
+       "gloss": "product",
+       "glossId": "produk"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ふつう",
+       "pos": "noun",
+       "romaji": "futsuu",
+       "gloss": "normal, usual",
+       "glossId": "biasa"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive / nominalizer particle",
+       "glossId": "partikel kepemilikan/pembentuk nomina"
+      },
+      {
+       "surface": "ごみ",
+       "pos": "noun",
+       "romaji": "gomi",
+       "gloss": "garbage, trash",
+       "glossId": "sampah"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and, with",
+       "glossId": "dan, dengan"
+      },
+      {
+       "surface": "一緒",
+       "pos": "noun",
+       "reading": "いっしょ",
+       "romaji": "issho",
+       "gloss": "together",
+       "glossId": "bersama"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/at/in",
+       "glossId": "partikel: ke/di/pada"
+      },
+      {
+       "surface": "出せ",
+       "pos": "verb",
+       "reading": "だせ",
+       "romaji": "dase",
+       "lemma": "出せる",
+       "gloss": "potential form of 出す, to be able to put out",
+       "glossId": "bentuk potensial mengeluarkan, bisa membuang"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "classical negative suffix",
+       "glossId": "akhiran negatif klasik"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Large furniture and electrical appliances cannot be put out together with regular garbage.",
+     "translationId": "Perabot besar dan alat elektronik tidak bisa dibuang bersama sampah biasa.",
+     "audioStart": 49.272,
+     "audioEnd": 54.024
+    },
+    {
+     "text": "市役所に電話して、お金をはらって、取りに来てもらう必要があります。",
+     "tokens": [
+      {
+       "surface": "市役所",
+       "pos": "noun",
+       "reading": "しやくしょ",
+       "romaji": "shiyakusho",
+       "gloss": "city hall",
+       "glossId": "kantor balai kota"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/at/in",
+       "glossId": "partikel: ke/di/pada"
+      },
+      {
+       "surface": "電話",
+       "pos": "noun",
+       "reading": "でんわ",
+       "romaji": "denwa",
+       "gloss": "telephone, phone call",
+       "glossId": "telepon"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do (suru verb)",
+       "glossId": "melakukan (kata kerja suru)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk-te (penghubung)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "お金",
+       "pos": "noun",
+       "reading": "おかね",
+       "romaji": "okane",
+       "gloss": "money",
+       "glossId": "uang"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "はらっ",
+       "pos": "verb",
+       "romaji": "haratsu",
+       "lemma": "はらう",
+       "gloss": "to pay",
+       "glossId": "membayar"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk-te (penghubung)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "取り",
+       "pos": "noun",
+       "reading": "とり",
+       "romaji": "tori",
+       "gloss": "taking, pick-up (noun form of 取る)",
+       "glossId": "pengambilan (bentuk nomina dari 取る)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/at/in",
+       "glossId": "partikel: ke/di/pada"
+      },
+      {
+       "surface": "来",
+       "pos": "verb",
+       "reading": "き",
+       "romaji": "ki",
+       "lemma": "来る",
+       "gloss": "to come",
+       "glossId": "datang"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk-te (penghubung)"
+      },
+      {
+       "surface": "もらう",
+       "pos": "verb",
+       "romaji": "morau",
+       "gloss": "to receive (a favor)",
+       "glossId": "menerima"
+      },
+      {
+       "surface": "必要",
+       "pos": "noun",
+       "reading": "ひつよう",
+       "romaji": "hitsuyou",
+       "gloss": "necessary, need",
+       "glossId": "perlu, diperlukan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate things)",
+       "glossId": "ada (untuk benda)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You need to call city hall, pay money, and have them come to pick it up.",
+     "translationId": "Anda perlu menelepon kantor balai kota, membayar sejumlah uang, dan meminta mereka datang untuk mengambilnya.",
+     "audioStart": 54.024,
+     "audioEnd": 59.592
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ごみのルールを知らない人は、外国人にも日本人にも少しいます。",
+     "tokens": [
+      {
+       "surface": "ごみ",
+       "pos": "noun",
+       "romaji": "gomi",
+       "gloss": "garbage, trash",
+       "glossId": "sampah"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive / nominalizer particle",
+       "glossId": "partikel kepemilikan/pembentuk nomina"
+      },
+      {
+       "surface": "ルール",
+       "pos": "noun",
+       "romaji": "ruuru",
+       "gloss": "rule",
+       "glossId": "aturan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "知ら",
+       "pos": "verb",
+       "reading": "しら",
+       "romaji": "shira",
+       "lemma": "知る",
+       "gloss": "to know",
+       "glossId": "tahu, mengetahui"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix",
+       "glossId": "akhiran negatif"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "外国人",
+       "pos": "noun",
+       "reading": "がいこくじん",
+       "romaji": "gaikokujin",
+       "gloss": "foreigner",
+       "glossId": "orang asing"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/at/in",
+       "glossId": "partikel: ke/di/pada"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "日本人",
+       "pos": "noun",
+       "reading": "にほんじん",
+       "romaji": "nihonjin",
+       "gloss": "Japanese person",
+       "glossId": "orang Jepang"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/at/in",
+       "glossId": "partikel: ke/di/pada"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "少し",
+       "pos": "adverb",
+       "reading": "すこし",
+       "romaji": "sukoshi",
+       "gloss": "a little, slightly",
+       "glossId": "sedikit"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (living things) / -ている auxiliary",
+       "glossId": "ada (untuk makhluk hidup) / bentuk sedang -ている"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are a few people, both foreigners and Japanese, who don't know the garbage rules.",
+     "translationId": "Ada sedikit orang, baik orang asing maupun orang Jepang, yang tidak tahu aturan sampah.",
+     "audioStart": 59.592,
+     "audioEnd": 64.8
+    },
+    {
+     "text": "多くのまちは、日本語だけではなく、やさしい日本語や英語のパンフレットも作っています。",
+     "tokens": [
+      {
+       "surface": "多く",
+       "pos": "noun",
+       "reading": "おおく",
+       "romaji": "ooku",
+       "gloss": "many, a lot",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive / nominalizer particle",
+       "glossId": "partikel kepemilikan/pembentuk nomina"
+      },
+      {
+       "surface": "まち",
+       "pos": "noun",
+       "romaji": "machi",
+       "gloss": "town",
+       "glossId": "kota"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本語",
+       "pos": "noun",
+       "reading": "にほんご",
+       "romaji": "nihongo",
+       "gloss": "Japanese language",
+       "glossId": "bahasa Jepang"
+      },
+      {
+       "surface": "だけ",
+       "pos": "particle",
+       "romaji": "dake",
+       "gloss": "only",
+       "glossId": "hanya"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means)",
+       "glossId": "partikel: di/dengan (cara atau tempat)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "なく",
+       "pos": "adjective",
+       "romaji": "naku",
+       "lemma": "ない",
+       "gloss": "negative suffix",
+       "glossId": "akhiran negatif"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "やさしい",
+       "pos": "adjective",
+       "romaji": "yasashii",
+       "gloss": "easy, gentle",
+       "glossId": "mudah, sederhana"
+      },
+      {
+       "surface": "日本語",
+       "pos": "noun",
+       "reading": "にほんご",
+       "romaji": "nihongo",
+       "gloss": "Japanese language",
+       "glossId": "bahasa Jepang"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "英語",
+       "pos": "noun",
+       "reading": "えいご",
+       "romaji": "eigo",
+       "gloss": "English language",
+       "glossId": "bahasa Inggris"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive / nominalizer particle",
+       "glossId": "partikel kepemilikan/pembentuk nomina"
+      },
+      {
+       "surface": "パンフレット",
+       "pos": "noun",
+       "romaji": "panfuretto",
+       "gloss": "pamphlet",
+       "glossId": "pamflet"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "作っ",
+       "pos": "verb",
+       "reading": "つくっ",
+       "romaji": "tsukut",
+       "lemma": "作る",
+       "gloss": "to make",
+       "glossId": "membuat"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk-te (penghubung)"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (living things) / -ている auxiliary",
+       "glossId": "ada (untuk makhluk hidup) / bentuk sedang -ている"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many towns make pamphlets not only in Japanese, but also in easy Japanese and English.",
+     "translationId": "Banyak kota membuat pamflet tidak hanya dalam bahasa Jepang, tetapi juga dalam bahasa Jepang sederhana dan bahasa Inggris.",
+     "audioStart": 64.8,
+     "audioEnd": 71.904
+    },
+    {
+     "text": "新しくその町に住む人は、まず市役所でごみのカレンダーをもらうと便利です。",
+     "tokens": [
+      {
+       "surface": "新しく",
+       "pos": "adjective",
+       "reading": "あたらしく",
+       "romaji": "atarashiku",
+       "lemma": "新しい",
+       "gloss": "new",
+       "glossId": "baru"
+      },
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that (adnominal)",
+       "glossId": "itu (penunjuk)"
+      },
+      {
+       "surface": "町",
+       "pos": "noun",
+       "reading": "まち",
+       "romaji": "machi",
+       "gloss": "town",
+       "glossId": "kota"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/at/in",
+       "glossId": "partikel: ke/di/pada"
+      },
+      {
+       "surface": "住む",
+       "pos": "verb",
+       "reading": "すむ",
+       "romaji": "sumu",
+       "gloss": "to live, reside",
+       "glossId": "tinggal"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "まず",
+       "pos": "adverb",
+       "romaji": "mazu",
+       "gloss": "first, firstly",
+       "glossId": "pertama-tama"
+      },
+      {
+       "surface": "市役所",
+       "pos": "noun",
+       "reading": "しやくしょ",
+       "romaji": "shiyakusho",
+       "gloss": "city hall",
+       "glossId": "kantor balai kota"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means)",
+       "glossId": "partikel: di/dengan (cara atau tempat)"
+      },
+      {
+       "surface": "ごみ",
+       "pos": "noun",
+       "romaji": "gomi",
+       "gloss": "garbage, trash",
+       "glossId": "sampah"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive / nominalizer particle",
+       "glossId": "partikel kepemilikan/pembentuk nomina"
+      },
+      {
+       "surface": "カレンダー",
+       "pos": "noun",
+       "romaji": "karendaa",
+       "gloss": "calendar",
+       "glossId": "kalender"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "もらう",
+       "pos": "verb",
+       "romaji": "morau",
+       "gloss": "to receive (a favor)",
+       "glossId": "menerima"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and, with",
+       "glossId": "dan, dengan"
+      },
+      {
+       "surface": "便利",
+       "pos": "noun",
+       "reading": "べんり",
+       "romaji": "benri",
+       "gloss": "convenient",
+       "glossId": "praktis, nyaman"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (\"is\")",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "For people newly living in that town, it's convenient to first get a garbage calendar at city hall.",
+     "translationId": "Bagi orang yang baru tinggal di kota itu, akan lebih praktis jika pertama-tama mengambil kalender sampah di kantor balai kota.",
+     "audioStart": 71.904,
+     "audioEnd": 77.76
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "このように、日本のごみのルールは細かいですが、みんなでまちをきれいにするために、大切なルールです。",
+     "tokens": [
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this (adnominal)",
+       "glossId": "ini (penunjuk)"
+      },
+      {
+       "surface": "よう",
+       "pos": "adjective",
+       "romaji": "you",
+       "gloss": "manner, way (このように)",
+       "glossId": "cara (このように)"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "plain copula (\"is\")",
+       "glossId": "kopula bentuk biasa"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive / nominalizer particle",
+       "glossId": "partikel kepemilikan/pembentuk nomina"
+      },
+      {
+       "surface": "ごみ",
+       "pos": "noun",
+       "romaji": "gomi",
+       "gloss": "garbage, trash",
+       "glossId": "sampah"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive / nominalizer particle",
+       "glossId": "partikel kepemilikan/pembentuk nomina"
+      },
+      {
+       "surface": "ルール",
+       "pos": "noun",
+       "romaji": "ruuru",
+       "gloss": "rule",
+       "glossId": "aturan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "細かい",
+       "pos": "adjective",
+       "reading": "こまかい",
+       "romaji": "komakai",
+       "gloss": "detailed, fine",
+       "glossId": "rinci, detail"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (\"is\")",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "みんな",
+       "pos": "noun",
+       "romaji": "minna",
+       "gloss": "everyone",
+       "glossId": "semua orang"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with (means)",
+       "glossId": "partikel: di/dengan (cara atau tempat)"
+      },
+      {
+       "surface": "まち",
+       "pos": "noun",
+       "romaji": "machi",
+       "gloss": "town",
+       "glossId": "kota"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "きれい",
+       "pos": "adjective",
+       "romaji": "kirei",
+       "gloss": "clean, pretty",
+       "glossId": "bersih, indah"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "plain copula (\"is\")",
+       "glossId": "kopula bentuk biasa"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do (suru verb)",
+       "glossId": "melakukan (kata kerja suru)"
+      },
+      {
+       "surface": "ため",
+       "pos": "noun",
+       "romaji": "tame",
+       "gloss": "for the sake of, purpose",
+       "glossId": "demi, untuk tujuan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/at/in",
+       "glossId": "partikel: ke/di/pada"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "大切",
+       "pos": "adjective",
+       "reading": "たいせつ",
+       "romaji": "taisetsu",
+       "gloss": "important",
+       "glossId": "penting"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "plain copula (\"is\")",
+       "glossId": "kopula bentuk biasa"
+      },
+      {
+       "surface": "ルール",
+       "pos": "noun",
+       "romaji": "ruuru",
+       "gloss": "rule",
+       "glossId": "aturan"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (\"is\")",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In this way, Japan's garbage rules are detailed, but they are important rules for keeping the town clean together.",
+     "translationId": "Dengan demikian, aturan sampah di Jepang memang rinci, tetapi merupakan aturan penting agar kota tetap bersih bersama-sama.",
+     "audioStart": 77.76,
+     "audioEnd": 85.656
+    }
+   ]
+  }
+ ]
+}

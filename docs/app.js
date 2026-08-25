@@ -27,6 +27,16 @@ function langName(code) {
   return code === 'ja' ? '日本語' : code;
 }
 
+// Fisher-Yates over an element's children, so a section can be re-ordered in place
+function shuffleChildren(container) {
+  const kids = [...container.children];
+  for (let i = kids.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [kids[i], kids[j]] = [kids[j], kids[i]];
+  }
+  kids.forEach((k) => container.append(k));
+}
+
 function fmtTime(t) {
   const s = Math.floor(t || 0);
   return `${Math.floor(s / 60)}:${String(s % 60).padStart(2, '0')}`;
@@ -91,11 +101,21 @@ function mkShell(active) {
     sections.forEach((s, j) => s.btn.classList.toggle('on', i === j));
   }
 
-  // Section heading in the page + its chip in the drawer/sidebar
-  function addSection(c) {
+  // Section heading in the page + its chip in the drawer/sidebar.
+  // `onShuffle` (optional) adds a 🔄 button that reorders that section's items.
+  function addSection(c, onShuffle) {
     const catEl = el('h2', 'vcat', c.name);
     const subParts = [c.nameEn, c.nameId].filter(Boolean).join(' · ');
     if (subParts) catEl.append(el('span', 'vcat-sub', subParts));
+    if (onShuffle) {
+      const sh = el('button', 'vshuffle', '🔄');
+      sh.title = 'Shuffle this section';
+      sh.addEventListener('click', (ev) => {
+        ev.stopPropagation();
+        onShuffle();
+      });
+      catEl.append(sh);
+    }
     host.append(catEl);
     const btn = el('button', 'toggle',
       (c.nameShort || c.nameEn || c.name) + (c.nameId ? '・' + c.nameId : ''));
@@ -186,14 +206,17 @@ async function renderLibrary() {
   const topics = [...new Set(index.map((a) => a.topic).filter(Boolean))];
   for (const t of topics) {
     const sample = index.find((a) => a.topic === t);
+    const list = el('div', 'list');
     shell.addSection({ name: t, nameEn: sample.topicEn, nameId: sample.topicId,
-                       nameShort: sample.topicEn });
-    buildList(index.filter((a) => a.topic === t));
+                       nameShort: sample.topicEn }, () => shuffleChildren(list));
+    buildList(index.filter((a) => a.topic === t), list);
   }
   const untagged = index.filter((a) => !a.topic);
   if (untagged.length) {
-    shell.addSection({ name: 'その他', nameEn: 'Other', nameShort: 'Other' });
-    buildList(untagged);
+    const list = el('div', 'list');
+    shell.addSection({ name: 'その他', nameEn: 'Other', nameShort: 'Other' },
+                     () => shuffleChildren(list));
+    buildList(untagged, list);
   }
   if (!index.length) {
     host.append(el('div', 'empty',
@@ -216,8 +239,7 @@ async function renderLibrary() {
   }
   searchInput.addEventListener('input', applyFilter);
 
-  function buildList(shown) {
-  const list = el('div', 'list');
+  function buildList(shown, list) {
   for (const a of shown) {
     const card = el('div', 'card');
     const head = el('div', 'cardhead');
@@ -640,7 +662,9 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
   }
 
   for (const c of (mode === 'sentences' ? [] : data.categories)) {
-    addSection(c);
+    const list = el('div', 'vlist');
+    addSection(c, () => shuffleChildren(list));
+    host.append(list);
     for (const w of c.words) {
       const item = el('div', 'vitem');
       const row = el('div', 'vrow');
@@ -690,13 +714,16 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
           [e2.text, e2.en, e2.id, e2.tokens.map((t) => t.romaji || '').join(' ')]
             .filter(Boolean).join(' ')).join(' ').toLowerCase(),
       });
-      host.append(item);
+      list.append(item);
     }
   }
 
   // Themed example sentences (own page)
   for (const gDef of (mode === 'sentences' ? data.sentenceGroups || [] : [])) {
-    addSection(gDef);
+    const list = el('div', 'vlist');
+    addSection(gDef, () => shuffleChildren(list));
+    host.append(list);
+    let pairWrap = null;
     for (const s of gDef.sentences) {
       const row = el('div', 'vsent' + (s.qa ? ' qa-' + s.qa : ''));
       if (s.qa) row.append(el('span', 'qabadge', s.qa === 'q' ? 'Q' : 'A'));
@@ -709,7 +736,17 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
           s.tokens.map((t) => t.romaji || '').join(' ')]
           .filter(Boolean).join(' ').toLowerCase(),
       });
-      host.append(row);
+      // Keep a Q&A pair together so shuffling never separates them
+      if (s.qa === 'q') {
+        pairWrap = el('div', 'qapair');
+        pairWrap.append(row);
+        list.append(pairWrap);
+      } else if (s.qa === 'a' && pairWrap) {
+        pairWrap.append(row);
+        pairWrap = null;
+      } else {
+        list.append(row);
+      }
     }
   }
 

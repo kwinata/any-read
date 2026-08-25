@@ -1,0 +1,1548 @@
+{
+ "schemaVersion": 1,
+ "id": "renting-an-apartment-in-tokyo",
+ "language": "ja",
+ "title": "東京でアパートを借りる",
+ "titleTranslation": "Renting an Apartment in Tokyo",
+ "titleTranslationId": "Menyewa Apartemen di Tokyo",
+ "level": "N5",
+ "summary": "The article explains how people rent apartments in Tokyo, describing the costs involved (rent, deposit, and key money) and what to check before moving into a new place.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T18:04:46+00:00",
+ "audioFile": "audio-20254d90.mp3",
+ "voice": "ja-JP-KeitaNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "東京には たくさんの 人が 住んでいます。",
+     "tokens": [
+      {
+       "surface": "東京",
+       "pos": "noun",
+       "reading": "とうきょう",
+       "romaji": "toukyou",
+       "gloss": "Tokyo",
+       "glossId": "Tokyo"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/target marker",
+       "glossId": "partikel: penanda lokasi/tujuan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adjective",
+       "romaji": "takusan",
+       "gloss": "a lot, many",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "住ん",
+       "pos": "verb",
+       "reading": "すん",
+       "romaji": "sun",
+       "lemma": "住む",
+       "gloss": "to live, reside",
+       "glossId": "tinggal, menetap"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: location of action / means",
+       "glossId": "partikel: lokasi aktivitas/cara"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be (animate) / progressive auxiliary",
+       "glossId": "ada (untuk makhluk hidup) / bentuk sedang berlangsung"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many people live in Tokyo.",
+     "translationId": "Banyak orang tinggal di Tokyo.",
+     "audioStart": 0.0,
+     "audioEnd": 3.72
+    },
+    {
+     "text": "仕事や 学校の ために、東京で アパートを 借りる 人も 多いです。",
+     "tokens": [
+      {
+       "surface": "仕事",
+       "pos": "noun",
+       "reading": "しごと",
+       "romaji": "shigoto",
+       "gloss": "work, job",
+       "glossId": "pekerjaan"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "学校",
+       "pos": "noun",
+       "reading": "がっこう",
+       "romaji": "gakkou",
+       "gloss": "school",
+       "glossId": "sekolah"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "ため",
+       "pos": "noun",
+       "romaji": "tame",
+       "gloss": "for the sake of, in order to",
+       "glossId": "demi, untuk tujuan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/target marker",
+       "glossId": "partikel: penanda lokasi/tujuan"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "東京",
+       "pos": "noun",
+       "reading": "とうきょう",
+       "romaji": "toukyou",
+       "gloss": "Tokyo",
+       "glossId": "Tokyo"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: location of action / means",
+       "glossId": "partikel: lokasi aktivitas/cara"
+      },
+      {
+       "surface": "アパート",
+       "pos": "noun",
+       "romaji": "apaato",
+       "gloss": "apartment",
+       "glossId": "apartemen"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "借りる",
+       "pos": "verb",
+       "reading": "かりる",
+       "romaji": "kariru",
+       "gloss": "to rent, borrow",
+       "glossId": "menyewa, meminjam"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "多い",
+       "pos": "adjective",
+       "reading": "おおい",
+       "romaji": "ooi",
+       "gloss": "many, a lot",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many people also rent apartments in Tokyo for work or school.",
+     "translationId": "Banyak orang juga menyewa apartemen di Tokyo untuk bekerja atau sekolah.",
+     "audioStart": 3.72,
+     "audioEnd": 9.576
+    },
+    {
+     "text": "でも、東京の アパートは 少し 高いです。",
+     "tokens": [
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: location of action / means",
+       "glossId": "partikel: lokasi aktivitas/cara"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "東京",
+       "pos": "noun",
+       "reading": "とうきょう",
+       "romaji": "toukyou",
+       "gloss": "Tokyo",
+       "glossId": "Tokyo"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "アパート",
+       "pos": "noun",
+       "romaji": "apaato",
+       "gloss": "apartment",
+       "glossId": "apartemen"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "少し",
+       "pos": "adverb",
+       "reading": "すこし",
+       "romaji": "sukoshi",
+       "gloss": "a little, slightly",
+       "glossId": "sedikit"
+      },
+      {
+       "surface": "高い",
+       "pos": "adjective",
+       "reading": "たかい",
+       "romaji": "takai",
+       "gloss": "expensive, high",
+       "glossId": "mahal, tinggi"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "But apartments in Tokyo are a little expensive.",
+     "translationId": "Tapi, apartemen di Tokyo agak mahal.",
+     "audioStart": 9.576,
+     "audioEnd": 13.8
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "アパートを 探す とき、多くの 人は 不動産屋に 行きます。",
+     "tokens": [
+      {
+       "surface": "アパート",
+       "pos": "noun",
+       "romaji": "apaato",
+       "gloss": "apartment",
+       "glossId": "apartemen"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "探す",
+       "pos": "verb",
+       "reading": "さがす",
+       "romaji": "sagasu",
+       "gloss": "to search, look for",
+       "glossId": "mencari"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "when, time",
+       "glossId": "saat, waktu"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "多く",
+       "pos": "noun",
+       "reading": "おおく",
+       "romaji": "ooku",
+       "gloss": "many, most",
+       "glossId": "kebanyakan, banyak"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "不動産屋",
+       "pos": "noun",
+       "reading": "ふどうさんや",
+       "romaji": "fudousanya",
+       "gloss": "real estate agency",
+       "glossId": "agen properti"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/target marker",
+       "glossId": "partikel: penanda lokasi/tujuan"
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When looking for an apartment, many people go to a real estate agency.",
+     "translationId": "Saat mencari apartemen, banyak orang pergi ke agen properti.",
+     "audioStart": 13.8,
+     "audioEnd": 18.936
+    },
+    {
+     "text": "不動産屋で、部屋の 写真や 家賃を 見る ことが できます。",
+     "tokens": [
+      {
+       "surface": "不動産屋",
+       "pos": "noun",
+       "reading": "ふどうさんや",
+       "romaji": "fudousanya",
+       "gloss": "real estate agency",
+       "glossId": "agen properti"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: location of action / means",
+       "glossId": "partikel: lokasi aktivitas/cara"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "部屋",
+       "pos": "noun",
+       "reading": "へや",
+       "romaji": "heya",
+       "gloss": "room",
+       "glossId": "kamar"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "写真",
+       "pos": "noun",
+       "reading": "しゃしん",
+       "romaji": "shashin",
+       "gloss": "photo",
+       "glossId": "foto"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "家賃",
+       "pos": "noun",
+       "reading": "やちん",
+       "romaji": "yachin",
+       "gloss": "rent (money)",
+       "glossId": "uang sewa"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "見る",
+       "pos": "verb",
+       "reading": "みる",
+       "romaji": "miru",
+       "gloss": "to see, look",
+       "glossId": "melihat"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer: the act/fact of",
+       "glossId": "penominal: hal/tindakan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to, can",
+       "glossId": "bisa, mampu"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "At the real estate agency, you can see photos of rooms and the rent.",
+     "translationId": "Di agen properti, kita bisa melihat foto kamar dan harga sewa.",
+     "audioStart": 18.936,
+     "audioEnd": 24.072
+    },
+    {
+     "text": "駅から 近い 部屋は 家賃が 高いです。",
+     "tokens": [
+      {
+       "surface": "駅",
+       "pos": "noun",
+       "reading": "えき",
+       "romaji": "eki",
+       "gloss": "station",
+       "glossId": "stasiun"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from",
+       "glossId": "dari"
+      },
+      {
+       "surface": "近い",
+       "pos": "adjective",
+       "reading": "ちかい",
+       "romaji": "chikai",
+       "gloss": "near, close",
+       "glossId": "dekat"
+      },
+      {
+       "surface": "部屋",
+       "pos": "noun",
+       "reading": "へや",
+       "romaji": "heya",
+       "gloss": "room",
+       "glossId": "kamar"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "家賃",
+       "pos": "noun",
+       "reading": "やちん",
+       "romaji": "yachin",
+       "gloss": "rent (money)",
+       "glossId": "uang sewa"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "高い",
+       "pos": "adjective",
+       "reading": "たかい",
+       "romaji": "takai",
+       "gloss": "expensive, high",
+       "glossId": "mahal, tinggi"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Rooms close to the station have high rent.",
+     "translationId": "Kamar yang dekat dari stasiun harga sewanya mahal.",
+     "audioStart": 24.072,
+     "audioEnd": 27.792
+    },
+    {
+     "text": "駅から 遠い 部屋は 家賃が 安いです。",
+     "tokens": [
+      {
+       "surface": "駅",
+       "pos": "noun",
+       "reading": "えき",
+       "romaji": "eki",
+       "gloss": "station",
+       "glossId": "stasiun"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from",
+       "glossId": "dari"
+      },
+      {
+       "surface": "遠い",
+       "pos": "adjective",
+       "reading": "とおい",
+       "romaji": "tooi",
+       "gloss": "far",
+       "glossId": "jauh"
+      },
+      {
+       "surface": "部屋",
+       "pos": "noun",
+       "reading": "へや",
+       "romaji": "heya",
+       "gloss": "room",
+       "glossId": "kamar"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "家賃",
+       "pos": "noun",
+       "reading": "やちん",
+       "romaji": "yachin",
+       "gloss": "rent (money)",
+       "glossId": "uang sewa"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "安い",
+       "pos": "adjective",
+       "reading": "やすい",
+       "romaji": "yasui",
+       "gloss": "cheap",
+       "glossId": "murah"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Rooms far from the station have low rent.",
+     "translationId": "Kamar yang jauh dari stasiun harga sewanya murah.",
+     "audioStart": 27.792,
+     "audioEnd": 31.536
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "アパートを 借りる とき、お金が たくさん 必要です。",
+     "tokens": [
+      {
+       "surface": "アパート",
+       "pos": "noun",
+       "romaji": "apaato",
+       "gloss": "apartment",
+       "glossId": "apartemen"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "借りる",
+       "pos": "verb",
+       "reading": "かりる",
+       "romaji": "kariru",
+       "gloss": "to rent, borrow",
+       "glossId": "menyewa, meminjam"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "when, time",
+       "glossId": "saat, waktu"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "お金",
+       "pos": "noun",
+       "reading": "おかね",
+       "romaji": "okane",
+       "gloss": "money",
+       "glossId": "uang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "必要",
+       "pos": "noun",
+       "reading": "ひつよう",
+       "romaji": "hitsuyou",
+       "gloss": "necessary, needed",
+       "glossId": "perlu, dibutuhkan"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When renting an apartment, you need a lot of money.",
+     "translationId": "Saat menyewa apartemen, dibutuhkan banyak uang.",
+     "audioStart": 31.536,
+     "audioEnd": 36.168
+    },
+    {
+     "text": "家賃の ほかに、「敷金」と「礼金」を 払います。",
+     "tokens": [
+      {
+       "surface": "家賃",
+       "pos": "noun",
+       "reading": "やちん",
+       "romaji": "yachin",
+       "gloss": "rent (money)",
+       "glossId": "uang sewa"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "ほか",
+       "pos": "noun",
+       "romaji": "hoka",
+       "gloss": "other, besides",
+       "glossId": "selain, yang lain"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/target marker",
+       "glossId": "partikel: penanda lokasi/tujuan"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "敷金",
+       "pos": "noun",
+       "reading": "しききん",
+       "romaji": "shikikin",
+       "gloss": "security deposit",
+       "glossId": "uang jaminan"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/and particle",
+       "glossId": "partikel kutipan/dan"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "礼金",
+       "pos": "noun",
+       "reading": "れいきん",
+       "romaji": "reikin",
+       "gloss": "key money (non-refundable gift money)",
+       "glossId": "uang kunci (uang terima kasih, tidak dikembalikan)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "払い",
+       "pos": "verb",
+       "reading": "はらい",
+       "romaji": "harai",
+       "lemma": "払う",
+       "gloss": "to pay",
+       "glossId": "membayar"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Besides the rent, you pay a 'deposit' and 'key money'.",
+     "translationId": "Selain uang sewa, kita membayar 'uang jaminan' dan 'uang kunci'.",
+     "audioStart": 36.168,
+     "audioEnd": 41.28
+    },
+    {
+     "text": "敷金は あとで 少し 戻ります。",
+     "tokens": [
+      {
+       "surface": "敷金",
+       "pos": "noun",
+       "reading": "しききん",
+       "romaji": "shikikin",
+       "gloss": "security deposit",
+       "glossId": "uang jaminan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "あと",
+       "pos": "noun",
+       "romaji": "ato",
+       "gloss": "after, later",
+       "glossId": "setelah, nanti"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: location of action / means",
+       "glossId": "partikel: lokasi aktivitas/cara"
+      },
+      {
+       "surface": "少し",
+       "pos": "adverb",
+       "reading": "すこし",
+       "romaji": "sukoshi",
+       "gloss": "a little, slightly",
+       "glossId": "sedikit"
+      },
+      {
+       "surface": "戻り",
+       "pos": "verb",
+       "reading": "もどり",
+       "romaji": "modori",
+       "lemma": "戻る",
+       "gloss": "to return, go back",
+       "glossId": "kembali"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The deposit is partly returned later.",
+     "translationId": "Uang jaminan sebagian akan dikembalikan nanti.",
+     "audioStart": 41.28,
+     "audioEnd": 44.52
+    },
+    {
+     "text": "でも、礼金は 戻りません。",
+     "tokens": [
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: location of action / means",
+       "glossId": "partikel: lokasi aktivitas/cara"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "礼金",
+       "pos": "noun",
+       "reading": "れいきん",
+       "romaji": "reikin",
+       "gloss": "key money (non-refundable gift money)",
+       "glossId": "uang kunci (uang terima kasih, tidak dikembalikan)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "戻り",
+       "pos": "verb",
+       "reading": "もどり",
+       "romaji": "modori",
+       "lemma": "戻る",
+       "gloss": "to return, go back",
+       "glossId": "kembali"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (archaic/classical form)",
+       "glossId": "partikel negatif (bentuk arkais/klasik)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "But the key money is not returned.",
+     "translationId": "Tapi, uang kunci tidak dikembalikan.",
+     "audioStart": 44.52,
+     "audioEnd": 47.856
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "東京の 部屋は あまり 広くないです。",
+     "tokens": [
+      {
+       "surface": "東京",
+       "pos": "noun",
+       "reading": "とうきょう",
+       "romaji": "toukyou",
+       "gloss": "Tokyo",
+       "glossId": "Tokyo"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "部屋",
+       "pos": "noun",
+       "reading": "へや",
+       "romaji": "heya",
+       "gloss": "room",
+       "glossId": "kamar"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "あまり",
+       "pos": "adverb",
+       "romaji": "amari",
+       "gloss": "not very (used with negative)",
+       "glossId": "tidak terlalu (dipakai dengan negatif)"
+      },
+      {
+       "surface": "広く",
+       "pos": "adjective",
+       "reading": "ひろく",
+       "romaji": "hiroku",
+       "lemma": "広い",
+       "gloss": "spacious, wide",
+       "glossId": "luas"
+      },
+      {
+       "surface": "ない",
+       "pos": "adjective",
+       "romaji": "nai",
+       "gloss": "negative adjective ending / 'not'",
+       "glossId": "akhiran negatif / 'tidak'"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Rooms in Tokyo are not very spacious.",
+     "translationId": "Kamar di Tokyo tidak terlalu luas.",
+     "audioStart": 47.856,
+     "audioEnd": 51.384
+    },
+    {
+     "text": "でも、駅や コンビニが 近くに あって、便利です。",
+     "tokens": [
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: location of action / means",
+       "glossId": "partikel: lokasi aktivitas/cara"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "駅",
+       "pos": "noun",
+       "reading": "えき",
+       "romaji": "eki",
+       "gloss": "station",
+       "glossId": "stasiun"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "コンビニ",
+       "pos": "noun",
+       "romaji": "konbini",
+       "gloss": "convenience store",
+       "glossId": "minimarket"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "近く",
+       "pos": "noun",
+       "reading": "ちかく",
+       "romaji": "chikaku",
+       "gloss": "nearby, vicinity",
+       "glossId": "dekat, sekitar"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/target marker",
+       "glossId": "partikel: penanda lokasi/tujuan"
+      },
+      {
+       "surface": "あっ",
+       "pos": "verb",
+       "romaji": "atsu",
+       "lemma": "ある",
+       "gloss": "to be, exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connective particle",
+       "glossId": "partikel penghubung bentuk te"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "便利",
+       "pos": "noun",
+       "reading": "べんり",
+       "romaji": "benri",
+       "gloss": "convenient",
+       "glossId": "praktis, nyaman"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "But stations and convenience stores are nearby, so it's convenient.",
+     "translationId": "Tapi, stasiun dan minimarket dekat, jadi nyaman.",
+     "audioStart": 51.384,
+     "audioEnd": 56.448
+    },
+    {
+     "text": "多くの アパートには、エアコンや キッチンが あります。",
+     "tokens": [
+      {
+       "surface": "多く",
+       "pos": "noun",
+       "reading": "おおく",
+       "romaji": "ooku",
+       "gloss": "many, most",
+       "glossId": "kebanyakan, banyak"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "アパート",
+       "pos": "noun",
+       "romaji": "apaato",
+       "gloss": "apartment",
+       "glossId": "apartemen"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/target marker",
+       "glossId": "partikel: penanda lokasi/tujuan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "エアコン",
+       "pos": "noun",
+       "romaji": "eakon",
+       "gloss": "air conditioner",
+       "glossId": "AC"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "キッチン",
+       "pos": "noun",
+       "romaji": "kitchin",
+       "gloss": "kitchen",
+       "glossId": "dapur"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to be, exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many apartments have air conditioning and a kitchen.",
+     "translationId": "Banyak apartemen memiliki AC dan dapur.",
+     "audioStart": 56.448,
+     "audioEnd": 61.08
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "新しい アパートに 住む前に、部屋を 見る ことが 大切です。",
+     "tokens": [
+      {
+       "surface": "新しい",
+       "pos": "adjective",
+       "reading": "あたらしい",
+       "romaji": "atarashii",
+       "gloss": "new",
+       "glossId": "baru"
+      },
+      {
+       "surface": "アパート",
+       "pos": "noun",
+       "romaji": "apaato",
+       "gloss": "apartment",
+       "glossId": "apartemen"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/target marker",
+       "glossId": "partikel: penanda lokasi/tujuan"
+      },
+      {
+       "surface": "住む",
+       "pos": "verb",
+       "reading": "すむ",
+       "romaji": "sumu",
+       "gloss": "to live, reside",
+       "glossId": "tinggal, menetap"
+      },
+      {
+       "surface": "前",
+       "pos": "noun",
+       "reading": "まえ",
+       "romaji": "mae",
+       "gloss": "before",
+       "glossId": "sebelum"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/target marker",
+       "glossId": "partikel: penanda lokasi/tujuan"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "部屋",
+       "pos": "noun",
+       "reading": "へや",
+       "romaji": "heya",
+       "gloss": "room",
+       "glossId": "kamar"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "見る",
+       "pos": "verb",
+       "reading": "みる",
+       "romaji": "miru",
+       "gloss": "to see, look",
+       "glossId": "melihat"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer: the act/fact of",
+       "glossId": "penominal: hal/tindakan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "大切",
+       "pos": "adjective",
+       "reading": "たいせつ",
+       "romaji": "taisetsu",
+       "gloss": "important",
+       "glossId": "penting"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Before living in a new apartment, it's important to see the room.",
+     "translationId": "Sebelum tinggal di apartemen baru, penting untuk melihat kamarnya.",
+     "audioStart": 61.08,
+     "audioEnd": 66.432
+    },
+    {
+     "text": "いい 部屋を 見つけたら、生活は もっと 楽しく なります。",
+     "tokens": [
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good",
+       "glossId": "bagus"
+      },
+      {
+       "surface": "部屋",
+       "pos": "noun",
+       "reading": "へや",
+       "romaji": "heya",
+       "gloss": "room",
+       "glossId": "kamar"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "見つけ",
+       "pos": "verb",
+       "reading": "みつけ",
+       "romaji": "mitsuke",
+       "lemma": "見つける",
+       "gloss": "to find",
+       "glossId": "menemukan"
+      },
+      {
+       "surface": "たら",
+       "pos": "auxiliary",
+       "romaji": "tara",
+       "lemma": "た",
+       "gloss": "past tense auxiliary",
+       "glossId": "akhiran bentuk lampau"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "生活",
+       "pos": "noun",
+       "reading": "せいかつ",
+       "romaji": "seikatsu",
+       "gloss": "life, living",
+       "glossId": "kehidupan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "もっと",
+       "pos": "adverb",
+       "romaji": "motto",
+       "gloss": "more",
+       "glossId": "lebih"
+      },
+      {
+       "surface": "楽しく",
+       "pos": "adjective",
+       "reading": "たのしく",
+       "romaji": "tanoshiku",
+       "lemma": "楽しい",
+       "gloss": "fun, enjoyable",
+       "glossId": "menyenangkan"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If you find a good room, life becomes more enjoyable.",
+     "translationId": "Jika menemukan kamar yang bagus, hidup jadi lebih menyenangkan.",
+     "audioStart": 66.432,
+     "audioEnd": 71.4
+    }
+   ]
+  }
+ ]
+}

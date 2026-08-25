@@ -25,7 +25,7 @@ def pick_voice(lang: str, key: str) -> str:
     return pool[int(hashlib.sha1(key.encode()).hexdigest(), 16) % len(pool)]
 
 
-async def _synthesize_one(text: str, voice: str, rate: str) -> bytes:
+async def _stream_once(text: str, voice: str, rate: str) -> bytes:
     communicate = edge_tts.Communicate(text, voice, rate=rate)
     audio = b""
     async for chunk in communicate.stream():
@@ -34,6 +34,20 @@ async def _synthesize_one(text: str, voice: str, rate: str) -> bytes:
     if not audio:
         raise RuntimeError(f"edge-tts produced no audio for: {text[:60]}")
     return audio
+
+
+async def _synthesize_one(text: str, voice: str, rate: str, attempts: int = 4) -> bytes:
+    """One clip, with a timeout — the edge-tts socket can hang indefinitely."""
+    for i in range(attempts):
+        try:
+            return await asyncio.wait_for(_stream_once(text, voice, rate), timeout=45)
+        except Exception as e:
+            if i == attempts - 1:
+                raise
+            print(f"\n  retry {i + 1}/{attempts - 1} after {type(e).__name__}: {text[:40]}",
+                  flush=True)
+            await asyncio.sleep(2 * (i + 1))
+    raise AssertionError("unreachable")
 
 
 def synthesize(sentences: list[str], lang: str, voice: str | None, rate: str,

@@ -1,0 +1,1398 @@
+{
+ "schemaVersion": 1,
+ "id": "going-to-the-sea-in-summer",
+ "language": "ja",
+ "title": "夏の海へ行きます",
+ "titleTranslation": "Going to the Sea in Summer",
+ "titleTranslationId": "Pergi ke Laut di Musim Panas",
+ "level": "N5",
+ "summary": "A person recounts a fun family day trip to the beach during summer vacation, including swimming, eating lunch on the sand, and playing with a ball before heading home tired but happy.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T18:05:28+00:00",
+ "audioFile": "audio-88a526a6.mp3",
+ "voice": "en-US-EmmaMultilingualNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "夏休みになりました。",
+     "tokens": [
+      {
+       "surface": "夏休み",
+       "pos": "noun",
+       "reading": "なつやすみ",
+       "romaji": "natsuyasumi",
+       "gloss": "summer vacation",
+       "glossId": "liburan musim panas"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking time/direction",
+       "glossId": "partikel penanda waktu/arah"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense ending",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Summer vacation has started.",
+     "translationId": "Liburan musim panas sudah dimulai.",
+     "audioStart": 0.0,
+     "audioEnd": 2.376
+    },
+    {
+     "text": "今日は家族と海へ行きます。",
+     "tokens": [
+      {
+       "surface": "今日",
+       "pos": "noun",
+       "reading": "きょう",
+       "romaji": "kyou",
+       "gloss": "today",
+       "glossId": "hari ini"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "家族",
+       "pos": "noun",
+       "reading": "かぞく",
+       "romaji": "kazoku",
+       "gloss": "family",
+       "glossId": "keluarga"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "with (particle)",
+       "glossId": "bersama, dengan (partikel)"
+      },
+      {
+       "surface": "海",
+       "pos": "noun",
+       "reading": "うみ",
+       "romaji": "umi",
+       "gloss": "sea, beach",
+       "glossId": "laut, pantai"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "e",
+       "gloss": "direction particle (to)",
+       "glossId": "partikel arah (ke)"
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Today I'm going to the sea with my family.",
+     "translationId": "Hari ini saya pergi ke laut bersama keluarga.",
+     "audioStart": 2.376,
+     "audioEnd": 5.136
+    },
+    {
+     "text": "海はとても広いです。",
+     "tokens": [
+      {
+       "surface": "海",
+       "pos": "noun",
+       "reading": "うみ",
+       "romaji": "umi",
+       "gloss": "sea, beach",
+       "glossId": "laut, pantai"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "広い",
+       "pos": "adjective",
+       "reading": "ひろい",
+       "romaji": "hiroi",
+       "gloss": "wide, spacious",
+       "glossId": "luas"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The sea is very wide.",
+     "translationId": "Lautnya sangat luas.",
+     "audioStart": 5.136,
+     "audioEnd": 7.584
+    },
+    {
+     "text": "空も青いです。",
+     "tokens": [
+      {
+       "surface": "空",
+       "pos": "noun",
+       "reading": "そら",
+       "romaji": "sora",
+       "gloss": "sky",
+       "glossId": "langit"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "青い",
+       "pos": "adjective",
+       "reading": "あおい",
+       "romaji": "aoi",
+       "gloss": "blue",
+       "glossId": "biru"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The sky is blue too.",
+     "translationId": "Langitnya juga biru.",
+     "audioStart": 7.584,
+     "audioEnd": 9.504
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "朝、電車で海に行きました。",
+     "tokens": [
+      {
+       "surface": "朝",
+       "pos": "noun",
+       "reading": "あさ",
+       "romaji": "asa",
+       "gloss": "morning",
+       "glossId": "pagi"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha",
+       "gloss": "train",
+       "glossId": "kereta"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking means/location",
+       "glossId": "partikel penanda alat/lokasi"
+      },
+      {
+       "surface": "海",
+       "pos": "noun",
+       "reading": "うみ",
+       "romaji": "umi",
+       "gloss": "sea, beach",
+       "glossId": "laut, pantai"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking time/direction",
+       "glossId": "partikel penanda waktu/arah"
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense ending",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In the morning, we went to the sea by train.",
+     "translationId": "Pagi hari, kami pergi ke laut naik kereta.",
+     "audioStart": 9.504,
+     "audioEnd": 12.792
+    },
+    {
+     "text": "電車の中で、みんな元気でした。",
+     "tokens": [
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha",
+       "gloss": "train",
+       "glossId": "kereta"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle",
+       "glossId": "partikel kepemilikan/penghubung"
+      },
+      {
+       "surface": "中",
+       "pos": "noun",
+       "reading": "なか",
+       "romaji": "naka",
+       "gloss": "inside, middle",
+       "glossId": "di dalam, tengah"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking means/location",
+       "glossId": "partikel penanda alat/lokasi"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "みんな",
+       "pos": "noun",
+       "romaji": "minna",
+       "gloss": "everyone",
+       "glossId": "semua orang"
+      },
+      {
+       "surface": "元気",
+       "pos": "noun",
+       "reading": "げんき",
+       "romaji": "genki",
+       "gloss": "healthy, cheerful",
+       "glossId": "sehat, bersemangat"
+      },
+      {
+       "surface": "でし",
+       "pos": "auxiliary",
+       "romaji": "deshi",
+       "lemma": "です",
+       "gloss": "polite copula (is)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense ending",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On the train, everyone was cheerful.",
+     "translationId": "Di dalam kereta, semua orang bersemangat.",
+     "audioStart": 12.792,
+     "audioEnd": 16.32
+    },
+    {
+     "text": "海に着いたとき、たくさんの人がいました。",
+     "tokens": [
+      {
+       "surface": "海",
+       "pos": "noun",
+       "reading": "うみ",
+       "romaji": "umi",
+       "gloss": "sea, beach",
+       "glossId": "laut, pantai"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking time/direction",
+       "glossId": "partikel penanda waktu/arah"
+      },
+      {
+       "surface": "着い",
+       "pos": "verb",
+       "reading": "つい",
+       "romaji": "tsui",
+       "lemma": "着く",
+       "gloss": "to arrive",
+       "glossId": "tiba"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense ending",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "when, time",
+       "glossId": "waktu, saat"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adjective",
+       "romaji": "takusan",
+       "gloss": "a lot, many",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle",
+       "glossId": "partikel kepemilikan/penghubung"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person, people",
+       "glossId": "orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be, exist (animate)",
+       "glossId": "ada, berada (untuk makhluk hidup)"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense ending",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When we arrived at the sea, there were many people.",
+     "translationId": "Saat tiba di laut, ada banyak orang.",
+     "audioStart": 16.32,
+     "audioEnd": 20.472
+    },
+    {
+     "text": "子供も大人もいました。",
+     "tokens": [
+      {
+       "surface": "子供",
+       "pos": "noun",
+       "reading": "こども",
+       "romaji": "kodomo",
+       "gloss": "child",
+       "glossId": "anak"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "大人",
+       "pos": "noun",
+       "reading": "おとな",
+       "romaji": "otona",
+       "gloss": "adult",
+       "glossId": "orang dewasa"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be, exist (animate)",
+       "glossId": "ada, berada (untuk makhluk hidup)"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense ending",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There were children and adults too.",
+     "translationId": "Ada anak-anak maupun orang dewasa.",
+     "audioStart": 20.472,
+     "audioEnd": 23.016
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "海で泳ぎました。",
+     "tokens": [
+      {
+       "surface": "海",
+       "pos": "noun",
+       "reading": "うみ",
+       "romaji": "umi",
+       "gloss": "sea, beach",
+       "glossId": "laut, pantai"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking means/location",
+       "glossId": "partikel penanda alat/lokasi"
+      },
+      {
+       "surface": "泳ぎ",
+       "pos": "verb",
+       "reading": "およぎ",
+       "romaji": "oyogi",
+       "lemma": "泳ぐ",
+       "gloss": "to swim",
+       "glossId": "berenang"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense ending",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "We swam in the sea.",
+     "translationId": "Kami berenang di laut.",
+     "audioStart": 23.016,
+     "audioEnd": 25.08
+    },
+    {
+     "text": "水は少し冷たかったです。",
+     "tokens": [
+      {
+       "surface": "水",
+       "pos": "noun",
+       "reading": "みず",
+       "romaji": "mizu",
+       "gloss": "water",
+       "glossId": "air"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "少し",
+       "pos": "adverb",
+       "reading": "すこし",
+       "romaji": "sukoshi",
+       "gloss": "a little",
+       "glossId": "sedikit"
+      },
+      {
+       "surface": "冷たかっ",
+       "pos": "adjective",
+       "reading": "つめたかっ",
+       "romaji": "tsumetakat",
+       "lemma": "冷たい",
+       "gloss": "cold (to touch)",
+       "glossId": "dingin (saat disentuh)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense ending",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The water was a little cold.",
+     "translationId": "Airnya sedikit dingin.",
+     "audioStart": 25.08,
+     "audioEnd": 27.936
+    },
+    {
+     "text": "でも、とても楽しかったです。",
+     "tokens": [
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking means/location",
+       "glossId": "partikel penanda alat/lokasi"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "楽しかっ",
+       "pos": "adjective",
+       "reading": "たのしかっ",
+       "romaji": "tanoshikat",
+       "lemma": "楽しい",
+       "gloss": "fun, enjoyable",
+       "glossId": "menyenangkan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense ending",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "But it was very fun.",
+     "translationId": "Tapi sangat menyenangkan.",
+     "audioStart": 27.936,
+     "audioEnd": 31.104
+    },
+    {
+     "text": "それから、砂の上でお弁当を食べました。",
+     "tokens": [
+      {
+       "surface": "それ",
+       "pos": "pronoun",
+       "romaji": "sore",
+       "gloss": "that",
+       "glossId": "itu"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "after, from",
+       "glossId": "setelah, dari"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "砂",
+       "pos": "noun",
+       "reading": "すな",
+       "romaji": "suna",
+       "gloss": "sand",
+       "glossId": "pasir"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle",
+       "glossId": "partikel kepemilikan/penghubung"
+      },
+      {
+       "surface": "上",
+       "pos": "noun",
+       "reading": "うえ",
+       "romaji": "ue",
+       "gloss": "on top, above",
+       "glossId": "atas"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking means/location",
+       "glossId": "partikel penanda alat/lokasi"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "polite prefix",
+       "glossId": "awalan sopan"
+      },
+      {
+       "surface": "弁当",
+       "pos": "noun",
+       "reading": "べんとう",
+       "romaji": "bentou",
+       "gloss": "boxed lunch",
+       "glossId": "bekal makan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense ending",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "After that, we ate a boxed lunch on the sand.",
+     "translationId": "Setelah itu, kami makan bekal di atas pasir.",
+     "audioStart": 31.104,
+     "audioEnd": 35.352
+    },
+    {
+     "text": "おにぎりとお茶がおいしかったです。",
+     "tokens": [
+      {
+       "surface": "おにぎり",
+       "pos": "noun",
+       "romaji": "onigiri",
+       "gloss": "rice ball",
+       "glossId": "onigiri (nasi kepal)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "with (particle)",
+       "glossId": "bersama, dengan (partikel)"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "polite prefix",
+       "glossId": "awalan sopan"
+      },
+      {
+       "surface": "茶",
+       "pos": "noun",
+       "reading": "ちゃ",
+       "romaji": "cha",
+       "gloss": "tea",
+       "glossId": "teh"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "おいしかっ",
+       "pos": "adjective",
+       "romaji": "oishikatsu",
+       "lemma": "おいしい",
+       "gloss": "delicious",
+       "glossId": "enak"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense ending",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The rice balls and tea were delicious.",
+     "translationId": "Onigiri dan tehnya enak.",
+     "audioStart": 35.352,
+     "audioEnd": 38.376
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "午後は、海でボールで遊びました。",
+     "tokens": [
+      {
+       "surface": "午後",
+       "pos": "noun",
+       "reading": "ごご",
+       "romaji": "gogo",
+       "gloss": "afternoon",
+       "glossId": "siang, sore"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "海",
+       "pos": "noun",
+       "reading": "うみ",
+       "romaji": "umi",
+       "gloss": "sea, beach",
+       "glossId": "laut, pantai"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking means/location",
+       "glossId": "partikel penanda alat/lokasi"
+      },
+      {
+       "surface": "ボール",
+       "pos": "noun",
+       "romaji": "booru",
+       "gloss": "ball",
+       "glossId": "bola"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking means/location",
+       "glossId": "partikel penanda alat/lokasi"
+      },
+      {
+       "surface": "遊び",
+       "pos": "verb",
+       "reading": "あそび",
+       "romaji": "asobi",
+       "lemma": "遊ぶ",
+       "gloss": "to play",
+       "glossId": "bermain"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense ending",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In the afternoon, we played with a ball at the beach.",
+     "translationId": "Siang harinya, kami bermain bola di pantai.",
+     "audioStart": 38.376,
+     "audioEnd": 41.928
+    },
+    {
+     "text": "写真もたくさん撮りました。",
+     "tokens": [
+      {
+       "surface": "写真",
+       "pos": "noun",
+       "reading": "しゃしん",
+       "romaji": "shashin",
+       "gloss": "photo",
+       "glossId": "foto"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "撮り",
+       "pos": "verb",
+       "reading": "とり",
+       "romaji": "tori",
+       "lemma": "撮る",
+       "gloss": "to take (a photo)",
+       "glossId": "mengambil (foto)"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense ending",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "We also took a lot of photos.",
+     "translationId": "Kami juga banyak mengambil foto.",
+     "audioStart": 41.928,
+     "audioEnd": 44.616
+    },
+    {
+     "text": "友達にも写真を送りました。",
+     "tokens": [
+      {
+       "surface": "友達",
+       "pos": "noun",
+       "reading": "ともだち",
+       "romaji": "tomodachi",
+       "gloss": "friend",
+       "glossId": "teman"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking time/direction",
+       "glossId": "partikel penanda waktu/arah"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "写真",
+       "pos": "noun",
+       "reading": "しゃしん",
+       "romaji": "shashin",
+       "gloss": "photo",
+       "glossId": "foto"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "送り",
+       "pos": "verb",
+       "reading": "おくり",
+       "romaji": "okuri",
+       "lemma": "送る",
+       "gloss": "to send",
+       "glossId": "mengirim"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense ending",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I also sent photos to my friends.",
+     "translationId": "Saya juga mengirim foto ke teman-teman.",
+     "audioStart": 44.616,
+     "audioEnd": 47.736
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "夕方、電車で家に帰りました。",
+     "tokens": [
+      {
+       "surface": "夕方",
+       "pos": "noun",
+       "reading": "ゆうがた",
+       "romaji": "yuugata",
+       "gloss": "evening",
+       "glossId": "sore hari"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha",
+       "gloss": "train",
+       "glossId": "kereta"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking means/location",
+       "glossId": "partikel penanda alat/lokasi"
+      },
+      {
+       "surface": "家",
+       "pos": "noun",
+       "reading": "いえ",
+       "romaji": "ie",
+       "gloss": "house, home",
+       "glossId": "rumah"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking time/direction",
+       "glossId": "partikel penanda waktu/arah"
+      },
+      {
+       "surface": "帰り",
+       "pos": "verb",
+       "reading": "かえり",
+       "romaji": "kaeri",
+       "lemma": "帰る",
+       "gloss": "to return home",
+       "glossId": "pulang"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense ending",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In the evening, we went home by train.",
+     "translationId": "Sore hari, kami pulang ke rumah naik kereta.",
+     "audioStart": 47.736,
+     "audioEnd": 51.36
+    },
+    {
+     "text": "とても疲れましたが、楽しい一日でした。",
+     "tokens": [
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "疲れ",
+       "pos": "verb",
+       "reading": "つかれ",
+       "romaji": "tsukare",
+       "lemma": "疲れる",
+       "gloss": "to get tired",
+       "glossId": "menjadi lelah"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense ending",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "楽しい",
+       "pos": "adjective",
+       "reading": "たのしい",
+       "romaji": "tanoshii",
+       "gloss": "fun, enjoyable",
+       "glossId": "menyenangkan"
+      },
+      {
+       "surface": "一",
+       "pos": "noun",
+       "reading": "いち",
+       "romaji": "ichi",
+       "gloss": "one",
+       "glossId": "satu"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day",
+       "glossId": "hari"
+      },
+      {
+       "surface": "でし",
+       "pos": "auxiliary",
+       "romaji": "deshi",
+       "lemma": "です",
+       "gloss": "polite copula (is)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense ending",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I was very tired, but it was a fun day.",
+     "translationId": "Sangat lelah, tapi ini hari yang menyenangkan.",
+     "audioStart": 51.36,
+     "audioEnd": 55.8
+    },
+    {
+     "text": "また来年も海に行きたいです。",
+     "tokens": [
+      {
+       "surface": "また",
+       "pos": "conjunction",
+       "romaji": "mata",
+       "gloss": "again",
+       "glossId": "lagi"
+      },
+      {
+       "surface": "来年",
+       "pos": "noun",
+       "reading": "らいねん",
+       "romaji": "rainen",
+       "gloss": "next year",
+       "glossId": "tahun depan"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "海",
+       "pos": "noun",
+       "reading": "うみ",
+       "romaji": "umi",
+       "gloss": "sea, beach",
+       "glossId": "laut, pantai"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking time/direction",
+       "glossId": "partikel penanda waktu/arah"
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (verb suffix)",
+       "glossId": "ingin (akhiran kata kerja)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I want to go to the sea again next year.",
+     "translationId": "Saya ingin pergi ke laut lagi tahun depan.",
+     "audioStart": 55.8,
+     "audioEnd": 58.8
+    }
+   ]
+  }
+ ]
+}

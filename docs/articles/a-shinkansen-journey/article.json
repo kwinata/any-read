@@ -1,0 +1,1585 @@
+{
+ "schemaVersion": 1,
+ "id": "a-shinkansen-journey",
+ "language": "ja",
+ "title": "しんかんせんの たび",
+ "titleTranslation": "A Shinkansen Journey",
+ "titleTranslationId": "Perjalanan dengan Shinkansen",
+ "level": "N5",
+ "summary": "The narrator explains why they love riding the shinkansen, describing its speed, punctuality, comfort, scenery, and station bento boxes.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T18:04:30+00:00",
+ "audioFile": "audio-cb03e6ff.mp3",
+ "voice": "en-US-AndrewMultilingualNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "わたしは しんかんせんが すきです。",
+     "tokens": [
+      {
+       "surface": "わたし",
+       "pos": "pronoun",
+       "romaji": "watashi",
+       "gloss": "I, me",
+       "glossId": "saya"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "しん",
+       "pos": "noun",
+       "romaji": "shin",
+       "gloss": "'new' (part of shinkansen)",
+       "glossId": "'baru' (bagian dari shinkansen)"
+      },
+      {
+       "surface": "かん",
+       "pos": "prefix",
+       "romaji": "kan",
+       "gloss": "'trunk line' (part of shinkansen)",
+       "glossId": "'jalur utama' (bagian dari shinkansen)"
+      },
+      {
+       "surface": "せん",
+       "pos": "noun",
+       "romaji": "sen",
+       "gloss": "'line' (part of shinkansen)",
+       "glossId": "'jalur/rel' (bagian dari shinkansen)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "すき",
+       "pos": "adjective",
+       "romaji": "suki",
+       "gloss": "fond of, liked",
+       "glossId": "suka"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kata bantu sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I like the shinkansen.",
+     "translationId": "Saya suka shinkansen.",
+     "audioStart": 0.0,
+     "audioEnd": 2.808
+    },
+    {
+     "text": "しんかんせんは とても はやい でんしゃです。",
+     "tokens": [
+      {
+       "surface": "しん",
+       "pos": "prefix",
+       "romaji": "shin",
+       "gloss": "'new' (part of shinkansen)",
+       "glossId": "'baru' (bagian dari shinkansen)"
+      },
+      {
+       "surface": "かん",
+       "pos": "prefix",
+       "romaji": "kan",
+       "gloss": "'trunk line' (part of shinkansen)",
+       "glossId": "'jalur utama' (bagian dari shinkansen)"
+      },
+      {
+       "surface": "せん",
+       "pos": "noun",
+       "romaji": "sen",
+       "gloss": "'line' (part of shinkansen)",
+       "glossId": "'jalur/rel' (bagian dari shinkansen)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "はやい",
+       "pos": "adjective",
+       "romaji": "hayai",
+       "gloss": "fast",
+       "glossId": "cepat"
+      },
+      {
+       "surface": "でんしゃ",
+       "pos": "noun",
+       "romaji": "densha",
+       "gloss": "train",
+       "glossId": "kereta listrik"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kata bantu sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The shinkansen is a very fast train.",
+     "translationId": "Shinkansen adalah kereta yang sangat cepat.",
+     "audioStart": 2.808,
+     "audioEnd": 6.168
+    },
+    {
+     "text": "えきで きっぷを かって、ホームに いきます。",
+     "tokens": [
+      {
+       "surface": "えき",
+       "pos": "noun",
+       "romaji": "eki",
+       "gloss": "station",
+       "glossId": "stasiun"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "at (location marker)",
+       "glossId": "penanda lokasi 'di'"
+      },
+      {
+       "surface": "きっぷ",
+       "pos": "noun",
+       "romaji": "kippu",
+       "gloss": "ticket",
+       "glossId": "tiket"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "buy (stem of かう)",
+       "glossId": "bentuk dasar かう, 'membeli'"
+      },
+      {
+       "surface": "って",
+       "pos": "particle",
+       "romaji": "tte",
+       "gloss": "-te form ending, 'and then'",
+       "glossId": "akhiran bentuk -te, 'lalu'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ホーム",
+       "pos": "noun",
+       "romaji": "hoomu",
+       "gloss": "platform",
+       "glossId": "peron"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "to (direction marker)",
+       "glossId": "penanda arah 'ke'"
+      },
+      {
+       "surface": "いき",
+       "pos": "verb",
+       "romaji": "iki",
+       "lemma": "いく",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I buy a ticket at the station and go to the platform.",
+     "translationId": "Saya membeli tiket di stasiun, lalu pergi ke peron.",
+     "audioStart": 6.168,
+     "audioEnd": 9.624
+    },
+    {
+     "text": "しんかんせんは じかんどおりに きます。",
+     "tokens": [
+      {
+       "surface": "しん",
+       "pos": "prefix",
+       "romaji": "shin",
+       "gloss": "'new' (part of shinkansen)",
+       "glossId": "'baru' (bagian dari shinkansen)"
+      },
+      {
+       "surface": "かん",
+       "pos": "prefix",
+       "romaji": "kan",
+       "gloss": "'trunk line' (part of shinkansen)",
+       "glossId": "'jalur utama' (bagian dari shinkansen)"
+      },
+      {
+       "surface": "せん",
+       "pos": "noun",
+       "romaji": "sen",
+       "gloss": "'line' (part of shinkansen)",
+       "glossId": "'jalur/rel' (bagian dari shinkansen)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "じかん",
+       "pos": "noun",
+       "romaji": "jikan",
+       "gloss": "time",
+       "glossId": "waktu"
+      },
+      {
+       "surface": "どおり",
+       "pos": "noun",
+       "romaji": "doori",
+       "gloss": "as scheduled (じかんどおり = on time)",
+       "glossId": "sesuai (じかんどおり = tepat waktu)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "to (direction marker)",
+       "glossId": "penanda arah 'ke'"
+      },
+      {
+       "surface": "き",
+       "pos": "verb",
+       "romaji": "ki",
+       "lemma": "くる",
+       "gloss": "to come",
+       "glossId": "datang"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The shinkansen comes on time.",
+     "translationId": "Shinkansen datang tepat waktu.",
+     "audioStart": 9.624,
+     "audioEnd": 12.696
+    },
+    {
+     "text": "おくれることが すくないです。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix (part of おくれる)",
+       "glossId": "awalan hormat (bagian dari おくれる)"
+      },
+      {
+       "surface": "くれる",
+       "pos": "verb",
+       "romaji": "kureru",
+       "gloss": "to be late (from おくれる)",
+       "glossId": "terlambat (dari おくれる)"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer, 'the fact of'",
+       "glossId": "penominal, 'hal'"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "すくない",
+       "pos": "adjective",
+       "romaji": "sukunai",
+       "gloss": "few, rare",
+       "glossId": "sedikit, jarang"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kata bantu sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is rarely late.",
+     "translationId": "Shinkansen jarang terlambat.",
+     "audioStart": 12.696,
+     "audioEnd": 15.0
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "しんかんせんの なかは きれいで しずかです。",
+     "tokens": [
+      {
+       "surface": "しん",
+       "pos": "prefix",
+       "romaji": "shin",
+       "gloss": "'new' (part of shinkansen)",
+       "glossId": "'baru' (bagian dari shinkansen)"
+      },
+      {
+       "surface": "かん",
+       "pos": "prefix",
+       "romaji": "kan",
+       "gloss": "'trunk line' (part of shinkansen)",
+       "glossId": "'jalur utama' (bagian dari shinkansen)"
+      },
+      {
+       "surface": "せん",
+       "pos": "noun",
+       "romaji": "sen",
+       "gloss": "'line' (part of shinkansen)",
+       "glossId": "'jalur/rel' (bagian dari shinkansen)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle",
+       "glossId": "partikel posesif/penominal"
+      },
+      {
+       "surface": "なか",
+       "pos": "noun",
+       "romaji": "naka",
+       "gloss": "inside",
+       "glossId": "dalam"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "きれい",
+       "pos": "adjective",
+       "romaji": "kirei",
+       "gloss": "pretty, clean",
+       "glossId": "bersih, cantik"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "plain copula 'is'",
+       "glossId": "kata bantu 'adalah' (bentuk biasa)"
+      },
+      {
+       "surface": "しずか",
+       "pos": "adjective",
+       "romaji": "shizuka",
+       "gloss": "quiet",
+       "glossId": "tenang"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kata bantu sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The inside of the shinkansen is clean and quiet.",
+     "translationId": "Bagian dalam shinkansen bersih dan tenang.",
+     "audioStart": 15.0,
+     "audioEnd": 18.72
+    },
+    {
+     "text": "せきは ひろくて らくです。",
+     "tokens": [
+      {
+       "surface": "せき",
+       "pos": "noun",
+       "romaji": "seki",
+       "gloss": "seat",
+       "glossId": "kursi"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "ひろく",
+       "pos": "adjective",
+       "romaji": "hiroku",
+       "lemma": "ひろい",
+       "gloss": "spacious, wide",
+       "glossId": "luas"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "-te form connector 'and'",
+       "glossId": "penghubung bentuk -te 'dan'"
+      },
+      {
+       "surface": "らく",
+       "pos": "noun",
+       "romaji": "raku",
+       "gloss": "comfortable, easy",
+       "glossId": "nyaman, santai"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kata bantu sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The seats are spacious and comfortable.",
+     "translationId": "Kursinya luas dan nyaman.",
+     "audioStart": 18.72,
+     "audioEnd": 21.048
+    },
+    {
+     "text": "まどが おおきいので、そとの けしきが よく みえます。",
+     "tokens": [
+      {
+       "surface": "まど",
+       "pos": "noun",
+       "romaji": "mado",
+       "gloss": "window",
+       "glossId": "jendela"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "おおきい",
+       "pos": "adjective",
+       "romaji": "ookii",
+       "gloss": "big",
+       "glossId": "besar"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle",
+       "glossId": "partikel posesif/penominal"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "plain copula 'is'",
+       "glossId": "kata bantu 'adalah' (bentuk biasa)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "そと",
+       "pos": "noun",
+       "romaji": "soto",
+       "gloss": "outside",
+       "glossId": "luar"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle",
+       "glossId": "partikel posesif/penominal"
+      },
+      {
+       "surface": "けしき",
+       "pos": "noun",
+       "romaji": "keshiki",
+       "gloss": "scenery",
+       "glossId": "pemandangan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "よく",
+       "pos": "adverb",
+       "romaji": "yoku",
+       "gloss": "well, often",
+       "glossId": "dengan baik, sering"
+      },
+      {
+       "surface": "みえ",
+       "pos": "verb",
+       "romaji": "mie",
+       "lemma": "みえる",
+       "gloss": "to be visible",
+       "glossId": "terlihat"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Because the windows are big, you can see the outside scenery well.",
+     "translationId": "Karena jendelanya besar, pemandangan luar terlihat jelas.",
+     "audioStart": 21.048,
+     "audioEnd": 25.32
+    },
+    {
+     "text": "やまや うみが みえて、とても きれいです。",
+     "tokens": [
+      {
+       "surface": "やま",
+       "pos": "noun",
+       "romaji": "yama",
+       "gloss": "mountain",
+       "glossId": "gunung"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list particle)",
+       "glossId": "dan (partikel daftar tidak lengkap)"
+      },
+      {
+       "surface": "うみ",
+       "pos": "noun",
+       "romaji": "umi",
+       "gloss": "sea",
+       "glossId": "laut"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "みえ",
+       "pos": "verb",
+       "romaji": "mie",
+       "lemma": "みえる",
+       "gloss": "to be visible",
+       "glossId": "terlihat"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "-te form connector 'and'",
+       "glossId": "penghubung bentuk -te 'dan'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "きれい",
+       "pos": "adjective",
+       "romaji": "kirei",
+       "gloss": "pretty, clean",
+       "glossId": "bersih, cantik"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kata bantu sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You can see mountains and the sea, and it's very beautiful.",
+     "translationId": "Gunung dan laut terlihat, sangat indah.",
+     "audioStart": 25.32,
+     "audioEnd": 28.656
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ながい たびの ときは、えきべんを かいます。",
+     "tokens": [
+      {
+       "surface": "ながい",
+       "pos": "adjective",
+       "romaji": "nagai",
+       "gloss": "long",
+       "glossId": "panjang"
+      },
+      {
+       "surface": "たび",
+       "pos": "noun",
+       "romaji": "tabi",
+       "gloss": "trip, journey",
+       "glossId": "perjalanan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle",
+       "glossId": "partikel posesif/penominal"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "time, when",
+       "glossId": "waktu, saat"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "え",
+       "pos": "interjection",
+       "romaji": "e",
+       "gloss": "'station' (part of えきべん)",
+       "glossId": "'stasiun' (bagian dari えきべん)"
+      },
+      {
+       "surface": "きべん",
+       "pos": "noun",
+       "romaji": "kiben",
+       "gloss": "'bento' (part of えきべん)",
+       "glossId": "'bekal' (bagian dari えきべん)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "かい",
+       "pos": "verb",
+       "romaji": "kai",
+       "lemma": "かう",
+       "gloss": "to buy",
+       "glossId": "membeli"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On a long trip, I buy an ekiben (station lunchbox).",
+     "translationId": "Saat perjalanan jauh, saya membeli ekiben (bekal stasiun).",
+     "audioStart": 28.656,
+     "audioEnd": 32.232
+    },
+    {
+     "text": "えきべんは えきで うる おべんとうです。",
+     "tokens": [
+      {
+       "surface": "え",
+       "pos": "interjection",
+       "romaji": "e",
+       "gloss": "'station' (part of えきべん)",
+       "glossId": "'stasiun' (bagian dari えきべん)"
+      },
+      {
+       "surface": "きべん",
+       "pos": "noun",
+       "romaji": "kiben",
+       "gloss": "'bento' (part of えきべん)",
+       "glossId": "'bekal' (bagian dari えきべん)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "えき",
+       "pos": "noun",
+       "romaji": "eki",
+       "gloss": "station",
+       "glossId": "stasiun"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "at (location marker)",
+       "glossId": "penanda lokasi 'di'"
+      },
+      {
+       "surface": "うる",
+       "pos": "verb",
+       "romaji": "uru",
+       "gloss": "to sell",
+       "glossId": "menjual"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix (part of おくれる)",
+       "glossId": "awalan hormat (bagian dari おくれる)"
+      },
+      {
+       "surface": "べんとう",
+       "pos": "noun",
+       "romaji": "bentou",
+       "gloss": "boxed lunch",
+       "glossId": "bekal makan"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kata bantu sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Ekiben is a boxed lunch sold at the station.",
+     "translationId": "Ekiben adalah bekal yang dijual di stasiun.",
+     "audioStart": 32.232,
+     "audioEnd": 35.352
+    },
+    {
+     "text": "しんかんせんの なかで たべる おべんとうは とても おいしいです。",
+     "tokens": [
+      {
+       "surface": "しん",
+       "pos": "prefix",
+       "romaji": "shin",
+       "gloss": "'new' (part of shinkansen)",
+       "glossId": "'baru' (bagian dari shinkansen)"
+      },
+      {
+       "surface": "かん",
+       "pos": "prefix",
+       "romaji": "kan",
+       "gloss": "'trunk line' (part of shinkansen)",
+       "glossId": "'jalur utama' (bagian dari shinkansen)"
+      },
+      {
+       "surface": "せん",
+       "pos": "noun",
+       "romaji": "sen",
+       "gloss": "'line' (part of shinkansen)",
+       "glossId": "'jalur/rel' (bagian dari shinkansen)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle",
+       "glossId": "partikel posesif/penominal"
+      },
+      {
+       "surface": "なか",
+       "pos": "noun",
+       "romaji": "naka",
+       "gloss": "inside",
+       "glossId": "dalam"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "at (location marker)",
+       "glossId": "penanda lokasi 'di'"
+      },
+      {
+       "surface": "たべる",
+       "pos": "verb",
+       "romaji": "taberu",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix (part of おくれる)",
+       "glossId": "awalan hormat (bagian dari おくれる)"
+      },
+      {
+       "surface": "べんとう",
+       "pos": "noun",
+       "romaji": "bentou",
+       "gloss": "boxed lunch",
+       "glossId": "bekal makan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "おいしい",
+       "pos": "adjective",
+       "romaji": "oishii",
+       "gloss": "delicious",
+       "glossId": "enak"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kata bantu sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The bento eaten inside the shinkansen is very delicious.",
+     "translationId": "Bekal yang dimakan di dalam shinkansen sangat enak.",
+     "audioStart": 35.352,
+     "audioEnd": 40.08
+    },
+    {
+     "text": "のみものも いっしょに かいます。",
+     "tokens": [
+      {
+       "surface": "のみ",
+       "pos": "particle",
+       "romaji": "nomi",
+       "gloss": "drink (stem of のむ)",
+       "glossId": "bentuk dasar のむ, bagian dari 'minuman'"
+      },
+      {
+       "surface": "もの",
+       "pos": "noun",
+       "romaji": "mono",
+       "gloss": "thing",
+       "glossId": "benda"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "いっしょ",
+       "pos": "noun",
+       "romaji": "issho",
+       "gloss": "together",
+       "glossId": "bersama"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "to (direction marker)",
+       "glossId": "penanda arah 'ke'"
+      },
+      {
+       "surface": "かい",
+       "pos": "verb",
+       "romaji": "kai",
+       "lemma": "かう",
+       "gloss": "to buy",
+       "glossId": "membeli"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I also buy a drink at the same time.",
+     "translationId": "Saya juga membeli minuman sekalian.",
+     "audioStart": 40.08,
+     "audioEnd": 42.552
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "しんかんせんに のると、とおい まちにも はやく つきます。",
+     "tokens": [
+      {
+       "surface": "しん",
+       "pos": "prefix",
+       "romaji": "shin",
+       "gloss": "'new' (part of shinkansen)",
+       "glossId": "'baru' (bagian dari shinkansen)"
+      },
+      {
+       "surface": "かん",
+       "pos": "prefix",
+       "romaji": "kan",
+       "gloss": "'trunk line' (part of shinkansen)",
+       "glossId": "'jalur utama' (bagian dari shinkansen)"
+      },
+      {
+       "surface": "せん",
+       "pos": "noun",
+       "romaji": "sen",
+       "gloss": "'line' (part of shinkansen)",
+       "glossId": "'jalur/rel' (bagian dari shinkansen)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "to (direction marker)",
+       "glossId": "penanda arah 'ke'"
+      },
+      {
+       "surface": "のる",
+       "pos": "verb",
+       "romaji": "noru",
+       "gloss": "to ride",
+       "glossId": "naik"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "if, when (conditional particle)",
+       "glossId": "jika, saat (partikel kondisional)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "とおい",
+       "pos": "adjective",
+       "romaji": "tooi",
+       "gloss": "far",
+       "glossId": "jauh"
+      },
+      {
+       "surface": "まち",
+       "pos": "noun",
+       "romaji": "machi",
+       "gloss": "town, city",
+       "glossId": "kota"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "to (direction marker)",
+       "glossId": "penanda arah 'ke'"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "はやく",
+       "pos": "adjective",
+       "romaji": "hayaku",
+       "lemma": "はやい",
+       "gloss": "fast",
+       "glossId": "cepat"
+      },
+      {
+       "surface": "つき",
+       "pos": "verb",
+       "romaji": "tsuki",
+       "lemma": "つく",
+       "gloss": "to arrive",
+       "glossId": "tiba"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If you ride the shinkansen, you can reach even faraway towns quickly.",
+     "translationId": "Kalau naik shinkansen, kita bisa cepat sampai ke kota yang jauh sekalipun.",
+     "audioStart": 42.552,
+     "audioEnd": 46.8
+    },
+    {
+     "text": "バスや ふつうの でんしゃより はやいです。",
+     "tokens": [
+      {
+       "surface": "バス",
+       "pos": "noun",
+       "romaji": "basu",
+       "gloss": "bus",
+       "glossId": "bus"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list particle)",
+       "glossId": "dan (partikel daftar tidak lengkap)"
+      },
+      {
+       "surface": "ふつう",
+       "pos": "noun",
+       "romaji": "futsuu",
+       "gloss": "ordinary, regular",
+       "glossId": "biasa"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle",
+       "glossId": "partikel posesif/penominal"
+      },
+      {
+       "surface": "でんしゃ",
+       "pos": "noun",
+       "romaji": "densha",
+       "gloss": "train",
+       "glossId": "kereta listrik"
+      },
+      {
+       "surface": "より",
+       "pos": "particle",
+       "romaji": "yori",
+       "gloss": "than (comparison particle)",
+       "glossId": "daripada"
+      },
+      {
+       "surface": "はやい",
+       "pos": "adjective",
+       "romaji": "hayai",
+       "gloss": "fast",
+       "glossId": "cepat"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kata bantu sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is faster than buses or regular trains.",
+     "translationId": "Ini lebih cepat daripada bus atau kereta biasa.",
+     "audioStart": 46.8,
+     "audioEnd": 49.872
+    },
+    {
+     "text": "だから、しごとの ひとも りょこうの ひとも しんかんせんを よく つかいます。",
+     "tokens": [
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "plain copula 'is'",
+       "glossId": "kata bantu 'adalah' (bentuk biasa)"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "because, so",
+       "glossId": "karena, sebab"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "しごと",
+       "pos": "noun",
+       "romaji": "shigoto",
+       "gloss": "work, job",
+       "glossId": "pekerjaan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle",
+       "glossId": "partikel posesif/penominal"
+      },
+      {
+       "surface": "ひと",
+       "pos": "noun",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "りょこう",
+       "pos": "noun",
+       "romaji": "ryokou",
+       "gloss": "travel, trip",
+       "glossId": "wisata, perjalanan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle",
+       "glossId": "partikel posesif/penominal"
+      },
+      {
+       "surface": "ひと",
+       "pos": "noun",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "しん",
+       "pos": "noun",
+       "romaji": "shin",
+       "gloss": "'new' (part of shinkansen)",
+       "glossId": "'baru' (bagian dari shinkansen)"
+      },
+      {
+       "surface": "かん",
+       "pos": "prefix",
+       "romaji": "kan",
+       "gloss": "'trunk line' (part of shinkansen)",
+       "glossId": "'jalur utama' (bagian dari shinkansen)"
+      },
+      {
+       "surface": "せん",
+       "pos": "noun",
+       "romaji": "sen",
+       "gloss": "'line' (part of shinkansen)",
+       "glossId": "'jalur/rel' (bagian dari shinkansen)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "よく",
+       "pos": "adverb",
+       "romaji": "yoku",
+       "gloss": "well, often",
+       "glossId": "dengan baik, sering"
+      },
+      {
+       "surface": "つかい",
+       "pos": "verb",
+       "romaji": "tsukai",
+       "lemma": "つかう",
+       "gloss": "to use",
+       "glossId": "memakai"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "So both people traveling for work and people traveling for leisure often use the shinkansen.",
+     "translationId": "Karena itu, baik orang yang bekerja maupun yang berwisata sering memakai shinkansen.",
+     "audioStart": 49.872,
+     "audioEnd": 55.176
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "つぎの やすみに、また しんかんせんに のりたいです。",
+     "tokens": [
+      {
+       "surface": "つぎ",
+       "pos": "noun",
+       "romaji": "tsugi",
+       "gloss": "next",
+       "glossId": "berikutnya"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle",
+       "glossId": "partikel posesif/penominal"
+      },
+      {
+       "surface": "やすみ",
+       "pos": "noun",
+       "romaji": "yasumi",
+       "gloss": "holiday, day off",
+       "glossId": "libur"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "to (direction marker)",
+       "glossId": "penanda arah 'ke'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "また",
+       "pos": "adverb",
+       "romaji": "mata",
+       "gloss": "again",
+       "glossId": "lagi"
+      },
+      {
+       "surface": "しん",
+       "pos": "noun",
+       "romaji": "shin",
+       "gloss": "'new' (part of shinkansen)",
+       "glossId": "'baru' (bagian dari shinkansen)"
+      },
+      {
+       "surface": "かん",
+       "pos": "prefix",
+       "romaji": "kan",
+       "gloss": "'trunk line' (part of shinkansen)",
+       "glossId": "'jalur utama' (bagian dari shinkansen)"
+      },
+      {
+       "surface": "せん",
+       "pos": "noun",
+       "romaji": "sen",
+       "gloss": "'line' (part of shinkansen)",
+       "glossId": "'jalur/rel' (bagian dari shinkansen)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "to (direction marker)",
+       "glossId": "penanda arah 'ke'"
+      },
+      {
+       "surface": "のり",
+       "pos": "verb",
+       "romaji": "nori",
+       "lemma": "のる",
+       "gloss": "to ride",
+       "glossId": "naik"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desire suffix)",
+       "glossId": "ingin (akhiran keinginan)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kata bantu sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On my next day off, I want to ride the shinkansen again.",
+     "translationId": "Pada libur berikutnya, saya ingin naik shinkansen lagi.",
+     "audioStart": 55.176,
+     "audioEnd": 59.352
+    },
+    {
+     "text": "まどの そとの けしきを みながら、のんびり たびを したいです。",
+     "tokens": [
+      {
+       "surface": "ま",
+       "pos": "interjection",
+       "romaji": "ma",
+       "gloss": "'window' (part of まど)",
+       "glossId": "'jendela' (bagian dari まど)"
+      },
+      {
+       "surface": "どの",
+       "pos": "prenominal",
+       "romaji": "dono",
+       "gloss": "possessive の attached (from まどの)",
+       "glossId": "partikel の menempel (dari まどの)"
+      },
+      {
+       "surface": "そと",
+       "pos": "noun",
+       "romaji": "soto",
+       "gloss": "outside",
+       "glossId": "luar"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle",
+       "glossId": "partikel posesif/penominal"
+      },
+      {
+       "surface": "けしき",
+       "pos": "noun",
+       "romaji": "keshiki",
+       "gloss": "scenery",
+       "glossId": "pemandangan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "み",
+       "pos": "verb",
+       "romaji": "mi",
+       "lemma": "みる",
+       "gloss": "to see, look at",
+       "glossId": "melihat"
+      },
+      {
+       "surface": "ながら",
+       "pos": "particle",
+       "romaji": "nagara",
+       "gloss": "while (doing)",
+       "glossId": "sambil"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "のんびり",
+       "pos": "adverb",
+       "romaji": "nonbiri",
+       "gloss": "leisurely, relaxed",
+       "glossId": "santai"
+      },
+      {
+       "surface": "たび",
+       "pos": "noun",
+       "romaji": "tabi",
+       "gloss": "trip, journey",
+       "glossId": "perjalanan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desire suffix)",
+       "glossId": "ingin (akhiran keinginan)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kata bantu sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I want to travel leisurely while looking at the scenery outside the window.",
+     "translationId": "Saya ingin bepergian dengan santai sambil melihat pemandangan di luar jendela.",
+     "audioStart": 59.352,
+     "audioEnd": 64.08
+    }
+   ]
+  }
+ ]
+}

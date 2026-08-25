@@ -1,0 +1,1542 @@
+{
+ "schemaVersion": 1,
+ "id": "club-activities-at-japanese-schools",
+ "language": "ja",
+ "title": "日本の学校の部活動",
+ "titleTranslation": "Club Activities at Japanese Schools",
+ "titleTranslationId": "Kegiatan Klub di Sekolah Jepang",
+ "level": "N5",
+ "summary": "The article explains bukatsu (school club activities) in Japan, covering the types of sports and cultural clubs, practice schedules, and the important senpai-kohai relationship among students.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T18:04:37+00:00",
+ "audioFile": "audio-50ccc4d7.mp3",
+ "voice": "en-US-AndrewMultilingualNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "日本の中学校と高校には、部活動があります。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle",
+       "glossId": "partikel kepemilikan"
+      },
+      {
+       "surface": "中学校",
+       "pos": "noun",
+       "reading": "ちゅうがっこう",
+       "romaji": "chuugakkou",
+       "gloss": "junior high school",
+       "glossId": "SMP"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and (particle)",
+       "glossId": "dan (partikel)"
+      },
+      {
+       "surface": "高校",
+       "pos": "noun",
+       "reading": "こうこう",
+       "romaji": "koukou",
+       "gloss": "high school",
+       "glossId": "SMA"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/time",
+       "glossId": "partikel penanda lokasi/waktu"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "部活動",
+       "pos": "noun",
+       "reading": "ぶかつどう",
+       "romaji": "bukatsudou",
+       "gloss": "club activity",
+       "glossId": "kegiatan klub"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Japanese junior high schools and high schools have club activities.",
+     "translationId": "SMP dan SMA di Jepang memiliki kegiatan klub.",
+     "audioStart": 0.0,
+     "audioEnd": 4.752
+    },
+    {
+     "text": "「ぶかつ」と呼びます。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "ぶか",
+       "pos": "noun",
+       "romaji": "buka",
+       "gloss": "part of \"bukatsu\" (club activity)",
+       "glossId": "bagian dari \"bukatsu\" (kegiatan klub)"
+      },
+      {
+       "surface": "つ",
+       "pos": "particle",
+       "romaji": "tsu",
+       "gloss": "part of \"bukatsu\" (club activity)",
+       "glossId": "bagian dari \"bukatsu\" (kegiatan klub)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and (particle)",
+       "glossId": "dan (partikel)"
+      },
+      {
+       "surface": "呼び",
+       "pos": "verb",
+       "reading": "よび",
+       "romaji": "yobi",
+       "lemma": "呼ぶ",
+       "gloss": "to call",
+       "glossId": "memanggil"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is called \"bukatsu.\"",
+     "translationId": "Ini disebut \"bukatsu\".",
+     "audioStart": 4.752,
+     "audioEnd": 6.672
+    },
+    {
+     "text": "多くの学生が、放課後に部活動をします。",
+     "tokens": [
+      {
+       "surface": "多く",
+       "pos": "noun",
+       "reading": "おおく",
+       "romaji": "ooku",
+       "gloss": "many, much",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle",
+       "glossId": "partikel kepemilikan"
+      },
+      {
+       "surface": "学生",
+       "pos": "noun",
+       "reading": "がくせい",
+       "romaji": "gakusei",
+       "gloss": "student",
+       "glossId": "siswa"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "放課後",
+       "pos": "noun",
+       "reading": "ほうかご",
+       "romaji": "houkago",
+       "gloss": "after school",
+       "glossId": "setelah pulang sekolah"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/time",
+       "glossId": "partikel penanda lokasi/waktu"
+      },
+      {
+       "surface": "部活動",
+       "pos": "noun",
+       "reading": "ぶかつどう",
+       "romaji": "bukatsudou",
+       "gloss": "club activity",
+       "glossId": "kegiatan klub"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many students do club activities after school.",
+     "translationId": "Banyak siswa melakukan kegiatan klub setelah pulang sekolah.",
+     "audioStart": 6.672,
+     "audioEnd": 10.92
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "部活動には、いろいろな種類があります。",
+     "tokens": [
+      {
+       "surface": "部活動",
+       "pos": "noun",
+       "reading": "ぶかつどう",
+       "romaji": "bukatsudou",
+       "gloss": "club activity",
+       "glossId": "kegiatan klub"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/time",
+       "glossId": "partikel penanda lokasi/waktu"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "いろいろ",
+       "pos": "adjective",
+       "romaji": "iroiro",
+       "gloss": "various",
+       "glossId": "bermacam-macam"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "plain copula \"is\"",
+       "glossId": "kata kerja bantu \"adalah\" (bentuk biasa)"
+      },
+      {
+       "surface": "種類",
+       "pos": "noun",
+       "reading": "しゅるい",
+       "romaji": "shurui",
+       "gloss": "kind, type",
+       "glossId": "jenis"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are various kinds of club activities.",
+     "translationId": "Ada berbagai jenis kegiatan klub.",
+     "audioStart": 10.92,
+     "audioEnd": 14.64
+    },
+    {
+     "text": "スポーツの部活動は、サッカー部や野球部やバスケットボール部があります。",
+     "tokens": [
+      {
+       "surface": "スポーツ",
+       "pos": "noun",
+       "romaji": "supootsu",
+       "gloss": "sports",
+       "glossId": "olahraga"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle",
+       "glossId": "partikel kepemilikan"
+      },
+      {
+       "surface": "部活動",
+       "pos": "noun",
+       "reading": "ぶかつどう",
+       "romaji": "bukatsudou",
+       "gloss": "club activity",
+       "glossId": "kegiatan klub"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "サッカー部",
+       "pos": "noun",
+       "reading": "さっかーぶ",
+       "romaji": "sakkaabu",
+       "gloss": "soccer club",
+       "glossId": "klub sepak bola"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "野球部",
+       "pos": "noun",
+       "reading": "やきゅうぶ",
+       "romaji": "yakyuubu",
+       "gloss": "baseball club",
+       "glossId": "klub bisbol"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "バスケットボール部",
+       "pos": "noun",
+       "reading": "ばすけっとぼーるぶ",
+       "romaji": "basukettoboorubu",
+       "gloss": "basketball club",
+       "glossId": "klub basket"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "For sports clubs, there are soccer, baseball, and basketball clubs.",
+     "translationId": "Klub olahraga meliputi klub sepak bola, klub bisbol, dan klub basket.",
+     "audioStart": 14.64,
+     "audioEnd": 20.4
+    },
+    {
+     "text": "文化系の部活動は、音楽部や美術部や茶道部があります。",
+     "tokens": [
+      {
+       "surface": "文化系",
+       "pos": "noun",
+       "reading": "ぶんかけい",
+       "romaji": "bunkakei",
+       "gloss": "cultural (type of club)",
+       "glossId": "jenis budaya"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle",
+       "glossId": "partikel kepemilikan"
+      },
+      {
+       "surface": "部活動",
+       "pos": "noun",
+       "reading": "ぶかつどう",
+       "romaji": "bukatsudou",
+       "gloss": "club activity",
+       "glossId": "kegiatan klub"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "音楽部",
+       "pos": "noun",
+       "reading": "おんがくぶ",
+       "romaji": "ongakubu",
+       "gloss": "music club",
+       "glossId": "klub musik"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "美術部",
+       "pos": "noun",
+       "reading": "びじゅつぶ",
+       "romaji": "bijutsubu",
+       "gloss": "art club",
+       "glossId": "klub seni"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "茶道部",
+       "pos": "noun",
+       "reading": "さどうぶ",
+       "romaji": "sadoubu",
+       "gloss": "tea ceremony club",
+       "glossId": "klub upacara minum teh"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "For cultural clubs, there are music, art, and tea ceremony clubs.",
+     "translationId": "Klub budaya meliputi klub musik, klub seni, dan klub upacara minum teh.",
+     "audioStart": 20.4,
+     "audioEnd": 26.064
+    },
+    {
+     "text": "学生は、好きな部活を一つ選びます。",
+     "tokens": [
+      {
+       "surface": "学生",
+       "pos": "noun",
+       "reading": "がくせい",
+       "romaji": "gakusei",
+       "gloss": "student",
+       "glossId": "siswa"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "好き",
+       "pos": "adjective",
+       "reading": "すき",
+       "romaji": "suki",
+       "gloss": "to like, favorite",
+       "glossId": "suka, favorit"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "plain copula \"is\"",
+       "glossId": "kata kerja bantu \"adalah\" (bentuk biasa)"
+      },
+      {
+       "surface": "部活",
+       "pos": "noun",
+       "reading": "ぶかつ",
+       "romaji": "bukatsu",
+       "gloss": "club activity (short for bukatsudou)",
+       "glossId": "kegiatan klub (singkatan)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "一",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "one",
+       "glossId": "satu"
+      },
+      {
+       "surface": "つ",
+       "pos": "suffix",
+       "romaji": "tsu",
+       "gloss": "part of \"bukatsu\" (club activity)",
+       "glossId": "bagian dari \"bukatsu\" (kegiatan klub)"
+      },
+      {
+       "surface": "選び",
+       "pos": "verb",
+       "reading": "えらび",
+       "romaji": "erabi",
+       "lemma": "選ぶ",
+       "gloss": "to choose",
+       "glossId": "memilih"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Students choose one club they like.",
+     "translationId": "Siswa memilih satu klub yang mereka sukai.",
+     "audioStart": 26.064,
+     "audioEnd": 29.76
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "部活動は、平日に毎日あります。",
+     "tokens": [
+      {
+       "surface": "部活動",
+       "pos": "noun",
+       "reading": "ぶかつどう",
+       "romaji": "bukatsudou",
+       "gloss": "club activity",
+       "glossId": "kegiatan klub"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "平日",
+       "pos": "noun",
+       "reading": "へいじつ",
+       "romaji": "heijitsu",
+       "gloss": "weekday",
+       "glossId": "hari kerja"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/time",
+       "glossId": "partikel penanda lokasi/waktu"
+      },
+      {
+       "surface": "毎日",
+       "pos": "noun",
+       "reading": "まいにち",
+       "romaji": "mainichi",
+       "gloss": "every day",
+       "glossId": "setiap hari"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Club activities happen every weekday.",
+     "translationId": "Kegiatan klub berlangsung setiap hari kerja.",
+     "audioStart": 29.76,
+     "audioEnd": 33.6
+    },
+    {
+     "text": "朝や放課後に練習します。",
+     "tokens": [
+      {
+       "surface": "朝",
+       "pos": "noun",
+       "reading": "あさ",
+       "romaji": "asa",
+       "gloss": "morning",
+       "glossId": "pagi"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "放課後",
+       "pos": "noun",
+       "reading": "ほうかご",
+       "romaji": "houkago",
+       "gloss": "after school",
+       "glossId": "setelah pulang sekolah"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/time",
+       "glossId": "partikel penanda lokasi/waktu"
+      },
+      {
+       "surface": "練習",
+       "pos": "noun",
+       "reading": "れんしゅう",
+       "romaji": "renshuu",
+       "gloss": "practice",
+       "glossId": "latihan"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They practice in the morning or after school.",
+     "translationId": "Mereka berlatih pada pagi hari atau setelah pulang sekolah.",
+     "audioStart": 33.6,
+     "audioEnd": 36.552
+    },
+    {
+     "text": "土曜日や日曜日にも、練習することが多いです。",
+     "tokens": [
+      {
+       "surface": "土曜日",
+       "pos": "noun",
+       "reading": "どようび",
+       "romaji": "doyoubi",
+       "gloss": "Saturday",
+       "glossId": "hari Sabtu"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "日曜日",
+       "pos": "noun",
+       "reading": "にちようび",
+       "romaji": "nichiyoubi",
+       "gloss": "Sunday",
+       "glossId": "hari Minggu"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/time",
+       "glossId": "partikel penanda lokasi/waktu"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "練習",
+       "pos": "noun",
+       "reading": "れんしゅう",
+       "romaji": "renshuu",
+       "gloss": "practice",
+       "glossId": "latihan"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer, \"the fact/act of\"",
+       "glossId": "penominal \"hal\""
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "多い",
+       "pos": "adjective",
+       "reading": "おおい",
+       "romaji": "ooi",
+       "gloss": "many, common",
+       "glossId": "banyak, sering"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kata kerja bantu sopan \"adalah\""
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They often practice on Saturdays and Sundays too.",
+     "translationId": "Mereka juga sering berlatih pada hari Sabtu dan Minggu.",
+     "audioStart": 36.552,
+     "audioEnd": 41.088
+    },
+    {
+     "text": "試合や発表会の前は、練習がもっと長くなります。",
+     "tokens": [
+      {
+       "surface": "試合",
+       "pos": "noun",
+       "reading": "しあい",
+       "romaji": "shiai",
+       "gloss": "match, game",
+       "glossId": "pertandingan"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "発表会",
+       "pos": "noun",
+       "reading": "はっぴょうかい",
+       "romaji": "happyoukai",
+       "gloss": "recital, presentation event",
+       "glossId": "acara pertunjukan/presentasi"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle",
+       "glossId": "partikel kepemilikan"
+      },
+      {
+       "surface": "前",
+       "pos": "noun",
+       "reading": "まえ",
+       "romaji": "mae",
+       "gloss": "before",
+       "glossId": "sebelum"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "練習",
+       "pos": "noun",
+       "reading": "れんしゅう",
+       "romaji": "renshuu",
+       "gloss": "practice",
+       "glossId": "latihan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "もっと",
+       "pos": "adverb",
+       "romaji": "motto",
+       "gloss": "more",
+       "glossId": "lebih"
+      },
+      {
+       "surface": "長く",
+       "pos": "adjective",
+       "reading": "ながく",
+       "romaji": "nagaku",
+       "lemma": "長い",
+       "gloss": "long",
+       "glossId": "panjang, lama"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Before a match or a recital, practice becomes even longer.",
+     "translationId": "Sebelum pertandingan atau pertunjukan, latihan menjadi lebih lama.",
+     "audioStart": 41.088,
+     "audioEnd": 45.864
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "部活動で、学生は新しい友達を作ります。",
+     "tokens": [
+      {
+       "surface": "部活動",
+       "pos": "noun",
+       "reading": "ぶかつどう",
+       "romaji": "bukatsudou",
+       "gloss": "club activity",
+       "glossId": "kegiatan klub"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking means/location",
+       "glossId": "partikel penanda cara/tempat"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "学生",
+       "pos": "noun",
+       "reading": "がくせい",
+       "romaji": "gakusei",
+       "gloss": "student",
+       "glossId": "siswa"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "新しい",
+       "pos": "adjective",
+       "reading": "あたらしい",
+       "romaji": "atarashii",
+       "gloss": "new",
+       "glossId": "baru"
+      },
+      {
+       "surface": "友達",
+       "pos": "noun",
+       "reading": "ともだち",
+       "romaji": "tomodachi",
+       "gloss": "friend",
+       "glossId": "teman"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "作り",
+       "pos": "verb",
+       "reading": "つくり",
+       "romaji": "tsukuri",
+       "lemma": "作る",
+       "gloss": "to make",
+       "glossId": "membuat"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Through club activities, students make new friends.",
+     "translationId": "Melalui kegiatan klub, siswa membuat teman baru.",
+     "audioStart": 45.864,
+     "audioEnd": 50.688
+    },
+    {
+     "text": "先輩と後輩の関係も大切です。",
+     "tokens": [
+      {
+       "surface": "先輩",
+       "pos": "noun",
+       "reading": "せんぱい",
+       "romaji": "senpai",
+       "gloss": "senior",
+       "glossId": "senior"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and (particle)",
+       "glossId": "dan (partikel)"
+      },
+      {
+       "surface": "後輩",
+       "pos": "noun",
+       "reading": "こうはい",
+       "romaji": "kouhai",
+       "gloss": "junior",
+       "glossId": "junior"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle",
+       "glossId": "partikel kepemilikan"
+      },
+      {
+       "surface": "関係",
+       "pos": "noun",
+       "reading": "かんけい",
+       "romaji": "kankei",
+       "gloss": "relationship",
+       "glossId": "hubungan"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "大切",
+       "pos": "adjective",
+       "reading": "たいせつ",
+       "romaji": "taisetsu",
+       "gloss": "important",
+       "glossId": "penting"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kata kerja bantu sopan \"adalah\""
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The relationship between seniors (senpai) and juniors (kohai) is also important.",
+     "translationId": "Hubungan antara senpai (senior) dan kohai (junior) juga penting.",
+     "audioStart": 50.688,
+     "audioEnd": 54.384
+    },
+    {
+     "text": "後輩は先輩に礼儀を習います。",
+     "tokens": [
+      {
+       "surface": "後輩",
+       "pos": "noun",
+       "reading": "こうはい",
+       "romaji": "kouhai",
+       "gloss": "junior",
+       "glossId": "junior"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "先輩",
+       "pos": "noun",
+       "reading": "せんぱい",
+       "romaji": "senpai",
+       "gloss": "senior",
+       "glossId": "senior"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/time",
+       "glossId": "partikel penanda lokasi/waktu"
+      },
+      {
+       "surface": "礼儀",
+       "pos": "noun",
+       "reading": "れいぎ",
+       "romaji": "reigi",
+       "gloss": "manners, etiquette",
+       "glossId": "sopan santun"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "習い",
+       "pos": "verb",
+       "reading": "ならい",
+       "romaji": "narai",
+       "lemma": "習う",
+       "gloss": "to learn",
+       "glossId": "belajar"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Juniors learn manners from their seniors.",
+     "translationId": "Junior belajar sopan santun dari senior.",
+     "audioStart": 54.384,
+     "audioEnd": 57.936
+    },
+    {
+     "text": "先輩は後輩に技術を教えます。",
+     "tokens": [
+      {
+       "surface": "先輩",
+       "pos": "noun",
+       "reading": "せんぱい",
+       "romaji": "senpai",
+       "gloss": "senior",
+       "glossId": "senior"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "後輩",
+       "pos": "noun",
+       "reading": "こうはい",
+       "romaji": "kouhai",
+       "gloss": "junior",
+       "glossId": "junior"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/time",
+       "glossId": "partikel penanda lokasi/waktu"
+      },
+      {
+       "surface": "技術",
+       "pos": "noun",
+       "reading": "ぎじゅつ",
+       "romaji": "gijutsu",
+       "gloss": "skill, technique",
+       "glossId": "keterampilan, teknik"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "教え",
+       "pos": "verb",
+       "reading": "おしえ",
+       "romaji": "oshie",
+       "lemma": "教える",
+       "gloss": "to teach",
+       "glossId": "mengajar"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Seniors teach skills to their juniors.",
+     "translationId": "Senior mengajarkan keterampilan kepada junior.",
+     "audioStart": 57.936,
+     "audioEnd": 61.416
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "部活動は大変ですが、楽しいです。",
+     "tokens": [
+      {
+       "surface": "部活動",
+       "pos": "noun",
+       "reading": "ぶかつどう",
+       "romaji": "bukatsudou",
+       "gloss": "club activity",
+       "glossId": "kegiatan klub"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "大変",
+       "pos": "adjective",
+       "reading": "たいへん",
+       "romaji": "taihen",
+       "gloss": "hard, tough",
+       "glossId": "berat, sulit"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kata kerja bantu sopan \"adalah\""
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "楽しい",
+       "pos": "adjective",
+       "reading": "たのしい",
+       "romaji": "tanoshii",
+       "gloss": "fun, enjoyable",
+       "glossId": "menyenangkan"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kata kerja bantu sopan \"adalah\""
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Club activities are hard, but fun.",
+     "translationId": "Kegiatan klub itu berat, tetapi menyenangkan.",
+     "audioStart": 61.416,
+     "audioEnd": 65.16
+    },
+    {
+     "text": "多くの学生は、部活動が学校生活で一番好きな時間だと言います。",
+     "tokens": [
+      {
+       "surface": "多く",
+       "pos": "noun",
+       "reading": "おおく",
+       "romaji": "ooku",
+       "gloss": "many, much",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle",
+       "glossId": "partikel kepemilikan"
+      },
+      {
+       "surface": "学生",
+       "pos": "noun",
+       "reading": "がくせい",
+       "romaji": "gakusei",
+       "gloss": "student",
+       "glossId": "siswa"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "部活動",
+       "pos": "noun",
+       "reading": "ぶかつどう",
+       "romaji": "bukatsudou",
+       "gloss": "club activity",
+       "glossId": "kegiatan klub"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "学校",
+       "pos": "noun",
+       "reading": "がっこう",
+       "romaji": "gakkou",
+       "gloss": "school",
+       "glossId": "sekolah"
+      },
+      {
+       "surface": "生活",
+       "pos": "noun",
+       "reading": "せいかつ",
+       "romaji": "seikatsu",
+       "gloss": "life, lifestyle",
+       "glossId": "kehidupan"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking means/location",
+       "glossId": "partikel penanda cara/tempat"
+      },
+      {
+       "surface": "一番",
+       "pos": "noun",
+       "reading": "いちばん",
+       "romaji": "ichiban",
+       "gloss": "the most, number one",
+       "glossId": "paling, nomor satu"
+      },
+      {
+       "surface": "好き",
+       "pos": "adjective",
+       "reading": "すき",
+       "romaji": "suki",
+       "gloss": "to like, favorite",
+       "glossId": "suka, favorit"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "plain copula \"is\"",
+       "glossId": "kata kerja bantu \"adalah\" (bentuk biasa)"
+      },
+      {
+       "surface": "時間",
+       "pos": "noun",
+       "reading": "じかん",
+       "romaji": "jikan",
+       "gloss": "time",
+       "glossId": "waktu"
+      },
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "plain copula \"is\"",
+       "glossId": "kata kerja bantu \"adalah\" (bentuk biasa)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and (particle)",
+       "glossId": "dan (partikel)"
+      },
+      {
+       "surface": "言い",
+       "pos": "verb",
+       "reading": "いい",
+       "romaji": "ii",
+       "lemma": "言う",
+       "gloss": "to say",
+       "glossId": "mengatakan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many students say club activities are their favorite time in school life.",
+     "translationId": "Banyak siswa mengatakan bahwa kegiatan klub adalah waktu favorit mereka dalam kehidupan sekolah.",
+     "audioStart": 65.16,
+     "audioEnd": 71.496
+    }
+   ]
+  }
+ ]
+}
