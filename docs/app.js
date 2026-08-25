@@ -534,8 +534,10 @@ async function renderVocab() {
       const row = el('div', 'vrow');
       const jt = el('span', 'jtext');
       const stk = el('span', 'stk');
+      // Furigana only when the word actually contains kanji
+      const needsFg = /[一-鿿々]/.test(w.w);
       stk.append(
-        el('span', 'fg', w.reading || ''),
+        el('span', 'fg', needsFg ? (w.reading || '') : ''),
         el('span', 'base', w.w),
         el('span', 'rom', w.romaji || '')
       );
