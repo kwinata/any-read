@@ -1,0 +1,2787 @@
+{
+ "schemaVersion": 1,
+ "id": "how-to-face-the-stress-of-entrance-exams",
+ "language": "ja",
+ "title": "受験のストレスとどう向き合うか",
+ "titleTranslation": "How to Face the Stress of Entrance Exams",
+ "titleTranslationId": "Bagaimana Menghadapi Stres Ujian Masuk",
+ "level": "N3",
+ "summary": "The article examines the stress Japanese students face from entrance exams and pressure from parents and teachers, and describes measures schools and families are taking to help students cope while still valuing their health and effort.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T18:18:54+00:00",
+ "audioFile": "audio-c0fffb10.mp3",
+ "voice": "en-US-AndrewMultilingualNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "日本では、中学校や高校、大学に入るために「受験」という試験を受けることが多いです。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location or means)",
+       "glossId": "partikel: di/dengan (lokasi atau cara)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "中学校",
+       "pos": "noun",
+       "reading": "ちゅうがっこう",
+       "romaji": "chuugakkou",
+       "gloss": "junior high school",
+       "glossId": "SMP"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and/or (non-exhaustive listing particle)",
+       "glossId": "partikel \"dan/atau\" (daftar tidak lengkap)"
+      },
+      {
+       "surface": "高校",
+       "pos": "noun",
+       "reading": "こうこう",
+       "romaji": "koukou",
+       "gloss": "high school",
+       "glossId": "SMA"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "大学",
+       "pos": "noun",
+       "reading": "だいがく",
+       "romaji": "daigaku",
+       "gloss": "university",
+       "glossId": "universitas"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/into (direction)",
+       "glossId": "partikel: ke/pada (arah)"
+      },
+      {
+       "surface": "入る",
+       "pos": "verb",
+       "reading": "はいる",
+       "romaji": "hairu",
+       "gloss": "to enter",
+       "glossId": "masuk"
+      },
+      {
+       "surface": "ため",
+       "pos": "noun",
+       "romaji": "tame",
+       "gloss": "for the purpose of, in order to",
+       "glossId": "untuk tujuan, demi"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/into (direction)",
+       "glossId": "partikel: ke/pada (arah)"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "受験",
+       "pos": "noun",
+       "reading": "じゅけん",
+       "romaji": "juken",
+       "gloss": "taking an entrance exam",
+       "glossId": "mengikuti ujian masuk"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle / \"and\"",
+       "glossId": "partikel kutipan / \"dan\""
+      },
+      {
+       "surface": "いう",
+       "pos": "verb",
+       "romaji": "iu",
+       "gloss": "to say (as in ~という, \"called\")",
+       "glossId": "mengatakan (seperti ~という, \"disebut\")"
+      },
+      {
+       "surface": "試験",
+       "pos": "noun",
+       "reading": "しけん",
+       "romaji": "shiken",
+       "gloss": "exam, test",
+       "glossId": "ujian, tes"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "受ける",
+       "pos": "verb",
+       "reading": "うける",
+       "romaji": "ukeru",
+       "gloss": "to take (an exam), to receive",
+       "glossId": "mengikuti (ujian), menerima"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer: the fact/act of",
+       "glossId": "nominalisasi: hal/perbuatan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "多い",
+       "pos": "adjective",
+       "reading": "おおい",
+       "romaji": "ooi",
+       "gloss": "many, common",
+       "glossId": "banyak, umum"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In Japan, people often take exams called \"juken\" (entrance exams) in order to enter junior high school, high school, or university.",
+     "translationId": "Di Jepang, orang sering mengikuti ujian yang disebut \"juken\" (ujian masuk) untuk masuk ke SMP, SMA, atau universitas.",
+     "audioStart": 0.0,
+     "audioEnd": 8.328
+    },
+    {
+     "text": "特に人気がある学校に入りたい場合、多くの学生が長い時間をかけて勉強します。",
+     "tokens": [
+      {
+       "surface": "特に",
+       "pos": "adverb",
+       "reading": "とくに",
+       "romaji": "tokuni",
+       "gloss": "especially",
+       "glossId": "terutama"
+      },
+      {
+       "surface": "人気",
+       "pos": "noun",
+       "reading": "にんき",
+       "romaji": "ninki",
+       "gloss": "popularity",
+       "glossId": "popularitas"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "ある",
+       "pos": "verb",
+       "romaji": "aru",
+       "gloss": "to exist, to have (inanimate)",
+       "glossId": "ada, memiliki (benda mati)"
+      },
+      {
+       "surface": "学校",
+       "pos": "noun",
+       "reading": "がっこう",
+       "romaji": "gakkou",
+       "gloss": "school",
+       "glossId": "sekolah"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/into (direction)",
+       "glossId": "partikel: ke/pada (arah)"
+      },
+      {
+       "surface": "入り",
+       "pos": "verb",
+       "reading": "はいり",
+       "romaji": "hairi",
+       "lemma": "入る",
+       "gloss": "to enter",
+       "glossId": "masuk"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desire suffix)",
+       "glossId": "ingin (akhiran keinginan)"
+      },
+      {
+       "surface": "場合",
+       "pos": "noun",
+       "reading": "ばあい",
+       "romaji": "baai",
+       "gloss": "case, situation",
+       "glossId": "kasus, situasi"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "多く",
+       "pos": "noun",
+       "reading": "おおく",
+       "romaji": "ooku",
+       "gloss": "many, a lot",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "学生",
+       "pos": "noun",
+       "reading": "がくせい",
+       "romaji": "gakusei",
+       "gloss": "student",
+       "glossId": "siswa"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "長い",
+       "pos": "adjective",
+       "reading": "ながい",
+       "romaji": "nagai",
+       "gloss": "long",
+       "glossId": "panjang, lama"
+      },
+      {
+       "surface": "時間",
+       "pos": "noun",
+       "reading": "じかん",
+       "romaji": "jikan",
+       "gloss": "time",
+       "glossId": "waktu"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "かけ",
+       "pos": "verb",
+       "romaji": "kake",
+       "lemma": "かける",
+       "gloss": "to spend (time)",
+       "glossId": "menghabiskan (waktu)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "勉強",
+       "pos": "noun",
+       "reading": "べんきょう",
+       "romaji": "benkyou",
+       "gloss": "study",
+       "glossId": "belajar"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Especially when they want to enter a particularly popular school, many students spend a long time studying.",
+     "translationId": "Terutama jika ingin masuk ke sekolah yang populer, banyak siswa menghabiskan waktu lama untuk belajar.",
+     "audioStart": 8.328,
+     "audioEnd": 15.552
+    },
+    {
+     "text": "学校の授業の後、塾に通う学生も少なくありません。",
+     "tokens": [
+      {
+       "surface": "学校",
+       "pos": "noun",
+       "reading": "がっこう",
+       "romaji": "gakkou",
+       "gloss": "school",
+       "glossId": "sekolah"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "授業",
+       "pos": "noun",
+       "reading": "じゅぎょう",
+       "romaji": "jugyou",
+       "gloss": "class, lesson",
+       "glossId": "pelajaran, kelas"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "後",
+       "pos": "noun",
+       "reading": "あと",
+       "romaji": "ato",
+       "gloss": "after",
+       "glossId": "setelah"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "塾",
+       "pos": "noun",
+       "reading": "じゅく",
+       "romaji": "juku",
+       "gloss": "cram school",
+       "glossId": "bimbingan belajar"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/into (direction)",
+       "glossId": "partikel: ke/pada (arah)"
+      },
+      {
+       "surface": "通う",
+       "pos": "verb",
+       "reading": "かよう",
+       "romaji": "kayou",
+       "gloss": "to commute/attend regularly",
+       "glossId": "pergi secara rutin"
+      },
+      {
+       "surface": "学生",
+       "pos": "noun",
+       "reading": "がくせい",
+       "romaji": "gakusei",
+       "gloss": "student",
+       "glossId": "siswa"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "少なく",
+       "pos": "adjective",
+       "reading": "すくなく",
+       "romaji": "sukunaku",
+       "lemma": "少ない",
+       "gloss": "few, little",
+       "glossId": "sedikit"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, to have (inanimate)",
+       "glossId": "ada, memiliki (benda mati)"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (classical, \"not\")",
+       "glossId": "auksiliar negasi (klasik, \"tidak\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are quite a few students who attend cram school after their regular school classes.",
+     "translationId": "Tidak sedikit siswa yang pergi ke bimbingan belajar (juku) setelah pelajaran sekolah.",
+     "audioStart": 15.552,
+     "audioEnd": 20.64
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "受験の前になると、学生の生活は勉強が中心になります。",
+     "tokens": [
+      {
+       "surface": "受験",
+       "pos": "noun",
+       "reading": "じゅけん",
+       "romaji": "juken",
+       "gloss": "taking an entrance exam",
+       "glossId": "mengikuti ujian masuk"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "前",
+       "pos": "noun",
+       "reading": "まえ",
+       "romaji": "mae",
+       "gloss": "before",
+       "glossId": "sebelum"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/into (direction)",
+       "glossId": "partikel: ke/pada (arah)"
+      },
+      {
+       "surface": "なる",
+       "pos": "verb",
+       "romaji": "naru",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle / \"and\"",
+       "glossId": "partikel kutipan / \"dan\""
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "学生",
+       "pos": "noun",
+       "reading": "がくせい",
+       "romaji": "gakusei",
+       "gloss": "student",
+       "glossId": "siswa"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "生活",
+       "pos": "noun",
+       "reading": "せいかつ",
+       "romaji": "seikatsu",
+       "gloss": "life, daily living",
+       "glossId": "kehidupan sehari-hari"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "勉強",
+       "pos": "noun",
+       "reading": "べんきょう",
+       "romaji": "benkyou",
+       "gloss": "study",
+       "glossId": "belajar"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "中心",
+       "pos": "noun",
+       "reading": "ちゅうしん",
+       "romaji": "chuushin",
+       "gloss": "center, focus",
+       "glossId": "pusat, fokus"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/into (direction)",
+       "glossId": "partikel: ke/pada (arah)"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "As entrance exams approach, students' lives become centered on studying.",
+     "translationId": "Menjelang ujian masuk, kehidupan siswa berpusat pada belajar.",
+     "audioStart": 20.64,
+     "audioEnd": 26.64
+    },
+    {
+     "text": "毎日遅くまで机に向かい、休みの日も過去の問題を解く人がいます。",
+     "tokens": [
+      {
+       "surface": "毎日",
+       "pos": "noun",
+       "reading": "まいにち",
+       "romaji": "mainichi",
+       "gloss": "every day",
+       "glossId": "setiap hari"
+      },
+      {
+       "surface": "遅く",
+       "pos": "noun",
+       "reading": "おそく",
+       "romaji": "osoku",
+       "gloss": "late",
+       "glossId": "larut, terlambat"
+      },
+      {
+       "surface": "まで",
+       "pos": "particle",
+       "romaji": "made",
+       "gloss": "until",
+       "glossId": "sampai"
+      },
+      {
+       "surface": "机",
+       "pos": "noun",
+       "reading": "つくえ",
+       "romaji": "tsukue",
+       "gloss": "desk",
+       "glossId": "meja belajar"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/into (direction)",
+       "glossId": "partikel: ke/pada (arah)"
+      },
+      {
+       "surface": "向かい",
+       "pos": "verb",
+       "reading": "むかい",
+       "romaji": "mukai",
+       "lemma": "向かう",
+       "gloss": "to face, to head toward",
+       "glossId": "menghadap, menuju"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "休み",
+       "pos": "noun",
+       "reading": "やすみ",
+       "romaji": "yasumi",
+       "gloss": "rest, day off",
+       "glossId": "libur, istirahat"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "ひ",
+       "romaji": "hi",
+       "gloss": "day",
+       "glossId": "hari"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "過去",
+       "pos": "noun",
+       "reading": "かこ",
+       "romaji": "kako",
+       "gloss": "the past",
+       "glossId": "masa lalu"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "問題",
+       "pos": "noun",
+       "reading": "もんだい",
+       "romaji": "mondai",
+       "gloss": "problem, question",
+       "glossId": "masalah, soal"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "解く",
+       "pos": "verb",
+       "reading": "とく",
+       "romaji": "toku",
+       "gloss": "to solve",
+       "glossId": "menyelesaikan (soal)"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (animate)",
+       "glossId": "ada (makhluk hidup)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Some people sit at their desks late every day, and even solve past exam questions on their days off.",
+     "translationId": "Ada yang duduk di meja belajar sampai larut malam setiap hari, bahkan mengerjakan soal-soal ujian tahun lalu di hari libur.",
+     "audioStart": 26.64,
+     "audioEnd": 33.096
+    },
+    {
+     "text": "友達と遊ぶ時間や趣味の時間が減ってしまうことも珍しくありません。",
+     "tokens": [
+      {
+       "surface": "友達",
+       "pos": "noun",
+       "reading": "ともだち",
+       "romaji": "tomodachi",
+       "gloss": "friend",
+       "glossId": "teman"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle / \"and\"",
+       "glossId": "partikel kutipan / \"dan\""
+      },
+      {
+       "surface": "遊ぶ",
+       "pos": "verb",
+       "reading": "あそぶ",
+       "romaji": "asobu",
+       "gloss": "to play",
+       "glossId": "bermain"
+      },
+      {
+       "surface": "時間",
+       "pos": "noun",
+       "reading": "じかん",
+       "romaji": "jikan",
+       "gloss": "time",
+       "glossId": "waktu"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and/or (non-exhaustive listing particle)",
+       "glossId": "partikel \"dan/atau\" (daftar tidak lengkap)"
+      },
+      {
+       "surface": "趣味",
+       "pos": "noun",
+       "reading": "しゅみ",
+       "romaji": "shumi",
+       "gloss": "hobby",
+       "glossId": "hobi"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "時間",
+       "pos": "noun",
+       "reading": "じかん",
+       "romaji": "jikan",
+       "gloss": "time",
+       "glossId": "waktu"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "減っ",
+       "pos": "verb",
+       "reading": "へっ",
+       "romaji": "het",
+       "lemma": "減る",
+       "gloss": "to decrease",
+       "glossId": "berkurang"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "しまう",
+       "pos": "verb",
+       "romaji": "shimau",
+       "gloss": "to end up doing (completion/regret auxiliary)",
+       "glossId": "berakhir melakukan (auksiliar tuntas/menyesal)"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer: the fact/act of",
+       "glossId": "nominalisasi: hal/perbuatan"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "珍しく",
+       "pos": "adjective",
+       "reading": "めずらしく",
+       "romaji": "mezurashiku",
+       "lemma": "珍しい",
+       "gloss": "rare, unusual",
+       "glossId": "langka, tidak biasa"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, to have (inanimate)",
+       "glossId": "ada, memiliki (benda mati)"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (classical, \"not\")",
+       "glossId": "auksiliar negasi (klasik, \"tidak\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is not uncommon for the time spent playing with friends or on hobbies to decrease.",
+     "translationId": "Tidak jarang waktu untuk bermain dengan teman atau melakukan hobi menjadi berkurang.",
+     "audioStart": 33.096,
+     "audioEnd": 39.024
+    },
+    {
+     "text": "その結果、体が疲れるだけでなく、心にも大きなストレスがたまってしまいます。",
+     "tokens": [
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that (demonstrative)",
+       "glossId": "itu (kata tunjuk)"
+      },
+      {
+       "surface": "結果",
+       "pos": "noun",
+       "reading": "けっか",
+       "romaji": "kekka",
+       "gloss": "result",
+       "glossId": "hasil"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "体",
+       "pos": "noun",
+       "reading": "からだ",
+       "romaji": "karada",
+       "gloss": "body",
+       "glossId": "tubuh"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "疲れる",
+       "pos": "verb",
+       "reading": "つかれる",
+       "romaji": "tsukareru",
+       "gloss": "to get tired",
+       "glossId": "menjadi lelah"
+      },
+      {
+       "surface": "だけ",
+       "pos": "particle",
+       "romaji": "dake",
+       "gloss": "only, just",
+       "glossId": "hanya, saja"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "plain copula",
+       "glossId": "kopula biasa"
+      },
+      {
+       "surface": "なく",
+       "pos": "adjective",
+       "romaji": "naku",
+       "lemma": "ない",
+       "gloss": "negation auxiliary",
+       "glossId": "auksiliar negasi"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "心",
+       "pos": "noun",
+       "reading": "こころ",
+       "romaji": "kokoro",
+       "gloss": "heart, mind",
+       "glossId": "hati, pikiran"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/into (direction)",
+       "glossId": "partikel: ke/pada (arah)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "大きな",
+       "pos": "prenominal",
+       "reading": "おおきな",
+       "romaji": "ookina",
+       "gloss": "big, large",
+       "glossId": "besar"
+      },
+      {
+       "surface": "ストレス",
+       "pos": "noun",
+       "romaji": "sutoresu",
+       "gloss": "stress",
+       "glossId": "stres"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "たまっ",
+       "pos": "verb",
+       "romaji": "tamatsu",
+       "lemma": "たまる",
+       "gloss": "to accumulate, build up",
+       "glossId": "menumpuk"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "しまい",
+       "pos": "verb",
+       "romaji": "shimai",
+       "lemma": "しまう",
+       "gloss": "to end up doing (completion/regret auxiliary)",
+       "glossId": "berakhir melakukan (auksiliar tuntas/menyesal)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "As a result, not only does the body get tired, but a great deal of stress also builds up in the mind.",
+     "translationId": "Akibatnya, bukan hanya tubuh yang lelah, tetapi juga menumpuk stres besar di dalam hati.",
+     "audioStart": 39.024,
+     "audioEnd": 46.296
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "また、受験のプレッシャーは学生自身だけの問題ではありません。",
+     "tokens": [
+      {
+       "surface": "また",
+       "pos": "conjunction",
+       "romaji": "mata",
+       "gloss": "also, in addition",
+       "glossId": "juga, selain itu"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "受験",
+       "pos": "noun",
+       "reading": "じゅけん",
+       "romaji": "juken",
+       "gloss": "taking an entrance exam",
+       "glossId": "mengikuti ujian masuk"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "プレッシャー",
+       "pos": "noun",
+       "romaji": "puresshaa",
+       "gloss": "pressure",
+       "glossId": "tekanan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "学生",
+       "pos": "noun",
+       "reading": "がくせい",
+       "romaji": "gakusei",
+       "gloss": "student",
+       "glossId": "siswa"
+      },
+      {
+       "surface": "自身",
+       "pos": "noun",
+       "reading": "じしん",
+       "romaji": "jishin",
+       "gloss": "oneself",
+       "glossId": "diri sendiri"
+      },
+      {
+       "surface": "だけ",
+       "pos": "particle",
+       "romaji": "dake",
+       "gloss": "only, just",
+       "glossId": "hanya, saja"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "問題",
+       "pos": "noun",
+       "reading": "もんだい",
+       "romaji": "mondai",
+       "gloss": "problem, question",
+       "glossId": "masalah, soal"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location or means)",
+       "glossId": "partikel: di/dengan (lokasi atau cara)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, to have (inanimate)",
+       "glossId": "ada, memiliki (benda mati)"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (classical, \"not\")",
+       "glossId": "auksiliar negasi (klasik, \"tidak\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Also, the pressure of entrance exams is not a problem for the students alone.",
+     "translationId": "Selain itu, tekanan ujian masuk bukan hanya masalah siswa itu sendiri.",
+     "audioStart": 46.296,
+     "audioEnd": 51.816
+    },
+    {
+     "text": "親や先生の期待も、学生にとって大きな負担になることがあります。",
+     "tokens": [
+      {
+       "surface": "親",
+       "pos": "noun",
+       "reading": "おや",
+       "romaji": "oya",
+       "gloss": "parent",
+       "glossId": "orang tua"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and/or (non-exhaustive listing particle)",
+       "glossId": "partikel \"dan/atau\" (daftar tidak lengkap)"
+      },
+      {
+       "surface": "先生",
+       "pos": "noun",
+       "reading": "せんせい",
+       "romaji": "sensei",
+       "gloss": "teacher",
+       "glossId": "guru"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "期待",
+       "pos": "noun",
+       "reading": "きたい",
+       "romaji": "kitai",
+       "gloss": "expectation",
+       "glossId": "harapan"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "学生",
+       "pos": "noun",
+       "reading": "がくせい",
+       "romaji": "gakusei",
+       "gloss": "student",
+       "glossId": "siswa"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/into (direction)",
+       "glossId": "partikel: ke/pada (arah)"
+      },
+      {
+       "surface": "とっ",
+       "pos": "verb",
+       "romaji": "totsu",
+       "lemma": "とる",
+       "gloss": "to take (as in にとって, \"for/to\")",
+       "glossId": "mengambil (seperti にとって, \"bagi\")"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "大きな",
+       "pos": "prenominal",
+       "reading": "おおきな",
+       "romaji": "ookina",
+       "gloss": "big, large",
+       "glossId": "besar"
+      },
+      {
+       "surface": "負担",
+       "pos": "noun",
+       "reading": "ふたん",
+       "romaji": "futan",
+       "gloss": "burden",
+       "glossId": "beban"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/into (direction)",
+       "glossId": "partikel: ke/pada (arah)"
+      },
+      {
+       "surface": "なる",
+       "pos": "verb",
+       "romaji": "naru",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer: the fact/act of",
+       "glossId": "nominalisasi: hal/perbuatan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, to have (inanimate)",
+       "glossId": "ada, memiliki (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The expectations of parents and teachers can also become a heavy burden for students.",
+     "translationId": "Harapan orang tua dan guru pun bisa menjadi beban besar bagi siswa.",
+     "audioStart": 51.816,
+     "audioEnd": 57.72
+    },
+    {
+     "text": "「いい学校に合格してほしい」という周りの気持ちが強すぎると、学生は自分のペースで勉強することが難しくなります。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good",
+       "glossId": "baik"
+      },
+      {
+       "surface": "学校",
+       "pos": "noun",
+       "reading": "がっこう",
+       "romaji": "gakkou",
+       "gloss": "school",
+       "glossId": "sekolah"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/into (direction)",
+       "glossId": "partikel: ke/pada (arah)"
+      },
+      {
+       "surface": "合格",
+       "pos": "noun",
+       "reading": "ごうかく",
+       "romaji": "goukaku",
+       "gloss": "passing (an exam)",
+       "glossId": "lulus (ujian)"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "ほしい",
+       "pos": "adjective",
+       "romaji": "hoshii",
+       "gloss": "want (something to happen)",
+       "glossId": "ingin (sesuatu terjadi)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle / \"and\"",
+       "glossId": "partikel kutipan / \"dan\""
+      },
+      {
+       "surface": "いう",
+       "pos": "verb",
+       "romaji": "iu",
+       "gloss": "to say (as in ~という, \"called\")",
+       "glossId": "mengatakan (seperti ~という, \"disebut\")"
+      },
+      {
+       "surface": "周り",
+       "pos": "noun",
+       "reading": "まわり",
+       "romaji": "mawari",
+       "gloss": "surroundings, those around one",
+       "glossId": "sekeliling, orang sekitar"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "気持ち",
+       "pos": "noun",
+       "reading": "きもち",
+       "romaji": "kimochi",
+       "gloss": "feeling",
+       "glossId": "perasaan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "強",
+       "pos": "adjective",
+       "reading": "つよ",
+       "romaji": "tsuyo",
+       "lemma": "強い",
+       "gloss": "strong",
+       "glossId": "kuat"
+      },
+      {
+       "surface": "すぎる",
+       "pos": "verb",
+       "romaji": "sugiru",
+       "gloss": "too much, excessively",
+       "glossId": "terlalu"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle / \"and\"",
+       "glossId": "partikel kutipan / \"dan\""
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "学生",
+       "pos": "noun",
+       "reading": "がくせい",
+       "romaji": "gakusei",
+       "gloss": "student",
+       "glossId": "siswa"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "自分",
+       "pos": "noun",
+       "reading": "じぶん",
+       "romaji": "jibun",
+       "gloss": "oneself",
+       "glossId": "diri sendiri"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "ペース",
+       "pos": "noun",
+       "romaji": "peesu",
+       "gloss": "pace",
+       "glossId": "ritme, kecepatan"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location or means)",
+       "glossId": "partikel: di/dengan (lokasi atau cara)"
+      },
+      {
+       "surface": "勉強",
+       "pos": "noun",
+       "reading": "べんきょう",
+       "romaji": "benkyou",
+       "gloss": "study",
+       "glossId": "belajar"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer: the fact/act of",
+       "glossId": "nominalisasi: hal/perbuatan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "難しく",
+       "pos": "adjective",
+       "reading": "むずかしく",
+       "romaji": "muzukashiku",
+       "lemma": "難しい",
+       "gloss": "difficult",
+       "glossId": "sulit"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When those around them feel too strongly that they want the student to \"pass into a good school,\" it becomes difficult for the student to study at their own pace.",
+     "translationId": "Jika perasaan orang di sekitar yang ingin siswa \"lulus ke sekolah yang bagus\" terlalu kuat, siswa akan sulit belajar sesuai ritme mereka sendiri.",
+     "audioStart": 57.72,
+     "audioEnd": 67.776
+    },
+    {
+     "text": "失敗を恐れるあまり、夜眠れなくなる学生もいるそうです。",
+     "tokens": [
+      {
+       "surface": "失敗",
+       "pos": "noun",
+       "reading": "しっぱい",
+       "romaji": "shippai",
+       "gloss": "failure",
+       "glossId": "kegagalan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "恐れる",
+       "pos": "verb",
+       "reading": "おそれる",
+       "romaji": "osoreru",
+       "gloss": "to fear",
+       "glossId": "takut"
+      },
+      {
+       "surface": "あまり",
+       "pos": "noun",
+       "romaji": "amari",
+       "gloss": "to such an extent that, excessively",
+       "glossId": "sampai-sampai, terlalu"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "夜",
+       "pos": "noun",
+       "reading": "よる",
+       "romaji": "yoru",
+       "gloss": "night",
+       "glossId": "malam"
+      },
+      {
+       "surface": "眠れ",
+       "pos": "verb",
+       "reading": "ねむれ",
+       "romaji": "nemure",
+       "lemma": "眠れる",
+       "gloss": "to be able to sleep",
+       "glossId": "bisa tidur"
+      },
+      {
+       "surface": "なく",
+       "pos": "auxiliary",
+       "romaji": "naku",
+       "lemma": "ない",
+       "gloss": "negation auxiliary",
+       "glossId": "auksiliar negasi"
+      },
+      {
+       "surface": "なる",
+       "pos": "verb",
+       "romaji": "naru",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "学生",
+       "pos": "noun",
+       "reading": "がくせい",
+       "romaji": "gakusei",
+       "gloss": "student",
+       "glossId": "siswa"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "to exist (animate)",
+       "glossId": "ada (makhluk hidup)"
+      },
+      {
+       "surface": "そう",
+       "pos": "noun",
+       "romaji": "sou",
+       "gloss": "hearsay: I hear that, it's said",
+       "glossId": "konon, kabarnya"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is said that some students, out of excessive fear of failure, become unable to sleep at night.",
+     "translationId": "Konon ada siswa yang menjadi tidak bisa tidur di malam hari karena terlalu takut gagal.",
+     "audioStart": 67.776,
+     "audioEnd": 73.08
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "最近では、この問題に気づき、対策を考える学校や家庭が増えてきました。",
+     "tokens": [
+      {
+       "surface": "最近",
+       "pos": "noun",
+       "reading": "さいきん",
+       "romaji": "saikin",
+       "gloss": "recently",
+       "glossId": "belakangan ini"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location or means)",
+       "glossId": "partikel: di/dengan (lokasi atau cara)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this (demonstrative)",
+       "glossId": "ini (kata tunjuk)"
+      },
+      {
+       "surface": "問題",
+       "pos": "noun",
+       "reading": "もんだい",
+       "romaji": "mondai",
+       "gloss": "problem, question",
+       "glossId": "masalah, soal"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/into (direction)",
+       "glossId": "partikel: ke/pada (arah)"
+      },
+      {
+       "surface": "気づき",
+       "pos": "verb",
+       "reading": "きづき",
+       "romaji": "kizuki",
+       "lemma": "気づく",
+       "gloss": "to notice, realize",
+       "glossId": "menyadari"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "対策",
+       "pos": "noun",
+       "reading": "たいさく",
+       "romaji": "taisaku",
+       "gloss": "countermeasure",
+       "glossId": "langkah penanganan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "考える",
+       "pos": "verb",
+       "reading": "かんがえる",
+       "romaji": "kangaeru",
+       "gloss": "to think, consider",
+       "glossId": "memikirkan"
+      },
+      {
+       "surface": "学校",
+       "pos": "noun",
+       "reading": "がっこう",
+       "romaji": "gakkou",
+       "gloss": "school",
+       "glossId": "sekolah"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and/or (non-exhaustive listing particle)",
+       "glossId": "partikel \"dan/atau\" (daftar tidak lengkap)"
+      },
+      {
+       "surface": "家庭",
+       "pos": "noun",
+       "reading": "かてい",
+       "romaji": "katei",
+       "gloss": "household, family",
+       "glossId": "keluarga, rumah tangga"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "増え",
+       "pos": "verb",
+       "reading": "ふえ",
+       "romaji": "fue",
+       "lemma": "増える",
+       "gloss": "to increase",
+       "glossId": "bertambah"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "き",
+       "pos": "verb",
+       "romaji": "ki",
+       "lemma": "くる",
+       "gloss": "to come (auxiliary: ~てくる, increasingly)",
+       "glossId": "datang (auksiliar: ~てくる, semakin)"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Recently, more schools and families have become aware of this problem and started thinking about countermeasures.",
+     "translationId": "Belakangan ini, semakin banyak sekolah dan keluarga yang menyadari masalah ini dan mulai memikirkan langkah-langkah penanganannya.",
+     "audioStart": 73.08,
+     "audioEnd": 80.304
+    },
+    {
+     "text": "例えば、勉強の合間に運動をしたり、家族と話す時間を大切にしたりすることが勧められています。",
+     "tokens": [
+      {
+       "surface": "例えば",
+       "pos": "adverb",
+       "reading": "たとえば",
+       "romaji": "tatoeba",
+       "gloss": "for example",
+       "glossId": "misalnya"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "勉強",
+       "pos": "noun",
+       "reading": "べんきょう",
+       "romaji": "benkyou",
+       "gloss": "study",
+       "glossId": "belajar"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "合間",
+       "pos": "noun",
+       "reading": "あいま",
+       "romaji": "aima",
+       "gloss": "interval, break",
+       "glossId": "sela waktu"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/into (direction)",
+       "glossId": "partikel: ke/pada (arah)"
+      },
+      {
+       "surface": "運動",
+       "pos": "noun",
+       "reading": "うんどう",
+       "romaji": "undou",
+       "gloss": "exercise",
+       "glossId": "olahraga"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "たり",
+       "pos": "particle",
+       "romaji": "tari",
+       "gloss": "listing-action particle (~たり~たりする)",
+       "glossId": "partikel daftar tindakan (~たり~たりする)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "家族",
+       "pos": "noun",
+       "reading": "かぞく",
+       "romaji": "kazoku",
+       "gloss": "family",
+       "glossId": "keluarga"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle / \"and\"",
+       "glossId": "partikel kutipan / \"dan\""
+      },
+      {
+       "surface": "話す",
+       "pos": "verb",
+       "reading": "はなす",
+       "romaji": "hanasu",
+       "gloss": "to talk",
+       "glossId": "berbicara"
+      },
+      {
+       "surface": "時間",
+       "pos": "noun",
+       "reading": "じかん",
+       "romaji": "jikan",
+       "gloss": "time",
+       "glossId": "waktu"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "大切",
+       "pos": "adjective",
+       "reading": "たいせつ",
+       "romaji": "taisetsu",
+       "gloss": "important, valuable",
+       "glossId": "penting, berharga"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "plain copula",
+       "glossId": "kopula biasa"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "たり",
+       "pos": "particle",
+       "romaji": "tari",
+       "gloss": "listing-action particle (~たり~たりする)",
+       "glossId": "partikel daftar tindakan (~たり~たりする)"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer: the fact/act of",
+       "glossId": "nominalisasi: hal/perbuatan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "勧め",
+       "pos": "verb",
+       "reading": "すすめ",
+       "romaji": "susume",
+       "lemma": "勧める",
+       "gloss": "to recommend",
+       "glossId": "menganjurkan"
+      },
+      {
+       "surface": "られ",
+       "pos": "auxiliary",
+       "romaji": "rare",
+       "lemma": "られる",
+       "gloss": "passive auxiliary",
+       "glossId": "auksiliar pasif"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (animate)",
+       "glossId": "ada (makhluk hidup)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "For example, it is recommended to exercise between study sessions and to value time spent talking with family.",
+     "translationId": "Misalnya, dianjurkan untuk berolahraga di sela-sela belajar dan menghargai waktu berbicara dengan keluarga.",
+     "audioStart": 80.304,
+     "audioEnd": 88.776
+    },
+    {
+     "text": "また、結果だけでなく、努力した過程を認めることも大切だと言われています。",
+     "tokens": [
+      {
+       "surface": "また",
+       "pos": "conjunction",
+       "romaji": "mata",
+       "gloss": "also, in addition",
+       "glossId": "juga, selain itu"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "結果",
+       "pos": "noun",
+       "reading": "けっか",
+       "romaji": "kekka",
+       "gloss": "result",
+       "glossId": "hasil"
+      },
+      {
+       "surface": "だけ",
+       "pos": "particle",
+       "romaji": "dake",
+       "gloss": "only, just",
+       "glossId": "hanya, saja"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "plain copula",
+       "glossId": "kopula biasa"
+      },
+      {
+       "surface": "なく",
+       "pos": "adjective",
+       "romaji": "naku",
+       "lemma": "ない",
+       "gloss": "negation auxiliary",
+       "glossId": "auksiliar negasi"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "努力",
+       "pos": "noun",
+       "reading": "どりょく",
+       "romaji": "doryoku",
+       "gloss": "effort",
+       "glossId": "usaha"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda lampau"
+      },
+      {
+       "surface": "過程",
+       "pos": "noun",
+       "reading": "かてい",
+       "romaji": "katei",
+       "gloss": "process",
+       "glossId": "proses"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "認める",
+       "pos": "verb",
+       "reading": "みとめる",
+       "romaji": "mitomeru",
+       "gloss": "to acknowledge, recognize",
+       "glossId": "mengakui"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer: the fact/act of",
+       "glossId": "nominalisasi: hal/perbuatan"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "大切",
+       "pos": "adjective",
+       "reading": "たいせつ",
+       "romaji": "taisetsu",
+       "gloss": "important, valuable",
+       "glossId": "penting, berharga"
+      },
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "plain copula",
+       "glossId": "kopula biasa"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle / \"and\"",
+       "glossId": "partikel kutipan / \"dan\""
+      },
+      {
+       "surface": "言わ",
+       "pos": "verb",
+       "reading": "いわ",
+       "romaji": "iwa",
+       "lemma": "言う",
+       "gloss": "to say",
+       "glossId": "mengatakan"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary",
+       "glossId": "auksiliar pasif"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (animate)",
+       "glossId": "ada (makhluk hidup)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is also said that it is important to acknowledge the effort put into the process, not just the results.",
+     "translationId": "Selain itu, dikatakan bahwa penting untuk mengakui proses usaha, bukan hanya hasilnya saja.",
+     "audioStart": 88.776,
+     "audioEnd": 95.28
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "受験は、学生にとって人生の重要なイベントの一つです。",
+     "tokens": [
+      {
+       "surface": "受験",
+       "pos": "noun",
+       "reading": "じゅけん",
+       "romaji": "juken",
+       "gloss": "taking an entrance exam",
+       "glossId": "mengikuti ujian masuk"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "学生",
+       "pos": "noun",
+       "reading": "がくせい",
+       "romaji": "gakusei",
+       "gloss": "student",
+       "glossId": "siswa"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/into (direction)",
+       "glossId": "partikel: ke/pada (arah)"
+      },
+      {
+       "surface": "とっ",
+       "pos": "verb",
+       "romaji": "totsu",
+       "lemma": "とる",
+       "gloss": "to take (as in にとって, \"for/to\")",
+       "glossId": "mengambil (seperti にとって, \"bagi\")"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "人生",
+       "pos": "noun",
+       "reading": "じんせい",
+       "romaji": "jinsei",
+       "gloss": "life (of a person)",
+       "glossId": "kehidupan (seseorang)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "重要",
+       "pos": "adjective",
+       "reading": "じゅうよう",
+       "romaji": "juuyou",
+       "gloss": "important",
+       "glossId": "penting"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "plain copula",
+       "glossId": "kopula biasa"
+      },
+      {
+       "surface": "イベント",
+       "pos": "noun",
+       "romaji": "ibento",
+       "gloss": "event",
+       "glossId": "peristiwa, acara"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "一",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "one",
+       "glossId": "satu"
+      },
+      {
+       "surface": "つ",
+       "pos": "suffix",
+       "romaji": "tsu",
+       "gloss": "counter for general objects",
+       "glossId": "penggolong benda umum"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Entrance exams are one of the important events in a student's life.",
+     "translationId": "Ujian masuk adalah salah satu peristiwa penting dalam hidup seorang siswa.",
+     "audioStart": 95.28,
+     "audioEnd": 101.352
+    },
+    {
+     "text": "しかし、健康な心と体があってこそ、力を十分に発揮できます。",
+     "tokens": [
+      {
+       "surface": "しかし",
+       "pos": "conjunction",
+       "romaji": "shikashi",
+       "gloss": "however",
+       "glossId": "namun"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "健康",
+       "pos": "noun",
+       "reading": "けんこう",
+       "romaji": "kenkou",
+       "gloss": "healthy, health",
+       "glossId": "sehat, kesehatan"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "plain copula",
+       "glossId": "kopula biasa"
+      },
+      {
+       "surface": "心",
+       "pos": "noun",
+       "reading": "こころ",
+       "romaji": "kokoro",
+       "gloss": "heart, mind",
+       "glossId": "hati, pikiran"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle / \"and\"",
+       "glossId": "partikel kutipan / \"dan\""
+      },
+      {
+       "surface": "体",
+       "pos": "noun",
+       "reading": "からだ",
+       "romaji": "karada",
+       "gloss": "body",
+       "glossId": "tubuh"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "あっ",
+       "pos": "verb",
+       "romaji": "atsu",
+       "lemma": "ある",
+       "gloss": "to exist, to have (inanimate)",
+       "glossId": "ada, memiliki (benda mati)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "こそ",
+       "pos": "particle",
+       "romaji": "koso",
+       "gloss": "emphasis particle: precisely, only when",
+       "glossId": "partikel penegas: justru, hanya jika"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "力",
+       "pos": "noun",
+       "reading": "ちから",
+       "romaji": "chikara",
+       "gloss": "power, ability",
+       "glossId": "kekuatan, kemampuan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "十分",
+       "pos": "adjective",
+       "reading": "じゅうぶん",
+       "romaji": "juubun",
+       "gloss": "sufficiently, fully",
+       "glossId": "cukup, sepenuhnya"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "plain copula",
+       "glossId": "kopula biasa"
+      },
+      {
+       "surface": "発揮",
+       "pos": "noun",
+       "reading": "はっき",
+       "romaji": "hakki",
+       "gloss": "demonstration/display (of ability)",
+       "glossId": "menunjukkan (kemampuan)"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to",
+       "glossId": "bisa, mampu"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "However, it is only with a healthy mind and body that one can fully demonstrate their abilities.",
+     "translationId": "Namun, hanya dengan hati dan tubuh yang sehat, seseorang dapat menunjukkan kemampuannya secara maksimal.",
+     "audioStart": 101.352,
+     "audioEnd": 108.504
+    },
+    {
+     "text": "周りの大人が学生の気持ちに寄り添いながら支えることが、これからますます求められています。",
+     "tokens": [
+      {
+       "surface": "周り",
+       "pos": "noun",
+       "reading": "まわり",
+       "romaji": "mawari",
+       "gloss": "surroundings, those around one",
+       "glossId": "sekeliling, orang sekitar"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "大人",
+       "pos": "noun",
+       "reading": "おとな",
+       "romaji": "otona",
+       "gloss": "adult",
+       "glossId": "orang dewasa"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "学生",
+       "pos": "noun",
+       "reading": "がくせい",
+       "romaji": "gakusei",
+       "gloss": "student",
+       "glossId": "siswa"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "気持ち",
+       "pos": "noun",
+       "reading": "きもち",
+       "romaji": "kimochi",
+       "gloss": "feeling",
+       "glossId": "perasaan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/into (direction)",
+       "glossId": "partikel: ke/pada (arah)"
+      },
+      {
+       "surface": "寄り添い",
+       "pos": "verb",
+       "reading": "よりそい",
+       "romaji": "yorisoi",
+       "lemma": "寄り添う",
+       "gloss": "to stay close to, be attentive to",
+       "glossId": "dekat dan peka, mendampingi"
+      },
+      {
+       "surface": "ながら",
+       "pos": "particle",
+       "romaji": "nagara",
+       "gloss": "while (simultaneous action)",
+       "glossId": "sambil (tindakan bersamaan)"
+      },
+      {
+       "surface": "支える",
+       "pos": "verb",
+       "reading": "ささえる",
+       "romaji": "sasaeru",
+       "gloss": "to support",
+       "glossId": "mendukung"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer: the fact/act of",
+       "glossId": "nominalisasi: hal/perbuatan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore",
+       "gloss": "this",
+       "glossId": "ini"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from, from now",
+       "glossId": "dari, mulai dari"
+      },
+      {
+       "surface": "ますます",
+       "pos": "adverb",
+       "romaji": "masumasu",
+       "gloss": "increasingly, more and more",
+       "glossId": "semakin"
+      },
+      {
+       "surface": "求め",
+       "pos": "verb",
+       "reading": "もとめ",
+       "romaji": "motome",
+       "lemma": "求める",
+       "gloss": "to seek, demand, require",
+       "glossId": "menuntut, mencari"
+      },
+      {
+       "surface": "られ",
+       "pos": "auxiliary",
+       "romaji": "rare",
+       "lemma": "られる",
+       "gloss": "passive auxiliary",
+       "glossId": "auksiliar pasif"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (animate)",
+       "glossId": "ada (makhluk hidup)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is increasingly being called for that the adults around students support them while being attentive to their feelings.",
+     "translationId": "Ke depannya, semakin dituntut agar orang dewasa di sekitar mendukung siswa sambil peka terhadap perasaan mereka.",
+     "audioStart": 108.504,
+     "audioEnd": 116.472
+    }
+   ]
+  }
+ ],
+ "topic": "がっこう・しごと",
+ "topicEn": "School & work",
+ "topicId": "Sekolah & kerja"
+}

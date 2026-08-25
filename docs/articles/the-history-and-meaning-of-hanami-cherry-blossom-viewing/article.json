@@ -1,0 +1,2537 @@
+{
+ "schemaVersion": 1,
+ "id": "the-history-and-meaning-of-hanami-cherry-blossom-viewing",
+ "language": "ja",
+ "title": "花見の歴史と意味",
+ "titleTranslation": "The History and Meaning of Hanami (Cherry Blossom Viewing)",
+ "titleTranslationId": "Sejarah dan Makna Hanami (Melihat Bunga Sakura)",
+ "level": "N3",
+ "summary": "The article traces the history of hanami in Japan from its origins as plum-blossom viewing to its spread among ordinary people in the Edo period, and connects the fleeting beauty of cherry blossoms to a broader Japanese aesthetic sensibility.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T18:15:32+00:00",
+ "audioFile": "audio-51270aca.mp3",
+ "voice": "en-US-AndrewMultilingualNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "日本では、春になると多くの人が桜の花を見に行きます。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location or means)",
+       "glossId": "partikel: di/dengan (lokasi atau cara)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "春",
+       "pos": "noun",
+       "reading": "はる",
+       "romaji": "haru",
+       "gloss": "spring",
+       "glossId": "musim semi"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/at/in (time or direction)",
+       "glossId": "partikel: ke/pada (waktu atau arah)"
+      },
+      {
+       "surface": "なる",
+       "pos": "verb",
+       "romaji": "naru",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: when/if; also quotation \"and\"",
+       "glossId": "partikel: ketika/jika; juga kutipan \"dan\""
+      },
+      {
+       "surface": "多く",
+       "pos": "noun",
+       "reading": "おおく",
+       "romaji": "ooku",
+       "gloss": "many, a lot",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person, people",
+       "glossId": "orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "桜",
+       "pos": "noun",
+       "reading": "さくら",
+       "romaji": "sakura",
+       "gloss": "cherry blossom (tree)",
+       "glossId": "sakura (pohon/bunga)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "花",
+       "pos": "noun",
+       "reading": "はな",
+       "romaji": "hana",
+       "gloss": "flower",
+       "glossId": "bunga"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "見",
+       "pos": "verb",
+       "reading": "み",
+       "romaji": "mi",
+       "lemma": "見る",
+       "gloss": "to see, look at",
+       "glossId": "melihat"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/at/in (time or direction)",
+       "glossId": "partikel: ke/pada (waktu atau arah)"
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In Japan, when spring comes, many people go to see the cherry blossoms.",
+     "translationId": "Di Jepang, ketika musim semi tiba, banyak orang pergi melihat bunga sakura.",
+     "audioStart": 0.0,
+     "audioEnd": 5.184
+    },
+    {
+     "text": "これを「花見」と呼びます。",
+     "tokens": [
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore",
+       "gloss": "this",
+       "glossId": "ini"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "花見",
+       "pos": "noun",
+       "reading": "はなみ",
+       "romaji": "hanami",
+       "gloss": "cherry blossom viewing",
+       "glossId": "melihat bunga sakura"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: when/if; also quotation \"and\"",
+       "glossId": "partikel: ketika/jika; juga kutipan \"dan\""
+      },
+      {
+       "surface": "呼び",
+       "pos": "verb",
+       "reading": "よび",
+       "romaji": "yobi",
+       "lemma": "呼ぶ",
+       "gloss": "to call, name",
+       "glossId": "memanggil, menyebut"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "This is called \"hanami.\"",
+     "translationId": "Ini disebut \"hanami.\"",
+     "audioStart": 5.184,
+     "audioEnd": 7.728
+    },
+    {
+     "text": "花見は、家族や友達、会社の人と一緒に、桜の木の下でお弁当を食べたり、お酒を飲んだりする楽しい行事です。",
+     "tokens": [
+      {
+       "surface": "花見",
+       "pos": "noun",
+       "reading": "はなみ",
+       "romaji": "hanami",
+       "gloss": "cherry blossom viewing",
+       "glossId": "melihat bunga sakura"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "家族",
+       "pos": "noun",
+       "reading": "かぞく",
+       "romaji": "kazoku",
+       "gloss": "family",
+       "glossId": "keluarga"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing particle)",
+       "glossId": "dan (partikel daftar tidak lengkap)"
+      },
+      {
+       "surface": "友達",
+       "pos": "noun",
+       "reading": "ともだち",
+       "romaji": "tomodachi",
+       "gloss": "friend",
+       "glossId": "teman"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "会社",
+       "pos": "noun",
+       "reading": "かいしゃ",
+       "romaji": "kaisha",
+       "gloss": "company",
+       "glossId": "perusahaan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person, people",
+       "glossId": "orang"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: when/if; also quotation \"and\"",
+       "glossId": "partikel: ketika/jika; juga kutipan \"dan\""
+      },
+      {
+       "surface": "一緒",
+       "pos": "noun",
+       "reading": "いっしょ",
+       "romaji": "issho",
+       "gloss": "together",
+       "glossId": "bersama"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/at/in (time or direction)",
+       "glossId": "partikel: ke/pada (waktu atau arah)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "桜",
+       "pos": "noun",
+       "reading": "さくら",
+       "romaji": "sakura",
+       "gloss": "cherry blossom (tree)",
+       "glossId": "sakura (pohon/bunga)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "木",
+       "pos": "noun",
+       "reading": "き",
+       "romaji": "ki",
+       "gloss": "tree",
+       "glossId": "pohon"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "下",
+       "pos": "noun",
+       "reading": "もと",
+       "romaji": "moto",
+       "gloss": "under, below",
+       "glossId": "bawah"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location or means)",
+       "glossId": "partikel: di/dengan (lokasi atau cara)"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "弁当",
+       "pos": "noun",
+       "reading": "べんとう",
+       "romaji": "bentou",
+       "gloss": "boxed lunch, bento",
+       "glossId": "bekal, bento"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "たり",
+       "pos": "particle",
+       "romaji": "tari",
+       "gloss": "particle: listing actions (~たり~たりする)",
+       "glossId": "partikel: mendaftar tindakan (~たり~たりする)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "酒",
+       "pos": "noun",
+       "reading": "さけ",
+       "romaji": "sake",
+       "gloss": "alcohol, sake",
+       "glossId": "minuman keras, sake"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "飲ん",
+       "pos": "verb",
+       "reading": "のん",
+       "romaji": "non",
+       "lemma": "飲む",
+       "gloss": "to drink",
+       "glossId": "minum"
+      },
+      {
+       "surface": "だり",
+       "pos": "particle",
+       "romaji": "dari",
+       "gloss": "voiced variant of たり (e.g. 飲んだり)",
+       "glossId": "varian たり (setelah bunyi bersuara)"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "楽しい",
+       "pos": "adjective",
+       "reading": "たのしい",
+       "romaji": "tanoshii",
+       "gloss": "fun, enjoyable",
+       "glossId": "menyenangkan"
+      },
+      {
+       "surface": "行事",
+       "pos": "noun",
+       "reading": "ぎょうじ",
+       "romaji": "gyouji",
+       "gloss": "event, function",
+       "glossId": "acara, kegiatan"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Hanami is an enjoyable event where people eat bento and drink sake together with family, friends, or coworkers under the cherry trees.",
+     "translationId": "Hanami adalah acara menyenangkan di mana orang makan bekal dan minum sake bersama keluarga, teman, atau rekan kerja di bawah pohon sakura.",
+     "audioStart": 7.728,
+     "audioEnd": 18.312
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "花見の歴史はとても古いです。",
+     "tokens": [
+      {
+       "surface": "花見",
+       "pos": "noun",
+       "reading": "はなみ",
+       "romaji": "hanami",
+       "gloss": "cherry blossom viewing",
+       "glossId": "melihat bunga sakura"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "歴史",
+       "pos": "noun",
+       "reading": "れきし",
+       "romaji": "rekishi",
+       "gloss": "history",
+       "glossId": "sejarah"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "古い",
+       "pos": "adjective",
+       "reading": "ふるい",
+       "romaji": "furui",
+       "gloss": "old",
+       "glossId": "tua, lama"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The history of hanami is very old.",
+     "translationId": "Sejarah hanami sudah sangat lama.",
+     "audioStart": 18.312,
+     "audioEnd": 21.312
+    },
+    {
+     "text": "昔の人は、はじめ梅の花を見て春を楽しんでいました。",
+     "tokens": [
+      {
+       "surface": "昔",
+       "pos": "noun",
+       "reading": "むかし",
+       "romaji": "mukashi",
+       "gloss": "long ago, the past",
+       "glossId": "dahulu, masa lalu"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person, people",
+       "glossId": "orang"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "はじめ",
+       "pos": "noun",
+       "romaji": "hajime",
+       "gloss": "at first, in the beginning",
+       "glossId": "pada awalnya, mula-mula"
+      },
+      {
+       "surface": "梅",
+       "pos": "noun",
+       "reading": "うめ",
+       "romaji": "ume",
+       "gloss": "plum (blossom)",
+       "glossId": "bunga plum/ume"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "花",
+       "pos": "noun",
+       "reading": "はな",
+       "romaji": "hana",
+       "gloss": "flower",
+       "glossId": "bunga"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "見",
+       "pos": "verb",
+       "reading": "み",
+       "romaji": "mi",
+       "lemma": "見る",
+       "gloss": "to see, look at",
+       "glossId": "melihat"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connective particle",
+       "glossId": "partikel penghubung bentuk-te"
+      },
+      {
+       "surface": "春",
+       "pos": "noun",
+       "reading": "はる",
+       "romaji": "haru",
+       "gloss": "spring",
+       "glossId": "musim semi"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "楽しん",
+       "pos": "verb",
+       "reading": "たのしん",
+       "romaji": "tanoshin",
+       "lemma": "楽しむ",
+       "gloss": "to enjoy",
+       "glossId": "menikmati"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location or means)",
+       "glossId": "partikel: di/dengan (lokasi atau cara)"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be (existence; progressive auxiliary)",
+       "glossId": "berada (eksistensi; bantu bentuk progresif)"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In the past, people first enjoyed spring by looking at plum blossoms.",
+     "translationId": "Dahulu, orang-orang mula-mula menikmati musim semi dengan melihat bunga plum.",
+     "audioStart": 21.312,
+     "audioEnd": 26.232
+    },
+    {
+     "text": "しかし、平安時代のころから、桜の花のほうが人気になりました。",
+     "tokens": [
+      {
+       "surface": "しかし",
+       "pos": "conjunction",
+       "romaji": "shikashi",
+       "gloss": "however",
+       "glossId": "namun"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "平安",
+       "pos": "noun",
+       "reading": "へいあん",
+       "romaji": "heian",
+       "gloss": "Heian (era name)",
+       "glossId": "Heian (nama era)"
+      },
+      {
+       "surface": "時代",
+       "pos": "noun",
+       "reading": "じだい",
+       "romaji": "jidai",
+       "gloss": "era, period",
+       "glossId": "zaman, periode"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "ころ",
+       "pos": "noun",
+       "romaji": "koro",
+       "gloss": "around (a time), approximately",
+       "glossId": "sekitar (waktu)"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from, since",
+       "glossId": "dari, sejak"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "桜",
+       "pos": "noun",
+       "reading": "さくら",
+       "romaji": "sakura",
+       "gloss": "cherry blossom (tree)",
+       "glossId": "sakura (pohon/bunga)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "花",
+       "pos": "noun",
+       "reading": "はな",
+       "romaji": "hana",
+       "gloss": "flower",
+       "glossId": "bunga"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "ほう",
+       "pos": "noun",
+       "romaji": "hou",
+       "gloss": "side, direction (used in comparisons)",
+       "glossId": "sisi, arah (dipakai untuk perbandingan)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "人気",
+       "pos": "noun",
+       "reading": "にんき",
+       "romaji": "ninki",
+       "gloss": "popularity",
+       "glossId": "popularitas"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/at/in (time or direction)",
+       "glossId": "partikel: ke/pada (waktu atau arah)"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "However, from around the Heian period, cherry blossoms became more popular.",
+     "translationId": "Namun, sejak sekitar zaman Heian, bunga sakura menjadi lebih populer.",
+     "audioStart": 26.232,
+     "audioEnd": 32.328
+    },
+    {
+     "text": "桜は美しいだけでなく、咲く時間が短いので、特別な花だと考えられていました。",
+     "tokens": [
+      {
+       "surface": "桜",
+       "pos": "noun",
+       "reading": "さくら",
+       "romaji": "sakura",
+       "gloss": "cherry blossom (tree)",
+       "glossId": "sakura (pohon/bunga)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "美しい",
+       "pos": "adjective",
+       "reading": "うつくしい",
+       "romaji": "utsukushii",
+       "gloss": "beautiful",
+       "glossId": "indah"
+      },
+      {
+       "surface": "だけ",
+       "pos": "particle",
+       "romaji": "dake",
+       "gloss": "only, just",
+       "glossId": "hanya, saja"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula (plain form \"is\")",
+       "glossId": "kopula (bentuk biasa \"adalah\")"
+      },
+      {
+       "surface": "なく",
+       "pos": "adjective",
+       "romaji": "naku",
+       "lemma": "ない",
+       "gloss": "negation",
+       "glossId": "negasi"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "咲く",
+       "pos": "verb",
+       "reading": "さく",
+       "romaji": "saku",
+       "gloss": "to bloom",
+       "glossId": "mekar"
+      },
+      {
+       "surface": "時間",
+       "pos": "noun",
+       "reading": "じかん",
+       "romaji": "jikan",
+       "gloss": "time",
+       "glossId": "waktu"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "短い",
+       "pos": "adjective",
+       "reading": "みじかい",
+       "romaji": "mijikai",
+       "gloss": "short",
+       "glossId": "pendek, singkat"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula (plain form \"is\")",
+       "glossId": "kopula (bentuk biasa \"adalah\")"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "特別",
+       "pos": "adjective",
+       "reading": "とくべつ",
+       "romaji": "tokubetsu",
+       "gloss": "special",
+       "glossId": "istimewa, khusus"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula (plain form \"is\")",
+       "glossId": "kopula (bentuk biasa \"adalah\")"
+      },
+      {
+       "surface": "花",
+       "pos": "noun",
+       "reading": "はな",
+       "romaji": "hana",
+       "gloss": "flower",
+       "glossId": "bunga"
+      },
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "copula (plain form \"is\")",
+       "glossId": "kopula (bentuk biasa \"adalah\")"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: when/if; also quotation \"and\"",
+       "glossId": "partikel: ketika/jika; juga kutipan \"dan\""
+      },
+      {
+       "surface": "考え",
+       "pos": "verb",
+       "reading": "かんがえ",
+       "romaji": "kangae",
+       "lemma": "考える",
+       "gloss": "to think",
+       "glossId": "berpikir"
+      },
+      {
+       "surface": "られ",
+       "pos": "auxiliary",
+       "romaji": "rare",
+       "lemma": "られる",
+       "gloss": "passive/potential auxiliary",
+       "glossId": "bantu pasif/potensial"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connective particle",
+       "glossId": "partikel penghubung bentuk-te"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be (existence; progressive auxiliary)",
+       "glossId": "berada (eksistensi; bantu bentuk progresif)"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Cherry blossoms were thought to be special not only because they are beautiful, but also because they bloom for only a short time.",
+     "translationId": "Sakura dianggap sebagai bunga istimewa bukan hanya karena indah, tetapi juga karena waktu mekarnya singkat.",
+     "audioStart": 32.328,
+     "audioEnd": 40.104
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "江戸時代になると、花見は普通の人たちの間にも広がりました。",
+     "tokens": [
+      {
+       "surface": "江戸",
+       "pos": "noun",
+       "reading": "えど",
+       "romaji": "edo",
+       "gloss": "Edo (era name)",
+       "glossId": "Edo (nama era)"
+      },
+      {
+       "surface": "時代",
+       "pos": "noun",
+       "reading": "じだい",
+       "romaji": "jidai",
+       "gloss": "era, period",
+       "glossId": "zaman, periode"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/at/in (time or direction)",
+       "glossId": "partikel: ke/pada (waktu atau arah)"
+      },
+      {
+       "surface": "なる",
+       "pos": "verb",
+       "romaji": "naru",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: when/if; also quotation \"and\"",
+       "glossId": "partikel: ketika/jika; juga kutipan \"dan\""
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "花見",
+       "pos": "noun",
+       "reading": "はなみ",
+       "romaji": "hanami",
+       "gloss": "cherry blossom viewing",
+       "glossId": "melihat bunga sakura"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "普通",
+       "pos": "noun",
+       "reading": "ふつう",
+       "romaji": "futsuu",
+       "gloss": "ordinary, normal",
+       "glossId": "biasa, normal"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person, people",
+       "glossId": "orang"
+      },
+      {
+       "surface": "たち",
+       "pos": "suffix",
+       "romaji": "tachi",
+       "gloss": "plural suffix",
+       "glossId": "akhiran jamak"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "間",
+       "pos": "noun",
+       "reading": "あいだ",
+       "romaji": "aida",
+       "gloss": "between, among",
+       "glossId": "antara, di kalangan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/at/in (time or direction)",
+       "glossId": "partikel: ke/pada (waktu atau arah)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "広がり",
+       "pos": "verb",
+       "reading": "ひろがり",
+       "romaji": "hirogari",
+       "lemma": "広がる",
+       "gloss": "to spread",
+       "glossId": "menyebar"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When the Edo period came, hanami spread among ordinary people as well.",
+     "translationId": "Ketika memasuki zaman Edo, hanami juga menyebar di kalangan rakyat biasa.",
+     "audioStart": 40.104,
+     "audioEnd": 45.504
+    },
+    {
+     "text": "町に住む人たちも、桜の木の下で食事をしたり、歌を歌ったりして春を楽しむようになりました。",
+     "tokens": [
+      {
+       "surface": "町",
+       "pos": "noun",
+       "reading": "まち",
+       "romaji": "machi",
+       "gloss": "town",
+       "glossId": "kota, desa"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/at/in (time or direction)",
+       "glossId": "partikel: ke/pada (waktu atau arah)"
+      },
+      {
+       "surface": "住む",
+       "pos": "verb",
+       "reading": "すむ",
+       "romaji": "sumu",
+       "gloss": "to live, reside",
+       "glossId": "tinggal"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person, people",
+       "glossId": "orang"
+      },
+      {
+       "surface": "たち",
+       "pos": "suffix",
+       "romaji": "tachi",
+       "gloss": "plural suffix",
+       "glossId": "akhiran jamak"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "桜",
+       "pos": "noun",
+       "reading": "さくら",
+       "romaji": "sakura",
+       "gloss": "cherry blossom (tree)",
+       "glossId": "sakura (pohon/bunga)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "木",
+       "pos": "noun",
+       "reading": "き",
+       "romaji": "ki",
+       "gloss": "tree",
+       "glossId": "pohon"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "下",
+       "pos": "noun",
+       "reading": "もと",
+       "romaji": "moto",
+       "gloss": "under, below",
+       "glossId": "bawah"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location or means)",
+       "glossId": "partikel: di/dengan (lokasi atau cara)"
+      },
+      {
+       "surface": "食事",
+       "pos": "noun",
+       "reading": "しょくじ",
+       "romaji": "shokuji",
+       "gloss": "meal",
+       "glossId": "makan, santapan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "たり",
+       "pos": "particle",
+       "romaji": "tari",
+       "gloss": "particle: listing actions (~たり~たりする)",
+       "glossId": "partikel: mendaftar tindakan (~たり~たりする)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "歌",
+       "pos": "noun",
+       "reading": "うた",
+       "romaji": "uta",
+       "gloss": "song",
+       "glossId": "lagu"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "歌っ",
+       "pos": "verb",
+       "reading": "うたっ",
+       "romaji": "utat",
+       "lemma": "歌う",
+       "gloss": "to sing",
+       "glossId": "menyanyi"
+      },
+      {
+       "surface": "たり",
+       "pos": "particle",
+       "romaji": "tari",
+       "gloss": "particle: listing actions (~たり~たりする)",
+       "glossId": "partikel: mendaftar tindakan (~たり~たりする)"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connective particle",
+       "glossId": "partikel penghubung bentuk-te"
+      },
+      {
+       "surface": "春",
+       "pos": "noun",
+       "reading": "はる",
+       "romaji": "haru",
+       "gloss": "spring",
+       "glossId": "musim semi"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "楽しむ",
+       "pos": "verb",
+       "reading": "たのしむ",
+       "romaji": "tanoshimu",
+       "gloss": "to enjoy",
+       "glossId": "menikmati"
+      },
+      {
+       "surface": "よう",
+       "pos": "adjective",
+       "romaji": "you",
+       "gloss": "manner/seeming (~ようになる \"come to be so\")",
+       "glossId": "cara/seolah (~ようになる \"jadi begitu\")"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula (plain form \"is\")",
+       "glossId": "kopula (bentuk biasa \"adalah\")"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "People living in towns also came to enjoy spring by eating meals and singing songs under the cherry trees.",
+     "translationId": "Orang-orang yang tinggal di kota juga mulai menikmati musim semi dengan makan dan bernyanyi di bawah pohon sakura.",
+     "audioStart": 45.504,
+     "audioEnd": 53.544
+    },
+    {
+     "text": "この習慣が、今の花見につながっています。",
+     "tokens": [
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this (adnominal)",
+       "glossId": "ini (kata sandang)"
+      },
+      {
+       "surface": "習慣",
+       "pos": "noun",
+       "reading": "しゅうかん",
+       "romaji": "shuukan",
+       "gloss": "custom, habit",
+       "glossId": "kebiasaan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "今",
+       "pos": "noun",
+       "reading": "いま",
+       "romaji": "ima",
+       "gloss": "now",
+       "glossId": "sekarang"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "花見",
+       "pos": "noun",
+       "reading": "はなみ",
+       "romaji": "hanami",
+       "gloss": "cherry blossom viewing",
+       "glossId": "melihat bunga sakura"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/at/in (time or direction)",
+       "glossId": "partikel: ke/pada (waktu atau arah)"
+      },
+      {
+       "surface": "つながっ",
+       "pos": "verb",
+       "romaji": "tsunagatsu",
+       "lemma": "つながる",
+       "gloss": "to be connected",
+       "glossId": "terhubung"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connective particle",
+       "glossId": "partikel penghubung bentuk-te"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be (existence; progressive auxiliary)",
+       "glossId": "berada (eksistensi; bantu bentuk progresif)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "This custom is connected to hanami as it is today.",
+     "translationId": "Kebiasaan ini terhubung dengan hanami masa kini.",
+     "audioStart": 53.544,
+     "audioEnd": 57.648
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "桜の花は、だいたい一週間から十日ぐらいで散ってしまいます。",
+     "tokens": [
+      {
+       "surface": "桜",
+       "pos": "noun",
+       "reading": "さくら",
+       "romaji": "sakura",
+       "gloss": "cherry blossom (tree)",
+       "glossId": "sakura (pohon/bunga)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "花",
+       "pos": "noun",
+       "reading": "はな",
+       "romaji": "hana",
+       "gloss": "flower",
+       "glossId": "bunga"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "だいたい",
+       "pos": "noun",
+       "romaji": "daitai",
+       "gloss": "approximately, roughly",
+       "glossId": "kira-kira"
+      },
+      {
+       "surface": "一",
+       "pos": "noun",
+       "reading": "いち",
+       "romaji": "ichi",
+       "gloss": "one",
+       "glossId": "satu"
+      },
+      {
+       "surface": "週間",
+       "pos": "noun",
+       "reading": "しゅうかん",
+       "romaji": "shuukan",
+       "gloss": "week",
+       "glossId": "minggu"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from, since",
+       "glossId": "dari, sejak"
+      },
+      {
+       "surface": "十",
+       "pos": "noun",
+       "reading": "とお",
+       "romaji": "tooka",
+       "gloss": "ten",
+       "glossId": "sepuluh"
+      },
+      {
+       "surface": "日",
+       "pos": "suffix",
+       "reading": "か",
+       "romaji": "",
+       "gloss": "day",
+       "glossId": "hari"
+      },
+      {
+       "surface": "ぐらい",
+       "pos": "particle",
+       "romaji": "gurai",
+       "gloss": "about, approximately",
+       "glossId": "kira-kira, sekitar"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location or means)",
+       "glossId": "partikel: di/dengan (lokasi atau cara)"
+      },
+      {
+       "surface": "散っ",
+       "pos": "verb",
+       "reading": "ちっ",
+       "romaji": "chit",
+       "lemma": "散る",
+       "gloss": "to scatter, fall (of petals)",
+       "glossId": "berguguran, jatuh (kelopak)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connective particle",
+       "glossId": "partikel penghubung bentuk-te"
+      },
+      {
+       "surface": "しまい",
+       "pos": "verb",
+       "romaji": "shimai",
+       "lemma": "しまう",
+       "gloss": "auxiliary: to finish/complete (often with a nuance of regret)",
+       "glossId": "bantu: menyelesaikan (sering bernuansa penyesalan)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Cherry blossoms fall after about one to ten days.",
+     "translationId": "Bunga sakura biasanya berguguran dalam waktu sekitar satu minggu hingga sepuluh hari.",
+     "audioStart": 57.648,
+     "audioEnd": 63.648
+    },
+    {
+     "text": "この「短さ」は、日本人の心に強く残っています。",
+     "tokens": [
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this (adnominal)",
+       "glossId": "ini (kata sandang)"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "短",
+       "pos": "adjective",
+       "reading": "みじか",
+       "romaji": "mijika",
+       "lemma": "短い",
+       "gloss": "short",
+       "glossId": "pendek, singkat"
+      },
+      {
+       "surface": "さ",
+       "pos": "suffix",
+       "romaji": "sa",
+       "gloss": "suffix forming a noun from an adjective (e.g. 短さ \"shortness\")",
+       "glossId": "akhiran pembentuk kata benda dari kata sifat (mis. 短さ \"kesingkatan\")"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本人",
+       "pos": "noun",
+       "reading": "にほんじん",
+       "romaji": "nihonjin",
+       "gloss": "Japanese person",
+       "glossId": "orang Jepang"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "心",
+       "pos": "noun",
+       "reading": "こころ",
+       "romaji": "kokoro",
+       "gloss": "heart, mind",
+       "glossId": "hati, pikiran"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/at/in (time or direction)",
+       "glossId": "partikel: ke/pada (waktu atau arah)"
+      },
+      {
+       "surface": "強く",
+       "pos": "adjective",
+       "reading": "つよく",
+       "romaji": "tsuyoku",
+       "lemma": "強い",
+       "gloss": "strong",
+       "glossId": "kuat"
+      },
+      {
+       "surface": "残っ",
+       "pos": "verb",
+       "reading": "のこっ",
+       "romaji": "nokot",
+       "lemma": "残る",
+       "gloss": "to remain",
+       "glossId": "tersisa, tertinggal"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connective particle",
+       "glossId": "partikel penghubung bentuk-te"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be (existence; progressive auxiliary)",
+       "glossId": "berada (eksistensi; bantu bentuk progresif)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "This \"shortness\" remains strongly in the hearts of Japanese people.",
+     "translationId": "\"Kesingkatan\" ini tertanam kuat di hati orang Jepang.",
+     "audioStart": 63.648,
+     "audioEnd": 69.12
+    },
+    {
+     "text": "美しいものはすぐに終わる、という考え方は、日本の文化の中でよく見られます。",
+     "tokens": [
+      {
+       "surface": "美しい",
+       "pos": "adjective",
+       "reading": "うつくしい",
+       "romaji": "utsukushii",
+       "gloss": "beautiful",
+       "glossId": "indah"
+      },
+      {
+       "surface": "もの",
+       "pos": "noun",
+       "romaji": "mono",
+       "gloss": "thing",
+       "glossId": "benda, hal"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "すぐ",
+       "pos": "adverb",
+       "romaji": "sugu",
+       "gloss": "soon, immediately",
+       "glossId": "segera"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/at/in (time or direction)",
+       "glossId": "partikel: ke/pada (waktu atau arah)"
+      },
+      {
+       "surface": "終わる",
+       "pos": "verb",
+       "reading": "おわる",
+       "romaji": "owaru",
+       "gloss": "to end",
+       "glossId": "berakhir"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: when/if; also quotation \"and\"",
+       "glossId": "partikel: ketika/jika; juga kutipan \"dan\""
+      },
+      {
+       "surface": "いう",
+       "pos": "verb",
+       "romaji": "iu",
+       "gloss": "to say",
+       "glossId": "mengatakan"
+      },
+      {
+       "surface": "考え方",
+       "pos": "noun",
+       "reading": "かんがえかた",
+       "romaji": "kangaekata",
+       "gloss": "way of thinking",
+       "glossId": "cara berpikir"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "文化",
+       "pos": "noun",
+       "reading": "ぶんか",
+       "romaji": "bunka",
+       "gloss": "culture",
+       "glossId": "budaya"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "中",
+       "pos": "noun",
+       "reading": "なか",
+       "romaji": "naka",
+       "gloss": "inside, among",
+       "glossId": "dalam, di antara"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location or means)",
+       "glossId": "partikel: di/dengan (lokasi atau cara)"
+      },
+      {
+       "surface": "よく",
+       "pos": "adverb",
+       "romaji": "yoku",
+       "gloss": "often, well",
+       "glossId": "sering, baik"
+      },
+      {
+       "surface": "見",
+       "pos": "verb",
+       "reading": "み",
+       "romaji": "mi",
+       "lemma": "見る",
+       "gloss": "to see, look at",
+       "glossId": "melihat"
+      },
+      {
+       "surface": "られ",
+       "pos": "auxiliary",
+       "romaji": "rare",
+       "lemma": "られる",
+       "gloss": "passive/potential auxiliary",
+       "glossId": "bantu pasif/potensial"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The idea that beautiful things end quickly is often seen in Japanese culture.",
+     "translationId": "Pandangan bahwa hal-hal indah cepat berakhir sering terlihat dalam budaya Jepang.",
+     "audioStart": 69.12,
+     "audioEnd": 76.2
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "今でも、春になると天気予報で桜が咲く時期が伝えられます。",
+     "tokens": [
+      {
+       "surface": "今",
+       "pos": "noun",
+       "reading": "いま",
+       "romaji": "ima",
+       "gloss": "now",
+       "glossId": "sekarang"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location or means)",
+       "glossId": "partikel: di/dengan (lokasi atau cara)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "春",
+       "pos": "noun",
+       "reading": "はる",
+       "romaji": "haru",
+       "gloss": "spring",
+       "glossId": "musim semi"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/at/in (time or direction)",
+       "glossId": "partikel: ke/pada (waktu atau arah)"
+      },
+      {
+       "surface": "なる",
+       "pos": "verb",
+       "romaji": "naru",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: when/if; also quotation \"and\"",
+       "glossId": "partikel: ketika/jika; juga kutipan \"dan\""
+      },
+      {
+       "surface": "天気予報",
+       "pos": "noun",
+       "reading": "てんきよほう",
+       "romaji": "tenkiyohou",
+       "gloss": "weather forecast",
+       "glossId": "ramalan cuaca"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/in (location or means)",
+       "glossId": "partikel: di/dengan (lokasi atau cara)"
+      },
+      {
+       "surface": "桜",
+       "pos": "noun",
+       "reading": "さくら",
+       "romaji": "sakura",
+       "gloss": "cherry blossom (tree)",
+       "glossId": "sakura (pohon/bunga)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "咲く",
+       "pos": "verb",
+       "reading": "さく",
+       "romaji": "saku",
+       "gloss": "to bloom",
+       "glossId": "mekar"
+      },
+      {
+       "surface": "時期",
+       "pos": "noun",
+       "reading": "じき",
+       "romaji": "jiki",
+       "gloss": "time, period, season",
+       "glossId": "waktu, musim"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "伝え",
+       "pos": "verb",
+       "reading": "つたえ",
+       "romaji": "tsutae",
+       "lemma": "伝える",
+       "gloss": "to convey, report",
+       "glossId": "menyampaikan"
+      },
+      {
+       "surface": "られ",
+       "pos": "auxiliary",
+       "romaji": "rare",
+       "lemma": "られる",
+       "gloss": "passive/potential auxiliary",
+       "glossId": "bantu pasif/potensial"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Even now, when spring comes, the weather forecast reports when the cherry blossoms will bloom.",
+     "translationId": "Bahkan sekarang, ketika musim semi tiba, ramalan cuaca menyampaikan kapan sakura akan mekar.",
+     "audioStart": 76.2,
+     "audioEnd": 81.888
+    },
+    {
+     "text": "公園や川のそばには桜の木がたくさんあり、多くの人が花見に出かけます。",
+     "tokens": [
+      {
+       "surface": "公園",
+       "pos": "noun",
+       "reading": "こうえん",
+       "romaji": "kouen",
+       "gloss": "park",
+       "glossId": "taman"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing particle)",
+       "glossId": "dan (partikel daftar tidak lengkap)"
+      },
+      {
+       "surface": "川",
+       "pos": "noun",
+       "reading": "かわ",
+       "romaji": "kawa",
+       "gloss": "river",
+       "glossId": "sungai"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "そば",
+       "pos": "noun",
+       "romaji": "soba",
+       "gloss": "near, beside",
+       "glossId": "dekat, di samping"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/at/in (time or direction)",
+       "glossId": "partikel: ke/pada (waktu atau arah)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "桜",
+       "pos": "noun",
+       "reading": "さくら",
+       "romaji": "sakura",
+       "gloss": "cherry blossom (tree)",
+       "glossId": "sakura (pohon/bunga)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "木",
+       "pos": "noun",
+       "reading": "き",
+       "romaji": "ki",
+       "gloss": "tree",
+       "glossId": "pohon"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "多く",
+       "pos": "noun",
+       "reading": "おおく",
+       "romaji": "ooku",
+       "gloss": "many, a lot",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person, people",
+       "glossId": "orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "花見",
+       "pos": "noun",
+       "reading": "はなみ",
+       "romaji": "hanami",
+       "gloss": "cherry blossom viewing",
+       "glossId": "melihat bunga sakura"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/at/in (time or direction)",
+       "glossId": "partikel: ke/pada (waktu atau arah)"
+      },
+      {
+       "surface": "出かけ",
+       "pos": "verb",
+       "reading": "でかけ",
+       "romaji": "dekake",
+       "lemma": "出かける",
+       "gloss": "to go out",
+       "glossId": "pergi keluar"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are many cherry trees near parks and rivers, and many people go out for hanami.",
+     "translationId": "Di dekat taman dan sungai terdapat banyak pohon sakura, dan banyak orang pergi untuk hanami.",
+     "audioStart": 81.888,
+     "audioEnd": 88.224
+    },
+    {
+     "text": "花見は、季節の変わり目を感じ、大切な人と一緒に時間を過ごすための、大切な行事です。",
+     "tokens": [
+      {
+       "surface": "花見",
+       "pos": "noun",
+       "reading": "はなみ",
+       "romaji": "hanami",
+       "gloss": "cherry blossom viewing",
+       "glossId": "melihat bunga sakura"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "季節",
+       "pos": "noun",
+       "reading": "きせつ",
+       "romaji": "kisetsu",
+       "gloss": "season",
+       "glossId": "musim"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "変わり目",
+       "pos": "noun",
+       "reading": "かわりめ",
+       "romaji": "kawarime",
+       "gloss": "turning point, transition",
+       "glossId": "titik pergantian, transisi"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "感じ",
+       "pos": "verb",
+       "reading": "かんじ",
+       "romaji": "kanji",
+       "lemma": "感ずる",
+       "gloss": "to feel (variant of 感じる)",
+       "glossId": "merasakan (varian 感じる)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "大切",
+       "pos": "adjective",
+       "reading": "たいせつ",
+       "romaji": "taisetsu",
+       "gloss": "important",
+       "glossId": "penting"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula (plain form \"is\")",
+       "glossId": "kopula (bentuk biasa \"adalah\")"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person, people",
+       "glossId": "orang"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: when/if; also quotation \"and\"",
+       "glossId": "partikel: ketika/jika; juga kutipan \"dan\""
+      },
+      {
+       "surface": "一緒",
+       "pos": "noun",
+       "reading": "いっしょ",
+       "romaji": "issho",
+       "gloss": "together",
+       "glossId": "bersama"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: to/at/in (time or direction)",
+       "glossId": "partikel: ke/pada (waktu atau arah)"
+      },
+      {
+       "surface": "時間",
+       "pos": "noun",
+       "reading": "じかん",
+       "romaji": "jikan",
+       "gloss": "time",
+       "glossId": "waktu"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "過ごす",
+       "pos": "verb",
+       "reading": "すごす",
+       "romaji": "sugosu",
+       "gloss": "to spend (time)",
+       "glossId": "menghabiskan (waktu)"
+      },
+      {
+       "surface": "ため",
+       "pos": "noun",
+       "romaji": "tame",
+       "gloss": "for the purpose of, because of",
+       "glossId": "untuk tujuan, karena"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"punya/dari\""
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "大切",
+       "pos": "adjective",
+       "reading": "たいせつ",
+       "romaji": "taisetsu",
+       "gloss": "important",
+       "glossId": "penting"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula (plain form \"is\")",
+       "glossId": "kopula (bentuk biasa \"adalah\")"
+      },
+      {
+       "surface": "行事",
+       "pos": "noun",
+       "reading": "ぎょうじ",
+       "romaji": "gyouji",
+       "gloss": "event, function",
+       "glossId": "acara, kegiatan"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Hanami is an important event for feeling the change of seasons and spending time together with people who matter.",
+     "translationId": "Hanami adalah acara penting untuk merasakan pergantian musim dan menghabiskan waktu bersama orang-orang tersayang.",
+     "audioStart": 88.224,
+     "audioEnd": 96.936
+    }
+   ]
+  }
+ ],
+ "topic": "ぶんか・ぎょうじ",
+ "topicEn": "Culture & events",
+ "topicId": "Budaya & acara"
+}

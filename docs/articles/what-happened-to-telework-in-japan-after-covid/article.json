@@ -1,0 +1,2669 @@
+{
+ "schemaVersion": 1,
+ "id": "what-happened-to-telework-in-japan-after-covid",
+ "language": "ja",
+ "title": "コロナ後のテレワーク、日本ではどうなった?",
+ "titleTranslation": "What Happened to Telework in Japan After COVID?",
+ "titleTranslationId": "Bagaimana Nasib Telework di Jepang Setelah Corona?",
+ "level": "N3",
+ "summary": "The article explains how remote work spread in Japan during the COVID pandemic, its benefits and drawbacks, and how many companies now use a hybrid style balancing office and home work.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T18:15:49+00:00",
+ "audioFile": "audio-49ae9e96.mp3",
+ "voice": "en-US-AvaMultilingualNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "数年前、多くの会社員が在宅で仕事をするようになりました。",
+     "tokens": [
+      {
+       "surface": "数",
+       "pos": "noun",
+       "reading": "すう",
+       "romaji": "suu",
+       "gloss": "number/several",
+       "glossId": "jumlah/beberapa"
+      },
+      {
+       "surface": "年",
+       "pos": "noun",
+       "reading": "ねん",
+       "romaji": "nen",
+       "gloss": "year",
+       "glossId": "tahun"
+      },
+      {
+       "surface": "前",
+       "pos": "noun",
+       "reading": "まえ",
+       "romaji": "mae",
+       "gloss": "before/ago",
+       "glossId": "sebelum/lalu"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "多く",
+       "pos": "noun",
+       "reading": "おおく",
+       "romaji": "ooku",
+       "gloss": "many/a lot",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "会社員",
+       "pos": "noun",
+       "reading": "かいしゃいん",
+       "romaji": "kaishain",
+       "gloss": "company employee",
+       "glossId": "karyawan perusahaan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "在宅",
+       "pos": "noun",
+       "reading": "ざいたく",
+       "romaji": "zaitaku",
+       "gloss": "staying at home",
+       "glossId": "berada di rumah"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker",
+       "glossId": "penanda tempat/cara"
+      },
+      {
+       "surface": "仕事",
+       "pos": "noun",
+       "reading": "しごと",
+       "romaji": "shigoto",
+       "gloss": "work/job",
+       "glossId": "pekerjaan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "よう",
+       "pos": "adjective",
+       "romaji": "you",
+       "gloss": "manner/appearance (like ~)",
+       "glossId": "seperti/tampaknya"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula (plain 'is')",
+       "glossId": "kopula (bentuk biasa 'adalah')"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "A few years ago, many company employees started working from home.",
+     "translationId": "Beberapa tahun lalu, banyak karyawan mulai bekerja dari rumah.",
+     "audioStart": 0.0,
+     "audioEnd": 5.064
+    },
+    {
+     "text": "これは「テレワーク」または「リモートワーク」と呼ばれています。",
+     "tokens": [
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore",
+       "gloss": "this",
+       "glossId": "ini"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "テレワーク",
+       "pos": "noun",
+       "romaji": "terewaaku",
+       "gloss": "telework",
+       "glossId": "telework"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "また",
+       "pos": "conjunction",
+       "romaji": "mata",
+       "gloss": "also/and",
+       "glossId": "juga/selain itu"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "リモートワーク",
+       "pos": "noun",
+       "romaji": "rimootowaaku",
+       "gloss": "remote work",
+       "glossId": "kerja jarak jauh"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/with particle",
+       "glossId": "partikel kutipan/dengan"
+      },
+      {
+       "surface": "呼ば",
+       "pos": "verb",
+       "reading": "よば",
+       "romaji": "yoba",
+       "lemma": "呼ぶ",
+       "gloss": "to call (name)",
+       "glossId": "memanggil/menyebut"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive suffix",
+       "glossId": "akhiran pasif"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be (progressive/state)",
+       "glossId": "sedang/berada (keadaan)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "This is called \"telework\" or \"remote work.\"",
+     "translationId": "Ini disebut \"telework\" atau \"remote work\".",
+     "audioStart": 5.064,
+     "audioEnd": 9.216
+    },
+    {
+     "text": "コロナウイルスが広がったとき、会社に行かずに家で働く人が急に増えました。",
+     "tokens": [
+      {
+       "surface": "コロナウイルス",
+       "pos": "noun",
+       "romaji": "koronauirusu",
+       "gloss": "coronavirus",
+       "glossId": "virus corona"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "広がっ",
+       "pos": "verb",
+       "reading": "ひろがっ",
+       "romaji": "hirogat",
+       "lemma": "広がる",
+       "gloss": "to spread",
+       "glossId": "menyebar"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda lampau"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "when/time",
+       "glossId": "saat/waktu"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "会社",
+       "pos": "noun",
+       "reading": "かいしゃ",
+       "romaji": "kaisha",
+       "gloss": "company",
+       "glossId": "perusahaan/kantor"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/location marker",
+       "glossId": "penanda tujuan/tempat"
+      },
+      {
+       "surface": "行か",
+       "pos": "verb",
+       "reading": "いか",
+       "romaji": "ika",
+       "lemma": "行く",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "ず",
+       "pos": "auxiliary",
+       "romaji": "zu",
+       "gloss": "without doing (negative form)",
+       "glossId": "tanpa melakukan (bentuk negatif)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/location marker",
+       "glossId": "penanda tujuan/tempat"
+      },
+      {
+       "surface": "家",
+       "pos": "noun",
+       "reading": "いえ",
+       "romaji": "ie",
+       "gloss": "house/home",
+       "glossId": "rumah"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker",
+       "glossId": "penanda tempat/cara"
+      },
+      {
+       "surface": "働く",
+       "pos": "verb",
+       "reading": "はたらく",
+       "romaji": "hataraku",
+       "gloss": "to work",
+       "glossId": "bekerja"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "急",
+       "pos": "noun",
+       "reading": "きゅう",
+       "romaji": "kyuu",
+       "gloss": "sudden",
+       "glossId": "tiba-tiba"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula (plain 'is')",
+       "glossId": "kopula (bentuk biasa 'adalah')"
+      },
+      {
+       "surface": "増え",
+       "pos": "verb",
+       "reading": "ふえ",
+       "romaji": "fue",
+       "lemma": "増える",
+       "gloss": "to increase",
+       "glossId": "meningkat"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When the coronavirus spread, the number of people working from home without going to the office suddenly increased.",
+     "translationId": "Ketika virus corona menyebar, jumlah orang yang bekerja dari rumah tanpa pergi ke kantor tiba-tiba meningkat.",
+     "audioStart": 9.216,
+     "audioEnd": 15.0
+    },
+    {
+     "text": "今、コロナの前の生活に戻りつつありますが、テレワークを続けている会社もあります。",
+     "tokens": [
+      {
+       "surface": "今",
+       "pos": "noun",
+       "reading": "いま",
+       "romaji": "ima",
+       "gloss": "now",
+       "glossId": "sekarang"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "コロナ",
+       "pos": "noun",
+       "romaji": "korona",
+       "gloss": "corona (short for coronavirus/COVID)",
+       "glossId": "corona (singkatan)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "前",
+       "pos": "noun",
+       "reading": "まえ",
+       "romaji": "mae",
+       "gloss": "before/ago",
+       "glossId": "sebelum/lalu"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "生活",
+       "pos": "noun",
+       "reading": "せいかつ",
+       "romaji": "seikatsu",
+       "gloss": "life/living",
+       "glossId": "kehidupan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/location marker",
+       "glossId": "penanda tujuan/tempat"
+      },
+      {
+       "surface": "戻り",
+       "pos": "verb",
+       "reading": "もどり",
+       "romaji": "modori",
+       "lemma": "戻る",
+       "gloss": "to return",
+       "glossId": "kembali"
+      },
+      {
+       "surface": "つつ",
+       "pos": "particle",
+       "romaji": "tsutsu",
+       "gloss": "while/in the process of",
+       "glossId": "sambil/berangsur-angsur"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist/be (for things)",
+       "glossId": "ada/berada (benda)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "テレワーク",
+       "pos": "noun",
+       "romaji": "terewaaku",
+       "gloss": "telework",
+       "glossId": "telework"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "続け",
+       "pos": "verb",
+       "reading": "つづけ",
+       "romaji": "tsuzuke",
+       "lemma": "続ける",
+       "gloss": "to continue",
+       "glossId": "melanjutkan"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "to be (progressive/state)",
+       "glossId": "sedang/berada (keadaan)"
+      },
+      {
+       "surface": "会社",
+       "pos": "noun",
+       "reading": "かいしゃ",
+       "romaji": "kaisha",
+       "gloss": "company",
+       "glossId": "perusahaan/kantor"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist/be (for things)",
+       "glossId": "ada/berada (benda)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Now life is gradually returning to how it was before COVID, but some companies continue to allow telework.",
+     "translationId": "Sekarang kehidupan berangsur-angsur kembali seperti sebelum corona, tetapi ada juga perusahaan yang tetap melanjutkan telework.",
+     "audioStart": 15.0,
+     "audioEnd": 21.864
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "テレワークにはいろいろな良い点があります。",
+     "tokens": [
+      {
+       "surface": "テレワーク",
+       "pos": "noun",
+       "romaji": "terewaaku",
+       "gloss": "telework",
+       "glossId": "telework"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/location marker",
+       "glossId": "penanda tujuan/tempat"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "いろいろ",
+       "pos": "adjective",
+       "romaji": "iroiro",
+       "gloss": "various",
+       "glossId": "bermacam-macam"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula (plain 'is')",
+       "glossId": "kopula (bentuk biasa 'adalah')"
+      },
+      {
+       "surface": "良い",
+       "pos": "adjective",
+       "reading": "よい",
+       "romaji": "yoi",
+       "gloss": "good",
+       "glossId": "baik"
+      },
+      {
+       "surface": "点",
+       "pos": "noun",
+       "reading": "てん",
+       "romaji": "ten",
+       "gloss": "point/aspect",
+       "glossId": "poin/aspek"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist/be (for things)",
+       "glossId": "ada/berada (benda)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Telework has various good points.",
+     "translationId": "Telework memiliki berbagai keuntungan.",
+     "audioStart": 21.864,
+     "audioEnd": 24.96
+    },
+    {
+     "text": "まず、通勤の時間がなくなるので、朝ゆっくり準備できます。",
+     "tokens": [
+      {
+       "surface": "まず",
+       "pos": "adverb",
+       "romaji": "mazu",
+       "gloss": "first of all",
+       "glossId": "pertama-tama"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "通勤",
+       "pos": "noun",
+       "reading": "つうきん",
+       "romaji": "tsuukin",
+       "gloss": "commuting",
+       "glossId": "perjalanan ke kantor"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "時間",
+       "pos": "noun",
+       "reading": "じかん",
+       "romaji": "jikan",
+       "gloss": "time",
+       "glossId": "waktu"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "なくなる",
+       "pos": "verb",
+       "romaji": "nakunaru",
+       "gloss": "to disappear/cease to exist",
+       "glossId": "menjadi hilang/tidak ada lagi"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula (plain 'is')",
+       "glossId": "kopula (bentuk biasa 'adalah')"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "朝",
+       "pos": "noun",
+       "reading": "あさ",
+       "romaji": "asa",
+       "gloss": "morning",
+       "glossId": "pagi"
+      },
+      {
+       "surface": "ゆっくり",
+       "pos": "adverb",
+       "romaji": "yukkuri",
+       "gloss": "slowly/leisurely",
+       "glossId": "santai/perlahan"
+      },
+      {
+       "surface": "準備",
+       "pos": "noun",
+       "reading": "じゅんび",
+       "romaji": "junbi",
+       "gloss": "preparation",
+       "glossId": "persiapan"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to/can do",
+       "glossId": "bisa/mampu"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "First, since there is no commuting time, you can get ready slowly in the morning.",
+     "translationId": "Pertama, karena tidak ada waktu untuk berangkat kerja, orang bisa bersiap-siap dengan santai di pagi hari.",
+     "audioStart": 24.96,
+     "audioEnd": 30.432
+    },
+    {
+     "text": "また、満員電車に乗らなくてもいいので、体も心も楽になります。",
+     "tokens": [
+      {
+       "surface": "また",
+       "pos": "conjunction",
+       "romaji": "mata",
+       "gloss": "also/and",
+       "glossId": "juga/selain itu"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "満員",
+       "pos": "noun",
+       "reading": "まんいん",
+       "romaji": "man'in",
+       "gloss": "full (of people)",
+       "glossId": "penuh sesak"
+      },
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha",
+       "gloss": "train",
+       "glossId": "kereta"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/location marker",
+       "glossId": "penanda tujuan/tempat"
+      },
+      {
+       "surface": "乗ら",
+       "pos": "verb",
+       "reading": "のら",
+       "romaji": "nora",
+       "lemma": "乗る",
+       "gloss": "to ride",
+       "glossId": "naik"
+      },
+      {
+       "surface": "なく",
+       "pos": "auxiliary",
+       "romaji": "naku",
+       "lemma": "ない",
+       "gloss": "negative suffix",
+       "glossId": "akhiran negatif"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good/fine",
+       "glossId": "baik/boleh"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula (plain 'is')",
+       "glossId": "kopula (bentuk biasa 'adalah')"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "体",
+       "pos": "noun",
+       "reading": "からだ",
+       "romaji": "karada",
+       "gloss": "body",
+       "glossId": "tubuh"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "心",
+       "pos": "noun",
+       "reading": "こころ",
+       "romaji": "kokoro",
+       "gloss": "heart/mind",
+       "glossId": "hati/pikiran"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "楽",
+       "pos": "noun",
+       "reading": "らく",
+       "romaji": "raku",
+       "gloss": "comfort/ease",
+       "glossId": "nyaman/santai"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula (plain 'is')",
+       "glossId": "kopula (bentuk biasa 'adalah')"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Also, since you don't have to ride a crowded train, both your body and mind become more relaxed.",
+     "translationId": "Selain itu, karena tidak perlu naik kereta yang penuh sesak, tubuh dan pikiran menjadi lebih santai.",
+     "audioStart": 30.432,
+     "audioEnd": 36.144
+    },
+    {
+     "text": "家族と過ごす時間が増えたと言う人も多いです。",
+     "tokens": [
+      {
+       "surface": "家族",
+       "pos": "noun",
+       "reading": "かぞく",
+       "romaji": "kazoku",
+       "gloss": "family",
+       "glossId": "keluarga"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/with particle",
+       "glossId": "partikel kutipan/dengan"
+      },
+      {
+       "surface": "過ごす",
+       "pos": "verb",
+       "reading": "すごす",
+       "romaji": "sugosu",
+       "gloss": "to spend (time)",
+       "glossId": "menghabiskan (waktu)"
+      },
+      {
+       "surface": "時間",
+       "pos": "noun",
+       "reading": "じかん",
+       "romaji": "jikan",
+       "gloss": "time",
+       "glossId": "waktu"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "増え",
+       "pos": "verb",
+       "reading": "ふえ",
+       "romaji": "fue",
+       "lemma": "増える",
+       "gloss": "to increase",
+       "glossId": "meningkat"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda lampau"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/with particle",
+       "glossId": "partikel kutipan/dengan"
+      },
+      {
+       "surface": "言う",
+       "pos": "verb",
+       "reading": "いう",
+       "romaji": "iu",
+       "gloss": "to say",
+       "glossId": "mengatakan"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "多い",
+       "pos": "adjective",
+       "reading": "おおい",
+       "romaji": "ooi",
+       "gloss": "many/numerous",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many people say that the time spent with family has increased.",
+     "translationId": "Banyak orang mengatakan waktu yang dihabiskan bersama keluarga menjadi lebih banyak.",
+     "audioStart": 36.144,
+     "audioEnd": 39.696
+    },
+    {
+     "text": "地方に引っ越しても、同じ仕事を続けられる人もいます。",
+     "tokens": [
+      {
+       "surface": "地方",
+       "pos": "noun",
+       "reading": "ちほう",
+       "romaji": "chihou",
+       "gloss": "region/rural area",
+       "glossId": "daerah/wilayah"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/location marker",
+       "glossId": "penanda tujuan/tempat"
+      },
+      {
+       "surface": "引っ越し",
+       "pos": "verb",
+       "reading": "ひっこし",
+       "romaji": "hikkoshi",
+       "lemma": "引っ越す",
+       "gloss": "to move (residence)",
+       "glossId": "pindah rumah"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "同じ",
+       "pos": "prenominal",
+       "reading": "おなじ",
+       "romaji": "onaji",
+       "gloss": "same",
+       "glossId": "sama"
+      },
+      {
+       "surface": "仕事",
+       "pos": "noun",
+       "reading": "しごと",
+       "romaji": "shigoto",
+       "gloss": "work/job",
+       "glossId": "pekerjaan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "続け",
+       "pos": "verb",
+       "reading": "つづけ",
+       "romaji": "tsuzuke",
+       "lemma": "続ける",
+       "gloss": "to continue",
+       "glossId": "melanjutkan"
+      },
+      {
+       "surface": "られる",
+       "pos": "auxiliary",
+       "romaji": "rareru",
+       "gloss": "potential/passive suffix",
+       "glossId": "akhiran potensial/pasif"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be (progressive/state)",
+       "glossId": "sedang/berada (keadaan)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Some people can continue the same job even after moving to a rural area.",
+     "translationId": "Ada juga orang yang bisa tetap melanjutkan pekerjaan yang sama meskipun pindah ke daerah.",
+     "audioStart": 39.696,
+     "audioEnd": 44.4
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "しかし、テレワークには難しい点もあります。",
+     "tokens": [
+      {
+       "surface": "しかし",
+       "pos": "conjunction",
+       "romaji": "shikashi",
+       "gloss": "however",
+       "glossId": "namun"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "テレワーク",
+       "pos": "noun",
+       "romaji": "terewaaku",
+       "gloss": "telework",
+       "glossId": "telework"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/location marker",
+       "glossId": "penanda tujuan/tempat"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "難しい",
+       "pos": "adjective",
+       "reading": "むずかしい",
+       "romaji": "muzukashii",
+       "gloss": "difficult",
+       "glossId": "sulit"
+      },
+      {
+       "surface": "点",
+       "pos": "noun",
+       "reading": "てん",
+       "romaji": "ten",
+       "gloss": "point/aspect",
+       "glossId": "poin/aspek"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist/be (for things)",
+       "glossId": "ada/berada (benda)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "However, telework also has difficult points.",
+     "translationId": "Namun, telework juga memiliki sisi yang sulit.",
+     "audioStart": 44.4,
+     "audioEnd": 48.264
+    },
+    {
+     "text": "同僚と直接話す機会が減るので、コミュニケーションが取りにくくなることがあります。",
+     "tokens": [
+      {
+       "surface": "同僚",
+       "pos": "noun",
+       "reading": "どうりょう",
+       "romaji": "douryou",
+       "gloss": "coworker",
+       "glossId": "rekan kerja"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/with particle",
+       "glossId": "partikel kutipan/dengan"
+      },
+      {
+       "surface": "直接",
+       "pos": "adverb",
+       "reading": "ちょくせつ",
+       "romaji": "chokusetsu",
+       "gloss": "directly",
+       "glossId": "langsung"
+      },
+      {
+       "surface": "話す",
+       "pos": "verb",
+       "reading": "はなす",
+       "romaji": "hanasu",
+       "gloss": "to talk/speak",
+       "glossId": "berbicara"
+      },
+      {
+       "surface": "機会",
+       "pos": "noun",
+       "reading": "きかい",
+       "romaji": "kikai",
+       "gloss": "opportunity",
+       "glossId": "kesempatan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "減る",
+       "pos": "verb",
+       "reading": "へる",
+       "romaji": "heru",
+       "gloss": "to decrease",
+       "glossId": "berkurang"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula (plain 'is')",
+       "glossId": "kopula (bentuk biasa 'adalah')"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "コミュニケーション",
+       "pos": "noun",
+       "romaji": "komyunikeeshon",
+       "gloss": "communication",
+       "glossId": "komunikasi"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "取り",
+       "pos": "verb",
+       "reading": "とり",
+       "romaji": "tori",
+       "lemma": "取る",
+       "gloss": "to take",
+       "glossId": "mengambil"
+      },
+      {
+       "surface": "にくく",
+       "pos": "suffix",
+       "romaji": "nikuku",
+       "lemma": "にくい",
+       "gloss": "hard to (do)",
+       "glossId": "sulit untuk (dilakukan)"
+      },
+      {
+       "surface": "なる",
+       "pos": "verb",
+       "romaji": "naru",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing/nominalizer",
+       "glossId": "hal/nominalizer"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist/be (for things)",
+       "glossId": "ada/berada (benda)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Because opportunities to talk directly with coworkers decrease, communication can become harder.",
+     "translationId": "Karena kesempatan untuk berbicara langsung dengan rekan kerja berkurang, komunikasi bisa menjadi lebih sulit.",
+     "audioStart": 48.264,
+     "audioEnd": 54.264
+    },
+    {
+     "text": "新しく入った社員は、仕事の進め方を覚えるのが大変だと感じることもあります。",
+     "tokens": [
+      {
+       "surface": "新しく",
+       "pos": "adjective",
+       "reading": "あたらしく",
+       "romaji": "atarashiku",
+       "lemma": "新しい",
+       "gloss": "new",
+       "glossId": "baru"
+      },
+      {
+       "surface": "入っ",
+       "pos": "verb",
+       "reading": "はいっ",
+       "romaji": "hait",
+       "lemma": "入る",
+       "gloss": "to enter/join",
+       "glossId": "masuk/bergabung"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda lampau"
+      },
+      {
+       "surface": "社員",
+       "pos": "noun",
+       "reading": "しゃいん",
+       "romaji": "shain",
+       "gloss": "employee",
+       "glossId": "karyawan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "仕事",
+       "pos": "noun",
+       "reading": "しごと",
+       "romaji": "shigoto",
+       "gloss": "work/job",
+       "glossId": "pekerjaan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "進め方",
+       "pos": "noun",
+       "reading": "すすめかた",
+       "romaji": "susumekata",
+       "gloss": "way of proceeding",
+       "glossId": "cara menjalankan (pekerjaan)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "覚える",
+       "pos": "verb",
+       "reading": "おぼえる",
+       "romaji": "oboeru",
+       "gloss": "to learn/memorize",
+       "glossId": "mempelajari/mengingat"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "大変",
+       "pos": "adjective",
+       "reading": "たいへん",
+       "romaji": "taihen",
+       "gloss": "tough/hard",
+       "glossId": "berat/sulit"
+      },
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "copula (plain 'is')",
+       "glossId": "kopula (bentuk biasa 'adalah')"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/with particle",
+       "glossId": "partikel kutipan/dengan"
+      },
+      {
+       "surface": "感じる",
+       "pos": "verb",
+       "reading": "かんじる",
+       "romaji": "kanjiru",
+       "gloss": "to feel",
+       "glossId": "merasakan"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing/nominalizer",
+       "glossId": "hal/nominalizer"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist/be (for things)",
+       "glossId": "ada/berada (benda)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "New employees sometimes feel it is hard to learn how work is done.",
+     "translationId": "Karyawan baru terkadang merasa sulit mempelajari cara kerja yang ada.",
+     "audioStart": 54.264,
+     "audioEnd": 60.792
+    },
+    {
+     "text": "また、家では仕事とプライベートの区別がつきにくく、つい長く働いてしまう人もいるそうです。",
+     "tokens": [
+      {
+       "surface": "また",
+       "pos": "conjunction",
+       "romaji": "mata",
+       "gloss": "also/and",
+       "glossId": "juga/selain itu"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "家",
+       "pos": "noun",
+       "reading": "いえ",
+       "romaji": "ie",
+       "gloss": "house/home",
+       "glossId": "rumah"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker",
+       "glossId": "penanda tempat/cara"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "仕事",
+       "pos": "noun",
+       "reading": "しごと",
+       "romaji": "shigoto",
+       "gloss": "work/job",
+       "glossId": "pekerjaan"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/with particle",
+       "glossId": "partikel kutipan/dengan"
+      },
+      {
+       "surface": "プライベート",
+       "pos": "noun",
+       "romaji": "puraibeeto",
+       "gloss": "private (life)",
+       "glossId": "privat/pribadi"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "区別",
+       "pos": "noun",
+       "reading": "くべつ",
+       "romaji": "kubetsu",
+       "gloss": "distinction",
+       "glossId": "perbedaan/pembatas"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "つき",
+       "pos": "verb",
+       "romaji": "tsuki",
+       "lemma": "つく",
+       "gloss": "to be attached/made (distinction is made)",
+       "glossId": "melekat/terbentuk (batas menjadi ada)"
+      },
+      {
+       "surface": "にくく",
+       "pos": "suffix",
+       "romaji": "nikuku",
+       "lemma": "にくい",
+       "gloss": "hard to (do)",
+       "glossId": "sulit untuk (dilakukan)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "つい",
+       "pos": "adverb",
+       "romaji": "tsui",
+       "gloss": "unintentionally/before one knows it",
+       "glossId": "tanpa sadar/tidak sengaja"
+      },
+      {
+       "surface": "長く",
+       "pos": "adjective",
+       "reading": "ながく",
+       "romaji": "nagaku",
+       "lemma": "長い",
+       "gloss": "long",
+       "glossId": "lama/panjang"
+      },
+      {
+       "surface": "働い",
+       "pos": "verb",
+       "reading": "はたらい",
+       "romaji": "hatarai",
+       "lemma": "働く",
+       "gloss": "to work",
+       "glossId": "bekerja"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "しまう",
+       "pos": "verb",
+       "romaji": "shimau",
+       "gloss": "to end up doing (regrettable completion)",
+       "glossId": "berakhir melakukan (menyesal)"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "to be (progressive/state)",
+       "glossId": "sedang/berada (keadaan)"
+      },
+      {
+       "surface": "そう",
+       "pos": "noun",
+       "romaji": "sou",
+       "gloss": "it seems/reportedly",
+       "glossId": "sepertinya/konon"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Also, at home the line between work and private life is unclear, and it seems some people end up working long hours.",
+     "translationId": "Selain itu, di rumah batas antara pekerjaan dan kehidupan pribadi menjadi kabur, sehingga konon ada orang yang jadi bekerja terlalu lama tanpa sadar.",
+     "audioStart": 60.792,
+     "audioEnd": 68.208
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "今では、毎日在宅で働くのではなく、週に何日かは会社に行き、何日かは家で働くという「ハイブリッド」の働き方を選ぶ会社も増えています。",
+     "tokens": [
+      {
+       "surface": "今",
+       "pos": "noun",
+       "reading": "いま",
+       "romaji": "ima",
+       "gloss": "now",
+       "glossId": "sekarang"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker",
+       "glossId": "penanda tempat/cara"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "毎日",
+       "pos": "noun",
+       "reading": "まいにち",
+       "romaji": "mainichi",
+       "gloss": "every day",
+       "glossId": "setiap hari"
+      },
+      {
+       "surface": "在宅",
+       "pos": "noun",
+       "reading": "ざいたく",
+       "romaji": "zaitaku",
+       "gloss": "staying at home",
+       "glossId": "berada di rumah"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker",
+       "glossId": "penanda tempat/cara"
+      },
+      {
+       "surface": "働く",
+       "pos": "verb",
+       "reading": "はたらく",
+       "romaji": "hataraku",
+       "gloss": "to work",
+       "glossId": "bekerja"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula (plain 'is')",
+       "glossId": "kopula (bentuk biasa 'adalah')"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "なく",
+       "pos": "adjective",
+       "romaji": "naku",
+       "lemma": "ない",
+       "gloss": "negative suffix",
+       "glossId": "akhiran negatif"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "週",
+       "pos": "noun",
+       "reading": "しゅう",
+       "romaji": "shuu",
+       "gloss": "week",
+       "glossId": "minggu"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/location marker",
+       "glossId": "penanda tujuan/tempat"
+      },
+      {
+       "surface": "何日",
+       "pos": "noun",
+       "reading": "なんにち",
+       "romaji": "nannichi",
+       "gloss": "how many days",
+       "glossId": "berapa hari"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question/uncertainty marker",
+       "glossId": "penanda pertanyaan/ketidakpastian"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "会社",
+       "pos": "noun",
+       "reading": "かいしゃ",
+       "romaji": "kaisha",
+       "gloss": "company",
+       "glossId": "perusahaan/kantor"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/location marker",
+       "glossId": "penanda tujuan/tempat"
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "何日",
+       "pos": "noun",
+       "reading": "なんにち",
+       "romaji": "nannichi",
+       "gloss": "how many days",
+       "glossId": "berapa hari"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question/uncertainty marker",
+       "glossId": "penanda pertanyaan/ketidakpastian"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "家",
+       "pos": "noun",
+       "reading": "いえ",
+       "romaji": "ie",
+       "gloss": "house/home",
+       "glossId": "rumah"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker",
+       "glossId": "penanda tempat/cara"
+      },
+      {
+       "surface": "働く",
+       "pos": "verb",
+       "reading": "はたらく",
+       "romaji": "hataraku",
+       "gloss": "to work",
+       "glossId": "bekerja"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/with particle",
+       "glossId": "partikel kutipan/dengan"
+      },
+      {
+       "surface": "いう",
+       "pos": "verb",
+       "romaji": "iu",
+       "gloss": "to say/called",
+       "glossId": "mengatakan/disebut"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "ハイブリッド",
+       "pos": "noun",
+       "romaji": "haiburiddo",
+       "gloss": "hybrid",
+       "glossId": "hibrida"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "働き方",
+       "pos": "noun",
+       "reading": "はたらきかた",
+       "romaji": "hatarakikata",
+       "gloss": "way of working",
+       "glossId": "cara/gaya bekerja"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "選ぶ",
+       "pos": "verb",
+       "reading": "えらぶ",
+       "romaji": "erabu",
+       "gloss": "to choose",
+       "glossId": "memilih"
+      },
+      {
+       "surface": "会社",
+       "pos": "noun",
+       "reading": "かいしゃ",
+       "romaji": "kaisha",
+       "gloss": "company",
+       "glossId": "perusahaan/kantor"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "増え",
+       "pos": "verb",
+       "reading": "ふえ",
+       "romaji": "fue",
+       "lemma": "増える",
+       "gloss": "to increase",
+       "glossId": "meningkat"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be (progressive/state)",
+       "glossId": "sedang/berada (keadaan)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Nowadays, more companies are choosing a \"hybrid\" work style where employees don't work from home every day, but instead go to the office some days and work from home on others.",
+     "translationId": "Saat ini, semakin banyak perusahaan yang memilih gaya kerja \"hybrid\", yaitu tidak bekerja dari rumah setiap hari, tetapi pergi ke kantor beberapa hari dan bekerja dari rumah pada hari-hari lainnya.",
+     "audioStart": 68.208,
+     "audioEnd": 79.872
+    },
+    {
+     "text": "社員一人一人の生活に合わせて、働く場所や時間を選べるようになってきました。",
+     "tokens": [
+      {
+       "surface": "社員",
+       "pos": "noun",
+       "reading": "しゃいん",
+       "romaji": "shain",
+       "gloss": "employee",
+       "glossId": "karyawan"
+      },
+      {
+       "surface": "一人一人",
+       "pos": "noun",
+       "reading": "ひとりひとり",
+       "romaji": "hitorihitori",
+       "gloss": "each individual person",
+       "glossId": "setiap individu"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "生活",
+       "pos": "noun",
+       "reading": "せいかつ",
+       "romaji": "seikatsu",
+       "gloss": "life/living",
+       "glossId": "kehidupan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/location marker",
+       "glossId": "penanda tujuan/tempat"
+      },
+      {
+       "surface": "合わせ",
+       "pos": "verb",
+       "reading": "あわせ",
+       "romaji": "awase",
+       "lemma": "合わせる",
+       "gloss": "to match/align",
+       "glossId": "menyesuaikan"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "働く",
+       "pos": "verb",
+       "reading": "はたらく",
+       "romaji": "hataraku",
+       "gloss": "to work",
+       "glossId": "bekerja"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place",
+       "glossId": "tempat"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "時間",
+       "pos": "noun",
+       "reading": "じかん",
+       "romaji": "jikan",
+       "gloss": "time",
+       "glossId": "waktu"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "選べる",
+       "pos": "verb",
+       "reading": "えらべる",
+       "romaji": "eraberu",
+       "gloss": "to be able to choose",
+       "glossId": "bisa memilih"
+      },
+      {
+       "surface": "よう",
+       "pos": "adjective",
+       "romaji": "you",
+       "gloss": "manner/appearance (like ~)",
+       "glossId": "seperti/tampaknya"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula (plain 'is')",
+       "glossId": "kopula (bentuk biasa 'adalah')"
+      },
+      {
+       "surface": "なっ",
+       "pos": "verb",
+       "romaji": "natsu",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "き",
+       "pos": "verb",
+       "romaji": "ki",
+       "lemma": "くる",
+       "gloss": "to come",
+       "glossId": "datang"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It has become possible to choose where and when to work according to each employee's own life.",
+     "translationId": "Karyawan kini bisa memilih tempat dan waktu kerja sesuai dengan kehidupan masing-masing.",
+     "audioStart": 79.872,
+     "audioEnd": 86.16
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "このように、コロナウイルスをきっかけに、日本人の働き方は大きく変わりました。",
+     "tokens": [
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this (adnominal)",
+       "glossId": "ini (pewatas)"
+      },
+      {
+       "surface": "よう",
+       "pos": "adjective",
+       "romaji": "you",
+       "gloss": "manner/appearance (like ~)",
+       "glossId": "seperti/tampaknya"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula (plain 'is')",
+       "glossId": "kopula (bentuk biasa 'adalah')"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "コロナウイルス",
+       "pos": "noun",
+       "romaji": "koronauirusu",
+       "gloss": "coronavirus",
+       "glossId": "virus corona"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "きっかけ",
+       "pos": "noun",
+       "romaji": "kikkake",
+       "gloss": "trigger/opportunity",
+       "glossId": "pemicu/awal mula"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/location marker",
+       "glossId": "penanda tujuan/tempat"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本人",
+       "pos": "noun",
+       "reading": "にほんじん",
+       "romaji": "nihonjin",
+       "gloss": "Japanese person/people",
+       "glossId": "orang Jepang"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "働き方",
+       "pos": "noun",
+       "reading": "はたらきかた",
+       "romaji": "hatarakikata",
+       "gloss": "way of working",
+       "glossId": "cara/gaya bekerja"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "大きく",
+       "pos": "adjective",
+       "reading": "おおきく",
+       "romaji": "ookiku",
+       "lemma": "大きい",
+       "gloss": "big/large",
+       "glossId": "besar"
+      },
+      {
+       "surface": "変わり",
+       "pos": "verb",
+       "reading": "かわり",
+       "romaji": "kawari",
+       "lemma": "変わる",
+       "gloss": "to change",
+       "glossId": "berubah"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In this way, triggered by the coronavirus, the way Japanese people work has changed greatly.",
+     "translationId": "Dengan begitu, dipicu oleh virus corona, cara kerja orang Jepang berubah secara besar-besaran.",
+     "audioStart": 86.16,
+     "audioEnd": 92.664
+    },
+    {
+     "text": "これからも、会社に行く働き方と家で働く働き方の、ちょうどいいバランスを探す時代が続きそうです。",
+     "tokens": [
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore",
+       "gloss": "this",
+       "glossId": "ini"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from/because",
+       "glossId": "dari/karena"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also/too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "会社",
+       "pos": "noun",
+       "reading": "かいしゃ",
+       "romaji": "kaisha",
+       "gloss": "company",
+       "glossId": "perusahaan/kantor"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/location marker",
+       "glossId": "penanda tujuan/tempat"
+      },
+      {
+       "surface": "行く",
+       "pos": "verb",
+       "reading": "いく",
+       "romaji": "iku",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "働き方",
+       "pos": "noun",
+       "reading": "はたらきかた",
+       "romaji": "hatarakikata",
+       "gloss": "way of working",
+       "glossId": "cara/gaya bekerja"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation/with particle",
+       "glossId": "partikel kutipan/dengan"
+      },
+      {
+       "surface": "家",
+       "pos": "noun",
+       "reading": "いえ",
+       "romaji": "ie",
+       "gloss": "house/home",
+       "glossId": "rumah"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker",
+       "glossId": "penanda tempat/cara"
+      },
+      {
+       "surface": "働く",
+       "pos": "verb",
+       "reading": "はたらく",
+       "romaji": "hataraku",
+       "gloss": "to work",
+       "glossId": "bekerja"
+      },
+      {
+       "surface": "働き",
+       "pos": "noun",
+       "reading": "はたらき",
+       "romaji": "hataraki",
+       "gloss": "working",
+       "glossId": "bekerja/kerja"
+      },
+      {
+       "surface": "方",
+       "pos": "noun",
+       "reading": "かた",
+       "romaji": "kata",
+       "gloss": "way/method",
+       "glossId": "cara/metode"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ちょうど",
+       "pos": "adverb",
+       "romaji": "choudo",
+       "gloss": "just/exactly",
+       "glossId": "pas/tepat"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good/fine",
+       "glossId": "baik/boleh"
+      },
+      {
+       "surface": "バランス",
+       "pos": "noun",
+       "romaji": "baransu",
+       "gloss": "balance",
+       "glossId": "keseimbangan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "探す",
+       "pos": "verb",
+       "reading": "さがす",
+       "romaji": "sagasu",
+       "gloss": "to search for",
+       "glossId": "mencari"
+      },
+      {
+       "surface": "時代",
+       "pos": "noun",
+       "reading": "じだい",
+       "romaji": "jidai",
+       "gloss": "era/period",
+       "glossId": "era/zaman"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "続き",
+       "pos": "verb",
+       "reading": "つづき",
+       "romaji": "tsuzuki",
+       "lemma": "続く",
+       "gloss": "to continue",
+       "glossId": "berlanjut"
+      },
+      {
+       "surface": "そう",
+       "pos": "adjective",
+       "romaji": "sou",
+       "gloss": "it seems/reportedly",
+       "glossId": "sepertinya/konon"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It seems the era of searching for the right balance between working at the office and working from home will continue.",
+     "translationId": "Sepertinya era pencarian keseimbangan yang pas antara bekerja di kantor dan bekerja dari rumah akan terus berlanjut.",
+     "audioStart": 92.664,
+     "audioEnd": 100.68
+    }
+   ]
+  }
+ ],
+ "topic": "がっこう・しごと",
+ "topicEn": "School & work",
+ "topicId": "Sekolah & kerja"
+}

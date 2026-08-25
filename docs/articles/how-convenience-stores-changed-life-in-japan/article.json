@@ -1,0 +1,2398 @@
+{
+ "schemaVersion": 1,
+ "id": "how-convenience-stores-changed-life-in-japan",
+ "language": "ja",
+ "title": "コンビニが変えた日本の生活",
+ "titleTranslation": "How Convenience Stores Changed Life in Japan",
+ "titleTranslationId": "Bagaimana Minimarket Mengubah Kehidupan di Jepang",
+ "level": "N3",
+ "summary": "The article explains how convenience stores, open 24 hours and offering everything from food to bill payments and package handling, have become an indispensable and safety-enhancing part of daily life in Japan.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T18:14:47+00:00",
+ "audioFile": "audio-6e21658b.mp3",
+ "voice": "fr-FR-VivienneMultilingualNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "日本の町を歩くと、必ずと言っていいほどコンビニが見つかります。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle",
+       "glossId": "partikel kepemilikan"
+      },
+      {
+       "surface": "町",
+       "pos": "noun",
+       "reading": "まち",
+       "romaji": "machi",
+       "gloss": "town",
+       "glossId": "kota"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "歩く",
+       "pos": "verb",
+       "reading": "あるく",
+       "romaji": "aruku",
+       "gloss": "to walk",
+       "glossId": "berjalan"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "conditional particle 'if/when'",
+       "glossId": "partikel kondisional 'jika/ketika'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "必ず",
+       "pos": "adverb",
+       "reading": "かならず",
+       "romaji": "kanarazu",
+       "gloss": "always, certainly",
+       "glossId": "pasti, selalu"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "conditional particle 'if/when'",
+       "glossId": "partikel kondisional 'jika/ketika'"
+      },
+      {
+       "surface": "言っ",
+       "pos": "verb",
+       "reading": "いっ",
+       "romaji": "it",
+       "lemma": "言う",
+       "gloss": "to say",
+       "glossId": "berkata"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk-te penghubung"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good, fine",
+       "glossId": "baik, bagus"
+      },
+      {
+       "surface": "ほど",
+       "pos": "particle",
+       "romaji": "hodo",
+       "gloss": "to the extent that",
+       "glossId": "sampai taraf, sejauh"
+      },
+      {
+       "surface": "コンビニ",
+       "pos": "noun",
+       "romaji": "konbini",
+       "gloss": "convenience store",
+       "glossId": "minimarket"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "見つかり",
+       "pos": "verb",
+       "reading": "みつかり",
+       "romaji": "mitsukari",
+       "lemma": "見つかる",
+       "gloss": "to be found",
+       "glossId": "ditemukan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If you walk through a Japanese town, you will almost always find a convenience store.",
+     "translationId": "Jika berjalan-jalan di kota Jepang, hampir selalu ditemukan minimarket.",
+     "audioStart": 0.0,
+     "audioEnd": 5.208
+    },
+    {
+     "text": "コンビニは一日中、いつでも開いている店です。",
+     "tokens": [
+      {
+       "surface": "コンビニ",
+       "pos": "noun",
+       "romaji": "konbini",
+       "gloss": "convenience store",
+       "glossId": "minimarket"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "一",
+       "pos": "noun",
+       "reading": "いち",
+       "romaji": "ichi",
+       "gloss": "one",
+       "glossId": "satu"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "にち",
+       "romaji": "nichi",
+       "gloss": "day",
+       "glossId": "hari"
+      },
+      {
+       "surface": "中",
+       "pos": "suffix",
+       "reading": "ちゅう",
+       "romaji": "chuu",
+       "gloss": "throughout, all through",
+       "glossId": "sepanjang, tengah"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "いつ",
+       "pos": "pronoun",
+       "romaji": "itsu",
+       "gloss": "when",
+       "glossId": "kapan"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking place/means",
+       "glossId": "partikel penanda tempat/alat"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even",
+       "glossId": "juga, bahkan"
+      },
+      {
+       "surface": "開い",
+       "pos": "verb",
+       "reading": "ひらい",
+       "romaji": "hirai",
+       "lemma": "開く",
+       "gloss": "to open",
+       "glossId": "buka"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk-te penghubung"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "to be (existence, animate)",
+       "glossId": "ada (untuk makhluk hidup)"
+      },
+      {
+       "surface": "店",
+       "pos": "noun",
+       "reading": "みせ",
+       "romaji": "mise",
+       "gloss": "shop, store",
+       "glossId": "toko"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula 'is' (polite)",
+       "glossId": "kopula 'adalah' (sopan)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Convenience stores are shops that are open all day, any time.",
+     "translationId": "Minimarket adalah toko yang buka sepanjang hari, kapan saja.",
+     "audioStart": 5.208,
+     "audioEnd": 9.456
+    },
+    {
+     "text": "24時間、明かりがついているので、夜遅くても安心して買い物ができます。",
+     "tokens": [
+      {
+       "surface": "24",
+       "pos": "noun",
+       "reading": "にじゅうよん",
+       "romaji": "nijuuyon",
+       "gloss": "twenty-four",
+       "glossId": "dua puluh empat"
+      },
+      {
+       "surface": "時間",
+       "pos": "noun",
+       "reading": "じかん",
+       "romaji": "jikan",
+       "gloss": "hour(s), time",
+       "glossId": "jam, waktu"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "明かり",
+       "pos": "noun",
+       "reading": "あかり",
+       "romaji": "akari",
+       "gloss": "light",
+       "glossId": "cahaya, lampu"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "つい",
+       "pos": "verb",
+       "romaji": "tsui",
+       "lemma": "つく",
+       "gloss": "to turn on, light up",
+       "glossId": "menyala"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk-te penghubung"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "to be (existence, animate)",
+       "glossId": "ada (untuk makhluk hidup)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle",
+       "glossId": "partikel kepemilikan"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula 'is' (plain)",
+       "glossId": "kopula 'adalah' (bentuk biasa)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "夜",
+       "pos": "noun",
+       "reading": "よる",
+       "romaji": "yoru",
+       "gloss": "night",
+       "glossId": "malam"
+      },
+      {
+       "surface": "遅く",
+       "pos": "adjective",
+       "reading": "おそく",
+       "romaji": "osoku",
+       "lemma": "遅い",
+       "gloss": "late",
+       "glossId": "larut, terlambat"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk-te penghubung"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even",
+       "glossId": "juga, bahkan"
+      },
+      {
+       "surface": "安心",
+       "pos": "noun",
+       "reading": "あんしん",
+       "romaji": "anshin",
+       "gloss": "peace of mind, relief",
+       "glossId": "rasa tenang, lega"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk-te penghubung"
+      },
+      {
+       "surface": "買い物",
+       "pos": "noun",
+       "reading": "かいもの",
+       "romaji": "kaimono",
+       "gloss": "shopping",
+       "glossId": "belanja"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to",
+       "glossId": "bisa, mampu"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Since the lights are on 24 hours a day, you can shop with peace of mind even late at night.",
+     "translationId": "Karena lampunya menyala 24 jam, kita bisa berbelanja dengan tenang meskipun larut malam.",
+     "audioStart": 9.456,
+     "audioEnd": 15.84
+    },
+    {
+     "text": "この便利さが、日本人の生活を大きく変えました。",
+     "tokens": [
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this",
+       "glossId": "ini"
+      },
+      {
+       "surface": "便利",
+       "pos": "noun",
+       "reading": "べんり",
+       "romaji": "benri",
+       "gloss": "convenient",
+       "glossId": "praktis"
+      },
+      {
+       "surface": "さ",
+       "pos": "suffix",
+       "romaji": "sa",
+       "gloss": "nominalizing suffix",
+       "glossId": "akhiran pembentuk kata benda"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本人",
+       "pos": "noun",
+       "reading": "にほんじん",
+       "romaji": "nihonjin",
+       "gloss": "Japanese person",
+       "glossId": "orang Jepang"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle",
+       "glossId": "partikel kepemilikan"
+      },
+      {
+       "surface": "生活",
+       "pos": "noun",
+       "reading": "せいかつ",
+       "romaji": "seikatsu",
+       "gloss": "life, living",
+       "glossId": "kehidupan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "大きく",
+       "pos": "adjective",
+       "reading": "おおきく",
+       "romaji": "ookiku",
+       "lemma": "大きい",
+       "gloss": "big, large",
+       "glossId": "besar"
+      },
+      {
+       "surface": "変え",
+       "pos": "verb",
+       "reading": "かえ",
+       "romaji": "kae",
+       "lemma": "変える",
+       "gloss": "to change (something)",
+       "glossId": "mengubah"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "This convenience has greatly changed the lives of Japanese people.",
+     "translationId": "Kepraktisan ini telah banyak mengubah kehidupan orang Jepang.",
+     "audioStart": 15.84,
+     "audioEnd": 20.304
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "昔は、食べ物を買うために市場やスーパーへ行く必要がありました。",
+     "tokens": [
+      {
+       "surface": "昔",
+       "pos": "noun",
+       "reading": "むかし",
+       "romaji": "mukashi",
+       "gloss": "long ago, the past",
+       "glossId": "dahulu, zaman dulu"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "食べ物",
+       "pos": "noun",
+       "reading": "たべもの",
+       "romaji": "tabemono",
+       "gloss": "food",
+       "glossId": "makanan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "買う",
+       "pos": "verb",
+       "reading": "かう",
+       "romaji": "kau",
+       "gloss": "to buy",
+       "glossId": "membeli"
+      },
+      {
+       "surface": "ため",
+       "pos": "noun",
+       "romaji": "tame",
+       "gloss": "for the purpose of",
+       "glossId": "demi, untuk tujuan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/purpose/location",
+       "glossId": "partikel penunjuk tujuan/lokasi"
+      },
+      {
+       "surface": "市場",
+       "pos": "noun",
+       "reading": "しじょう",
+       "romaji": "shijou",
+       "gloss": "market",
+       "glossId": "pasar"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "スーパー",
+       "pos": "noun",
+       "romaji": "suupaa",
+       "gloss": "supermarket",
+       "glossId": "supermarket"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "e",
+       "gloss": "direction particle 'to'",
+       "glossId": "partikel arah 'ke'"
+      },
+      {
+       "surface": "行く",
+       "pos": "verb",
+       "reading": "いく",
+       "romaji": "iku",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "必要",
+       "pos": "noun",
+       "reading": "ひつよう",
+       "romaji": "hitsuyou",
+       "gloss": "necessary",
+       "glossId": "perlu"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda)"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In the past, it was necessary to go to a market or supermarket to buy food.",
+     "translationId": "Dulu, orang harus pergi ke pasar atau supermarket untuk membeli makanan.",
+     "audioStart": 20.304,
+     "audioEnd": 25.44
+    },
+    {
+     "text": "しかし今は、コンビニでお弁当やパン、飲み物などがすぐに買えます。",
+     "tokens": [
+      {
+       "surface": "しかし",
+       "pos": "conjunction",
+       "romaji": "shikashi",
+       "gloss": "however",
+       "glossId": "tetapi"
+      },
+      {
+       "surface": "今",
+       "pos": "noun",
+       "reading": "いま",
+       "romaji": "ima",
+       "gloss": "now",
+       "glossId": "sekarang"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "コンビニ",
+       "pos": "noun",
+       "romaji": "konbini",
+       "gloss": "convenience store",
+       "glossId": "minimarket"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking place/means",
+       "glossId": "partikel penanda tempat/alat"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "弁当",
+       "pos": "noun",
+       "reading": "べんとう",
+       "romaji": "bentou",
+       "gloss": "boxed lunch, bento",
+       "glossId": "bekal, bento"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "パン",
+       "pos": "noun",
+       "romaji": "pan",
+       "gloss": "bread",
+       "glossId": "roti"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "飲み物",
+       "pos": "noun",
+       "reading": "のみもの",
+       "romaji": "nomimono",
+       "gloss": "drink, beverage",
+       "glossId": "minuman"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on",
+       "glossId": "dan lain-lain"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "すぐ",
+       "pos": "adverb",
+       "romaji": "sugu",
+       "gloss": "immediately, right away",
+       "glossId": "segera"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/purpose/location",
+       "glossId": "partikel penunjuk tujuan/lokasi"
+      },
+      {
+       "surface": "買え",
+       "pos": "verb",
+       "reading": "かえ",
+       "romaji": "kae",
+       "lemma": "買える",
+       "gloss": "can buy (potential form)",
+       "glossId": "bisa membeli (bentuk potensial)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "But now, you can quickly buy things like boxed lunches, bread, and drinks at a convenience store.",
+     "translationId": "Namun sekarang, kita bisa langsung membeli bento, roti, minuman, dan lainnya di minimarket.",
+     "audioStart": 25.44,
+     "audioEnd": 31.32
+    },
+    {
+     "text": "忙しい人や、一人で暮らしている人にとって、これはとても助かります。",
+     "tokens": [
+      {
+       "surface": "忙しい",
+       "pos": "adjective",
+       "reading": "いそがしい",
+       "romaji": "isogashii",
+       "gloss": "busy",
+       "glossId": "sibuk"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "一人",
+       "pos": "noun",
+       "reading": "ひとり",
+       "romaji": "hitori",
+       "gloss": "one person, alone",
+       "glossId": "satu orang, sendirian"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking place/means",
+       "glossId": "partikel penanda tempat/alat"
+      },
+      {
+       "surface": "暮らし",
+       "pos": "verb",
+       "reading": "くらし",
+       "romaji": "kurashi",
+       "lemma": "暮らす",
+       "gloss": "to live (one's life)",
+       "glossId": "menjalani hidup"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk-te penghubung"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "to be (existence, animate)",
+       "glossId": "ada (untuk makhluk hidup)"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/purpose/location",
+       "glossId": "partikel penunjuk tujuan/lokasi"
+      },
+      {
+       "surface": "とっ",
+       "pos": "verb",
+       "romaji": "totsu",
+       "lemma": "とる",
+       "gloss": "to take (base form in にとって, 'for/regarding')",
+       "glossId": "mengambil (bentuk dasar にとって, 'bagi/mengenai')"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk-te penghubung"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore",
+       "gloss": "this (thing)",
+       "glossId": "ini (benda)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "助かり",
+       "pos": "verb",
+       "reading": "たすかり",
+       "romaji": "tasukari",
+       "lemma": "助かる",
+       "gloss": "to be helped, to be a relief",
+       "glossId": "terbantu, merasa lega"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "For busy people, or people living alone, this is a great help.",
+     "translationId": "Bagi orang yang sibuk atau yang tinggal sendiri, ini sangat membantu.",
+     "audioStart": 31.32,
+     "audioEnd": 37.152
+    },
+    {
+     "text": "仕事が終わった後や、休みの日の朝でも、簡単に食事を用意できるようになりました。",
+     "tokens": [
+      {
+       "surface": "仕事",
+       "pos": "noun",
+       "reading": "しごと",
+       "romaji": "shigoto",
+       "gloss": "work, job",
+       "glossId": "pekerjaan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "終わっ",
+       "pos": "verb",
+       "reading": "おわっ",
+       "romaji": "owat",
+       "lemma": "終わる",
+       "gloss": "to end, finish",
+       "glossId": "selesai"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "後",
+       "pos": "noun",
+       "reading": "あと",
+       "romaji": "ato",
+       "gloss": "after",
+       "glossId": "setelah"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "休み",
+       "pos": "noun",
+       "reading": "やすみ",
+       "romaji": "yasumi",
+       "gloss": "day off, rest",
+       "glossId": "libur, istirahat"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle",
+       "glossId": "partikel kepemilikan"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "ひ",
+       "romaji": "hi",
+       "gloss": "day",
+       "glossId": "hari"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle",
+       "glossId": "partikel kepemilikan"
+      },
+      {
+       "surface": "朝",
+       "pos": "noun",
+       "reading": "あさ",
+       "romaji": "asa",
+       "gloss": "morning",
+       "glossId": "pagi"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking place/means",
+       "glossId": "partikel penanda tempat/alat"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even",
+       "glossId": "juga, bahkan"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "簡単",
+       "pos": "adjective",
+       "reading": "かんたん",
+       "romaji": "kantan",
+       "gloss": "simple, easy",
+       "glossId": "mudah, sederhana"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula 'is' (plain)",
+       "glossId": "kopula 'adalah' (bentuk biasa)"
+      },
+      {
+       "surface": "食事",
+       "pos": "noun",
+       "reading": "しょくじ",
+       "romaji": "shokuji",
+       "gloss": "meal",
+       "glossId": "makanan, santapan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "用意",
+       "pos": "noun",
+       "reading": "ようい",
+       "romaji": "youi",
+       "gloss": "preparation",
+       "glossId": "persiapan"
+      },
+      {
+       "surface": "できる",
+       "pos": "verb",
+       "romaji": "dekiru",
+       "gloss": "to be able to",
+       "glossId": "bisa, mampu"
+      },
+      {
+       "surface": "よう",
+       "pos": "adjective",
+       "romaji": "you",
+       "gloss": "form indicating 'seeming/becoming'",
+       "glossId": "bentuk 'seperti/menjadi'"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula 'is' (plain)",
+       "glossId": "kopula 'adalah' (bentuk biasa)"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It has become possible to easily prepare a meal even after work or on a holiday morning.",
+     "translationId": "Setelah pulang kerja atau bahkan di pagi hari libur, kini menjadi mudah untuk menyiapkan makanan.",
+     "audioStart": 37.152,
+     "audioEnd": 43.848
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "コンビニでできることは、買い物だけではありません。",
+     "tokens": [
+      {
+       "surface": "コンビニ",
+       "pos": "noun",
+       "romaji": "konbini",
+       "gloss": "convenience store",
+       "glossId": "minimarket"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking place/means",
+       "glossId": "partikel penanda tempat/alat"
+      },
+      {
+       "surface": "できる",
+       "pos": "verb",
+       "romaji": "dekiru",
+       "gloss": "to be able to",
+       "glossId": "bisa, mampu"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing, matter (nominalizer)",
+       "glossId": "hal (pembentuk kata benda abstrak)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "買い物",
+       "pos": "noun",
+       "reading": "かいもの",
+       "romaji": "kaimono",
+       "gloss": "shopping",
+       "glossId": "belanja"
+      },
+      {
+       "surface": "だけ",
+       "pos": "particle",
+       "romaji": "dake",
+       "gloss": "only, just",
+       "glossId": "hanya"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking place/means",
+       "glossId": "partikel penanda tempat/alat"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda)"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negation suffix (archaic/classical form of ない)",
+       "glossId": "akhiran negasi (bentuk klasik/arkais dari ない)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "What you can do at a convenience store isn't limited to shopping.",
+     "translationId": "Yang bisa dilakukan di minimarket bukan hanya berbelanja.",
+     "audioStart": 43.848,
+     "audioEnd": 47.784
+    },
+    {
+     "text": "電気代や水道代を払ったり、荷物を送ったり受け取ったりすることもできます。",
+     "tokens": [
+      {
+       "surface": "電気代",
+       "pos": "noun",
+       "reading": "でんきだい",
+       "romaji": "denkidai",
+       "gloss": "electricity bill",
+       "glossId": "tagihan listrik"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "水道代",
+       "pos": "noun",
+       "reading": "すいどうだい",
+       "romaji": "suidoudai",
+       "gloss": "water bill",
+       "glossId": "tagihan air"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "払っ",
+       "pos": "verb",
+       "reading": "はらっ",
+       "romaji": "harat",
+       "lemma": "払う",
+       "gloss": "to pay",
+       "glossId": "membayar"
+      },
+      {
+       "surface": "たり",
+       "pos": "particle",
+       "romaji": "tari",
+       "gloss": "particle listing example actions ('~たり~たり')",
+       "glossId": "partikel daftar tindakan ('~たり~たり')"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "荷物",
+       "pos": "noun",
+       "reading": "にもつ",
+       "romaji": "nimotsu",
+       "gloss": "luggage, package",
+       "glossId": "barang, paket"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "送っ",
+       "pos": "verb",
+       "reading": "おくっ",
+       "romaji": "okut",
+       "lemma": "送る",
+       "gloss": "to send",
+       "glossId": "mengirim"
+      },
+      {
+       "surface": "たり",
+       "pos": "particle",
+       "romaji": "tari",
+       "gloss": "particle listing example actions ('~たり~たり')",
+       "glossId": "partikel daftar tindakan ('~たり~たり')"
+      },
+      {
+       "surface": "受け取っ",
+       "pos": "verb",
+       "reading": "うけとっ",
+       "romaji": "uketot",
+       "lemma": "受け取る",
+       "gloss": "to receive",
+       "glossId": "menerima"
+      },
+      {
+       "surface": "たり",
+       "pos": "particle",
+       "romaji": "tari",
+       "gloss": "particle listing example actions ('~たり~たり')",
+       "glossId": "partikel daftar tindakan ('~たり~たり')"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing, matter (nominalizer)",
+       "glossId": "hal (pembentuk kata benda abstrak)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even",
+       "glossId": "juga, bahkan"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to",
+       "glossId": "bisa, mampu"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You can also pay electricity and water bills, and send or receive packages.",
+     "translationId": "Kita juga bisa membayar tagihan listrik dan air, serta mengirim atau menerima paket.",
+     "audioStart": 47.784,
+     "audioEnd": 54.0
+    },
+    {
+     "text": "銀行のお金をおろすことも、コピーをすることもできます。",
+     "tokens": [
+      {
+       "surface": "銀行",
+       "pos": "noun",
+       "reading": "ぎんこう",
+       "romaji": "ginkou",
+       "gloss": "bank",
+       "glossId": "bank"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle",
+       "glossId": "partikel kepemilikan"
+      },
+      {
+       "surface": "お金",
+       "pos": "noun",
+       "reading": "おかね",
+       "romaji": "okane",
+       "gloss": "money",
+       "glossId": "uang"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "おろす",
+       "pos": "verb",
+       "romaji": "orosu",
+       "gloss": "to withdraw (money)",
+       "glossId": "menarik (uang)"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing, matter (nominalizer)",
+       "glossId": "hal (pembentuk kata benda abstrak)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even",
+       "glossId": "juga, bahkan"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "コピー",
+       "pos": "noun",
+       "romaji": "kopii",
+       "gloss": "copy",
+       "glossId": "fotokopi"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing, matter (nominalizer)",
+       "glossId": "hal (pembentuk kata benda abstrak)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even",
+       "glossId": "juga, bahkan"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to",
+       "glossId": "bisa, mampu"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You can also withdraw money from the bank and make copies.",
+     "translationId": "Kita juga bisa menarik uang dari bank dan memfotokopi.",
+     "audioStart": 54.0,
+     "audioEnd": 58.536
+    },
+    {
+     "text": "つまり、コンビニは小さな生活サービスセンターのような場所になっているのです。",
+     "tokens": [
+      {
+       "surface": "つまり",
+       "pos": "adverb",
+       "romaji": "tsumari",
+       "gloss": "in other words",
+       "glossId": "dengan kata lain"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "コンビニ",
+       "pos": "noun",
+       "romaji": "konbini",
+       "gloss": "convenience store",
+       "glossId": "minimarket"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "小さな",
+       "pos": "prenominal",
+       "reading": "ちいさな",
+       "romaji": "chiisana",
+       "gloss": "small",
+       "glossId": "kecil"
+      },
+      {
+       "surface": "生活",
+       "pos": "noun",
+       "reading": "せいかつ",
+       "romaji": "seikatsu",
+       "gloss": "life, living",
+       "glossId": "kehidupan"
+      },
+      {
+       "surface": "サービス",
+       "pos": "noun",
+       "romaji": "saabisu",
+       "gloss": "service",
+       "glossId": "layanan"
+      },
+      {
+       "surface": "センター",
+       "pos": "noun",
+       "romaji": "sentaa",
+       "gloss": "center",
+       "glossId": "pusat"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle",
+       "glossId": "partikel kepemilikan"
+      },
+      {
+       "surface": "よう",
+       "pos": "adjective",
+       "romaji": "you",
+       "gloss": "form indicating 'seeming/becoming'",
+       "glossId": "bentuk 'seperti/menjadi'"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula 'is' (plain)",
+       "glossId": "kopula 'adalah' (bentuk biasa)"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place",
+       "glossId": "tempat"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/purpose/location",
+       "glossId": "partikel penunjuk tujuan/lokasi"
+      },
+      {
+       "surface": "なっ",
+       "pos": "verb",
+       "romaji": "natsu",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk-te penghubung"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "to be (existence, animate)",
+       "glossId": "ada (untuk makhluk hidup)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle",
+       "glossId": "partikel kepemilikan"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula 'is' (polite)",
+       "glossId": "kopula 'adalah' (sopan)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In other words, convenience stores have become places like small life-service centers.",
+     "translationId": "Dengan kata lain, minimarket telah menjadi tempat seperti pusat layanan kehidupan kecil.",
+     "audioStart": 58.536,
+     "audioEnd": 64.368
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "また、コンビニは町の安全にも役立っています。",
+     "tokens": [
+      {
+       "surface": "また",
+       "pos": "conjunction",
+       "romaji": "mata",
+       "gloss": "also, again",
+       "glossId": "juga, lagi"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "コンビニ",
+       "pos": "noun",
+       "romaji": "konbini",
+       "gloss": "convenience store",
+       "glossId": "minimarket"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "町",
+       "pos": "noun",
+       "reading": "まち",
+       "romaji": "machi",
+       "gloss": "town",
+       "glossId": "kota"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle",
+       "glossId": "partikel kepemilikan"
+      },
+      {
+       "surface": "安全",
+       "pos": "noun",
+       "reading": "あんぜん",
+       "romaji": "anzen",
+       "gloss": "safety",
+       "glossId": "keamanan"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula 'is' (plain)",
+       "glossId": "kopula 'adalah' (bentuk biasa)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even",
+       "glossId": "juga, bahkan"
+      },
+      {
+       "surface": "役立っ",
+       "pos": "verb",
+       "reading": "やくだっ",
+       "romaji": "yakudat",
+       "lemma": "役立つ",
+       "gloss": "to be useful",
+       "glossId": "berguna"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk-te penghubung"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be (existence, animate)",
+       "glossId": "ada (untuk makhluk hidup)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Also, convenience stores contribute to the safety of the town.",
+     "translationId": "Selain itu, minimarket juga membantu keamanan kota.",
+     "audioStart": 64.368,
+     "audioEnd": 68.496
+    },
+    {
+     "text": "明るい店が近くにあると、夜道を歩くときも安心です。",
+     "tokens": [
+      {
+       "surface": "明るい",
+       "pos": "adjective",
+       "reading": "あかるい",
+       "romaji": "akarui",
+       "gloss": "bright",
+       "glossId": "terang"
+      },
+      {
+       "surface": "店",
+       "pos": "noun",
+       "reading": "みせ",
+       "romaji": "mise",
+       "gloss": "shop, store",
+       "glossId": "toko"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "近く",
+       "pos": "noun",
+       "reading": "ちかく",
+       "romaji": "chikaku",
+       "gloss": "nearby",
+       "glossId": "dekat"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/purpose/location",
+       "glossId": "partikel penunjuk tujuan/lokasi"
+      },
+      {
+       "surface": "ある",
+       "pos": "verb",
+       "romaji": "aru",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "conditional particle 'if/when'",
+       "glossId": "partikel kondisional 'jika/ketika'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "夜道",
+       "pos": "noun",
+       "reading": "よみち",
+       "romaji": "yomichi",
+       "gloss": "night road",
+       "glossId": "jalan malam"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "歩く",
+       "pos": "verb",
+       "reading": "あるく",
+       "romaji": "aruku",
+       "gloss": "to walk",
+       "glossId": "berjalan"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "time, when",
+       "glossId": "waktu, ketika"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even",
+       "glossId": "juga, bahkan"
+      },
+      {
+       "surface": "安心",
+       "pos": "noun",
+       "reading": "あんしん",
+       "romaji": "anshin",
+       "gloss": "peace of mind, relief",
+       "glossId": "rasa tenang, lega"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula 'is' (polite)",
+       "glossId": "kopula 'adalah' (sopan)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When there is a brightly lit store nearby, it is reassuring even when walking a dark road at night.",
+     "translationId": "Jika ada toko yang terang di dekat, berjalan di jalan malam pun terasa aman.",
+     "audioStart": 68.496,
+     "audioEnd": 73.44
+    },
+    {
+     "text": "困ったことがあったら、店に入って助けを求めることもできます。",
+     "tokens": [
+      {
+       "surface": "困っ",
+       "pos": "verb",
+       "reading": "こまっ",
+       "romaji": "komat",
+       "lemma": "困る",
+       "gloss": "to be troubled",
+       "glossId": "kesulitan, kesusahan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing, matter (nominalizer)",
+       "glossId": "hal (pembentuk kata benda abstrak)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "あっ",
+       "pos": "verb",
+       "romaji": "atsu",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda)"
+      },
+      {
+       "surface": "たら",
+       "pos": "auxiliary",
+       "romaji": "tara",
+       "lemma": "た",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "店",
+       "pos": "noun",
+       "reading": "みせ",
+       "romaji": "mise",
+       "gloss": "shop, store",
+       "glossId": "toko"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/purpose/location",
+       "glossId": "partikel penunjuk tujuan/lokasi"
+      },
+      {
+       "surface": "入っ",
+       "pos": "verb",
+       "reading": "はいっ",
+       "romaji": "hait",
+       "lemma": "入る",
+       "gloss": "to enter",
+       "glossId": "masuk"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk-te penghubung"
+      },
+      {
+       "surface": "助け",
+       "pos": "noun",
+       "reading": "たすけ",
+       "romaji": "tasuke",
+       "gloss": "help",
+       "glossId": "bantuan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "求める",
+       "pos": "verb",
+       "reading": "もとめる",
+       "romaji": "motomeru",
+       "gloss": "to request, seek",
+       "glossId": "meminta, mencari"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing, matter (nominalizer)",
+       "glossId": "hal (pembentuk kata benda abstrak)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even",
+       "glossId": "juga, bahkan"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to",
+       "glossId": "bisa, mampu"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If something troubling happens, you can also go into the store and ask for help.",
+     "translationId": "Jika ada kesulitan, kita juga bisa masuk ke toko dan meminta bantuan.",
+     "audioStart": 73.44,
+     "audioEnd": 78.504
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "このように、コンビニはただの店ではなく、日本人の毎日の生活に欠かせない場所になりました。",
+     "tokens": [
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this",
+       "glossId": "ini"
+      },
+      {
+       "surface": "よう",
+       "pos": "adjective",
+       "romaji": "you",
+       "gloss": "form indicating 'seeming/becoming'",
+       "glossId": "bentuk 'seperti/menjadi'"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula 'is' (plain)",
+       "glossId": "kopula 'adalah' (bentuk biasa)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "コンビニ",
+       "pos": "noun",
+       "romaji": "konbini",
+       "gloss": "convenience store",
+       "glossId": "minimarket"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "ただ",
+       "pos": "noun",
+       "romaji": "tada",
+       "gloss": "merely, just",
+       "glossId": "hanya, sekadar"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle",
+       "glossId": "partikel kepemilikan"
+      },
+      {
+       "surface": "店",
+       "pos": "noun",
+       "reading": "みせ",
+       "romaji": "mise",
+       "gloss": "shop, store",
+       "glossId": "toko"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking place/means",
+       "glossId": "partikel penanda tempat/alat"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "なく",
+       "pos": "adjective",
+       "romaji": "naku",
+       "lemma": "ない",
+       "gloss": "negative 'not'",
+       "glossId": "negasi 'tidak'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本人",
+       "pos": "noun",
+       "reading": "にほんじん",
+       "romaji": "nihonjin",
+       "gloss": "Japanese person",
+       "glossId": "orang Jepang"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle",
+       "glossId": "partikel kepemilikan"
+      },
+      {
+       "surface": "毎日",
+       "pos": "noun",
+       "reading": "まいにち",
+       "romaji": "mainichi",
+       "gloss": "every day",
+       "glossId": "setiap hari"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle",
+       "glossId": "partikel kepemilikan"
+      },
+      {
+       "surface": "生活",
+       "pos": "noun",
+       "reading": "せいかつ",
+       "romaji": "seikatsu",
+       "gloss": "life, living",
+       "glossId": "kehidupan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/purpose/location",
+       "glossId": "partikel penunjuk tujuan/lokasi"
+      },
+      {
+       "surface": "欠かせ",
+       "pos": "verb",
+       "reading": "かかせ",
+       "romaji": "kakase",
+       "lemma": "欠かせる",
+       "gloss": "can do without (potential of 欠かす)",
+       "glossId": "bisa tanpa (bentuk potensial dari 欠かす)"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative 'not'",
+       "glossId": "negasi 'tidak'"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place",
+       "glossId": "tempat"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/purpose/location",
+       "glossId": "partikel penunjuk tujuan/lokasi"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In this way, convenience stores have become not just shops, but indispensable places in the daily lives of Japanese people.",
+     "translationId": "Dengan demikian, minimarket bukan sekadar toko, melainkan telah menjadi tempat yang tak terpisahkan dari kehidupan sehari-hari orang Jepang.",
+     "audioStart": 78.504,
+     "audioEnd": 86.016
+    },
+    {
+     "text": "これからも、コンビニは私たちの暮らしを支え続けるでしょう。",
+     "tokens": [
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore",
+       "gloss": "this (thing)",
+       "glossId": "ini (benda)"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "because, from",
+       "glossId": "karena, dari"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even",
+       "glossId": "juga, bahkan"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "コンビニ",
+       "pos": "noun",
+       "romaji": "konbini",
+       "gloss": "convenience store",
+       "glossId": "minimarket"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "私たち",
+       "pos": "pronoun",
+       "reading": "わたしたち",
+       "romaji": "watashitachi",
+       "gloss": "we, us",
+       "glossId": "kita"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle",
+       "glossId": "partikel kepemilikan"
+      },
+      {
+       "surface": "暮らし",
+       "pos": "noun",
+       "reading": "くらし",
+       "romaji": "kurashi",
+       "gloss": "life, living (noun)",
+       "glossId": "kehidupan, penghidupan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "支え",
+       "pos": "verb",
+       "reading": "ささえ",
+       "romaji": "sasae",
+       "lemma": "支える",
+       "gloss": "to support",
+       "glossId": "mendukung"
+      },
+      {
+       "surface": "続ける",
+       "pos": "verb",
+       "reading": "つづける",
+       "romaji": "tsuzukeru",
+       "gloss": "to continue",
+       "glossId": "melanjutkan"
+      },
+      {
+       "surface": "でしょう",
+       "pos": "auxiliary",
+       "romaji": "deshou",
+       "lemma": "です",
+       "gloss": "copula 'is' (polite)",
+       "glossId": "kopula 'adalah' (sopan)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "From now on too, convenience stores will likely continue to support our lives.",
+     "translationId": "Ke depannya pun, minimarket kemungkinan akan terus mendukung kehidupan kita.",
+     "audioStart": 86.016,
+     "audioEnd": 90.864
+    }
+   ]
+  }
+ ],
+ "topic": "まいにちのせいかつ",
+ "topicEn": "Daily life",
+ "topicId": "Kehidupan sehari-hari"
+}
