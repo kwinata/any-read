@@ -299,10 +299,11 @@ body {
 .vsearch:focus { border-color: var(--accent); }
 .vitem { border-bottom: 1px solid var(--border); padding: 2px 0 6px; }
 .vrow {
-  display: flex; justify-content: space-between; align-items: center; gap: 12px;
+  display: flex; align-items: center; gap: 12px;
   padding: 8px 6px; cursor: pointer;
   border-radius: 8px;
 }
+.vrow .jtext { flex: 0 0 44%; min-width: 0; }
 .vex {
   padding: 2px 6px 6px 20px; cursor: pointer; border-radius: 8px;
 }
@@ -325,7 +326,7 @@ body {
 }
 .vtoggle.on { background: var(--accent); border-color: var(--accent); color: #fff; }
 .vrow.current { background: var(--highlight); }
-.vgloss { text-align: right; font-size: 14px; color: var(--muted); flex-shrink: 1; }
+.vgloss { flex: 1; text-align: left; font-size: 14px; color: var(--muted); min-width: 0; }
 .vgloss .idn { font-style: italic; opacity: 0.85; }
 .vsent {
   padding: 10px 6px; border-bottom: 1px solid var(--border);
