@@ -273,10 +273,14 @@ body {
   }
   .vcat { scroll-margin-top: calc(60px + env(safe-area-inset-top)); }
 }
+.vsearch-wrap { position: relative; margin-top: 10px; }
+.vsearch-ico {
+  position: absolute; left: 12px; top: 50%; transform: translateY(-50%);
+  font-size: 14px; opacity: 0.65; pointer-events: none;
+}
 .vsearch {
   width: 100%;
-  margin-top: 10px;
-  padding: 9px 12px;
+  padding: 9px 12px 9px 36px;
   font-size: 16px;
   color: var(--text);
   background: var(--card);
@@ -297,6 +301,7 @@ body {
 .vex .jtext { font-size: 17px; }
 .vex.current { background: var(--highlight); }
 .vex .vtrans { margin-top: 0; font-size: 13px; }
+.no-ex .vex { display: none; }
 .vrow.current { background: var(--highlight); }
 .vgloss { text-align: right; font-size: 14px; color: var(--muted); flex-shrink: 1; }
 .vgloss .idn { font-style: italic; opacity: 0.85; }

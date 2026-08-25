@@ -3,7 +3,7 @@
 const $app = document.getElementById('app');
 const SETTINGS_KEY = 'anyread-settings';
 const settings = Object.assign(
-  { furigana: true, romaji: false, translations: false, translationsId: false },
+  { furigana: true, romaji: false, translations: false, translationsId: false, vocabExamples: false },
   JSON.parse(localStorage.getItem(SETTINGS_KEY) || '{}')
 );
 const RATES = [0.7, 0.85, 1.0, 1.15, 1.3];
@@ -472,9 +472,14 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
     mkToggle('ふ', 'furigana', () => host.classList.toggle('no-furigana', !settings.furigana)),
     mkToggle('rо̄', 'romaji', () => host.classList.toggle('no-romaji', !settings.romaji))
   );
+  if (mode !== 'sentences') {
+    bar.append(mkToggle('例', 'vocabExamples',
+      () => host.classList.toggle('no-ex', !settings.vocabExamples)));
+  }
   $app.append(bar);
   if (!settings.furigana) host.classList.add('no-furigana');
   if (!settings.romaji) host.classList.add('no-romaji');
+  if (mode !== 'sentences' && !settings.vocabExamples) host.classList.add('no-ex');
 
   let data;
   try {
@@ -507,10 +512,12 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
     header.append(el('h1', null, 'たんごちょう'));
     header.append(el('p', 'sub', 'Useful beginner vocabulary — tap a word to hear it'));
   }
+  const searchWrap = el('div', 'vsearch-wrap');
   const searchInput = el('input', 'vsearch');
   searchInput.type = 'search';
   searchInput.placeholder = 'Search: english / indonesia / romaji…';
-  header.append(searchInput);
+  searchWrap.append(el('span', 'vsearch-ico', '🔍'), searchInput);
+  header.append(searchWrap);
   host.append(header);
   const searchEntries = []; // {el, secIdx, hay}
 
