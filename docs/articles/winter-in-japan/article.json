@@ -1,0 +1,852 @@
+{
+ "schemaVersion": 1,
+ "id": "winter-in-japan",
+ "language": "ja",
+ "title": "冬の日本",
+ "titleTranslation": "Winter in Japan",
+ "titleTranslationId": "Musim Dingin di Jepang",
+ "level": "Beginner",
+ "summary": "The article describes how Japanese winters are cold and snowy, with children playing in the snow and people warming up indoors with kotatsu and hot drinks.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T12:23:21+00:00",
+ "audioFile": "audio-5de9b54a.mp3",
+ "voice": "ja-JP-NanamiNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "日本の冬はとても寒いです。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle",
+       "glossId": "partikel kepemilikan"
+      },
+      {
+       "surface": "冬",
+       "pos": "noun",
+       "reading": "ふゆ",
+       "romaji": "fuyu",
+       "gloss": "winter",
+       "glossId": "musim dingin"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "寒い",
+       "pos": "adjective",
+       "reading": "さむい",
+       "romaji": "samui",
+       "gloss": "cold",
+       "glossId": "dingin"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Winter in Japan is very cold.",
+     "translationId": "Musim dingin di Jepang sangat dingin.",
+     "audioStart": 0.0,
+     "audioEnd": 4.368
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "たくさん雪が降ります。",
+     "tokens": [
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "雪",
+       "pos": "noun",
+       "reading": "ゆき",
+       "romaji": "yuki",
+       "gloss": "snow",
+       "glossId": "salju"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "降り",
+       "pos": "verb",
+       "reading": "ふり",
+       "romaji": "furi",
+       "lemma": "降る",
+       "gloss": "to fall (rain/snow)",
+       "glossId": "turun (hujan/salju)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "A lot of snow falls.",
+     "translationId": "Banyak salju turun.",
+     "audioStart": 4.368,
+     "audioEnd": 7.728
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "子どもたちは雪で遊びます。",
+     "tokens": [
+      {
+       "surface": "子どもたち",
+       "pos": "noun",
+       "reading": "こどもたち",
+       "romaji": "kodomotachi",
+       "gloss": "children",
+       "glossId": "anak-anak"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "雪",
+       "pos": "noun",
+       "reading": "ゆき",
+       "romaji": "yuki",
+       "gloss": "snow",
+       "glossId": "salju"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker",
+       "glossId": "penanda lokasi/cara"
+      },
+      {
+       "surface": "遊び",
+       "pos": "verb",
+       "reading": "あそび",
+       "romaji": "asobi",
+       "lemma": "遊ぶ",
+       "gloss": "to play",
+       "glossId": "bermain"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Children play in the snow.",
+     "translationId": "Anak-anak bermain di salju.",
+     "audioStart": 7.728,
+     "audioEnd": 11.664
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "雪だるまを作ります。",
+     "tokens": [
+      {
+       "surface": "雪だるま",
+       "pos": "noun",
+       "reading": "ゆきだるま",
+       "romaji": "yukidaruma",
+       "gloss": "snowman",
+       "glossId": "boneka salju"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "作り",
+       "pos": "verb",
+       "reading": "つくり",
+       "romaji": "tsukuri",
+       "lemma": "作る",
+       "gloss": "to make",
+       "glossId": "membuat"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They make snowmen.",
+     "translationId": "Mereka membuat boneka salju.",
+     "audioStart": 11.664,
+     "audioEnd": 14.952
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "家の中では、こたつを使います。",
+     "tokens": [
+      {
+       "surface": "家",
+       "pos": "noun",
+       "reading": "いえ",
+       "romaji": "ie",
+       "gloss": "house",
+       "glossId": "rumah"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle",
+       "glossId": "partikel kepemilikan"
+      },
+      {
+       "surface": "中",
+       "pos": "noun",
+       "reading": "なか",
+       "romaji": "naka",
+       "gloss": "inside",
+       "glossId": "dalam"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker",
+       "glossId": "penanda lokasi/cara"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "こたつ",
+       "pos": "noun",
+       "romaji": "kotatsu",
+       "gloss": "kotatsu (heated table)",
+       "glossId": "kotatsu (meja penghangat)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "使い",
+       "pos": "verb",
+       "reading": "つかい",
+       "romaji": "tsukai",
+       "lemma": "使う",
+       "gloss": "to use",
+       "glossId": "menggunakan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Inside the house, people use a kotatsu.",
+     "translationId": "Di dalam rumah, orang-orang menggunakan kotatsu.",
+     "audioStart": 14.952,
+     "audioEnd": 19.584
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "こたつはあたたかいテーブルです。",
+     "tokens": [
+      {
+       "surface": "こたつ",
+       "pos": "noun",
+       "romaji": "kotatsu",
+       "gloss": "kotatsu (heated table)",
+       "glossId": "kotatsu (meja penghangat)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "あたたかい",
+       "pos": "adjective",
+       "romaji": "atatakai",
+       "gloss": "warm",
+       "glossId": "hangat"
+      },
+      {
+       "surface": "テーブル",
+       "pos": "noun",
+       "romaji": "teeburu",
+       "gloss": "table",
+       "glossId": "meja"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "A kotatsu is a warm table.",
+     "translationId": "Kotatsu adalah meja yang hangat.",
+     "audioStart": 19.584,
+     "audioEnd": 23.784
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "こたつに入って、テレビを見ます。",
+     "tokens": [
+      {
+       "surface": "こたつ",
+       "pos": "noun",
+       "romaji": "kotatsu",
+       "gloss": "kotatsu (heated table)",
+       "glossId": "kotatsu (meja penghangat)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "direction/target marker",
+       "glossId": "penanda arah/tujuan"
+      },
+      {
+       "surface": "入っ",
+       "pos": "verb",
+       "reading": "はいっ",
+       "romaji": "hait",
+       "lemma": "入る",
+       "gloss": "to enter",
+       "glossId": "masuk"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective verb form",
+       "glossId": "bentuk penghubung kata kerja"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "テレビ",
+       "pos": "noun",
+       "romaji": "terebi",
+       "gloss": "television",
+       "glossId": "televisi"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "見",
+       "pos": "verb",
+       "reading": "み",
+       "romaji": "mi",
+       "lemma": "見る",
+       "gloss": "to watch/see",
+       "glossId": "melihat/menonton"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They get into the kotatsu and watch TV.",
+     "translationId": "Mereka masuk ke dalam kotatsu dan menonton TV.",
+     "audioStart": 23.784,
+     "audioEnd": 28.344
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "とても気持ちがいいです。",
+     "tokens": [
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "気持ち",
+       "pos": "noun",
+       "reading": "きもち",
+       "romaji": "kimochi",
+       "gloss": "feeling",
+       "glossId": "perasaan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good",
+       "glossId": "baik/enak"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It feels very nice.",
+     "translationId": "Rasanya sangat nyaman.",
+     "audioStart": 28.344,
+     "audioEnd": 31.68
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "寒い日は、あたたかい飲み物を飲みたいです。",
+     "tokens": [
+      {
+       "surface": "寒い",
+       "pos": "adjective",
+       "reading": "さむい",
+       "romaji": "samui",
+       "gloss": "cold",
+       "glossId": "dingin"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "ひ",
+       "romaji": "hi",
+       "gloss": "day",
+       "glossId": "hari"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "あたたかい",
+       "pos": "adjective",
+       "romaji": "atatakai",
+       "gloss": "warm",
+       "glossId": "hangat"
+      },
+      {
+       "surface": "飲み物",
+       "pos": "noun",
+       "reading": "のみもの",
+       "romaji": "nomimono",
+       "gloss": "drink",
+       "glossId": "minuman"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "飲み",
+       "pos": "verb",
+       "reading": "のみ",
+       "romaji": "nomi",
+       "lemma": "飲む",
+       "gloss": "to drink",
+       "glossId": "minum"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (verb suffix)",
+       "glossId": "ingin (akhiran kata kerja)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On cold days, I want to drink something warm.",
+     "translationId": "Pada hari yang dingin, saya ingin minum sesuatu yang hangat.",
+     "audioStart": 31.68,
+     "audioEnd": 37.416
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "お茶やココアが人気です。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "polite prefix",
+       "glossId": "awalan sopan"
+      },
+      {
+       "surface": "茶",
+       "pos": "noun",
+       "reading": "ちゃ",
+       "romaji": "cha",
+       "gloss": "tea",
+       "glossId": "teh"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "ココア",
+       "pos": "noun",
+       "romaji": "kokoa",
+       "gloss": "cocoa",
+       "glossId": "cokelat panas"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "人気",
+       "pos": "noun",
+       "reading": "にんき",
+       "romaji": "ninki",
+       "gloss": "popularity",
+       "glossId": "populer"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Tea and cocoa are popular.",
+     "translationId": "Teh dan cokelat panas populer.",
+     "audioStart": 37.416,
+     "audioEnd": 41.112
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "お茶を飲むと、体があたたまります。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "polite prefix",
+       "glossId": "awalan sopan"
+      },
+      {
+       "surface": "茶",
+       "pos": "noun",
+       "reading": "ちゃ",
+       "romaji": "cha",
+       "gloss": "tea",
+       "glossId": "teh"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "飲む",
+       "pos": "verb",
+       "reading": "のむ",
+       "romaji": "nomu",
+       "gloss": "to drink",
+       "glossId": "minum"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "conditional/quotative particle",
+       "glossId": "partikel kondisional/kutipan"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "体",
+       "pos": "noun",
+       "reading": "からだ",
+       "romaji": "karada",
+       "gloss": "body",
+       "glossId": "tubuh"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あたたまり",
+       "pos": "verb",
+       "romaji": "atatamari",
+       "lemma": "あたたまる",
+       "gloss": "to warm up",
+       "glossId": "menjadi hangat"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When you drink tea, your body warms up.",
+     "translationId": "Kalau minum teh, badan menjadi hangat.",
+     "audioStart": 41.112,
+     "audioEnd": 45.912
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "冬は寒いですが、楽しい季節です。",
+     "tokens": [
+      {
+       "surface": "冬",
+       "pos": "noun",
+       "reading": "ふゆ",
+       "romaji": "fuyu",
+       "gloss": "winter",
+       "glossId": "musim dingin"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "寒い",
+       "pos": "adjective",
+       "reading": "さむい",
+       "romaji": "samui",
+       "gloss": "cold",
+       "glossId": "dingin"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "楽しい",
+       "pos": "adjective",
+       "reading": "たのしい",
+       "romaji": "tanoshii",
+       "gloss": "fun/enjoyable",
+       "glossId": "menyenangkan"
+      },
+      {
+       "surface": "季節",
+       "pos": "noun",
+       "reading": "きせつ",
+       "romaji": "kisetsu",
+       "gloss": "season",
+       "glossId": "musim"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Winter is cold, but it is an enjoyable season.",
+     "translationId": "Musim dingin itu dingin, tetapi musim yang menyenangkan.",
+     "audioStart": 45.912,
+     "audioEnd": 51.168
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,756 @@
+{
+ "schemaVersion": 1,
+ "id": "weekend-room-cleaning",
+ "language": "ja",
+ "title": "週末の部屋そうじ",
+ "titleTranslation": "Weekend Room Cleaning",
+ "titleTranslationId": "Membersihkan Kamar di Akhir Pekan",
+ "level": "Beginner",
+ "summary": "A person describes their weekend routine of cleaning their room, from opening the windows to vacuuming and finally taking a shower.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T12:22:49+00:00",
+ "audioFile": "audio-1304893b.mp3",
+ "voice": "ja-JP-NanamiNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "週末に、部屋をそうじします。",
+     "tokens": [
+      {
+       "surface": "週末",
+       "pos": "noun",
+       "reading": "しゅうまつ",
+       "romaji": "shuumatsu",
+       "gloss": "weekend",
+       "glossId": "akhir pekan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking time (at/on/in)",
+       "glossId": "partikel penanda waktu"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "部屋",
+       "pos": "noun",
+       "reading": "へや",
+       "romaji": "heya",
+       "gloss": "room",
+       "glossId": "kamar"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker particle",
+       "glossId": "partikel penanda objek"
+      },
+      {
+       "surface": "そうじ",
+       "pos": "noun",
+       "romaji": "souji",
+       "gloss": "cleaning",
+       "glossId": "bebersih, membersihkan"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite present-tense verb ending",
+       "glossId": "akhiran sopan bentuk sekarang"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On the weekend, I clean my room.",
+     "translationId": "Pada akhir pekan, saya membersihkan kamar.",
+     "audioStart": 0.0,
+     "audioEnd": 4.368
+    },
+    {
+     "text": "まず、窓をあけます。",
+     "tokens": [
+      {
+       "surface": "まず",
+       "pos": "adverb",
+       "romaji": "mazu",
+       "gloss": "first, first of all",
+       "glossId": "pertama-tama"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "窓",
+       "pos": "noun",
+       "reading": "まど",
+       "romaji": "mado",
+       "gloss": "window",
+       "glossId": "jendela"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker particle",
+       "glossId": "partikel penanda objek"
+      },
+      {
+       "surface": "あけ",
+       "pos": "verb",
+       "romaji": "ake",
+       "lemma": "あける",
+       "gloss": "to open",
+       "glossId": "membuka"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite present-tense verb ending",
+       "glossId": "akhiran sopan bentuk sekarang"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "First, I open the window.",
+     "translationId": "Pertama, saya membuka jendela.",
+     "audioStart": 4.368,
+     "audioEnd": 7.896
+    },
+    {
+     "text": "それから、つくえの上をかたづけます。",
+     "tokens": [
+      {
+       "surface": "それ",
+       "pos": "pronoun",
+       "romaji": "sore",
+       "gloss": "that",
+       "glossId": "itu"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "then, after that",
+       "glossId": "lalu, kemudian"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "つくえ",
+       "pos": "noun",
+       "romaji": "tsukue",
+       "gloss": "desk",
+       "glossId": "meja"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (of)",
+       "glossId": "partikel kepemilikan (dari)"
+      },
+      {
+       "surface": "上",
+       "pos": "noun",
+       "reading": "うえ",
+       "romaji": "ue",
+       "gloss": "top, on top of",
+       "glossId": "atas"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker particle",
+       "glossId": "partikel penanda objek"
+      },
+      {
+       "surface": "かたづけ",
+       "pos": "verb",
+       "romaji": "katazuke",
+       "lemma": "かたづける",
+       "gloss": "to tidy up, put away",
+       "glossId": "merapikan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite present-tense verb ending",
+       "glossId": "akhiran sopan bentuk sekarang"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Then, I tidy up the top of the desk.",
+     "translationId": "Kemudian, saya merapikan bagian atas meja.",
+     "audioStart": 7.896,
+     "audioEnd": 12.744
+    },
+    {
+     "text": "本を本だなに入れます。",
+     "tokens": [
+      {
+       "surface": "本",
+       "pos": "noun",
+       "reading": "ほん",
+       "romaji": "hon",
+       "gloss": "book",
+       "glossId": "buku"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker particle",
+       "glossId": "partikel penanda objek"
+      },
+      {
+       "surface": "本だな",
+       "pos": "noun",
+       "reading": "ほんだな",
+       "romaji": "hondana",
+       "gloss": "bookshelf",
+       "glossId": "rak buku"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking time (at/on/in)",
+       "glossId": "partikel penanda waktu"
+      },
+      {
+       "surface": "入れ",
+       "pos": "verb",
+       "reading": "いれ",
+       "romaji": "ire",
+       "lemma": "入れる",
+       "gloss": "to put in",
+       "glossId": "memasukkan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite present-tense verb ending",
+       "glossId": "akhiran sopan bentuk sekarang"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I put the books on the bookshelf.",
+     "translationId": "Saya memasukkan buku ke rak buku.",
+     "audioStart": 12.744,
+     "audioEnd": 16.152
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "つぎに、そうじきをかけます。",
+     "tokens": [
+      {
+       "surface": "つぎ",
+       "pos": "noun",
+       "romaji": "tsugi",
+       "gloss": "next",
+       "glossId": "berikutnya"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking time (at/on/in)",
+       "glossId": "partikel penanda waktu"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "そう",
+       "pos": "adverb",
+       "romaji": "sou",
+       "gloss": "part of そうじき (vacuum cleaner)",
+       "glossId": "bagian dari kata そうじき (penyedot debu)"
+      },
+      {
+       "surface": "じき",
+       "pos": "noun",
+       "romaji": "jiki",
+       "gloss": "part of そうじき (vacuum cleaner)",
+       "glossId": "bagian dari kata そうじき (penyedot debu)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker particle",
+       "glossId": "partikel penanda objek"
+      },
+      {
+       "surface": "かけ",
+       "pos": "verb",
+       "romaji": "kake",
+       "lemma": "かける",
+       "gloss": "to run/turn on (a machine)",
+       "glossId": "menyalakan/menjalankan (alat)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite present-tense verb ending",
+       "glossId": "akhiran sopan bentuk sekarang"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Next, I run the vacuum cleaner.",
+     "translationId": "Selanjutnya, saya menyedot debu.",
+     "audioStart": 16.152,
+     "audioEnd": 20.304
+    },
+    {
+     "text": "ゆかがきれいになります。",
+     "tokens": [
+      {
+       "surface": "ゆか",
+       "pos": "noun",
+       "romaji": "yuka",
+       "gloss": "floor",
+       "glossId": "lantai"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker particle",
+       "glossId": "partikel penanda subjek"
+      },
+      {
+       "surface": "きれい",
+       "pos": "adjective",
+       "romaji": "kirei",
+       "gloss": "clean, pretty",
+       "glossId": "bersih, indah"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula (is/am/are)",
+       "glossId": "kopula (adalah)"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite present-tense verb ending",
+       "glossId": "akhiran sopan bentuk sekarang"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The floor becomes clean.",
+     "translationId": "Lantai menjadi bersih.",
+     "audioStart": 20.304,
+     "audioEnd": 23.76
+    },
+    {
+     "text": "ごみをすてます。",
+     "tokens": [
+      {
+       "surface": "ごみ",
+       "pos": "noun",
+       "romaji": "gomi",
+       "gloss": "trash, garbage",
+       "glossId": "sampah"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker particle",
+       "glossId": "partikel penanda objek"
+      },
+      {
+       "surface": "すて",
+       "pos": "verb",
+       "romaji": "sute",
+       "lemma": "すてる",
+       "gloss": "to throw away",
+       "glossId": "membuang"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite present-tense verb ending",
+       "glossId": "akhiran sopan bentuk sekarang"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I throw away the trash.",
+     "translationId": "Saya membuang sampah.",
+     "audioStart": 23.76,
+     "audioEnd": 26.544
+    },
+    {
+     "text": "まどから風が入って、きもちがいいです。",
+     "tokens": [
+      {
+       "surface": "まど",
+       "pos": "noun",
+       "romaji": "mado",
+       "gloss": "window",
+       "glossId": "jendela"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "then, after that",
+       "glossId": "lalu, kemudian"
+      },
+      {
+       "surface": "風",
+       "pos": "noun",
+       "reading": "かぜ",
+       "romaji": "kaze",
+       "gloss": "wind",
+       "glossId": "angin"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker particle",
+       "glossId": "partikel penanda subjek"
+      },
+      {
+       "surface": "入っ",
+       "pos": "verb",
+       "reading": "はいっ",
+       "romaji": "hait",
+       "lemma": "入る",
+       "gloss": "to enter, come in",
+       "glossId": "masuk"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector (linking actions)",
+       "glossId": "penghubung bentuk -te"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "きもち",
+       "pos": "noun",
+       "romaji": "kimochi",
+       "gloss": "feeling",
+       "glossId": "perasaan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker particle",
+       "glossId": "partikel penanda subjek"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good",
+       "glossId": "baik, enak"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is/am/are)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Wind comes in through the window, and it feels nice.",
+     "translationId": "Angin masuk dari jendela, dan rasanya menyenangkan.",
+     "audioStart": 26.544,
+     "audioEnd": 31.68
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "さいごに、シャワーをあびます。",
+     "tokens": [
+      {
+       "surface": "さいご",
+       "pos": "noun",
+       "romaji": "saigo",
+       "gloss": "last, finally",
+       "glossId": "terakhir"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking time (at/on/in)",
+       "glossId": "partikel penanda waktu"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "シャワー",
+       "pos": "noun",
+       "romaji": "shawaa",
+       "gloss": "shower",
+       "glossId": "shower, pancuran"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker particle",
+       "glossId": "partikel penanda objek"
+      },
+      {
+       "surface": "あび",
+       "pos": "verb",
+       "romaji": "abi",
+       "lemma": "あびる",
+       "gloss": "to take (a shower)",
+       "glossId": "mandi (shower)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite present-tense verb ending",
+       "glossId": "akhiran sopan bentuk sekarang"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Finally, I take a shower.",
+     "translationId": "Terakhir, saya mandi shower.",
+     "audioStart": 31.68,
+     "audioEnd": 35.712
+    },
+    {
+     "text": "つかれましたが、へやがきれいで、うれしいです。",
+     "tokens": [
+      {
+       "surface": "つかれ",
+       "pos": "verb",
+       "romaji": "tsukare",
+       "lemma": "つかれる",
+       "gloss": "to get tired",
+       "glossId": "menjadi lelah"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite present-tense verb ending",
+       "glossId": "akhiran sopan bentuk sekarang"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past-tense verb ending",
+       "glossId": "akhiran bentuk lampau"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker particle",
+       "glossId": "partikel penanda subjek"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "へや",
+       "pos": "noun",
+       "romaji": "heya",
+       "gloss": "room",
+       "glossId": "kamar"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker particle",
+       "glossId": "partikel penanda subjek"
+      },
+      {
+       "surface": "きれい",
+       "pos": "adjective",
+       "romaji": "kirei",
+       "gloss": "clean, pretty",
+       "glossId": "bersih, indah"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula (is/am/are)",
+       "glossId": "kopula (adalah)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "うれしい",
+       "pos": "adjective",
+       "romaji": "ureshii",
+       "gloss": "happy, glad",
+       "glossId": "senang"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is/am/are)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I'm tired, but the room is clean, so I'm happy.",
+     "translationId": "Saya lelah, tetapi karena kamar bersih, saya senang.",
+     "audioStart": 35.712,
+     "audioEnd": 41.208
+    },
+    {
+     "text": "らいしゅうも、そうじしたいです。",
+     "tokens": [
+      {
+       "surface": "らいしゅう",
+       "pos": "noun",
+       "romaji": "raishuu",
+       "gloss": "next week",
+       "glossId": "minggu depan"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "partikel 'juga'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "そうじ",
+       "pos": "noun",
+       "romaji": "souji",
+       "gloss": "cleaning",
+       "glossId": "bebersih, membersihkan"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desire form)",
+       "glossId": "ingin (bentuk keinginan)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is/am/are)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I want to clean my room next week too.",
+     "translationId": "Saya ingin membersihkan kamar minggu depan juga.",
+     "audioStart": 41.208,
+     "audioEnd": 45.408
+    }
+   ]
+  }
+ ]
+}

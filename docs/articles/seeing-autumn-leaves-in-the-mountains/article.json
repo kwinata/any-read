@@ -1,0 +1,1009 @@
+{
+ "schemaVersion": 1,
+ "id": "seeing-autumn-leaves-in-the-mountains",
+ "language": "ja",
+ "title": "山で紅葉を見ます",
+ "titleTranslation": "Seeing Autumn Leaves in the Mountains",
+ "titleTranslationId": "Melihat Daun Musim Gugur di Gunung",
+ "level": "Beginner",
+ "summary": "The writer describes hiking in the mountains on weekends during autumn to enjoy the changing colors of the leaves with friends.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T12:26:17+00:00",
+ "audioFile": "audio-bc5c44b5.mp3",
+ "voice": "ja-JP-KeitaNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "秋になりました。",
+     "tokens": [
+      {
+       "surface": "秋",
+       "pos": "noun",
+       "reading": "あき",
+       "romaji": "aki",
+       "gloss": "autumn",
+       "glossId": "musim gugur"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: time/direction/target",
+       "glossId": "partikel: waktu/arah/tujuan"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It has become autumn.",
+     "translationId": "Musim gugur telah tiba.",
+     "audioStart": 0.0,
+     "audioEnd": 2.544
+    },
+    {
+     "text": "山の色が少しずつ変わります。",
+     "tokens": [
+      {
+       "surface": "山",
+       "pos": "noun",
+       "reading": "やま",
+       "romaji": "yama",
+       "gloss": "mountain",
+       "glossId": "gunung"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/penjelas"
+      },
+      {
+       "surface": "色",
+       "pos": "noun",
+       "reading": "いろ",
+       "romaji": "iro",
+       "gloss": "color",
+       "glossId": "warna"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "少し",
+       "pos": "adverb",
+       "reading": "すこし",
+       "romaji": "sukoshi",
+       "gloss": "a little",
+       "glossId": "sedikit"
+      },
+      {
+       "surface": "ずつ",
+       "pos": "particle",
+       "romaji": "zutsu",
+       "gloss": "little by little, each",
+       "glossId": "sedikit demi sedikit"
+      },
+      {
+       "surface": "変わり",
+       "pos": "verb",
+       "reading": "かわり",
+       "romaji": "kawari",
+       "lemma": "変わる",
+       "gloss": "to change",
+       "glossId": "berubah"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The colors of the mountains change little by little.",
+     "translationId": "Warna gunung berubah sedikit demi sedikit.",
+     "audioStart": 2.544,
+     "audioEnd": 6.336
+    },
+    {
+     "text": "木の葉が赤や黄色になります。",
+     "tokens": [
+      {
+       "surface": "木の葉",
+       "pos": "noun",
+       "reading": "このは",
+       "romaji": "konoha",
+       "gloss": "tree leaves, foliage",
+       "glossId": "daun pohon, dedaunan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "赤",
+       "pos": "noun",
+       "reading": "あか",
+       "romaji": "aka",
+       "gloss": "red",
+       "glossId": "merah"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and/or (non-exhaustive list particle)",
+       "glossId": "dan/atau (partikel daftar tidak lengkap)"
+      },
+      {
+       "surface": "黄色",
+       "pos": "noun",
+       "reading": "きいろ",
+       "romaji": "kiiro",
+       "gloss": "yellow",
+       "glossId": "kuning"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: time/direction/target",
+       "glossId": "partikel: waktu/arah/tujuan"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The leaves turn red and yellow.",
+     "translationId": "Daun-daun pohon menjadi merah dan kuning.",
+     "audioStart": 6.336,
+     "audioEnd": 9.984
+    },
+    {
+     "text": "これを「紅葉」と言います。",
+     "tokens": [
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore",
+       "gloss": "this",
+       "glossId": "ini"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "紅葉",
+       "pos": "noun",
+       "reading": "こうよう",
+       "romaji": "kouyou",
+       "gloss": "autumn leaves",
+       "glossId": "daun musim gugur"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle",
+       "glossId": "partikel kutipan"
+      },
+      {
+       "surface": "言い",
+       "pos": "verb",
+       "reading": "いい",
+       "romaji": "ii",
+       "lemma": "言う",
+       "gloss": "to say, to call",
+       "glossId": "mengatakan, menyebut"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "This is called 'autumn leaves' (kōyō).",
+     "translationId": "Ini disebut 'daun musim gugur' (kōyō).",
+     "audioStart": 9.984,
+     "audioEnd": 13.512
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "週末に、山へ歩きに行きます。",
+     "tokens": [
+      {
+       "surface": "週末",
+       "pos": "noun",
+       "reading": "しゅうまつ",
+       "romaji": "shuumatsu",
+       "gloss": "weekend",
+       "glossId": "akhir pekan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: time/direction/target",
+       "glossId": "partikel: waktu/arah/tujuan"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "山",
+       "pos": "noun",
+       "reading": "やま",
+       "romaji": "yama",
+       "gloss": "mountain",
+       "glossId": "gunung"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "e",
+       "gloss": "direction particle (to, toward)",
+       "glossId": "partikel arah (ke)"
+      },
+      {
+       "surface": "歩き",
+       "pos": "verb",
+       "reading": "あるき",
+       "romaji": "aruki",
+       "lemma": "歩く",
+       "gloss": "to walk",
+       "glossId": "berjalan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: time/direction/target",
+       "glossId": "partikel: waktu/arah/tujuan"
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On weekends, I go to the mountains to walk.",
+     "translationId": "Pada akhir pekan, saya pergi mendaki ke gunung.",
+     "audioStart": 13.512,
+     "audioEnd": 18.096
+    },
+    {
+     "text": "山の空気はとてもきれいです。",
+     "tokens": [
+      {
+       "surface": "山",
+       "pos": "noun",
+       "reading": "やま",
+       "romaji": "yama",
+       "gloss": "mountain",
+       "glossId": "gunung"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/penjelas"
+      },
+      {
+       "surface": "空気",
+       "pos": "noun",
+       "reading": "くうき",
+       "romaji": "kuuki",
+       "gloss": "air",
+       "glossId": "udara"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "きれい",
+       "pos": "adjective",
+       "romaji": "kirei",
+       "gloss": "pretty, clean",
+       "glossId": "indah, bersih"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The mountain air is very clean.",
+     "translationId": "Udara di gunung sangat bersih.",
+     "audioStart": 18.096,
+     "audioEnd": 21.864
+    },
+    {
+     "text": "少し寒いですが、気持ちがいいです。",
+     "tokens": [
+      {
+       "surface": "少し",
+       "pos": "adverb",
+       "reading": "すこし",
+       "romaji": "sukoshi",
+       "gloss": "a little",
+       "glossId": "sedikit"
+      },
+      {
+       "surface": "寒い",
+       "pos": "adjective",
+       "reading": "さむい",
+       "romaji": "samui",
+       "gloss": "cold",
+       "glossId": "dingin"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "気持ち",
+       "pos": "noun",
+       "reading": "きもち",
+       "romaji": "kimochi",
+       "gloss": "feeling",
+       "glossId": "perasaan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good",
+       "glossId": "baik, enak"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It's a little cold, but it feels nice.",
+     "translationId": "Agak dingin, tetapi rasanya menyenangkan.",
+     "audioStart": 21.864,
+     "audioEnd": 26.544
+    },
+    {
+     "text": "歩きながら、きれいな葉を見ます。",
+     "tokens": [
+      {
+       "surface": "歩き",
+       "pos": "verb",
+       "reading": "あるき",
+       "romaji": "aruki",
+       "lemma": "歩く",
+       "gloss": "to walk",
+       "glossId": "berjalan"
+      },
+      {
+       "surface": "ながら",
+       "pos": "particle",
+       "romaji": "nagara",
+       "gloss": "while (doing)",
+       "glossId": "sambil"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "きれい",
+       "pos": "adjective",
+       "romaji": "kirei",
+       "gloss": "pretty, clean",
+       "glossId": "indah, bersih"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "plain copula",
+       "glossId": "kopula bentuk biasa"
+      },
+      {
+       "surface": "葉",
+       "pos": "noun",
+       "reading": "は",
+       "romaji": "ha",
+       "gloss": "leaf",
+       "glossId": "daun"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "見",
+       "pos": "verb",
+       "reading": "み",
+       "romaji": "mi",
+       "lemma": "見る",
+       "gloss": "to see, to look at",
+       "glossId": "melihat"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "While walking, I look at the beautiful leaves.",
+     "translationId": "Sambil berjalan, saya melihat daun-daun yang indah.",
+     "audioStart": 26.544,
+     "audioEnd": 30.816
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "友達と一緒に歩くと、楽しいです。",
+     "tokens": [
+      {
+       "surface": "友達",
+       "pos": "noun",
+       "reading": "ともだち",
+       "romaji": "tomodachi",
+       "gloss": "friend",
+       "glossId": "teman"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle",
+       "glossId": "partikel kutipan"
+      },
+      {
+       "surface": "一緒",
+       "pos": "noun",
+       "reading": "いっしょ",
+       "romaji": "issho",
+       "gloss": "together",
+       "glossId": "bersama"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: time/direction/target",
+       "glossId": "partikel: waktu/arah/tujuan"
+      },
+      {
+       "surface": "歩く",
+       "pos": "verb",
+       "reading": "あるく",
+       "romaji": "aruku",
+       "gloss": "to walk",
+       "glossId": "berjalan"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle",
+       "glossId": "partikel kutipan"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "楽しい",
+       "pos": "adjective",
+       "reading": "たのしい",
+       "romaji": "tanoshii",
+       "gloss": "fun, enjoyable",
+       "glossId": "menyenangkan"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Walking together with friends is fun.",
+     "translationId": "Berjalan bersama teman itu menyenangkan.",
+     "audioStart": 30.816,
+     "audioEnd": 35.616
+    },
+    {
+     "text": "写真もたくさん撮ります。",
+     "tokens": [
+      {
+       "surface": "写真",
+       "pos": "noun",
+       "reading": "しゃしん",
+       "romaji": "shashin",
+       "gloss": "photo",
+       "glossId": "foto"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "撮り",
+       "pos": "verb",
+       "reading": "とり",
+       "romaji": "tori",
+       "lemma": "撮る",
+       "gloss": "to take (a photo)",
+       "glossId": "mengambil (foto)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I also take a lot of photos.",
+     "translationId": "Saya juga mengambil banyak foto.",
+     "audioStart": 35.616,
+     "audioEnd": 38.904
+    },
+    {
+     "text": "お弁当を持って行って、外で食べます。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan hormat"
+      },
+      {
+       "surface": "弁当",
+       "pos": "noun",
+       "reading": "べんとう",
+       "romaji": "bentou",
+       "gloss": "boxed lunch",
+       "glossId": "bekal makan siang"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "持っ",
+       "pos": "verb",
+       "reading": "もっ",
+       "romaji": "mot",
+       "lemma": "持つ",
+       "gloss": "to hold, to carry",
+       "glossId": "membawa, memegang"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "行っ",
+       "pos": "verb",
+       "reading": "いっ",
+       "romaji": "it",
+       "lemma": "行く",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "外",
+       "pos": "noun",
+       "reading": "そと",
+       "romaji": "soto",
+       "gloss": "outside",
+       "glossId": "luar"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means particle",
+       "glossId": "partikel lokasi/cara"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I bring a boxed lunch and eat outside.",
+     "translationId": "Saya membawa bekal dan makan di luar.",
+     "audioStart": 38.904,
+     "audioEnd": 43.776
+    },
+    {
+     "text": "紅葉は秋だけ見られますから、みんな紅葉が好きです。",
+     "tokens": [
+      {
+       "surface": "紅葉",
+       "pos": "noun",
+       "reading": "こうよう",
+       "romaji": "kouyou",
+       "gloss": "autumn leaves",
+       "glossId": "daun musim gugur"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "秋",
+       "pos": "noun",
+       "reading": "あき",
+       "romaji": "aki",
+       "gloss": "autumn",
+       "glossId": "musim gugur"
+      },
+      {
+       "surface": "だけ",
+       "pos": "particle",
+       "romaji": "dake",
+       "gloss": "only, just",
+       "glossId": "hanya"
+      },
+      {
+       "surface": "見",
+       "pos": "verb",
+       "reading": "み",
+       "romaji": "mi",
+       "lemma": "見る",
+       "gloss": "to see, to look at",
+       "glossId": "melihat"
+      },
+      {
+       "surface": "られ",
+       "pos": "auxiliary",
+       "romaji": "rare",
+       "lemma": "られる",
+       "gloss": "potential/passive auxiliary (can ~ / is ~ed)",
+       "glossId": "auksiliari potensial/pasif (bisa ~ / di~)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "because, reason marker",
+       "glossId": "penanda alasan (karena)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "みんな",
+       "pos": "noun",
+       "romaji": "minna",
+       "gloss": "everyone",
+       "glossId": "semua orang"
+      },
+      {
+       "surface": "紅葉",
+       "pos": "noun",
+       "reading": "こうよう",
+       "romaji": "kouyou",
+       "gloss": "autumn leaves",
+       "glossId": "daun musim gugur"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "好き",
+       "pos": "adjective",
+       "reading": "すき",
+       "romaji": "suki",
+       "gloss": "to like, fond of",
+       "glossId": "suka"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Autumn leaves can only be seen in autumn, so everyone loves them.",
+     "translationId": "Karena daun musim gugur hanya bisa dilihat di musim gugur, semua orang menyukainya.",
+     "audioStart": 43.776,
+     "audioEnd": 49.776
+    },
+    {
+     "text": "来年もまた山へ行きたいです。",
+     "tokens": [
+      {
+       "surface": "来年",
+       "pos": "noun",
+       "reading": "らいねん",
+       "romaji": "rainen",
+       "gloss": "next year",
+       "glossId": "tahun depan"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "また",
+       "pos": "adverb",
+       "romaji": "mata",
+       "gloss": "again",
+       "glossId": "lagi"
+      },
+      {
+       "surface": "山",
+       "pos": "noun",
+       "reading": "やま",
+       "romaji": "yama",
+       "gloss": "mountain",
+       "glossId": "gunung"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "e",
+       "gloss": "direction particle (to, toward)",
+       "glossId": "partikel arah (ke)"
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desire form)",
+       "glossId": "ingin (bentuk keinginan)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I want to go to the mountains again next year.",
+     "translationId": "Saya ingin pergi ke gunung lagi tahun depan.",
+     "audioStart": 49.776,
+     "audioEnd": 53.544
+    }
+   ]
+  }
+ ]
+}

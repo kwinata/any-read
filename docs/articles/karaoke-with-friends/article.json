@@ -1,0 +1,1016 @@
+{
+ "schemaVersion": 1,
+ "id": "karaoke-with-friends",
+ "language": "ja",
+ "title": "友だちとカラオケ",
+ "titleTranslation": "Karaoke with Friends",
+ "titleTranslationId": "Karaoke Bersama Teman",
+ "level": "Beginner",
+ "summary": "The narrator describes going to karaoke with friends on Saturday, taking turns singing, enjoying drinks and snacks, and feeling refreshed and stress-free afterward.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T12:25:13+00:00",
+ "audioFile": "audio-0d46216b.mp3",
+ "voice": "ja-JP-NanamiNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "土曜日に、友だちとカラオケに行きました。",
+     "tokens": [
+      {
+       "surface": "土曜日",
+       "pos": "noun",
+       "reading": "どようび",
+       "romaji": "doyoubi",
+       "gloss": "Saturday",
+       "glossId": "hari Sabtu"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking time",
+       "glossId": "partikel penanda waktu"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "友だち",
+       "pos": "noun",
+       "reading": "ともだち",
+       "romaji": "tomodachi",
+       "gloss": "friend",
+       "glossId": "teman"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: with",
+       "glossId": "partikel: dengan"
+      },
+      {
+       "surface": "カラオケ",
+       "pos": "noun",
+       "romaji": "karaoke",
+       "gloss": "karaoke",
+       "glossId": "karaoke"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking time",
+       "glossId": "partikel penanda waktu"
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On Saturday, I went to karaoke with a friend.",
+     "translationId": "Pada hari Sabtu, saya pergi karaoke bersama teman.",
+     "audioStart": 0.0,
+     "audioEnd": 5.304
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "みんなで一緒に歌を歌いました。",
+     "tokens": [
+      {
+       "surface": "みんな",
+       "pos": "noun",
+       "romaji": "minna",
+       "gloss": "everyone",
+       "glossId": "semua orang"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking means/place of action",
+       "glossId": "partikel penanda cara/tempat berlangsungnya aksi"
+      },
+      {
+       "surface": "一緒",
+       "pos": "noun",
+       "reading": "いっしょ",
+       "romaji": "issho",
+       "gloss": "together",
+       "glossId": "bersama"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking time",
+       "glossId": "partikel penanda waktu"
+      },
+      {
+       "surface": "歌",
+       "pos": "noun",
+       "reading": "うた",
+       "romaji": "uta",
+       "gloss": "song",
+       "glossId": "lagu"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "歌い",
+       "pos": "verb",
+       "reading": "うたい",
+       "romaji": "utai",
+       "lemma": "歌う",
+       "gloss": "to sing",
+       "glossId": "bernyanyi"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "We all sang songs together.",
+     "translationId": "Kami semua bernyanyi bersama-sama.",
+     "audioStart": 5.304,
+     "audioEnd": 9.408
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "カラオケの部屋は、とても楽しいです。",
+     "tokens": [
+      {
+       "surface": "カラオケ",
+       "pos": "noun",
+       "romaji": "karaoke",
+       "gloss": "karaoke",
+       "glossId": "karaoke"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "nominalizer (turns verb into noun)",
+       "glossId": "penominal (mengubah kata kerja jadi kata benda)"
+      },
+      {
+       "surface": "部屋",
+       "pos": "noun",
+       "reading": "へや",
+       "romaji": "heya",
+       "gloss": "room",
+       "glossId": "kamar, ruangan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "楽しい",
+       "pos": "adjective",
+       "reading": "たのしい",
+       "romaji": "tanoshii",
+       "gloss": "fun, enjoyable",
+       "glossId": "menyenangkan"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is/am/are)",
+       "glossId": "kata kerja bantu sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The karaoke room is a lot of fun.",
+     "translationId": "Ruang karaoke sangat menyenangkan.",
+     "audioStart": 9.408,
+     "audioEnd": 14.328
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "好きな歌を選んで、順番に歌います。",
+     "tokens": [
+      {
+       "surface": "好き",
+       "pos": "adjective",
+       "reading": "すき",
+       "romaji": "suki",
+       "gloss": "fond of, like",
+       "glossId": "suka"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "plain copula (is/am/are)",
+       "glossId": "kata kerja bantu bentuk biasa (adalah)"
+      },
+      {
+       "surface": "歌",
+       "pos": "noun",
+       "reading": "うた",
+       "romaji": "uta",
+       "gloss": "song",
+       "glossId": "lagu"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "選ん",
+       "pos": "verb",
+       "reading": "えらん",
+       "romaji": "eran",
+       "lemma": "選ぶ",
+       "gloss": "to choose",
+       "glossId": "memilih"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking means/place of action",
+       "glossId": "partikel penanda cara/tempat berlangsungnya aksi"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "順番",
+       "pos": "noun",
+       "reading": "じゅんばん",
+       "romaji": "junban",
+       "gloss": "order, turn",
+       "glossId": "giliran, urutan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking time",
+       "glossId": "partikel penanda waktu"
+      },
+      {
+       "surface": "歌い",
+       "pos": "verb",
+       "reading": "うたい",
+       "romaji": "utai",
+       "lemma": "歌う",
+       "gloss": "to sing",
+       "glossId": "bernyanyi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "We choose songs we like and sing in turn.",
+     "translationId": "Kami memilih lagu yang disukai dan bernyanyi secara bergiliran.",
+     "audioStart": 14.328,
+     "audioEnd": 19.464
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "友だちの歌を聞くのも楽しいです。",
+     "tokens": [
+      {
+       "surface": "友だち",
+       "pos": "noun",
+       "reading": "ともだち",
+       "romaji": "tomodachi",
+       "gloss": "friend",
+       "glossId": "teman"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "nominalizer (turns verb into noun)",
+       "glossId": "penominal (mengubah kata kerja jadi kata benda)"
+      },
+      {
+       "surface": "歌",
+       "pos": "noun",
+       "reading": "うた",
+       "romaji": "uta",
+       "gloss": "song",
+       "glossId": "lagu"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "聞く",
+       "pos": "verb",
+       "reading": "きく",
+       "romaji": "kiku",
+       "gloss": "to listen, to hear",
+       "glossId": "mendengar"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "nominalizer (turns verb into noun)",
+       "glossId": "penominal (mengubah kata kerja jadi kata benda)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "楽しい",
+       "pos": "adjective",
+       "reading": "たのしい",
+       "romaji": "tanoshii",
+       "gloss": "fun, enjoyable",
+       "glossId": "menyenangkan"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is/am/are)",
+       "glossId": "kata kerja bantu sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Listening to my friends sing is also fun.",
+     "translationId": "Mendengarkan teman bernyanyi juga menyenangkan.",
+     "audioStart": 19.464,
+     "audioEnd": 23.928
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "時々、みんなで一緒に歌います。",
+     "tokens": [
+      {
+       "surface": "時々",
+       "pos": "noun",
+       "reading": "ときどき",
+       "romaji": "tokidoki",
+       "gloss": "sometimes",
+       "glossId": "kadang-kadang"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "みんな",
+       "pos": "noun",
+       "romaji": "minna",
+       "gloss": "everyone",
+       "glossId": "semua orang"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking means/place of action",
+       "glossId": "partikel penanda cara/tempat berlangsungnya aksi"
+      },
+      {
+       "surface": "一緒",
+       "pos": "noun",
+       "reading": "いっしょ",
+       "romaji": "issho",
+       "gloss": "together",
+       "glossId": "bersama"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking time",
+       "glossId": "partikel penanda waktu"
+      },
+      {
+       "surface": "歌い",
+       "pos": "verb",
+       "reading": "うたい",
+       "romaji": "utai",
+       "lemma": "歌う",
+       "gloss": "to sing",
+       "glossId": "bernyanyi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Sometimes we all sing together.",
+     "translationId": "Kadang-kadang, kami semua bernyanyi bersama.",
+     "audioStart": 23.928,
+     "audioEnd": 28.56
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "カラオケでは、ジュースやお菓子も食べられます。",
+     "tokens": [
+      {
+       "surface": "カラオケ",
+       "pos": "noun",
+       "romaji": "karaoke",
+       "gloss": "karaoke",
+       "glossId": "karaoke"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking means/place of action",
+       "glossId": "partikel penanda cara/tempat berlangsungnya aksi"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ジュース",
+       "pos": "noun",
+       "romaji": "juusu",
+       "gloss": "juice",
+       "glossId": "jus"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "non-exhaustive listing particle: and (among others)",
+       "glossId": "partikel penghubung tidak lengkap: dan (antara lain)"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "菓子",
+       "pos": "noun",
+       "reading": "かし",
+       "romaji": "kashi",
+       "gloss": "sweets, snacks",
+       "glossId": "camilan, kue"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "られ",
+       "pos": "auxiliary",
+       "romaji": "rare",
+       "lemma": "られる",
+       "gloss": "potential/passive auxiliary: can be ~",
+       "glossId": "bentuk potensial/pasif: bisa di~"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "At karaoke, you can also have juice and snacks.",
+     "translationId": "Di karaoke, kita juga bisa minum jus dan makan camilan.",
+     "audioStart": 28.56,
+     "audioEnd": 34.104
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "歌いながら、飲み物を飲みます。",
+     "tokens": [
+      {
+       "surface": "歌い",
+       "pos": "verb",
+       "reading": "うたい",
+       "romaji": "utai",
+       "lemma": "歌う",
+       "gloss": "to sing",
+       "glossId": "bernyanyi"
+      },
+      {
+       "surface": "ながら",
+       "pos": "particle",
+       "romaji": "nagara",
+       "gloss": "while (doing)",
+       "glossId": "sambil"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "飲み物",
+       "pos": "noun",
+       "reading": "のみもの",
+       "romaji": "nomimono",
+       "gloss": "drink, beverage",
+       "glossId": "minuman"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "飲み",
+       "pos": "verb",
+       "reading": "のみ",
+       "romaji": "nomi",
+       "lemma": "飲む",
+       "gloss": "to drink",
+       "glossId": "minum"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "While singing, we drink beverages.",
+     "translationId": "Sambil bernyanyi, kami minum minuman.",
+     "audioStart": 34.104,
+     "audioEnd": 38.496
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "のどが渇いたら、水を飲みます。",
+     "tokens": [
+      {
+       "surface": "のど",
+       "pos": "noun",
+       "romaji": "nodo",
+       "gloss": "throat",
+       "glossId": "tenggorokan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "渇い",
+       "pos": "verb",
+       "reading": "かわい",
+       "romaji": "kawai",
+       "lemma": "渇く",
+       "gloss": "to become thirsty",
+       "glossId": "menjadi haus"
+      },
+      {
+       "surface": "たら",
+       "pos": "auxiliary",
+       "romaji": "tara",
+       "lemma": "た",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "水",
+       "pos": "noun",
+       "reading": "みず",
+       "romaji": "mizu",
+       "gloss": "water",
+       "glossId": "air"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "飲み",
+       "pos": "verb",
+       "reading": "のみ",
+       "romaji": "nomi",
+       "lemma": "飲む",
+       "gloss": "to drink",
+       "glossId": "minum"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When we get thirsty, we drink water.",
+     "translationId": "Kalau haus, kami minum air putih.",
+     "audioStart": 38.496,
+     "audioEnd": 42.984
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "カラオケに行くと、ストレスがなくなります。",
+     "tokens": [
+      {
+       "surface": "カラオケ",
+       "pos": "noun",
+       "romaji": "karaoke",
+       "gloss": "karaoke",
+       "glossId": "karaoke"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking time",
+       "glossId": "partikel penanda waktu"
+      },
+      {
+       "surface": "行く",
+       "pos": "verb",
+       "reading": "いく",
+       "romaji": "iku",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: with",
+       "glossId": "partikel: dengan"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ストレス",
+       "pos": "noun",
+       "romaji": "sutoresu",
+       "gloss": "stress",
+       "glossId": "stres"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "なくなり",
+       "pos": "verb",
+       "romaji": "nakunari",
+       "lemma": "なくなる",
+       "gloss": "to disappear, to be gone",
+       "glossId": "menghilang, hilang"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Going to karaoke makes my stress disappear.",
+     "translationId": "Kalau pergi karaoke, stres jadi hilang.",
+     "audioStart": 42.984,
+     "audioEnd": 48.072
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "大きい声で歌うと、気持ちがいいです。",
+     "tokens": [
+      {
+       "surface": "大きい",
+       "pos": "adjective",
+       "reading": "おおきい",
+       "romaji": "ookii",
+       "gloss": "big, loud",
+       "glossId": "besar, keras"
+      },
+      {
+       "surface": "声",
+       "pos": "noun",
+       "reading": "こえ",
+       "romaji": "koe",
+       "gloss": "voice",
+       "glossId": "suara"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking means/place of action",
+       "glossId": "partikel penanda cara/tempat berlangsungnya aksi"
+      },
+      {
+       "surface": "歌う",
+       "pos": "verb",
+       "reading": "うたう",
+       "romaji": "utau",
+       "gloss": "to sing",
+       "glossId": "bernyanyi"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: with",
+       "glossId": "partikel: dengan"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "気持ち",
+       "pos": "noun",
+       "reading": "きもち",
+       "romaji": "kimochi",
+       "gloss": "feeling",
+       "glossId": "perasaan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good",
+       "glossId": "bagus, enak"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is/am/are)",
+       "glossId": "kata kerja bantu sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Singing loudly feels great.",
+     "translationId": "Bernyanyi dengan suara keras membuat perasaan jadi lega.",
+     "audioStart": 48.072,
+     "audioEnd": 53.136
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "また友だちとカラオケに行きたいです。",
+     "tokens": [
+      {
+       "surface": "また",
+       "pos": "conjunction",
+       "romaji": "mata",
+       "gloss": "again",
+       "glossId": "lagi"
+      },
+      {
+       "surface": "友だち",
+       "pos": "noun",
+       "reading": "ともだち",
+       "romaji": "tomodachi",
+       "gloss": "friend",
+       "glossId": "teman"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: with",
+       "glossId": "partikel: dengan"
+      },
+      {
+       "surface": "カラオケ",
+       "pos": "noun",
+       "romaji": "karaoke",
+       "gloss": "karaoke",
+       "glossId": "karaoke"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking time",
+       "glossId": "partikel penanda waktu"
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desire suffix)",
+       "glossId": "akhiran keinginan: ingin"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is/am/are)",
+       "glossId": "kata kerja bantu sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I want to go to karaoke with my friends again.",
+     "translationId": "Saya ingin pergi karaoke bersama teman lagi.",
+     "audioStart": 53.136,
+     "audioEnd": 57.84
+    }
+   ]
+  }
+ ]
+}

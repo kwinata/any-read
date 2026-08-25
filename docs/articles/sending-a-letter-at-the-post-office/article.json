@@ -1,0 +1,942 @@
+{
+ "schemaVersion": 1,
+ "id": "sending-a-letter-at-the-post-office",
+ "language": "ja",
+ "title": "ゆうびんきょくで てがみを だします",
+ "titleTranslation": "Sending a Letter at the Post Office",
+ "titleTranslationId": "Mengirim Surat di Kantor Pos",
+ "level": "Beginner",
+ "summary": "The narrator visits the post office to buy a stamp, mail a letter to a friend, and enjoys the experience of handwriting despite having to wait a little.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T12:23:05+00:00",
+ "audioFile": "audio-0461efcf.mp3",
+ "voice": "ja-JP-NanamiNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "きょう、ゆうびんきょくに いきました。",
+     "tokens": [
+      {
+       "surface": "きょう",
+       "pos": "noun",
+       "romaji": "kyou",
+       "gloss": "today",
+       "glossId": "hari ini"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ゆうびん",
+       "pos": "noun",
+       "romaji": "yuubin",
+       "gloss": "mail, postal",
+       "glossId": "pos, surat-menyurat"
+      },
+      {
+       "surface": "きょく",
+       "pos": "noun",
+       "romaji": "kyoku",
+       "gloss": "office, bureau",
+       "glossId": "kantor, biro"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: marks destination/target",
+       "glossId": "partikel: penanda arah/tujuan"
+      },
+      {
+       "surface": "いき",
+       "pos": "verb",
+       "romaji": "iki",
+       "lemma": "いく",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense suffix",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Today, I went to the post office.",
+     "translationId": "Hari ini, saya pergi ke kantor pos.",
+     "audioStart": 0.0,
+     "audioEnd": 4.128
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ともだちに てがみを かきました。",
+     "tokens": [
+      {
+       "surface": "ともだち",
+       "pos": "noun",
+       "romaji": "tomodachi",
+       "gloss": "friend",
+       "glossId": "teman"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: marks destination/target",
+       "glossId": "partikel: penanda arah/tujuan"
+      },
+      {
+       "surface": "てがみ",
+       "pos": "noun",
+       "romaji": "tegami",
+       "gloss": "letter",
+       "glossId": "surat"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "direct object marker",
+       "glossId": "penanda objek langsung"
+      },
+      {
+       "surface": "かき",
+       "pos": "verb",
+       "romaji": "kaki",
+       "lemma": "かく",
+       "gloss": "to write",
+       "glossId": "menulis"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense suffix",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I wrote a letter to my friend.",
+     "translationId": "Saya menulis surat untuk teman saya.",
+     "audioStart": 4.128,
+     "audioEnd": 7.992
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "まど口で きってを かいます。",
+     "tokens": [
+      {
+       "surface": "ま",
+       "pos": "interjection",
+       "romaji": "ma",
+       "gloss": "part of \"window\" (まど)",
+       "glossId": "bagian dari kata 'jendela' (まど)"
+      },
+      {
+       "surface": "ど",
+       "pos": "prefix",
+       "romaji": "do",
+       "gloss": "part of \"window\" (まど)",
+       "glossId": "bagian dari kata 'jendela' (まど)"
+      },
+      {
+       "surface": "口",
+       "pos": "noun",
+       "reading": "くち",
+       "romaji": "kuchi",
+       "gloss": "opening, counter/window",
+       "glossId": "lubang, loket"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: marks location of action or means",
+       "glossId": "partikel: penanda lokasi kegiatan atau cara"
+      },
+      {
+       "surface": "きっ",
+       "pos": "verb",
+       "romaji": "kitsu",
+       "lemma": "きる",
+       "gloss": "to cut (root of 切手 'stamp')",
+       "glossId": "memotong (asal kata 切手 'perangko')"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "hand",
+       "glossId": "tangan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "direct object marker",
+       "glossId": "penanda objek langsung"
+      },
+      {
+       "surface": "かい",
+       "pos": "verb",
+       "romaji": "kai",
+       "lemma": "かう",
+       "gloss": "to buy",
+       "glossId": "membeli"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I buy a stamp at the counter.",
+     "translationId": "Saya membeli perangko di loket.",
+     "audioStart": 7.992,
+     "audioEnd": 11.712
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "きってを てがみに はります。",
+     "tokens": [
+      {
+       "surface": "きっ",
+       "pos": "verb",
+       "romaji": "kitsu",
+       "lemma": "きる",
+       "gloss": "to cut (root of 切手 'stamp')",
+       "glossId": "memotong (asal kata 切手 'perangko')"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "hand",
+       "glossId": "tangan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "direct object marker",
+       "glossId": "penanda objek langsung"
+      },
+      {
+       "surface": "てがみ",
+       "pos": "noun",
+       "romaji": "tegami",
+       "gloss": "letter",
+       "glossId": "surat"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: marks destination/target",
+       "glossId": "partikel: penanda arah/tujuan"
+      },
+      {
+       "surface": "はり",
+       "pos": "auxiliary",
+       "romaji": "hari",
+       "lemma": "はる",
+       "gloss": "to stick, to paste",
+       "glossId": "menempel"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I stick the stamp on the letter.",
+     "translationId": "Saya menempelkan perangko pada surat.",
+     "audioStart": 11.712,
+     "audioEnd": 15.264
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "それから、ポストに いれます。",
+     "tokens": [
+      {
+       "surface": "それ",
+       "pos": "pronoun",
+       "romaji": "sore",
+       "gloss": "that",
+       "glossId": "itu"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from, after that",
+       "glossId": "dari, setelah itu"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ポスト",
+       "pos": "noun",
+       "romaji": "posuto",
+       "gloss": "mailbox, postbox",
+       "glossId": "kotak pos"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: marks destination/target",
+       "glossId": "partikel: penanda arah/tujuan"
+      },
+      {
+       "surface": "いれ",
+       "pos": "verb",
+       "romaji": "ire",
+       "lemma": "いれる",
+       "gloss": "to put in",
+       "glossId": "memasukkan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Then, I put it in the mailbox.",
+     "translationId": "Setelah itu, saya memasukkannya ke kotak pos.",
+     "audioStart": 15.264,
+     "audioEnd": 19.344
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ゆうびんきょくは えきの ちかくに あります。",
+     "tokens": [
+      {
+       "surface": "ゆうびん",
+       "pos": "noun",
+       "romaji": "yuubin",
+       "gloss": "mail, postal",
+       "glossId": "pos, surat-menyurat"
+      },
+      {
+       "surface": "きょく",
+       "pos": "noun",
+       "romaji": "kyoku",
+       "gloss": "office, bureau",
+       "glossId": "kantor, biro"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "えき",
+       "pos": "noun",
+       "romaji": "eki",
+       "gloss": "station",
+       "glossId": "stasiun"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "ちかく",
+       "pos": "adjective",
+       "romaji": "chikaku",
+       "lemma": "ちかい",
+       "gloss": "near, close",
+       "glossId": "dekat"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: marks destination/target",
+       "glossId": "partikel: penanda arah/tujuan"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (for things)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The post office is near the station.",
+     "translationId": "Kantor pos itu ada di dekat stasiun.",
+     "audioStart": 19.344,
+     "audioEnd": 23.808
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ひとが おおくて、すこし まちました。",
+     "tokens": [
+      {
+       "surface": "ひと",
+       "pos": "noun",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "おおく",
+       "pos": "adjective",
+       "romaji": "ooku",
+       "lemma": "おおい",
+       "gloss": "many, a lot",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "hand",
+       "glossId": "tangan"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "すこし",
+       "pos": "adverb",
+       "romaji": "sukoshi",
+       "gloss": "a little, a few",
+       "glossId": "sedikit"
+      },
+      {
+       "surface": "まち",
+       "pos": "verb",
+       "romaji": "machi",
+       "lemma": "まつ",
+       "gloss": "to wait",
+       "glossId": "menunggu"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense suffix",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There were a lot of people, so I waited a little.",
+     "translationId": "Karena banyak orang, saya menunggu sebentar.",
+     "audioStart": 23.808,
+     "audioEnd": 28.224
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "でも、しんせつな ひとが てつだって くれました。",
+     "tokens": [
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: marks location of action or means",
+       "glossId": "partikel: penanda lokasi kegiatan atau cara"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "しんせつ",
+       "pos": "noun",
+       "romaji": "shinsetsu",
+       "gloss": "kind, friendly",
+       "glossId": "baik hati, ramah"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula, plain form of 'to be'",
+       "glossId": "kopula bentuk biasa (adalah)"
+      },
+      {
+       "surface": "ひと",
+       "pos": "noun",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "てつだっ",
+       "pos": "verb",
+       "romaji": "tetsudatsu",
+       "lemma": "てつだう",
+       "gloss": "to help",
+       "glossId": "membantu"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "hand",
+       "glossId": "tangan"
+      },
+      {
+       "surface": "くれ",
+       "pos": "verb",
+       "romaji": "kure",
+       "lemma": "くれる",
+       "gloss": "to give (to me)",
+       "glossId": "memberi (kepada saya)"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense suffix",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "But a kind person helped me.",
+     "translationId": "Tapi, ada orang baik yang membantu saya.",
+     "audioStart": 28.224,
+     "audioEnd": 33.528
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "てがみは たのしいです。",
+     "tokens": [
+      {
+       "surface": "てがみ",
+       "pos": "noun",
+       "romaji": "tegami",
+       "gloss": "letter",
+       "glossId": "surat"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "たのしい",
+       "pos": "adjective",
+       "romaji": "tanoshii",
+       "gloss": "fun, enjoyable",
+       "glossId": "menyenangkan"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula, polite form of 'to be'",
+       "glossId": "kopula bentuk sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Letters are fun.",
+     "translationId": "Surat itu menyenangkan.",
+     "audioStart": 33.528,
+     "audioEnd": 36.768
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "てで じを かくのが すきだから、うれしいです。",
+     "tokens": [
+      {
+       "surface": "て",
+       "pos": "conjunction",
+       "romaji": "te",
+       "gloss": "hand",
+       "glossId": "tangan"
+      },
+      {
+       "surface": "で",
+       "pos": "conjunction",
+       "romaji": "de",
+       "gloss": "particle: marks location of action or means",
+       "glossId": "partikel: penanda lokasi kegiatan atau cara"
+      },
+      {
+       "surface": "じ",
+       "pos": "auxiliary",
+       "romaji": "ji",
+       "gloss": "character, written letter",
+       "glossId": "huruf, karakter tulisan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "direct object marker",
+       "glossId": "penanda objek langsung"
+      },
+      {
+       "surface": "かく",
+       "pos": "verb",
+       "romaji": "kaku",
+       "gloss": "to write",
+       "glossId": "menulis"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "すき",
+       "pos": "adjective",
+       "romaji": "suki",
+       "gloss": "to like, favorite",
+       "glossId": "suka"
+      },
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "copula, plain form of 'to be'",
+       "glossId": "kopula bentuk biasa (adalah)"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from, after that",
+       "glossId": "dari, setelah itu"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "うれしい",
+       "pos": "adjective",
+       "romaji": "ureshii",
+       "gloss": "happy, glad",
+       "glossId": "senang, bahagia"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula, polite form of 'to be'",
+       "glossId": "kopula bentuk sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I like writing characters by hand, so I'm happy.",
+     "translationId": "Saya suka menulis huruf dengan tangan, jadi saya senang.",
+     "audioStart": 36.768,
+     "audioEnd": 41.568
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ともだちも てがみを もらうと、よろこびます。",
+     "tokens": [
+      {
+       "surface": "ともだち",
+       "pos": "noun",
+       "romaji": "tomodachi",
+       "gloss": "friend",
+       "glossId": "teman"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "てがみ",
+       "pos": "noun",
+       "romaji": "tegami",
+       "gloss": "letter",
+       "glossId": "surat"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "direct object marker",
+       "glossId": "penanda objek langsung"
+      },
+      {
+       "surface": "もらう",
+       "pos": "verb",
+       "romaji": "morau",
+       "gloss": "to receive",
+       "glossId": "menerima"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: 'when/if' or quotation",
+       "glossId": "partikel: 'kalau/ketika' atau kutipan"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "よろこび",
+       "pos": "verb",
+       "romaji": "yorokobi",
+       "lemma": "よろこぶ",
+       "gloss": "to be pleased, to rejoice",
+       "glossId": "bergembira, senang"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "My friend is happy too when they receive a letter.",
+     "translationId": "Teman saya juga senang saat menerima surat.",
+     "audioStart": 41.568,
+     "audioEnd": 46.776
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "また らいしゅうも、てがみを だしたいです。",
+     "tokens": [
+      {
+       "surface": "また",
+       "pos": "conjunction",
+       "romaji": "mata",
+       "gloss": "again",
+       "glossId": "lagi"
+      },
+      {
+       "surface": "らいしゅう",
+       "pos": "noun",
+       "romaji": "raishuu",
+       "gloss": "next week",
+       "glossId": "minggu depan"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "てがみ",
+       "pos": "noun",
+       "romaji": "tegami",
+       "gloss": "letter",
+       "glossId": "surat"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "direct object marker",
+       "glossId": "penanda objek langsung"
+      },
+      {
+       "surface": "だし",
+       "pos": "verb",
+       "romaji": "dashi",
+       "lemma": "だす",
+       "gloss": "to send, to put out",
+       "glossId": "mengirim, mengeluarkan"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desire suffix)",
+       "glossId": "ingin (akhiran keinginan)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula, polite form of 'to be'",
+       "glossId": "kopula bentuk sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I want to send a letter again next week.",
+     "translationId": "Saya ingin mengirim surat lagi minggu depan.",
+     "audioStart": 46.776,
+     "audioEnd": 51.552
+    }
+   ]
+  }
+ ]
+}

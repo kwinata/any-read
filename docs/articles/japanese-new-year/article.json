@@ -1,0 +1,928 @@
+{
+ "schemaVersion": 1,
+ "id": "japanese-new-year",
+ "language": "ja",
+ "title": "日本のお正月",
+ "titleTranslation": "Japanese New Year",
+ "titleTranslationId": "Tahun Baru di Jepang",
+ "level": "Beginner",
+ "summary": "The article describes how Japanese people celebrate New Year by resting with family, eating mochi and ozoni, and visiting a shrine to pray for health and good fortune.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T12:27:04+00:00",
+ "audioFile": "audio-f26027fd.mp3",
+ "voice": "ja-JP-KeitaNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "1月1日は「お正月」です。",
+     "tokens": [
+      {
+       "surface": "1",
+       "pos": "noun",
+       "gloss": "one (number)",
+       "glossId": "satu (angka)"
+      },
+      {
+       "surface": "月",
+       "pos": "noun",
+       "reading": "がつ",
+       "romaji": "gatsu",
+       "gloss": "month / moon",
+       "glossId": "bulan"
+      },
+      {
+       "surface": "1日",
+       "pos": "noun",
+       "reading": "ついたち",
+       "romaji": "tsuitachi",
+       "gloss": "the 1st (day of month)",
+       "glossId": "tanggal 1"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "正月",
+       "pos": "noun",
+       "reading": "しょうがつ",
+       "romaji": "shougatsu",
+       "gloss": "New Year",
+       "glossId": "Tahun Baru"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula \"is\"",
+       "glossId": "kata bantu sopan \"adalah\""
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "January 1st is \"Oshogatsu\" (New Year).",
+     "translationId": "1 Januari adalah \"Oshogatsu\" (Tahun Baru).",
+     "audioStart": 0.0,
+     "audioEnd": 4.416
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "日本で一番大切な日です。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker \"at, in\"",
+       "glossId": "penanda lokasi/cara \"di\""
+      },
+      {
+       "surface": "一番",
+       "pos": "noun",
+       "reading": "いちばん",
+       "romaji": "ichiban",
+       "gloss": "the most / number one",
+       "glossId": "paling, nomor satu"
+      },
+      {
+       "surface": "大切",
+       "pos": "adjective",
+       "reading": "たいせつ",
+       "romaji": "taisetsu",
+       "gloss": "important",
+       "glossId": "penting"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula \"is\" (plain form)",
+       "glossId": "kata bantu \"adalah\" (bentuk biasa)"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "ひ",
+       "romaji": "hi",
+       "gloss": "day",
+       "glossId": "hari"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula \"is\"",
+       "glossId": "kata bantu sopan \"adalah\""
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is the most important day in Japan.",
+     "translationId": "Ini adalah hari paling penting di Jepang.",
+     "audioStart": 4.416,
+     "audioEnd": 8.184
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "お正月は家族と一緒に過ごします。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "正月",
+       "pos": "noun",
+       "reading": "しょうがつ",
+       "romaji": "shougatsu",
+       "gloss": "New Year",
+       "glossId": "Tahun Baru"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "家族",
+       "pos": "noun",
+       "reading": "かぞく",
+       "romaji": "kazoku",
+       "gloss": "family",
+       "glossId": "keluarga"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "with (particle)",
+       "glossId": "dengan (partikel)"
+      },
+      {
+       "surface": "一緒",
+       "pos": "noun",
+       "reading": "いっしょ",
+       "romaji": "issho",
+       "gloss": "together",
+       "glossId": "bersama"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/time particle",
+       "glossId": "partikel tujuan/waktu"
+      },
+      {
+       "surface": "過ごし",
+       "pos": "verb",
+       "reading": "すごし",
+       "romaji": "sugoshi",
+       "lemma": "過ごす",
+       "gloss": "to spend (time)",
+       "glossId": "menghabiskan (waktu)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "During New Year, people spend time together with family.",
+     "translationId": "Saat Tahun Baru, orang-orang menghabiskan waktu bersama keluarga.",
+     "audioStart": 8.184,
+     "audioEnd": 12.6
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "家でゆっくり休みます。",
+     "tokens": [
+      {
+       "surface": "家",
+       "pos": "noun",
+       "reading": "いえ",
+       "romaji": "ie",
+       "gloss": "house / home",
+       "glossId": "rumah"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker \"at, in\"",
+       "glossId": "penanda lokasi/cara \"di\""
+      },
+      {
+       "surface": "ゆっくり",
+       "pos": "adverb",
+       "romaji": "yukkuri",
+       "gloss": "leisurely, slowly",
+       "glossId": "santai, perlahan"
+      },
+      {
+       "surface": "休み",
+       "pos": "verb",
+       "reading": "やすみ",
+       "romaji": "yasumi",
+       "lemma": "休む",
+       "gloss": "to rest",
+       "glossId": "beristirahat"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They rest leisurely at home.",
+     "translationId": "Mereka beristirahat dengan santai di rumah.",
+     "audioStart": 12.6,
+     "audioEnd": 15.816
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "お正月にお餅を食べます。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "正月",
+       "pos": "noun",
+       "reading": "しょうがつ",
+       "romaji": "shougatsu",
+       "gloss": "New Year",
+       "glossId": "Tahun Baru"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/time particle",
+       "glossId": "partikel tujuan/waktu"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "餅",
+       "pos": "noun",
+       "reading": "もち",
+       "romaji": "mochi",
+       "gloss": "mochi (rice cake)",
+       "glossId": "mochi (kue beras)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They eat mochi at New Year.",
+     "translationId": "Mereka makan mochi saat Tahun Baru.",
+     "audioStart": 15.816,
+     "audioEnd": 19.416
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "お餅は白くて、丸いです。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "餅",
+       "pos": "noun",
+       "reading": "もち",
+       "romaji": "mochi",
+       "gloss": "mochi (rice cake)",
+       "glossId": "mochi (kue beras)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "白く",
+       "pos": "adjective",
+       "reading": "しろく",
+       "romaji": "shiroku",
+       "lemma": "白い",
+       "gloss": "white",
+       "glossId": "putih"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk-te"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "丸い",
+       "pos": "adjective",
+       "reading": "まるい",
+       "romaji": "marui",
+       "gloss": "round",
+       "glossId": "bulat"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula \"is\"",
+       "glossId": "kata bantu sopan \"adalah\""
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Mochi is white and round.",
+     "translationId": "Mochi berwarna putih dan bulat.",
+     "audioStart": 19.416,
+     "audioEnd": 23.472
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "お雑煮も食べます。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "雑煮",
+       "pos": "noun",
+       "reading": "ぞうに",
+       "romaji": "zouni",
+       "gloss": "ozoni (New Year soup)",
+       "glossId": "zoni (sup Tahun Baru)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They also eat ozoni.",
+     "translationId": "Mereka juga makan ozoni.",
+     "audioStart": 23.472,
+     "audioEnd": 26.304
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "お雑煮はお餅が入ったスープです。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "雑煮",
+       "pos": "noun",
+       "reading": "ぞうに",
+       "romaji": "zouni",
+       "gloss": "ozoni (New Year soup)",
+       "glossId": "zoni (sup Tahun Baru)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "餅",
+       "pos": "noun",
+       "reading": "もち",
+       "romaji": "mochi",
+       "gloss": "mochi (rice cake)",
+       "glossId": "mochi (kue beras)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "入っ",
+       "pos": "verb",
+       "reading": "はいっ",
+       "romaji": "hait",
+       "lemma": "入る",
+       "gloss": "to enter, be contained in",
+       "glossId": "masuk, berisi"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda lampau"
+      },
+      {
+       "surface": "スープ",
+       "pos": "noun",
+       "romaji": "suupu",
+       "gloss": "soup",
+       "glossId": "sup"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula \"is\"",
+       "glossId": "kata bantu sopan \"adalah\""
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Ozoni is a soup with mochi in it.",
+     "translationId": "Ozoni adalah sup yang berisi mochi.",
+     "audioStart": 26.304,
+     "audioEnd": 30.624
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "とても美味しいです。",
+     "tokens": [
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "美味しい",
+       "pos": "adjective",
+       "reading": "おいしい",
+       "romaji": "oishii",
+       "gloss": "delicious",
+       "glossId": "enak"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula \"is\"",
+       "glossId": "kata bantu sopan \"adalah\""
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is very delicious.",
+     "translationId": "Rasanya sangat enak.",
+     "audioStart": 30.624,
+     "audioEnd": 33.408
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "お正月に神社へ行きます。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "正月",
+       "pos": "noun",
+       "reading": "しょうがつ",
+       "romaji": "shougatsu",
+       "gloss": "New Year",
+       "glossId": "Tahun Baru"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "target/time particle",
+       "glossId": "partikel tujuan/waktu"
+      },
+      {
+       "surface": "神社",
+       "pos": "noun",
+       "reading": "じんじゃ",
+       "romaji": "jinja",
+       "gloss": "shrine",
+       "glossId": "kuil Shinto"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "e",
+       "gloss": "direction marker \"to\"",
+       "glossId": "penanda arah \"ke\""
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "At New Year, people go to a shrine.",
+     "translationId": "Saat Tahun Baru, orang-orang pergi ke kuil.",
+     "audioStart": 33.408,
+     "audioEnd": 36.912
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "これを「初詣」と言います。",
+     "tokens": [
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore",
+       "gloss": "this",
+       "glossId": "ini"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "初詣",
+       "pos": "noun",
+       "reading": "はつもうで",
+       "romaji": "hatsumoude",
+       "gloss": "first shrine visit of the new year",
+       "glossId": "kunjungan pertama ke kuil di tahun baru"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "with (particle)",
+       "glossId": "dengan (partikel)"
+      },
+      {
+       "surface": "言い",
+       "pos": "verb",
+       "reading": "いい",
+       "romaji": "ii",
+       "lemma": "言う",
+       "gloss": "to say, call",
+       "glossId": "mengatakan, menyebut"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "This is called \"hatsumode\".",
+     "translationId": "Ini disebut \"hatsumode\".",
+     "audioStart": 36.912,
+     "audioEnd": 40.704
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "神社で新しい年のお願いをします。",
+     "tokens": [
+      {
+       "surface": "神社",
+       "pos": "noun",
+       "reading": "じんじゃ",
+       "romaji": "jinja",
+       "gloss": "shrine",
+       "glossId": "kuil Shinto"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker \"at, in\"",
+       "glossId": "penanda lokasi/cara \"di\""
+      },
+      {
+       "surface": "新しい",
+       "pos": "adjective",
+       "reading": "あたらしい",
+       "romaji": "atarashii",
+       "gloss": "new",
+       "glossId": "baru"
+      },
+      {
+       "surface": "年",
+       "pos": "noun",
+       "reading": "とし",
+       "romaji": "toshi",
+       "gloss": "year",
+       "glossId": "tahun"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker",
+       "glossId": "penanda kepemilikan"
+      },
+      {
+       "surface": "お願い",
+       "pos": "noun",
+       "reading": "おねがい",
+       "romaji": "onegai",
+       "gloss": "wish, request",
+       "glossId": "permohonan, harapan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "At the shrine, they make wishes for the new year.",
+     "translationId": "Di kuil, mereka memanjatkan harapan untuk tahun baru.",
+     "audioStart": 40.704,
+     "audioEnd": 45.024
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "家族の健康を祈ります。",
+     "tokens": [
+      {
+       "surface": "家族",
+       "pos": "noun",
+       "reading": "かぞく",
+       "romaji": "kazoku",
+       "gloss": "family",
+       "glossId": "keluarga"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive marker",
+       "glossId": "penanda kepemilikan"
+      },
+      {
+       "surface": "健康",
+       "pos": "noun",
+       "reading": "けんこう",
+       "romaji": "kenkou",
+       "gloss": "health",
+       "glossId": "kesehatan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "祈り",
+       "pos": "verb",
+       "reading": "いのり",
+       "romaji": "inori",
+       "lemma": "祈る",
+       "gloss": "to pray",
+       "glossId": "berdoa"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They pray for their family's health.",
+     "translationId": "Mereka berdoa untuk kesehatan keluarga.",
+     "audioStart": 45.024,
+     "audioEnd": 48.504
+    }
+   ]
+  }
+ ]
+}

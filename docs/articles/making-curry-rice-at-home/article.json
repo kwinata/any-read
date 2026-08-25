@@ -1,0 +1,824 @@
+{
+ "schemaVersion": 1,
+ "id": "making-curry-rice-at-home",
+ "language": "ja",
+ "title": "家でカレーライスを作ります",
+ "titleTranslation": "Making Curry Rice at Home",
+ "titleTranslationId": "Membuat Nasi Kari di Rumah",
+ "level": "Beginner",
+ "summary": "The article explains how to make Japan's popular curry rice at home by cutting and cooking vegetables and meat, then serving it with hot rice.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T12:24:17+00:00",
+ "audioFile": "audio-8d51f0ab.mp3",
+ "voice": "ja-JP-NanamiNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "カレーライスは日本でとても人気があります。",
+     "tokens": [
+      {
+       "surface": "カレーライス",
+       "pos": "noun",
+       "romaji": "kareeraisu",
+       "gloss": "curry rice",
+       "glossId": "nasi kari"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker (at/with)",
+       "glossId": "penanda lokasi/cara (di, dengan)"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "人気",
+       "pos": "noun",
+       "reading": "にんき",
+       "romaji": "ninki",
+       "gloss": "popularity",
+       "glossId": "kepopuleran"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, to have (inanimate)",
+       "glossId": "ada, memiliki (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Curry rice is very popular in Japan.",
+     "translationId": "Nasi kari sangat populer di Jepang.",
+     "audioStart": 0.0,
+     "audioEnd": 5.136
+    },
+    {
+     "text": "家でよく作ります。",
+     "tokens": [
+      {
+       "surface": "家",
+       "pos": "noun",
+       "reading": "いえ",
+       "romaji": "ie",
+       "gloss": "house, home",
+       "glossId": "rumah"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker (at/with)",
+       "glossId": "penanda lokasi/cara (di, dengan)"
+      },
+      {
+       "surface": "よく",
+       "pos": "adverb",
+       "romaji": "yoku",
+       "gloss": "often",
+       "glossId": "sering"
+      },
+      {
+       "surface": "作り",
+       "pos": "verb",
+       "reading": "つくり",
+       "romaji": "tsukuri",
+       "lemma": "作る",
+       "gloss": "to make",
+       "glossId": "membuat"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I often make it at home.",
+     "translationId": "Saya sering membuatnya di rumah.",
+     "audioStart": 5.136,
+     "audioEnd": 8.352
+    },
+    {
+     "text": "作り方はかんたんです。",
+     "tokens": [
+      {
+       "surface": "作り方",
+       "pos": "noun",
+       "reading": "つくりかた",
+       "romaji": "tsukurikata",
+       "gloss": "how to make, recipe",
+       "glossId": "cara membuat"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "かんたん",
+       "pos": "adjective",
+       "romaji": "kantan",
+       "gloss": "easy, simple",
+       "glossId": "mudah"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The way to make it is easy.",
+     "translationId": "Cara membuatnya mudah.",
+     "audioStart": 8.352,
+     "audioEnd": 11.952
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "にんじんと、じゃがいもと、玉ねぎを切ります。",
+     "tokens": [
+      {
+       "surface": "にんじん",
+       "pos": "noun",
+       "romaji": "ninjin",
+       "gloss": "carrot",
+       "glossId": "wortel"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and (connects nouns)",
+       "glossId": "dan (menghubungkan kata benda)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "じゃがいも",
+       "pos": "noun",
+       "romaji": "jagaimo",
+       "gloss": "potato",
+       "glossId": "kentang"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and (connects nouns)",
+       "glossId": "dan (menghubungkan kata benda)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "玉ねぎ",
+       "pos": "noun",
+       "reading": "たまねぎ",
+       "romaji": "tamanegi",
+       "gloss": "onion",
+       "glossId": "bawang bombay"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "切り",
+       "pos": "verb",
+       "reading": "きり",
+       "romaji": "kiri",
+       "lemma": "切る",
+       "gloss": "to cut",
+       "glossId": "memotong"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Cut carrots, potatoes, and onions.",
+     "translationId": "Potong wortel, kentang, dan bawang bombay.",
+     "audioStart": 11.952,
+     "audioEnd": 17.736
+    },
+    {
+     "text": "お肉も小さく切ります。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "肉",
+       "pos": "noun",
+       "reading": "にく",
+       "romaji": "niku",
+       "gloss": "meat",
+       "glossId": "daging"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too marker",
+       "glossId": "penanda 'juga'"
+      },
+      {
+       "surface": "小さく",
+       "pos": "adjective",
+       "reading": "ちいさく",
+       "romaji": "chiisaku",
+       "lemma": "小さい",
+       "gloss": "small",
+       "glossId": "kecil"
+      },
+      {
+       "surface": "切り",
+       "pos": "verb",
+       "reading": "きり",
+       "romaji": "kiri",
+       "lemma": "切る",
+       "gloss": "to cut",
+       "glossId": "memotong"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Cut the meat small too.",
+     "translationId": "Potong daging juga sampai kecil-kecil.",
+     "audioStart": 17.736,
+     "audioEnd": 21.432
+    },
+    {
+     "text": "やさいとお肉をなべで炒めます。",
+     "tokens": [
+      {
+       "surface": "やさい",
+       "pos": "noun",
+       "romaji": "yasai",
+       "gloss": "vegetable",
+       "glossId": "sayur"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and (connects nouns)",
+       "glossId": "dan (menghubungkan kata benda)"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "肉",
+       "pos": "noun",
+       "reading": "にく",
+       "romaji": "niku",
+       "gloss": "meat",
+       "glossId": "daging"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "なべ",
+       "pos": "noun",
+       "romaji": "nabe",
+       "gloss": "pot",
+       "glossId": "panci"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker (at/with)",
+       "glossId": "penanda lokasi/cara (di, dengan)"
+      },
+      {
+       "surface": "炒め",
+       "pos": "verb",
+       "reading": "いため",
+       "romaji": "itame",
+       "lemma": "炒める",
+       "gloss": "to stir-fry",
+       "glossId": "menumis"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Stir-fry the vegetables and meat in a pot.",
+     "translationId": "Tumis sayur dan daging di panci.",
+     "audioStart": 21.432,
+     "audioEnd": 25.632
+    },
+    {
+     "text": "水を入れて、にこみます。",
+     "tokens": [
+      {
+       "surface": "水",
+       "pos": "noun",
+       "reading": "みず",
+       "romaji": "mizu",
+       "gloss": "water",
+       "glossId": "air"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "入れ",
+       "pos": "verb",
+       "reading": "いれ",
+       "romaji": "ire",
+       "lemma": "入れる",
+       "gloss": "to put in, add",
+       "glossId": "memasukkan"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk -te"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "にこみ",
+       "pos": "verb",
+       "romaji": "nikomi",
+       "lemma": "にこむ",
+       "gloss": "to simmer",
+       "glossId": "merebus, memasak dengan api kecil"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Add water and simmer it.",
+     "translationId": "Masukkan air, lalu rebus.",
+     "audioStart": 25.632,
+     "audioEnd": 29.448
+    },
+    {
+     "text": "やわらかくなったら、カレールーを入れます。",
+     "tokens": [
+      {
+       "surface": "やわらかく",
+       "pos": "adjective",
+       "romaji": "yawarakaku",
+       "lemma": "やわらかい",
+       "gloss": "soft",
+       "glossId": "lembut, empuk"
+      },
+      {
+       "surface": "なっ",
+       "pos": "verb",
+       "romaji": "natsu",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "たら",
+       "pos": "auxiliary",
+       "romaji": "tara",
+       "lemma": "た",
+       "gloss": "past tense ending",
+       "glossId": "akhiran bentuk lampau"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "カレールー",
+       "pos": "noun",
+       "romaji": "kareeruu",
+       "gloss": "curry roux",
+       "glossId": "bumbu kari (roux)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "入れ",
+       "pos": "verb",
+       "reading": "いれ",
+       "romaji": "ire",
+       "lemma": "入れる",
+       "gloss": "to put in, add",
+       "glossId": "memasukkan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When it becomes soft, add the curry roux.",
+     "translationId": "Setelah menjadi empuk, masukkan bumbu kari.",
+     "audioStart": 29.448,
+     "audioEnd": 34.344
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "カレーはあついご飯といっしょに食べます。",
+     "tokens": [
+      {
+       "surface": "カレー",
+       "pos": "noun",
+       "romaji": "karee",
+       "gloss": "curry",
+       "glossId": "kari"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "あつい",
+       "pos": "adjective",
+       "romaji": "atsui",
+       "gloss": "hot",
+       "glossId": "panas"
+      },
+      {
+       "surface": "ご飯",
+       "pos": "noun",
+       "reading": "ごはん",
+       "romaji": "gohan",
+       "gloss": "rice, meal",
+       "glossId": "nasi"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and (connects nouns)",
+       "glossId": "dan (menghubungkan kata benda)"
+      },
+      {
+       "surface": "いっしょ",
+       "pos": "noun",
+       "romaji": "issho",
+       "gloss": "together",
+       "glossId": "bersama"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/point (with, at)",
+       "glossId": "partikel penanda sasaran/titik (bersama, pada)"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Curry is eaten together with hot rice.",
+     "translationId": "Kari dimakan bersama nasi panas.",
+     "audioStart": 34.344,
+     "audioEnd": 39.144
+    },
+    {
+     "text": "とてもおいしいです。",
+     "tokens": [
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "おいしい",
+       "pos": "adjective",
+       "romaji": "oishii",
+       "gloss": "delicious",
+       "glossId": "enak"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It's very delicious.",
+     "translationId": "Rasanya sangat enak.",
+     "audioStart": 39.144,
+     "audioEnd": 42.144
+    },
+    {
+     "text": "休みの日に、家族でよく食べます。",
+     "tokens": [
+      {
+       "surface": "休み",
+       "pos": "noun",
+       "reading": "やすみ",
+       "romaji": "yasumi",
+       "gloss": "holiday, day off",
+       "glossId": "libur"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle",
+       "glossId": "partikel kepemilikan/nominalisasi"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "ひ",
+       "romaji": "hi",
+       "gloss": "day",
+       "glossId": "hari"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/point (with, at)",
+       "glossId": "partikel penanda sasaran/titik (bersama, pada)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "家族",
+       "pos": "noun",
+       "reading": "かぞく",
+       "romaji": "kazoku",
+       "gloss": "family",
+       "glossId": "keluarga"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker (at/with)",
+       "glossId": "penanda lokasi/cara (di, dengan)"
+      },
+      {
+       "surface": "よく",
+       "pos": "adverb",
+       "romaji": "yoku",
+       "gloss": "often",
+       "glossId": "sering"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran sopan kata kerja"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On days off, my family often eats it together.",
+     "translationId": "Pada hari libur, keluarga saya sering makan ini bersama-sama.",
+     "audioStart": 42.144,
+     "audioEnd": 47.064
+    },
+    {
+     "text": "作るのも食べるのも楽しいです。",
+     "tokens": [
+      {
+       "surface": "作る",
+       "pos": "verb",
+       "reading": "つくる",
+       "romaji": "tsukuru",
+       "gloss": "to make",
+       "glossId": "membuat"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle",
+       "glossId": "partikel kepemilikan/nominalisasi"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too marker",
+       "glossId": "penanda 'juga'"
+      },
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/nominalizing particle",
+       "glossId": "partikel kepemilikan/nominalisasi"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too marker",
+       "glossId": "penanda 'juga'"
+      },
+      {
+       "surface": "楽しい",
+       "pos": "adjective",
+       "reading": "たのしい",
+       "romaji": "tanoshii",
+       "gloss": "fun, enjoyable",
+       "glossId": "menyenangkan"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Both making it and eating it are fun.",
+     "translationId": "Membuatnya maupun memakannya sama-sama menyenangkan.",
+     "audioStart": 47.064,
+     "audioEnd": 51.168
+    }
+   ]
+  }
+ ]
+}

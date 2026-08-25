@@ -1,0 +1,830 @@
+{
+ "schemaVersion": 1,
+ "id": "i-caught-a-cold",
+ "language": "ja",
+ "title": "風邪をひきました",
+ "titleTranslation": "I Caught a Cold",
+ "titleTranslationId": "Saya Terkena Flu",
+ "level": "Beginner",
+ "summary": "The narrator describes catching a cold, visiting the doctor, taking medicine, and resting in hopes of recovering quickly.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T12:24:34+00:00",
+ "audioFile": "audio-7e711724.mp3",
+ "voice": "ja-JP-NanamiNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "昨日から頭が痛いです。",
+     "tokens": [
+      {
+       "surface": "昨日",
+       "pos": "noun",
+       "reading": "きのう",
+       "romaji": "kinou",
+       "gloss": "yesterday",
+       "glossId": "kemarin"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from/since (particle)",
+       "glossId": "dari, sejak (partikel)"
+      },
+      {
+       "surface": "頭",
+       "pos": "noun",
+       "reading": "あたま",
+       "romaji": "atama",
+       "gloss": "head",
+       "glossId": "kepala"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "痛い",
+       "pos": "adjective",
+       "reading": "いたい",
+       "romaji": "itai",
+       "gloss": "painful, hurts",
+       "glossId": "sakit"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Since yesterday, I've had a headache.",
+     "translationId": "Sejak kemarin, kepala saya sakit.",
+     "audioStart": 0.0,
+     "audioEnd": 3.72
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "のども痛いです。",
+     "tokens": [
+      {
+       "surface": "のど",
+       "pos": "noun",
+       "romaji": "nodo",
+       "gloss": "throat",
+       "glossId": "tenggorokan"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too (particle)",
+       "glossId": "juga (partikel)"
+      },
+      {
+       "surface": "痛い",
+       "pos": "adjective",
+       "reading": "いたい",
+       "romaji": "itai",
+       "gloss": "painful, hurts",
+       "glossId": "sakit"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "My throat hurts too.",
+     "translationId": "Tenggorokan saya juga sakit.",
+     "audioStart": 3.72,
+     "audioEnd": 6.576
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "少し熱もあります。",
+     "tokens": [
+      {
+       "surface": "少し",
+       "pos": "adverb",
+       "reading": "すこし",
+       "romaji": "sukoshi",
+       "gloss": "a little",
+       "glossId": "sedikit"
+      },
+      {
+       "surface": "熱",
+       "pos": "noun",
+       "reading": "ねつ",
+       "romaji": "netsu",
+       "gloss": "fever",
+       "glossId": "demam"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too (particle)",
+       "glossId": "juga (partikel)"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, to have (inanimate)",
+       "glossId": "ada, memiliki (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I also have a slight fever.",
+     "translationId": "Saya juga sedikit demam.",
+     "audioStart": 6.576,
+     "audioEnd": 9.912
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "たぶん風邪をひきました。",
+     "tokens": [
+      {
+       "surface": "たぶん",
+       "pos": "adverb",
+       "romaji": "tabun",
+       "gloss": "probably",
+       "glossId": "mungkin"
+      },
+      {
+       "surface": "風邪",
+       "pos": "noun",
+       "reading": "かぜ",
+       "romaji": "kaze",
+       "gloss": "a cold (illness)",
+       "glossId": "flu, pilek"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "ひき",
+       "pos": "verb",
+       "romaji": "hiki",
+       "lemma": "ひく",
+       "gloss": "to catch (a cold)",
+       "glossId": "terkena (penyakit)"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I probably caught a cold.",
+     "translationId": "Sepertinya saya terkena flu.",
+     "audioStart": 9.912,
+     "audioEnd": 13.2
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "今日、病院へ行きました。",
+     "tokens": [
+      {
+       "surface": "今日",
+       "pos": "noun",
+       "reading": "きょう",
+       "romaji": "kyou",
+       "gloss": "today",
+       "glossId": "hari ini"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "病院",
+       "pos": "noun",
+       "reading": "びょういん",
+       "romaji": "byouin",
+       "gloss": "hospital",
+       "glossId": "rumah sakit"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "e",
+       "gloss": "direction marker (to)",
+       "glossId": "penanda arah (ke)"
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Today, I went to the hospital.",
+     "translationId": "Hari ini, saya pergi ke rumah sakit.",
+     "audioStart": 13.2,
+     "audioEnd": 17.016
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "お医者さんが私を見ました。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan hormat"
+      },
+      {
+       "surface": "医者",
+       "pos": "noun",
+       "reading": "いしゃ",
+       "romaji": "isha",
+       "gloss": "doctor",
+       "glossId": "dokter"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "polite title (Mr./Ms.)",
+       "glossId": "gelar hormat (Bapak/Ibu)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "私",
+       "pos": "pronoun",
+       "reading": "わたくし",
+       "romaji": "watakushi",
+       "gloss": "I, me",
+       "glossId": "saya"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "見",
+       "pos": "verb",
+       "reading": "み",
+       "romaji": "mi",
+       "lemma": "見る",
+       "gloss": "to see, to examine",
+       "glossId": "melihat, memeriksa"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The doctor examined me.",
+     "translationId": "Dokter memeriksa saya.",
+     "audioStart": 17.016,
+     "audioEnd": 20.784
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "「風邪ですね」と言いました。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "風邪",
+       "pos": "noun",
+       "reading": "かぜ",
+       "romaji": "kaze",
+       "gloss": "a cold (illness)",
+       "glossId": "flu, pilek"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "ね",
+       "pos": "particle",
+       "romaji": "ne",
+       "gloss": "sentence-ending particle (seeking agreement)",
+       "glossId": "partikel akhir kalimat (meminta persetujuan)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation marker",
+       "glossId": "penanda kutipan"
+      },
+      {
+       "surface": "言い",
+       "pos": "verb",
+       "reading": "いい",
+       "romaji": "ii",
+       "lemma": "言う",
+       "gloss": "to say",
+       "glossId": "berkata"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "\"It's a cold,\" they said.",
+     "translationId": "\"Ini flu, ya,\" katanya.",
+     "audioStart": 20.784,
+     "audioEnd": 24.504
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "そして、薬をくれました。",
+     "tokens": [
+      {
+       "surface": "そして",
+       "pos": "conjunction",
+       "romaji": "soshite",
+       "gloss": "and then",
+       "glossId": "lalu, kemudian"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "薬",
+       "pos": "noun",
+       "reading": "くすり",
+       "romaji": "kusuri",
+       "gloss": "medicine",
+       "glossId": "obat"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "くれ",
+       "pos": "verb",
+       "romaji": "kure",
+       "lemma": "くれる",
+       "gloss": "to give (to me)",
+       "glossId": "memberi (kepada saya)"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "And then, they gave me medicine.",
+     "translationId": "Lalu, dia memberi saya obat.",
+     "audioStart": 24.504,
+     "audioEnd": 28.536
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "家に帰って、すぐ薬を飲みました。",
+     "tokens": [
+      {
+       "surface": "家",
+       "pos": "noun",
+       "reading": "いえ",
+       "romaji": "ie",
+       "gloss": "house, home",
+       "glossId": "rumah"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/direction marker",
+       "glossId": "penanda lokasi/arah"
+      },
+      {
+       "surface": "帰っ",
+       "pos": "verb",
+       "reading": "かえっ",
+       "romaji": "kaet",
+       "lemma": "帰る",
+       "gloss": "to return home",
+       "glossId": "pulang"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "すぐ",
+       "pos": "adverb",
+       "romaji": "sugu",
+       "gloss": "immediately",
+       "glossId": "segera"
+      },
+      {
+       "surface": "薬",
+       "pos": "noun",
+       "reading": "くすり",
+       "romaji": "kusuri",
+       "gloss": "medicine",
+       "glossId": "obat"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "飲み",
+       "pos": "verb",
+       "reading": "のみ",
+       "romaji": "nomi",
+       "lemma": "飲む",
+       "gloss": "to drink",
+       "glossId": "minum"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I went home and immediately took the medicine.",
+     "translationId": "Setelah pulang ke rumah, saya langsung minum obat.",
+     "audioStart": 28.536,
+     "audioEnd": 33.576
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "それから、たくさん寝ました。",
+     "tokens": [
+      {
+       "surface": "それ",
+       "pos": "pronoun",
+       "romaji": "sore",
+       "gloss": "that",
+       "glossId": "itu"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from/since (particle)",
+       "glossId": "dari, sejak (partikel)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "寝",
+       "pos": "verb",
+       "reading": "ね",
+       "romaji": "ne",
+       "lemma": "寝る",
+       "gloss": "to sleep",
+       "glossId": "tidur"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "After that, I slept a lot.",
+     "translationId": "Setelah itu, saya tidur banyak.",
+     "audioStart": 33.576,
+     "audioEnd": 37.368
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "水もたくさん飲みました。",
+     "tokens": [
+      {
+       "surface": "水",
+       "pos": "noun",
+       "reading": "みず",
+       "romaji": "mizu",
+       "gloss": "water",
+       "glossId": "air"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too (particle)",
+       "glossId": "juga (partikel)"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "飲み",
+       "pos": "verb",
+       "reading": "のみ",
+       "romaji": "nomi",
+       "lemma": "飲む",
+       "gloss": "to drink",
+       "glossId": "minum"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I also drank a lot of water.",
+     "translationId": "Saya juga minum banyak air.",
+     "audioStart": 37.368,
+     "audioEnd": 40.824
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "早く元気になりたいです。",
+     "tokens": [
+      {
+       "surface": "早く",
+       "pos": "adjective",
+       "reading": "はやく",
+       "romaji": "hayaku",
+       "lemma": "早い",
+       "gloss": "early, fast",
+       "glossId": "cepat, awal"
+      },
+      {
+       "surface": "元気",
+       "pos": "noun",
+       "reading": "げんき",
+       "romaji": "genki",
+       "gloss": "healthy, energetic",
+       "glossId": "sehat, bugar"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "plain copula",
+       "glossId": "kopula biasa"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desire form)",
+       "glossId": "ingin (bentuk keinginan)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I want to get well soon.",
+     "translationId": "Saya ingin cepat sembuh.",
+     "audioStart": 40.824,
+     "audioEnd": 44.544
+    }
+   ]
+  }
+ ]
+}

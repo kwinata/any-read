@@ -1,0 +1,654 @@
+{
+ "schemaVersion": 1,
+ "id": "at-the-cafe-coffee-and-cake",
+ "language": "ja",
+ "title": "カフェで コーヒーと ケーキ",
+ "titleTranslation": "At the Cafe: Coffee and Cake",
+ "titleTranslationId": "Di Kafe: Kopi dan Kue",
+ "level": "Beginner",
+ "summary": "A person visits a small cafe on a hot day, orders coffee and cake, and enjoys a quiet moment looking out the window.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T12:22:44+00:00",
+ "audioFile": "audio-6d67a02b.mp3",
+ "voice": "ja-JP-NanamiNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "きょうは あついです。",
+     "tokens": [
+      {
+       "surface": "きょう",
+       "pos": "noun",
+       "romaji": "kyou",
+       "gloss": "today",
+       "glossId": "hari ini"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "あつい",
+       "pos": "adjective",
+       "romaji": "atsui",
+       "gloss": "hot (temperature)",
+       "glossId": "panas"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (\"is\")",
+       "glossId": "kopula sopan (\"adalah\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Today is hot.",
+     "translationId": "Hari ini panas.",
+     "audioStart": 0.0,
+     "audioEnd": 2.952
+    },
+    {
+     "text": "わたしは カフェに いきます。",
+     "tokens": [
+      {
+       "surface": "わたし",
+       "pos": "pronoun",
+       "romaji": "watashi",
+       "gloss": "I, me",
+       "glossId": "saya"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "カフェ",
+       "pos": "noun",
+       "romaji": "kafe",
+       "gloss": "cafe",
+       "glossId": "kafe"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "direction/location particle (\"to\")",
+       "glossId": "partikel arah/tujuan (\"ke\")"
+      },
+      {
+       "surface": "いき",
+       "pos": "verb",
+       "romaji": "iki",
+       "lemma": "いく",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I go to a cafe.",
+     "translationId": "Saya pergi ke kafe.",
+     "audioStart": 2.952,
+     "audioEnd": 6.528
+    },
+    {
+     "text": "ちいさい カフェです。",
+     "tokens": [
+      {
+       "surface": "ちいさい",
+       "pos": "adjective",
+       "romaji": "chiisai",
+       "gloss": "small",
+       "glossId": "kecil"
+      },
+      {
+       "surface": "カフェ",
+       "pos": "noun",
+       "romaji": "kafe",
+       "gloss": "cafe",
+       "glossId": "kafe"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (\"is\")",
+       "glossId": "kopula sopan (\"adalah\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It's a small cafe.",
+     "translationId": "Kafenya kecil.",
+     "audioStart": 6.528,
+     "audioEnd": 9.504
+    },
+    {
+     "text": "テーブルが みっつ あります。",
+     "tokens": [
+      {
+       "surface": "テーブル",
+       "pos": "noun",
+       "romaji": "teeburu",
+       "gloss": "table",
+       "glossId": "meja"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "みっ",
+       "pos": "noun",
+       "romaji": "mitsu",
+       "gloss": "(part of) three (みっつ)",
+       "glossId": "(bagian dari) tiga (みっつ)"
+      },
+      {
+       "surface": "つ",
+       "pos": "suffix",
+       "romaji": "tsu",
+       "gloss": "counter suffix (general counter)",
+       "glossId": "akhiran penghitung (penghitung umum)"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada, berada (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are three tables.",
+     "translationId": "Ada tiga meja.",
+     "audioStart": 9.504,
+     "audioEnd": 12.888
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "メニューを みます。",
+     "tokens": [
+      {
+       "surface": "メニュー",
+       "pos": "noun",
+       "romaji": "menyuu",
+       "gloss": "menu",
+       "glossId": "menu"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "み",
+       "pos": "verb",
+       "romaji": "mi",
+       "lemma": "みる",
+       "gloss": "to see, to look",
+       "glossId": "melihat"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I look at the menu.",
+     "translationId": "Saya melihat menu.",
+     "audioStart": 12.888,
+     "audioEnd": 15.624
+    },
+    {
+     "text": "コーヒーが すきです。",
+     "tokens": [
+      {
+       "surface": "コーヒー",
+       "pos": "noun",
+       "romaji": "koohii",
+       "gloss": "coffee",
+       "glossId": "kopi"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "すき",
+       "pos": "adjective",
+       "romaji": "suki",
+       "gloss": "liked, fond of",
+       "glossId": "suka"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (\"is\")",
+       "glossId": "kopula sopan (\"adalah\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I like coffee.",
+     "translationId": "Saya suka kopi.",
+     "audioStart": 15.624,
+     "audioEnd": 18.624
+    },
+    {
+     "text": "ケーキも たべたいです。",
+     "tokens": [
+      {
+       "surface": "ケーキ",
+       "pos": "noun",
+       "romaji": "keeki",
+       "gloss": "cake",
+       "glossId": "kue"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "たべ",
+       "pos": "verb",
+       "romaji": "tabe",
+       "lemma": "たべる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desire suffix)",
+       "glossId": "ingin (akhiran keinginan)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (\"is\")",
+       "glossId": "kopula sopan (\"adalah\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I want to eat cake too.",
+     "translationId": "Saya juga ingin makan kue.",
+     "audioStart": 18.624,
+     "audioEnd": 21.792
+    },
+    {
+     "text": "「コーヒーと ケーキを ください」と いいます。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "コーヒー",
+       "pos": "noun",
+       "romaji": "koohii",
+       "gloss": "coffee",
+       "glossId": "kopi"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle / \"and\"",
+       "glossId": "partikel kutipan / \"dan\""
+      },
+      {
+       "surface": "ケーキ",
+       "pos": "noun",
+       "romaji": "keeki",
+       "gloss": "cake",
+       "glossId": "kue"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる",
+       "gloss": "to give (polite, \"please give\")",
+       "glossId": "memberi (sopan, \"tolong berikan\")"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle / \"and\"",
+       "glossId": "partikel kutipan / \"dan\""
+      },
+      {
+       "surface": "いい",
+       "pos": "verb",
+       "romaji": "ii",
+       "lemma": "いう",
+       "gloss": "to say",
+       "glossId": "berkata"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I say, \"Coffee and cake, please.\"",
+     "translationId": "Saya berkata, \"Tolong kopi dan kue.\"",
+     "audioStart": 21.792,
+     "audioEnd": 26.616
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "コーヒーは あついです。",
+     "tokens": [
+      {
+       "surface": "コーヒー",
+       "pos": "noun",
+       "romaji": "koohii",
+       "gloss": "coffee",
+       "glossId": "kopi"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "あつい",
+       "pos": "adjective",
+       "romaji": "atsui",
+       "gloss": "hot (temperature)",
+       "glossId": "panas"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (\"is\")",
+       "glossId": "kopula sopan (\"adalah\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The coffee is hot.",
+     "translationId": "Kopinya panas.",
+     "audioStart": 26.616,
+     "audioEnd": 29.88
+    },
+    {
+     "text": "ケーキは あまくて おいしいです。",
+     "tokens": [
+      {
+       "surface": "ケーキ",
+       "pos": "noun",
+       "romaji": "keeki",
+       "gloss": "cake",
+       "glossId": "kue"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "あまく",
+       "pos": "adjective",
+       "romaji": "amaku",
+       "lemma": "あまい",
+       "gloss": "sweet",
+       "glossId": "manis"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (\"and\", te-form)",
+       "glossId": "partikel penghubung (\"dan\", bentuk te)"
+      },
+      {
+       "surface": "おいしい",
+       "pos": "adjective",
+       "romaji": "oishii",
+       "gloss": "delicious",
+       "glossId": "enak"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (\"is\")",
+       "glossId": "kopula sopan (\"adalah\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The cake is sweet and delicious.",
+     "translationId": "Kuenya manis dan enak.",
+     "audioStart": 29.88,
+     "audioEnd": 33.768
+    },
+    {
+     "text": "まどの そとを みながら のみます。",
+     "tokens": [
+      {
+       "surface": "ま",
+       "pos": "interjection",
+       "romaji": "ma",
+       "gloss": "(part of) window (まど)",
+       "glossId": "(bagian dari) jendela (まど)"
+      },
+      {
+       "surface": "どの",
+       "pos": "prenominal",
+       "romaji": "dono",
+       "gloss": "(part of) window (まど)",
+       "glossId": "(bagian dari) jendela (まど)"
+      },
+      {
+       "surface": "そと",
+       "pos": "noun",
+       "romaji": "soto",
+       "gloss": "outside",
+       "glossId": "luar"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "み",
+       "pos": "verb",
+       "romaji": "mi",
+       "lemma": "みる",
+       "gloss": "to see, to look",
+       "glossId": "melihat"
+      },
+      {
+       "surface": "ながら",
+       "pos": "particle",
+       "romaji": "nagara",
+       "gloss": "while (doing something)",
+       "glossId": "sambil"
+      },
+      {
+       "surface": "のみ",
+       "pos": "particle",
+       "romaji": "nomi",
+       "gloss": "(stem of) to drink (のむ)",
+       "glossId": "(bentuk dasar) minum (のむ)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I drink while looking outside the window.",
+     "translationId": "Saya minum sambil melihat ke luar jendela.",
+     "audioStart": 33.768,
+     "audioEnd": 37.632
+    },
+    {
+     "text": "とても しずかで、いい じかんです。",
+     "tokens": [
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "しずか",
+       "pos": "adjective",
+       "romaji": "shizuka",
+       "gloss": "quiet",
+       "glossId": "tenang"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula (\"is\", plain form)",
+       "glossId": "kopula (\"adalah\", bentuk biasa)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good, nice",
+       "glossId": "bagus"
+      },
+      {
+       "surface": "じかん",
+       "pos": "noun",
+       "romaji": "jikan",
+       "gloss": "time",
+       "glossId": "waktu"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (\"is\")",
+       "glossId": "kopula sopan (\"adalah\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It's very quiet, a nice time.",
+     "translationId": "Sangat tenang, waktu yang menyenangkan.",
+     "audioStart": 37.632,
+     "audioEnd": 41.904
+    }
+   ]
+  }
+ ]
+}

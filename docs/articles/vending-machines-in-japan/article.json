@@ -1,0 +1,792 @@
+{
+ "schemaVersion": 1,
+ "id": "vending-machines-in-japan",
+ "language": "ja",
+ "title": "日本の自動販売機",
+ "titleTranslation": "Vending Machines in Japan",
+ "titleTranslationId": "Mesin Penjual Otomatis di Jepang",
+ "level": "Beginner",
+ "summary": "This article explains that vending machines are found everywhere in Japan and describes how to buy hot or cold drinks from them.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T12:25:13+00:00",
+ "audioFile": "audio-f320c5dd.mp3",
+ "voice": "ja-JP-KeitaNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "日本には自動販売機がたくさんあります。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time particle (in, at)",
+       "glossId": "partikel lokasi/waktu (di, pada)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "自動販売機",
+       "pos": "noun",
+       "reading": "じどうはんばいき",
+       "romaji": "jidouhanbaiki",
+       "gloss": "vending machine",
+       "glossId": "mesin penjual otomatis"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are many vending machines in Japan.",
+     "translationId": "Di Jepang ada banyak mesin penjual otomatis.",
+     "audioStart": 0.0,
+     "audioEnd": 4.8
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "街の中に自動販売機があります。",
+     "tokens": [
+      {
+       "surface": "街",
+       "pos": "noun",
+       "reading": "まち",
+       "romaji": "machi",
+       "gloss": "town, city",
+       "glossId": "kota"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/penjelas"
+      },
+      {
+       "surface": "中",
+       "pos": "noun",
+       "reading": "なか",
+       "romaji": "naka",
+       "gloss": "inside, middle",
+       "glossId": "dalam, tengah"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time particle (in, at)",
+       "glossId": "partikel lokasi/waktu (di, pada)"
+      },
+      {
+       "surface": "自動販売機",
+       "pos": "noun",
+       "reading": "じどうはんばいき",
+       "romaji": "jidouhanbaiki",
+       "gloss": "vending machine",
+       "glossId": "mesin penjual otomatis"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are vending machines in the city.",
+     "translationId": "Di dalam kota ada mesin penjual otomatis.",
+     "audioStart": 4.8,
+     "audioEnd": 9.12
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "駅にも自動販売機があります。",
+     "tokens": [
+      {
+       "surface": "駅",
+       "pos": "noun",
+       "reading": "えき",
+       "romaji": "eki",
+       "gloss": "station",
+       "glossId": "stasiun"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time particle (in, at)",
+       "glossId": "partikel lokasi/waktu (di, pada)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "自動販売機",
+       "pos": "noun",
+       "reading": "じどうはんばいき",
+       "romaji": "jidouhanbaiki",
+       "gloss": "vending machine",
+       "glossId": "mesin penjual otomatis"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are also vending machines at the station.",
+     "translationId": "Di stasiun juga ada mesin penjual otomatis.",
+     "audioStart": 9.12,
+     "audioEnd": 13.128
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "公園にもあります。",
+     "tokens": [
+      {
+       "surface": "公園",
+       "pos": "noun",
+       "reading": "こうえん",
+       "romaji": "kouen",
+       "gloss": "park",
+       "glossId": "taman"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time particle (in, at)",
+       "glossId": "partikel lokasi/waktu (di, pada)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are also some in the park.",
+     "translationId": "Di taman juga ada.",
+     "audioStart": 13.128,
+     "audioEnd": 15.96
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "自動販売機でジュースを買います。",
+     "tokens": [
+      {
+       "surface": "自動販売機",
+       "pos": "noun",
+       "reading": "じどうはんばいき",
+       "romaji": "jidouhanbaiki",
+       "gloss": "vending machine",
+       "glossId": "mesin penjual otomatis"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location of action particle (at, in)",
+       "glossId": "partikel tempat terjadinya aksi (di)"
+      },
+      {
+       "surface": "ジュース",
+       "pos": "noun",
+       "romaji": "juusu",
+       "gloss": "juice",
+       "glossId": "jus"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "買い",
+       "pos": "verb",
+       "reading": "かい",
+       "romaji": "kai",
+       "lemma": "買う",
+       "gloss": "to buy",
+       "glossId": "membeli"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You buy juice from a vending machine.",
+     "translationId": "Kita membeli jus di mesin penjual otomatis.",
+     "audioStart": 15.96,
+     "audioEnd": 19.944
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "お茶も買えます。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "polite prefix",
+       "glossId": "awalan sopan"
+      },
+      {
+       "surface": "茶",
+       "pos": "noun",
+       "reading": "ちゃ",
+       "romaji": "cha",
+       "gloss": "tea",
+       "glossId": "teh"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "買え",
+       "pos": "verb",
+       "reading": "かえ",
+       "romaji": "kae",
+       "lemma": "買える",
+       "gloss": "can buy (potential form)",
+       "glossId": "bisa membeli (bentuk potensial)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You can also buy tea.",
+     "translationId": "Teh juga bisa dibeli.",
+     "audioStart": 19.944,
+     "audioEnd": 22.488
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "コーヒーも買えます。",
+     "tokens": [
+      {
+       "surface": "コーヒー",
+       "pos": "noun",
+       "romaji": "koohii",
+       "gloss": "coffee",
+       "glossId": "kopi"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "買え",
+       "pos": "verb",
+       "reading": "かえ",
+       "romaji": "kae",
+       "lemma": "買える",
+       "gloss": "can buy (potential form)",
+       "glossId": "bisa membeli (bentuk potensial)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You can also buy coffee.",
+     "translationId": "Kopi juga bisa dibeli.",
+     "audioStart": 22.488,
+     "audioEnd": 25.224
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "冬はあたたかい飲み物があります。",
+     "tokens": [
+      {
+       "surface": "冬",
+       "pos": "noun",
+       "reading": "ふゆ",
+       "romaji": "fuyu",
+       "gloss": "winter",
+       "glossId": "musim dingin"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "あたたかい",
+       "pos": "adjective",
+       "romaji": "atatakai",
+       "gloss": "warm",
+       "glossId": "hangat"
+      },
+      {
+       "surface": "飲み物",
+       "pos": "noun",
+       "reading": "のみもの",
+       "romaji": "nomimono",
+       "gloss": "drink, beverage",
+       "glossId": "minuman"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In winter there are warm drinks.",
+     "translationId": "Di musim dingin ada minuman hangat.",
+     "audioStart": 25.224,
+     "audioEnd": 29.112
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "夏はつめたい飲み物があります。",
+     "tokens": [
+      {
+       "surface": "夏",
+       "pos": "noun",
+       "reading": "なつ",
+       "romaji": "natsu",
+       "gloss": "summer",
+       "glossId": "musim panas"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "つめたい",
+       "pos": "adjective",
+       "romaji": "tsumetai",
+       "gloss": "cold (to the touch)",
+       "glossId": "dingin (untuk benda/sentuhan)"
+      },
+      {
+       "surface": "飲み物",
+       "pos": "noun",
+       "reading": "のみもの",
+       "romaji": "nomimono",
+       "gloss": "drink, beverage",
+       "glossId": "minuman"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In summer there are cold drinks.",
+     "translationId": "Di musim panas ada minuman dingin.",
+     "audioStart": 29.112,
+     "audioEnd": 33.0
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "お金を入れます。",
+     "tokens": [
+      {
+       "surface": "お金",
+       "pos": "noun",
+       "reading": "おかね",
+       "romaji": "okane",
+       "gloss": "money",
+       "glossId": "uang"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "入れ",
+       "pos": "verb",
+       "reading": "いれ",
+       "romaji": "ire",
+       "lemma": "入れる",
+       "gloss": "to put in, insert",
+       "glossId": "memasukkan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You put in money.",
+     "translationId": "Kita memasukkan uang.",
+     "audioStart": 33.0,
+     "audioEnd": 35.64
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ボタンを押します。",
+     "tokens": [
+      {
+       "surface": "ボタン",
+       "pos": "noun",
+       "romaji": "botan",
+       "gloss": "button",
+       "glossId": "tombol"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "押し",
+       "pos": "verb",
+       "reading": "おし",
+       "romaji": "oshi",
+       "lemma": "押す",
+       "gloss": "to press",
+       "glossId": "menekan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You press a button.",
+     "translationId": "Kita menekan tombol.",
+     "audioStart": 35.64,
+     "audioEnd": 38.28
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "飲み物が出てきます。",
+     "tokens": [
+      {
+       "surface": "飲み物",
+       "pos": "noun",
+       "reading": "のみもの",
+       "romaji": "nomimono",
+       "gloss": "drink, beverage",
+       "glossId": "minuman"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "出",
+       "pos": "verb",
+       "reading": "で",
+       "romaji": "de",
+       "lemma": "出る",
+       "gloss": "to come out, exit",
+       "glossId": "keluar"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective verb form (te-form)",
+       "glossId": "bentuk penghubung kata kerja (te-form)"
+      },
+      {
+       "surface": "き",
+       "pos": "verb",
+       "romaji": "ki",
+       "lemma": "くる",
+       "gloss": "to come (auxiliary: to happen/emerge)",
+       "glossId": "datang (bantu: terjadi/muncul)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "A drink comes out.",
+     "translationId": "Minuman keluar.",
+     "audioStart": 38.28,
+     "audioEnd": 41.304
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "とても便利です。",
+     "tokens": [
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "便利",
+       "pos": "noun",
+       "reading": "べんり",
+       "romaji": "benri",
+       "gloss": "convenient",
+       "glossId": "praktis, nyaman"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is/am/are)",
+       "glossId": "kopula sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is very convenient.",
+     "translationId": "Sangat praktis.",
+     "audioStart": 41.304,
+     "audioEnd": 43.968
+    }
+   ]
+  }
+ ]
+}

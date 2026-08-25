@@ -88,10 +88,12 @@ Reply with ONLY a JSON object: {{"title": "...", "text": "..."}} where "text" us
     raise AssertionError("unreachable")
 
 
-_BEGINNER_RULES = """- "Beginner" means EASIER than JLPT N5: absolute first-steps Japanese.
-  Only the most common everyday vocabulary (roughly the first 150 words a learner meets),
-  only です/ます sentences in present or simple past, particles limited to は・が・を・に・で・と・も・か.
-  Sentences of 3-8 words each. 2-3 short paragraphs, about 8-12 sentences total is enough.
+_BEGINNER_RULES = """- "Beginner" means EASIER than JLPT N5 overall, but graded like a real easy reader:
+  very common everyday vocabulary (roughly the first 300 words a learner meets),
+  mostly です/ます sentences. Mixing in common higher-level grammar is fine when it is
+  natural (て-form, 〜たい, 〜から, 〜が/けど, 〜とき, 〜ながら) — the KEY constraint is that
+  every sentence stays SHORT: 3-10 words, one idea per sentence.
+  2-3 short paragraphs, about 8-12 sentences total is enough.
   Everyday kanji are fine (the app shows furigana), but keep the words themselves simple."""
 
 

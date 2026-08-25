@@ -1,0 +1,1073 @@
+{
+ "schemaVersion": 1,
+ "id": "bento",
+ "language": "ja",
+ "title": "お弁当",
+ "titleTranslation": "Bento",
+ "titleTranslationId": "Bekal Makan Siang",
+ "level": "Beginner",
+ "summary": "The article explains how Japanese people prepare or buy bento boxed lunches and why bento are an important part of daily life in Japan.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T12:25:01+00:00",
+ "audioFile": "audio-4fe22537.mp3",
+ "voice": "ja-JP-NanamiNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "お昼ごはんに、お弁当を食べます。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "昼",
+       "pos": "noun",
+       "reading": "ひる",
+       "romaji": "hiru",
+       "gloss": "noon, daytime",
+       "glossId": "siang"
+      },
+      {
+       "surface": "ごはん",
+       "pos": "noun",
+       "romaji": "gohan",
+       "gloss": "rice, meal",
+       "glossId": "nasi, makanan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking time/target",
+       "glossId": "partikel penanda waktu/tujuan"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "弁当",
+       "pos": "noun",
+       "reading": "べんとう",
+       "romaji": "bentou",
+       "gloss": "boxed lunch",
+       "glossId": "bekal makan siang"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja formal"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "At lunchtime, people eat bento.",
+     "translationId": "Saat makan siang, orang makan bekal.",
+     "audioStart": 0.0,
+     "audioEnd": 4.752
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "家で作る人も、買う人もいます。",
+     "tokens": [
+      {
+       "surface": "家",
+       "pos": "noun",
+       "reading": "いえ",
+       "romaji": "ie",
+       "gloss": "house, home",
+       "glossId": "rumah"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking location/means",
+       "glossId": "partikel penanda tempat/alat"
+      },
+      {
+       "surface": "作る",
+       "pos": "verb",
+       "reading": "つくる",
+       "romaji": "tsukuru",
+       "gloss": "to make",
+       "glossId": "membuat"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "partikel 'juga'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "買う",
+       "pos": "verb",
+       "reading": "かう",
+       "romaji": "kau",
+       "gloss": "to buy",
+       "glossId": "membeli"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "partikel 'juga'"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist, to be (animate)",
+       "glossId": "ada, berada (makhluk hidup)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja formal"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Some people make it at home, and some people buy it.",
+     "translationId": "Ada yang membuatnya di rumah, ada juga yang membelinya.",
+     "audioStart": 4.752,
+     "audioEnd": 9.456
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "お弁当を作るとき、朝早く起きます。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "弁当",
+       "pos": "noun",
+       "reading": "べんとう",
+       "romaji": "bentou",
+       "gloss": "boxed lunch",
+       "glossId": "bekal makan siang"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "作る",
+       "pos": "verb",
+       "reading": "つくる",
+       "romaji": "tsukuru",
+       "gloss": "to make",
+       "glossId": "membuat"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "when, time",
+       "glossId": "saat, waktu"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "朝",
+       "pos": "noun",
+       "reading": "あさ",
+       "romaji": "asa",
+       "gloss": "morning",
+       "glossId": "pagi"
+      },
+      {
+       "surface": "早く",
+       "pos": "adjective",
+       "reading": "はやく",
+       "romaji": "hayaku",
+       "lemma": "早い",
+       "gloss": "early",
+       "glossId": "awal, pagi-pagi"
+      },
+      {
+       "surface": "起き",
+       "pos": "verb",
+       "reading": "おき",
+       "romaji": "oki",
+       "lemma": "起きる",
+       "gloss": "to get up",
+       "glossId": "bangun tidur"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja formal"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When making bento, people get up early in the morning.",
+     "translationId": "Saat membuat bekal, mereka bangun pagi-pagi.",
+     "audioStart": 9.456,
+     "audioEnd": 14.832
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ごはんと、卵焼きと、野菜を入れます。",
+     "tokens": [
+      {
+       "surface": "ごはん",
+       "pos": "noun",
+       "romaji": "gohan",
+       "gloss": "rice, meal",
+       "glossId": "nasi, makanan"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "conditional particle 'if/when'",
+       "glossId": "partikel kondisional 'jika/ketika'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "卵焼き",
+       "pos": "noun",
+       "reading": "たまごやき",
+       "romaji": "tamagoyaki",
+       "gloss": "rolled omelette",
+       "glossId": "telur gulung"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "conditional particle 'if/when'",
+       "glossId": "partikel kondisional 'jika/ketika'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "野菜",
+       "pos": "noun",
+       "reading": "やさい",
+       "romaji": "yasai",
+       "gloss": "vegetable",
+       "glossId": "sayuran"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "入れ",
+       "pos": "verb",
+       "reading": "いれ",
+       "romaji": "ire",
+       "lemma": "入れる",
+       "gloss": "to put in",
+       "glossId": "memasukkan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja formal"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They put in rice, rolled egg, and vegetables.",
+     "translationId": "Mereka memasukkan nasi, telur gulung, dan sayuran.",
+     "audioStart": 14.832,
+     "audioEnd": 20.352
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "色がきれいだと、うれしいです。",
+     "tokens": [
+      {
+       "surface": "色",
+       "pos": "noun",
+       "reading": "いろ",
+       "romaji": "iro",
+       "gloss": "color",
+       "glossId": "warna"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "きれい",
+       "pos": "adjective",
+       "romaji": "kirei",
+       "gloss": "pretty, clean",
+       "glossId": "cantik, bersih"
+      },
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "copula 'is'",
+       "glossId": "kopula 'adalah'"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "conditional particle 'if/when'",
+       "glossId": "partikel kondisional 'jika/ketika'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "うれしい",
+       "pos": "adjective",
+       "romaji": "ureshii",
+       "gloss": "happy, glad",
+       "glossId": "senang"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula formal"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It's nice when the colors are pretty.",
+     "translationId": "Kalau warnanya bagus, rasanya senang.",
+     "audioStart": 20.352,
+     "audioEnd": 24.336
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "時間がないとき、大変です。",
+     "tokens": [
+      {
+       "surface": "時間",
+       "pos": "noun",
+       "reading": "じかん",
+       "romaji": "jikan",
+       "gloss": "time",
+       "glossId": "waktu"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "ない",
+       "pos": "adjective",
+       "romaji": "nai",
+       "gloss": "not exist, negative",
+       "glossId": "tidak ada, negatif"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "when, time",
+       "glossId": "saat, waktu"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "大変",
+       "pos": "adjective",
+       "reading": "たいへん",
+       "romaji": "taihen",
+       "gloss": "tough, hard",
+       "glossId": "berat, susah"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula formal"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When there's no time, it's hard.",
+     "translationId": "Saat tidak ada waktu, itu berat.",
+     "audioStart": 24.336,
+     "audioEnd": 28.656
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "コンビニでも、お弁当を買えます。",
+     "tokens": [
+      {
+       "surface": "コンビニ",
+       "pos": "noun",
+       "romaji": "konbini",
+       "gloss": "convenience store",
+       "glossId": "minimarket"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking location/means",
+       "glossId": "partikel penanda tempat/alat"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "partikel 'juga'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "弁当",
+       "pos": "noun",
+       "reading": "べんとう",
+       "romaji": "bentou",
+       "gloss": "boxed lunch",
+       "glossId": "bekal makan siang"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "買え",
+       "pos": "verb",
+       "reading": "かえ",
+       "romaji": "kae",
+       "lemma": "買える",
+       "gloss": "can buy (potential form)",
+       "glossId": "bisa membeli (bentuk potensial)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja formal"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You can buy bento at convenience stores too.",
+     "translationId": "Di minimarket pun, bekal bisa dibeli.",
+     "audioStart": 28.656,
+     "audioEnd": 32.88
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "スーパーやお弁当屋さんにも、たくさんあります。",
+     "tokens": [
+      {
+       "surface": "スーパー",
+       "pos": "noun",
+       "romaji": "suupaa",
+       "gloss": "supermarket",
+       "glossId": "supermarket"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "'and' (non-exhaustive listing)",
+       "glossId": "partikel 'dan' (daftar tidak lengkap)"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "弁当屋",
+       "pos": "noun",
+       "reading": "べんとうや",
+       "romaji": "bentouya",
+       "gloss": "bento shop",
+       "glossId": "toko bekal makan siang"
+      },
+      {
+       "surface": "さん",
+       "pos": "suffix",
+       "romaji": "san",
+       "gloss": "polite suffix for person/shop",
+       "glossId": "akhiran hormat untuk orang/toko"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking time/target",
+       "glossId": "partikel penanda waktu/tujuan"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "partikel 'juga'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada, berada (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja formal"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are also many at supermarkets and bento shops.",
+     "translationId": "Di supermarket dan toko bekal juga banyak tersedia.",
+     "audioStart": 32.88,
+     "audioEnd": 38.616
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "値段は安いから、便利です。",
+     "tokens": [
+      {
+       "surface": "値段",
+       "pos": "noun",
+       "reading": "ねだん",
+       "romaji": "nedan",
+       "gloss": "price",
+       "glossId": "harga"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "安い",
+       "pos": "adjective",
+       "reading": "やすい",
+       "romaji": "yasui",
+       "gloss": "cheap",
+       "glossId": "murah"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "because, since",
+       "glossId": "karena, sebab"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "便利",
+       "pos": "noun",
+       "reading": "べんり",
+       "romaji": "benri",
+       "gloss": "convenient",
+       "glossId": "praktis, berguna"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula formal"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Since the price is cheap, it's convenient.",
+     "translationId": "Karena harganya murah, itu praktis.",
+     "audioStart": 38.616,
+     "audioEnd": 42.936
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "忙しいとき、よく買います。",
+     "tokens": [
+      {
+       "surface": "忙しい",
+       "pos": "adjective",
+       "reading": "いそがしい",
+       "romaji": "isogashii",
+       "gloss": "busy",
+       "glossId": "sibuk"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "when, time",
+       "glossId": "saat, waktu"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "よく",
+       "pos": "adverb",
+       "romaji": "yoku",
+       "gloss": "often, well",
+       "glossId": "sering, dengan baik"
+      },
+      {
+       "surface": "買い",
+       "pos": "verb",
+       "reading": "かい",
+       "romaji": "kai",
+       "lemma": "買う",
+       "gloss": "to buy",
+       "glossId": "membeli"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja formal"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When busy, people often buy it.",
+     "translationId": "Saat sibuk, mereka sering membelinya.",
+     "audioStart": 42.936,
+     "audioEnd": 47.136
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "温かいお弁当も、冷たいお弁当も、あります。",
+     "tokens": [
+      {
+       "surface": "温かい",
+       "pos": "adjective",
+       "reading": "あたたかい",
+       "romaji": "atatakai",
+       "gloss": "warm",
+       "glossId": "hangat"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "弁当",
+       "pos": "noun",
+       "reading": "べんとう",
+       "romaji": "bentou",
+       "gloss": "boxed lunch",
+       "glossId": "bekal makan siang"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "partikel 'juga'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "冷たい",
+       "pos": "adjective",
+       "reading": "つめたい",
+       "romaji": "tsumetai",
+       "gloss": "cold",
+       "glossId": "dingin"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "弁当",
+       "pos": "noun",
+       "reading": "べんとう",
+       "romaji": "bentou",
+       "gloss": "boxed lunch",
+       "glossId": "bekal makan siang"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "partikel 'juga'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada, berada (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja formal"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are both warm bento and cold bento.",
+     "translationId": "Ada bekal yang hangat, ada juga yang dingin.",
+     "audioStart": 47.136,
+     "audioEnd": 53.304
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "電子レンジで、温めることができます。",
+     "tokens": [
+      {
+       "surface": "電子レンジ",
+       "pos": "noun",
+       "reading": "でんしれんじ",
+       "romaji": "denshirenji",
+       "gloss": "microwave oven",
+       "glossId": "microwave"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking location/means",
+       "glossId": "partikel penanda tempat/alat"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "温める",
+       "pos": "verb",
+       "reading": "あたためる",
+       "romaji": "atatameru",
+       "gloss": "to warm up",
+       "glossId": "menghangatkan"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer 'thing/act of'",
+       "glossId": "nominalisasi 'hal/perbuatan'"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "can do, possible",
+       "glossId": "bisa, dapat dilakukan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja formal"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You can warm it up in a microwave.",
+     "translationId": "Dengan microwave, bekal bisa dihangatkan.",
+     "audioStart": 53.304,
+     "audioEnd": 58.272
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "お弁当は、日本の生活に大切です。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "弁当",
+       "pos": "noun",
+       "reading": "べんとう",
+       "romaji": "bentou",
+       "gloss": "boxed lunch",
+       "glossId": "bekal makan siang"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle",
+       "glossId": "partikel kepemilikan"
+      },
+      {
+       "surface": "生活",
+       "pos": "noun",
+       "reading": "せいかつ",
+       "romaji": "seikatsu",
+       "gloss": "life, living",
+       "glossId": "kehidupan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking time/target",
+       "glossId": "partikel penanda waktu/tujuan"
+      },
+      {
+       "surface": "大切",
+       "pos": "adjective",
+       "reading": "たいせつ",
+       "romaji": "taisetsu",
+       "gloss": "important",
+       "glossId": "penting"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula formal"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Bento is important to daily life in Japan.",
+     "translationId": "Bekal makan siang penting bagi kehidupan di Jepang.",
+     "audioStart": 58.272,
+     "audioEnd": 63.792
+    }
+   ]
+  }
+ ]
+}

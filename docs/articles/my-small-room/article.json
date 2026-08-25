@@ -1,0 +1,1115 @@
+{
+ "schemaVersion": 1,
+ "id": "my-small-room",
+ "language": "ja",
+ "title": "私の小さい部屋",
+ "titleTranslation": "My Small Room",
+ "titleTranslationId": "Kamar Kecil Saya",
+ "level": "Beginner",
+ "summary": "The narrator describes their small but beloved room, filled with cherished items including a plant they water daily and an old chair that belonged to their grandmother.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T12:26:07+00:00",
+ "audioFile": "audio-a25eef1b.mp3",
+ "voice": "ja-JP-NanamiNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "私の部屋は小さいです。",
+     "tokens": [
+      {
+       "surface": "私",
+       "pos": "pronoun",
+       "reading": "わたくし",
+       "romaji": "watakushi",
+       "gloss": "I, me",
+       "glossId": "saya"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'",
+       "glossId": "partikel kepemilikan 'punya/dari'"
+      },
+      {
+       "surface": "部屋",
+       "pos": "noun",
+       "reading": "へや",
+       "romaji": "heya",
+       "gloss": "room",
+       "glossId": "kamar"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "小さい",
+       "pos": "adjective",
+       "reading": "ちいさい",
+       "romaji": "chiisai",
+       "gloss": "small",
+       "glossId": "kecil"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "My room is small.",
+     "translationId": "Kamar saya kecil.",
+     "audioStart": 0.0,
+     "audioEnd": 3.84
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "でも、私はこの部屋が好きです。",
+     "tokens": [
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: at/by/with",
+       "glossId": "partikel: di/dengan"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "particle: also, too",
+       "glossId": "partikel: juga"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "私",
+       "pos": "pronoun",
+       "reading": "わたくし",
+       "romaji": "watakushi",
+       "gloss": "I, me",
+       "glossId": "saya"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this (demonstrative)",
+       "glossId": "ini (kata tunjuk)"
+      },
+      {
+       "surface": "部屋",
+       "pos": "noun",
+       "reading": "へや",
+       "romaji": "heya",
+       "gloss": "room",
+       "glossId": "kamar"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "好き",
+       "pos": "adjective",
+       "reading": "すき",
+       "romaji": "suki",
+       "gloss": "like, fond of",
+       "glossId": "suka"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "But I like this room.",
+     "translationId": "Tapi, saya suka kamar ini.",
+     "audioStart": 3.84,
+     "audioEnd": 8.544
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "部屋にベッドと机があります。",
+     "tokens": [
+      {
+       "surface": "部屋",
+       "pos": "noun",
+       "reading": "へや",
+       "romaji": "heya",
+       "gloss": "room",
+       "glossId": "kamar"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: in/at/to",
+       "glossId": "partikel: di/ke"
+      },
+      {
+       "surface": "ベッド",
+       "pos": "noun",
+       "romaji": "beddo",
+       "gloss": "bed",
+       "glossId": "tempat tidur"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: and, with",
+       "glossId": "partikel: dan, dengan"
+      },
+      {
+       "surface": "机",
+       "pos": "noun",
+       "reading": "つくえ",
+       "romaji": "tsukue",
+       "gloss": "desk",
+       "glossId": "meja"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There is a bed and a desk in the room.",
+     "translationId": "Di kamar ada tempat tidur dan meja.",
+     "audioStart": 8.544,
+     "audioEnd": 12.552
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "机の上に本があります。",
+     "tokens": [
+      {
+       "surface": "机",
+       "pos": "noun",
+       "reading": "つくえ",
+       "romaji": "tsukue",
+       "gloss": "desk",
+       "glossId": "meja"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'",
+       "glossId": "partikel kepemilikan 'punya/dari'"
+      },
+      {
+       "surface": "上",
+       "pos": "noun",
+       "reading": "うえ",
+       "romaji": "ue",
+       "gloss": "on top, above",
+       "glossId": "atas"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: in/at/to",
+       "glossId": "partikel: di/ke"
+      },
+      {
+       "surface": "本",
+       "pos": "noun",
+       "reading": "ほん",
+       "romaji": "hon",
+       "gloss": "book",
+       "glossId": "buku"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There is a book on the desk.",
+     "translationId": "Di atas meja ada buku.",
+     "audioStart": 12.552,
+     "audioEnd": 16.272
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "本を読むのが好きです。",
+     "tokens": [
+      {
+       "surface": "本",
+       "pos": "noun",
+       "reading": "ほん",
+       "romaji": "hon",
+       "gloss": "book",
+       "glossId": "buku"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "読む",
+       "pos": "verb",
+       "reading": "よむ",
+       "romaji": "yomu",
+       "gloss": "to read",
+       "glossId": "membaca"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'",
+       "glossId": "partikel kepemilikan 'punya/dari'"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "好き",
+       "pos": "adjective",
+       "reading": "すき",
+       "romaji": "suki",
+       "gloss": "like, fond of",
+       "glossId": "suka"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I like reading books.",
+     "translationId": "Saya suka membaca buku.",
+     "audioStart": 16.272,
+     "audioEnd": 19.656
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "窓の近くに緑の植物があります。",
+     "tokens": [
+      {
+       "surface": "窓",
+       "pos": "noun",
+       "reading": "まど",
+       "romaji": "mado",
+       "gloss": "window",
+       "glossId": "jendela"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'",
+       "glossId": "partikel kepemilikan 'punya/dari'"
+      },
+      {
+       "surface": "近く",
+       "pos": "noun",
+       "reading": "ちかく",
+       "romaji": "chikaku",
+       "gloss": "near, vicinity",
+       "glossId": "dekat"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: in/at/to",
+       "glossId": "partikel: di/ke"
+      },
+      {
+       "surface": "緑",
+       "pos": "noun",
+       "reading": "みどり",
+       "romaji": "midori",
+       "gloss": "green",
+       "glossId": "hijau"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'",
+       "glossId": "partikel kepemilikan 'punya/dari'"
+      },
+      {
+       "surface": "植物",
+       "pos": "noun",
+       "reading": "しょくぶつ",
+       "romaji": "shokubutsu",
+       "gloss": "plant",
+       "glossId": "tanaman"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There is a green plant near the window.",
+     "translationId": "Di dekat jendela ada tanaman hijau.",
+     "audioStart": 19.656,
+     "audioEnd": 24.72
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "毎朝、水をあげます。",
+     "tokens": [
+      {
+       "surface": "毎朝",
+       "pos": "noun",
+       "reading": "まいあさ",
+       "romaji": "maiasa",
+       "gloss": "every morning",
+       "glossId": "setiap pagi"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "水",
+       "pos": "noun",
+       "reading": "みず",
+       "romaji": "mizu",
+       "gloss": "water",
+       "glossId": "air"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "あげ",
+       "pos": "verb",
+       "romaji": "age",
+       "lemma": "あげる",
+       "gloss": "to give (to someone/something)",
+       "glossId": "memberi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Every morning, I water it.",
+     "translationId": "Setiap pagi, saya menyiraminya.",
+     "audioStart": 24.72,
+     "audioEnd": 28.584
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "植物を見ると、元気になります。",
+     "tokens": [
+      {
+       "surface": "植物",
+       "pos": "noun",
+       "reading": "しょくぶつ",
+       "romaji": "shokubutsu",
+       "gloss": "plant",
+       "glossId": "tanaman"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "見る",
+       "pos": "verb",
+       "reading": "みる",
+       "romaji": "miru",
+       "gloss": "to see, look at",
+       "glossId": "melihat"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle: and, with",
+       "glossId": "partikel: dan, dengan"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "元気",
+       "pos": "noun",
+       "reading": "げんき",
+       "romaji": "genki",
+       "gloss": "energetic, healthy, cheerful",
+       "glossId": "sehat, bersemangat"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "plain copula 'is'",
+       "glossId": "kopula biasa 'adalah'"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When I look at the plant, I feel energized.",
+     "translationId": "Kalau melihat tanaman itu, saya jadi bersemangat.",
+     "audioStart": 28.584,
+     "audioEnd": 33.456
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "部屋に古い椅子があります。",
+     "tokens": [
+      {
+       "surface": "部屋",
+       "pos": "noun",
+       "reading": "へや",
+       "romaji": "heya",
+       "gloss": "room",
+       "glossId": "kamar"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: in/at/to",
+       "glossId": "partikel: di/ke"
+      },
+      {
+       "surface": "古い",
+       "pos": "adjective",
+       "reading": "ふるい",
+       "romaji": "furui",
+       "gloss": "old",
+       "glossId": "tua, lama"
+      },
+      {
+       "surface": "椅子",
+       "pos": "noun",
+       "reading": "いす",
+       "romaji": "isu",
+       "gloss": "chair",
+       "glossId": "kursi"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There is an old chair in the room.",
+     "translationId": "Di kamar ada kursi tua.",
+     "audioStart": 33.456,
+     "audioEnd": 37.104
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "その椅子は、おばあちゃんの物でした。",
+     "tokens": [
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that (demonstrative)",
+       "glossId": "itu (kata tunjuk)"
+      },
+      {
+       "surface": "椅子",
+       "pos": "noun",
+       "reading": "いす",
+       "romaji": "isu",
+       "gloss": "chair",
+       "glossId": "kursi"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan hormat"
+      },
+      {
+       "surface": "ばあ",
+       "pos": "noun",
+       "romaji": "baa",
+       "gloss": "grandma (part of おばあちゃん)",
+       "glossId": "nenek (bagian dari おばあちゃん)"
+      },
+      {
+       "surface": "ちゃん",
+       "pos": "suffix",
+       "romaji": "chan",
+       "gloss": "affectionate name suffix",
+       "glossId": "akhiran panggilan akrab"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'",
+       "glossId": "partikel kepemilikan 'punya/dari'"
+      },
+      {
+       "surface": "物",
+       "pos": "noun",
+       "reading": "もの",
+       "romaji": "mono",
+       "gloss": "thing, object",
+       "glossId": "barang, benda"
+      },
+      {
+       "surface": "でし",
+       "pos": "auxiliary",
+       "romaji": "deshi",
+       "lemma": "です",
+       "gloss": "polite copula 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "That chair used to belong to my grandmother.",
+     "translationId": "Kursi itu dulu milik nenek saya.",
+     "audioStart": 37.104,
+     "audioEnd": 41.952
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "だから、とても大切です。",
+     "tokens": [
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "plain copula 'is'",
+       "glossId": "kopula biasa 'adalah'"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "because, since",
+       "glossId": "karena, sejak"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "大切",
+       "pos": "adjective",
+       "reading": "たいせつ",
+       "romaji": "taisetsu",
+       "gloss": "important, precious",
+       "glossId": "penting, berharga"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "So it's very precious to me.",
+     "translationId": "Karena itu, kursi itu sangat berharga.",
+     "audioStart": 41.952,
+     "audioEnd": 46.032
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "椅子に座って、コーヒーを飲みます。",
+     "tokens": [
+      {
+       "surface": "椅子",
+       "pos": "noun",
+       "reading": "いす",
+       "romaji": "isu",
+       "gloss": "chair",
+       "glossId": "kursi"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: in/at/to",
+       "glossId": "partikel: di/ke"
+      },
+      {
+       "surface": "座っ",
+       "pos": "verb",
+       "reading": "すわっ",
+       "romaji": "suwat",
+       "lemma": "座る",
+       "gloss": "to sit",
+       "glossId": "duduk"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)",
+       "glossId": "partikel penghubung (bentuk te)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "コーヒー",
+       "pos": "noun",
+       "romaji": "koohii",
+       "gloss": "coffee",
+       "glossId": "kopi"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "飲み",
+       "pos": "verb",
+       "reading": "のみ",
+       "romaji": "nomi",
+       "lemma": "飲む",
+       "gloss": "to drink",
+       "glossId": "minum"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I sit in the chair and drink coffee.",
+     "translationId": "Saya duduk di kursi dan minum kopi.",
+     "audioStart": 46.032,
+     "audioEnd": 50.688
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "小さい部屋ですが、好きな物がたくさんあります。",
+     "tokens": [
+      {
+       "surface": "小さい",
+       "pos": "adjective",
+       "reading": "ちいさい",
+       "romaji": "chiisai",
+       "gloss": "small",
+       "glossId": "kecil"
+      },
+      {
+       "surface": "部屋",
+       "pos": "noun",
+       "reading": "へや",
+       "romaji": "heya",
+       "gloss": "room",
+       "glossId": "kamar"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "好き",
+       "pos": "adjective",
+       "reading": "すき",
+       "romaji": "suki",
+       "gloss": "like, fond of",
+       "glossId": "suka"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "plain copula 'is'",
+       "glossId": "kopula biasa 'adalah'"
+      },
+      {
+       "surface": "物",
+       "pos": "noun",
+       "reading": "もの",
+       "romaji": "mono",
+       "gloss": "thing, object",
+       "glossId": "barang, benda"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It's a small room, but there are many things I like.",
+     "translationId": "Kamarnya kecil, tapi ada banyak barang yang saya suka.",
+     "audioStart": 50.688,
+     "audioEnd": 56.304
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "だから、家に帰るのが楽しみです。",
+     "tokens": [
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "plain copula 'is'",
+       "glossId": "kopula biasa 'adalah'"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "because, since",
+       "glossId": "karena, sejak"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "家",
+       "pos": "noun",
+       "reading": "いえ",
+       "romaji": "ie",
+       "gloss": "house, home",
+       "glossId": "rumah"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: in/at/to",
+       "glossId": "partikel: di/ke"
+      },
+      {
+       "surface": "帰る",
+       "pos": "verb",
+       "reading": "かえる",
+       "romaji": "kaeru",
+       "gloss": "to return home",
+       "glossId": "pulang"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'",
+       "glossId": "partikel kepemilikan 'punya/dari'"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel subjek"
+      },
+      {
+       "surface": "楽しみ",
+       "pos": "noun",
+       "reading": "たのしみ",
+       "romaji": "tanoshimi",
+       "gloss": "looking forward to",
+       "glossId": "menantikan, dinanti-nanti"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "So I look forward to going home.",
+     "translationId": "Karena itu, saya menantikan pulang ke rumah.",
+     "audioStart": 56.304,
+     "audioEnd": 61.224
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,725 @@
+{
+ "schemaVersion": 1,
+ "id": "my-hobby-taking-photos-with-my-smartphone",
+ "language": "ja",
+ "title": "わたしのしゅみ:スマホで写真をとること",
+ "titleTranslation": "My Hobby: Taking Photos with My Smartphone",
+ "titleTranslationId": "Hobiku: Memotret dengan Ponsel Pintar",
+ "level": "Beginner",
+ "summary": "The author's hobby is taking photos with a smartphone, enjoying pictures of the sky and flowers, and feeling happy when friends admire the photos they share.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T12:23:41+00:00",
+ "audioFile": "audio-8a4433a2.mp3",
+ "voice": "ja-JP-KeitaNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "わたしのしゅみは写真です。",
+     "tokens": [
+      {
+       "surface": "わたし",
+       "pos": "pronoun",
+       "romaji": "watashi",
+       "gloss": "I, me",
+       "glossId": "saya, aku"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle (\"of\")",
+       "glossId": "partikel kepemilikan (\"-nya, dari\")"
+      },
+      {
+       "surface": "しゅみ",
+       "pos": "noun",
+       "romaji": "shumi",
+       "gloss": "hobby",
+       "glossId": "hobi"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "写真",
+       "pos": "noun",
+       "reading": "しゃしん",
+       "romaji": "shashin",
+       "gloss": "photo, photograph",
+       "glossId": "foto"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (\"is/am/are\")",
+       "glossId": "kopula sopan (\"adalah\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "My hobby is photography.",
+     "translationId": "Hobi saya adalah fotografi.",
+     "audioStart": 0.0,
+     "audioEnd": 3.456
+    },
+    {
+     "text": "スマホで写真をとります。",
+     "tokens": [
+      {
+       "surface": "スマホ",
+       "pos": "noun",
+       "romaji": "sumaho",
+       "gloss": "smartphone",
+       "glossId": "ponsel pintar"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking means/tool (\"with, by\")",
+       "glossId": "partikel penanda alat/sarana (\"dengan\")"
+      },
+      {
+       "surface": "写真",
+       "pos": "noun",
+       "reading": "しゃしん",
+       "romaji": "shashin",
+       "gloss": "photo, photograph",
+       "glossId": "foto"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "とり",
+       "pos": "verb",
+       "romaji": "tori",
+       "lemma": "とる",
+       "gloss": "to take (a photo)",
+       "glossId": "mengambil (foto), memotret"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I take photos with my smartphone.",
+     "translationId": "Saya memotret dengan ponsel pintar.",
+     "audioStart": 3.456,
+     "audioEnd": 6.792
+    },
+    {
+     "text": "毎日、少しとります。",
+     "tokens": [
+      {
+       "surface": "毎日",
+       "pos": "noun",
+       "reading": "まいにち",
+       "romaji": "mainichi",
+       "gloss": "every day",
+       "glossId": "setiap hari"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "少し",
+       "pos": "adverb",
+       "reading": "すこし",
+       "romaji": "sukoshi",
+       "gloss": "a little, a few",
+       "glossId": "sedikit"
+      },
+      {
+       "surface": "とり",
+       "pos": "verb",
+       "romaji": "tori",
+       "lemma": "とる",
+       "gloss": "to take (a photo)",
+       "glossId": "mengambil (foto), memotret"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I take a few every day.",
+     "translationId": "Setiap hari, saya memotret sedikit.",
+     "audioStart": 6.792,
+     "audioEnd": 10.536
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "空の写真がすきです。",
+     "tokens": [
+      {
+       "surface": "空",
+       "pos": "noun",
+       "reading": "そら",
+       "romaji": "sora",
+       "gloss": "sky",
+       "glossId": "langit"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle (\"of\")",
+       "glossId": "partikel kepemilikan (\"-nya, dari\")"
+      },
+      {
+       "surface": "写真",
+       "pos": "noun",
+       "reading": "しゃしん",
+       "romaji": "shashin",
+       "gloss": "photo, photograph",
+       "glossId": "foto"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "すき",
+       "pos": "adjective",
+       "romaji": "suki",
+       "gloss": "liking, fond of",
+       "glossId": "suka"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (\"is/am/are\")",
+       "glossId": "kopula sopan (\"adalah\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I like photos of the sky.",
+     "translationId": "Saya suka foto langit.",
+     "audioStart": 10.536,
+     "audioEnd": 13.824
+    },
+    {
+     "text": "花の写真もすきです。",
+     "tokens": [
+      {
+       "surface": "花",
+       "pos": "noun",
+       "reading": "はな",
+       "romaji": "hana",
+       "gloss": "flower",
+       "glossId": "bunga"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle (\"of\")",
+       "glossId": "partikel kepemilikan (\"-nya, dari\")"
+      },
+      {
+       "surface": "写真",
+       "pos": "noun",
+       "reading": "しゃしん",
+       "romaji": "shashin",
+       "gloss": "photo, photograph",
+       "glossId": "foto"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "すき",
+       "pos": "adjective",
+       "romaji": "suki",
+       "gloss": "liking, fond of",
+       "glossId": "suka"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (\"is/am/are\")",
+       "glossId": "kopula sopan (\"adalah\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I also like photos of flowers.",
+     "translationId": "Saya juga suka foto bunga.",
+     "audioStart": 13.824,
+     "audioEnd": 17.04
+    },
+    {
+     "text": "歩いているとき、写真をとります。",
+     "tokens": [
+      {
+       "surface": "歩い",
+       "pos": "verb",
+       "reading": "あるい",
+       "romaji": "arui",
+       "lemma": "歩く",
+       "gloss": "to walk",
+       "glossId": "berjalan"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk penghubung te"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "auxiliary verb (ongoing/progressive action)",
+       "glossId": "kata kerja bantu (aksi sedang berlangsung)"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "when, time",
+       "glossId": "saat, ketika"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "写真",
+       "pos": "noun",
+       "reading": "しゃしん",
+       "romaji": "shashin",
+       "gloss": "photo, photograph",
+       "glossId": "foto"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "とり",
+       "pos": "verb",
+       "romaji": "tori",
+       "lemma": "とる",
+       "gloss": "to take (a photo)",
+       "glossId": "mengambil (foto), memotret"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I take photos while I'm walking.",
+     "translationId": "Saat berjalan, saya memotret.",
+     "audioStart": 17.04,
+     "audioEnd": 21.48
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "きれいな写真を見ると、うれしいです。",
+     "tokens": [
+      {
+       "surface": "きれい",
+       "pos": "adjective",
+       "romaji": "kirei",
+       "gloss": "pretty, beautiful",
+       "glossId": "indah, cantik"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "plain copula (\"is\")",
+       "glossId": "kopula biasa (\"adalah\")"
+      },
+      {
+       "surface": "写真",
+       "pos": "noun",
+       "reading": "しゃしん",
+       "romaji": "shashin",
+       "gloss": "photo, photograph",
+       "glossId": "foto"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "見る",
+       "pos": "verb",
+       "reading": "みる",
+       "romaji": "miru",
+       "gloss": "to see, to look",
+       "glossId": "melihat"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "conditional marker (\"when, if\")",
+       "glossId": "penanda kondisional (\"ketika, jika\")"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "うれしい",
+       "pos": "adjective",
+       "romaji": "ureshii",
+       "gloss": "happy, glad",
+       "glossId": "senang, gembira"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (\"is/am/are\")",
+       "glossId": "kopula sopan (\"adalah\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When I see a beautiful photo, I feel happy.",
+     "translationId": "Ketika melihat foto yang indah, saya senang.",
+     "audioStart": 21.48,
+     "audioEnd": 26.016
+    },
+    {
+     "text": "友だちに写真を見せます。",
+     "tokens": [
+      {
+       "surface": "友だち",
+       "pos": "noun",
+       "reading": "ともだち",
+       "romaji": "tomodachi",
+       "gloss": "friend",
+       "glossId": "teman"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking target/indirect object",
+       "glossId": "partikel penanda tujuan/objek tidak langsung"
+      },
+      {
+       "surface": "写真",
+       "pos": "noun",
+       "reading": "しゃしん",
+       "romaji": "shashin",
+       "gloss": "photo, photograph",
+       "glossId": "foto"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "見せ",
+       "pos": "verb",
+       "reading": "みせ",
+       "romaji": "mise",
+       "lemma": "見せる",
+       "gloss": "to show",
+       "glossId": "menunjukkan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I show my photos to friends.",
+     "translationId": "Saya menunjukkan foto kepada teman.",
+     "audioStart": 26.016,
+     "audioEnd": 29.496
+    },
+    {
+     "text": "「かわいい」と言われると、うれしいです。",
+     "tokens": [
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "かわいい",
+       "pos": "adjective",
+       "romaji": "kawaii",
+       "gloss": "cute",
+       "glossId": "lucu, imut"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "conditional marker (\"when, if\")",
+       "glossId": "penanda kondisional (\"ketika, jika\")"
+      },
+      {
+       "surface": "言わ",
+       "pos": "verb",
+       "reading": "いわ",
+       "romaji": "iwa",
+       "lemma": "言う",
+       "gloss": "to say",
+       "glossId": "mengatakan"
+      },
+      {
+       "surface": "れる",
+       "pos": "auxiliary",
+       "romaji": "reru",
+       "gloss": "passive auxiliary verb",
+       "glossId": "kata kerja bantu pasif"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "conditional marker (\"when, if\")",
+       "glossId": "penanda kondisional (\"ketika, jika\")"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "うれしい",
+       "pos": "adjective",
+       "romaji": "ureshii",
+       "gloss": "happy, glad",
+       "glossId": "senang, gembira"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (\"is/am/are\")",
+       "glossId": "kopula sopan (\"adalah\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When they say \"cute,\" I feel happy.",
+     "translationId": "Ketika dikatakan \"lucu\", saya senang.",
+     "audioStart": 29.496,
+     "audioEnd": 33.888
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "これからも写真をとりたいです。",
+     "tokens": [
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore",
+       "gloss": "this",
+       "glossId": "ini"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from, from now on",
+       "glossId": "dari, mulai"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "写真",
+       "pos": "noun",
+       "reading": "しゃしん",
+       "romaji": "shashin",
+       "gloss": "photo, photograph",
+       "glossId": "foto"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "とり",
+       "pos": "verb",
+       "romaji": "tori",
+       "lemma": "とる",
+       "gloss": "to take (a photo)",
+       "glossId": "mengambil (foto), memotret"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desire suffix)",
+       "glossId": "akhiran keinginan (\"ingin\")"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (\"is/am/are\")",
+       "glossId": "kopula sopan (\"adalah\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I want to keep taking photos from now on.",
+     "translationId": "Saya ingin terus memotret mulai sekarang.",
+     "audioStart": 33.888,
+     "audioEnd": 37.584
+    },
+    {
+     "text": "もっと上手になりたいです。",
+     "tokens": [
+      {
+       "surface": "もっと",
+       "pos": "adverb",
+       "romaji": "motto",
+       "gloss": "more",
+       "glossId": "lebih"
+      },
+      {
+       "surface": "上手",
+       "pos": "adjective",
+       "reading": "じょうず",
+       "romaji": "jouzu",
+       "gloss": "skillful, good at",
+       "glossId": "mahir, pandai"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "plain copula (\"is\")",
+       "glossId": "kopula biasa (\"adalah\")"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desire suffix)",
+       "glossId": "akhiran keinginan (\"ingin\")"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (\"is/am/are\")",
+       "glossId": "kopula sopan (\"adalah\")"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I want to get better at it.",
+     "translationId": "Saya ingin menjadi lebih mahir.",
+     "audioStart": 37.584,
+     "audioEnd": 40.992
+    }
+   ]
+  }
+ ]
+}
