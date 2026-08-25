@@ -327,6 +327,25 @@ def _broadcast(args) -> None:
     print("Run `anyread serve` and open the printed URL to read it.")
 
 
+def _bundle(args) -> None:
+    """Merge docs/ + local/articles into dist/ for a private (Netlify) deploy."""
+    import shutil
+
+    root = Path(__file__).resolve().parents[2]
+    dist = root / "dist"
+    if dist.exists():
+        shutil.rmtree(dist)
+    shutil.copytree(root / "docs", dist)
+    local_articles = root / "local" / "articles"
+    if local_articles.is_dir():
+        for d in sorted(local_articles.iterdir()):
+            if (d / "article.json").is_file():
+                shutil.copytree(d, dist / "articles" / d.name, dirs_exist_ok=True)
+    bundle.rebuild_index(dist / "articles")
+    n = len(list((dist / "articles").glob("*/article.json")))
+    print(f"Bundled {n} articles into {dist}")
+
+
 def _serve(args) -> None:
     import http.server
     import json as _json
@@ -437,6 +456,7 @@ def main() -> None:
     bc.add_argument("--title", help="Override title")
     bc.add_argument("--model", default="medium", help="Whisper model size (default medium)")
     bc.add_argument("--out", default=str(Path(__file__).resolve().parents[2] / "local" / "articles"))
+    sub.add_parser("bundle", help="Build dist/ (docs + local articles) for the private deploy")
     srv = sub.add_parser("serve", help="Serve the app locally incl. local-only broadcast articles")
     srv.add_argument("--port", type=int, default=8642)
     news = sub.add_parser("news", help="List recent headlines (Yahoo/Matcha / nachrichtenleicht)")
@@ -445,7 +465,9 @@ def main() -> None:
     pub = sub.add_parser("publish", help="Commit and push new articles to the site")
     pub.add_argument("-m", "--message", default="Add articles")
     args = parser.parse_args()
-    if args.cmd == "add":
+    if args.cmd == "bundle":
+        _bundle(args)
+    elif args.cmd == "add":
         _build_article(args)
     elif args.cmd == "generate":
         _generate(args)

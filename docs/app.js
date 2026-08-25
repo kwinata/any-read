@@ -752,6 +752,15 @@ function renderLock() {
   async function attempt() {
     if ((await sha256Hex(input.value)) === PASS_HASH) {
       try { localStorage.setItem(AUTH_KEY, PASS_HASH); } catch (e) {}
+      // On the private (Netlify) deploy this sets the server-side auth cookie;
+      // elsewhere the endpoint doesn't exist and the failure is ignored.
+      try {
+        await fetch('api/login', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ password: input.value }),
+        });
+      } catch (e) {}
       route();
     } else {
       err.textContent = 'Wrong password.';
