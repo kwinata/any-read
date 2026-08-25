@@ -57,19 +57,82 @@ function mkTabs(active) {
                               ['articles', '📰 Articles']]) {
     const b = el('button', 'tab' + (active === key ? ' on' : ''), label);
     b.addEventListener('click', () => {
-      location.hash = key === 'articles' ? '' : '#/' + key;
+      location.hash = key === 'vocab' ? '' : '#/' + key;
     });
     tabs.append(b);
   }
   return tabs;
 }
 
-async function renderLibrary() {
-  stopAudio();
+/* Shared shell for the three main pages: AnyRead bar (☰ + title + page tools),
+   top-level tabs, section drawer/sidebar, and the content host. */
+function mkShell(active) {
   $app.innerHTML = '';
   const bar = el('div', 'topbar');
-  bar.append(el('h1', null, 'AnyRead'));
-  $app.append(bar, mkTabs('articles'));
+  const menuBtn = el('button', 'toggle vmenu', '☰');
+  const tools = el('div', 'bartools');
+  bar.append(menuBtn, el('h1', null, 'AnyRead'), el('div', 'spacer'), tools);
+
+  const nav = el('nav', 'vnav');
+  const scrim = el('div', 'vscrim');
+  const host = el('div', 'reader');
+  const sections = []; // {btn, catEl, level}
+
+  function closeNav() {
+    nav.classList.remove('open');
+    scrim.classList.remove('show');
+  }
+  menuBtn.addEventListener('click', () => {
+    nav.classList.toggle('open');
+    scrim.classList.toggle('show', nav.classList.contains('open'));
+  });
+  scrim.addEventListener('click', closeNav);
+  function setActive(i) {
+    sections.forEach((s, j) => s.btn.classList.toggle('on', i === j));
+  }
+
+  // Section heading in the page + its chip in the drawer/sidebar
+  function addSection(c) {
+    const catEl = el('h2', 'vcat', c.name);
+    const subParts = [c.nameEn, c.nameId].filter(Boolean).join(' · ');
+    if (subParts) catEl.append(el('span', 'vcat-sub', subParts));
+    host.append(catEl);
+    const btn = el('button', 'toggle',
+      (c.nameShort || c.nameEn || c.name) + (c.nameId ? '・' + c.nameId : ''));
+    btn.title = subParts;
+    const i = sections.length;
+    btn.addEventListener('click', () => {
+      setActive(i);
+      closeNav();
+      catEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+    nav.append(btn);
+    sections.push({ btn, catEl, level: c.level || 'Beginner' });
+    return catEl;
+  }
+
+  // Scroll-spy: highlight the section currently at the top of the view
+  function onScroll() {
+    if (!host.isConnected) {
+      window.removeEventListener('scroll', onScroll);
+      return;
+    }
+    let act = 0;
+    sections.forEach((s, i) => {
+      if (s.catEl.getBoundingClientRect().top <= 130) act = i;
+    });
+    setActive(act);
+  }
+  window.addEventListener('scroll', onScroll, { passive: true });
+
+  $app.append(bar, mkTabs(active), scrim, nav);
+  return { bar, tools, nav, scrim, host, sections, addSection, setActive, closeNav, onScroll };
+}
+
+async function renderLibrary() {
+  stopAudio();
+  const shell = mkShell('articles');
+  const { host } = shell;
 
   let index = [];
   try {
@@ -80,70 +143,54 @@ async function renderLibrary() {
     return;
   }
 
-  const filters = el('div', 'filters');
-  const listHost = el('div');
-  $app.append(filters, listHost);
+  const header = el('header');
+  header.append(el('h1', null, 'きじ'));
+  header.append(el('p', 'sub', 'Articles · Artikel — graded news and stories'));
+  host.append(header);
 
-  function chip(label, active, onTap) {
-    const b = el('button', 'toggle' + (active ? ' on' : ''), label);
-    b.addEventListener('click', onTap);
-    return b;
+  const searchWrap = el('div', 'vsearch-wrap');
+  const searchInput = el('input', 'vsearch');
+  searchInput.type = 'search';
+  searchInput.placeholder = 'Search: title / english / indonesia…';
+  searchWrap.append(el('span', 'vsearch-ico', '🔍'), searchInput);
+  host.append(searchWrap);
+
+  // Sections = difficulty levels (the second dimension, theme, lives per article)
+  const levels = [...new Set(index.map((a) => a.level).filter(Boolean))]
+    .sort((a, b) => LEVEL_ORDER.indexOf(a) - LEVEL_ORDER.indexOf(b));
+  const entries = []; // {el, secIdx, hay}
+  for (const lv of levels) {
+    shell.addSection({ name: lv, nameEn: `${lv} level`, nameShort: lv, level: lv });
+    buildList(index.filter((a) => a.level === lv), lv);
   }
+  const untagged = index.filter((a) => !a.level);
+  if (untagged.length) {
+    shell.addSection({ name: 'その他', nameEn: 'Other', nameShort: 'Other' });
+    buildList(untagged, null);
+  }
+  if (!index.length) {
+    host.append(el('div', 'empty',
+      'No articles yet. Add one with the anyread CLI and publish.'));
+  }
+  $app.append(host);
+  shell.onScroll();
 
-  function renderFilters() {
-    filters.innerHTML = '';
-    const langs = [...new Set(index.map((a) => a.language))];
-    if (langs.length > 1) {
-      for (const [label, value] of [['All', 'all'], ...langs.map((l) => [langName(l), l])]) {
-        filters.append(chip(label, (settings.filterLang || 'all') === value, () => {
-          settings.filterLang = value;
-          settings.filterLevel = 'all';
-          saveSettings();
-          renderFilters();
-          renderList();
-        }));
-      }
-    } else {
-      settings.filterLang = 'all';
+  searchInput.addEventListener('input', () => {
+    const q = searchInput.value.trim().toLowerCase();
+    const hits = new Array(shell.sections.length).fill(0);
+    for (const e of entries) {
+      const show = !q || e.hay.includes(q);
+      e.el.style.display = show ? '' : 'none';
+      if (show) hits[e.secIdx] += 1;
     }
-    const lang = settings.filterLang || 'all';
-    const levels = [...new Set(index
-      .filter((a) => lang === 'all' || a.language === lang)
-      .map((a) => a.level).filter(Boolean))]
-      .sort((a, b) => LEVEL_ORDER.indexOf(a) - LEVEL_ORDER.indexOf(b));
-    if (levels.length > 1) {
-      if (langs.length > 1) filters.append(el('span', 'fsep'));
-      for (const [label, value] of [['All', 'all'], ...levels.map((l) => [l, l])]) {
-        filters.append(chip(label, (settings.filterLevel || 'all') === value, () => {
-          settings.filterLevel = value;
-          saveSettings();
-          renderFilters();
-          renderList();
-        }));
-      }
-    }
-  }
+    shell.sections.forEach((s, i) => {
+      s.catEl.style.display = !q || hits[i] ? '' : 'none';
+    });
+  });
 
-  function renderList() {
-    listHost.innerHTML = '';
-    const lang = settings.filterLang || 'all';
-    const lvl = settings.filterLevel || 'all';
-    const shown = index.filter((a) =>
-      (lang === 'all' || a.language === lang) && (lvl === 'all' || a.level === lvl));
-    buildList(shown);
-  }
-
-  renderFilters();
-  renderList();
-
-  function buildList(entries) {
+  function buildList(shown, lvl) {
   const list = el('div', 'list');
-  if (!entries.length) {
-    list.append(el('div', 'empty', index.length
-      ? 'No articles match this filter.'
-      : 'No articles yet. Add one with the anyread CLI and publish.'));
-  }
-  for (const a of entries) {
+  for (const a of shown) {
     const card = el('div', 'card');
     card.append(el('h2', null, a.title));
     if (a.titleTranslation) card.append(el('p', 'sub', a.titleTranslation));
@@ -176,9 +223,15 @@ async function renderLibrary() {
     card.addEventListener('click', () => {
       location.hash = '#/a/' + encodeURIComponent(a.id);
     });
+    entries.push({
+      el: card,
+      secIdx: shell.sections.length - 1,
+      hay: [a.title, a.titleTranslation, a.summary, a.level]
+        .filter(Boolean).join(' ').toLowerCase(),
+    });
     list.append(card);
   }
-  listHost.append(list);
+  host.append(list);
   }
 }
 
@@ -209,8 +262,8 @@ async function renderReader(id) {
   // Top bar with toggles
   const bar = el('div', 'topbar');
   const back = el('button', 'back', '‹');
-  back.addEventListener('click', () => { location.hash = ''; });
-  bar.append(back, el('div', 'spacer'));
+  back.addEventListener('click', () => { location.hash = '#/articles'; });
+  bar.append(back, el('h1', null, 'AnyRead'), el('div', 'spacer'));
   const reader = el('div', 'reader');
 
   function mkToggle(label, key, apply) {
@@ -462,13 +515,9 @@ async function renderReader(id) {
 /* ---------------- Vocabulary ---------------- */
 
 async function renderVocab(mode) {  // 'words' | 'sentences'
-  $app.innerHTML = '';
-  const bar = el('div', 'topbar');
-  const back = el('button', 'back', '‹');
-  back.addEventListener('click', () => { location.hash = ''; });
-  const menuBtn = el('button', 'toggle vmenu', '☰');
-  bar.append(back, menuBtn, el('div', 'spacer'));
-  const host = el('div', 'reader');
+  stopAudio();
+  const shell = mkShell(mode === 'sentences' ? 'sentences' : 'vocab');
+  const { host, sections, addSection } = shell;
 
   function mkToggle(label, key, apply) {
     const b = el('button', 'toggle' + (settings[key] ? ' on' : ''), label);
@@ -480,11 +529,10 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
     });
     return b;
   }
-  bar.append(
+  shell.tools.append(
     mkToggle('ふ', 'furigana', () => host.classList.toggle('no-furigana', !settings.furigana)),
     mkToggle('rо̄', 'romaji', () => host.classList.toggle('no-romaji', !settings.romaji))
   );
-  $app.append(bar, mkTabs(mode === 'sentences' ? 'sentences' : 'vocab'));
   if (!settings.furigana) host.classList.add('no-furigana');
   if (!settings.romaji) host.classList.add('no-romaji');
 
@@ -495,21 +543,6 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
     $app.append(el('div', 'empty', 'Could not load the vocabulary list.'));
     return;
   }
-
-  // Section nav: hamburger drawer on phones, fixed sidebar on wide screens
-  const nav = el('nav', 'vnav');
-  const scrim = el('div', 'vscrim');
-  const sections = []; // {btn, catEl}
-  function closeNav() {
-    nav.classList.remove('open');
-    scrim.classList.remove('show');
-  }
-  menuBtn.addEventListener('click', () => {
-    nav.classList.toggle('open');
-    scrim.classList.toggle('show', nav.classList.contains('open'));
-  });
-  scrim.addEventListener('click', closeNav);
-  $app.append(scrim, nav);
 
   const header = el('header');
   if (mode === 'sentences') {
@@ -570,27 +603,6 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
     audio.play();
   }
 
-  function setActive(i) {
-    sections.forEach((s, j) => s.btn.classList.toggle('on', i === j));
-  }
-  // Trilingual section header (ja / en · id) plus its nav chip
-  function addSection(c) {
-    const catEl = el('h2', 'vcat', c.name);
-    const subParts = [c.nameEn, c.nameId].filter(Boolean).join(' · ');
-    if (subParts) catEl.append(el('span', 'vcat-sub', subParts));
-    host.append(catEl);
-    const btn = el('button', 'toggle',
-      (c.nameShort || c.nameEn) + (c.nameId ? '・' + c.nameId : ''));
-    btn.title = subParts;
-    const i = sections.length;
-    btn.addEventListener('click', () => {
-      setActive(i);
-      closeNav();
-      catEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
-    });
-    nav.append(btn);
-    sections.push({ btn, catEl, level: c.level || 'Beginner' });
-  }
   // A sentence's tokens as furigana/word/romaji stacks (like the reader)
   function jline(tokens) {
     const line = el('div', 'jtext');
@@ -707,21 +719,7 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
   }
   searchInput.addEventListener('input', applyFilter);
   $app.append(host);
-
-  // Scroll-spy: highlight the section currently at the top of the view
-  function onScroll() {
-    if (!host.isConnected) {
-      window.removeEventListener('scroll', onScroll);
-      return;
-    }
-    let active = 0;
-    sections.forEach((s, i) => {
-      if (s.catEl.getBoundingClientRect().top <= 130) active = i;
-    });
-    setActive(active);
-  }
-  window.addEventListener('scroll', onScroll, { passive: true });
-  onScroll();
+  shell.onScroll();
 }
 
 /* ---------------- Password gate ---------------- */
@@ -778,11 +776,11 @@ function renderLock() {
 
 function route() {
   if (!isAuthed()) { renderLock(); return; }
-  if (location.hash === '#/vocab') { renderVocab('words'); return; }
   if (location.hash === '#/sentences') { renderVocab('sentences'); return; }
+  if (location.hash === '#/articles') { renderLibrary(); return; }
   const m = location.hash.match(/^#\/a\/(.+)$/);
   if (m) renderReader(decodeURIComponent(m[1]));
-  else renderLibrary();
+  else renderVocab('words');  // Vocabulary is the default page
 }
 window.addEventListener('hashchange', route);
 route();
