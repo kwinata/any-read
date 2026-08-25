@@ -115,7 +115,9 @@
      "start": 22.656,
      "end": 24.864
     }
-   ]
+   ],
+   "nameId": "Salam & ungkapan",
+   "nameShort": "Greetings"
   },
   {
    "name": "かず",
@@ -229,7 +231,9 @@
      "start": 44.664,
      "end": 46.488
     }
-   ]
+   ],
+   "nameId": "Angka",
+   "nameShort": "Numbers"
   },
   {
    "name": "じかん",
@@ -343,7 +347,9 @@
      "start": 67.44,
      "end": 69.48
     }
-   ]
+   ],
+   "nameId": "Waktu & hari",
+   "nameShort": "Time"
   },
   {
    "name": "かぞくとひと",
@@ -457,7 +463,9 @@
      "start": 90.48,
      "end": 92.52
     }
-   ]
+   ],
+   "nameId": "Keluarga & orang",
+   "nameShort": "Family"
   },
   {
    "name": "たべものとのみもの",
@@ -571,7 +579,9 @@
      "start": 112.608,
      "end": 114.384
     }
-   ]
+   ],
+   "nameId": "Makanan & minuman",
+   "nameShort": "Food"
   },
   {
    "name": "ばしょ",
@@ -685,7 +695,9 @@
      "start": 134.544,
      "end": 136.512
     }
-   ]
+   ],
+   "nameId": "Tempat",
+   "nameShort": "Places"
   },
   {
    "name": "どうし",
@@ -799,7 +811,9 @@
      "start": 157.488,
      "end": 159.408
     }
-   ]
+   ],
+   "nameId": "Kata kerja",
+   "nameShort": "Verbs"
   },
   {
    "name": "けいようし",
@@ -913,7 +927,9 @@
      "start": 180.12,
      "end": 182.16
     }
-   ]
+   ],
+   "nameId": "Kata sifat",
+   "nameShort": "Adjectives"
   },
   {
    "name": "ぎもんし",
@@ -1027,7 +1043,9 @@
      "start": 201.864,
      "end": 203.64
     }
-   ]
+   ],
+   "nameId": "Kata tanya & kata ganti",
+   "nameShort": "Questions"
   },
   {
    "name": "いろとしぜん",
@@ -1141,7 +1159,9 @@
      "start": 223.176,
      "end": 224.952
     }
-   ]
+   ],
+   "nameId": "Warna & alam",
+   "nameShort": "Colors"
   }
  ]
 }

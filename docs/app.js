@@ -55,7 +55,7 @@ async function renderLibrary() {
   $app.innerHTML = '';
   const bar = el('div', 'topbar');
   bar.append(el('h1', null, 'AnyRead'));
-  const vocabBtn = el('button', 'toggle', 'たんご 📖');
+  const vocabBtn = el('button', 'toggle', '📖 Vocab・たんご');
   vocabBtn.title = 'Beginner vocabulary';
   vocabBtn.addEventListener('click', () => { location.hash = '#/vocab'; });
   bar.append(vocabBtn);
@@ -517,10 +517,12 @@ async function renderVocab() {
     sections.forEach((s, j) => s.btn.classList.toggle('on', i === j));
   }
   for (const c of data.categories) {
-    const catEl = el('h2', 'vcat', c.name + '・' + c.nameEn);
+    const catEl = el('h2', 'vcat', c.name);
+    const subParts = [c.nameEn, c.nameId].filter(Boolean).join(' · ');
+    if (subParts) catEl.append(el('span', 'vcat-sub', subParts));
     host.append(catEl);
-    const btn = el('button', 'toggle', c.name);
-    btn.title = c.nameEn;
+    const btn = el('button', 'toggle', (c.nameShort ? c.nameShort + '・' : '') + c.name);
+    btn.title = [c.nameEn, c.nameId].filter(Boolean).join(' · ');
     const i = sections.length;
     btn.addEventListener('click', () => {
       setActive(i);
