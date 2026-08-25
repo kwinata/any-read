@@ -1,0 +1,721 @@
+{
+ "schemaVersion": 1,
+ "id": "rain-and-umbrellas",
+ "language": "ja",
+ "title": "雨と傘",
+ "titleTranslation": "Rain and Umbrellas",
+ "titleTranslationId": "Hujan dan Payung",
+ "level": "Beginner",
+ "summary": "The article describes Japan's rainy season around June, when people use umbrellas and rain boots to stay dry as the streets get wet.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T08:04:36+00:00",
+ "audioFile": "audio.mp3",
+ "voice": "ja-JP-NanamiNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "今日は雨です。",
+     "tokens": [
+      {
+       "surface": "今日",
+       "pos": "noun",
+       "reading": "きょう",
+       "romaji": "kyou",
+       "gloss": "today",
+       "glossId": "hari ini"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "雨",
+       "pos": "noun",
+       "reading": "あめ",
+       "romaji": "ame",
+       "gloss": "rain",
+       "glossId": "hujan"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (is/am/are, polite)",
+       "glossId": "kopula (adalah, sopan)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Today is rainy.",
+     "translationId": "Hari ini hujan.",
+     "audioStart": 0.0,
+     "audioEnd": 2.304
+    },
+    {
+     "text": "空はくもりです。",
+     "tokens": [
+      {
+       "surface": "空",
+       "pos": "noun",
+       "reading": "そら",
+       "romaji": "sora",
+       "gloss": "sky",
+       "glossId": "langit"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "くもり",
+       "pos": "noun",
+       "romaji": "kumori",
+       "gloss": "cloudy weather",
+       "glossId": "mendung"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (is/am/are, polite)",
+       "glossId": "kopula (adalah, sopan)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The sky is cloudy.",
+     "translationId": "Langit mendung.",
+     "audioStart": 2.304,
+     "audioEnd": 4.848
+    },
+    {
+     "text": "雨がたくさん降ります。",
+     "tokens": [
+      {
+       "surface": "雨",
+       "pos": "noun",
+       "reading": "あめ",
+       "romaji": "ame",
+       "gloss": "rain",
+       "glossId": "hujan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "降り",
+       "pos": "verb",
+       "reading": "おり",
+       "romaji": "ori",
+       "lemma": "降りる",
+       "gloss": "to get off, to descend",
+       "glossId": "turun, keluar dari (kendaraan)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It rains a lot.",
+     "translationId": "Hujan turun deras.",
+     "audioStart": 4.848,
+     "audioEnd": 7.656
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "日本には雨の季節があります。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to",
+       "glossId": "partikel: di/ke"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "雨",
+       "pos": "noun",
+       "reading": "あめ",
+       "romaji": "ame",
+       "gloss": "rain",
+       "glossId": "hujan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle: of",
+       "glossId": "partikel kepemilikan: punya/dari"
+      },
+      {
+       "surface": "季節",
+       "pos": "noun",
+       "reading": "きせつ",
+       "romaji": "kisetsu",
+       "gloss": "season",
+       "glossId": "musim"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, to have (inanimate)",
+       "glossId": "ada (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Japan has a rainy season.",
+     "translationId": "Di Jepang ada musim hujan.",
+     "audioStart": 7.656,
+     "audioEnd": 11.4
+    },
+    {
+     "text": "六月ごろです。",
+     "tokens": [
+      {
+       "surface": "六",
+       "pos": "noun",
+       "reading": "ろく",
+       "romaji": "roku",
+       "gloss": "six",
+       "glossId": "enam"
+      },
+      {
+       "surface": "月",
+       "pos": "noun",
+       "reading": "がつ",
+       "romaji": "gatsu",
+       "gloss": "month",
+       "glossId": "bulan"
+      },
+      {
+       "surface": "ごろ",
+       "pos": "noun",
+       "romaji": "goro",
+       "gloss": "about, around (time)",
+       "glossId": "sekitar (waktu)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (is/am/are, polite)",
+       "glossId": "kopula (adalah, sopan)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It's around June.",
+     "translationId": "Sekitar bulan Juni.",
+     "audioStart": 11.4,
+     "audioEnd": 13.872
+    },
+    {
+     "text": "毎日雨が降ります。",
+     "tokens": [
+      {
+       "surface": "毎日",
+       "pos": "noun",
+       "reading": "まいにち",
+       "romaji": "mainichi",
+       "gloss": "every day",
+       "glossId": "setiap hari"
+      },
+      {
+       "surface": "雨",
+       "pos": "noun",
+       "reading": "あめ",
+       "romaji": "ame",
+       "gloss": "rain",
+       "glossId": "hujan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "降り",
+       "pos": "verb",
+       "reading": "ふり",
+       "romaji": "furi",
+       "lemma": "降る",
+       "gloss": "to fall (rain/snow)",
+       "glossId": "turun (hujan/salju)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It rains every day.",
+     "translationId": "Hujan turun setiap hari.",
+     "audioStart": 13.872,
+     "audioEnd": 16.8
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "雨の日、人々は傘を使います。",
+     "tokens": [
+      {
+       "surface": "雨",
+       "pos": "noun",
+       "reading": "あめ",
+       "romaji": "ame",
+       "gloss": "rain",
+       "glossId": "hujan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle: of",
+       "glossId": "partikel kepemilikan: punya/dari"
+      },
+      {
+       "surface": "日",
+       "pos": "noun",
+       "reading": "ひ",
+       "romaji": "hi",
+       "gloss": "day",
+       "glossId": "hari"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "人々",
+       "pos": "noun",
+       "reading": "ひとびと",
+       "romaji": "hitobito",
+       "gloss": "people",
+       "glossId": "orang-orang"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "傘",
+       "pos": "noun",
+       "reading": "かさ",
+       "romaji": "kasa",
+       "gloss": "umbrella",
+       "glossId": "payung"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "使い",
+       "pos": "verb",
+       "reading": "つかい",
+       "romaji": "tsukai",
+       "lemma": "使う",
+       "gloss": "to use",
+       "glossId": "memakai, menggunakan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On rainy days, people use umbrellas.",
+     "translationId": "Pada hari hujan, orang-orang memakai payung.",
+     "audioStart": 16.8,
+     "audioEnd": 20.952
+    },
+    {
+     "text": "傘は雨から体を守ります。",
+     "tokens": [
+      {
+       "surface": "傘",
+       "pos": "noun",
+       "reading": "かさ",
+       "romaji": "kasa",
+       "gloss": "umbrella",
+       "glossId": "payung"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "雨",
+       "pos": "noun",
+       "reading": "あめ",
+       "romaji": "ame",
+       "gloss": "rain",
+       "glossId": "hujan"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from",
+       "glossId": "dari"
+      },
+      {
+       "surface": "体",
+       "pos": "noun",
+       "reading": "からだ",
+       "romaji": "karada",
+       "gloss": "body",
+       "glossId": "tubuh"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "守り",
+       "pos": "verb",
+       "reading": "まもり",
+       "romaji": "mamori",
+       "lemma": "守る",
+       "gloss": "to protect",
+       "glossId": "melindungi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Umbrellas protect the body from rain.",
+     "translationId": "Payung melindungi tubuh dari hujan.",
+     "audioStart": 20.952,
+     "audioEnd": 24.576
+    },
+    {
+     "text": "子供も傘を使います。",
+     "tokens": [
+      {
+       "surface": "子供",
+       "pos": "noun",
+       "reading": "こども",
+       "romaji": "kodomo",
+       "gloss": "child",
+       "glossId": "anak"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "傘",
+       "pos": "noun",
+       "reading": "かさ",
+       "romaji": "kasa",
+       "gloss": "umbrella",
+       "glossId": "payung"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "使い",
+       "pos": "verb",
+       "reading": "つかい",
+       "romaji": "tsukai",
+       "lemma": "使う",
+       "gloss": "to use",
+       "glossId": "memakai, menggunakan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Children also use umbrellas.",
+     "translationId": "Anak-anak juga memakai payung.",
+     "audioStart": 24.576,
+     "audioEnd": 27.6
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "道は水でぬれます。",
+     "tokens": [
+      {
+       "surface": "道",
+       "pos": "noun",
+       "reading": "みち",
+       "romaji": "michi",
+       "gloss": "road, street",
+       "glossId": "jalan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "水",
+       "pos": "noun",
+       "reading": "みず",
+       "romaji": "mizu",
+       "gloss": "water",
+       "glossId": "air"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location",
+       "glossId": "partikel: cara/tempat"
+      },
+      {
+       "surface": "ぬれ",
+       "pos": "verb",
+       "romaji": "nure",
+       "lemma": "ぬれる",
+       "gloss": "to get wet",
+       "glossId": "basah"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The roads get wet with water.",
+     "translationId": "Jalan menjadi basah karena air.",
+     "audioStart": 27.6,
+     "audioEnd": 30.312
+    },
+    {
+     "text": "長靴もいいです。",
+     "tokens": [
+      {
+       "surface": "長靴",
+       "pos": "noun",
+       "reading": "ながぐつ",
+       "romaji": "nagagutsu",
+       "gloss": "rain boots",
+       "glossId": "sepatu bot hujan"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good",
+       "glossId": "bagus"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (is/am/are, polite)",
+       "glossId": "kopula (adalah, sopan)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Rain boots are also good.",
+     "translationId": "Sepatu bot hujan juga bagus.",
+     "audioStart": 30.312,
+     "audioEnd": 32.88
+    },
+    {
+     "text": "雨の音は静かです。",
+     "tokens": [
+      {
+       "surface": "雨",
+       "pos": "noun",
+       "reading": "あめ",
+       "romaji": "ame",
+       "gloss": "rain",
+       "glossId": "hujan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle: of",
+       "glossId": "partikel kepemilikan: punya/dari"
+      },
+      {
+       "surface": "音",
+       "pos": "noun",
+       "reading": "おと",
+       "romaji": "oto",
+       "gloss": "sound",
+       "glossId": "suara"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "静か",
+       "pos": "adjective",
+       "reading": "しずか",
+       "romaji": "shizuka",
+       "gloss": "quiet, calm",
+       "glossId": "tenang"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (is/am/are, polite)",
+       "glossId": "kopula (adalah, sopan)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The sound of rain is quiet.",
+     "translationId": "Suara hujan itu tenang.",
+     "audioStart": 32.88,
+     "audioEnd": 35.736
+    }
+   ]
+  }
+ ]
+}

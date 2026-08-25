@@ -1,0 +1,686 @@
+{
+ "schemaVersion": 1,
+ "id": "my-family",
+ "language": "ja",
+ "title": "わたしの かぞく",
+ "titleTranslation": "My Family",
+ "titleTranslationId": "Keluarga Saya",
+ "level": "Beginner",
+ "summary": "The narrator introduces their family of four—father, mother, older brother, and themselves—describing each person's job or studies and their daily life together.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T08:05:07+00:00",
+ "audioFile": "audio.mp3",
+ "voice": "ja-JP-KeitaNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "わたしの かぞくは よにんです。",
+     "tokens": [
+      {
+       "surface": "わたし",
+       "pos": "pronoun",
+       "romaji": "watashi",
+       "gloss": "I, me",
+       "glossId": "saya"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of/'s'",
+       "glossId": "partikel kepemilikan 'punya/dari'"
+      },
+      {
+       "surface": "かぞく",
+       "pos": "noun",
+       "romaji": "kazoku",
+       "gloss": "family",
+       "glossId": "keluarga"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "よ",
+       "pos": "particle",
+       "romaji": "yo",
+       "gloss": "four (reading of 4)",
+       "glossId": "empat (bacaan angka 4)"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "なり",
+       "gloss": "to be/consist of (copula)",
+       "glossId": "menjadi/adalah (kopula)"
+      },
+      {
+       "surface": "ん",
+       "pos": "particle",
+       "romaji": "n",
+       "gloss": "counter suffix for people (part of にん)",
+       "glossId": "sufiks penghitung orang (bagian dari にん)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula 'is'",
+       "glossId": "kopula 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "My family has four people.",
+     "translationId": "Keluarga saya berjumlah empat orang.",
+     "audioStart": 0.0,
+     "audioEnd": 2.904
+    },
+    {
+     "text": "ちちと ははと あにと わたしです。",
+     "tokens": [
+      {
+       "surface": "ちち",
+       "pos": "adverb",
+       "romaji": "chichi",
+       "gloss": "father (own)",
+       "glossId": "ayah (sendiri)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and (connecting particle)",
+       "glossId": "dan (partikel penghubung)"
+      },
+      {
+       "surface": "はは",
+       "pos": "interjection",
+       "romaji": "haha",
+       "gloss": "mother (own)",
+       "glossId": "ibu (sendiri)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and (connecting particle)",
+       "glossId": "dan (partikel penghubung)"
+      },
+      {
+       "surface": "あに",
+       "pos": "adverb",
+       "romaji": "ani",
+       "gloss": "older brother",
+       "glossId": "kakak laki-laki"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and (connecting particle)",
+       "glossId": "dan (partikel penghubung)"
+      },
+      {
+       "surface": "わたし",
+       "pos": "pronoun",
+       "romaji": "watashi",
+       "gloss": "I, me",
+       "glossId": "saya"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula 'is'",
+       "glossId": "kopula 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There's my father, my mother, my older brother, and me.",
+     "translationId": "Ada ayah, ibu, kakak laki-laki, dan saya.",
+     "audioStart": 2.904,
+     "audioEnd": 5.88
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ちちは かいしゃいんです。",
+     "tokens": [
+      {
+       "surface": "ちち",
+       "pos": "adverb",
+       "romaji": "chichi",
+       "gloss": "father (own)",
+       "glossId": "ayah (sendiri)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question particle / or",
+       "glossId": "partikel tanya / atau"
+      },
+      {
+       "surface": "いしゃ",
+       "pos": "noun",
+       "romaji": "isha",
+       "gloss": "doctor",
+       "glossId": "dokter"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist, to be (animate)",
+       "glossId": "ada, berada (untuk makhluk hidup)"
+      },
+      {
+       "surface": "ん",
+       "pos": "particle",
+       "romaji": "n",
+       "gloss": "counter suffix for people (part of にん)",
+       "glossId": "sufiks penghitung orang (bagian dari にん)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula 'is'",
+       "glossId": "kopula 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "My father is a company employee.",
+     "translationId": "Ayah saya seorang karyawan perusahaan.",
+     "audioStart": 5.88,
+     "audioEnd": 8.304
+    },
+    {
+     "text": "まいにち かいしゃへ いきます。",
+     "tokens": [
+      {
+       "surface": "まいにち",
+       "pos": "noun",
+       "romaji": "mainichi",
+       "gloss": "every day",
+       "glossId": "setiap hari"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question particle / or",
+       "glossId": "partikel tanya / atau"
+      },
+      {
+       "surface": "いしゃ",
+       "pos": "noun",
+       "romaji": "isha",
+       "gloss": "doctor",
+       "glossId": "dokter"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "direction particle 'to/toward'",
+       "glossId": "partikel arah 'ke'"
+      },
+      {
+       "surface": "いき",
+       "pos": "verb",
+       "romaji": "iki",
+       "lemma": "いく",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "He goes to the company every day.",
+     "translationId": "Dia pergi ke kantor setiap hari.",
+     "audioStart": 8.304,
+     "audioEnd": 10.968
+    },
+    {
+     "text": "ははは がっこうの せんせいです。",
+     "tokens": [
+      {
+       "surface": "ははは",
+       "pos": "interjection",
+       "romaji": "hahaha",
+       "gloss": "mother + topic marker (combined)",
+       "glossId": "ibu + partikel topik (gabungan)"
+      },
+      {
+       "surface": "がっこう",
+       "pos": "noun",
+       "romaji": "gakkou",
+       "gloss": "school",
+       "glossId": "sekolah"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of/'s'",
+       "glossId": "partikel kepemilikan 'punya/dari'"
+      },
+      {
+       "surface": "せんせい",
+       "pos": "noun",
+       "romaji": "sensei",
+       "gloss": "teacher",
+       "glossId": "guru"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula 'is'",
+       "glossId": "kopula 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "My mother is a school teacher.",
+     "translationId": "Ibu saya seorang guru sekolah.",
+     "audioStart": 10.968,
+     "audioEnd": 13.872
+    },
+    {
+     "text": "こどもに えいごを おしえます。",
+     "tokens": [
+      {
+       "surface": "こども",
+       "pos": "noun",
+       "romaji": "kodomo",
+       "gloss": "child, children",
+       "glossId": "anak"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle 'to' (indirect object)",
+       "glossId": "partikel 'kepada'"
+      },
+      {
+       "surface": "えいご",
+       "pos": "noun",
+       "romaji": "eigo",
+       "gloss": "English (language)",
+       "glossId": "bahasa Inggris"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker particle",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "おしえ",
+       "pos": "verb",
+       "romaji": "oshie",
+       "lemma": "おしえる",
+       "gloss": "to teach",
+       "glossId": "mengajar"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "She teaches English to children.",
+     "translationId": "Dia mengajar bahasa Inggris kepada anak-anak.",
+     "audioStart": 13.872,
+     "audioEnd": 16.608
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "あには だいがくせいです。",
+     "tokens": [
+      {
+       "surface": "あ",
+       "pos": "interjection",
+       "romaji": "a",
+       "gloss": "ah (interjection; fragment of あに)",
+       "glossId": "ah (interjeksi; pecahan dari あに)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle 'to' (indirect object)",
+       "glossId": "partikel 'kepada'"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "だいがく",
+       "pos": "noun",
+       "romaji": "daigaku",
+       "gloss": "university",
+       "glossId": "universitas"
+      },
+      {
+       "surface": "せい",
+       "pos": "suffix",
+       "romaji": "sei",
+       "gloss": "student (suffix, part of がくせい)",
+       "glossId": "akhiran 'siswa/mahasiswa'"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula 'is'",
+       "glossId": "kopula 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "My older brother is a university student.",
+     "translationId": "Kakak laki-laki saya adalah mahasiswa.",
+     "audioStart": 16.608,
+     "audioEnd": 19.2
+    },
+    {
+     "text": "だいがくで べんきょうします。",
+     "tokens": [
+      {
+       "surface": "だいがく",
+       "pos": "noun",
+       "romaji": "daigaku",
+       "gloss": "university",
+       "glossId": "universitas"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle 'at/by' (location of action)",
+       "glossId": "partikel lokasi tindakan 'di'"
+      },
+      {
+       "surface": "べんきょう",
+       "pos": "noun",
+       "romaji": "benkyou",
+       "gloss": "study",
+       "glossId": "belajar"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "He studies at university.",
+     "translationId": "Dia belajar di universitas.",
+     "audioStart": 19.2,
+     "audioEnd": 21.912
+    },
+    {
+     "text": "あには スポーツも すきです。",
+     "tokens": [
+      {
+       "surface": "あ",
+       "pos": "interjection",
+       "romaji": "a",
+       "gloss": "ah (interjection; fragment of あに)",
+       "glossId": "ah (interjeksi; pecahan dari あに)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle 'to' (indirect object)",
+       "glossId": "partikel 'kepada'"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "スポーツ",
+       "pos": "noun",
+       "romaji": "supootsu",
+       "gloss": "sports",
+       "glossId": "olahraga"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "すき",
+       "pos": "adjective",
+       "romaji": "suki",
+       "gloss": "liked, fond of",
+       "glossId": "suka"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula 'is'",
+       "glossId": "kopula 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "My older brother also likes sports.",
+     "translationId": "Kakak laki-laki saya juga suka olahraga.",
+     "audioStart": 21.912,
+     "audioEnd": 24.648
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "わたしたちは まいばん いっしょに ごはんを たべます。",
+     "tokens": [
+      {
+       "surface": "わたしたち",
+       "pos": "pronoun",
+       "romaji": "watashitachi",
+       "gloss": "we, us",
+       "glossId": "kami, kita"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "まいばん",
+       "pos": "noun",
+       "romaji": "maiban",
+       "gloss": "every night",
+       "glossId": "setiap malam"
+      },
+      {
+       "surface": "いっしょ",
+       "pos": "noun",
+       "romaji": "issho",
+       "gloss": "together",
+       "glossId": "bersama"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle 'to' (indirect object)",
+       "glossId": "partikel 'kepada'"
+      },
+      {
+       "surface": "ごはん",
+       "pos": "noun",
+       "romaji": "gohan",
+       "gloss": "rice, meal",
+       "glossId": "nasi, makanan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker particle",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "たべ",
+       "pos": "verb",
+       "romaji": "tabe",
+       "lemma": "たべる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "We eat dinner together every night.",
+     "translationId": "Kami makan malam bersama setiap malam.",
+     "audioStart": 24.648,
+     "audioEnd": 28.656
+    },
+    {
+     "text": "かぞくは とても たいせつです。",
+     "tokens": [
+      {
+       "surface": "かぞく",
+       "pos": "noun",
+       "romaji": "kazoku",
+       "gloss": "family",
+       "glossId": "keluarga"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "たいせつ",
+       "pos": "adjective",
+       "romaji": "taisetsu",
+       "gloss": "important",
+       "glossId": "penting"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula 'is'",
+       "glossId": "kopula 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Family is very important.",
+     "translationId": "Keluarga sangat penting.",
+     "audioStart": 28.656,
+     "audioEnd": 31.488
+    }
+   ]
+  }
+ ]
+}

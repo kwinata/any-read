@@ -1,5 +1,77 @@
 [
  {
+  "id": "summer-festival",
+  "language": "ja",
+  "title": "夏祭り",
+  "titleTranslation": "Summer Festival",
+  "level": "Beginner",
+  "summary": "The article describes a fun summer festival with food stalls, yukata, shaved ice, and fireworks at night.",
+  "createdAt": "2026-08-25T08:05:24+00:00",
+  "hasAudio": true,
+  "generated": true,
+  "broadcast": false
+ },
+ {
+  "id": "baths-and-hot-springs",
+  "language": "ja",
+  "title": "おふろと おんせん",
+  "titleTranslation": "Baths and Hot Springs",
+  "level": "Beginner",
+  "summary": "The narrator explains why they love baths and describes how Japanese hot springs (onsen) work, ending with a wish to visit one this weekend.",
+  "createdAt": "2026-08-25T08:05:10+00:00",
+  "hasAudio": true,
+  "generated": true,
+  "broadcast": false
+ },
+ {
+  "id": "my-family",
+  "language": "ja",
+  "title": "わたしの かぞく",
+  "titleTranslation": "My Family",
+  "level": "Beginner",
+  "summary": "The narrator introduces their family of four—father, mother, older brother, and themselves—describing each person's job or studies and their daily life together.",
+  "createdAt": "2026-08-25T08:05:07+00:00",
+  "hasAudio": true,
+  "generated": true,
+  "broadcast": false
+ },
+ {
+  "id": "rain-and-umbrellas",
+  "language": "ja",
+  "title": "雨と傘",
+  "titleTranslation": "Rain and Umbrellas",
+  "level": "Beginner",
+  "summary": "The article describes Japan's rainy season around June, when people use umbrellas and rain boots to stay dry as the streets get wet.",
+  "createdAt": "2026-08-25T08:04:36+00:00",
+  "hasAudio": true,
+  "generated": true,
+  "broadcast": false
+ },
+ {
+  "id": "shopping-at-the-supermarket",
+  "language": "ja",
+  "title": "スーパーで買い物",
+  "titleTranslation": "Shopping at the Supermarket",
+  "level": "Beginner",
+  "summary": "A person visits the supermarket near their house to buy vegetables, fruit, bread, and milk for 500 yen total, and looks forward to going again tomorrow.",
+  "createdAt": "2026-08-25T08:04:17+00:00",
+  "hasAudio": true,
+  "generated": true,
+  "broadcast": false
+ },
+ {
+  "id": "the-ramen-shop",
+  "language": "ja",
+  "title": "ラーメンの店",
+  "titleTranslation": "The Ramen Shop",
+  "level": "Beginner",
+  "summary": "The writer loves ramen and describes visiting a ramen shop, what's in the dish, and enjoying the meal with chopsticks.",
+  "createdAt": "2026-08-25T08:04:01+00:00",
+  "hasAudio": true,
+  "generated": true,
+  "broadcast": false
+ },
+ {
   "id": "japan-s-four-seasons",
   "language": "ja",
   "title": "日本の四季",

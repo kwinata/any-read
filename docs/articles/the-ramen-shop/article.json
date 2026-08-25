@@ -1,0 +1,877 @@
+{
+ "schemaVersion": 1,
+ "id": "the-ramen-shop",
+ "language": "ja",
+ "title": "ラーメンの店",
+ "titleTranslation": "The Ramen Shop",
+ "titleTranslationId": "Toko Ramen",
+ "level": "Beginner",
+ "summary": "The writer loves ramen and describes visiting a ramen shop, what's in the dish, and enjoying the meal with chopsticks.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T08:04:01+00:00",
+ "audioFile": "audio.mp3",
+ "voice": "ja-JP-NanamiNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "わたしはラーメンが すきです。",
+     "tokens": [
+      {
+       "surface": "わたし",
+       "pos": "pronoun",
+       "romaji": "watashi",
+       "gloss": "I, me",
+       "glossId": "saya"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "ラーメン",
+       "pos": "noun",
+       "romaji": "raamen",
+       "gloss": "ramen",
+       "glossId": "ramen"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "すき",
+       "pos": "adjective",
+       "romaji": "suki",
+       "gloss": "fond of, likeable (na-adjective)",
+       "glossId": "suka (kata sifat-na)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (is/am/are)",
+       "glossId": "kopula (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I like ramen.",
+     "translationId": "Saya suka ramen.",
+     "audioStart": 0.0,
+     "audioEnd": 3.072
+    },
+    {
+     "text": "ラーメンは にほんの たべものです。",
+     "tokens": [
+      {
+       "surface": "ラーメン",
+       "pos": "noun",
+       "romaji": "raamen",
+       "gloss": "ramen",
+       "glossId": "ramen"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "にほん",
+       "pos": "noun",
+       "romaji": "nihon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'",
+       "glossId": "penanda kepemilikan 'dari'"
+      },
+      {
+       "surface": "たべもの",
+       "pos": "noun",
+       "romaji": "tabemono",
+       "gloss": "food",
+       "glossId": "makanan"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (is/am/are)",
+       "glossId": "kopula (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Ramen is a Japanese food.",
+     "translationId": "Ramen adalah makanan Jepang.",
+     "audioStart": 3.072,
+     "audioEnd": 6.456
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ラーメンには いろいろな しゅるいが あります。",
+     "tokens": [
+      {
+       "surface": "ラーメン",
+       "pos": "noun",
+       "romaji": "raamen",
+       "gloss": "ramen",
+       "glossId": "ramen"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/existence",
+       "glossId": "partikel penanda lokasi/keberadaan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "いろいろ",
+       "pos": "adjective",
+       "romaji": "iroiro",
+       "gloss": "various, several kinds",
+       "glossId": "bermacam-macam"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula, plain form",
+       "glossId": "kopula bentuk biasa"
+      },
+      {
+       "surface": "しゅるい",
+       "pos": "noun",
+       "romaji": "shurui",
+       "gloss": "type, kind",
+       "glossId": "jenis, macam"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate things)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Ramen has various types.",
+     "translationId": "Ramen memiliki berbagai jenis.",
+     "audioStart": 6.456,
+     "audioEnd": 10.464
+    },
+    {
+     "text": "しおラーメン、しょうゆラーメン、みそラーメンが あります。",
+     "tokens": [
+      {
+       "surface": "しお",
+       "pos": "noun",
+       "romaji": "shio",
+       "gloss": "salt",
+       "glossId": "garam"
+      },
+      {
+       "surface": "ラーメン",
+       "pos": "noun",
+       "romaji": "raamen",
+       "gloss": "ramen",
+       "glossId": "ramen"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "しょうゆラーメン",
+       "pos": "noun",
+       "romaji": "shouyuraamen",
+       "gloss": "soy sauce ramen",
+       "glossId": "ramen kecap asin"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "みそ",
+       "pos": "noun",
+       "romaji": "miso",
+       "gloss": "miso",
+       "glossId": "miso"
+      },
+      {
+       "surface": "ラーメン",
+       "pos": "noun",
+       "romaji": "raamen",
+       "gloss": "ramen",
+       "glossId": "ramen"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate things)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There is salt ramen, soy sauce ramen, and miso ramen.",
+     "translationId": "Ada ramen garam, ramen kecap asin, dan ramen miso.",
+     "audioStart": 10.464,
+     "audioEnd": 15.624
+    },
+    {
+     "text": "どれも おいしいです。",
+     "tokens": [
+      {
+       "surface": "どれ",
+       "pos": "pronoun",
+       "romaji": "dore",
+       "gloss": "which one",
+       "glossId": "yang mana"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too (particle)",
+       "glossId": "juga (partikel)"
+      },
+      {
+       "surface": "おいしい",
+       "pos": "adjective",
+       "romaji": "oishii",
+       "gloss": "delicious",
+       "glossId": "enak"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (is/am/are)",
+       "glossId": "kopula (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "All of them are delicious.",
+     "translationId": "Semuanya enak.",
+     "audioStart": 15.624,
+     "audioEnd": 18.144
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ラーメンの みせに いきます。",
+     "tokens": [
+      {
+       "surface": "ラーメン",
+       "pos": "noun",
+       "romaji": "raamen",
+       "gloss": "ramen",
+       "glossId": "ramen"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'",
+       "glossId": "penanda kepemilikan 'dari'"
+      },
+      {
+       "surface": "みせ",
+       "pos": "noun",
+       "romaji": "mise",
+       "gloss": "shop, store",
+       "glossId": "toko"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/existence",
+       "glossId": "partikel penanda lokasi/keberadaan"
+      },
+      {
+       "surface": "いき",
+       "pos": "verb",
+       "romaji": "iki",
+       "lemma": "いく",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I go to a ramen shop.",
+     "translationId": "Saya pergi ke toko ramen.",
+     "audioStart": 18.144,
+     "audioEnd": 21.12
+    },
+    {
+     "text": "メニューを みます。",
+     "tokens": [
+      {
+       "surface": "メニュー",
+       "pos": "noun",
+       "romaji": "menyuu",
+       "gloss": "menu",
+       "glossId": "menu"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "み",
+       "pos": "verb",
+       "romaji": "mi",
+       "lemma": "みる",
+       "gloss": "to see, to look at",
+       "glossId": "melihat"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I look at the menu.",
+     "translationId": "Saya melihat menu.",
+     "audioStart": 21.12,
+     "audioEnd": 23.424
+    },
+    {
+     "text": "それから ちゅうもんします。",
+     "tokens": [
+      {
+       "surface": "それ",
+       "pos": "pronoun",
+       "romaji": "sore",
+       "gloss": "that",
+       "glossId": "itu"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from; after that (then)",
+       "glossId": "dari; setelah itu (lalu)"
+      },
+      {
+       "surface": "ちゅう",
+       "pos": "auxiliary",
+       "romaji": "chuu",
+       "gloss": "part of 注文 (chuumon, 'order')",
+       "glossId": "bagian dari 注文 (chuumon, 'memesan')"
+      },
+      {
+       "surface": "もん",
+       "pos": "noun",
+       "romaji": "mon",
+       "gloss": "part of 注文 (chuumon, 'order')",
+       "glossId": "bagian dari 注文 (chuumon, 'memesan')"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Then I order.",
+     "translationId": "Lalu saya memesan.",
+     "audioStart": 23.424,
+     "audioEnd": 26.256
+    },
+    {
+     "text": "ラーメンには めんと スープと にくが あります。",
+     "tokens": [
+      {
+       "surface": "ラーメン",
+       "pos": "noun",
+       "romaji": "raamen",
+       "gloss": "ramen",
+       "glossId": "ramen"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/existence",
+       "glossId": "partikel penanda lokasi/keberadaan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "めん",
+       "pos": "noun",
+       "romaji": "men",
+       "gloss": "noodles",
+       "glossId": "mi"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and (connects nouns)",
+       "glossId": "dan (menghubungkan kata benda)"
+      },
+      {
+       "surface": "スープ",
+       "pos": "noun",
+       "romaji": "suupu",
+       "gloss": "soup",
+       "glossId": "sup"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and (connects nouns)",
+       "glossId": "dan (menghubungkan kata benda)"
+      },
+      {
+       "surface": "にく",
+       "pos": "noun",
+       "romaji": "niku",
+       "gloss": "meat",
+       "glossId": "daging"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate things)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Ramen has noodles, soup, and meat.",
+     "translationId": "Ramen memiliki mi, sup, dan daging.",
+     "audioStart": 26.256,
+     "audioEnd": 30.408
+    },
+    {
+     "text": "やさいも すこし あります。",
+     "tokens": [
+      {
+       "surface": "やさい",
+       "pos": "noun",
+       "romaji": "yasai",
+       "gloss": "vegetable",
+       "glossId": "sayur"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too (particle)",
+       "glossId": "juga (partikel)"
+      },
+      {
+       "surface": "すこし",
+       "pos": "adverb",
+       "romaji": "sukoshi",
+       "gloss": "a little, a few",
+       "glossId": "sedikit"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate things)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are also a few vegetables.",
+     "translationId": "Ada juga sedikit sayur.",
+     "audioStart": 30.408,
+     "audioEnd": 33.264
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ラーメンは あついです。",
+     "tokens": [
+      {
+       "surface": "ラーメン",
+       "pos": "noun",
+       "romaji": "raamen",
+       "gloss": "ramen",
+       "glossId": "ramen"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "あつい",
+       "pos": "adjective",
+       "romaji": "atsui",
+       "gloss": "hot",
+       "glossId": "panas"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (is/am/are)",
+       "glossId": "kopula (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Ramen is hot.",
+     "translationId": "Ramen itu panas.",
+     "audioStart": 33.264,
+     "audioEnd": 35.976
+    },
+    {
+     "text": "はしで たべます。",
+     "tokens": [
+      {
+       "surface": "はし",
+       "pos": "noun",
+       "romaji": "hashi",
+       "gloss": "chopsticks",
+       "glossId": "sumpit"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking means/instrument",
+       "glossId": "partikel penanda alat/cara"
+      },
+      {
+       "surface": "たべ",
+       "pos": "verb",
+       "romaji": "tabe",
+       "lemma": "たべる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I eat with chopsticks.",
+     "translationId": "Saya makan dengan sumpit.",
+     "audioStart": 35.976,
+     "audioEnd": 38.304
+    },
+    {
+     "text": "スープも のみます。",
+     "tokens": [
+      {
+       "surface": "スープ",
+       "pos": "noun",
+       "romaji": "suupu",
+       "gloss": "soup",
+       "glossId": "sup"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too (particle)",
+       "glossId": "juga (partikel)"
+      },
+      {
+       "surface": "のみ",
+       "pos": "particle",
+       "romaji": "nomi",
+       "gloss": "drink (stem of 飲む, nomu)",
+       "glossId": "minum (bentuk dasar 飲む)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I drink the soup too.",
+     "translationId": "Saya juga minum supnya.",
+     "audioStart": 38.304,
+     "audioEnd": 40.872
+    },
+    {
+     "text": "とても おいしいです。",
+     "tokens": [
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "おいしい",
+       "pos": "adjective",
+       "romaji": "oishii",
+       "gloss": "delicious",
+       "glossId": "enak"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (is/am/are)",
+       "glossId": "kopula (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It's very delicious.",
+     "translationId": "Sangat enak.",
+     "audioStart": 40.872,
+     "audioEnd": 43.392
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "こんど、また ラーメンの みせに いきたいです。",
+     "tokens": [
+      {
+       "surface": "こんど",
+       "pos": "noun",
+       "romaji": "kondo",
+       "gloss": "next time",
+       "glossId": "lain kali"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "また",
+       "pos": "adverb",
+       "romaji": "mata",
+       "gloss": "again",
+       "glossId": "lagi"
+      },
+      {
+       "surface": "ラーメン",
+       "pos": "noun",
+       "romaji": "raamen",
+       "gloss": "ramen",
+       "glossId": "ramen"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle 'of'",
+       "glossId": "penanda kepemilikan 'dari'"
+      },
+      {
+       "surface": "みせ",
+       "pos": "noun",
+       "romaji": "mise",
+       "gloss": "shop, store",
+       "glossId": "toko"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/existence",
+       "glossId": "partikel penanda lokasi/keberadaan"
+      },
+      {
+       "surface": "いき",
+       "pos": "verb",
+       "romaji": "iki",
+       "lemma": "いく",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desire suffix)",
+       "glossId": "akhiran 'ingin melakukan sesuatu'"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula (is/am/are)",
+       "glossId": "kopula (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Next time, I want to go to the ramen shop again.",
+     "translationId": "Lain kali, saya ingin pergi ke toko ramen lagi.",
+     "audioStart": 43.392,
+     "audioEnd": 47.568
+    }
+   ]
+  }
+ ]
+}

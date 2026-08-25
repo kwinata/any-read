@@ -1,0 +1,630 @@
+{
+ "schemaVersion": 1,
+ "id": "summer-festival",
+ "language": "ja",
+ "title": "夏祭り",
+ "titleTranslation": "Summer Festival",
+ "titleTranslationId": "Festival Musim Panas",
+ "level": "Beginner",
+ "summary": "The article describes a fun summer festival with food stalls, yukata, shaved ice, and fireworks at night.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T08:05:24+00:00",
+ "audioFile": "audio.mp3",
+ "voice": "ja-JP-NanamiNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "夏です。",
+     "tokens": [
+      {
+       "surface": "夏",
+       "pos": "noun",
+       "reading": "なつ",
+       "romaji": "natsu",
+       "gloss": "summer",
+       "glossId": "musim panas"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula ('is')",
+       "glossId": "kopula sopan ('adalah')"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It is summer.",
+     "translationId": "Sekarang musim panas.",
+     "audioStart": 0.0,
+     "audioEnd": 1.872
+    },
+    {
+     "text": "夏祭りがあります。",
+     "tokens": [
+      {
+       "surface": "夏祭り",
+       "pos": "noun",
+       "reading": "なつまつり",
+       "romaji": "natsumatsuri",
+       "gloss": "summer festival",
+       "glossId": "festival musim panas"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist / to be (inanimate)",
+       "glossId": "ada, terdapat (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There is a summer festival.",
+     "translationId": "Ada festival musim panas.",
+     "audioStart": 1.872,
+     "audioEnd": 4.536
+    },
+    {
+     "text": "たくさんの人が来ます。",
+     "tokens": [
+      {
+       "surface": "たくさん",
+       "pos": "adjective",
+       "romaji": "takusan",
+       "gloss": "a lot, many",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle",
+       "glossId": "partikel kepemilikan/penghubung"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "来",
+       "pos": "verb",
+       "reading": "き",
+       "romaji": "ki",
+       "lemma": "来る",
+       "gloss": "to come",
+       "glossId": "datang"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many people come.",
+     "translationId": "Banyak orang datang.",
+     "audioStart": 4.536,
+     "audioEnd": 7.344
+    },
+    {
+     "text": "女の人は浴衣を着ます。",
+     "tokens": [
+      {
+       "surface": "女",
+       "pos": "noun",
+       "reading": "おんな",
+       "romaji": "onna",
+       "gloss": "woman",
+       "glossId": "wanita"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle",
+       "glossId": "partikel kepemilikan/penghubung"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "浴衣",
+       "pos": "noun",
+       "reading": "ゆかた",
+       "romaji": "yukata",
+       "gloss": "yukata (summer kimono)",
+       "glossId": "yukata (kimono musim panas)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "着",
+       "pos": "verb",
+       "reading": "き",
+       "romaji": "ki",
+       "lemma": "着る",
+       "gloss": "to wear",
+       "glossId": "memakai (baju)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Women wear yukata.",
+     "translationId": "Para wanita memakai yukata.",
+     "audioStart": 7.344,
+     "audioEnd": 10.536
+    },
+    {
+     "text": "浴衣はきれいです。",
+     "tokens": [
+      {
+       "surface": "浴衣",
+       "pos": "noun",
+       "reading": "ゆかた",
+       "romaji": "yukata",
+       "gloss": "yukata (summer kimono)",
+       "glossId": "yukata (kimono musim panas)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "きれい",
+       "pos": "adjective",
+       "romaji": "kirei",
+       "gloss": "pretty, beautiful",
+       "glossId": "indah, cantik"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula ('is')",
+       "glossId": "kopula sopan ('adalah')"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Yukata are beautiful.",
+     "translationId": "Yukata itu indah.",
+     "audioStart": 10.536,
+     "audioEnd": 13.128
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "祭りには屋台があります。",
+     "tokens": [
+      {
+       "surface": "祭り",
+       "pos": "noun",
+       "reading": "まつり",
+       "romaji": "matsuri",
+       "gloss": "festival",
+       "glossId": "festival"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time marker",
+       "glossId": "penanda waktu/lokasi"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "屋台",
+       "pos": "noun",
+       "reading": "やたい",
+       "romaji": "yatai",
+       "gloss": "food stall",
+       "glossId": "warung/gerobak makanan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist / to be (inanimate)",
+       "glossId": "ada, terdapat (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are food stalls at the festival.",
+     "translationId": "Di festival ada warung-warung.",
+     "audioStart": 13.128,
+     "audioEnd": 16.32
+    },
+    {
+     "text": "屋台でたこ焼きを食べます。",
+     "tokens": [
+      {
+       "surface": "屋台",
+       "pos": "noun",
+       "reading": "やたい",
+       "romaji": "yatai",
+       "gloss": "food stall",
+       "glossId": "warung/gerobak makanan"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location of action marker",
+       "glossId": "penanda lokasi kegiatan"
+      },
+      {
+       "surface": "たこ焼き",
+       "pos": "noun",
+       "reading": "たこやき",
+       "romaji": "takoyaki",
+       "gloss": "takoyaki (octopus balls)",
+       "glossId": "takoyaki (bola gurita)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They eat takoyaki at the stalls.",
+     "translationId": "Mereka makan takoyaki di warung.",
+     "audioStart": 16.32,
+     "audioEnd": 19.488
+    },
+    {
+     "text": "かき氷も食べます。",
+     "tokens": [
+      {
+       "surface": "かき氷",
+       "pos": "noun",
+       "reading": "かきごおり",
+       "romaji": "kakigoori",
+       "gloss": "shaved ice",
+       "glossId": "es serut"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They also eat shaved ice.",
+     "translationId": "Mereka juga makan es serut.",
+     "audioStart": 19.488,
+     "audioEnd": 22.176
+    },
+    {
+     "text": "かき氷は冷たいです。",
+     "tokens": [
+      {
+       "surface": "かき氷",
+       "pos": "noun",
+       "reading": "かきごおり",
+       "romaji": "kakigoori",
+       "gloss": "shaved ice",
+       "glossId": "es serut"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "冷たい",
+       "pos": "adjective",
+       "reading": "つめたい",
+       "romaji": "tsumetai",
+       "gloss": "cold (to touch)",
+       "glossId": "dingin (sentuhan)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula ('is')",
+       "glossId": "kopula sopan ('adalah')"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The shaved ice is cold.",
+     "translationId": "Es serutnya dingin.",
+     "audioStart": 22.176,
+     "audioEnd": 25.224
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "夜に花火を見ます。",
+     "tokens": [
+      {
+       "surface": "夜",
+       "pos": "noun",
+       "reading": "よる",
+       "romaji": "yoru",
+       "gloss": "night",
+       "glossId": "malam"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/time marker",
+       "glossId": "penanda waktu/lokasi"
+      },
+      {
+       "surface": "花火",
+       "pos": "noun",
+       "reading": "はなび",
+       "romaji": "hanabi",
+       "gloss": "fireworks",
+       "glossId": "kembang api"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "見",
+       "pos": "verb",
+       "reading": "み",
+       "romaji": "mi",
+       "lemma": "見る",
+       "gloss": "to see, to watch",
+       "glossId": "melihat, menonton"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They watch fireworks at night.",
+     "translationId": "Mereka melihat kembang api di malam hari.",
+     "audioStart": 25.224,
+     "audioEnd": 28.008
+    },
+    {
+     "text": "花火は大きいです。",
+     "tokens": [
+      {
+       "surface": "花火",
+       "pos": "noun",
+       "reading": "はなび",
+       "romaji": "hanabi",
+       "gloss": "fireworks",
+       "glossId": "kembang api"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "大きい",
+       "pos": "adjective",
+       "reading": "おおきい",
+       "romaji": "ookii",
+       "gloss": "big",
+       "glossId": "besar"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula ('is')",
+       "glossId": "kopula sopan ('adalah')"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The fireworks are big.",
+     "translationId": "Kembang apinya besar.",
+     "audioStart": 28.008,
+     "audioEnd": 30.744
+    },
+    {
+     "text": "夏祭りは楽しいです。",
+     "tokens": [
+      {
+       "surface": "夏祭り",
+       "pos": "noun",
+       "reading": "なつまつり",
+       "romaji": "natsumatsuri",
+       "gloss": "summer festival",
+       "glossId": "festival musim panas"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "楽しい",
+       "pos": "adjective",
+       "reading": "たのしい",
+       "romaji": "tanoshii",
+       "gloss": "fun, enjoyable",
+       "glossId": "menyenangkan"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula ('is')",
+       "glossId": "kopula sopan ('adalah')"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The summer festival is fun.",
+     "translationId": "Festival musim panas itu menyenangkan.",
+     "audioStart": 30.744,
+     "audioEnd": 33.84
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,732 @@
+{
+ "schemaVersion": 1,
+ "id": "shopping-at-the-supermarket",
+ "language": "ja",
+ "title": "スーパーで買い物",
+ "titleTranslation": "Shopping at the Supermarket",
+ "titleTranslationId": "Belanja di Supermarket",
+ "level": "Beginner",
+ "summary": "A person visits the supermarket near their house to buy vegetables, fruit, bread, and milk for 500 yen total, and looks forward to going again tomorrow.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T08:04:17+00:00",
+ "audioFile": "audio.mp3",
+ "voice": "ja-JP-KeitaNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "きょう、スーパーへ行きました。",
+     "tokens": [
+      {
+       "surface": "きょう",
+       "pos": "noun",
+       "romaji": "kyou",
+       "gloss": "today",
+       "glossId": "hari ini"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "スーパー",
+       "pos": "noun",
+       "romaji": "suupaa",
+       "gloss": "supermarket",
+       "glossId": "supermarket"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "he",
+       "gloss": "direction marker \"to\"",
+       "glossId": "penanda arah \"ke\""
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Today, I went to the supermarket.",
+     "translationId": "Hari ini, saya pergi ke supermarket.",
+     "audioStart": 0.0,
+     "audioEnd": 3.168
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "スーパーは家の近くです。",
+     "tokens": [
+      {
+       "surface": "スーパー",
+       "pos": "noun",
+       "romaji": "suupaa",
+       "gloss": "supermarket",
+       "glossId": "supermarket"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "家",
+       "pos": "noun",
+       "reading": "いえ",
+       "romaji": "ie",
+       "gloss": "house, home",
+       "glossId": "rumah"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle \"of\"",
+       "glossId": "partikel kepemilikan \"dari\""
+      },
+      {
+       "surface": "近く",
+       "pos": "noun",
+       "reading": "ちかく",
+       "romaji": "chikaku",
+       "gloss": "near, vicinity",
+       "glossId": "dekat, sekitar"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula \"is\"",
+       "glossId": "kopula sopan \"adalah\""
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The supermarket is near my house.",
+     "translationId": "Supermarket itu dekat rumah.",
+     "audioStart": 3.168,
+     "audioEnd": 6.024
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "はじめに、やさいを買いました。",
+     "tokens": [
+      {
+       "surface": "はじめ",
+       "pos": "noun",
+       "romaji": "hajime",
+       "gloss": "beginning, first",
+       "glossId": "awal, pertama"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking time/point \"at\"",
+       "glossId": "partikel penanda waktu/titik \"pada\""
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "やさい",
+       "pos": "noun",
+       "romaji": "yasai",
+       "gloss": "vegetable",
+       "glossId": "sayuran"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "買い",
+       "pos": "verb",
+       "reading": "かい",
+       "romaji": "kai",
+       "lemma": "買う",
+       "gloss": "to buy",
+       "glossId": "membeli"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "First, I bought vegetables.",
+     "translationId": "Pertama-tama, saya membeli sayuran.",
+     "audioStart": 6.024,
+     "audioEnd": 9.288
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "トマトときゅうりを買いました。",
+     "tokens": [
+      {
+       "surface": "トマト",
+       "pos": "noun",
+       "romaji": "tomato",
+       "gloss": "tomato",
+       "glossId": "tomat"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and (connects nouns)",
+       "glossId": "dan (menghubungkan kata benda)"
+      },
+      {
+       "surface": "きゅうり",
+       "pos": "noun",
+       "romaji": "kyuuri",
+       "gloss": "cucumber",
+       "glossId": "mentimun"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "買い",
+       "pos": "verb",
+       "reading": "かい",
+       "romaji": "kai",
+       "lemma": "買う",
+       "gloss": "to buy",
+       "glossId": "membeli"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I bought tomatoes and cucumbers.",
+     "translationId": "Saya membeli tomat dan mentimun.",
+     "audioStart": 9.288,
+     "audioEnd": 12.024
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "つぎに、くだものを買いました。",
+     "tokens": [
+      {
+       "surface": "つぎ",
+       "pos": "noun",
+       "romaji": "tsugi",
+       "gloss": "next",
+       "glossId": "berikutnya"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking time/point \"at\"",
+       "glossId": "partikel penanda waktu/titik \"pada\""
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "くだもの",
+       "pos": "noun",
+       "romaji": "kudamono",
+       "gloss": "fruit",
+       "glossId": "buah"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "買い",
+       "pos": "verb",
+       "reading": "かい",
+       "romaji": "kai",
+       "lemma": "買う",
+       "gloss": "to buy",
+       "glossId": "membeli"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Next, I bought fruit.",
+     "translationId": "Selanjutnya, saya membeli buah.",
+     "audioStart": 12.024,
+     "audioEnd": 15.288
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "りんごが安かったです。",
+     "tokens": [
+      {
+       "surface": "りんご",
+       "pos": "noun",
+       "romaji": "ringo",
+       "gloss": "apple",
+       "glossId": "apel"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "安かっ",
+       "pos": "adjective",
+       "reading": "やすかっ",
+       "romaji": "yasukatsu",
+       "lemma": "安い",
+       "gloss": "cheap",
+       "glossId": "murah"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula \"is\"",
+       "glossId": "kopula sopan \"adalah\""
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The apples were cheap.",
+     "translationId": "Apelnya murah.",
+     "audioStart": 15.288,
+     "audioEnd": 17.832
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "それから、パンと牛乳を買いました。",
+     "tokens": [
+      {
+       "surface": "それ",
+       "pos": "pronoun",
+       "romaji": "sore",
+       "gloss": "that",
+       "glossId": "itu"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "after, from",
+       "glossId": "setelah, dari"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "パン",
+       "pos": "noun",
+       "romaji": "pan",
+       "gloss": "bread",
+       "glossId": "roti"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and (connects nouns)",
+       "glossId": "dan (menghubungkan kata benda)"
+      },
+      {
+       "surface": "牛乳",
+       "pos": "noun",
+       "reading": "ぎゅうにゅう",
+       "romaji": "gyuunyuu",
+       "gloss": "milk",
+       "glossId": "susu"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "買い",
+       "pos": "verb",
+       "reading": "かい",
+       "romaji": "kai",
+       "lemma": "買う",
+       "gloss": "to buy",
+       "glossId": "membeli"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "After that, I bought bread and milk.",
+     "translationId": "Setelah itu, saya membeli roti dan susu.",
+     "audioStart": 17.832,
+     "audioEnd": 21.576
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "ぜんぶで五百円でした。",
+     "tokens": [
+      {
+       "surface": "ぜんぶ",
+       "pos": "noun",
+       "romaji": "zenbu",
+       "gloss": "all, in total",
+       "glossId": "semua, total"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking total/means",
+       "glossId": "partikel penanda total/cara"
+      },
+      {
+       "surface": "五百",
+       "pos": "noun",
+       "reading": "ごひゃく",
+       "romaji": "gohyaku",
+       "gloss": "five hundred",
+       "glossId": "lima ratus"
+      },
+      {
+       "surface": "円",
+       "pos": "noun",
+       "reading": "えん",
+       "romaji": "en",
+       "gloss": "yen",
+       "glossId": "yen"
+      },
+      {
+       "surface": "でし",
+       "pos": "auxiliary",
+       "romaji": "deshi",
+       "lemma": "です",
+       "gloss": "polite copula \"is\"",
+       "glossId": "kopula sopan \"adalah\""
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It was 500 yen in total.",
+     "translationId": "Semuanya lima ratus yen.",
+     "audioStart": 21.576,
+     "audioEnd": 24.216
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "お金はレジではらいました。",
+     "tokens": [
+      {
+       "surface": "お金",
+       "pos": "noun",
+       "reading": "おかね",
+       "romaji": "okane",
+       "gloss": "money",
+       "glossId": "uang"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "レジ",
+       "pos": "noun",
+       "romaji": "reji",
+       "gloss": "cash register, checkout",
+       "glossId": "kasir"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking total/means",
+       "glossId": "partikel penanda total/cara"
+      },
+      {
+       "surface": "はらい",
+       "pos": "verb",
+       "romaji": "harai",
+       "lemma": "はらう",
+       "gloss": "to pay",
+       "glossId": "membayar"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I paid the money at the checkout.",
+     "translationId": "Saya membayar uang di kasir.",
+     "audioStart": 24.216,
+     "audioEnd": 26.904
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "買い物はたのしいです。",
+     "tokens": [
+      {
+       "surface": "買い物",
+       "pos": "noun",
+       "reading": "かいもの",
+       "romaji": "kaimono",
+       "gloss": "shopping",
+       "glossId": "belanja"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "たのしい",
+       "pos": "adjective",
+       "romaji": "tanoshii",
+       "gloss": "fun, enjoyable",
+       "glossId": "menyenangkan"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula \"is\"",
+       "glossId": "kopula sopan \"adalah\""
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Shopping is fun.",
+     "translationId": "Belanja itu menyenangkan.",
+     "audioStart": 26.904,
+     "audioEnd": 29.496
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "あしたも行きたいです。",
+     "tokens": [
+      {
+       "surface": "あした",
+       "pos": "noun",
+       "romaji": "ashita",
+       "gloss": "tomorrow",
+       "glossId": "besok"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desire form)",
+       "glossId": "ingin (bentuk keinginan)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula \"is\"",
+       "glossId": "kopula sopan \"adalah\""
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I want to go tomorrow too.",
+     "translationId": "Saya ingin pergi lagi besok.",
+     "audioStart": 29.496,
+     "audioEnd": 31.968
+    }
+   ]
+  }
+ ]
+}

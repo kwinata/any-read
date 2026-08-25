@@ -1,0 +1,869 @@
+{
+ "schemaVersion": 1,
+ "id": "baths-and-hot-springs",
+ "language": "ja",
+ "title": "おふろと おんせん",
+ "titleTranslation": "Baths and Hot Springs",
+ "titleTranslationId": "Mandi dan Pemandian Air Panas",
+ "level": "Beginner",
+ "summary": "The narrator explains why they love baths and describes how Japanese hot springs (onsen) work, ending with a wish to visit one this weekend.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T08:05:10+00:00",
+ "audioFile": "audio.mp3",
+ "voice": "ja-JP-KeitaNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "わたしは おふろが すきです。",
+     "tokens": [
+      {
+       "surface": "わたし",
+       "pos": "pronoun",
+       "romaji": "watashi",
+       "gloss": "I, me",
+       "glossId": "saya"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "polite prefix",
+       "glossId": "awalan sopan"
+      },
+      {
+       "surface": "ふろ",
+       "pos": "noun",
+       "romaji": "furo",
+       "gloss": "bath",
+       "glossId": "mandi, bak mandi"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "すき",
+       "pos": "adjective",
+       "romaji": "suki",
+       "gloss": "liking, fond of",
+       "glossId": "suka"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is/am)",
+       "glossId": "kata kerja bantu sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I like baths.",
+     "translationId": "Saya suka mandi.",
+     "audioStart": 0.0,
+     "audioEnd": 2.784
+    },
+    {
+     "text": "まいにち おふろに はいります。",
+     "tokens": [
+      {
+       "surface": "まいにち",
+       "pos": "noun",
+       "romaji": "mainichi",
+       "gloss": "every day",
+       "glossId": "setiap hari"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "polite prefix",
+       "glossId": "awalan sopan"
+      },
+      {
+       "surface": "ふろ",
+       "pos": "noun",
+       "romaji": "furo",
+       "gloss": "bath",
+       "glossId": "mandi, bak mandi"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to (time/place)",
+       "glossId": "partikel: di/pada (waktu/tempat)"
+      },
+      {
+       "surface": "はいり",
+       "pos": "verb",
+       "romaji": "hairi",
+       "lemma": "はいる",
+       "gloss": "to enter, to get in",
+       "glossId": "masuk"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I take a bath every day.",
+     "translationId": "Saya mandi setiap hari.",
+     "audioStart": 2.784,
+     "audioEnd": 5.592
+    },
+    {
+     "text": "おふろは あたたかいです。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "polite prefix",
+       "glossId": "awalan sopan"
+      },
+      {
+       "surface": "ふろ",
+       "pos": "noun",
+       "romaji": "furo",
+       "gloss": "bath",
+       "glossId": "mandi, bak mandi"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "あたたかい",
+       "pos": "adjective",
+       "romaji": "atatakai",
+       "gloss": "warm",
+       "glossId": "hangat"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is/am)",
+       "glossId": "kata kerja bantu sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The bath is warm.",
+     "translationId": "Air mandinya hangat.",
+     "audioStart": 5.592,
+     "audioEnd": 8.16
+    },
+    {
+     "text": "きもちが いいです。",
+     "tokens": [
+      {
+       "surface": "きもち",
+       "pos": "noun",
+       "romaji": "kimochi",
+       "gloss": "feeling",
+       "glossId": "perasaan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good",
+       "glossId": "baik, enak"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is/am)",
+       "glossId": "kata kerja bantu sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It feels good.",
+     "translationId": "Rasanya enak.",
+     "audioStart": 8.16,
+     "audioEnd": 10.368
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "にほんには おんせんが あります。",
+     "tokens": [
+      {
+       "surface": "にほん",
+       "pos": "noun",
+       "romaji": "nihon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to (time/place)",
+       "glossId": "partikel: di/pada (waktu/tempat)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "おんせん",
+       "pos": "noun",
+       "romaji": "onsen",
+       "gloss": "hot spring",
+       "glossId": "pemandian air panas"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In Japan, there are hot springs.",
+     "translationId": "Di Jepang ada pemandian air panas.",
+     "audioStart": 10.368,
+     "audioEnd": 13.224
+    },
+    {
+     "text": "おんせんは おおきい おふろです。",
+     "tokens": [
+      {
+       "surface": "おんせん",
+       "pos": "noun",
+       "romaji": "onsen",
+       "gloss": "hot spring",
+       "glossId": "pemandian air panas"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "おおきい",
+       "pos": "adjective",
+       "romaji": "ookii",
+       "gloss": "big",
+       "glossId": "besar"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "polite prefix",
+       "glossId": "awalan sopan"
+      },
+      {
+       "surface": "ふろ",
+       "pos": "noun",
+       "romaji": "furo",
+       "gloss": "bath",
+       "glossId": "mandi, bak mandi"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is/am)",
+       "glossId": "kata kerja bantu sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "A hot spring is a big bath.",
+     "translationId": "Onsen adalah kolam mandi yang besar.",
+     "audioStart": 13.224,
+     "audioEnd": 16.128
+    },
+    {
+     "text": "おゆは とても あついです。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "interjection",
+       "romaji": "o",
+       "gloss": "polite prefix",
+       "glossId": "awalan sopan"
+      },
+      {
+       "surface": "ゆ",
+       "pos": "symbol"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "あつい",
+       "pos": "adjective",
+       "romaji": "atsui",
+       "gloss": "hot",
+       "glossId": "panas"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is/am)",
+       "glossId": "kata kerja bantu sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The hot water is very hot.",
+     "translationId": "Airnya sangat panas.",
+     "audioStart": 16.128,
+     "audioEnd": 18.744
+    },
+    {
+     "text": "ひとが おおぜい きます。",
+     "tokens": [
+      {
+       "surface": "ひと",
+       "pos": "noun",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "おおぜい",
+       "pos": "noun",
+       "romaji": "oozei",
+       "gloss": "many people, in large numbers",
+       "glossId": "banyak orang, ramai"
+      },
+      {
+       "surface": "き",
+       "pos": "verb",
+       "romaji": "ki",
+       "lemma": "くる",
+       "gloss": "to come",
+       "glossId": "datang"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many people come.",
+     "translationId": "Banyak orang datang.",
+     "audioStart": 18.744,
+     "audioEnd": 21.192
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "おんせんの まえに、からだを あらいます。",
+     "tokens": [
+      {
+       "surface": "おんせん",
+       "pos": "noun",
+       "romaji": "onsen",
+       "gloss": "hot spring",
+       "glossId": "pemandian air panas"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive particle",
+       "glossId": "partikel kepemilikan"
+      },
+      {
+       "surface": "まえ",
+       "pos": "noun",
+       "romaji": "mae",
+       "gloss": "before",
+       "glossId": "sebelum"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to (time/place)",
+       "glossId": "partikel: di/pada (waktu/tempat)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "からだ",
+       "pos": "noun",
+       "romaji": "karada",
+       "gloss": "body",
+       "glossId": "tubuh"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "あらい",
+       "pos": "verb",
+       "romaji": "arai",
+       "lemma": "あらう",
+       "gloss": "to wash",
+       "glossId": "mencuci"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Before the hot spring, you wash your body.",
+     "translationId": "Sebelum masuk onsen, kita mencuci badan.",
+     "audioStart": 21.192,
+     "audioEnd": 24.96
+    },
+    {
+     "text": "それから、おゆに はいります。",
+     "tokens": [
+      {
+       "surface": "それ",
+       "pos": "pronoun",
+       "romaji": "sore",
+       "gloss": "that",
+       "glossId": "itu"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "then, and so (conjunction)",
+       "glossId": "lalu, kemudian (kata sambung)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "polite prefix",
+       "glossId": "awalan sopan"
+      },
+      {
+       "surface": "ゆ",
+       "pos": "symbol"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to (time/place)",
+       "glossId": "partikel: di/pada (waktu/tempat)"
+      },
+      {
+       "surface": "はいり",
+       "pos": "verb",
+       "romaji": "hairi",
+       "lemma": "はいる",
+       "gloss": "to enter, to get in",
+       "glossId": "masuk"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Then, you get into the hot water.",
+     "translationId": "Setelah itu, kita masuk ke air panas.",
+     "audioStart": 24.96,
+     "audioEnd": 28.176
+    },
+    {
+     "text": "ゆっくり やすみます。",
+     "tokens": [
+      {
+       "surface": "ゆっくり",
+       "pos": "adverb",
+       "romaji": "yukkuri",
+       "gloss": "slowly, leisurely",
+       "glossId": "santai, perlahan"
+      },
+      {
+       "surface": "やすみ",
+       "pos": "verb",
+       "romaji": "yasumi",
+       "lemma": "やすむ",
+       "gloss": "to rest",
+       "glossId": "beristirahat"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You relax slowly.",
+     "translationId": "Kita beristirahat dengan santai.",
+     "audioStart": 28.176,
+     "audioEnd": 30.48
+    },
+    {
+     "text": "あたまが すっきりします。",
+     "tokens": [
+      {
+       "surface": "あたま",
+       "pos": "noun",
+       "romaji": "atama",
+       "gloss": "head",
+       "glossId": "kepala"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "すっきり",
+       "pos": "adverb",
+       "romaji": "sukkiri",
+       "gloss": "refreshed, clear",
+       "glossId": "segar, lega"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Your head feels refreshed.",
+     "translationId": "Kepala terasa segar.",
+     "audioStart": 30.48,
+     "audioEnd": 33.096
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "おふろは からだに いいです。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "polite prefix",
+       "glossId": "awalan sopan"
+      },
+      {
+       "surface": "ふろ",
+       "pos": "noun",
+       "romaji": "furo",
+       "gloss": "bath",
+       "glossId": "mandi, bak mandi"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "からだ",
+       "pos": "noun",
+       "romaji": "karada",
+       "gloss": "body",
+       "glossId": "tubuh"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to (time/place)",
+       "glossId": "partikel: di/pada (waktu/tempat)"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good",
+       "glossId": "baik, enak"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is/am)",
+       "glossId": "kata kerja bantu sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Baths are good for the body.",
+     "translationId": "Mandi baik untuk tubuh.",
+     "audioStart": 33.096,
+     "audioEnd": 35.76
+    },
+    {
+     "text": "こころも やすみます。",
+     "tokens": [
+      {
+       "surface": "こころ",
+       "pos": "noun",
+       "romaji": "kokoro",
+       "gloss": "heart, mind",
+       "glossId": "hati, pikiran"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "やすみ",
+       "pos": "verb",
+       "romaji": "yasumi",
+       "lemma": "やすむ",
+       "gloss": "to rest",
+       "glossId": "beristirahat"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Your heart rests too.",
+     "translationId": "Hati juga menjadi tenang.",
+     "audioStart": 35.76,
+     "audioEnd": 38.136
+    },
+    {
+     "text": "わたしは しゅうまつに おんせんに いきたいです。",
+     "tokens": [
+      {
+       "surface": "わたし",
+       "pos": "pronoun",
+       "romaji": "watashi",
+       "gloss": "I, me",
+       "glossId": "saya"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "しゅう",
+       "pos": "noun",
+       "romaji": "shuu",
+       "gloss": "week",
+       "glossId": "minggu"
+      },
+      {
+       "surface": "まつ",
+       "pos": "noun",
+       "romaji": "matsu",
+       "gloss": "end",
+       "glossId": "akhir"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to (time/place)",
+       "glossId": "partikel: di/pada (waktu/tempat)"
+      },
+      {
+       "surface": "おんせん",
+       "pos": "noun",
+       "romaji": "onsen",
+       "gloss": "hot spring",
+       "glossId": "pemandian air panas"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: at/in/to (time/place)",
+       "glossId": "partikel: di/pada (waktu/tempat)"
+      },
+      {
+       "surface": "いき",
+       "pos": "verb",
+       "romaji": "iki",
+       "lemma": "いく",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desire suffix)",
+       "glossId": "akhiran keinginan (ingin)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula (is/am)",
+       "glossId": "kata kerja bantu sopan (adalah)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I want to go to a hot spring on the weekend.",
+     "translationId": "Saya ingin pergi ke onsen di akhir pekan.",
+     "audioStart": 38.136,
+     "audioEnd": 41.784
+    }
+   ]
+  }
+ ]
+}
