@@ -177,7 +177,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -194,7 +194,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -221,7 +221,7 @@
       {
        "surface": "へ",
        "pos": "particle",
-       "romaji": "he",
+       "romaji": "e",
        "gloss": "direction particle (\"to, toward\")"
       },
       {
@@ -279,7 +279,7 @@
       {
        "surface": "へ",
        "pos": "particle",
-       "romaji": "he",
+       "romaji": "e",
        "gloss": "direction particle (\"to, toward\")"
       },
       {
@@ -298,7 +298,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -315,7 +315,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -376,7 +376,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -483,7 +483,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -1293,7 +1293,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -1575,7 +1575,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -1766,14 +1766,14 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
        "surface": "渡っ",
        "pos": "verb",
        "reading": "わたっ",
-       "romaji": "watatsu",
+       "romaji": "watat",
        "lemma": "渡る",
        "gloss": "to cross"
       },
@@ -1877,7 +1877,7 @@
       {
        "surface": "へ",
        "pos": "particle",
-       "romaji": "he",
+       "romaji": "e",
        "gloss": "direction particle (\"to, toward\")"
       },
       {
@@ -1963,7 +1963,7 @@
       {
        "surface": "へ",
        "pos": "particle",
-       "romaji": "he",
+       "romaji": "e",
        "gloss": "direction particle (\"to, toward\")"
       },
       {
@@ -1982,7 +1982,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -2075,7 +2075,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -2150,7 +2150,7 @@
       {
        "surface": "へ",
        "pos": "particle",
-       "romaji": "he",
+       "romaji": "e",
        "gloss": "direction particle (\"to, toward\")"
       },
       {
@@ -2227,7 +2227,7 @@
       {
        "surface": "へ",
        "pos": "particle",
-       "romaji": "he",
+       "romaji": "e",
        "gloss": "direction particle (\"to, toward\")"
       },
       {
@@ -2270,7 +2270,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -2354,7 +2354,7 @@
       {
        "surface": "へ",
        "pos": "particle",
-       "romaji": "he",
+       "romaji": "e",
        "gloss": "direction particle (\"to, toward\")"
       },
       {
@@ -2470,7 +2470,7 @@
       {
        "surface": "へ",
        "pos": "particle",
-       "romaji": "he",
+       "romaji": "e",
        "gloss": "direction particle (\"to, toward\")"
       }
      ],
@@ -2502,7 +2502,7 @@
       {
        "surface": "へ",
        "pos": "particle",
-       "romaji": "he",
+       "romaji": "e",
        "gloss": "direction particle (\"to, toward\")"
       },
       {
@@ -2521,7 +2521,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -2657,7 +2657,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -2683,7 +2683,7 @@
       {
        "surface": "へ",
        "pos": "particle",
-       "romaji": "he",
+       "romaji": "e",
        "gloss": "direction particle (\"to, toward\")"
       },
       {
@@ -2767,7 +2767,7 @@
       {
        "surface": "へ",
        "pos": "particle",
-       "romaji": "he",
+       "romaji": "e",
        "gloss": "direction particle (\"to, toward\")"
       },
       {
@@ -2793,7 +2793,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -2806,7 +2806,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -2889,7 +2889,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -3145,7 +3145,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -3247,7 +3247,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -3297,7 +3297,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -3359,7 +3359,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -3516,7 +3516,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -3894,7 +3894,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -3964,7 +3964,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -4031,7 +4031,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -4203,7 +4203,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -4317,7 +4317,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -4583,7 +4583,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -4724,7 +4724,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -4862,7 +4862,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -4922,7 +4922,7 @@
       {
        "surface": "へ",
        "pos": "particle",
-       "romaji": "he",
+       "romaji": "e",
        "gloss": "direction particle (\"to, toward\")"
       },
       {
@@ -5141,7 +5141,7 @@
       {
        "surface": "へ",
        "pos": "particle",
-       "romaji": "he",
+       "romaji": "e",
        "gloss": "direction particle (\"to, toward\")"
       },
       {
@@ -5328,7 +5328,7 @@
       {
        "surface": "へ",
        "pos": "particle",
-       "romaji": "he",
+       "romaji": "e",
        "gloss": "direction particle (\"to, toward\")"
       }
      ],
@@ -5378,7 +5378,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -5486,7 +5486,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -5505,7 +5505,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -5635,7 +5635,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -5821,7 +5821,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -6111,7 +6111,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -6222,7 +6222,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -6360,7 +6360,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -6427,7 +6427,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -6470,7 +6470,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -6496,7 +6496,7 @@
       {
        "surface": "へ",
        "pos": "particle",
-       "romaji": "he",
+       "romaji": "e",
        "gloss": "direction particle (\"to, toward\")"
       },
       {
@@ -6577,7 +6577,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -6950,14 +6950,14 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
        "surface": "売っ",
        "pos": "verb",
        "reading": "うっ",
-       "romaji": "utsu",
+       "romaji": "ut",
        "lemma": "売る",
        "gloss": "to sell"
       },
@@ -7180,7 +7180,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -7204,7 +7204,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -7299,7 +7299,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -7363,7 +7363,7 @@
       {
        "surface": "へ",
        "pos": "particle",
-       "romaji": "he",
+       "romaji": "e",
        "gloss": "direction particle (\"to, toward\")"
       },
       {
@@ -7406,7 +7406,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -7626,7 +7626,7 @@
       {
        "surface": "へ",
        "pos": "particle",
-       "romaji": "he",
+       "romaji": "e",
        "gloss": "direction particle (\"to, toward\")"
       }
      ],
@@ -7712,7 +7712,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -7798,7 +7798,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -7910,7 +7910,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -7988,7 +7988,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -8086,7 +8086,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -8226,7 +8226,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -8334,7 +8334,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -8463,7 +8463,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -8941,7 +8941,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -8968,7 +8968,7 @@
       {
        "surface": "へ",
        "pos": "particle",
-       "romaji": "he",
+       "romaji": "e",
        "gloss": "direction particle (\"to, toward\")"
       },
       {
@@ -9132,7 +9132,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -9145,7 +9145,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -9199,7 +9199,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -9265,7 +9265,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -9297,7 +9297,7 @@
        "surface": "通っ",
        "pos": "verb",
        "reading": "かよっ",
-       "romaji": "kayotsu",
+       "romaji": "kayot",
        "lemma": "通う",
        "gloss": "to commute, to go back and forth (to a place)"
       },
@@ -9413,7 +9413,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -9426,7 +9426,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -9603,7 +9603,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -9652,7 +9652,7 @@
        "surface": "作っ",
        "pos": "verb",
        "reading": "つくっ",
-       "romaji": "tsukutsu",
+       "romaji": "tsukut",
        "lemma": "作る",
        "gloss": "to make, to create"
       },
@@ -9672,7 +9672,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {

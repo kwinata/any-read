@@ -27,7 +27,7 @@
        "surface": "湿っ",
        "pos": "verb",
        "reading": "しめっ",
-       "romaji": "shimetsu",
+       "romaji": "shimet",
        "lemma": "湿る",
        "gloss": "to become damp/humid"
       },
@@ -149,7 +149,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -208,7 +208,7 @@
        "surface": "降っ",
        "pos": "verb",
        "reading": "ふっ",
-       "romaji": "futsu",
+       "romaji": "fut",
        "lemma": "降る",
        "gloss": "to fall (of rain)"
       },
@@ -246,7 +246,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -447,7 +447,7 @@
        "surface": "降っ",
        "pos": "verb",
        "reading": "ふっ",
-       "romaji": "futsu",
+       "romaji": "fut",
        "lemma": "降る",
        "gloss": "to fall (of rain)"
       },
@@ -502,7 +502,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -619,7 +619,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "object marker"
       },
       {
@@ -685,7 +685,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "object marker"
       },
       {
@@ -738,7 +738,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -770,7 +770,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "object marker"
       },
       {
@@ -873,7 +873,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -958,7 +958,7 @@
        "surface": "入っ",
        "pos": "verb",
        "reading": "はいっ",
-       "romaji": "haitsu",
+       "romaji": "hait",
        "lemma": "入る",
        "gloss": "to enter"
       },
@@ -1098,7 +1098,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -1174,7 +1174,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -1261,7 +1261,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -1346,7 +1346,7 @@
        "surface": "入っ",
        "pos": "verb",
        "reading": "はいっ",
-       "romaji": "haitsu",
+       "romaji": "hait",
        "lemma": "入る",
        "gloss": "to enter"
       },
@@ -1656,7 +1656,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -1701,7 +1701,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -1727,7 +1727,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "object marker"
       },
       {
@@ -1791,7 +1791,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "object marker"
       },
       {
@@ -1846,7 +1846,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -1896,7 +1896,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -1936,7 +1936,7 @@
       {
        "surface": "へ",
        "pos": "particle",
-       "romaji": "he",
+       "romaji": "e",
        "gloss": "direction marker (to, toward)"
       },
       {

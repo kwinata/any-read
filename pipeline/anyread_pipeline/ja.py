@@ -51,6 +51,9 @@ def _romaji(hira: str) -> str:
 # Sudachi gives split-off numerals their standalone reading, but before a
 # counter the reading often differs (七時 = しちじ not ななじ, 四月 = しがつ,
 # 七日 = なのか).
+# Particles pronounced differently from their kana (Hepburn: wa, e, o)
+_PARTICLE_ROMAJI = {"は": "wa", "へ": "e", "を": "o"}
+
 _NUM_TIME = {"四": "よ", "七": "しち", "九": "く"}
 _NUM_MONTH = {"四": "し", "七": "しち", "九": "く"}
 _NUM_DAY = {"二": "ふつ", "三": "みっ", "四": "よっ", "五": "いつ",
@@ -78,6 +81,18 @@ def _fix_counter_readings(tokens: list[dict]) -> list[dict]:
         if fix and cur.get("reading") and cur["reading"] != fix:
             cur["reading"] = fix
             cur["romaji"] = _romaji(fix)
+    return _fix_sokuon_romaji(tokens)
+
+
+def _fix_sokuon_romaji(tokens: list[dict]) -> list[dict]:
+    """A token ending in っ romanizes as 'tsu'; double the next consonant instead
+    (行っ+て = 'it te', not 'itsu te')."""
+    for cur, nxt in zip(tokens, tokens[1:]):
+        rom, kana = cur.get("romaji") or "", cur.get("reading") or ""
+        nrom = nxt.get("romaji") or ""
+        if (rom.endswith("tsu") and kana.endswith("っ")
+                and nrom[:1] in set("bcdfghjkmnprstwyz")):
+            cur["romaji"] = rom[:-3] + nrom[0]
     return tokens
 
 
@@ -99,6 +114,8 @@ def tokenize(sentence: str) -> list[dict]:
         if _KANJI.search(surface) and reading:
             tok["reading"] = reading
         tok["romaji"] = _romaji(reading or _kata_to_hira(surface))
+        if pos == "particle" and surface in _PARTICLE_ROMAJI:
+            tok["romaji"] = _PARTICLE_ROMAJI[surface]
         lemma = m.dictionary_form()
         if lemma and lemma != surface:
             tok["lemma"] = lemma

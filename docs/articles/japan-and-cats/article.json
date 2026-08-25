@@ -36,7 +36,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker",
        "glossId": "penanda topik"
       },
@@ -151,7 +151,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker",
        "glossId": "penanda topik"
       },
@@ -181,7 +181,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "object marker",
        "glossId": "penanda objek"
       },
@@ -189,7 +189,7 @@
        "surface": "飼っ",
        "pos": "verb",
        "reading": "かっ",
-       "romaji": "katsu",
+       "romaji": "kat",
        "lemma": "飼う",
        "gloss": "to keep (a pet)",
        "glossId": "memelihara (hewan)"
@@ -244,7 +244,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker",
        "glossId": "penanda topik"
       },
@@ -326,7 +326,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker",
        "glossId": "penanda topik"
       },
@@ -497,7 +497,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "object marker",
        "glossId": "penanda objek"
       },
@@ -532,7 +532,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "object marker",
        "glossId": "penanda objek"
       },
@@ -674,7 +674,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker",
        "glossId": "penanda topik"
       },
@@ -806,7 +806,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker",
        "glossId": "penanda topik"
       },
@@ -821,7 +821,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "object marker",
        "glossId": "penanda objek"
       },
@@ -884,7 +884,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker",
        "glossId": "penanda topik"
       },
@@ -906,7 +906,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "object marker",
        "glossId": "penanda objek"
       },

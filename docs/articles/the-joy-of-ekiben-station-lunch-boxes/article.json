@@ -59,7 +59,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -185,7 +185,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -209,7 +209,7 @@
        "surface": "売っ",
        "pos": "verb",
        "reading": "うっ",
-       "romaji": "utsu",
+       "romaji": "ut",
        "lemma": "売る",
        "gloss": "to sell"
       },
@@ -380,7 +380,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -480,7 +480,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -540,7 +540,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -674,14 +674,14 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
        "surface": "使っ",
        "pos": "verb",
        "reading": "つかっ",
-       "romaji": "tsukatsu",
+       "romaji": "tsukat",
        "lemma": "使う",
        "gloss": "to use"
       },
@@ -782,7 +782,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -878,7 +878,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -908,14 +908,14 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
        "surface": "使っ",
        "pos": "verb",
        "reading": "つかっ",
-       "romaji": "tsukatsu",
+       "romaji": "tsukat",
        "lemma": "使う",
        "gloss": "to use"
       },
@@ -977,7 +977,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -1064,7 +1064,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -1141,7 +1141,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -1321,7 +1321,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -1363,7 +1363,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -1463,7 +1463,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {
@@ -1572,7 +1572,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker"
       },
       {
@@ -1595,7 +1595,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker"
       },
       {

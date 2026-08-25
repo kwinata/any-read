@@ -28,7 +28,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker",
        "glossId": "penanda topik"
       },
@@ -229,7 +229,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker",
        "glossId": "penanda objek langsung"
       },
@@ -272,7 +272,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo",
+       "romaji": "o",
        "gloss": "direct object marker",
        "glossId": "penanda objek langsung"
       },
@@ -586,7 +586,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha",
+       "romaji": "wa",
        "gloss": "topic marker",
        "glossId": "penanda topik"
       },

@@ -2316,13 +2316,13 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo"
+       "romaji": "o"
       },
       {
        "surface": "洗っ",
        "pos": "verb",
        "reading": "あらっ",
-       "romaji": "aratsu",
+       "romaji": "arat",
        "lemma": "洗う"
       },
       {
@@ -2343,7 +2343,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo"
+       "romaji": "o"
       },
       {
        "surface": "磨き",
@@ -2379,7 +2379,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo"
+       "romaji": "o"
       },
       {
        "surface": "食べ",
@@ -2414,7 +2414,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo"
+       "romaji": "o"
       },
       {
        "surface": "飲み",
@@ -2467,7 +2467,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo"
+       "romaji": "o"
       },
       {
        "surface": "出",
@@ -2768,7 +2768,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha"
+       "romaji": "wa"
       },
       {
        "surface": "いくら",
@@ -2828,7 +2828,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo"
+       "romaji": "o"
       },
       {
        "surface": "ください",
@@ -2868,7 +2868,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha"
+       "romaji": "wa"
       },
       {
        "surface": "あり",
@@ -2907,7 +2907,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo"
+       "romaji": "o"
       },
       {
        "surface": "見",
@@ -2968,7 +2968,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha"
+       "romaji": "wa"
       },
       {
        "surface": "あり",
@@ -3011,7 +3011,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo"
+       "romaji": "o"
       },
       {
        "surface": "ください",
@@ -3090,7 +3090,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha"
+       "romaji": "wa"
       },
       {
        "surface": "使え",
@@ -3170,7 +3170,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha"
+       "romaji": "wa"
       },
       {
        "surface": "要り",
@@ -3242,7 +3242,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo"
+       "romaji": "o"
       },
       {
        "surface": "ください",
@@ -3310,7 +3310,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo"
+       "romaji": "o"
       },
       {
        "surface": "ください",
@@ -3339,7 +3339,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo"
+       "romaji": "o"
       },
       {
        "surface": "二",
@@ -3402,7 +3402,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo"
+       "romaji": "o"
       },
       {
        "surface": "ください",
@@ -3431,7 +3431,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha"
+       "romaji": "wa"
       },
       {
        "surface": "辛い",
@@ -3504,7 +3504,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo"
+       "romaji": "o"
       },
       {
        "surface": "お",
@@ -3615,7 +3615,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha"
+       "romaji": "wa"
       },
       {
        "surface": "どこ",
@@ -3653,7 +3653,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha"
+       "romaji": "wa"
       },
       {
        "surface": "どこ",
@@ -3702,7 +3702,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo"
+       "romaji": "o"
       },
       {
        "surface": "一",
@@ -3743,7 +3743,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha"
+       "romaji": "wa"
       },
       {
        "surface": "京都",
@@ -3799,7 +3799,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha"
+       "romaji": "wa"
       },
       {
        "surface": "何時",
@@ -3973,7 +3973,7 @@
        "surface": "行っ",
        "pos": "verb",
        "reading": "いっ",
-       "romaji": "itsu",
+       "romaji": "it",
        "lemma": "行く"
       },
       {
@@ -4013,7 +4013,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha"
+       "romaji": "wa"
       },
       {
        "surface": "新宿",
@@ -4123,7 +4123,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha"
+       "romaji": "wa"
       },
       {
        "surface": "何",
@@ -4163,7 +4163,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha"
+       "romaji": "wa"
       },
       {
        "surface": "何",
@@ -4214,7 +4214,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha"
+       "romaji": "wa"
       },
       {
        "surface": "読書",
@@ -4249,7 +4249,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha"
+       "romaji": "wa"
       },
       {
        "surface": "何",
@@ -4260,7 +4260,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo"
+       "romaji": "o"
       },
       {
        "surface": "し",
@@ -4311,7 +4311,7 @@
       {
        "surface": "を",
        "pos": "particle",
-       "romaji": "wo"
+       "romaji": "o"
       },
       {
        "surface": "見",
@@ -4347,7 +4347,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha"
+       "romaji": "wa"
       },
       {
        "surface": "いい",
@@ -4392,7 +4392,7 @@
       {
        "surface": "は",
        "pos": "particle",
-       "romaji": "ha"
+       "romaji": "wa"
       },
       {
        "surface": "雨",
