@@ -3,7 +3,7 @@
 const $app = document.getElementById('app');
 const SETTINGS_KEY = 'anyread-settings';
 const settings = Object.assign(
-  { furigana: true, romaji: false, translations: false },
+  { furigana: true, romaji: false, translations: false, translationsId: false },
   JSON.parse(localStorage.getItem(SETTINGS_KEY) || '{}')
 );
 const RATES = [0.7, 0.85, 1.0, 1.15, 1.3];
@@ -211,15 +211,19 @@ async function renderReader(id) {
     );
   }
   bar.append(mkToggle('EN', 'translations', applyTranslations));
+  const hasId = article.paragraphs.some((p) => p.sentences.some((s) => s.translationId));
+  if (hasId) bar.append(mkToggle('ID', 'translationsId', applyTranslations));
   $app.append(bar);
 
   if (isJa && !settings.furigana) reader.classList.add('no-furigana');
   if (!settings.romaji) reader.classList.add('no-romaji');
+  applyTranslations();
 
   // Header
   const header = el('header');
   header.append(el('h1', null, article.title));
   if (article.titleTranslation) header.append(el('p', 'sub', article.titleTranslation));
+  if (article.titleTranslationId) header.append(el('p', 'sub trans-id', article.titleTranslationId));
   const meta = el('div', 'meta');
   meta.append(el('span', 'badge', langName(article.language)));
   if (article.level) meta.append(el('span', null, article.level));
@@ -266,10 +270,10 @@ async function renderReader(id) {
       });
       sEl.append(line);
 
-      if (s.translation) {
-        const tEl = el('div', 'trans', s.translation);
+      if (s.translation || s.translationId) {
+        const tEl = el('div', 'trans');
+        if (s.translation) tEl.append(el('div', 'trans-en', s.translation));
         if (s.translationId) tEl.append(el('div', 'trans-id', s.translationId));
-        if (!settings.translations) tEl.classList.add('hidden');
         if (article.audioFile && s.audioStart != null) {
           const chip = el('span', 'playhere', '▶ play from here');
           chip.dataset.start = s.audioStart;
@@ -298,7 +302,8 @@ async function renderReader(id) {
     reader.classList.toggle('no-romaji', !settings.romaji);
   }
   function applyTranslations() {
-    reader.querySelectorAll('.trans').forEach((e) => e.classList.toggle('hidden', !settings.translations));
+    reader.classList.toggle('show-en', !!settings.translations);
+    reader.classList.toggle('show-id', !!settings.translationsId);
   }
 
   // Bottom overlay: gloss card + audio bar
@@ -352,7 +357,7 @@ async function renderReader(id) {
     const sent = ev.target.closest('.sentence');
     if (sent) {
       const tEl = sent.querySelector('.trans');
-      if (tEl) tEl.classList.toggle('hidden');
+      if (tEl) tEl.classList.toggle('reveal');
     }
   });
 

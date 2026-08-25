@@ -184,6 +184,11 @@ body {
 
 .trans { font-size: 14.5px; color: var(--muted); margin-top: 4px; }
 .trans-id { font-size: 14px; opacity: 0.85; font-style: italic; margin-top: 2px; }
+.trans .trans-en, .trans .trans-id, .trans .playhere { display: none; }
+.reader.show-en .trans .trans-en, .reader.show-id .trans .trans-id,
+.trans.reveal .trans-en, .trans.reveal .trans-id { display: block; }
+.reader.show-en .trans .playhere, .reader.show-id .trans .playhere,
+.trans.reveal .playhere { display: inline-block; }
 .playhere {
   display: inline-block; margin-left: 8px;
   color: var(--accent); font-size: 13px; font-weight: 600; cursor: pointer;
