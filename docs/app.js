@@ -27,6 +27,44 @@ function langName(code) {
   return code === 'ja' ? '日本語' : code;
 }
 
+/* Inline SVG icons (stroke-based, inherit currentColor). Paths are separated by "|". */
+const ICONS = {
+  shuffle: 'M16 3h5v5|M4 20L21 3|M21 16v5h-5|M15 15l6 6|M4 4l5 5',
+  book: 'M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z|M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z',
+  chat: 'M21 11.5a8.4 8.4 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.4 8.4 0 0 1-3.8-.9L3 21l1.9-5.7'
+      + 'a8.4 8.4 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.4 8.4 0 0 1 3.8-.9h.5a8.5 8.5 0 0 1 8 8z',
+  article: 'M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z|M14 2v6h6'
+         + '|M16 13H8|M16 17H8|M10 9H8',
+  search: 'M11 19a8 8 0 1 0 0-16 8 8 0 0 0 0 16z|M21 21l-4.35-4.35',
+  volume: 'M11 5L6 9H2v6h4l5 4V5z|M15.5 8.5a5 5 0 0 1 0 7',
+  menu: 'M3 6h18|M3 12h18|M3 18h18',
+  list: 'M8 6h13|M8 12h13|M8 18h13|M3 6h.01|M3 12h.01|M3 18h.01',
+  chevron: 'M6 9l6 6 6-6',
+  radio: 'M4 10a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2z|M16 4l-8 4'
+       + '|M9 16a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5|M16 12h2',
+};
+
+function icon(name, size) {
+  const NS = 'http://www.w3.org/2000/svg';
+  const svg = document.createElementNS(NS, 'svg');
+  svg.setAttribute('viewBox', '0 0 24 24');
+  svg.setAttribute('width', size || 16);
+  svg.setAttribute('height', size || 16);
+  svg.setAttribute('fill', 'none');
+  svg.setAttribute('stroke', 'currentColor');
+  svg.setAttribute('stroke-width', '2');
+  svg.setAttribute('stroke-linecap', 'round');
+  svg.setAttribute('stroke-linejoin', 'round');
+  svg.setAttribute('aria-hidden', 'true');
+  svg.classList.add('icon');
+  for (const d of ICONS[name].split('|')) {
+    const path = document.createElementNS(NS, 'path');
+    path.setAttribute('d', d);
+    svg.append(path);
+  }
+  return svg;
+}
+
 // Fisher-Yates over an element's children, so a section can be re-ordered in place
 function shuffleChildren(container) {
   const kids = [...container.children];
@@ -63,9 +101,11 @@ const LEVEL_ORDER = ['Beginner', 'N5', 'N4', 'N3', 'N2', 'N1', 'A1', 'A2', 'B1',
 // Top-level menu shown on the three main pages
 function mkTabs(active) {
   const tabs = el('div', 'tabs');
-  for (const [key, label] of [['vocab', '📖 Vocabulary'], ['sentences', '💬 Sentences'],
-                              ['articles', '📰 Articles']]) {
-    const b = el('button', 'tab' + (active === key ? ' on' : ''), label);
+  for (const [key, label, ico] of [['vocab', 'Vocabulary', 'book'],
+                                   ['sentences', 'Sentences', 'chat'],
+                                   ['articles', 'Articles', 'article']]) {
+    const b = el('button', 'tab' + (active === key ? ' on' : ''));
+    b.append(icon(ico, 15), el('span', null, label));
     b.addEventListener('click', () => {
       location.hash = key === 'vocab' ? '' : '#/' + key;
     });
@@ -74,12 +114,14 @@ function mkTabs(active) {
   return tabs;
 }
 
-/* Shared shell for the three main pages: AnyRead bar (☰ + title + page tools),
+/* Shared shell for the three main pages: AnyRead bar (menu + title + page tools),
    top-level tabs, section drawer/sidebar, and the content host. */
 function mkShell(active) {
   $app.innerHTML = '';
   const bar = el('div', 'topbar');
-  const menuBtn = el('button', 'toggle vmenu', '☰');
+  const menuBtn = el('button', 'toggle vmenu');
+  menuBtn.append(icon('menu', 16));
+  menuBtn.title = 'Sections';
   const tools = el('div', 'bartools');
   bar.append(menuBtn, el('h1', null, 'AnyRead'), el('div', 'spacer'), tools);
 
@@ -102,13 +144,17 @@ function mkShell(active) {
   }
 
   // Section heading in the page + its chip in the drawer/sidebar.
-  // `onShuffle` (optional) adds a 🔄 button that reorders that section's items.
+  // `onShuffle` (optional) adds a shuffle button that reorders that section.
   function addSection(c, onShuffle) {
-    const catEl = el('h2', 'vcat', c.name);
+    const catEl = el('h2', 'vcat');
+    const text = el('div', 'vcat-text');
+    text.append(el('span', 'vcat-name', c.name));
     const subParts = [c.nameEn, c.nameId].filter(Boolean).join(' · ');
-    if (subParts) catEl.append(el('span', 'vcat-sub', subParts));
+    if (subParts) text.append(el('span', 'vcat-sub', subParts));
+    catEl.append(text);
     if (onShuffle) {
-      const sh = el('button', 'vshuffle', '🔄');
+      const sh = el('button', 'vshuffle');
+      sh.append(icon('shuffle', 15));
       sh.title = 'Shuffle this section';
       sh.addEventListener('click', (ev) => {
         ev.stopPropagation();
@@ -179,7 +225,9 @@ async function renderLibrary() {
   const searchInput = el('input', 'vsearch');
   searchInput.type = 'search';
   searchInput.placeholder = 'Search: title / english / indonesia…';
-  searchWrap.append(el('span', 'vsearch-ico', '🔍'), searchInput);
+  const searchIco = el('span', 'vsearch-ico');
+  searchIco.append(icon('search', 15));
+  searchWrap.append(searchIco, searchInput);
   host.append(searchWrap);
 
   // Level filter chips (difficulty stays visible per article via its badge)
@@ -251,9 +299,17 @@ async function renderLibrary() {
     card.append(head);
     const meta = el('div', 'meta');
     if (a.createdAt) meta.append(el('span', null, a.createdAt.slice(0, 10)));
-    if (a.hasAudio) meta.append(el('span', null, '🔊'));
+    if (a.hasAudio) {
+      const au = el('span', 'mico');
+      au.append(icon('volume', 14));
+      meta.append(au);
+    }
     if (a.generated) meta.append(el('span', 'badge ai', 'AI'));
-    if (a.broadcast) meta.append(el('span', 'badge', '📻 broadcast'));
+    if (a.broadcast) {
+      const bc = el('span', 'badge');
+      bc.append(icon('radio', 12), el('span', null, 'broadcast'));
+      meta.append(bc);
+    }
     card.append(meta);
     card.addEventListener('click', () => {
       location.hash = '#/a/' + encodeURIComponent(a.id);
@@ -592,7 +648,9 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
   const searchInput = el('input', 'vsearch');
   searchInput.type = 'search';
   searchInput.placeholder = 'Search: english / indonesia / romaji…';
-  searchWrap.append(el('span', 'vsearch-ico', '🔍'), searchInput);
+  const searchIco = el('span', 'vsearch-ico');
+  searchIco.append(icon('search', 15));
+  searchWrap.append(searchIco, searchInput);
   host.append(header, searchWrap);
   const searchEntries = []; // {el, secIdx, hay, hayEx}
 
@@ -684,13 +742,13 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
       if (w.id) gl.append(el('div', 'idn', w.id));
       row.append(gl);
       if ((w.examples || []).length) {
-        const tog = el('button', 'vtoggle', '📋 ▾');
+        const tog = el('button', 'vtoggle');
+        tog.append(icon('list', 14), icon('chevron', 12));
         tog.title = 'example / contoh';
         tog.addEventListener('click', (ev) => {
           ev.stopPropagation();
           const open = item.classList.toggle('open');
           tog.classList.toggle('on', open);
-          tog.textContent = open ? '📋 ▴' : '📋 ▾';
         });
         row.append(tog);
       }

@@ -1,0 +1,2122 @@
+{
+ "schemaVersion": 1,
+ "id": "tokyo-s-trains-and-manners",
+ "language": "ja",
+ "title": "東京の電車とマナー",
+ "titleTranslation": "Tokyo's Trains and Manners",
+ "titleTranslationId": "Kereta dan Etika di Tokyo",
+ "level": "N4",
+ "summary": "The article explains common etiquette on Tokyo trains, such as staying quiet, not talking on the phone, boarding in order, and being mindful of others during crowded rush hours.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T18:11:26+00:00",
+ "audioFile": "audio-95613c90.mp3",
+ "voice": "en-US-BrianMultilingualNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "東京にはたくさんの電車があります。",
+     "tokens": [
+      {
+       "surface": "東京",
+       "pos": "noun",
+       "reading": "とうきょう",
+       "romaji": "toukyou",
+       "gloss": "Tokyo",
+       "glossId": "Tokyo"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction (\"to, at, in\")",
+       "glossId": "partikel penanda lokasi/waktu/arah (\"di, ke, pada\")"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel penanda topik"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adjective",
+       "romaji": "takusan",
+       "gloss": "a lot, many",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/penghubung (\"dari, -nya\")"
+      },
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha",
+       "gloss": "train",
+       "glossId": "kereta"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, to have (inanimate)",
+       "glossId": "ada, memiliki (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Tokyo has many trains.",
+     "translationId": "Tokyo memiliki banyak kereta.",
+     "audioStart": 0.0,
+     "audioEnd": 3.384
+    },
+    {
+     "text": "毎朝、多くの人が電車で会社や学校へ行きます。",
+     "tokens": [
+      {
+       "surface": "毎朝",
+       "pos": "noun",
+       "reading": "まいあさ",
+       "romaji": "maiasa",
+       "gloss": "every morning",
+       "glossId": "setiap pagi"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "多く",
+       "pos": "noun",
+       "reading": "おおく",
+       "romaji": "ooku",
+       "gloss": "many, a lot (of)",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/penghubung (\"dari, -nya\")"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person, people",
+       "glossId": "orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel penanda subjek"
+      },
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha",
+       "gloss": "train",
+       "glossId": "kereta"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location (\"by, at, with\")",
+       "glossId": "partikel penanda cara/tempat (\"dengan, di\")"
+      },
+      {
+       "surface": "会社",
+       "pos": "noun",
+       "reading": "かいしゃ",
+       "romaji": "kaisha",
+       "gloss": "company",
+       "glossId": "kantor, perusahaan"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing particle)",
+       "glossId": "dan (partikel penyebutan tidak lengkap)"
+      },
+      {
+       "surface": "学校",
+       "pos": "noun",
+       "reading": "がっこう",
+       "romaji": "gakkou",
+       "gloss": "school",
+       "glossId": "sekolah"
+      },
+      {
+       "surface": "へ",
+       "pos": "particle",
+       "romaji": "e",
+       "gloss": "direction particle (\"to, toward\")",
+       "glossId": "partikel penanda arah (\"ke\")"
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Every morning, many people go to work or school by train.",
+     "translationId": "Setiap pagi, banyak orang pergi ke kantor atau sekolah naik kereta.",
+     "audioStart": 3.384,
+     "audioEnd": 8.4
+    },
+    {
+     "text": "特に朝と夕方はとても混んでいます。",
+     "tokens": [
+      {
+       "surface": "特に",
+       "pos": "adverb",
+       "reading": "とくに",
+       "romaji": "tokuni",
+       "gloss": "especially, particularly",
+       "glossId": "terutama, khususnya"
+      },
+      {
+       "surface": "朝",
+       "pos": "noun",
+       "reading": "あさ",
+       "romaji": "asa",
+       "gloss": "morning",
+       "glossId": "pagi"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and; quotation particle",
+       "glossId": "dan; partikel kutipan"
+      },
+      {
+       "surface": "夕方",
+       "pos": "noun",
+       "reading": "ゆうがた",
+       "romaji": "yuugata",
+       "gloss": "evening",
+       "glossId": "sore"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel penanda topik"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "混ん",
+       "pos": "verb",
+       "reading": "こん",
+       "romaji": "kon",
+       "lemma": "混む",
+       "gloss": "to be crowded",
+       "glossId": "ramai, padat"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location (\"by, at, with\")",
+       "glossId": "partikel penanda cara/tempat (\"dengan, di\")"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (animate); auxiliary for ongoing state",
+       "glossId": "ada (makhluk hidup); bantu keadaan sedang berlangsung"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Mornings and evenings in particular are very crowded.",
+     "translationId": "Terutama pagi dan sore hari sangat ramai.",
+     "audioStart": 8.4,
+     "audioEnd": 12.024
+    },
+    {
+     "text": "この時間は「ラッシュアワー」と呼ばれています。",
+     "tokens": [
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this",
+       "glossId": "ini"
+      },
+      {
+       "surface": "時間",
+       "pos": "noun",
+       "reading": "じかん",
+       "romaji": "jikan",
+       "gloss": "time",
+       "glossId": "waktu"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel penanda topik"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "ラッシュアワー",
+       "pos": "noun",
+       "romaji": "rasshuawaa",
+       "gloss": "rush hour",
+       "glossId": "jam sibuk"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and; quotation particle",
+       "glossId": "dan; partikel kutipan"
+      },
+      {
+       "surface": "呼ば",
+       "pos": "verb",
+       "reading": "よば",
+       "romaji": "yoba",
+       "lemma": "呼ぶ",
+       "gloss": "to call, to name",
+       "glossId": "memanggil, menyebut"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary verb",
+       "glossId": "kata bantu pasif"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connective particle",
+       "glossId": "partikel penghubung bentuk te"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (animate); auxiliary for ongoing state",
+       "glossId": "ada (makhluk hidup); bantu keadaan sedang berlangsung"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "This time is called \"rush hour.\"",
+     "translationId": "Waktu ini disebut \"jam sibuk\" (rush hour).",
+     "audioStart": 12.024,
+     "audioEnd": 15.816
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "電車の中では、静かにする人が多いです。",
+     "tokens": [
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha",
+       "gloss": "train",
+       "glossId": "kereta"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/penghubung (\"dari, -nya\")"
+      },
+      {
+       "surface": "中",
+       "pos": "noun",
+       "reading": "なか",
+       "romaji": "naka",
+       "gloss": "inside, middle",
+       "glossId": "dalam, tengah"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location (\"by, at, with\")",
+       "glossId": "partikel penanda cara/tempat (\"dengan, di\")"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "静か",
+       "pos": "adjective",
+       "reading": "しずか",
+       "romaji": "shizuka",
+       "gloss": "quiet (na-adjective stem)",
+       "glossId": "tenang, sepi (bentuk dasar kata sifat-na)"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula (\"to be\")",
+       "glossId": "kopula (\"adalah\")"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person, people",
+       "glossId": "orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel penanda subjek"
+      },
+      {
+       "surface": "多い",
+       "pos": "adjective",
+       "reading": "おおい",
+       "romaji": "ooi",
+       "gloss": "many, a lot",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Inside the train, many people stay quiet.",
+     "translationId": "Di dalam kereta, banyak orang yang diam.",
+     "audioStart": 15.816,
+     "audioEnd": 20.184
+    },
+    {
+     "text": "大きい声で話す人はあまりいません。",
+     "tokens": [
+      {
+       "surface": "大きい",
+       "pos": "adjective",
+       "reading": "おおきい",
+       "romaji": "ookii",
+       "gloss": "big, loud (of voice)",
+       "glossId": "besar, keras (suara)"
+      },
+      {
+       "surface": "声",
+       "pos": "noun",
+       "reading": "こえ",
+       "romaji": "koe",
+       "gloss": "voice",
+       "glossId": "suara"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location (\"by, at, with\")",
+       "glossId": "partikel penanda cara/tempat (\"dengan, di\")"
+      },
+      {
+       "surface": "話す",
+       "pos": "verb",
+       "reading": "はなす",
+       "romaji": "hanasu",
+       "gloss": "to speak, talk",
+       "glossId": "berbicara"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person, people",
+       "glossId": "orang"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel penanda topik"
+      },
+      {
+       "surface": "あまり",
+       "pos": "adverb",
+       "romaji": "amari",
+       "gloss": "(not) very, (not) much",
+       "glossId": "(tidak) terlalu, (tidak) begitu"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (animate); auxiliary for ongoing state",
+       "glossId": "ada (makhluk hidup); bantu keadaan sedang berlangsung"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (classical form of ない)",
+       "glossId": "kata bantu negasi (bentuk klasik dari ない)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are not many people who talk in a loud voice.",
+     "translationId": "Tidak banyak orang yang berbicara dengan suara keras.",
+     "audioStart": 20.184,
+     "audioEnd": 23.568
+    },
+    {
+     "text": "電話で話すこともよくないマナーです。",
+     "tokens": [
+      {
+       "surface": "電話",
+       "pos": "noun",
+       "reading": "でんわ",
+       "romaji": "denwa",
+       "gloss": "telephone",
+       "glossId": "telepon"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location (\"by, at, with\")",
+       "glossId": "partikel penanda cara/tempat (\"dengan, di\")"
+      },
+      {
+       "surface": "話す",
+       "pos": "verb",
+       "reading": "はなす",
+       "romaji": "hanasu",
+       "gloss": "to speak, talk",
+       "glossId": "berbicara"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer, \"the act of ~\"",
+       "glossId": "penominal, \"hal ~\""
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "よく",
+       "pos": "adjective",
+       "romaji": "yoku",
+       "lemma": "よい",
+       "gloss": "good",
+       "glossId": "baik"
+      },
+      {
+       "surface": "ない",
+       "pos": "adjective",
+       "romaji": "nai",
+       "gloss": "negative auxiliary",
+       "glossId": "kata bantu negasi"
+      },
+      {
+       "surface": "マナー",
+       "pos": "noun",
+       "romaji": "manaa",
+       "gloss": "manners, etiquette",
+       "glossId": "etika, sopan santun"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Talking on the phone is also bad manners.",
+     "translationId": "Berbicara di telepon juga merupakan etika yang buruk.",
+     "audioStart": 23.568,
+     "audioEnd": 26.952
+    },
+    {
+     "text": "電話がかかってきたら、静かな声で少しだけ話すか、あとでかけ直します。",
+     "tokens": [
+      {
+       "surface": "電話",
+       "pos": "noun",
+       "reading": "でんわ",
+       "romaji": "denwa",
+       "gloss": "telephone",
+       "glossId": "telepon"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel penanda subjek"
+      },
+      {
+       "surface": "かかっ",
+       "pos": "verb",
+       "romaji": "kakatsu",
+       "lemma": "かかる",
+       "gloss": "to come in (of a call), to take (time/cost)",
+       "glossId": "masuk (panggilan telepon), memakan (waktu/biaya)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connective particle",
+       "glossId": "partikel penghubung bentuk te"
+      },
+      {
+       "surface": "き",
+       "pos": "verb",
+       "romaji": "ki",
+       "lemma": "くる",
+       "gloss": "to come",
+       "glossId": "datang"
+      },
+      {
+       "surface": "たら",
+       "pos": "auxiliary",
+       "romaji": "tara",
+       "lemma": "た",
+       "gloss": "past tense auxiliary",
+       "glossId": "kata bantu bentuk lampau"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "静か",
+       "pos": "adjective",
+       "reading": "しずか",
+       "romaji": "shizuka",
+       "gloss": "quiet (na-adjective stem)",
+       "glossId": "tenang, sepi (bentuk dasar kata sifat-na)"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula (\"to be\")",
+       "glossId": "kopula (\"adalah\")"
+      },
+      {
+       "surface": "声",
+       "pos": "noun",
+       "reading": "こえ",
+       "romaji": "koe",
+       "gloss": "voice",
+       "glossId": "suara"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location (\"by, at, with\")",
+       "glossId": "partikel penanda cara/tempat (\"dengan, di\")"
+      },
+      {
+       "surface": "少し",
+       "pos": "adverb",
+       "reading": "すこし",
+       "romaji": "sukoshi",
+       "gloss": "a little",
+       "glossId": "sedikit"
+      },
+      {
+       "surface": "だけ",
+       "pos": "particle",
+       "romaji": "dake",
+       "gloss": "only, just",
+       "glossId": "hanya, saja"
+      },
+      {
+       "surface": "話す",
+       "pos": "verb",
+       "reading": "はなす",
+       "romaji": "hanasu",
+       "gloss": "to speak, talk",
+       "glossId": "berbicara"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question particle; or (alternative)",
+       "glossId": "partikel tanya; atau (pilihan)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "あと",
+       "pos": "noun",
+       "romaji": "ato",
+       "gloss": "after, later",
+       "glossId": "sesudah, nanti"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location (\"by, at, with\")",
+       "glossId": "partikel penanda cara/tempat (\"dengan, di\")"
+      },
+      {
+       "surface": "かけ",
+       "pos": "verb",
+       "romaji": "kake",
+       "lemma": "かける",
+       "gloss": "to make (a phone call), to hang",
+       "glossId": "menelepon, menggantung"
+      },
+      {
+       "surface": "直し",
+       "pos": "verb",
+       "reading": "なおし",
+       "romaji": "naoshi",
+       "lemma": "直す",
+       "gloss": "to fix, to redo",
+       "glossId": "memperbaiki, mengulang"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If a call comes in, people talk briefly in a quiet voice, or call back later.",
+     "translationId": "Jika ada telepon masuk, orang berbicara sebentar dengan suara pelan, atau menelepon kembali nanti.",
+     "audioStart": 26.952,
+     "audioEnd": 33.672
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "電車に乗る前に、まず降りる人を待ちます。",
+     "tokens": [
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha",
+       "gloss": "train",
+       "glossId": "kereta"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction (\"to, at, in\")",
+       "glossId": "partikel penanda lokasi/waktu/arah (\"di, ke, pada\")"
+      },
+      {
+       "surface": "乗る",
+       "pos": "verb",
+       "reading": "のる",
+       "romaji": "noru",
+       "gloss": "to board, ride",
+       "glossId": "naik (kendaraan)"
+      },
+      {
+       "surface": "前",
+       "pos": "noun",
+       "reading": "まえ",
+       "romaji": "mae",
+       "gloss": "before, front",
+       "glossId": "sebelum, depan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction (\"to, at, in\")",
+       "glossId": "partikel penanda lokasi/waktu/arah (\"di, ke, pada\")"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "まず",
+       "pos": "adverb",
+       "romaji": "mazu",
+       "gloss": "first, first of all",
+       "glossId": "pertama-tama"
+      },
+      {
+       "surface": "降りる",
+       "pos": "verb",
+       "reading": "おりる",
+       "romaji": "oriru",
+       "gloss": "to get off, alight",
+       "glossId": "turun"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person, people",
+       "glossId": "orang"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel penanda objek"
+      },
+      {
+       "surface": "待ち",
+       "pos": "verb",
+       "reading": "まち",
+       "romaji": "machi",
+       "lemma": "待つ",
+       "gloss": "to wait",
+       "glossId": "menunggu"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Before boarding the train, people first wait for those getting off.",
+     "translationId": "Sebelum naik kereta, orang menunggu orang yang turun terlebih dahulu.",
+     "audioStart": 33.672,
+     "audioEnd": 37.752
+    },
+    {
+     "text": "それから、並んで順番に乗ります。",
+     "tokens": [
+      {
+       "surface": "それ",
+       "pos": "pronoun",
+       "romaji": "sore",
+       "gloss": "that (それから = after that)",
+       "glossId": "itu (それから = setelah itu)"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from; because; (それから) then",
+       "glossId": "dari; karena; (それから) kemudian"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "並ん",
+       "pos": "verb",
+       "reading": "ならん",
+       "romaji": "naran",
+       "lemma": "並ぶ",
+       "gloss": "to line up",
+       "glossId": "mengantre, berbaris"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location (\"by, at, with\")",
+       "glossId": "partikel penanda cara/tempat (\"dengan, di\")"
+      },
+      {
+       "surface": "順番",
+       "pos": "noun",
+       "reading": "じゅんばん",
+       "romaji": "junban",
+       "gloss": "order, turn",
+       "glossId": "urutan, giliran"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction (\"to, at, in\")",
+       "glossId": "partikel penanda lokasi/waktu/arah (\"di, ke, pada\")"
+      },
+      {
+       "surface": "乗り",
+       "pos": "verb",
+       "reading": "のり",
+       "romaji": "nori",
+       "lemma": "乗る",
+       "gloss": "to board, ride",
+       "glossId": "naik (kendaraan)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Then, they line up and board in order.",
+     "translationId": "Setelah itu, mereka mengantre dan naik sesuai urutan.",
+     "audioStart": 37.752,
+     "audioEnd": 41.4
+    },
+    {
+     "text": "急いで走って乗る人もいますが、危ないので、あまりよくありません。",
+     "tokens": [
+      {
+       "surface": "急い",
+       "pos": "verb",
+       "reading": "いそい",
+       "romaji": "isoi",
+       "lemma": "急ぐ",
+       "gloss": "to hurry",
+       "glossId": "buru-buru, bergegas"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location (\"by, at, with\")",
+       "glossId": "partikel penanda cara/tempat (\"dengan, di\")"
+      },
+      {
+       "surface": "走っ",
+       "pos": "verb",
+       "reading": "はしっ",
+       "romaji": "hashit",
+       "lemma": "走る",
+       "gloss": "to run",
+       "glossId": "berlari"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connective particle",
+       "glossId": "partikel penghubung bentuk te"
+      },
+      {
+       "surface": "乗る",
+       "pos": "verb",
+       "reading": "のる",
+       "romaji": "noru",
+       "gloss": "to board, ride",
+       "glossId": "naik (kendaraan)"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person, people",
+       "glossId": "orang"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (animate); auxiliary for ongoing state",
+       "glossId": "ada (makhluk hidup); bantu keadaan sedang berlangsung"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel penanda subjek"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "危ない",
+       "pos": "adjective",
+       "reading": "あぶない",
+       "romaji": "abunai",
+       "gloss": "dangerous",
+       "glossId": "berbahaya"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/penghubung (\"dari, -nya\")"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula (\"to be\")",
+       "glossId": "kopula (\"adalah\")"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "あまり",
+       "pos": "adverb",
+       "romaji": "amari",
+       "gloss": "(not) very, (not) much",
+       "glossId": "(tidak) terlalu, (tidak) begitu"
+      },
+      {
+       "surface": "よく",
+       "pos": "adverb",
+       "romaji": "yoku",
+       "gloss": "well, often",
+       "glossId": "dengan baik, sering"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, to have (inanimate)",
+       "glossId": "ada, memiliki (benda mati)"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (classical form of ない)",
+       "glossId": "kata bantu negasi (bentuk klasik dari ない)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Some people rush and run to board, but that's dangerous, so it's not very good.",
+     "translationId": "Ada juga orang yang terburu-buru berlari untuk naik, tetapi itu berbahaya, jadi kurang baik.",
+     "audioStart": 41.4,
+     "audioEnd": 47.304
+    },
+    {
+     "text": "ドアの近くに立つ人は、他の人が降りやすいように、少し外に出てから、また乗ります。",
+     "tokens": [
+      {
+       "surface": "ドア",
+       "pos": "noun",
+       "romaji": "doa",
+       "gloss": "door",
+       "glossId": "pintu"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/penghubung (\"dari, -nya\")"
+      },
+      {
+       "surface": "近く",
+       "pos": "noun",
+       "reading": "ちかく",
+       "romaji": "chikaku",
+       "gloss": "nearby, vicinity",
+       "glossId": "dekat, sekitar"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction (\"to, at, in\")",
+       "glossId": "partikel penanda lokasi/waktu/arah (\"di, ke, pada\")"
+      },
+      {
+       "surface": "立つ",
+       "pos": "verb",
+       "reading": "たつ",
+       "romaji": "tatsu",
+       "gloss": "to stand",
+       "glossId": "berdiri"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person, people",
+       "glossId": "orang"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "他",
+       "pos": "noun",
+       "reading": "た",
+       "romaji": "ta",
+       "gloss": "other",
+       "glossId": "lain, yang lain"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/penghubung (\"dari, -nya\")"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person, people",
+       "glossId": "orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel penanda subjek"
+      },
+      {
+       "surface": "降り",
+       "pos": "verb",
+       "reading": "ふり",
+       "romaji": "furi",
+       "lemma": "降る",
+       "gloss": "to fall (rain, snow)",
+       "glossId": "turun (hujan, salju)"
+      },
+      {
+       "surface": "やすい",
+       "pos": "suffix",
+       "romaji": "yasui",
+       "gloss": "easy to ~ (verb stem + yasui)",
+       "glossId": "mudah untuk ~ (akhiran kata kerja)"
+      },
+      {
+       "surface": "よう",
+       "pos": "adjective",
+       "romaji": "you",
+       "gloss": "manner, way (ように = so that, as if)",
+       "glossId": "cara (ように = agar, seperti)"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula (\"to be\")",
+       "glossId": "kopula (\"adalah\")"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "少し",
+       "pos": "adverb",
+       "reading": "すこし",
+       "romaji": "sukoshi",
+       "gloss": "a little",
+       "glossId": "sedikit"
+      },
+      {
+       "surface": "外",
+       "pos": "noun",
+       "reading": "そと",
+       "romaji": "soto",
+       "gloss": "outside",
+       "glossId": "luar"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction (\"to, at, in\")",
+       "glossId": "partikel penanda lokasi/waktu/arah (\"di, ke, pada\")"
+      },
+      {
+       "surface": "出",
+       "pos": "verb",
+       "reading": "で",
+       "romaji": "de",
+       "lemma": "出る",
+       "gloss": "to go out, leave",
+       "glossId": "keluar"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connective particle",
+       "glossId": "partikel penghubung bentuk te"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from; because; (それから) then",
+       "glossId": "dari; karena; (それから) kemudian"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "また",
+       "pos": "adverb",
+       "romaji": "mata",
+       "gloss": "again, also",
+       "glossId": "lagi, juga"
+      },
+      {
+       "surface": "乗り",
+       "pos": "verb",
+       "reading": "のり",
+       "romaji": "nori",
+       "lemma": "乗る",
+       "gloss": "to board, ride",
+       "glossId": "naik (kendaraan)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "People standing near the door step outside a little so others can get off easily, then get back on.",
+     "translationId": "Orang yang berdiri dekat pintu keluar sebentar agar orang lain mudah turun, lalu naik kembali.",
+     "audioStart": 47.304,
+     "audioEnd": 55.176
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "リュックを背負ったまま電車に乗る人もいますが、混んでいる電車では、リュックを前に持つほうがいいです。",
+     "tokens": [
+      {
+       "surface": "リュック",
+       "pos": "noun",
+       "romaji": "ryukku",
+       "gloss": "backpack, rucksack",
+       "glossId": "ransel"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel penanda objek"
+      },
+      {
+       "surface": "背負っ",
+       "pos": "verb",
+       "reading": "せおっ",
+       "romaji": "seot",
+       "lemma": "背負う",
+       "gloss": "to carry on one's back",
+       "glossId": "menggendong (di punggung)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense auxiliary",
+       "glossId": "kata bantu bentuk lampau"
+      },
+      {
+       "surface": "まま",
+       "pos": "noun",
+       "romaji": "mama",
+       "gloss": "as is, while remaining (in a state)",
+       "glossId": "tetap dalam keadaan, sambil tetap"
+      },
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha",
+       "gloss": "train",
+       "glossId": "kereta"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction (\"to, at, in\")",
+       "glossId": "partikel penanda lokasi/waktu/arah (\"di, ke, pada\")"
+      },
+      {
+       "surface": "乗る",
+       "pos": "verb",
+       "reading": "のる",
+       "romaji": "noru",
+       "gloss": "to board, ride",
+       "glossId": "naik (kendaraan)"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person, people",
+       "glossId": "orang"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (animate); auxiliary for ongoing state",
+       "glossId": "ada (makhluk hidup); bantu keadaan sedang berlangsung"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel penanda subjek"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "混ん",
+       "pos": "verb",
+       "reading": "こん",
+       "romaji": "kon",
+       "lemma": "混む",
+       "gloss": "to be crowded",
+       "glossId": "ramai, padat"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location (\"by, at, with\")",
+       "glossId": "partikel penanda cara/tempat (\"dengan, di\")"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "to exist (animate); auxiliary for ongoing state",
+       "glossId": "ada (makhluk hidup); bantu keadaan sedang berlangsung"
+      },
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha",
+       "gloss": "train",
+       "glossId": "kereta"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location (\"by, at, with\")",
+       "glossId": "partikel penanda cara/tempat (\"dengan, di\")"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "リュック",
+       "pos": "noun",
+       "romaji": "ryukku",
+       "gloss": "backpack, rucksack",
+       "glossId": "ransel"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel penanda objek"
+      },
+      {
+       "surface": "前",
+       "pos": "noun",
+       "reading": "まえ",
+       "romaji": "mae",
+       "gloss": "before, front",
+       "glossId": "sebelum, depan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction (\"to, at, in\")",
+       "glossId": "partikel penanda lokasi/waktu/arah (\"di, ke, pada\")"
+      },
+      {
+       "surface": "持つ",
+       "pos": "verb",
+       "reading": "もつ",
+       "romaji": "motsu",
+       "gloss": "to hold, carry",
+       "glossId": "memegang, membawa"
+      },
+      {
+       "surface": "ほう",
+       "pos": "noun",
+       "romaji": "hou",
+       "gloss": "direction, side (used in comparisons)",
+       "glossId": "arah, pilihan (dipakai dalam perbandingan)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel penanda subjek"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good",
+       "glossId": "baik"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Some people board the train with their backpack still on their back, but on a crowded train it's better to hold the backpack in front.",
+     "translationId": "Ada juga orang yang naik kereta dengan tas ransel masih di punggung, tetapi di kereta yang ramai, lebih baik membawa ransel di depan.",
+     "audioStart": 55.176,
+     "audioEnd": 63.072
+    },
+    {
+     "text": "後ろの人にぶつからないからです。",
+     "tokens": [
+      {
+       "surface": "後ろ",
+       "pos": "noun",
+       "reading": "うしろ",
+       "romaji": "ushiro",
+       "gloss": "behind, back",
+       "glossId": "belakang"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/penghubung (\"dari, -nya\")"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person, people",
+       "glossId": "orang"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction (\"to, at, in\")",
+       "glossId": "partikel penanda lokasi/waktu/arah (\"di, ke, pada\")"
+      },
+      {
+       "surface": "ぶつから",
+       "pos": "verb",
+       "romaji": "butsukara",
+       "lemma": "ぶつかる",
+       "gloss": "to bump into, collide",
+       "glossId": "menabrak, bertabrakan"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative auxiliary",
+       "glossId": "kata bantu negasi"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from; because; (それから) then",
+       "glossId": "dari; karena; (それから) kemudian"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "This is because it won't bump into the person behind you.",
+     "translationId": "Ini karena tidak akan menabrak orang di belakang.",
+     "audioStart": 63.072,
+     "audioEnd": 66.216
+    },
+    {
+     "text": "また、優先席の近くでは、携帯電話の電源を切るか、マナーモードにする人が多いです。",
+     "tokens": [
+      {
+       "surface": "また",
+       "pos": "conjunction",
+       "romaji": "mata",
+       "gloss": "again, also",
+       "glossId": "lagi, juga"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "優先席",
+       "pos": "noun",
+       "reading": "ゆうせんせき",
+       "romaji": "yuusenseki",
+       "gloss": "priority seat",
+       "glossId": "kursi prioritas"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/penghubung (\"dari, -nya\")"
+      },
+      {
+       "surface": "近く",
+       "pos": "noun",
+       "reading": "ちかく",
+       "romaji": "chikaku",
+       "gloss": "nearby, vicinity",
+       "glossId": "dekat, sekitar"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location (\"by, at, with\")",
+       "glossId": "partikel penanda cara/tempat (\"dengan, di\")"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "携帯電話",
+       "pos": "noun",
+       "reading": "けいたいでんわ",
+       "romaji": "keitaidenwa",
+       "gloss": "mobile phone, cell phone",
+       "glossId": "ponsel, telepon genggam"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/penghubung (\"dari, -nya\")"
+      },
+      {
+       "surface": "電源",
+       "pos": "noun",
+       "reading": "でんげん",
+       "romaji": "dengen",
+       "gloss": "power (source)",
+       "glossId": "sumber daya (listrik)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel penanda objek"
+      },
+      {
+       "surface": "切る",
+       "pos": "verb",
+       "reading": "きる",
+       "romaji": "kiru",
+       "gloss": "to cut, to turn off",
+       "glossId": "memotong, mematikan"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question particle; or (alternative)",
+       "glossId": "partikel tanya; atau (pilihan)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "マナーモード",
+       "pos": "noun",
+       "romaji": "manaamoodo",
+       "gloss": "silent mode (\"manner mode\")",
+       "glossId": "mode senyap (\"manner mode\")"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction (\"to, at, in\")",
+       "glossId": "partikel penanda lokasi/waktu/arah (\"di, ke, pada\")"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person, people",
+       "glossId": "orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel penanda subjek"
+      },
+      {
+       "surface": "多い",
+       "pos": "adjective",
+       "reading": "おおい",
+       "romaji": "ooi",
+       "gloss": "many, a lot",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Also, near priority seats, many people turn off their phones or set them to silent mode.",
+     "translationId": "Selain itu, di dekat kursi prioritas, banyak orang yang mematikan ponsel mereka atau mengaturnya ke mode senyap.",
+     "audioStart": 66.216,
+     "audioEnd": 74.496
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "このように、東京の電車には色々なルールがあります。",
+     "tokens": [
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this",
+       "glossId": "ini"
+      },
+      {
+       "surface": "よう",
+       "pos": "adjective",
+       "romaji": "you",
+       "gloss": "manner, way (ように = so that, as if)",
+       "glossId": "cara (ように = agar, seperti)"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula (\"to be\")",
+       "glossId": "kopula (\"adalah\")"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "東京",
+       "pos": "noun",
+       "reading": "とうきょう",
+       "romaji": "toukyou",
+       "gloss": "Tokyo",
+       "glossId": "Tokyo"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/penghubung (\"dari, -nya\")"
+      },
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha",
+       "gloss": "train",
+       "glossId": "kereta"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction (\"to, at, in\")",
+       "glossId": "partikel penanda lokasi/waktu/arah (\"di, ke, pada\")"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel penanda topik"
+      },
+      {
+       "surface": "色々",
+       "pos": "adjective",
+       "reading": "いろいろ",
+       "romaji": "iroiro",
+       "gloss": "various",
+       "glossId": "bermacam-macam, berbagai"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula (\"to be\")",
+       "glossId": "kopula (\"adalah\")"
+      },
+      {
+       "surface": "ルール",
+       "pos": "noun",
+       "romaji": "ruuru",
+       "gloss": "rule",
+       "glossId": "aturan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, to have (inanimate)",
+       "glossId": "ada, memiliki (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In this way, there are various rules on Tokyo's trains.",
+     "translationId": "Dengan demikian, ada berbagai aturan di kereta Tokyo.",
+     "audioStart": 74.496,
+     "audioEnd": 79.392
+    },
+    {
+     "text": "みんなが少しずつ気をつけると、電車はもっと使いやすくなります。",
+     "tokens": [
+      {
+       "surface": "みんな",
+       "pos": "noun",
+       "romaji": "minna",
+       "gloss": "everyone",
+       "glossId": "semua orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "partikel penanda subjek"
+      },
+      {
+       "surface": "少し",
+       "pos": "adverb",
+       "reading": "すこし",
+       "romaji": "sukoshi",
+       "gloss": "a little",
+       "glossId": "sedikit"
+      },
+      {
+       "surface": "ずつ",
+       "pos": "particle",
+       "romaji": "zutsu",
+       "gloss": "each, little by little",
+       "glossId": "masing-masing, sedikit demi sedikit"
+      },
+      {
+       "surface": "気",
+       "pos": "noun",
+       "reading": "き",
+       "romaji": "ki",
+       "gloss": "mind, attention (気をつける = to be careful)",
+       "glossId": "perhatian, pikiran (気をつける = berhati-hati)"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel penanda objek"
+      },
+      {
+       "surface": "つける",
+       "pos": "verb",
+       "romaji": "tsukeru",
+       "gloss": "to attach, turn on (気をつける = to pay attention)",
+       "glossId": "memasang, menyalakan (気をつける = memperhatikan)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and; quotation particle",
+       "glossId": "dan; partikel kutipan"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha",
+       "gloss": "train",
+       "glossId": "kereta"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel penanda topik"
+      },
+      {
+       "surface": "もっと",
+       "pos": "adverb",
+       "romaji": "motto",
+       "gloss": "more",
+       "glossId": "lebih"
+      },
+      {
+       "surface": "使い",
+       "pos": "verb",
+       "reading": "つかい",
+       "romaji": "tsukai",
+       "lemma": "使う",
+       "gloss": "to use",
+       "glossId": "menggunakan"
+      },
+      {
+       "surface": "やすく",
+       "pos": "suffix",
+       "romaji": "yasuku",
+       "lemma": "やすい",
+       "gloss": "easy to ~ (verb stem + yasui)",
+       "glossId": "mudah untuk ~ (akhiran kata kerja)"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If everyone is a little careful, trains become easier to use.",
+     "translationId": "Jika semua orang sedikit berhati-hati, kereta akan menjadi lebih mudah digunakan.",
+     "audioStart": 79.392,
+     "audioEnd": 85.032
+    }
+   ]
+  }
+ ],
+ "topic": "まいにちのせいかつ",
+ "topicEn": "Daily life",
+ "topicId": "Kehidupan sehari-hari"
+}

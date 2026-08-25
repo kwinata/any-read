@@ -1,0 +1,2225 @@
+{
+ "schemaVersion": 1,
+ "id": "sento-and-onsen-manners",
+ "language": "ja",
+ "title": "銭湯と温泉のマナー",
+ "titleTranslation": "Sento and Onsen Manners",
+ "titleTranslationId": "Etika Sento dan Onsen",
+ "level": "N4",
+ "summary": "The article explains the etiquette Japanese people follow when using public bathhouses (sento) and hot springs (onsen), such as washing before entering the tub, keeping towels out of the water, and staying quiet and respectful of others.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T18:09:21+00:00",
+ "audioFile": "audio-2db75be3.mp3",
+ "voice": "de-DE-SeraphinaMultilingualNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "日本には「銭湯」や「温泉」がたくさんあります。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/direction particle",
+       "glossId": "partikel lokasi/arah"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "銭湯",
+       "pos": "noun",
+       "reading": "せんとう",
+       "romaji": "sentou",
+       "gloss": "public bathhouse",
+       "glossId": "pemandian umum"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "温泉",
+       "pos": "noun",
+       "reading": "おんせん",
+       "romaji": "onsen",
+       "gloss": "hot spring",
+       "glossId": "pemandian air panas"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Japan has many \"sento\" (public bathhouses) and \"onsen\" (hot springs).",
+     "translationId": "Di Jepang ada banyak \"sento\" (pemandian umum) dan \"onsen\" (pemandian air panas).",
+     "audioStart": 0.0,
+     "audioEnd": 4.176
+    },
+    {
+     "text": "銭湯は町の中にあるお風呂で、温泉は山や海の近くにあることが多いです。",
+     "tokens": [
+      {
+       "surface": "銭湯",
+       "pos": "noun",
+       "reading": "せんとう",
+       "romaji": "sentou",
+       "gloss": "public bathhouse",
+       "glossId": "pemandian umum"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "町",
+       "pos": "noun",
+       "reading": "まち",
+       "romaji": "machi",
+       "gloss": "town",
+       "glossId": "kota"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atribut"
+      },
+      {
+       "surface": "中",
+       "pos": "noun",
+       "reading": "なか",
+       "romaji": "naka",
+       "gloss": "inside, middle",
+       "glossId": "dalam, tengah"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/direction particle",
+       "glossId": "partikel lokasi/arah"
+      },
+      {
+       "surface": "ある",
+       "pos": "verb",
+       "romaji": "aru",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (benda mati)"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "風呂",
+       "pos": "noun",
+       "reading": "ふろ",
+       "romaji": "furo",
+       "gloss": "bath",
+       "glossId": "pemandian"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "plain copula 'is'",
+       "glossId": "kopula biasa 'adalah'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "温泉",
+       "pos": "noun",
+       "reading": "おんせん",
+       "romaji": "onsen",
+       "gloss": "hot spring",
+       "glossId": "pemandian air panas"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "山",
+       "pos": "noun",
+       "reading": "やま",
+       "romaji": "yama",
+       "gloss": "mountain",
+       "glossId": "gunung"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "海",
+       "pos": "noun",
+       "reading": "うみ",
+       "romaji": "umi",
+       "gloss": "sea",
+       "glossId": "laut"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atribut"
+      },
+      {
+       "surface": "近く",
+       "pos": "noun",
+       "reading": "ちかく",
+       "romaji": "chikaku",
+       "gloss": "nearby, vicinity",
+       "glossId": "sekitar, dekat"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/direction particle",
+       "glossId": "partikel lokasi/arah"
+      },
+      {
+       "surface": "ある",
+       "pos": "verb",
+       "romaji": "aru",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (benda mati)"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing, fact (nominalizer)",
+       "glossId": "hal (nominalisasi)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "多い",
+       "pos": "adjective",
+       "reading": "おおい",
+       "romaji": "ooi",
+       "gloss": "many, a lot",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Sento are baths located in towns, while onsen are often near mountains or the sea.",
+     "translationId": "Sento adalah pemandian yang ada di dalam kota, sedangkan onsen sering berada di dekat gunung atau laut.",
+     "audioStart": 4.176,
+     "audioEnd": 11.496
+    },
+    {
+     "text": "仕事の後や旅行のとき、多くの人がお風呂に入ってリラックスします。",
+     "tokens": [
+      {
+       "surface": "仕事",
+       "pos": "noun",
+       "reading": "しごと",
+       "romaji": "shigoto",
+       "gloss": "work, job",
+       "glossId": "pekerjaan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atribut"
+      },
+      {
+       "surface": "後",
+       "pos": "noun",
+       "reading": "あと",
+       "romaji": "ato",
+       "gloss": "after",
+       "glossId": "setelah"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "旅行",
+       "pos": "noun",
+       "reading": "りょこう",
+       "romaji": "ryokou",
+       "gloss": "travel, trip",
+       "glossId": "perjalanan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atribut"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "time, when",
+       "glossId": "waktu, saat"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "多く",
+       "pos": "noun",
+       "reading": "おおく",
+       "romaji": "ooku",
+       "gloss": "many, most",
+       "glossId": "kebanyakan, banyak"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atribut"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "風呂",
+       "pos": "noun",
+       "reading": "ふろ",
+       "romaji": "furo",
+       "gloss": "bath",
+       "glossId": "pemandian"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/direction particle",
+       "glossId": "partikel lokasi/arah"
+      },
+      {
+       "surface": "入っ",
+       "pos": "verb",
+       "reading": "はいっ",
+       "romaji": "hait",
+       "lemma": "入る",
+       "gloss": "to enter",
+       "glossId": "masuk"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)",
+       "glossId": "partikel penghubung (bentuk te)"
+      },
+      {
+       "surface": "リラックス",
+       "pos": "noun",
+       "romaji": "rirakkusu",
+       "gloss": "relax",
+       "glossId": "bersantai"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "After work or while traveling, many people take a bath to relax.",
+     "translationId": "Setelah bekerja atau saat bepergian, banyak orang berendam untuk bersantai.",
+     "audioStart": 11.496,
+     "audioEnd": 17.712
+    },
+    {
+     "text": "でも、みんなで使う場所なので、マナーを守ることが大切です。",
+     "tokens": [
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "at/by (location/means particle)",
+       "glossId": "partikel di/dengan (lokasi/cara)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even",
+       "glossId": "juga, bahkan"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "みんな",
+       "pos": "noun",
+       "romaji": "minna",
+       "gloss": "everyone",
+       "glossId": "semua orang"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "at/by (location/means particle)",
+       "glossId": "partikel di/dengan (lokasi/cara)"
+      },
+      {
+       "surface": "使う",
+       "pos": "verb",
+       "reading": "つかう",
+       "romaji": "tsukau",
+       "gloss": "to use",
+       "glossId": "menggunakan"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place",
+       "glossId": "tempat"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "plain copula 'is'",
+       "glossId": "kopula biasa 'adalah'"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atribut"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "plain copula 'is'",
+       "glossId": "kopula biasa 'adalah'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "マナー",
+       "pos": "noun",
+       "romaji": "manaa",
+       "gloss": "manners",
+       "glossId": "etika, sopan santun"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "守る",
+       "pos": "verb",
+       "reading": "まもる",
+       "romaji": "mamoru",
+       "gloss": "to follow, protect (rules)",
+       "glossId": "mematuhi, menjaga (aturan)"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing, fact (nominalizer)",
+       "glossId": "hal (nominalisasi)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "大切",
+       "pos": "adjective",
+       "reading": "たいせつ",
+       "romaji": "taisetsu",
+       "gloss": "important",
+       "glossId": "penting"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "But since it's a place shared by everyone, it's important to follow the manners.",
+     "translationId": "Tapi, karena ini tempat yang digunakan bersama, penting untuk menjaga etika.",
+     "audioStart": 17.712,
+     "audioEnd": 23.664
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "お風呂に入る前に、体を洗わなければなりません。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "風呂",
+       "pos": "noun",
+       "reading": "ふろ",
+       "romaji": "furo",
+       "gloss": "bath",
+       "glossId": "pemandian"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/direction particle",
+       "glossId": "partikel lokasi/arah"
+      },
+      {
+       "surface": "入る",
+       "pos": "verb",
+       "reading": "はいる",
+       "romaji": "hairu",
+       "gloss": "to enter",
+       "glossId": "masuk"
+      },
+      {
+       "surface": "前",
+       "pos": "noun",
+       "reading": "まえ",
+       "romaji": "mae",
+       "gloss": "before",
+       "glossId": "sebelum"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/direction particle",
+       "glossId": "partikel lokasi/arah"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "体",
+       "pos": "noun",
+       "reading": "からだ",
+       "romaji": "karada",
+       "gloss": "body",
+       "glossId": "badan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "洗わ",
+       "pos": "verb",
+       "reading": "あらわ",
+       "romaji": "arawa",
+       "lemma": "洗う",
+       "gloss": "to wash",
+       "glossId": "mencuci"
+      },
+      {
+       "surface": "なけれ",
+       "pos": "auxiliary",
+       "romaji": "nakere",
+       "lemma": "ない",
+       "gloss": "negative suffix",
+       "glossId": "akhiran negatif"
+      },
+      {
+       "surface": "ば",
+       "pos": "particle",
+       "romaji": "ba",
+       "gloss": "conditional 'if'",
+       "glossId": "bentuk kondisional 'jika'"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "classical negative suffix (as in 洗わなければ)",
+       "glossId": "akhiran negatif klasik (seperti pada 洗わなければ)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You must wash your body before entering the bath.",
+     "translationId": "Sebelum masuk ke pemandian, kamu harus mencuci badan terlebih dahulu.",
+     "audioStart": 23.664,
+     "audioEnd": 28.536
+    },
+    {
+     "text": "シャワーの前の椅子に座って、石けんで体をきれいに洗います。",
+     "tokens": [
+      {
+       "surface": "シャワー",
+       "pos": "noun",
+       "romaji": "shawaa",
+       "gloss": "shower",
+       "glossId": "shower"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atribut"
+      },
+      {
+       "surface": "前",
+       "pos": "noun",
+       "reading": "まえ",
+       "romaji": "mae",
+       "gloss": "before",
+       "glossId": "sebelum"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atribut"
+      },
+      {
+       "surface": "椅子",
+       "pos": "noun",
+       "reading": "いす",
+       "romaji": "isu",
+       "gloss": "chair, stool",
+       "glossId": "kursi"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/direction particle",
+       "glossId": "partikel lokasi/arah"
+      },
+      {
+       "surface": "座っ",
+       "pos": "verb",
+       "reading": "すわっ",
+       "romaji": "suwat",
+       "lemma": "座る",
+       "gloss": "to sit",
+       "glossId": "duduk"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)",
+       "glossId": "partikel penghubung (bentuk te)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "石けん",
+       "pos": "noun",
+       "reading": "せっけん",
+       "romaji": "sekken",
+       "gloss": "soap",
+       "glossId": "sabun"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "at/by (location/means particle)",
+       "glossId": "partikel di/dengan (lokasi/cara)"
+      },
+      {
+       "surface": "体",
+       "pos": "noun",
+       "reading": "からだ",
+       "romaji": "karada",
+       "gloss": "body",
+       "glossId": "badan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "きれい",
+       "pos": "adjective",
+       "romaji": "kirei",
+       "gloss": "clean, pretty",
+       "glossId": "bersih, cantik"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "plain copula 'is'",
+       "glossId": "kopula biasa 'adalah'"
+      },
+      {
+       "surface": "洗い",
+       "pos": "verb",
+       "reading": "あらい",
+       "romaji": "arai",
+       "lemma": "洗う",
+       "gloss": "to wash",
+       "glossId": "mencuci"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Sit on the stool in front of the shower and wash your body clean with soap.",
+     "translationId": "Duduklah di kursi depan shower, lalu cuci badan sampai bersih dengan sabun.",
+     "audioStart": 28.536,
+     "audioEnd": 34.08
+    },
+    {
+     "text": "それから、湯船に入ります。",
+     "tokens": [
+      {
+       "surface": "それ",
+       "pos": "pronoun",
+       "romaji": "sore",
+       "gloss": "that",
+       "glossId": "itu"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "after, from",
+       "glossId": "setelah, dari"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "湯船",
+       "pos": "noun",
+       "reading": "ゆぶね",
+       "romaji": "yubune",
+       "gloss": "bathtub",
+       "glossId": "bak air panas"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/direction particle",
+       "glossId": "partikel lokasi/arah"
+      },
+      {
+       "surface": "入り",
+       "pos": "verb",
+       "reading": "はいり",
+       "romaji": "hairi",
+       "lemma": "入る",
+       "gloss": "to enter",
+       "glossId": "masuk"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "After that, you get into the tub.",
+     "translationId": "Setelah itu, masuklah ke bak air panas.",
+     "audioStart": 34.08,
+     "audioEnd": 37.248
+    },
+    {
+     "text": "体を洗わないでお湯に入ると、他の人に迷惑になります。",
+     "tokens": [
+      {
+       "surface": "体",
+       "pos": "noun",
+       "reading": "からだ",
+       "romaji": "karada",
+       "gloss": "body",
+       "glossId": "badan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "洗わ",
+       "pos": "verb",
+       "reading": "あらわ",
+       "romaji": "arawa",
+       "lemma": "洗う",
+       "gloss": "to wash",
+       "glossId": "mencuci"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix",
+       "glossId": "akhiran negatif"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "at/by (location/means particle)",
+       "glossId": "partikel di/dengan (lokasi/cara)"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "湯",
+       "pos": "noun",
+       "reading": "ゆ",
+       "romaji": "yu",
+       "gloss": "hot water",
+       "glossId": "air panas"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/direction particle",
+       "glossId": "partikel lokasi/arah"
+      },
+      {
+       "surface": "入る",
+       "pos": "verb",
+       "reading": "はいる",
+       "romaji": "hairu",
+       "gloss": "to enter",
+       "glossId": "masuk"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "with, and, quotation particle",
+       "glossId": "dengan, dan, partikel kutipan"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "他",
+       "pos": "noun",
+       "reading": "た",
+       "romaji": "ta",
+       "gloss": "other, others",
+       "glossId": "lain, orang lain"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atribut"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/direction particle",
+       "glossId": "partikel lokasi/arah"
+      },
+      {
+       "surface": "迷惑",
+       "pos": "noun",
+       "reading": "めいわく",
+       "romaji": "meiwaku",
+       "gloss": "trouble, nuisance",
+       "glossId": "gangguan, merepotkan"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "plain copula 'is'",
+       "glossId": "kopula biasa 'adalah'"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If you get into the hot water without washing your body, it bothers other people.",
+     "translationId": "Jika masuk ke air panas tanpa mencuci badan, itu akan mengganggu orang lain.",
+     "audioStart": 37.248,
+     "audioEnd": 42.696
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "タオルをお湯の中に入れてはいけません。",
+     "tokens": [
+      {
+       "surface": "タオル",
+       "pos": "noun",
+       "romaji": "taoru",
+       "gloss": "towel",
+       "glossId": "handuk"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "湯",
+       "pos": "noun",
+       "reading": "ゆ",
+       "romaji": "yu",
+       "gloss": "hot water",
+       "glossId": "air panas"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atribut"
+      },
+      {
+       "surface": "中",
+       "pos": "noun",
+       "reading": "なか",
+       "romaji": "naka",
+       "gloss": "inside, middle",
+       "glossId": "dalam, tengah"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/direction particle",
+       "glossId": "partikel lokasi/arah"
+      },
+      {
+       "surface": "入れ",
+       "pos": "verb",
+       "reading": "いれ",
+       "romaji": "ire",
+       "lemma": "入れる",
+       "gloss": "to put in",
+       "glossId": "memasukkan"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)",
+       "glossId": "partikel penghubung (bentuk te)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "いけ",
+       "pos": "verb",
+       "romaji": "ike",
+       "lemma": "いける",
+       "gloss": "to be allowed (as in いけない)",
+       "glossId": "boleh (seperti pada いけない)"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "classical negative suffix (as in 洗わなければ)",
+       "glossId": "akhiran negatif klasik (seperti pada 洗わなければ)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You must not put your towel into the hot water.",
+     "translationId": "Kamu tidak boleh memasukkan handuk ke dalam air panas.",
+     "audioStart": 42.696,
+     "audioEnd": 46.176
+    },
+    {
+     "text": "タオルは頭の上に置くか、湯船の外に置きます。",
+     "tokens": [
+      {
+       "surface": "タオル",
+       "pos": "noun",
+       "romaji": "taoru",
+       "gloss": "towel",
+       "glossId": "handuk"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "頭",
+       "pos": "noun",
+       "reading": "あたま",
+       "romaji": "atama",
+       "gloss": "head",
+       "glossId": "kepala"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atribut"
+      },
+      {
+       "surface": "上",
+       "pos": "noun",
+       "reading": "うえ",
+       "romaji": "ue",
+       "gloss": "top, above",
+       "glossId": "atas"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/direction particle",
+       "glossId": "partikel lokasi/arah"
+      },
+      {
+       "surface": "置く",
+       "pos": "verb",
+       "reading": "おく",
+       "romaji": "oku",
+       "gloss": "to put, place",
+       "glossId": "meletakkan"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "or (choice particle)",
+       "glossId": "atau (partikel pilihan)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "湯船",
+       "pos": "noun",
+       "reading": "ゆぶね",
+       "romaji": "yubune",
+       "gloss": "bathtub",
+       "glossId": "bak air panas"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atribut"
+      },
+      {
+       "surface": "外",
+       "pos": "noun",
+       "reading": "そと",
+       "romaji": "soto",
+       "gloss": "outside",
+       "glossId": "luar"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/direction particle",
+       "glossId": "partikel lokasi/arah"
+      },
+      {
+       "surface": "置き",
+       "pos": "verb",
+       "reading": "おき",
+       "romaji": "oki",
+       "lemma": "置く",
+       "gloss": "to put, place",
+       "glossId": "meletakkan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Put your towel on top of your head or set it outside the tub.",
+     "translationId": "Letakkan handuk di atas kepala atau di luar bak air panas.",
+     "audioStart": 46.176,
+     "audioEnd": 50.952
+    },
+    {
+     "text": "髪が長い人は、髪をお湯につけないように、髪をまとめてください。",
+     "tokens": [
+      {
+       "surface": "髪",
+       "pos": "noun",
+       "reading": "かみ",
+       "romaji": "kami",
+       "gloss": "hair",
+       "glossId": "rambut"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "長い",
+       "pos": "adjective",
+       "reading": "ながい",
+       "romaji": "nagai",
+       "gloss": "long",
+       "glossId": "panjang"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "髪",
+       "pos": "noun",
+       "reading": "かみ",
+       "romaji": "kami",
+       "gloss": "hair",
+       "glossId": "rambut"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "湯",
+       "pos": "noun",
+       "reading": "ゆ",
+       "romaji": "yu",
+       "gloss": "hot water",
+       "glossId": "air panas"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/direction particle",
+       "glossId": "partikel lokasi/arah"
+      },
+      {
+       "surface": "つけ",
+       "pos": "verb",
+       "romaji": "tsuke",
+       "lemma": "つける",
+       "gloss": "to attach, soak",
+       "glossId": "menempelkan, merendam"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix",
+       "glossId": "akhiran negatif"
+      },
+      {
+       "surface": "よう",
+       "pos": "adjective",
+       "romaji": "you",
+       "gloss": "so that, in order to",
+       "glossId": "agar, supaya"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "plain copula 'is'",
+       "glossId": "kopula biasa 'adalah'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "髪",
+       "pos": "noun",
+       "reading": "かみ",
+       "romaji": "kami",
+       "gloss": "hair",
+       "glossId": "rambut"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "まとめ",
+       "pos": "verb",
+       "romaji": "matome",
+       "lemma": "まとめる",
+       "gloss": "to gather, tie up",
+       "glossId": "mengumpulkan, mengikat"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)",
+       "glossId": "partikel penghubung (bentuk te)"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる",
+       "gloss": "to give (honorific, as in ください)",
+       "glossId": "memberi (bentuk hormat, seperti pada ください)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "People with long hair should tie it up so it doesn't touch the hot water.",
+     "translationId": "Orang yang berambut panjang sebaiknya mengikat rambutnya agar tidak terkena air panas.",
+     "audioStart": 50.952,
+     "audioEnd": 57.264
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "温泉の中では、静かにゆっくり休みたい人が多いので、大きい声で話さないでください。",
+     "tokens": [
+      {
+       "surface": "温泉",
+       "pos": "noun",
+       "reading": "おんせん",
+       "romaji": "onsen",
+       "gloss": "hot spring",
+       "glossId": "pemandian air panas"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atribut"
+      },
+      {
+       "surface": "中",
+       "pos": "noun",
+       "reading": "なか",
+       "romaji": "naka",
+       "gloss": "inside, middle",
+       "glossId": "dalam, tengah"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "at/by (location/means particle)",
+       "glossId": "partikel di/dengan (lokasi/cara)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "静か",
+       "pos": "adjective",
+       "reading": "しずか",
+       "romaji": "shizuka",
+       "gloss": "quiet",
+       "glossId": "tenang"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "plain copula 'is'",
+       "glossId": "kopula biasa 'adalah'"
+      },
+      {
+       "surface": "ゆっくり",
+       "pos": "adverb",
+       "romaji": "yukkuri",
+       "gloss": "slowly, leisurely",
+       "glossId": "perlahan, santai"
+      },
+      {
+       "surface": "休み",
+       "pos": "verb",
+       "reading": "やすみ",
+       "romaji": "yasumi",
+       "lemma": "休む",
+       "gloss": "to rest",
+       "glossId": "beristirahat"
+      },
+      {
+       "surface": "たい",
+       "pos": "auxiliary",
+       "romaji": "tai",
+       "gloss": "want to (desire suffix)",
+       "glossId": "ingin (akhiran keinginan)"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "多い",
+       "pos": "adjective",
+       "reading": "おおい",
+       "romaji": "ooi",
+       "gloss": "many, a lot",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atribut"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "plain copula 'is'",
+       "glossId": "kopula biasa 'adalah'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "大きい",
+       "pos": "adjective",
+       "reading": "おおきい",
+       "romaji": "ookii",
+       "gloss": "big, loud",
+       "glossId": "besar, keras"
+      },
+      {
+       "surface": "声",
+       "pos": "noun",
+       "reading": "こえ",
+       "romaji": "koe",
+       "gloss": "voice",
+       "glossId": "suara"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "at/by (location/means particle)",
+       "glossId": "partikel di/dengan (lokasi/cara)"
+      },
+      {
+       "surface": "話さ",
+       "pos": "verb",
+       "reading": "はなさ",
+       "romaji": "hanasa",
+       "lemma": "話す",
+       "gloss": "to speak",
+       "glossId": "berbicara"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative suffix",
+       "glossId": "akhiran negatif"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "at/by (location/means particle)",
+       "glossId": "partikel di/dengan (lokasi/cara)"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる",
+       "gloss": "to give (honorific, as in ください)",
+       "glossId": "memberi (bentuk hormat, seperti pada ください)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Since many people in the onsen want to rest quietly and slowly, please don't speak in a loud voice.",
+     "translationId": "Karena banyak orang di dalam onsen ingin beristirahat dengan tenang, tolong jangan berbicara dengan suara keras.",
+     "audioStart": 57.264,
+     "audioEnd": 65.064
+    },
+    {
+     "text": "他の人が困るので、写真を撮ってはいけません。",
+     "tokens": [
+      {
+       "surface": "他",
+       "pos": "noun",
+       "reading": "ほか",
+       "romaji": "hoka",
+       "gloss": "other, others",
+       "glossId": "lain, orang lain"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atribut"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "困る",
+       "pos": "verb",
+       "reading": "こまる",
+       "romaji": "komaru",
+       "gloss": "to be troubled, in trouble",
+       "glossId": "kesulitan, terganggu"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atribut"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "plain copula 'is'",
+       "glossId": "kopula biasa 'adalah'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "写真",
+       "pos": "noun",
+       "reading": "しゃしん",
+       "romaji": "shashin",
+       "gloss": "photo",
+       "glossId": "foto"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "撮っ",
+       "pos": "verb",
+       "reading": "とっ",
+       "romaji": "tot",
+       "lemma": "撮る",
+       "gloss": "to take (a photo)",
+       "glossId": "mengambil (foto)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)",
+       "glossId": "partikel penghubung (bentuk te)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "いけ",
+       "pos": "verb",
+       "romaji": "ike",
+       "lemma": "いける",
+       "gloss": "to be allowed (as in いけない)",
+       "glossId": "boleh (seperti pada いけない)"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "classical negative suffix (as in 洗わなければ)",
+       "glossId": "akhiran negatif klasik (seperti pada 洗わなければ)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You must not take photos, since it troubles other people.",
+     "translationId": "Kamu tidak boleh memotret, karena akan mengganggu orang lain.",
+     "audioStart": 65.064,
+     "audioEnd": 69.888
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "最近は、色々な国の人が日本の温泉に来ます。",
+     "tokens": [
+      {
+       "surface": "最近",
+       "pos": "noun",
+       "reading": "さいきん",
+       "romaji": "saikin",
+       "gloss": "recently",
+       "glossId": "akhir-akhir ini"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "色々",
+       "pos": "adjective",
+       "reading": "いろいろ",
+       "romaji": "iroiro",
+       "gloss": "various",
+       "glossId": "berbagai macam"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "plain copula 'is'",
+       "glossId": "kopula biasa 'adalah'"
+      },
+      {
+       "surface": "国",
+       "pos": "noun",
+       "reading": "くに",
+       "romaji": "kuni",
+       "gloss": "country",
+       "glossId": "negara"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atribut"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atribut"
+      },
+      {
+       "surface": "温泉",
+       "pos": "noun",
+       "reading": "おんせん",
+       "romaji": "onsen",
+       "gloss": "hot spring",
+       "glossId": "pemandian air panas"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/direction particle",
+       "glossId": "partikel lokasi/arah"
+      },
+      {
+       "surface": "来",
+       "pos": "verb",
+       "reading": "き",
+       "romaji": "ki",
+       "lemma": "来る",
+       "gloss": "to come",
+       "glossId": "datang"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Recently, people from various countries have been coming to Japanese onsen.",
+     "translationId": "Akhir-akhir ini, orang dari berbagai negara datang ke onsen di Jepang.",
+     "audioStart": 69.888,
+     "audioEnd": 75.096
+    },
+    {
+     "text": "マナーを知っていれば、みんなが気持ちよくお風呂を楽しむことができます。",
+     "tokens": [
+      {
+       "surface": "マナー",
+       "pos": "noun",
+       "romaji": "manaa",
+       "gloss": "manners",
+       "glossId": "etika, sopan santun"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "知っ",
+       "pos": "verb",
+       "reading": "しっ",
+       "romaji": "shit",
+       "lemma": "知る",
+       "gloss": "to know",
+       "glossId": "mengetahui"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)",
+       "glossId": "partikel penghubung (bentuk te)"
+      },
+      {
+       "surface": "いれ",
+       "pos": "verb",
+       "romaji": "ire",
+       "lemma": "いる",
+       "gloss": "to exist (animate); auxiliary for state",
+       "glossId": "ada (makhluk hidup); bantu untuk keadaan"
+      },
+      {
+       "surface": "ば",
+       "pos": "particle",
+       "romaji": "ba",
+       "gloss": "conditional 'if'",
+       "glossId": "bentuk kondisional 'jika'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "みんな",
+       "pos": "noun",
+       "romaji": "minna",
+       "gloss": "everyone",
+       "glossId": "semua orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "気持ち",
+       "pos": "noun",
+       "reading": "きもち",
+       "romaji": "kimochi",
+       "gloss": "feeling",
+       "glossId": "perasaan"
+      },
+      {
+       "surface": "よく",
+       "pos": "adjective",
+       "romaji": "yoku",
+       "lemma": "よい",
+       "gloss": "good",
+       "glossId": "baik"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "風呂",
+       "pos": "noun",
+       "reading": "ふろ",
+       "romaji": "furo",
+       "gloss": "bath",
+       "glossId": "pemandian"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "楽しむ",
+       "pos": "verb",
+       "reading": "たのしむ",
+       "romaji": "tanoshimu",
+       "gloss": "to enjoy",
+       "glossId": "menikmati"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "thing, fact (nominalizer)",
+       "glossId": "hal (nominalisasi)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to",
+       "glossId": "bisa, mampu"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If you know the manners, everyone can enjoy the bath comfortably.",
+     "translationId": "Jika mengetahui etikanya, semua orang bisa menikmati pemandian dengan nyaman.",
+     "audioStart": 75.096,
+     "audioEnd": 81.072
+    },
+    {
+     "text": "日本に来たら、ぜひ銭湯や温泉に行ってみてください。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/direction particle",
+       "glossId": "partikel lokasi/arah"
+      },
+      {
+       "surface": "来",
+       "pos": "verb",
+       "reading": "き",
+       "romaji": "ki",
+       "lemma": "来る",
+       "gloss": "to come",
+       "glossId": "datang"
+      },
+      {
+       "surface": "たら",
+       "pos": "auxiliary",
+       "romaji": "tara",
+       "lemma": "た",
+       "gloss": "past tense suffix",
+       "glossId": "akhiran bentuk lampau"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ぜひ",
+       "pos": "adverb",
+       "romaji": "zehi",
+       "gloss": "by all means, definitely",
+       "glossId": "pasti, jangan lupa"
+      },
+      {
+       "surface": "銭湯",
+       "pos": "noun",
+       "reading": "せんとう",
+       "romaji": "sentou",
+       "gloss": "public bathhouse",
+       "glossId": "pemandian umum"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "温泉",
+       "pos": "noun",
+       "reading": "おんせん",
+       "romaji": "onsen",
+       "gloss": "hot spring",
+       "glossId": "pemandian air panas"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "location/direction particle",
+       "glossId": "partikel lokasi/arah"
+      },
+      {
+       "surface": "行っ",
+       "pos": "verb",
+       "reading": "いっ",
+       "romaji": "it",
+       "lemma": "行く",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)",
+       "glossId": "partikel penghubung (bentuk te)"
+      },
+      {
+       "surface": "み",
+       "pos": "verb",
+       "romaji": "mi",
+       "lemma": "みる",
+       "gloss": "to try (doing), as in てみる",
+       "glossId": "mencoba (melakukan), seperti pada てみる"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)",
+       "glossId": "partikel penghubung (bentuk te)"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる",
+       "gloss": "to give (honorific, as in ください)",
+       "glossId": "memberi (bentuk hormat, seperti pada ください)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If you come to Japan, please be sure to try visiting a sento or onsen.",
+     "translationId": "Kalau kamu datang ke Jepang, cobalah pergi ke sento atau onsen.",
+     "audioStart": 81.072,
+     "audioEnd": 85.968
+    }
+   ]
+  }
+ ],
+ "topic": "けんこう・からだ",
+ "topicEn": "Health & body",
+ "topicId": "Kesehatan & tubuh"
+}

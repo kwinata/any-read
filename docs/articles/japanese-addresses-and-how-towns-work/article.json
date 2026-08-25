@@ -1,0 +1,2114 @@
+{
+ "schemaVersion": 1,
+ "id": "japanese-addresses-and-how-towns-work",
+ "language": "ja",
+ "title": "日本の住所と町のしくみ",
+ "titleTranslation": "Japanese Addresses and How Towns Work",
+ "titleTranslationId": "Alamat Jepang dan Sistem Kota",
+ "level": "N4",
+ "summary": "The article explains how Japanese addresses use area names and numbers instead of street names, why large maps are placed around towns, and how neighborhood associations (chonaikai) bring residents together.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T18:08:41+00:00",
+ "audioFile": "audio-c5470855.mp3",
+ "voice": "en-US-BrianMultilingualNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "日本の住所は、外国の住所と少し違います。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/atribut (\"dari/-nya\")"
+      },
+      {
+       "surface": "住所",
+       "pos": "noun",
+       "reading": "じゅうしょ",
+       "romaji": "juusho",
+       "gloss": "address",
+       "glossId": "alamat"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "外国",
+       "pos": "noun",
+       "reading": "がいこく",
+       "romaji": "gaikoku",
+       "gloss": "foreign country",
+       "glossId": "luar negeri"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/atribut (\"dari/-nya\")"
+      },
+      {
+       "surface": "住所",
+       "pos": "noun",
+       "reading": "じゅうしょ",
+       "romaji": "juusho",
+       "gloss": "address",
+       "glossId": "alamat"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle \"with/and\" (comparison marker, \"different from\")",
+       "glossId": "partikel \"dengan/dan\" (penanda perbandingan, \"berbeda dari\")"
+      },
+      {
+       "surface": "少し",
+       "pos": "adverb",
+       "reading": "すこし",
+       "romaji": "sukoshi",
+       "gloss": "a little",
+       "glossId": "sedikit"
+      },
+      {
+       "surface": "違い",
+       "pos": "verb",
+       "reading": "ちがい",
+       "romaji": "chigai",
+       "lemma": "違う",
+       "gloss": "to differ, be different",
+       "glossId": "berbeda"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Japanese addresses are a little different from addresses in foreign countries.",
+     "translationId": "Alamat di Jepang sedikit berbeda dari alamat di luar negeri.",
+     "audioStart": 0.0,
+     "audioEnd": 4.8
+    },
+    {
+     "text": "多くの国では、道路の名前を使って住所を書きますが、日本では道路の名前をあまり使いません。",
+     "tokens": [
+      {
+       "surface": "多く",
+       "pos": "noun",
+       "reading": "おおく",
+       "romaji": "ooku",
+       "gloss": "many, a lot",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/atribut (\"dari/-nya\")"
+      },
+      {
+       "surface": "国",
+       "pos": "noun",
+       "reading": "くに",
+       "romaji": "kuni",
+       "gloss": "country",
+       "glossId": "negara"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: location/means (\"in, at, by\")",
+       "glossId": "partikel penanda tempat/cara (\"di\")"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "道路",
+       "pos": "noun",
+       "reading": "どうろ",
+       "romaji": "douro",
+       "gloss": "road, street",
+       "glossId": "jalan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/atribut (\"dari/-nya\")"
+      },
+      {
+       "surface": "名前",
+       "pos": "noun",
+       "reading": "なまえ",
+       "romaji": "namae",
+       "gloss": "name",
+       "glossId": "nama"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "使っ",
+       "pos": "verb",
+       "reading": "つかっ",
+       "romaji": "tsukat",
+       "lemma": "使う",
+       "gloss": "to use",
+       "glossId": "memakai, menggunakan"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form (connective)",
+       "glossId": "bentuk-te (penghubung)"
+      },
+      {
+       "surface": "住所",
+       "pos": "noun",
+       "reading": "じゅうしょ",
+       "romaji": "juusho",
+       "gloss": "address",
+       "glossId": "alamat"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "書き",
+       "pos": "verb",
+       "reading": "かき",
+       "romaji": "kaki",
+       "lemma": "書く",
+       "gloss": "to write",
+       "glossId": "menulis"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker / conjunction \"but\"",
+       "glossId": "partikel subjek / kata sambung \"tetapi\""
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: location/means (\"in, at, by\")",
+       "glossId": "partikel penanda tempat/cara (\"di\")"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "道路",
+       "pos": "noun",
+       "reading": "どうろ",
+       "romaji": "douro",
+       "gloss": "road, street",
+       "glossId": "jalan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/atribut (\"dari/-nya\")"
+      },
+      {
+       "surface": "名前",
+       "pos": "noun",
+       "reading": "なまえ",
+       "romaji": "namae",
+       "gloss": "name",
+       "glossId": "nama"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "あまり",
+       "pos": "adverb",
+       "romaji": "amari",
+       "gloss": "not much, rarely",
+       "glossId": "tidak terlalu, jarang"
+      },
+      {
+       "surface": "使い",
+       "pos": "verb",
+       "reading": "つかい",
+       "romaji": "tsukai",
+       "lemma": "使う",
+       "gloss": "to use",
+       "glossId": "memakai, menggunakan"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (base of polite negative -masen)",
+       "glossId": "kata bantu negasi (bentuk dasar dari -masen)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In many countries, addresses are written using street names, but in Japan street names are rarely used.",
+     "translationId": "Di banyak negara, alamat ditulis menggunakan nama jalan, tetapi di Jepang nama jalan jarang digunakan.",
+     "audioStart": 4.8,
+     "audioEnd": 13.44
+    },
+    {
+     "text": "その代わりに、町の名前と数字を使って、場所を表します。",
+     "tokens": [
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that (demonstrative)",
+       "glossId": "itu (kata tunjuk)"
+      },
+      {
+       "surface": "代わり",
+       "pos": "noun",
+       "reading": "かわり",
+       "romaji": "kawari",
+       "gloss": "substitute, in place of",
+       "glossId": "pengganti, sebagai gantinya"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: direction/target (\"to, at\")",
+       "glossId": "partikel arah/tujuan (\"ke/pada\")"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "町",
+       "pos": "noun",
+       "reading": "まち",
+       "romaji": "machi",
+       "gloss": "town",
+       "glossId": "kota kecil, distrik"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/atribut (\"dari/-nya\")"
+      },
+      {
+       "surface": "名前",
+       "pos": "noun",
+       "reading": "なまえ",
+       "romaji": "namae",
+       "gloss": "name",
+       "glossId": "nama"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle \"with/and\" (comparison marker, \"different from\")",
+       "glossId": "partikel \"dengan/dan\" (penanda perbandingan, \"berbeda dari\")"
+      },
+      {
+       "surface": "数字",
+       "pos": "noun",
+       "reading": "すうじ",
+       "romaji": "suuji",
+       "gloss": "number, digit",
+       "glossId": "angka"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "使っ",
+       "pos": "verb",
+       "reading": "つかっ",
+       "romaji": "tsukat",
+       "lemma": "使う",
+       "gloss": "to use",
+       "glossId": "memakai, menggunakan"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form (connective)",
+       "glossId": "bentuk-te (penghubung)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place, location",
+       "glossId": "tempat, lokasi"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "表し",
+       "pos": "verb",
+       "reading": "あらわし",
+       "romaji": "arawashi",
+       "lemma": "表す",
+       "gloss": "to express, indicate",
+       "glossId": "menyatakan, menunjukkan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Instead, locations are shown using town names and numbers.",
+     "translationId": "Sebagai gantinya, lokasi ditunjukkan dengan menggunakan nama distrik dan angka.",
+     "audioStart": 13.44,
+     "audioEnd": 19.416
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "住所は、大きい場所から小さい場所の順番で書きます。",
+     "tokens": [
+      {
+       "surface": "住所",
+       "pos": "noun",
+       "reading": "じゅうしょ",
+       "romaji": "juusho",
+       "gloss": "address",
+       "glossId": "alamat"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "大きい",
+       "pos": "adjective",
+       "reading": "おおきい",
+       "romaji": "ookii",
+       "gloss": "big, large",
+       "glossId": "besar"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place, location",
+       "glossId": "tempat, lokasi"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "particle \"from\"",
+       "glossId": "partikel \"dari\""
+      },
+      {
+       "surface": "小さい",
+       "pos": "adjective",
+       "reading": "ちいさい",
+       "romaji": "chiisai",
+       "gloss": "small",
+       "glossId": "kecil"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place, location",
+       "glossId": "tempat, lokasi"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/atribut (\"dari/-nya\")"
+      },
+      {
+       "surface": "順番",
+       "pos": "noun",
+       "reading": "じゅんばん",
+       "romaji": "junban",
+       "gloss": "order, sequence",
+       "glossId": "urutan"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: location/means (\"in, at, by\")",
+       "glossId": "partikel penanda tempat/cara (\"di\")"
+      },
+      {
+       "surface": "書き",
+       "pos": "verb",
+       "reading": "かき",
+       "romaji": "kaki",
+       "lemma": "書く",
+       "gloss": "to write",
+       "glossId": "menulis"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Addresses are written in order from the larger place to the smaller place.",
+     "translationId": "Alamat ditulis dengan urutan dari tempat yang besar ke tempat yang kecil.",
+     "audioStart": 19.416,
+     "audioEnd": 24.528
+    },
+    {
+     "text": "まず都道府県の名前、次に市や区の名前、それから町の名前と「丁目」という数字を書きます。",
+     "tokens": [
+      {
+       "surface": "まず",
+       "pos": "adverb",
+       "romaji": "mazu",
+       "gloss": "first, firstly",
+       "glossId": "pertama-tama"
+      },
+      {
+       "surface": "都道府県",
+       "pos": "noun",
+       "reading": "とどうふけん",
+       "romaji": "todoufuken",
+       "gloss": "prefectures (Japan's administrative divisions)",
+       "glossId": "prefektur (wilayah administratif Jepang)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/atribut (\"dari/-nya\")"
+      },
+      {
+       "surface": "名前",
+       "pos": "noun",
+       "reading": "なまえ",
+       "romaji": "namae",
+       "gloss": "name",
+       "glossId": "nama"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "次",
+       "pos": "noun",
+       "reading": "つぎ",
+       "romaji": "tsugi",
+       "gloss": "next",
+       "glossId": "berikutnya"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: direction/target (\"to, at\")",
+       "glossId": "partikel arah/tujuan (\"ke/pada\")"
+      },
+      {
+       "surface": "市",
+       "pos": "noun",
+       "reading": "し",
+       "romaji": "shi",
+       "gloss": "city",
+       "glossId": "kota"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "particle \"and/or\" (non-exhaustive listing)",
+       "glossId": "partikel \"dan/atau\" (daftar tidak lengkap)"
+      },
+      {
+       "surface": "区",
+       "pos": "noun",
+       "reading": "く",
+       "romaji": "ku",
+       "gloss": "ward, district",
+       "glossId": "distrik, wilayah"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/atribut (\"dari/-nya\")"
+      },
+      {
+       "surface": "名前",
+       "pos": "noun",
+       "reading": "なまえ",
+       "romaji": "namae",
+       "gloss": "name",
+       "glossId": "nama"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "それ",
+       "pos": "pronoun",
+       "romaji": "sore",
+       "gloss": "that, it",
+       "glossId": "itu"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "particle \"from\"",
+       "glossId": "partikel \"dari\""
+      },
+      {
+       "surface": "町",
+       "pos": "noun",
+       "reading": "まち",
+       "romaji": "machi",
+       "gloss": "town",
+       "glossId": "kota kecil, distrik"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/atribut (\"dari/-nya\")"
+      },
+      {
+       "surface": "名前",
+       "pos": "noun",
+       "reading": "なまえ",
+       "romaji": "namae",
+       "gloss": "name",
+       "glossId": "nama"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle \"with/and\" (comparison marker, \"different from\")",
+       "glossId": "partikel \"dengan/dan\" (penanda perbandingan, \"berbeda dari\")"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "丁目",
+       "pos": "noun",
+       "reading": "ちょうめ",
+       "romaji": "choume",
+       "gloss": "chome (numbered district subdivision)",
+       "glossId": "chome (subdivisi bernomor dalam distrik)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle \"with/and\" (comparison marker, \"different from\")",
+       "glossId": "partikel \"dengan/dan\" (penanda perbandingan, \"berbeda dari\")"
+      },
+      {
+       "surface": "いう",
+       "pos": "verb",
+       "romaji": "iu",
+       "gloss": "to say, to call (as in \"called ~\")",
+       "glossId": "mengatakan, menyebut (dalam \"disebut ~\")"
+      },
+      {
+       "surface": "数字",
+       "pos": "noun",
+       "reading": "すうじ",
+       "romaji": "suuji",
+       "gloss": "number, digit",
+       "glossId": "angka"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "書き",
+       "pos": "verb",
+       "reading": "かき",
+       "romaji": "kaki",
+       "lemma": "書く",
+       "gloss": "to write",
+       "glossId": "menulis"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "First comes the name of the prefecture, then the name of the city or ward, and after that the town name and a number called \"chome.\"",
+     "translationId": "Pertama nama prefektur, lalu nama kota atau distrik, kemudian nama wilayah (machi) dan angka yang disebut \"chome\".",
+     "audioStart": 24.528,
+     "audioEnd": 32.856
+    },
+    {
+     "text": "最後に「番地」と「号」という数字を書きます。",
+     "tokens": [
+      {
+       "surface": "最後",
+       "pos": "noun",
+       "reading": "さいご",
+       "romaji": "saigo",
+       "gloss": "last, final",
+       "glossId": "terakhir"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: direction/target (\"to, at\")",
+       "glossId": "partikel arah/tujuan (\"ke/pada\")"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "番地",
+       "pos": "noun",
+       "reading": "ばんち",
+       "romaji": "banchi",
+       "gloss": "lot/block number (address number)",
+       "glossId": "nomor blok/bidang tanah (nomor alamat)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle \"with/and\" (comparison marker, \"different from\")",
+       "glossId": "partikel \"dengan/dan\" (penanda perbandingan, \"berbeda dari\")"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "号",
+       "pos": "noun",
+       "reading": "ごう",
+       "romaji": "gou",
+       "gloss": "number (house/unit number suffix)",
+       "glossId": "nomor (akhiran nomor rumah/unit)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle \"with/and\" (comparison marker, \"different from\")",
+       "glossId": "partikel \"dengan/dan\" (penanda perbandingan, \"berbeda dari\")"
+      },
+      {
+       "surface": "いう",
+       "pos": "verb",
+       "romaji": "iu",
+       "gloss": "to say, to call (as in \"called ~\")",
+       "glossId": "mengatakan, menyebut (dalam \"disebut ~\")"
+      },
+      {
+       "surface": "数字",
+       "pos": "noun",
+       "reading": "すうじ",
+       "romaji": "suuji",
+       "gloss": "number, digit",
+       "glossId": "angka"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "書き",
+       "pos": "verb",
+       "reading": "かき",
+       "romaji": "kaki",
+       "lemma": "書く",
+       "gloss": "to write",
+       "glossId": "menulis"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Finally, numbers called \"banchi\" and \"go\" are written.",
+     "translationId": "Terakhir, ditulis angka yang disebut \"banchi\" dan \"go\".",
+     "audioStart": 32.856,
+     "audioEnd": 36.792
+    },
+    {
+     "text": "この数字で、一つの建物の場所がわかります。",
+     "tokens": [
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this",
+       "glossId": "ini"
+      },
+      {
+       "surface": "数字",
+       "pos": "noun",
+       "reading": "すうじ",
+       "romaji": "suuji",
+       "gloss": "number, digit",
+       "glossId": "angka"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: location/means (\"in, at, by\")",
+       "glossId": "partikel penanda tempat/cara (\"di\")"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "一",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "one",
+       "glossId": "satu"
+      },
+      {
+       "surface": "つ",
+       "pos": "suffix",
+       "romaji": "tsu",
+       "gloss": "counter for general objects",
+       "glossId": "kata bantu bilangan untuk benda umum"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/atribut (\"dari/-nya\")"
+      },
+      {
+       "surface": "建物",
+       "pos": "noun",
+       "reading": "たてもの",
+       "romaji": "tatemono",
+       "gloss": "building",
+       "glossId": "bangunan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/atribut (\"dari/-nya\")"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place, location",
+       "glossId": "tempat, lokasi"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker / conjunction \"but\"",
+       "glossId": "partikel subjek / kata sambung \"tetapi\""
+      },
+      {
+       "surface": "わかり",
+       "pos": "verb",
+       "romaji": "wakari",
+       "lemma": "わかる",
+       "gloss": "to understand, to be known/clear",
+       "glossId": "mengerti, dapat diketahui/jelas"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "These numbers show the location of a single building.",
+     "translationId": "Dengan angka-angka ini, lokasi satu bangunan dapat diketahui.",
+     "audioStart": 36.792,
+     "audioEnd": 41.52
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "道路に名前がないので、地図を見ても、すぐに家を見つけられないことがあります。",
+     "tokens": [
+      {
+       "surface": "道路",
+       "pos": "noun",
+       "reading": "どうろ",
+       "romaji": "douro",
+       "gloss": "road, street",
+       "glossId": "jalan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: direction/target (\"to, at\")",
+       "glossId": "partikel arah/tujuan (\"ke/pada\")"
+      },
+      {
+       "surface": "名前",
+       "pos": "noun",
+       "reading": "なまえ",
+       "romaji": "namae",
+       "gloss": "name",
+       "glossId": "nama"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker / conjunction \"but\"",
+       "glossId": "partikel subjek / kata sambung \"tetapi\""
+      },
+      {
+       "surface": "ない",
+       "pos": "adjective",
+       "romaji": "nai",
+       "gloss": "negative auxiliary",
+       "glossId": "kata bantu negasi"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/atribut (\"dari/-nya\")"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula, plain form (\"is/am/are\")",
+       "glossId": "kopula bentuk biasa (\"adalah\")"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "地図",
+       "pos": "noun",
+       "reading": "ちず",
+       "romaji": "chizu",
+       "gloss": "map",
+       "glossId": "peta"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "見",
+       "pos": "verb",
+       "reading": "み",
+       "romaji": "mi",
+       "lemma": "見る",
+       "gloss": "to see, to look at",
+       "glossId": "melihat"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form (connective)",
+       "glossId": "bentuk-te (penghubung)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "particle \"also, even\"",
+       "glossId": "partikel \"juga\""
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "すぐ",
+       "pos": "adverb",
+       "romaji": "sugu",
+       "gloss": "immediately, right away",
+       "glossId": "segera"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: direction/target (\"to, at\")",
+       "glossId": "partikel arah/tujuan (\"ke/pada\")"
+      },
+      {
+       "surface": "家",
+       "pos": "noun",
+       "reading": "いえ",
+       "romaji": "ie",
+       "gloss": "house",
+       "glossId": "rumah"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "見つけ",
+       "pos": "verb",
+       "reading": "みつけ",
+       "romaji": "mitsuke",
+       "lemma": "見つける",
+       "gloss": "to find",
+       "glossId": "menemukan"
+      },
+      {
+       "surface": "られ",
+       "pos": "auxiliary",
+       "romaji": "rare",
+       "lemma": "られる",
+       "gloss": "potential/passive auxiliary (\"can ~\" / \"be ~ed\")",
+       "glossId": "kata bantu potensial/pasif (\"bisa ~\" / \"di~\")"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative auxiliary",
+       "glossId": "kata bantu negasi"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer: turns a verb/clause into a noun (\"the fact/thing that\")",
+       "glossId": "nominalizer: mengubah kata kerja/klausa jadi kata benda (\"hal bahwa\")"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker / conjunction \"but\"",
+       "glossId": "partikel subjek / kata sambung \"tetapi\""
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, to be (for inanimate things)",
+       "glossId": "ada, berada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Because streets have no names, even when you look at a map, you sometimes can't find a house right away.",
+     "translationId": "Karena jalan tidak memiliki nama, kadang sulit menemukan rumah dengan cepat meskipun sudah melihat peta.",
+     "audioStart": 41.52,
+     "audioEnd": 48.432
+    },
+    {
+     "text": "そのため、駅の近くや町の中に、大きい地図が置いてあります。",
+     "tokens": [
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that (demonstrative)",
+       "glossId": "itu (kata tunjuk)"
+      },
+      {
+       "surface": "ため",
+       "pos": "noun",
+       "romaji": "tame",
+       "gloss": "for the sake of, because of",
+       "glossId": "demi, karena"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "駅",
+       "pos": "noun",
+       "reading": "えき",
+       "romaji": "eki",
+       "gloss": "station",
+       "glossId": "stasiun"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/atribut (\"dari/-nya\")"
+      },
+      {
+       "surface": "近く",
+       "pos": "noun",
+       "reading": "ちかく",
+       "romaji": "chikaku",
+       "gloss": "nearby, vicinity",
+       "glossId": "dekat, sekitar"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "particle \"and/or\" (non-exhaustive listing)",
+       "glossId": "partikel \"dan/atau\" (daftar tidak lengkap)"
+      },
+      {
+       "surface": "町",
+       "pos": "noun",
+       "reading": "まち",
+       "romaji": "machi",
+       "gloss": "town",
+       "glossId": "kota kecil, distrik"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/atribut (\"dari/-nya\")"
+      },
+      {
+       "surface": "中",
+       "pos": "noun",
+       "reading": "なか",
+       "romaji": "naka",
+       "gloss": "inside, middle",
+       "glossId": "dalam, tengah"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: direction/target (\"to, at\")",
+       "glossId": "partikel arah/tujuan (\"ke/pada\")"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "大きい",
+       "pos": "adjective",
+       "reading": "おおきい",
+       "romaji": "ookii",
+       "gloss": "big, large",
+       "glossId": "besar"
+      },
+      {
+       "surface": "地図",
+       "pos": "noun",
+       "reading": "ちず",
+       "romaji": "chizu",
+       "gloss": "map",
+       "glossId": "peta"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker / conjunction \"but\"",
+       "glossId": "partikel subjek / kata sambung \"tetapi\""
+      },
+      {
+       "surface": "置い",
+       "pos": "verb",
+       "reading": "おい",
+       "romaji": "oi",
+       "lemma": "置く",
+       "gloss": "to place, put",
+       "glossId": "meletakkan"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form (connective)",
+       "glossId": "bentuk-te (penghubung)"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, to be (for inanimate things)",
+       "glossId": "ada, berada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "For this reason, large maps are set up near stations and around town.",
+     "translationId": "Karena itu, peta besar dipasang di dekat stasiun dan di dalam kota.",
+     "audioStart": 48.432,
+     "audioEnd": 54.432
+    },
+    {
+     "text": "その地図を見ると、今いる場所と探している住所の場所が、よくわかります。",
+     "tokens": [
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that (demonstrative)",
+       "glossId": "itu (kata tunjuk)"
+      },
+      {
+       "surface": "地図",
+       "pos": "noun",
+       "reading": "ちず",
+       "romaji": "chizu",
+       "gloss": "map",
+       "glossId": "peta"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "見る",
+       "pos": "verb",
+       "reading": "みる",
+       "romaji": "miru",
+       "gloss": "to see, to look at",
+       "glossId": "melihat"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle \"with/and\" (comparison marker, \"different from\")",
+       "glossId": "partikel \"dengan/dan\" (penanda perbandingan, \"berbeda dari\")"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "今",
+       "pos": "noun",
+       "reading": "いま",
+       "romaji": "ima",
+       "gloss": "now",
+       "glossId": "sekarang"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "to exist, to be (for living things); auxiliary for ongoing state",
+       "glossId": "ada, berada (untuk makhluk hidup); kata bantu keadaan berlangsung"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place, location",
+       "glossId": "tempat, lokasi"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle \"with/and\" (comparison marker, \"different from\")",
+       "glossId": "partikel \"dengan/dan\" (penanda perbandingan, \"berbeda dari\")"
+      },
+      {
+       "surface": "探し",
+       "pos": "verb",
+       "reading": "さがし",
+       "romaji": "sagashi",
+       "lemma": "探す",
+       "gloss": "to search for, look for",
+       "glossId": "mencari"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form (connective)",
+       "glossId": "bentuk-te (penghubung)"
+      },
+      {
+       "surface": "いる",
+       "pos": "verb",
+       "romaji": "iru",
+       "gloss": "to exist, to be (for living things); auxiliary for ongoing state",
+       "glossId": "ada, berada (untuk makhluk hidup); kata bantu keadaan berlangsung"
+      },
+      {
+       "surface": "住所",
+       "pos": "noun",
+       "reading": "じゅうしょ",
+       "romaji": "juusho",
+       "gloss": "address",
+       "glossId": "alamat"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/atribut (\"dari/-nya\")"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place, location",
+       "glossId": "tempat, lokasi"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker / conjunction \"but\"",
+       "glossId": "partikel subjek / kata sambung \"tetapi\""
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "よく",
+       "pos": "adverb",
+       "romaji": "yoku",
+       "gloss": "clearly, well",
+       "glossId": "dengan jelas, dengan baik"
+      },
+      {
+       "surface": "わかり",
+       "pos": "verb",
+       "romaji": "wakari",
+       "lemma": "わかる",
+       "gloss": "to understand, to be known/clear",
+       "glossId": "mengerti, dapat diketahui/jelas"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Looking at that map, you can clearly tell where you currently are and where the address you're looking for is.",
+     "translationId": "Dengan melihat peta itu, kita bisa memahami dengan jelas di mana posisi kita sekarang dan di mana alamat yang dicari berada.",
+     "audioStart": 54.432,
+     "audioEnd": 61.128
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "また、日本の町には「町内会」というグループがあります。",
+     "tokens": [
+      {
+       "surface": "また",
+       "pos": "conjunction",
+       "romaji": "mata",
+       "gloss": "also, additionally",
+       "glossId": "juga, selain itu"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/atribut (\"dari/-nya\")"
+      },
+      {
+       "surface": "町",
+       "pos": "noun",
+       "reading": "まち",
+       "romaji": "machi",
+       "gloss": "town",
+       "glossId": "kota kecil, distrik"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: direction/target (\"to, at\")",
+       "glossId": "partikel arah/tujuan (\"ke/pada\")"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "町内会",
+       "pos": "noun",
+       "reading": "ちょうないかい",
+       "romaji": "chounaikai",
+       "gloss": "neighborhood association",
+       "glossId": "perkumpulan warga (chonaikai)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle \"with/and\" (comparison marker, \"different from\")",
+       "glossId": "partikel \"dengan/dan\" (penanda perbandingan, \"berbeda dari\")"
+      },
+      {
+       "surface": "いう",
+       "pos": "verb",
+       "romaji": "iu",
+       "gloss": "to say, to call (as in \"called ~\")",
+       "glossId": "mengatakan, menyebut (dalam \"disebut ~\")"
+      },
+      {
+       "surface": "グループ",
+       "pos": "noun",
+       "romaji": "guruupu",
+       "gloss": "group",
+       "glossId": "kelompok"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker / conjunction \"but\"",
+       "glossId": "partikel subjek / kata sambung \"tetapi\""
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist, to be (for inanimate things)",
+       "glossId": "ada, berada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Also, Japanese towns have groups called \"chonaikai\" (neighborhood associations).",
+     "translationId": "Selain itu, di kota-kota Jepang ada kelompok yang disebut \"chonaikai\" (perkumpulan warga).",
+     "audioStart": 61.128,
+     "audioEnd": 66.504
+    },
+    {
+     "text": "町内会は近所の人たちが作り、祭りやそうじなどの活動を一緒にします。",
+     "tokens": [
+      {
+       "surface": "町内会",
+       "pos": "noun",
+       "reading": "ちょうないかい",
+       "romaji": "chounaikai",
+       "gloss": "neighborhood association",
+       "glossId": "perkumpulan warga (chonaikai)"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "近所",
+       "pos": "noun",
+       "reading": "きんじょ",
+       "romaji": "kinjo",
+       "gloss": "neighborhood, nearby area",
+       "glossId": "tetangga, sekitar"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/atribut (\"dari/-nya\")"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "たち",
+       "pos": "suffix",
+       "romaji": "tachi",
+       "gloss": "plural suffix",
+       "glossId": "akhiran jamak"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker / conjunction \"but\"",
+       "glossId": "partikel subjek / kata sambung \"tetapi\""
+      },
+      {
+       "surface": "作り",
+       "pos": "verb",
+       "reading": "つくり",
+       "romaji": "tsukuri",
+       "lemma": "作る",
+       "gloss": "to make, to form",
+       "glossId": "membuat, membentuk"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "祭り",
+       "pos": "noun",
+       "reading": "まつり",
+       "romaji": "matsuri",
+       "gloss": "festival",
+       "glossId": "festival"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "particle \"and/or\" (non-exhaustive listing)",
+       "glossId": "partikel \"dan/atau\" (daftar tidak lengkap)"
+      },
+      {
+       "surface": "そうじ",
+       "pos": "noun",
+       "romaji": "souji",
+       "gloss": "cleaning",
+       "glossId": "bersih-bersih"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "and so on, etc.",
+       "glossId": "dan lain-lain"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/atribut (\"dari/-nya\")"
+      },
+      {
+       "surface": "活動",
+       "pos": "noun",
+       "reading": "かつどう",
+       "romaji": "katsudou",
+       "gloss": "activity",
+       "glossId": "kegiatan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "partikel objek"
+      },
+      {
+       "surface": "一緒",
+       "pos": "noun",
+       "reading": "いっしょ",
+       "romaji": "issho",
+       "gloss": "together",
+       "glossId": "bersama"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: direction/target (\"to, at\")",
+       "glossId": "partikel arah/tujuan (\"ke/pada\")"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Neighborhood associations are formed by local residents, who do activities together such as festivals and cleaning.",
+     "translationId": "Chonaikai dibentuk oleh warga sekitar, dan mereka melakukan kegiatan bersama seperti festival dan kerja bakti.",
+     "audioStart": 66.504,
+     "audioEnd": 73.392
+    },
+    {
+     "text": "町内会に入ると、近所の人と仲良くなることができます。",
+     "tokens": [
+      {
+       "surface": "町内会",
+       "pos": "noun",
+       "reading": "ちょうないかい",
+       "romaji": "chounaikai",
+       "gloss": "neighborhood association",
+       "glossId": "perkumpulan warga (chonaikai)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: direction/target (\"to, at\")",
+       "glossId": "partikel arah/tujuan (\"ke/pada\")"
+      },
+      {
+       "surface": "入る",
+       "pos": "verb",
+       "reading": "はいる",
+       "romaji": "hairu",
+       "gloss": "to enter, to join",
+       "glossId": "masuk, bergabung"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle \"with/and\" (comparison marker, \"different from\")",
+       "glossId": "partikel \"dengan/dan\" (penanda perbandingan, \"berbeda dari\")"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "近所",
+       "pos": "noun",
+       "reading": "きんじょ",
+       "romaji": "kinjo",
+       "gloss": "neighborhood, nearby area",
+       "glossId": "tetangga, sekitar"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/atribut (\"dari/-nya\")"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle \"with/and\" (comparison marker, \"different from\")",
+       "glossId": "partikel \"dengan/dan\" (penanda perbandingan, \"berbeda dari\")"
+      },
+      {
+       "surface": "仲良く",
+       "pos": "adverb",
+       "reading": "なかよく",
+       "romaji": "nakayoku",
+       "gloss": "on friendly terms, get along well",
+       "glossId": "akrab, rukun"
+      },
+      {
+       "surface": "なる",
+       "pos": "verb",
+       "romaji": "naru",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer: turns a verb/clause into a noun (\"the fact/thing that\")",
+       "glossId": "nominalizer: mengubah kata kerja/klausa jadi kata benda (\"hal bahwa\")"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker / conjunction \"but\"",
+       "glossId": "partikel subjek / kata sambung \"tetapi\""
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to, can",
+       "glossId": "bisa, mampu"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "By joining a neighborhood association, you can become friendly with the people nearby.",
+     "translationId": "Dengan bergabung di chonaikai, kita bisa menjadi akrab dengan tetangga.",
+     "audioStart": 73.392,
+     "audioEnd": 78.888
+    },
+    {
+     "text": "日本の住所のしくみは初めは難しく感じるかもしれませんが、慣れるととても便利です。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/atribut (\"dari/-nya\")"
+      },
+      {
+       "surface": "住所",
+       "pos": "noun",
+       "reading": "じゅうしょ",
+       "romaji": "juusho",
+       "gloss": "address",
+       "glossId": "alamat"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle (\"of\")",
+       "glossId": "partikel kepemilikan/atribut (\"dari/-nya\")"
+      },
+      {
+       "surface": "しくみ",
+       "pos": "noun",
+       "romaji": "shikumi",
+       "gloss": "system, mechanism",
+       "glossId": "sistem, mekanisme"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "初め",
+       "pos": "noun",
+       "reading": "はじめ",
+       "romaji": "hajime",
+       "gloss": "beginning, at first",
+       "glossId": "awal, pada awalnya"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "partikel topik"
+      },
+      {
+       "surface": "難しく",
+       "pos": "adjective",
+       "reading": "むずかしく",
+       "romaji": "muzukashiku",
+       "lemma": "難しい",
+       "gloss": "difficult",
+       "glossId": "sulit"
+      },
+      {
+       "surface": "感じる",
+       "pos": "verb",
+       "reading": "かんじる",
+       "romaji": "kanjiru",
+       "gloss": "to feel",
+       "glossId": "merasa"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "particle marking a question/uncertainty",
+       "glossId": "partikel pertanyaan/ketidakpastian"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "particle \"also, even\"",
+       "glossId": "partikel \"juga\""
+      },
+      {
+       "surface": "しれ",
+       "pos": "verb",
+       "romaji": "shire",
+       "lemma": "しれる",
+       "gloss": "used in \"kamoshirenai\" (\"might, may\")",
+       "glossId": "dipakai dalam \"kamoshirenai\" (\"mungkin\")"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (base of polite negative -masen)",
+       "glossId": "kata bantu negasi (bentuk dasar dari -masen)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker / conjunction \"but\"",
+       "glossId": "partikel subjek / kata sambung \"tetapi\""
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "慣れる",
+       "pos": "verb",
+       "reading": "なれる",
+       "romaji": "nareru",
+       "gloss": "to get used to",
+       "glossId": "terbiasa"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "particle \"with/and\" (comparison marker, \"different from\")",
+       "glossId": "partikel \"dengan/dan\" (penanda perbandingan, \"berbeda dari\")"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "便利",
+       "pos": "noun",
+       "reading": "べんり",
+       "romaji": "benri",
+       "gloss": "convenient",
+       "glossId": "praktis, nyaman"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The system of Japanese addresses may feel difficult at first, but it becomes very convenient once you get used to it.",
+     "translationId": "Sistem alamat Jepang mungkin terasa sulit pada awalnya, tetapi akan sangat praktis setelah terbiasa.",
+     "audioStart": 78.888,
+     "audioEnd": 86.4
+    }
+   ]
+  }
+ ],
+ "topic": "まいにちのせいかつ",
+ "topicEn": "Daily life",
+ "topicId": "Kehidupan sehari-hari"
+}

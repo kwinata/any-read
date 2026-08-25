@@ -1,0 +1,2142 @@
+{
+ "schemaVersion": 1,
+ "id": "japan-s-regional-cuisine",
+ "language": "ja",
+ "title": "日本の郷土料理",
+ "titleTranslation": "Japan's Regional Cuisine",
+ "titleTranslationId": "Masakan Daerah Jepang",
+ "level": "N4",
+ "summary": "The article introduces regional dishes from across Japan, highlighting the seafood of Hokkaido, Osaka's love of good food, and Okinawa's warm-climate cuisine, and encourages readers to try local specialties when they travel.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T18:09:28+00:00",
+ "audioFile": "audio-96420f83.mp3",
+ "voice": "ja-JP-KeitaNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "日本には、いろいろな地方料理があります。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction marker",
+       "glossId": "partikel: penanda lokasi/waktu/arah"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "いろいろ",
+       "pos": "adjective",
+       "romaji": "iroiro",
+       "gloss": "various, all kinds of",
+       "glossId": "bermacam-macam"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula: plain form of 'is/be'",
+       "glossId": "kopula: bentuk biasa 'adalah'"
+      },
+      {
+       "surface": "地方",
+       "pos": "noun",
+       "reading": "ちほう",
+       "romaji": "chihou",
+       "gloss": "region, local area",
+       "glossId": "daerah, wilayah"
+      },
+      {
+       "surface": "料理",
+       "pos": "noun",
+       "reading": "りょうり",
+       "romaji": "ryouri",
+       "gloss": "cuisine, dish",
+       "glossId": "masakan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In Japan, there are various regional cuisines.",
+     "translationId": "Di Jepang, ada berbagai masakan daerah.",
+     "audioStart": 0.0,
+     "audioEnd": 4.248
+    },
+    {
+     "text": "地方料理は、その土地の食べ物や文化から生まれました。",
+     "tokens": [
+      {
+       "surface": "地方",
+       "pos": "noun",
+       "reading": "ちほう",
+       "romaji": "chihou",
+       "gloss": "region, local area",
+       "glossId": "daerah, wilayah"
+      },
+      {
+       "surface": "料理",
+       "pos": "noun",
+       "reading": "りょうり",
+       "romaji": "ryouri",
+       "gloss": "cuisine, dish",
+       "glossId": "masakan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that (adnominal)",
+       "glossId": "itu (kata tunjuk)"
+      },
+      {
+       "surface": "土地",
+       "pos": "noun",
+       "reading": "とち",
+       "romaji": "tochi",
+       "gloss": "land, place",
+       "glossId": "tanah, daerah"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "食べ物",
+       "pos": "noun",
+       "reading": "たべもの",
+       "romaji": "tabemono",
+       "gloss": "food",
+       "glossId": "makanan"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing particle)",
+       "glossId": "dan (partikel penyebutan tidak lengkap)"
+      },
+      {
+       "surface": "文化",
+       "pos": "noun",
+       "reading": "ぶんか",
+       "romaji": "bunka",
+       "gloss": "culture",
+       "glossId": "budaya"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from",
+       "glossId": "dari"
+      },
+      {
+       "surface": "生まれ",
+       "pos": "verb",
+       "reading": "うまれ",
+       "romaji": "umare",
+       "lemma": "生まれる",
+       "gloss": "to be born",
+       "glossId": "lahir"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Regional cuisine was born from the food and culture of that area.",
+     "translationId": "Masakan daerah lahir dari makanan dan budaya daerah tersebut.",
+     "audioStart": 4.248,
+     "audioEnd": 9.288
+    },
+    {
+     "text": "昔から、その地域の人々に食べられてきました。",
+     "tokens": [
+      {
+       "surface": "昔",
+       "pos": "noun",
+       "reading": "むかし",
+       "romaji": "mukashi",
+       "gloss": "long ago, olden times",
+       "glossId": "dahulu kala"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from",
+       "glossId": "dari"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that (adnominal)",
+       "glossId": "itu (kata tunjuk)"
+      },
+      {
+       "surface": "地域",
+       "pos": "noun",
+       "reading": "ちいき",
+       "romaji": "chiiki",
+       "gloss": "area, region",
+       "glossId": "wilayah, daerah"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "人々",
+       "pos": "noun",
+       "reading": "ひとびと",
+       "romaji": "hitobito",
+       "gloss": "people",
+       "glossId": "orang-orang"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction marker",
+       "glossId": "partikel: penanda lokasi/waktu/arah"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "られ",
+       "pos": "auxiliary",
+       "romaji": "rare",
+       "lemma": "られる",
+       "gloss": "passive auxiliary",
+       "glossId": "partikel pasif"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "き",
+       "pos": "verb",
+       "romaji": "ki",
+       "lemma": "くる",
+       "gloss": "to come (auxiliary: continuing up to now)",
+       "glossId": "datang (auxiliary: berlanjut hingga sekarang)"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "It has been eaten by the people of that region since long ago.",
+     "translationId": "Sejak dahulu, masakan itu telah dimakan oleh penduduk daerah tersebut.",
+     "audioStart": 9.288,
+     "audioEnd": 13.968
+    },
+    {
+     "text": "旅行に行くと、その町の有名な料理を食べることができます。",
+     "tokens": [
+      {
+       "surface": "旅行",
+       "pos": "noun",
+       "reading": "りょこう",
+       "romaji": "ryokou",
+       "gloss": "travel, trip",
+       "glossId": "perjalanan, wisata"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction marker",
+       "glossId": "partikel: penanda lokasi/waktu/arah"
+      },
+      {
+       "surface": "行く",
+       "pos": "verb",
+       "reading": "いく",
+       "romaji": "iku",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "conditional particle 'when/if'",
+       "glossId": "partikel kondisional 'kalau/ketika'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that (adnominal)",
+       "glossId": "itu (kata tunjuk)"
+      },
+      {
+       "surface": "町",
+       "pos": "noun",
+       "reading": "まち",
+       "romaji": "machi",
+       "gloss": "town",
+       "glossId": "kota"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "有名",
+       "pos": "adjective",
+       "reading": "ゆうめい",
+       "romaji": "yuumei",
+       "gloss": "famous",
+       "glossId": "terkenal"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula: plain form of 'is/be'",
+       "glossId": "kopula: bentuk biasa 'adalah'"
+      },
+      {
+       "surface": "料理",
+       "pos": "noun",
+       "reading": "りょうり",
+       "romaji": "ryouri",
+       "gloss": "cuisine, dish",
+       "glossId": "masakan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer: 'the act/fact of'",
+       "glossId": "nominalisasi: 'hal/perbuatan'"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to, can",
+       "glossId": "bisa, mampu"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When you go traveling, you can eat that town's famous dishes.",
+     "translationId": "Kalau kamu pergi berwisata, kamu bisa makan masakan terkenal kota itu.",
+     "audioStart": 13.968,
+     "audioEnd": 19.512
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "北海道は寒い所です。",
+     "tokens": [
+      {
+       "surface": "北海道",
+       "pos": "noun",
+       "reading": "ほっかいどう",
+       "romaji": "hokkaidou",
+       "gloss": "Hokkaido",
+       "glossId": "Hokkaido"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "寒い",
+       "pos": "adjective",
+       "reading": "さむい",
+       "romaji": "samui",
+       "gloss": "cold",
+       "glossId": "dingin"
+      },
+      {
+       "surface": "所",
+       "pos": "noun",
+       "reading": "ところ",
+       "romaji": "tokoro",
+       "gloss": "place",
+       "glossId": "tempat"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula: polite 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Hokkaido is a cold place.",
+     "translationId": "Hokkaido adalah tempat yang dingin.",
+     "audioStart": 19.512,
+     "audioEnd": 22.704
+    },
+    {
+     "text": "海の魚がたくさんとれるので、魚料理が有名です。",
+     "tokens": [
+      {
+       "surface": "海",
+       "pos": "noun",
+       "reading": "うみ",
+       "romaji": "umi",
+       "gloss": "sea",
+       "glossId": "laut"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "魚",
+       "pos": "noun",
+       "reading": "さかな",
+       "romaji": "sakana",
+       "gloss": "fish",
+       "glossId": "ikan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "とれる",
+       "pos": "verb",
+       "romaji": "toreru",
+       "gloss": "to be caught/harvested",
+       "glossId": "bisa ditangkap/dipanen"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula: plain form of 'is/be'",
+       "glossId": "kopula: bentuk biasa 'adalah'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "魚",
+       "pos": "noun",
+       "reading": "さかな",
+       "romaji": "sakana",
+       "gloss": "fish",
+       "glossId": "ikan"
+      },
+      {
+       "surface": "料理",
+       "pos": "noun",
+       "reading": "りょうり",
+       "romaji": "ryouri",
+       "gloss": "cuisine, dish",
+       "glossId": "masakan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "有名",
+       "pos": "adjective",
+       "reading": "ゆうめい",
+       "romaji": "yuumei",
+       "gloss": "famous",
+       "glossId": "terkenal"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula: polite 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Since a lot of fish are caught in the sea, fish dishes are famous.",
+     "translationId": "Karena banyak ikan laut yang ditangkap, masakan ikan terkenal di sana.",
+     "audioStart": 22.704,
+     "audioEnd": 28.008
+    },
+    {
+     "text": "特に、サケやカニを使った料理が人気です。",
+     "tokens": [
+      {
+       "surface": "特に",
+       "pos": "adverb",
+       "reading": "とくに",
+       "romaji": "tokuni",
+       "gloss": "especially",
+       "glossId": "terutama"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "サケ",
+       "pos": "noun",
+       "romaji": "sake",
+       "gloss": "salmon",
+       "glossId": "salmon"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing particle)",
+       "glossId": "dan (partikel penyebutan tidak lengkap)"
+      },
+      {
+       "surface": "カニ",
+       "pos": "noun",
+       "romaji": "kani",
+       "gloss": "crab",
+       "glossId": "kepiting"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "使っ",
+       "pos": "verb",
+       "reading": "つかっ",
+       "romaji": "tsukat",
+       "lemma": "使う",
+       "gloss": "to use",
+       "glossId": "menggunakan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "料理",
+       "pos": "noun",
+       "reading": "りょうり",
+       "romaji": "ryouri",
+       "gloss": "cuisine, dish",
+       "glossId": "masakan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "人気",
+       "pos": "noun",
+       "reading": "にんき",
+       "romaji": "ninki",
+       "gloss": "popularity",
+       "glossId": "popularitas"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula: polite 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In particular, dishes using salmon and crab are popular.",
+     "translationId": "Terutama, masakan yang menggunakan salmon dan kepiting sangat populer.",
+     "audioStart": 28.008,
+     "audioEnd": 32.544
+    },
+    {
+     "text": "冬は寒いので、あたたかいスープの料理もよく食べられます。",
+     "tokens": [
+      {
+       "surface": "冬",
+       "pos": "noun",
+       "reading": "ふゆ",
+       "romaji": "fuyu",
+       "gloss": "winter",
+       "glossId": "musim dingin"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "寒い",
+       "pos": "adjective",
+       "reading": "さむい",
+       "romaji": "samui",
+       "gloss": "cold",
+       "glossId": "dingin"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula: plain form of 'is/be'",
+       "glossId": "kopula: bentuk biasa 'adalah'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "あたたかい",
+       "pos": "adjective",
+       "romaji": "atatakai",
+       "gloss": "warm",
+       "glossId": "hangat"
+      },
+      {
+       "surface": "スープ",
+       "pos": "noun",
+       "romaji": "suupu",
+       "gloss": "soup",
+       "glossId": "sup"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "料理",
+       "pos": "noun",
+       "reading": "りょうり",
+       "romaji": "ryouri",
+       "gloss": "cuisine, dish",
+       "glossId": "masakan"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "よく",
+       "pos": "adverb",
+       "romaji": "yoku",
+       "gloss": "often, well",
+       "glossId": "sering, dengan baik"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "られ",
+       "pos": "auxiliary",
+       "romaji": "rare",
+       "lemma": "られる",
+       "gloss": "passive auxiliary",
+       "glossId": "partikel pasif"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Because winter is cold, warm soup dishes are also often eaten.",
+     "translationId": "Karena musim dingin itu dingin, masakan sup hangat juga sering dimakan.",
+     "audioStart": 32.544,
+     "audioEnd": 37.8
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "大阪は「食い倒れ」で有名な町です。",
+     "tokens": [
+      {
+       "surface": "大阪",
+       "pos": "noun",
+       "reading": "おおさか",
+       "romaji": "oosaka",
+       "gloss": "Osaka",
+       "glossId": "Osaka"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "食い倒れ",
+       "pos": "noun",
+       "reading": "くいだおれ",
+       "romaji": "kuidaore",
+       "gloss": "eating oneself into ruin (idiom for extravagant love of food)",
+       "glossId": "makan sampai bangkrut (idiom cinta kuliner berlebihan)"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location marker",
+       "glossId": "partikel: penanda cara/lokasi"
+      },
+      {
+       "surface": "有名",
+       "pos": "adjective",
+       "reading": "ゆうめい",
+       "romaji": "yuumei",
+       "gloss": "famous",
+       "glossId": "terkenal"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula: plain form of 'is/be'",
+       "glossId": "kopula: bentuk biasa 'adalah'"
+      },
+      {
+       "surface": "町",
+       "pos": "noun",
+       "reading": "まち",
+       "romaji": "machi",
+       "gloss": "town",
+       "glossId": "kota"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula: polite 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Osaka is a town famous for 'kuidaore' (eating until you drop).",
+     "translationId": "Osaka adalah kota yang terkenal dengan 'kuidaore' (makan sampai bangkrut).",
+     "audioStart": 37.8,
+     "audioEnd": 41.784
+    },
+    {
+     "text": "この言葉は、おいしい物をたくさん食べるという意味です。",
+     "tokens": [
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this (adnominal)",
+       "glossId": "ini (kata tunjuk)"
+      },
+      {
+       "surface": "言葉",
+       "pos": "noun",
+       "reading": "ことば",
+       "romaji": "kotoba",
+       "gloss": "word",
+       "glossId": "kata"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "おいしい",
+       "pos": "adjective",
+       "romaji": "oishii",
+       "gloss": "delicious",
+       "glossId": "enak"
+      },
+      {
+       "surface": "物",
+       "pos": "noun",
+       "reading": "もの",
+       "romaji": "mono",
+       "gloss": "thing",
+       "glossId": "benda"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "食べる",
+       "pos": "verb",
+       "reading": "たべる",
+       "romaji": "taberu",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "conditional particle 'when/if'",
+       "glossId": "partikel kondisional 'kalau/ketika'"
+      },
+      {
+       "surface": "いう",
+       "pos": "verb",
+       "romaji": "iu",
+       "gloss": "to say, to be called",
+       "glossId": "berkata, disebut"
+      },
+      {
+       "surface": "意味",
+       "pos": "noun",
+       "reading": "いみ",
+       "romaji": "imi",
+       "gloss": "meaning",
+       "glossId": "arti"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula: polite 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "This word means to eat a lot of delicious things.",
+     "translationId": "Kata ini berarti makan banyak makanan enak.",
+     "audioStart": 41.784,
+     "audioEnd": 46.776
+    },
+    {
+     "text": "大阪では、たこ焼きやお好み焼きがよく知られています。",
+     "tokens": [
+      {
+       "surface": "大阪",
+       "pos": "noun",
+       "reading": "おおさか",
+       "romaji": "oosaka",
+       "gloss": "Osaka",
+       "glossId": "Osaka"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location marker",
+       "glossId": "partikel: penanda cara/lokasi"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "たこ焼き",
+       "pos": "noun",
+       "reading": "たこやき",
+       "romaji": "takoyaki",
+       "gloss": "takoyaki (octopus balls)",
+       "glossId": "takoyaki (bola gurita)"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing particle)",
+       "glossId": "dan (partikel penyebutan tidak lengkap)"
+      },
+      {
+       "surface": "お好み焼き",
+       "pos": "noun",
+       "reading": "おこのみやき",
+       "romaji": "okonomiyaki",
+       "gloss": "okonomiyaki (savory pancake)",
+       "glossId": "okonomiyaki (panekuk gurih)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "よく",
+       "pos": "adverb",
+       "romaji": "yoku",
+       "gloss": "often, well",
+       "glossId": "sering, dengan baik"
+      },
+      {
+       "surface": "知ら",
+       "pos": "verb",
+       "reading": "しら",
+       "romaji": "shira",
+       "lemma": "知る",
+       "gloss": "to know",
+       "glossId": "tahu, mengenal"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary",
+       "glossId": "partikel pasif"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be (animate)/auxiliary for ongoing state",
+       "glossId": "ada (makhluk hidup)/auxiliary keadaan berlanjut"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In Osaka, takoyaki and okonomiyaki are well known.",
+     "translationId": "Di Osaka, takoyaki dan okonomiyaki sangat dikenal.",
+     "audioStart": 46.776,
+     "audioEnd": 51.696
+    },
+    {
+     "text": "どちらも安くて、おいしくて、作るのも簡単です。",
+     "tokens": [
+      {
+       "surface": "どちら",
+       "pos": "pronoun",
+       "romaji": "dochira",
+       "gloss": "which one, both (of two)",
+       "glossId": "yang mana, keduanya (dari dua)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "安く",
+       "pos": "adjective",
+       "reading": "やすく",
+       "romaji": "yasuku",
+       "lemma": "安い",
+       "gloss": "cheap",
+       "glossId": "murah"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "おいしく",
+       "pos": "adjective",
+       "romaji": "oishiku",
+       "lemma": "おいしい",
+       "gloss": "delicious",
+       "glossId": "enak"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "作る",
+       "pos": "verb",
+       "reading": "つくる",
+       "romaji": "tsukuru",
+       "gloss": "to make",
+       "glossId": "membuat"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "簡単",
+       "pos": "adjective",
+       "reading": "かんたん",
+       "romaji": "kantan",
+       "gloss": "simple, easy",
+       "glossId": "sederhana, mudah"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula: polite 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Both are cheap, delicious, and easy to make.",
+     "translationId": "Keduanya murah, enak, dan mudah dibuat.",
+     "audioStart": 51.696,
+     "audioEnd": 57.048
+    },
+    {
+     "text": "だから、家でもよく作られます。",
+     "tokens": [
+      {
+       "surface": "だ",
+       "pos": "auxiliary",
+       "romaji": "da",
+       "gloss": "copula: plain form of 'is/be'",
+       "glossId": "kopula: bentuk biasa 'adalah'"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from",
+       "glossId": "dari"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "家",
+       "pos": "noun",
+       "reading": "いえ",
+       "romaji": "ie",
+       "gloss": "home, house",
+       "glossId": "rumah"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle: means/location marker",
+       "glossId": "partikel: penanda cara/lokasi"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "よく",
+       "pos": "adverb",
+       "romaji": "yoku",
+       "gloss": "often, well",
+       "glossId": "sering, dengan baik"
+      },
+      {
+       "surface": "作ら",
+       "pos": "verb",
+       "reading": "つくら",
+       "romaji": "tsukura",
+       "lemma": "作る",
+       "gloss": "to make",
+       "glossId": "membuat"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary",
+       "glossId": "partikel pasif"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "That's why they are often made at home too.",
+     "translationId": "Karena itu, keduanya juga sering dibuat di rumah.",
+     "audioStart": 57.048,
+     "audioEnd": 60.672
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "沖縄は日本の南にあります。",
+     "tokens": [
+      {
+       "surface": "沖縄",
+       "pos": "noun",
+       "reading": "おきなわ",
+       "romaji": "okinawa",
+       "gloss": "Okinawa",
+       "glossId": "Okinawa"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "南",
+       "pos": "noun",
+       "reading": "みなみ",
+       "romaji": "minami",
+       "gloss": "south",
+       "glossId": "selatan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction marker",
+       "glossId": "partikel: penanda lokasi/waktu/arah"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Okinawa is in the south of Japan.",
+     "translationId": "Okinawa terletak di selatan Jepang.",
+     "audioStart": 60.672,
+     "audioEnd": 63.984
+    },
+    {
+     "text": "天気があたたかいので、野菜や豚肉を使った料理が多いです。",
+     "tokens": [
+      {
+       "surface": "天気",
+       "pos": "noun",
+       "reading": "てんき",
+       "romaji": "tenki",
+       "gloss": "weather",
+       "glossId": "cuaca"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あたたかい",
+       "pos": "adjective",
+       "romaji": "atatakai",
+       "gloss": "warm",
+       "glossId": "hangat"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula: plain form of 'is/be'",
+       "glossId": "kopula: bentuk biasa 'adalah'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "野菜",
+       "pos": "noun",
+       "reading": "やさい",
+       "romaji": "yasai",
+       "gloss": "vegetable",
+       "glossId": "sayuran"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing particle)",
+       "glossId": "dan (partikel penyebutan tidak lengkap)"
+      },
+      {
+       "surface": "豚肉",
+       "pos": "noun",
+       "reading": "ぶたにく",
+       "romaji": "butaniku",
+       "gloss": "pork",
+       "glossId": "daging babi"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "使っ",
+       "pos": "verb",
+       "reading": "つかっ",
+       "romaji": "tsukat",
+       "lemma": "使う",
+       "gloss": "to use",
+       "glossId": "menggunakan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "料理",
+       "pos": "noun",
+       "reading": "りょうり",
+       "romaji": "ryouri",
+       "gloss": "cuisine, dish",
+       "glossId": "masakan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "多い",
+       "pos": "adjective",
+       "reading": "おおい",
+       "romaji": "ooi",
+       "gloss": "many, a lot",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "copula: polite 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Because the weather is warm, there are many dishes using vegetables and pork.",
+     "translationId": "Karena cuacanya hangat, banyak masakan yang menggunakan sayuran dan daging babi.",
+     "audioStart": 63.984,
+     "audioEnd": 69.696
+    },
+    {
+     "text": "ゴーヤという少し苦い野菜も、よく食べられます。",
+     "tokens": [
+      {
+       "surface": "ゴーヤ",
+       "pos": "noun",
+       "romaji": "gooya",
+       "gloss": "bitter melon (goya)",
+       "glossId": "pare (goya)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "conditional particle 'when/if'",
+       "glossId": "partikel kondisional 'kalau/ketika'"
+      },
+      {
+       "surface": "いう",
+       "pos": "verb",
+       "romaji": "iu",
+       "gloss": "to say, to be called",
+       "glossId": "berkata, disebut"
+      },
+      {
+       "surface": "少し",
+       "pos": "adverb",
+       "reading": "すこし",
+       "romaji": "sukoshi",
+       "gloss": "a little",
+       "glossId": "sedikit"
+      },
+      {
+       "surface": "苦い",
+       "pos": "adjective",
+       "reading": "にがい",
+       "romaji": "nigai",
+       "gloss": "bitter",
+       "glossId": "pahit"
+      },
+      {
+       "surface": "野菜",
+       "pos": "noun",
+       "reading": "やさい",
+       "romaji": "yasai",
+       "gloss": "vegetable",
+       "glossId": "sayuran"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "よく",
+       "pos": "adverb",
+       "romaji": "yoku",
+       "gloss": "often, well",
+       "glossId": "sering, dengan baik"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "られ",
+       "pos": "auxiliary",
+       "romaji": "rare",
+       "lemma": "られる",
+       "gloss": "passive auxiliary",
+       "glossId": "partikel pasif"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "A slightly bitter vegetable called goya is also often eaten.",
+     "translationId": "Sayuran yang agak pahit bernama goya juga sering dimakan.",
+     "audioStart": 69.696,
+     "audioEnd": 74.304
+    },
+    {
+     "text": "沖縄の料理は、他の地方の料理と少し違う味がします。",
+     "tokens": [
+      {
+       "surface": "沖縄",
+       "pos": "noun",
+       "reading": "おきなわ",
+       "romaji": "okinawa",
+       "gloss": "Okinawa",
+       "glossId": "Okinawa"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "料理",
+       "pos": "noun",
+       "reading": "りょうり",
+       "romaji": "ryouri",
+       "gloss": "cuisine, dish",
+       "glossId": "masakan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "他",
+       "pos": "noun",
+       "reading": "た",
+       "romaji": "ta",
+       "gloss": "other",
+       "glossId": "lain"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "地方",
+       "pos": "noun",
+       "reading": "ちほう",
+       "romaji": "chihou",
+       "gloss": "region, local area",
+       "glossId": "daerah, wilayah"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "料理",
+       "pos": "noun",
+       "reading": "りょうり",
+       "romaji": "ryouri",
+       "gloss": "cuisine, dish",
+       "glossId": "masakan"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "conditional particle 'when/if'",
+       "glossId": "partikel kondisional 'kalau/ketika'"
+      },
+      {
+       "surface": "少し",
+       "pos": "adverb",
+       "reading": "すこし",
+       "romaji": "sukoshi",
+       "gloss": "a little",
+       "glossId": "sedikit"
+      },
+      {
+       "surface": "違う",
+       "pos": "verb",
+       "reading": "ちがう",
+       "romaji": "chigau",
+       "gloss": "to differ, be different",
+       "glossId": "berbeda"
+      },
+      {
+       "surface": "味",
+       "pos": "noun",
+       "reading": "あじ",
+       "romaji": "aji",
+       "gloss": "taste",
+       "glossId": "rasa"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Okinawan cuisine tastes a little different from the cuisine of other regions.",
+     "translationId": "Masakan Okinawa rasanya sedikit berbeda dari masakan daerah lain.",
+     "audioStart": 74.304,
+     "audioEnd": 80.112
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "このように、日本の地方料理はそれぞれ違う特徴があります。",
+     "tokens": [
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this (adnominal)",
+       "glossId": "ini (kata tunjuk)"
+      },
+      {
+       "surface": "よう",
+       "pos": "adjective",
+       "romaji": "you",
+       "gloss": "manner, way (このように = 'in this way')",
+       "glossId": "cara, seperti ('このように' = 'dengan cara ini')"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula: plain form of 'is/be'",
+       "glossId": "kopula: bentuk biasa 'adalah'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "地方",
+       "pos": "noun",
+       "reading": "ちほう",
+       "romaji": "chihou",
+       "gloss": "region, local area",
+       "glossId": "daerah, wilayah"
+      },
+      {
+       "surface": "料理",
+       "pos": "noun",
+       "reading": "りょうり",
+       "romaji": "ryouri",
+       "gloss": "cuisine, dish",
+       "glossId": "masakan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "それぞれ",
+       "pos": "noun",
+       "romaji": "sorezore",
+       "gloss": "each, respectively",
+       "glossId": "masing-masing"
+      },
+      {
+       "surface": "違う",
+       "pos": "verb",
+       "reading": "ちがう",
+       "romaji": "chigau",
+       "gloss": "to differ, be different",
+       "glossId": "berbeda"
+      },
+      {
+       "surface": "特徴",
+       "pos": "noun",
+       "reading": "とくちょう",
+       "romaji": "tokuchou",
+       "gloss": "characteristic, feature",
+       "glossId": "ciri khas"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In this way, Japan's regional cuisines each have different characteristics.",
+     "translationId": "Dengan demikian, masakan daerah Jepang masing-masing memiliki ciri khas yang berbeda.",
+     "audioStart": 80.112,
+     "audioEnd": 85.824
+    },
+    {
+     "text": "旅行に行ったときは、ぜひその土地の料理を食べてみてください。",
+     "tokens": [
+      {
+       "surface": "旅行",
+       "pos": "noun",
+       "reading": "りょこう",
+       "romaji": "ryokou",
+       "gloss": "travel, trip",
+       "glossId": "perjalanan, wisata"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle: location/time/direction marker",
+       "glossId": "partikel: penanda lokasi/waktu/arah"
+      },
+      {
+       "surface": "行っ",
+       "pos": "verb",
+       "reading": "いっ",
+       "romaji": "it",
+       "lemma": "行く",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "time, when",
+       "glossId": "waktu, saat"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "ぜひ",
+       "pos": "adverb",
+       "romaji": "zehi",
+       "gloss": "by all means, definitely",
+       "glossId": "pastikan, sebaiknya"
+      },
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that (adnominal)",
+       "glossId": "itu (kata tunjuk)"
+      },
+      {
+       "surface": "土地",
+       "pos": "noun",
+       "reading": "とち",
+       "romaji": "tochi",
+       "gloss": "land, place",
+       "glossId": "tanah, daerah"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/attributive particle",
+       "glossId": "partikel kepemilikan/atributif"
+      },
+      {
+       "surface": "料理",
+       "pos": "noun",
+       "reading": "りょうり",
+       "romaji": "ryouri",
+       "gloss": "cuisine, dish",
+       "glossId": "masakan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "み",
+       "pos": "verb",
+       "romaji": "mi",
+       "lemma": "みる",
+       "gloss": "to try (auxiliary, ~てみる)",
+       "glossId": "mencoba (auxiliary, ~てみる)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "penghubung bentuk te"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる",
+       "gloss": "to give (honorific, ~てください = please do)",
+       "glossId": "memberi (honorifik, ~てください = tolong lakukan)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When you go traveling, please be sure to try the local food.",
+     "translationId": "Saat kamu pergi berwisata, cobalah makan masakan khas daerah itu.",
+     "audioStart": 85.824,
+     "audioEnd": 91.128
+    },
+    {
+     "text": "きっと新しい発見があるでしょう。",
+     "tokens": [
+      {
+       "surface": "きっと",
+       "pos": "adverb",
+       "romaji": "kitto",
+       "gloss": "surely, certainly",
+       "glossId": "pasti"
+      },
+      {
+       "surface": "新しい",
+       "pos": "adjective",
+       "reading": "あたらしい",
+       "romaji": "atarashii",
+       "gloss": "new",
+       "glossId": "baru"
+      },
+      {
+       "surface": "発見",
+       "pos": "noun",
+       "reading": "はっけん",
+       "romaji": "hakken",
+       "gloss": "discovery",
+       "glossId": "penemuan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "ある",
+       "pos": "verb",
+       "romaji": "aru",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (benda mati)"
+      },
+      {
+       "surface": "でしょう",
+       "pos": "auxiliary",
+       "romaji": "deshou",
+       "lemma": "です",
+       "gloss": "copula: polite 'is'",
+       "glossId": "kopula sopan 'adalah'"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "You will surely make a new discovery.",
+     "translationId": "Pasti akan ada penemuan baru.",
+     "audioStart": 91.128,
+     "audioEnd": 94.584
+    }
+   ]
+  }
+ ],
+ "topic": "たべもの",
+ "topicEn": "Food & drink",
+ "topicId": "Makanan & minuman"
+}

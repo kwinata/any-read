@@ -1,0 +1,2321 @@
+{
+ "schemaVersion": 1,
+ "id": "japanese-traditional-crafts-still-being-made-today",
+ "language": "ja",
+ "title": "今も作られる日本の伝統工芸",
+ "titleTranslation": "Japanese Traditional Crafts Still Being Made Today",
+ "titleTranslationId": "Kerajinan Tradisional Jepang yang Masih Dibuat Hingga Kini",
+ "level": "N4",
+ "summary": "The article describes Japan's traditional crafts, the long training craftsmen undergo, regional differences in craft specialties, and how young artisans today blend traditional techniques with modern designs.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T18:11:42+00:00",
+ "audioFile": "audio-cf5fdc1f.mp3",
+ "voice": "de-DE-SeraphinaMultilingualNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "日本には、昔から続く伝統工芸がたくさんあります。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/direction",
+       "glossId": "partikel penanda lokasi atau arah"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "昔",
+       "pos": "noun",
+       "reading": "むかし",
+       "romaji": "mukashi",
+       "gloss": "long ago, old times",
+       "glossId": "dahulu, zaman dulu"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from, since",
+       "glossId": "dari, sejak"
+      },
+      {
+       "surface": "続く",
+       "pos": "verb",
+       "reading": "つづく",
+       "romaji": "tsuzuku",
+       "gloss": "to continue",
+       "glossId": "berlanjut, berlangsung"
+      },
+      {
+       "surface": "伝統",
+       "pos": "noun",
+       "reading": "でんとう",
+       "romaji": "dentou",
+       "gloss": "tradition",
+       "glossId": "tradisi"
+      },
+      {
+       "surface": "工芸",
+       "pos": "noun",
+       "reading": "こうげい",
+       "romaji": "kougei",
+       "gloss": "craft, craftsmanship",
+       "glossId": "kerajinan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "many, a lot",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Japan has many traditional crafts that have continued since long ago.",
+     "translationId": "Jepang memiliki banyak kerajinan tradisional yang telah berlanjut sejak dahulu.",
+     "audioStart": 0.0,
+     "audioEnd": 5.376
+    },
+    {
+     "text": "有名なものは、陶器や漆器、和紙、着物の生地などです。",
+     "tokens": [
+      {
+       "surface": "有名",
+       "pos": "adjective",
+       "reading": "ゆうめい",
+       "romaji": "yuumei",
+       "gloss": "famous",
+       "glossId": "terkenal"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula 'is' (plain form)",
+       "glossId": "kopula 'adalah' (bentuk biasa)"
+      },
+      {
+       "surface": "もの",
+       "pos": "noun",
+       "romaji": "mono",
+       "gloss": "thing",
+       "glossId": "benda, hal"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "陶器",
+       "pos": "noun",
+       "reading": "とうき",
+       "romaji": "touki",
+       "gloss": "pottery, ceramics",
+       "glossId": "keramik, tembikar"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list)",
+       "glossId": "'dan' (daftar tidak lengkap)"
+      },
+      {
+       "surface": "漆器",
+       "pos": "noun",
+       "reading": "しっき",
+       "romaji": "shikki",
+       "gloss": "lacquerware",
+       "glossId": "barang lak"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "和紙",
+       "pos": "noun",
+       "reading": "わし",
+       "romaji": "washi",
+       "gloss": "Japanese paper",
+       "glossId": "kertas washi"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "着物",
+       "pos": "noun",
+       "reading": "きもの",
+       "romaji": "kimono",
+       "gloss": "kimono",
+       "glossId": "kimono"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "penanda kepemilikan/pewatas"
+      },
+      {
+       "surface": "生地",
+       "pos": "noun",
+       "reading": "きじ",
+       "romaji": "kiji",
+       "gloss": "fabric, cloth",
+       "glossId": "kain"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "etc., and so on",
+       "glossId": "dan lain-lain"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Well-known ones include pottery, lacquerware, washi paper, and kimono fabric.",
+     "translationId": "Yang terkenal antara lain keramik, barang lak, kertas washi, dan kain kimono.",
+     "audioStart": 5.376,
+     "audioEnd": 11.4
+    },
+    {
+     "text": "これらは、機械ではなく、人の手で作られることが多いです。",
+     "tokens": [
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore",
+       "gloss": "this",
+       "glossId": "ini"
+      },
+      {
+       "surface": "ら",
+       "pos": "suffix",
+       "romaji": "ra",
+       "gloss": "plural suffix",
+       "glossId": "akhiran jamak"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "機械",
+       "pos": "noun",
+       "reading": "きかい",
+       "romaji": "kikai",
+       "gloss": "machine",
+       "glossId": "mesin"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking means/location",
+       "glossId": "penanda alat atau tempat"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "なく",
+       "pos": "adjective",
+       "romaji": "naku",
+       "lemma": "ない",
+       "gloss": "not (negative)",
+       "glossId": "tidak (negasi)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "penanda kepemilikan/pewatas"
+      },
+      {
+       "surface": "手",
+       "pos": "noun",
+       "reading": "て",
+       "romaji": "te",
+       "gloss": "hand",
+       "glossId": "tangan"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking means/location",
+       "glossId": "penanda alat atau tempat"
+      },
+      {
+       "surface": "作ら",
+       "pos": "verb",
+       "reading": "つくら",
+       "romaji": "tsukura",
+       "lemma": "作る",
+       "gloss": "to make",
+       "glossId": "membuat"
+      },
+      {
+       "surface": "れる",
+       "pos": "auxiliary",
+       "romaji": "reru",
+       "gloss": "passive verb suffix",
+       "glossId": "akhiran bentuk pasif"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer, 'the act of'",
+       "glossId": "nominalisasi, 'hal melakukan'"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "多い",
+       "pos": "adjective",
+       "reading": "おおい",
+       "romaji": "ooi",
+       "gloss": "many, much",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "These are often made by hand, not by machine.",
+     "translationId": "Kebanyakan dari benda-benda ini dibuat dengan tangan manusia, bukan dengan mesin.",
+     "audioStart": 11.4,
+     "audioEnd": 17.064
+    },
+    {
+     "text": "作る人を「職人」と呼びます。",
+     "tokens": [
+      {
+       "surface": "作る",
+       "pos": "verb",
+       "reading": "つくる",
+       "romaji": "tsukuru",
+       "gloss": "to make",
+       "glossId": "membuat"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "「",
+       "pos": "punct"
+      },
+      {
+       "surface": "職人",
+       "pos": "noun",
+       "reading": "しょくにん",
+       "romaji": "shokunin",
+       "gloss": "craftsman, artisan",
+       "glossId": "pengrajin"
+      },
+      {
+       "surface": "」",
+       "pos": "punct"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle / 'with'",
+       "glossId": "partikel kutipan / 'dengan'"
+      },
+      {
+       "surface": "呼び",
+       "pos": "verb",
+       "reading": "よび",
+       "romaji": "yobi",
+       "lemma": "呼ぶ",
+       "gloss": "to call, to name",
+       "glossId": "memanggil, menyebut"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The people who make them are called \"shokunin\" (craftsmen).",
+     "translationId": "Orang yang membuatnya disebut 'shokunin' (pengrajin).",
+     "audioStart": 17.064,
+     "audioEnd": 20.064
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "職人になるためには、長い時間がかかります。",
+     "tokens": [
+      {
+       "surface": "職人",
+       "pos": "noun",
+       "reading": "しょくにん",
+       "romaji": "shokunin",
+       "gloss": "craftsman, artisan",
+       "glossId": "pengrajin"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/direction",
+       "glossId": "partikel penanda lokasi atau arah"
+      },
+      {
+       "surface": "なる",
+       "pos": "verb",
+       "romaji": "naru",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "ため",
+       "pos": "noun",
+       "romaji": "tame",
+       "gloss": "for the purpose of, in order to",
+       "glossId": "demi, untuk tujuan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/direction",
+       "glossId": "partikel penanda lokasi atau arah"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "長い",
+       "pos": "adjective",
+       "reading": "ながい",
+       "romaji": "nagai",
+       "gloss": "long",
+       "glossId": "panjang, lama"
+      },
+      {
+       "surface": "時間",
+       "pos": "noun",
+       "reading": "じかん",
+       "romaji": "jikan",
+       "gloss": "time",
+       "glossId": "waktu"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "かかり",
+       "pos": "verb",
+       "romaji": "kakari",
+       "lemma": "かかる",
+       "gloss": "to take (time), to cost",
+       "glossId": "memakan (waktu), memerlukan biaya"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Becoming a craftsman takes a long time.",
+     "translationId": "Untuk menjadi pengrajin, dibutuhkan waktu yang lama.",
+     "audioStart": 20.064,
+     "audioEnd": 24.504
+    },
+    {
+     "text": "若いとき、先生の工房に入って、何年も練習します。",
+     "tokens": [
+      {
+       "surface": "若い",
+       "pos": "adjective",
+       "reading": "わかい",
+       "romaji": "wakai",
+       "gloss": "young",
+       "glossId": "muda"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "when, time",
+       "glossId": "saat, ketika"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "先生",
+       "pos": "noun",
+       "reading": "せんせい",
+       "romaji": "sensei",
+       "gloss": "teacher",
+       "glossId": "guru"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "penanda kepemilikan/pewatas"
+      },
+      {
+       "surface": "工房",
+       "pos": "noun",
+       "reading": "こうぼう",
+       "romaji": "koubou",
+       "gloss": "workshop, studio",
+       "glossId": "bengkel kerja, studio"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/direction",
+       "glossId": "partikel penanda lokasi atau arah"
+      },
+      {
+       "surface": "入っ",
+       "pos": "verb",
+       "reading": "はいっ",
+       "romaji": "hait",
+       "lemma": "入る",
+       "gloss": "to enter",
+       "glossId": "masuk"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk penghubung 'te'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "何",
+       "pos": "noun",
+       "reading": "なん",
+       "romaji": "nan",
+       "gloss": "what",
+       "glossId": "apa"
+      },
+      {
+       "surface": "年",
+       "pos": "noun",
+       "reading": "ねん",
+       "romaji": "nen",
+       "gloss": "year",
+       "glossId": "tahun"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even / as many as",
+       "glossId": "juga, bahkan / sebanyak"
+      },
+      {
+       "surface": "練習",
+       "pos": "noun",
+       "reading": "れんしゅう",
+       "romaji": "renshuu",
+       "gloss": "practice",
+       "glossId": "latihan"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When young, they enter a teacher's workshop and practice for many years.",
+     "translationId": "Saat masih muda, mereka masuk ke bengkel kerja seorang guru dan berlatih selama bertahun-tahun.",
+     "audioStart": 24.504,
+     "audioEnd": 30.456
+    },
+    {
+     "text": "最初は簡単な仕事しかできません。",
+     "tokens": [
+      {
+       "surface": "最初",
+       "pos": "noun",
+       "reading": "さいしょ",
+       "romaji": "saisho",
+       "gloss": "at first, the beginning",
+       "glossId": "pada awalnya"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "簡単",
+       "pos": "adjective",
+       "reading": "かんたん",
+       "romaji": "kantan",
+       "gloss": "simple, easy",
+       "glossId": "sederhana, mudah"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula 'is' (plain form)",
+       "glossId": "kopula 'adalah' (bentuk biasa)"
+      },
+      {
+       "surface": "仕事",
+       "pos": "noun",
+       "reading": "しごと",
+       "romaji": "shigoto",
+       "gloss": "work, job",
+       "glossId": "pekerjaan"
+      },
+      {
+       "surface": "しか",
+       "pos": "particle",
+       "romaji": "shika",
+       "gloss": "only (used with negative)",
+       "glossId": "hanya (dipakai dengan negasi)"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to",
+       "glossId": "bisa, mampu"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "classical negative suffix",
+       "glossId": "akhiran negasi klasik"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "At first, they can only do simple work.",
+     "translationId": "Pada awalnya, mereka hanya bisa mengerjakan pekerjaan yang sederhana.",
+     "audioStart": 30.456,
+     "audioEnd": 34.032
+    },
+    {
+     "text": "少しずつ、難しい技術を覚えていきます。",
+     "tokens": [
+      {
+       "surface": "少し",
+       "pos": "adverb",
+       "reading": "すこし",
+       "romaji": "sukoshi",
+       "gloss": "a little",
+       "glossId": "sedikit"
+      },
+      {
+       "surface": "ずつ",
+       "pos": "particle",
+       "romaji": "zutsu",
+       "gloss": "little by little, each",
+       "glossId": "sedikit demi sedikit, masing-masing"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "難しい",
+       "pos": "adjective",
+       "reading": "むずかしい",
+       "romaji": "muzukashii",
+       "gloss": "difficult",
+       "glossId": "sulit"
+      },
+      {
+       "surface": "技術",
+       "pos": "noun",
+       "reading": "ぎじゅつ",
+       "romaji": "gijutsu",
+       "gloss": "technique, skill",
+       "glossId": "teknik"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "覚え",
+       "pos": "verb",
+       "reading": "おぼえ",
+       "romaji": "oboe",
+       "lemma": "覚える",
+       "gloss": "to learn, to memorize",
+       "glossId": "mempelajari, mengingat"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk penghubung 'te'"
+      },
+      {
+       "surface": "いき",
+       "pos": "verb",
+       "romaji": "iki",
+       "lemma": "いく",
+       "gloss": "to go (marks continuing/ongoing change)",
+       "glossId": "pergi (menunjukkan kelanjutan/perubahan)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Little by little, they learn difficult techniques.",
+     "translationId": "Sedikit demi sedikit, mereka mempelajari teknik yang sulit.",
+     "audioStart": 34.032,
+     "audioEnd": 38.4
+    },
+    {
+     "text": "一つの作品を完成させるのに、何日もかかることがあります。",
+     "tokens": [
+      {
+       "surface": "一",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "one",
+       "glossId": "satu"
+      },
+      {
+       "surface": "つ",
+       "pos": "suffix",
+       "romaji": "tsu",
+       "gloss": "counter for objects",
+       "glossId": "kata bantu bilangan untuk benda"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "penanda kepemilikan/pewatas"
+      },
+      {
+       "surface": "作品",
+       "pos": "noun",
+       "reading": "さくひん",
+       "romaji": "sakuhin",
+       "gloss": "work (of art), piece",
+       "glossId": "karya"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "完成",
+       "pos": "noun",
+       "reading": "かんせい",
+       "romaji": "kansei",
+       "gloss": "completion",
+       "glossId": "penyelesaian, penuntasan"
+      },
+      {
+       "surface": "さ",
+       "pos": "verb",
+       "romaji": "sa",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "せる",
+       "pos": "auxiliary",
+       "romaji": "seru",
+       "gloss": "causative verb suffix",
+       "glossId": "akhiran bentuk kausatif"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "penanda kepemilikan/pewatas"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/direction",
+       "glossId": "partikel penanda lokasi atau arah"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "何日",
+       "pos": "noun",
+       "reading": "なんにち",
+       "romaji": "nannichi",
+       "gloss": "how many days",
+       "glossId": "berapa hari"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even / as many as",
+       "glossId": "juga, bahkan / sebanyak"
+      },
+      {
+       "surface": "かかる",
+       "pos": "verb",
+       "romaji": "kakaru",
+       "gloss": "to take (time), to cost",
+       "glossId": "memakan (waktu), memerlukan biaya"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer, 'the act of'",
+       "glossId": "nominalisasi, 'hal melakukan'"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Completing a single piece can sometimes take many days.",
+     "translationId": "Untuk menyelesaikan satu karya, terkadang dibutuhkan waktu berhari-hari.",
+     "audioStart": 38.4,
+     "audioEnd": 44.16
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "伝統工芸は、地域によって違います。",
+     "tokens": [
+      {
+       "surface": "伝統",
+       "pos": "noun",
+       "reading": "でんとう",
+       "romaji": "dentou",
+       "gloss": "tradition",
+       "glossId": "tradisi"
+      },
+      {
+       "surface": "工芸",
+       "pos": "noun",
+       "reading": "こうげい",
+       "romaji": "kougei",
+       "gloss": "craft, craftsmanship",
+       "glossId": "kerajinan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "地域",
+       "pos": "noun",
+       "reading": "ちいき",
+       "romaji": "chiiki",
+       "gloss": "region, area",
+       "glossId": "daerah, wilayah"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/direction",
+       "glossId": "partikel penanda lokasi atau arah"
+      },
+      {
+       "surface": "よっ",
+       "pos": "verb",
+       "romaji": "yotsu",
+       "lemma": "よる",
+       "gloss": "to depend on, due to",
+       "glossId": "bergantung pada, disebabkan oleh"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk penghubung 'te'"
+      },
+      {
+       "surface": "違い",
+       "pos": "verb",
+       "reading": "ちがい",
+       "romaji": "chigai",
+       "lemma": "違う",
+       "gloss": "to differ, to be different",
+       "glossId": "berbeda"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Traditional crafts differ by region.",
+     "translationId": "Kerajinan tradisional berbeda-beda menurut daerahnya.",
+     "audioStart": 44.16,
+     "audioEnd": 48.432
+    },
+    {
+     "text": "ある町は陶器で有名で、別の町は織物で有名です。",
+     "tokens": [
+      {
+       "surface": "ある",
+       "pos": "prenominal",
+       "romaji": "aru",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "町",
+       "pos": "noun",
+       "reading": "まち",
+       "romaji": "machi",
+       "gloss": "town",
+       "glossId": "kota kecil"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "陶器",
+       "pos": "noun",
+       "reading": "とうき",
+       "romaji": "touki",
+       "gloss": "pottery, ceramics",
+       "glossId": "keramik, tembikar"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking means/location",
+       "glossId": "penanda alat atau tempat"
+      },
+      {
+       "surface": "有名",
+       "pos": "adjective",
+       "reading": "ゆうめい",
+       "romaji": "yuumei",
+       "gloss": "famous",
+       "glossId": "terkenal"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "copula 'is' (plain form)",
+       "glossId": "kopula 'adalah' (bentuk biasa)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "別",
+       "pos": "noun",
+       "reading": "べつ",
+       "romaji": "betsu",
+       "gloss": "different, another",
+       "glossId": "lain, berbeda"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "penanda kepemilikan/pewatas"
+      },
+      {
+       "surface": "町",
+       "pos": "noun",
+       "reading": "まち",
+       "romaji": "machi",
+       "gloss": "town",
+       "glossId": "kota kecil"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "織物",
+       "pos": "noun",
+       "reading": "おりもの",
+       "romaji": "orimono",
+       "gloss": "woven textile",
+       "glossId": "tenunan, kain tenun"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking means/location",
+       "glossId": "penanda alat atau tempat"
+      },
+      {
+       "surface": "有名",
+       "pos": "adjective",
+       "reading": "ゆうめい",
+       "romaji": "yuumei",
+       "gloss": "famous",
+       "glossId": "terkenal"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "One town is famous for pottery, and another town is famous for weaving.",
+     "translationId": "Ada kota yang terkenal dengan keramiknya, dan kota lain terkenal dengan tenunannya.",
+     "audioStart": 48.432,
+     "audioEnd": 54.096
+    },
+    {
+     "text": "旅行に行くと、その町ならではの工芸品を見ることができます。",
+     "tokens": [
+      {
+       "surface": "旅行",
+       "pos": "noun",
+       "reading": "りょこう",
+       "romaji": "ryokou",
+       "gloss": "travel, trip",
+       "glossId": "perjalanan, wisata"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/direction",
+       "glossId": "partikel penanda lokasi atau arah"
+      },
+      {
+       "surface": "行く",
+       "pos": "verb",
+       "reading": "いく",
+       "romaji": "iku",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle / 'with'",
+       "glossId": "partikel kutipan / 'dengan'"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that (adnominal)",
+       "glossId": "itu (penunjuk)"
+      },
+      {
+       "surface": "町",
+       "pos": "noun",
+       "reading": "まち",
+       "romaji": "machi",
+       "gloss": "town",
+       "glossId": "kota kecil"
+      },
+      {
+       "surface": "なら",
+       "pos": "auxiliary",
+       "romaji": "nara",
+       "lemma": "なり",
+       "gloss": "part of 'ならでは' construction, marks something distinctive",
+       "glossId": "bagian dari konstruksi 'ならでは', menandai sesuatu yang khas"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking means/location",
+       "glossId": "penanda alat atau tempat"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "penanda kepemilikan/pewatas"
+      },
+      {
+       "surface": "工芸品",
+       "pos": "noun",
+       "reading": "こうげいひん",
+       "romaji": "kougeihin",
+       "gloss": "craft item, handicraft",
+       "glossId": "produk kerajinan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "見る",
+       "pos": "verb",
+       "reading": "みる",
+       "romaji": "miru",
+       "gloss": "to see, to look",
+       "glossId": "melihat"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer, 'the act of'",
+       "glossId": "nominalisasi, 'hal melakukan'"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to",
+       "glossId": "bisa, mampu"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When you travel, you can see crafts unique to that town.",
+     "translationId": "Jika bepergian, kita bisa melihat kerajinan khas kota tersebut.",
+     "audioStart": 54.096,
+     "audioEnd": 59.664
+    },
+    {
+     "text": "お土産として買う人も多いです。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "土産",
+       "pos": "noun",
+       "reading": "みやげ",
+       "romaji": "miyage",
+       "gloss": "souvenir",
+       "glossId": "oleh-oleh"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle / 'with'",
+       "glossId": "partikel kutipan / 'dengan'"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk penghubung 'te'"
+      },
+      {
+       "surface": "買う",
+       "pos": "verb",
+       "reading": "かう",
+       "romaji": "kau",
+       "gloss": "to buy",
+       "glossId": "membeli"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even / as many as",
+       "glossId": "juga, bahkan / sebanyak"
+      },
+      {
+       "surface": "多い",
+       "pos": "adjective",
+       "reading": "おおい",
+       "romaji": "ooi",
+       "gloss": "many, much",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many people buy them as souvenirs.",
+     "translationId": "Banyak juga orang yang membelinya sebagai oleh-oleh.",
+     "audioStart": 59.664,
+     "audioEnd": 62.832
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "最近は、若い職人も増えてきました。",
+     "tokens": [
+      {
+       "surface": "最近",
+       "pos": "noun",
+       "reading": "さいきん",
+       "romaji": "saikin",
+       "gloss": "recently",
+       "glossId": "belakangan ini, baru-baru ini"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "若い",
+       "pos": "adjective",
+       "reading": "わかい",
+       "romaji": "wakai",
+       "gloss": "young",
+       "glossId": "muda"
+      },
+      {
+       "surface": "職人",
+       "pos": "noun",
+       "reading": "しょくにん",
+       "romaji": "shokunin",
+       "gloss": "craftsman, artisan",
+       "glossId": "pengrajin"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even / as many as",
+       "glossId": "juga, bahkan / sebanyak"
+      },
+      {
+       "surface": "増え",
+       "pos": "verb",
+       "reading": "ふえ",
+       "romaji": "fue",
+       "lemma": "増える",
+       "gloss": "to increase",
+       "glossId": "bertambah, meningkat"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk penghubung 'te'"
+      },
+      {
+       "surface": "き",
+       "pos": "verb",
+       "romaji": "ki",
+       "lemma": "くる",
+       "gloss": "to come (marks continuing/ongoing change)",
+       "glossId": "datang (menunjukkan kelanjutan/perubahan)"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense suffix",
+       "glossId": "akhiran bentuk lampau"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Recently, the number of young craftsmen has been increasing.",
+     "translationId": "Belakangan ini, pengrajin muda juga semakin bertambah.",
+     "audioStart": 62.832,
+     "audioEnd": 66.816
+    },
+    {
+     "text": "伝統的な技術を守りながら、新しいデザインの作品も作っています。",
+     "tokens": [
+      {
+       "surface": "伝統的",
+       "pos": "noun",
+       "reading": "でんとうてき",
+       "romaji": "dentouteki",
+       "gloss": "traditional",
+       "glossId": "tradisional"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula 'is' (plain form)",
+       "glossId": "kopula 'adalah' (bentuk biasa)"
+      },
+      {
+       "surface": "技術",
+       "pos": "noun",
+       "reading": "ぎじゅつ",
+       "romaji": "gijutsu",
+       "gloss": "technique, skill",
+       "glossId": "teknik"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "守り",
+       "pos": "verb",
+       "reading": "まもり",
+       "romaji": "mamori",
+       "lemma": "守る",
+       "gloss": "to protect, to preserve",
+       "glossId": "menjaga, melestarikan"
+      },
+      {
+       "surface": "ながら",
+       "pos": "particle",
+       "romaji": "nagara",
+       "gloss": "while (doing)",
+       "glossId": "sambil"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "新しい",
+       "pos": "adjective",
+       "reading": "あたらしい",
+       "romaji": "atarashii",
+       "gloss": "new",
+       "glossId": "baru"
+      },
+      {
+       "surface": "デザイン",
+       "pos": "noun",
+       "romaji": "dezain",
+       "gloss": "design",
+       "glossId": "desain"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "penanda kepemilikan/pewatas"
+      },
+      {
+       "surface": "作品",
+       "pos": "noun",
+       "reading": "さくひん",
+       "romaji": "sakuhin",
+       "gloss": "work (of art), piece",
+       "glossId": "karya"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even / as many as",
+       "glossId": "juga, bahkan / sebanyak"
+      },
+      {
+       "surface": "作っ",
+       "pos": "verb",
+       "reading": "つくっ",
+       "romaji": "tsukut",
+       "lemma": "作る",
+       "gloss": "to make",
+       "glossId": "membuat"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk penghubung 'te'"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to exist (animate) / continuing action marker",
+       "glossId": "ada (untuk makhluk hidup) / penanda kelanjutan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "While preserving traditional techniques, they also make works with new designs.",
+     "translationId": "Sambil menjaga teknik tradisional, mereka juga membuat karya dengan desain baru.",
+     "audioStart": 66.816,
+     "audioEnd": 73.44
+    },
+    {
+     "text": "例えば、伝統の模様を使った現代的な食器やアクセサリーです。",
+     "tokens": [
+      {
+       "surface": "例えば",
+       "pos": "adverb",
+       "reading": "たとえば",
+       "romaji": "tatoeba",
+       "gloss": "for example",
+       "glossId": "misalnya"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "伝統",
+       "pos": "noun",
+       "reading": "でんとう",
+       "romaji": "dentou",
+       "gloss": "tradition",
+       "glossId": "tradisi"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "penanda kepemilikan/pewatas"
+      },
+      {
+       "surface": "模様",
+       "pos": "noun",
+       "reading": "もよう",
+       "romaji": "moyou",
+       "gloss": "pattern, design",
+       "glossId": "motif, corak"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "使っ",
+       "pos": "verb",
+       "reading": "つかっ",
+       "romaji": "tsukat",
+       "lemma": "使う",
+       "gloss": "to use",
+       "glossId": "menggunakan"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense suffix",
+       "glossId": "akhiran bentuk lampau"
+      },
+      {
+       "surface": "現代的",
+       "pos": "noun",
+       "reading": "げんだいてき",
+       "romaji": "gendaiteki",
+       "gloss": "modern",
+       "glossId": "modern, masa kini"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula 'is' (plain form)",
+       "glossId": "kopula 'adalah' (bentuk biasa)"
+      },
+      {
+       "surface": "食器",
+       "pos": "noun",
+       "reading": "しょっき",
+       "romaji": "shokki",
+       "gloss": "tableware",
+       "glossId": "peralatan makan"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list)",
+       "glossId": "'dan' (daftar tidak lengkap)"
+      },
+      {
+       "surface": "アクセサリー",
+       "pos": "noun",
+       "romaji": "akusesarii",
+       "gloss": "accessory",
+       "glossId": "aksesori"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "For example, modern tableware and accessories that use traditional patterns.",
+     "translationId": "Misalnya, peralatan makan dan aksesori bergaya modern yang menggunakan motif tradisional.",
+     "audioStart": 73.44,
+     "audioEnd": 79.464
+    },
+    {
+     "text": "海外の人にも人気があります。",
+     "tokens": [
+      {
+       "surface": "海外",
+       "pos": "noun",
+       "reading": "かいがい",
+       "romaji": "kaigai",
+       "gloss": "overseas, abroad",
+       "glossId": "luar negeri"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "penanda kepemilikan/pewatas"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/direction",
+       "glossId": "partikel penanda lokasi atau arah"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even / as many as",
+       "glossId": "juga, bahkan / sebanyak"
+      },
+      {
+       "surface": "人気",
+       "pos": "noun",
+       "reading": "にんき",
+       "romaji": "ninki",
+       "gloss": "popularity",
+       "glossId": "popularitas"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They are also popular with people overseas.",
+     "translationId": "Kerajinan ini juga populer di kalangan orang asing.",
+     "audioStart": 79.464,
+     "audioEnd": 82.464
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "これからも、この文化が続いてほしいと思います。",
+     "tokens": [
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore",
+       "gloss": "this",
+       "glossId": "ini"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from, since",
+       "glossId": "dari, sejak"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even / as many as",
+       "glossId": "juga, bahkan / sebanyak"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this (adnominal)",
+       "glossId": "ini (penunjuk)"
+      },
+      {
+       "surface": "文化",
+       "pos": "noun",
+       "reading": "ぶんか",
+       "romaji": "bunka",
+       "gloss": "culture",
+       "glossId": "budaya"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "続い",
+       "pos": "verb",
+       "reading": "つづい",
+       "romaji": "tsuzui",
+       "lemma": "続く",
+       "gloss": "to continue",
+       "glossId": "berlanjut, berlangsung"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk penghubung 'te'"
+      },
+      {
+       "surface": "ほしい",
+       "pos": "adjective",
+       "romaji": "hoshii",
+       "gloss": "want (something)",
+       "glossId": "ingin (sesuatu)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "quotation particle / 'with'",
+       "glossId": "partikel kutipan / 'dengan'"
+      },
+      {
+       "surface": "思い",
+       "pos": "verb",
+       "reading": "おもい",
+       "romaji": "omoi",
+       "lemma": "思う",
+       "gloss": "to think, to feel",
+       "glossId": "berpikir, merasa"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "I hope this culture will continue on from now.",
+     "translationId": "Saya berharap budaya ini akan terus berlanjut ke depannya.",
+     "audioStart": 82.464,
+     "audioEnd": 87.144
+    },
+    {
+     "text": "伝統工芸を見たり買ったりすることは、職人を応援することにもなります。",
+     "tokens": [
+      {
+       "surface": "伝統",
+       "pos": "noun",
+       "reading": "でんとう",
+       "romaji": "dentou",
+       "gloss": "tradition",
+       "glossId": "tradisi"
+      },
+      {
+       "surface": "工芸",
+       "pos": "noun",
+       "reading": "こうげい",
+       "romaji": "kougei",
+       "gloss": "craft, craftsmanship",
+       "glossId": "kerajinan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "見",
+       "pos": "verb",
+       "reading": "み",
+       "romaji": "mi",
+       "lemma": "見る",
+       "gloss": "to see, to look",
+       "glossId": "melihat"
+      },
+      {
+       "surface": "たり",
+       "pos": "particle",
+       "romaji": "tari",
+       "gloss": "particle listing representative actions",
+       "glossId": "partikel yang menyebutkan tindakan mewakili"
+      },
+      {
+       "surface": "買っ",
+       "pos": "verb",
+       "reading": "かっ",
+       "romaji": "kat",
+       "lemma": "買う",
+       "gloss": "to buy",
+       "glossId": "membeli"
+      },
+      {
+       "surface": "たり",
+       "pos": "particle",
+       "romaji": "tari",
+       "gloss": "particle listing representative actions",
+       "glossId": "partikel yang menyebutkan tindakan mewakili"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer, 'the act of'",
+       "glossId": "nominalisasi, 'hal melakukan'"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "職人",
+       "pos": "noun",
+       "reading": "しょくにん",
+       "romaji": "shokunin",
+       "gloss": "craftsman, artisan",
+       "glossId": "pengrajin"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "応援",
+       "pos": "noun",
+       "reading": "おうえん",
+       "romaji": "ouen",
+       "gloss": "support, cheering on",
+       "glossId": "dukungan"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer, 'the act of'",
+       "glossId": "nominalisasi, 'hal melakukan'"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/direction",
+       "glossId": "partikel penanda lokasi atau arah"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, even / as many as",
+       "glossId": "juga, bahkan / sebanyak"
+      },
+      {
+       "surface": "なり",
+       "pos": "verb",
+       "romaji": "nari",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Seeing and buying traditional crafts is also a way of supporting the craftsmen.",
+     "translationId": "Melihat dan membeli kerajinan tradisional juga berarti mendukung para pengrajin.",
+     "audioStart": 87.144,
+     "audioEnd": 93.792
+    },
+    {
+     "text": "次に旅行に行くとき、その土地の工芸品を探してみるのはどうでしょうか。",
+     "tokens": [
+      {
+       "surface": "次",
+       "pos": "noun",
+       "reading": "つぎ",
+       "romaji": "tsugi",
+       "gloss": "next",
+       "glossId": "berikutnya"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/direction",
+       "glossId": "partikel penanda lokasi atau arah"
+      },
+      {
+       "surface": "旅行",
+       "pos": "noun",
+       "reading": "りょこう",
+       "romaji": "ryokou",
+       "gloss": "travel, trip",
+       "glossId": "perjalanan, wisata"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/direction",
+       "glossId": "partikel penanda lokasi atau arah"
+      },
+      {
+       "surface": "行く",
+       "pos": "verb",
+       "reading": "いく",
+       "romaji": "iku",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "when, time",
+       "glossId": "saat, ketika"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that (adnominal)",
+       "glossId": "itu (penunjuk)"
+      },
+      {
+       "surface": "土地",
+       "pos": "noun",
+       "reading": "とち",
+       "romaji": "tochi",
+       "gloss": "land, place",
+       "glossId": "tanah, daerah"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "penanda kepemilikan/pewatas"
+      },
+      {
+       "surface": "工芸品",
+       "pos": "noun",
+       "reading": "こうげいひん",
+       "romaji": "kougeihin",
+       "gloss": "craft item, handicraft",
+       "glossId": "produk kerajinan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "探し",
+       "pos": "verb",
+       "reading": "さがし",
+       "romaji": "sagashi",
+       "lemma": "探す",
+       "gloss": "to search for",
+       "glossId": "mencari"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "te-form connector",
+       "glossId": "bentuk penghubung 'te'"
+      },
+      {
+       "surface": "みる",
+       "pos": "verb",
+       "romaji": "miru",
+       "gloss": "to try (doing)",
+       "glossId": "mencoba (melakukan)"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "penanda kepemilikan/pewatas"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "どう",
+       "pos": "adverb",
+       "romaji": "dou",
+       "gloss": "how",
+       "glossId": "bagaimana"
+      },
+      {
+       "surface": "でしょう",
+       "pos": "auxiliary",
+       "romaji": "deshou",
+       "lemma": "です",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka",
+       "gloss": "question marker",
+       "glossId": "penanda pertanyaan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "How about looking for local crafts the next time you travel?",
+     "translationId": "Bagaimana kalau, saat bepergian berikutnya, kamu mencoba mencari kerajinan khas daerah tersebut?",
+     "audioStart": 93.792,
+     "audioEnd": 100.152
+    }
+   ]
+  }
+ ],
+ "topic": "ぶんか・ぎょうじ",
+ "topicEn": "Culture & events",
+ "topicId": "Budaya & acara"
+}

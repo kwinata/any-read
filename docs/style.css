@@ -223,7 +223,7 @@ body {
 .gloss .gid { font-style: italic; opacity: 0.85; }
 
 /* Vocabulary page */
-/* Phone: slide-in drawer opened by the ☰ button */
+/* Phone: slide-in drawer opened by the menu button */
 .vnav {
   position: fixed;
   top: 0;
@@ -256,20 +256,29 @@ body {
   z-index: 29;
 }
 .vscrim.show { opacity: 1; pointer-events: auto; }
-.vcat { font-size: 16px; margin: 24px 0 4px; color: var(--accent); scroll-margin-top: calc(152px + env(safe-area-inset-top)); }
+.vcat {
+  display: flex; align-items: flex-start; gap: 12px;
+  font-size: 16px; margin: 24px 0 4px; color: var(--accent);
+  scroll-margin-top: calc(152px + env(safe-area-inset-top));
+}
+.vcat .vcat-text { flex: 1; min-width: 0; }
+.vcat .vcat-name { display: block; }
 .vcat .vcat-sub { display: block; font-size: 12.5px; font-weight: 400; color: var(--muted); margin-top: 1px; }
 .vshuffle {
-  float: right;
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
   border: 1px solid var(--border);
   background: var(--card);
+  color: var(--muted);
   border-radius: 999px;
-  font-size: 13px;
-  line-height: 1;
-  padding: 6px 9px;
   cursor: pointer;
-  opacity: 0.75;
+  padding: 0;
 }
-.vshuffle:hover { opacity: 1; border-color: var(--accent); }
+.vshuffle:hover { color: var(--accent); border-color: var(--accent); }
 .vsent.qa-q { border-bottom: none; padding-bottom: 4px; }
 .qapair { border-bottom: 1px solid var(--border); }
 .qapair .vsent { border-bottom: none; }
@@ -332,6 +341,7 @@ body {
 .vex { display: none; }
 .vitem.open .vex, .vitem.show-ex .vex { display: block; }
 .vtoggle {
+  display: inline-flex; align-items: center; justify-content: center;
   border: 1px solid var(--accent-soft);
   background: var(--accent-soft);
   color: var(--accent);
@@ -378,6 +388,16 @@ body {
   .lvl-n5 { color: #7fb6f5; }
   .lvl-n4 { color: #e0ac52; }
 }
+
+/* Inline SVG icons */
+.icon { display: block; flex-shrink: 0; }
+.tabs .tab .icon { display: inline-block; vertical-align: -2px; margin-right: 6px; }
+.mico { display: inline-flex; align-items: center; color: var(--muted); }
+.badge .icon { vertical-align: -2px; margin-right: 4px; }
+.vtoggle .icon:last-child { margin-left: 3px; transition: transform 0.2s; }
+.vtoggle.on .icon:last-child { transform: rotate(180deg); }
+.vmenu { display: inline-flex; align-items: center; justify-content: center; padding: 5px 8px; }
+.vsearch-ico { display: flex; align-items: center; }
 
 /* Top-level tabs */
 .tabs {

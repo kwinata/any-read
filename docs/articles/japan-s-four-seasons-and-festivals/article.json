@@ -1,0 +1,2222 @@
+{
+ "schemaVersion": 1,
+ "id": "japan-s-four-seasons-and-festivals",
+ "language": "ja",
+ "title": "日本の四季と祭り",
+ "titleTranslation": "Japan's Four Seasons and Festivals",
+ "titleTranslationId": "Empat Musim dan Festival di Jepang",
+ "level": "N4",
+ "summary": "This article introduces various Japanese festivals held throughout the four seasons and explains how each is connected to nature, culture, and local traditions.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T18:07:46+00:00",
+ "audioFile": "audio-60ef4cf7.mp3",
+ "voice": "de-DE-SeraphinaMultilingualNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "日本には、春から冬までいろいろな祭りがあります。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/time/target",
+       "glossId": "partikel penanda lokasi/waktu/tujuan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "春",
+       "pos": "noun",
+       "reading": "はる",
+       "romaji": "haru",
+       "gloss": "spring",
+       "glossId": "musim semi"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from (particle)",
+       "glossId": "dari (partikel)"
+      },
+      {
+       "surface": "冬",
+       "pos": "noun",
+       "reading": "ふゆ",
+       "romaji": "fuyu",
+       "gloss": "winter",
+       "glossId": "musim dingin"
+      },
+      {
+       "surface": "まで",
+       "pos": "particle",
+       "romaji": "made",
+       "gloss": "until, up to",
+       "glossId": "sampai"
+      },
+      {
+       "surface": "いろいろ",
+       "pos": "adjective",
+       "romaji": "iroiro",
+       "gloss": "various",
+       "glossId": "bermacam-macam"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "copula, is/are",
+       "glossId": "kopula, adalah"
+      },
+      {
+       "surface": "祭り",
+       "pos": "noun",
+       "reading": "まつり",
+       "romaji": "matsuri",
+       "gloss": "festival",
+       "glossId": "festival"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In Japan, there are various festivals from spring to winter.",
+     "translationId": "Di Jepang, ada berbagai festival dari musim semi hingga musim dingin.",
+     "audioStart": 0.0,
+     "audioEnd": 4.8
+    },
+    {
+     "text": "祭りは、その季節の自然や文化と関係があります。",
+     "tokens": [
+      {
+       "surface": "祭り",
+       "pos": "noun",
+       "reading": "まつり",
+       "romaji": "matsuri",
+       "gloss": "festival",
+       "glossId": "festival"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that (adjective)",
+       "glossId": "itu (kata sifat penunjuk)"
+      },
+      {
+       "surface": "季節",
+       "pos": "noun",
+       "reading": "きせつ",
+       "romaji": "kisetsu",
+       "gloss": "season",
+       "glossId": "musim"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle",
+       "glossId": "partikel kepemilikan/penghubung"
+      },
+      {
+       "surface": "自然",
+       "pos": "noun",
+       "reading": "しぜん",
+       "romaji": "shizen",
+       "gloss": "nature",
+       "glossId": "alam"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "文化",
+       "pos": "noun",
+       "reading": "ぶんか",
+       "romaji": "bunka",
+       "gloss": "culture",
+       "glossId": "budaya"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and, with (particle)",
+       "glossId": "dan, dengan (partikel)"
+      },
+      {
+       "surface": "関係",
+       "pos": "noun",
+       "reading": "かんけい",
+       "romaji": "kankei",
+       "gloss": "relation, connection",
+       "glossId": "hubungan, kaitan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Festivals are related to the nature and culture of that season.",
+     "translationId": "Festival berkaitan dengan alam dan budaya musim tersebut.",
+     "audioStart": 4.8,
+     "audioEnd": 10.056
+    },
+    {
+     "text": "多くの祭りには、長い歴史があります。",
+     "tokens": [
+      {
+       "surface": "多く",
+       "pos": "noun",
+       "reading": "おおく",
+       "romaji": "ooku",
+       "gloss": "many, a lot",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle",
+       "glossId": "partikel kepemilikan/penghubung"
+      },
+      {
+       "surface": "祭り",
+       "pos": "noun",
+       "reading": "まつり",
+       "romaji": "matsuri",
+       "gloss": "festival",
+       "glossId": "festival"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/time/target",
+       "glossId": "partikel penanda lokasi/waktu/tujuan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "長い",
+       "pos": "adjective",
+       "reading": "ながい",
+       "romaji": "nagai",
+       "gloss": "long",
+       "glossId": "panjang"
+      },
+      {
+       "surface": "歴史",
+       "pos": "noun",
+       "reading": "れきし",
+       "romaji": "rekishi",
+       "gloss": "history",
+       "glossId": "sejarah"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many festivals have a long history.",
+     "translationId": "Banyak festival memiliki sejarah yang panjang.",
+     "audioStart": 10.056,
+     "audioEnd": 13.872
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "春には、お花見をする人が多いです。",
+     "tokens": [
+      {
+       "surface": "春",
+       "pos": "noun",
+       "reading": "はる",
+       "romaji": "haru",
+       "gloss": "spring",
+       "glossId": "musim semi"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/time/target",
+       "glossId": "partikel penanda lokasi/waktu/tujuan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "花見",
+       "pos": "noun",
+       "reading": "はなみ",
+       "romaji": "hanami",
+       "gloss": "flower viewing",
+       "glossId": "melihat bunga sakura"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "多い",
+       "pos": "adjective",
+       "reading": "おおい",
+       "romaji": "ooi",
+       "gloss": "many, numerous",
+       "glossId": "banyak (jumlahnya)"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In spring, many people go flower viewing.",
+     "translationId": "Pada musim semi, banyak orang pergi melihat bunga sakura.",
+     "audioStart": 13.872,
+     "audioEnd": 17.688
+    },
+    {
+     "text": "桜の木の下で、家族や友達とお弁当を食べたり、お酒を飲んだりします。",
+     "tokens": [
+      {
+       "surface": "桜",
+       "pos": "noun",
+       "reading": "さくら",
+       "romaji": "sakura",
+       "gloss": "cherry blossom",
+       "glossId": "bunga sakura"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle",
+       "glossId": "partikel kepemilikan/penghubung"
+      },
+      {
+       "surface": "木",
+       "pos": "noun",
+       "reading": "き",
+       "romaji": "ki",
+       "gloss": "tree",
+       "glossId": "pohon"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle",
+       "glossId": "partikel kepemilikan/penghubung"
+      },
+      {
+       "surface": "下",
+       "pos": "noun",
+       "reading": "もと",
+       "romaji": "moto",
+       "gloss": "under, below",
+       "glossId": "bawah"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking place/means",
+       "glossId": "partikel penanda tempat/cara"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "家族",
+       "pos": "noun",
+       "reading": "かぞく",
+       "romaji": "kazoku",
+       "gloss": "family",
+       "glossId": "keluarga"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "友達",
+       "pos": "noun",
+       "reading": "ともだち",
+       "romaji": "tomodachi",
+       "gloss": "friend",
+       "glossId": "teman"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and, with (particle)",
+       "glossId": "dan, dengan (partikel)"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "弁当",
+       "pos": "noun",
+       "reading": "べんとう",
+       "romaji": "bentou",
+       "gloss": "boxed lunch",
+       "glossId": "bekal makan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる",
+       "gloss": "to eat",
+       "glossId": "makan"
+      },
+      {
+       "surface": "たり",
+       "pos": "particle",
+       "romaji": "tari",
+       "gloss": "listing action (do things like...)",
+       "glossId": "menyebutkan contoh kegiatan (melakukan hal seperti...)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "酒",
+       "pos": "noun",
+       "reading": "さけ",
+       "romaji": "sake",
+       "gloss": "alcohol, sake",
+       "glossId": "sake, minuman beralkohol"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "飲ん",
+       "pos": "verb",
+       "reading": "のん",
+       "romaji": "non",
+       "lemma": "飲む",
+       "gloss": "to drink",
+       "glossId": "minum"
+      },
+      {
+       "surface": "だり",
+       "pos": "particle",
+       "romaji": "dari",
+       "gloss": "listing action (voiced form of たり)",
+       "glossId": "menyebutkan contoh kegiatan (bentuk bersuara dari たり)"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Under the cherry blossom trees, they eat lunch boxes and drink alcohol with family and friends.",
+     "translationId": "Di bawah pohon sakura, mereka makan bekal dan minum sake bersama keluarga atau teman.",
+     "audioStart": 17.688,
+     "audioEnd": 24.84
+    },
+    {
+     "text": "夏には、花火大会や盆踊りがあります。",
+     "tokens": [
+      {
+       "surface": "夏",
+       "pos": "noun",
+       "reading": "なつ",
+       "romaji": "natsu",
+       "gloss": "summer",
+       "glossId": "musim panas"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/time/target",
+       "glossId": "partikel penanda lokasi/waktu/tujuan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "花火",
+       "pos": "noun",
+       "reading": "はなび",
+       "romaji": "hanabi",
+       "gloss": "fireworks",
+       "glossId": "kembang api"
+      },
+      {
+       "surface": "大会",
+       "pos": "noun",
+       "reading": "たいかい",
+       "romaji": "taikai",
+       "gloss": "tournament, event",
+       "glossId": "turnamen, acara besar"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "盆踊り",
+       "pos": "noun",
+       "reading": "ぼんおどり",
+       "romaji": "bon'odori",
+       "gloss": "Bon dance festival",
+       "glossId": "festival tari Bon"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In summer, there are fireworks displays and Bon dance festivals.",
+     "translationId": "Pada musim panas, ada pertunjukan kembang api dan festival tari Bon.",
+     "audioStart": 24.84,
+     "audioEnd": 29.184
+    },
+    {
+     "text": "夜、浴衣を着て、花火を見るのはとても楽しいです。",
+     "tokens": [
+      {
+       "surface": "夜",
+       "pos": "noun",
+       "reading": "よる",
+       "romaji": "yoru",
+       "gloss": "night",
+       "glossId": "malam"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "浴衣",
+       "pos": "noun",
+       "reading": "ゆかた",
+       "romaji": "yukata",
+       "gloss": "summer cotton kimono",
+       "glossId": "yukata, kimono musim panas"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "着",
+       "pos": "verb",
+       "reading": "き",
+       "romaji": "ki",
+       "lemma": "着る",
+       "gloss": "to wear",
+       "glossId": "memakai (pakaian)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)",
+       "glossId": "partikel penghubung (bentuk te)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "花火",
+       "pos": "noun",
+       "reading": "はなび",
+       "romaji": "hanabi",
+       "gloss": "fireworks",
+       "glossId": "kembang api"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "見る",
+       "pos": "verb",
+       "reading": "みる",
+       "romaji": "miru",
+       "gloss": "to see, watch",
+       "glossId": "melihat, menonton"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle",
+       "glossId": "partikel kepemilikan/penghubung"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo",
+       "gloss": "very",
+       "glossId": "sangat"
+      },
+      {
+       "surface": "楽しい",
+       "pos": "adjective",
+       "reading": "たのしい",
+       "romaji": "tanoshii",
+       "gloss": "fun, enjoyable",
+       "glossId": "menyenangkan"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Wearing a yukata at night and watching fireworks is a lot of fun.",
+     "translationId": "Memakai yukata di malam hari dan menonton kembang api sangat menyenangkan.",
+     "audioStart": 29.184,
+     "audioEnd": 34.32
+    },
+    {
+     "text": "盆踊りでは、みんなで一緒に踊ります。",
+     "tokens": [
+      {
+       "surface": "盆踊り",
+       "pos": "noun",
+       "reading": "ぼんおどり",
+       "romaji": "bon'odori",
+       "gloss": "Bon dance festival",
+       "glossId": "festival tari Bon"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking place/means",
+       "glossId": "partikel penanda tempat/cara"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "みんな",
+       "pos": "noun",
+       "romaji": "minna",
+       "gloss": "everyone",
+       "glossId": "semua orang"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking place/means",
+       "glossId": "partikel penanda tempat/cara"
+      },
+      {
+       "surface": "一緒",
+       "pos": "noun",
+       "reading": "いっしょ",
+       "romaji": "issho",
+       "gloss": "together",
+       "glossId": "bersama-sama"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/time/target",
+       "glossId": "partikel penanda lokasi/waktu/tujuan"
+      },
+      {
+       "surface": "踊り",
+       "pos": "verb",
+       "reading": "おどり",
+       "romaji": "odori",
+       "lemma": "踊る",
+       "gloss": "to dance",
+       "glossId": "menari"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "At Bon dance festivals, everyone dances together.",
+     "translationId": "Pada festival tari Bon, semua orang menari bersama-sama.",
+     "audioStart": 34.32,
+     "audioEnd": 38.112
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "秋には、収穫を祝う祭りがあります。",
+     "tokens": [
+      {
+       "surface": "秋",
+       "pos": "noun",
+       "reading": "あき",
+       "romaji": "aki",
+       "gloss": "autumn",
+       "glossId": "musim gugur"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/time/target",
+       "glossId": "partikel penanda lokasi/waktu/tujuan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "収穫",
+       "pos": "noun",
+       "reading": "しゅうかく",
+       "romaji": "shuukaku",
+       "gloss": "harvest",
+       "glossId": "panen"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "祝う",
+       "pos": "verb",
+       "reading": "いわう",
+       "romaji": "iwau",
+       "gloss": "to celebrate",
+       "glossId": "merayakan"
+      },
+      {
+       "surface": "祭り",
+       "pos": "noun",
+       "reading": "まつり",
+       "romaji": "matsuri",
+       "gloss": "festival",
+       "glossId": "festival"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In autumn, there are festivals that celebrate the harvest.",
+     "translationId": "Pada musim gugur, ada festival untuk merayakan panen.",
+     "audioStart": 38.112,
+     "audioEnd": 42.096
+    },
+    {
+     "text": "地域の神社で、お米や野菜の収穫に感謝します。",
+     "tokens": [
+      {
+       "surface": "地域",
+       "pos": "noun",
+       "reading": "ちいき",
+       "romaji": "chiiki",
+       "gloss": "region, area",
+       "glossId": "wilayah, daerah"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle",
+       "glossId": "partikel kepemilikan/penghubung"
+      },
+      {
+       "surface": "神社",
+       "pos": "noun",
+       "reading": "じんじゃ",
+       "romaji": "jinja",
+       "gloss": "Shinto shrine",
+       "glossId": "kuil Shinto"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking place/means",
+       "glossId": "partikel penanda tempat/cara"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "米",
+       "pos": "noun",
+       "reading": "こめ",
+       "romaji": "kome",
+       "gloss": "rice",
+       "glossId": "beras/padi"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "野菜",
+       "pos": "noun",
+       "reading": "やさい",
+       "romaji": "yasai",
+       "gloss": "vegetable",
+       "glossId": "sayuran"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle",
+       "glossId": "partikel kepemilikan/penghubung"
+      },
+      {
+       "surface": "収穫",
+       "pos": "noun",
+       "reading": "しゅうかく",
+       "romaji": "shuukaku",
+       "gloss": "harvest",
+       "glossId": "panen"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/time/target",
+       "glossId": "partikel penanda lokasi/waktu/tujuan"
+      },
+      {
+       "surface": "感謝",
+       "pos": "noun",
+       "reading": "かんしゃ",
+       "romaji": "kansha",
+       "gloss": "gratitude, thanks",
+       "glossId": "rasa syukur, terima kasih"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "At local shrines, people give thanks for the harvest of rice and vegetables.",
+     "translationId": "Di kuil Shinto setempat, orang-orang bersyukur atas panen padi dan sayuran.",
+     "audioStart": 42.096,
+     "audioEnd": 47.208
+    },
+    {
+     "text": "神輿を担いで、町を歩くこともあります。",
+     "tokens": [
+      {
+       "surface": "神輿",
+       "pos": "noun",
+       "reading": "みこし",
+       "romaji": "mikoshi",
+       "gloss": "portable shrine",
+       "glossId": "mikoshi, kuil portabel"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "担い",
+       "pos": "verb",
+       "reading": "かつい",
+       "romaji": "katsui",
+       "lemma": "担ぐ",
+       "gloss": "to carry (on shoulders)",
+       "glossId": "memikul, mengusung"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking place/means",
+       "glossId": "partikel penanda tempat/cara"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "町",
+       "pos": "noun",
+       "reading": "まち",
+       "romaji": "machi",
+       "gloss": "town",
+       "glossId": "kota"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "歩く",
+       "pos": "verb",
+       "reading": "あるく",
+       "romaji": "aruku",
+       "gloss": "to walk",
+       "glossId": "berjalan"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer (the fact/act of)",
+       "glossId": "penominal (hal/perbuatan)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Sometimes people carry a portable shrine and walk through the town.",
+     "translationId": "Kadang-kadang mereka mengusung mikoshi (kuil portabel) dan berjalan mengelilingi kota.",
+     "audioStart": 47.208,
+     "audioEnd": 51.336
+    },
+    {
+     "text": "太鼓の音が聞こえると、祭りの雰囲気を強く感じます。",
+     "tokens": [
+      {
+       "surface": "太鼓",
+       "pos": "noun",
+       "reading": "たいこ",
+       "romaji": "taiko",
+       "gloss": "taiko drum",
+       "glossId": "genderang taiko"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle",
+       "glossId": "partikel kepemilikan/penghubung"
+      },
+      {
+       "surface": "音",
+       "pos": "noun",
+       "reading": "おと",
+       "romaji": "oto",
+       "gloss": "sound",
+       "glossId": "suara"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "聞こえる",
+       "pos": "verb",
+       "reading": "きこえる",
+       "romaji": "kikoeru",
+       "gloss": "to be audible, to hear",
+       "glossId": "terdengar"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and, with (particle)",
+       "glossId": "dan, dengan (partikel)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "祭り",
+       "pos": "noun",
+       "reading": "まつり",
+       "romaji": "matsuri",
+       "gloss": "festival",
+       "glossId": "festival"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle",
+       "glossId": "partikel kepemilikan/penghubung"
+      },
+      {
+       "surface": "雰囲気",
+       "pos": "noun",
+       "reading": "ふんいき",
+       "romaji": "fun'iki",
+       "gloss": "atmosphere",
+       "glossId": "suasana"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "強く",
+       "pos": "adjective",
+       "reading": "つよく",
+       "romaji": "tsuyoku",
+       "lemma": "強い",
+       "gloss": "strong",
+       "glossId": "kuat"
+      },
+      {
+       "surface": "感じ",
+       "pos": "verb",
+       "reading": "かんじ",
+       "romaji": "kanji",
+       "lemma": "感ずる",
+       "gloss": "to feel, sense",
+       "glossId": "merasakan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When you hear the sound of taiko drums, you strongly feel the festival atmosphere.",
+     "translationId": "Ketika mendengar suara genderang taiko, suasana festival terasa sangat kuat.",
+     "audioStart": 51.336,
+     "audioEnd": 56.664
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "冬には、新年を迎えるための行事がたくさんあります。",
+     "tokens": [
+      {
+       "surface": "冬",
+       "pos": "noun",
+       "reading": "ふゆ",
+       "romaji": "fuyu",
+       "gloss": "winter",
+       "glossId": "musim dingin"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/time/target",
+       "glossId": "partikel penanda lokasi/waktu/tujuan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "新年",
+       "pos": "noun",
+       "reading": "しんねん",
+       "romaji": "shinnen",
+       "gloss": "new year",
+       "glossId": "tahun baru"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "迎える",
+       "pos": "verb",
+       "reading": "むかえる",
+       "romaji": "mukaeru",
+       "gloss": "to welcome",
+       "glossId": "menyambut"
+      },
+      {
+       "surface": "ため",
+       "pos": "noun",
+       "romaji": "tame",
+       "gloss": "for the purpose of",
+       "glossId": "untuk tujuan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle",
+       "glossId": "partikel kepemilikan/penghubung"
+      },
+      {
+       "surface": "行事",
+       "pos": "noun",
+       "reading": "ぎょうじ",
+       "romaji": "gyouji",
+       "gloss": "event, function",
+       "glossId": "acara, kegiatan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In winter, there are many events for welcoming the new year.",
+     "translationId": "Pada musim dingin, ada banyak acara untuk menyambut tahun baru.",
+     "audioStart": 56.664,
+     "audioEnd": 61.872
+    },
+    {
+     "text": "多くの人が神社やお寺に行って、初詣をします。",
+     "tokens": [
+      {
+       "surface": "多く",
+       "pos": "noun",
+       "reading": "おおく",
+       "romaji": "ooku",
+       "gloss": "many, a lot",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle",
+       "glossId": "partikel kepemilikan/penghubung"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "神社",
+       "pos": "noun",
+       "reading": "じんじゃ",
+       "romaji": "jinja",
+       "gloss": "Shinto shrine",
+       "glossId": "kuil Shinto"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive list)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "寺",
+       "pos": "noun",
+       "reading": "てら",
+       "romaji": "tera",
+       "gloss": "temple",
+       "glossId": "kuil Buddha"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/time/target",
+       "glossId": "partikel penanda lokasi/waktu/tujuan"
+      },
+      {
+       "surface": "行っ",
+       "pos": "verb",
+       "reading": "いっ",
+       "romaji": "it",
+       "lemma": "行く",
+       "gloss": "to go",
+       "glossId": "pergi"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)",
+       "glossId": "partikel penghubung (bentuk te)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "初詣",
+       "pos": "noun",
+       "reading": "はつもうで",
+       "romaji": "hatsumoude",
+       "gloss": "first shrine/temple visit of the year",
+       "glossId": "kunjungan pertama ke kuil di tahun baru"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many people go to shrines or temples and make their first visit of the year.",
+     "translationId": "Banyak orang pergi ke kuil Shinto atau kuil Buddha untuk melakukan kunjungan pertama tahun itu (hatsumode).",
+     "audioStart": 61.872,
+     "audioEnd": 66.768
+    },
+    {
+     "text": "新しい年の健康と幸せをお願いします。",
+     "tokens": [
+      {
+       "surface": "新しい",
+       "pos": "adjective",
+       "reading": "あたらしい",
+       "romaji": "atarashii",
+       "gloss": "new",
+       "glossId": "baru"
+      },
+      {
+       "surface": "年",
+       "pos": "noun",
+       "reading": "とし",
+       "romaji": "toshi",
+       "gloss": "year",
+       "glossId": "tahun"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle",
+       "glossId": "partikel kepemilikan/penghubung"
+      },
+      {
+       "surface": "健康",
+       "pos": "noun",
+       "reading": "けんこう",
+       "romaji": "kenkou",
+       "gloss": "health",
+       "glossId": "kesehatan"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and, with (particle)",
+       "glossId": "dan, dengan (partikel)"
+      },
+      {
+       "surface": "幸せ",
+       "pos": "noun",
+       "reading": "しあわせ",
+       "romaji": "shiawase",
+       "gloss": "happiness",
+       "glossId": "kebahagiaan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "awalan penghormatan"
+      },
+      {
+       "surface": "願い",
+       "pos": "verb",
+       "reading": "ねがい",
+       "romaji": "negai",
+       "lemma": "願う",
+       "gloss": "to wish, pray for",
+       "glossId": "berdoa, berharap"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "They pray for health and happiness in the new year.",
+     "translationId": "Mereka berdoa untuk kesehatan dan kebahagiaan di tahun baru.",
+     "audioStart": 66.768,
+     "audioEnd": 71.064
+    },
+    {
+     "text": "他にも、雪祭りなど、冬らしい祭りもあります。",
+     "tokens": [
+      {
+       "surface": "他",
+       "pos": "noun",
+       "reading": "ほか",
+       "romaji": "hoka",
+       "gloss": "other",
+       "glossId": "lainnya"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/time/target",
+       "glossId": "partikel penanda lokasi/waktu/tujuan"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "雪祭り",
+       "pos": "noun",
+       "reading": "ゆきまつり",
+       "romaji": "yukimatsuri",
+       "gloss": "snow festival",
+       "glossId": "festival salju"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "et cetera, and so on",
+       "glossId": "dan lain-lain"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "冬",
+       "pos": "noun",
+       "reading": "ふゆ",
+       "romaji": "fuyu",
+       "gloss": "winter",
+       "glossId": "musim dingin"
+      },
+      {
+       "surface": "らしい",
+       "pos": "suffix",
+       "romaji": "rashii",
+       "gloss": "seeming like, typical of",
+       "glossId": "khas, seperti layaknya"
+      },
+      {
+       "surface": "祭り",
+       "pos": "noun",
+       "reading": "まつり",
+       "romaji": "matsuri",
+       "gloss": "festival",
+       "glossId": "festival"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "There are also other winter-like festivals, such as snow festivals.",
+     "translationId": "Selain itu, ada juga festival khas musim dingin lainnya, seperti festival salju.",
+     "audioStart": 71.064,
+     "audioEnd": 76.104
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "このように、日本の祭りは季節ごとに違う特徴があります。",
+     "tokens": [
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono",
+       "gloss": "this (adjective)",
+       "glossId": "ini (kata sifat penunjuk)"
+      },
+      {
+       "surface": "よう",
+       "pos": "adjective",
+       "romaji": "you",
+       "gloss": "way, manner (as in 'this way')",
+       "glossId": "cara, model (seperti dalam 'dengan cara ini')"
+      },
+      {
+       "surface": "に",
+       "pos": "auxiliary",
+       "romaji": "ni",
+       "lemma": "だ",
+       "gloss": "copula, is/are",
+       "glossId": "kopula, adalah"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle",
+       "glossId": "partikel kepemilikan/penghubung"
+      },
+      {
+       "surface": "祭り",
+       "pos": "noun",
+       "reading": "まつり",
+       "romaji": "matsuri",
+       "gloss": "festival",
+       "glossId": "festival"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "季節",
+       "pos": "noun",
+       "reading": "きせつ",
+       "romaji": "kisetsu",
+       "gloss": "season",
+       "glossId": "musim"
+      },
+      {
+       "surface": "ごと",
+       "pos": "suffix",
+       "romaji": "goto",
+       "gloss": "each, every (suffix)",
+       "glossId": "setiap (akhiran)"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/time/target",
+       "glossId": "partikel penanda lokasi/waktu/tujuan"
+      },
+      {
+       "surface": "違う",
+       "pos": "verb",
+       "reading": "ちがう",
+       "romaji": "chigau",
+       "gloss": "to differ, be different",
+       "glossId": "berbeda"
+      },
+      {
+       "surface": "特徴",
+       "pos": "noun",
+       "reading": "とくちょう",
+       "romaji": "tokuchou",
+       "gloss": "characteristic, feature",
+       "glossId": "ciri khas, karakteristik"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (untuk benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In this way, Japanese festivals have different characteristics depending on the season.",
+     "translationId": "Dengan demikian, festival-festival Jepang memiliki ciri khas yang berbeda tiap musimnya.",
+     "audioStart": 76.104,
+     "audioEnd": 81.84
+    },
+    {
+     "text": "祭りに参加すると、その土地の文化をもっとよく理解できます。",
+     "tokens": [
+      {
+       "surface": "祭り",
+       "pos": "noun",
+       "reading": "まつり",
+       "romaji": "matsuri",
+       "gloss": "festival",
+       "glossId": "festival"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/time/target",
+       "glossId": "partikel penanda lokasi/waktu/tujuan"
+      },
+      {
+       "surface": "参加",
+       "pos": "noun",
+       "reading": "さんか",
+       "romaji": "sanka",
+       "gloss": "participation",
+       "glossId": "partisipasi"
+      },
+      {
+       "surface": "する",
+       "pos": "verb",
+       "romaji": "suru",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and, with (particle)",
+       "glossId": "dan, dengan (partikel)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that (adjective)",
+       "glossId": "itu (kata sifat penunjuk)"
+      },
+      {
+       "surface": "土地",
+       "pos": "noun",
+       "reading": "とち",
+       "romaji": "tochi",
+       "gloss": "land, local area",
+       "glossId": "tanah, daerah setempat"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle",
+       "glossId": "partikel kepemilikan/penghubung"
+      },
+      {
+       "surface": "文化",
+       "pos": "noun",
+       "reading": "ぶんか",
+       "romaji": "bunka",
+       "gloss": "culture",
+       "glossId": "budaya"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "もっと",
+       "pos": "adverb",
+       "romaji": "motto",
+       "gloss": "more",
+       "glossId": "lebih"
+      },
+      {
+       "surface": "よく",
+       "pos": "adverb",
+       "romaji": "yoku",
+       "gloss": "well",
+       "glossId": "dengan baik"
+      },
+      {
+       "surface": "理解",
+       "pos": "noun",
+       "reading": "りかい",
+       "romaji": "rikai",
+       "gloss": "understanding",
+       "glossId": "pemahaman"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to, can",
+       "glossId": "bisa, mampu"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja bentuk sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If you take part in a festival, you can understand the local culture even better.",
+     "translationId": "Jika mengikuti sebuah festival, Anda bisa lebih memahami budaya daerah tersebut.",
+     "audioStart": 81.84,
+     "audioEnd": 87.6
+    },
+    {
+     "text": "旅行で日本に来るときは、その季節の祭りを調べてみるといいでしょう。",
+     "tokens": [
+      {
+       "surface": "旅行",
+       "pos": "noun",
+       "reading": "りょこう",
+       "romaji": "ryokou",
+       "gloss": "travel, trip",
+       "glossId": "perjalanan, wisata"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "particle marking place/means",
+       "glossId": "partikel penanda tempat/cara"
+      },
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "particle marking location/time/target",
+       "glossId": "partikel penanda lokasi/waktu/tujuan"
+      },
+      {
+       "surface": "来る",
+       "pos": "verb",
+       "reading": "くる",
+       "romaji": "kuru",
+       "gloss": "to come",
+       "glossId": "datang"
+      },
+      {
+       "surface": "とき",
+       "pos": "noun",
+       "romaji": "toki",
+       "gloss": "time, when",
+       "glossId": "waktu, saat"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that (adjective)",
+       "glossId": "itu (kata sifat penunjuk)"
+      },
+      {
+       "surface": "季節",
+       "pos": "noun",
+       "reading": "きせつ",
+       "romaji": "kisetsu",
+       "gloss": "season",
+       "glossId": "musim"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/connecting particle",
+       "glossId": "partikel kepemilikan/penghubung"
+      },
+      {
+       "surface": "祭り",
+       "pos": "noun",
+       "reading": "まつり",
+       "romaji": "matsuri",
+       "gloss": "festival",
+       "glossId": "festival"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "調べ",
+       "pos": "verb",
+       "reading": "しらべ",
+       "romaji": "shirabe",
+       "lemma": "調べる",
+       "gloss": "to look into, research",
+       "glossId": "meneliti, mencari tahu"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)",
+       "glossId": "partikel penghubung (bentuk te)"
+      },
+      {
+       "surface": "みる",
+       "pos": "verb",
+       "romaji": "miru",
+       "gloss": "to try (doing something, auxiliary)",
+       "glossId": "mencoba (melakukan sesuatu, kata bantu)"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "and, with (particle)",
+       "glossId": "dan, dengan (partikel)"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii",
+       "gloss": "good",
+       "glossId": "bagus"
+      },
+      {
+       "surface": "でしょう",
+       "pos": "auxiliary",
+       "romaji": "deshou",
+       "lemma": "です",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "When you come to Japan to travel, it's a good idea to look into the festivals of that season.",
+     "translationId": "Saat berwisata ke Jepang, sebaiknya Anda mencari tahu tentang festival musim itu terlebih dahulu.",
+     "audioStart": 87.6,
+     "audioEnd": 93.816
+    }
+   ]
+  }
+ ],
+ "topic": "ぶんか・ぎょうじ",
+ "topicEn": "Culture & events",
+ "topicId": "Budaya & acara"
+}

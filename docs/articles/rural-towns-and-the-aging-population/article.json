@@ -1,0 +1,2261 @@
+{
+ "schemaVersion": 1,
+ "id": "rural-towns-and-the-aging-population",
+ "language": "ja",
+ "title": "地方の町と高齢化",
+ "titleTranslation": "Rural Towns and the Aging Population",
+ "titleTranslationId": "Kota-Kota di Daerah dan Penuaan Populasi",
+ "level": "N3",
+ "summary": "The article describes how Japan's rural towns are losing young people and aging rapidly, but also highlights the natural beauty, community ties, and new efforts drawing some people back to the countryside.",
+ "sourceUrl": null,
+ "createdAt": "2026-08-25T18:13:48+00:00",
+ "audioFile": "audio-684c5f91.mp3",
+ "voice": "fr-FR-VivienneMultilingualNeural",
+ "generated": true,
+ "paragraphs": [
+  {
+   "sentences": [
+    {
+     "text": "日本では、高齢者の人口が増えています。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon",
+       "gloss": "Japan",
+       "glossId": "Jepang"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker",
+       "glossId": "penanda tempat/sarana"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "高齢者",
+       "pos": "noun",
+       "reading": "こうれいしゃ",
+       "romaji": "koureisha",
+       "gloss": "elderly person",
+       "glossId": "lansia"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "人口",
+       "pos": "noun",
+       "reading": "じんこう",
+       "romaji": "jinkou",
+       "gloss": "population",
+       "glossId": "populasi"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "増え",
+       "pos": "verb",
+       "reading": "ふえ",
+       "romaji": "fue",
+       "lemma": "増える",
+       "gloss": "to increase",
+       "glossId": "bertambah"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)",
+       "glossId": "partikel penghubung (bentuk te)"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be (progressive/state)",
+       "glossId": "sedang/dalam keadaan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "In Japan, the elderly population is increasing.",
+     "translationId": "Di Jepang, populasi lansia terus meningkat.",
+     "audioStart": 0.0,
+     "audioEnd": 3.816
+    },
+    {
+     "text": "特に地方の町では、若い人が少なくなっています。",
+     "tokens": [
+      {
+       "surface": "特に",
+       "pos": "adverb",
+       "reading": "とくに",
+       "romaji": "tokuni",
+       "gloss": "especially",
+       "glossId": "terutama"
+      },
+      {
+       "surface": "地方",
+       "pos": "noun",
+       "reading": "ちほう",
+       "romaji": "chihou",
+       "gloss": "region, rural area",
+       "glossId": "daerah, wilayah"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "町",
+       "pos": "noun",
+       "reading": "まち",
+       "romaji": "machi",
+       "gloss": "town",
+       "glossId": "kota kecil"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker",
+       "glossId": "penanda tempat/sarana"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "若い",
+       "pos": "adjective",
+       "reading": "わかい",
+       "romaji": "wakai",
+       "gloss": "young",
+       "glossId": "muda"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "少なく",
+       "pos": "adjective",
+       "reading": "すくなく",
+       "romaji": "sukunaku",
+       "lemma": "少ない",
+       "gloss": "few, little",
+       "glossId": "sedikit"
+      },
+      {
+       "surface": "なっ",
+       "pos": "verb",
+       "romaji": "natsu",
+       "lemma": "なる",
+       "gloss": "to become",
+       "glossId": "menjadi"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)",
+       "glossId": "partikel penghubung (bentuk te)"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be (progressive/state)",
+       "glossId": "sedang/dalam keadaan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Especially in rural towns, there are fewer young people.",
+     "translationId": "Terutama di kota-kota daerah, jumlah anak muda semakin sedikit.",
+     "audioStart": 3.816,
+     "audioEnd": 8.184
+    },
+    {
+     "text": "多くの若者は、仕事を探して都市に引っ越します。",
+     "tokens": [
+      {
+       "surface": "多く",
+       "pos": "noun",
+       "reading": "おおく",
+       "romaji": "ooku",
+       "gloss": "many, a lot",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "若者",
+       "pos": "noun",
+       "reading": "わかもの",
+       "romaji": "wakamono",
+       "gloss": "young person",
+       "glossId": "anak muda"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "仕事",
+       "pos": "noun",
+       "reading": "しごと",
+       "romaji": "shigoto",
+       "gloss": "work, job",
+       "glossId": "pekerjaan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "探し",
+       "pos": "verb",
+       "reading": "さがし",
+       "romaji": "sagashi",
+       "lemma": "探す",
+       "gloss": "to search for",
+       "glossId": "mencari"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)",
+       "glossId": "partikel penghubung (bentuk te)"
+      },
+      {
+       "surface": "都市",
+       "pos": "noun",
+       "reading": "とし",
+       "romaji": "toshi",
+       "gloss": "city",
+       "glossId": "kota besar"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "direction/target marker",
+       "glossId": "penanda arah/tujuan"
+      },
+      {
+       "surface": "引っ越し",
+       "pos": "verb",
+       "reading": "ひっこし",
+       "romaji": "hikkoshi",
+       "lemma": "引っ越す",
+       "gloss": "to move (residence)",
+       "glossId": "pindah rumah"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Many young people move to cities to look for work.",
+     "translationId": "Banyak anak muda pindah ke kota besar untuk mencari pekerjaan.",
+     "audioStart": 8.184,
+     "audioEnd": 12.672
+    },
+    {
+     "text": "その結果、地方には高齢者だけが残ることが多いです。",
+     "tokens": [
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that",
+       "glossId": "itu"
+      },
+      {
+       "surface": "結果",
+       "pos": "noun",
+       "reading": "けっか",
+       "romaji": "kekka",
+       "gloss": "result",
+       "glossId": "hasil"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "地方",
+       "pos": "noun",
+       "reading": "ちほう",
+       "romaji": "chihou",
+       "gloss": "region, rural area",
+       "glossId": "daerah, wilayah"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "direction/target marker",
+       "glossId": "penanda arah/tujuan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "高齢者",
+       "pos": "noun",
+       "reading": "こうれいしゃ",
+       "romaji": "koureisha",
+       "gloss": "elderly person",
+       "glossId": "lansia"
+      },
+      {
+       "surface": "だけ",
+       "pos": "particle",
+       "romaji": "dake",
+       "gloss": "only",
+       "glossId": "hanya"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "残る",
+       "pos": "verb",
+       "reading": "のこる",
+       "romaji": "nokoru",
+       "gloss": "to remain",
+       "glossId": "tersisa, tertinggal"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer (thing/fact)",
+       "glossId": "penanda nominalisasi (hal)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "多い",
+       "pos": "adjective",
+       "reading": "おおい",
+       "romaji": "ooi",
+       "gloss": "many, numerous",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "As a result, often only elderly people remain in rural areas.",
+     "translationId": "Akibatnya, di daerah sering kali hanya tersisa para lansia.",
+     "audioStart": 12.672,
+     "audioEnd": 17.616
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "地方の町を歩くと、閉まったままの店をよく見ます。",
+     "tokens": [
+      {
+       "surface": "地方",
+       "pos": "noun",
+       "reading": "ちほう",
+       "romaji": "chihou",
+       "gloss": "region, rural area",
+       "glossId": "daerah, wilayah"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "町",
+       "pos": "noun",
+       "reading": "まち",
+       "romaji": "machi",
+       "gloss": "town",
+       "glossId": "kota kecil"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "歩く",
+       "pos": "verb",
+       "reading": "あるく",
+       "romaji": "aruku",
+       "gloss": "to walk",
+       "glossId": "berjalan"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "conditional/quotative particle",
+       "glossId": "partikel kondisional/kutipan"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "閉まっ",
+       "pos": "verb",
+       "reading": "しまっ",
+       "romaji": "shimat",
+       "lemma": "閉まる",
+       "gloss": "to be closed",
+       "glossId": "tertutup"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "まま",
+       "pos": "noun",
+       "romaji": "mama",
+       "gloss": "as is, remaining (state)",
+       "glossId": "tetap dalam keadaan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "店",
+       "pos": "noun",
+       "reading": "みせ",
+       "romaji": "mise",
+       "gloss": "shop",
+       "glossId": "toko"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "よく",
+       "pos": "adverb",
+       "romaji": "yoku",
+       "gloss": "often",
+       "glossId": "sering"
+      },
+      {
+       "surface": "見",
+       "pos": "verb",
+       "reading": "み",
+       "romaji": "mi",
+       "lemma": "見る",
+       "gloss": "to see",
+       "glossId": "melihat"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "If you walk through a rural town, you often see shops that stay closed.",
+     "translationId": "Jika berjalan-jalan di kota daerah, kita sering melihat toko-toko yang tetap tutup.",
+     "audioStart": 17.616,
+     "audioEnd": 22.056
+    },
+    {
+     "text": "昔は学校や病院があった場所も、今は使われていません。",
+     "tokens": [
+      {
+       "surface": "昔",
+       "pos": "noun",
+       "reading": "むかし",
+       "romaji": "mukashi",
+       "gloss": "long ago, in the past",
+       "glossId": "dahulu"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "学校",
+       "pos": "noun",
+       "reading": "がっこう",
+       "romaji": "gakkou",
+       "gloss": "school",
+       "glossId": "sekolah"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "病院",
+       "pos": "noun",
+       "reading": "びょういん",
+       "romaji": "byouin",
+       "gloss": "hospital",
+       "glossId": "rumah sakit"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "あっ",
+       "pos": "verb",
+       "romaji": "atsu",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (benda mati)"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "場所",
+       "pos": "noun",
+       "reading": "ばしょ",
+       "romaji": "basho",
+       "gloss": "place",
+       "glossId": "tempat"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "今",
+       "pos": "noun",
+       "reading": "いま",
+       "romaji": "ima",
+       "gloss": "now",
+       "glossId": "sekarang"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "使わ",
+       "pos": "verb",
+       "reading": "つかわ",
+       "romaji": "tsukawa",
+       "lemma": "使う",
+       "gloss": "to use",
+       "glossId": "menggunakan"
+      },
+      {
+       "surface": "れ",
+       "pos": "auxiliary",
+       "romaji": "re",
+       "lemma": "れる",
+       "gloss": "passive auxiliary",
+       "glossId": "penanda pasif"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)",
+       "glossId": "partikel penghubung (bentuk te)"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be (progressive/state)",
+       "glossId": "sedang/dalam keadaan"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (classical/literary)",
+       "glossId": "penanda negatif (bentuk klasik/sastra)"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Places that used to have schools or hospitals are no longer in use.",
+     "translationId": "Tempat yang dulunya ada sekolah atau rumah sakit kini tidak lagi digunakan.",
+     "audioStart": 22.056,
+     "audioEnd": 26.856
+    },
+    {
+     "text": "バスの本数も減っていて、車を運転できない高齢者にとって、買い物や通院が大変です。",
+     "tokens": [
+      {
+       "surface": "バス",
+       "pos": "noun",
+       "romaji": "basu",
+       "gloss": "bus",
+       "glossId": "bus"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "本数",
+       "pos": "noun",
+       "reading": "ほんすう",
+       "romaji": "honsuu",
+       "gloss": "number (of buses/trains)",
+       "glossId": "jumlah (bus/kereta)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "減っ",
+       "pos": "verb",
+       "reading": "へっ",
+       "romaji": "het",
+       "lemma": "減る",
+       "gloss": "to decrease",
+       "glossId": "berkurang"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)",
+       "glossId": "partikel penghubung (bentuk te)"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be (progressive/state)",
+       "glossId": "sedang/dalam keadaan"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)",
+       "glossId": "partikel penghubung (bentuk te)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "車",
+       "pos": "noun",
+       "reading": "くるま",
+       "romaji": "kuruma",
+       "gloss": "car",
+       "glossId": "mobil"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "運転",
+       "pos": "noun",
+       "reading": "うんてん",
+       "romaji": "unten",
+       "gloss": "driving",
+       "glossId": "mengemudi"
+      },
+      {
+       "surface": "でき",
+       "pos": "verb",
+       "romaji": "deki",
+       "lemma": "できる",
+       "gloss": "to be able to do",
+       "glossId": "bisa melakukan"
+      },
+      {
+       "surface": "ない",
+       "pos": "auxiliary",
+       "romaji": "nai",
+       "gloss": "negative marker",
+       "glossId": "penanda negatif"
+      },
+      {
+       "surface": "高齢者",
+       "pos": "noun",
+       "reading": "こうれいしゃ",
+       "romaji": "koureisha",
+       "gloss": "elderly person",
+       "glossId": "lansia"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "direction/target marker",
+       "glossId": "penanda arah/tujuan"
+      },
+      {
+       "surface": "とっ",
+       "pos": "verb",
+       "romaji": "totsu",
+       "lemma": "とる",
+       "gloss": "to take (verb stem, here obsolete/typo context)",
+       "glossId": "mengambil (bentuk dasar, konteks arkais/typo)"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)",
+       "glossId": "partikel penghubung (bentuk te)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "買い物",
+       "pos": "noun",
+       "reading": "かいもの",
+       "romaji": "kaimono",
+       "gloss": "shopping",
+       "glossId": "belanja"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "通院",
+       "pos": "noun",
+       "reading": "つういん",
+       "romaji": "tsuuin",
+       "gloss": "hospital visits",
+       "glossId": "berobat ke rumah sakit"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "大変",
+       "pos": "adjective",
+       "reading": "たいへん",
+       "romaji": "taihen",
+       "gloss": "difficult, tough",
+       "glossId": "sulit, berat"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The number of buses has also decreased, making shopping and hospital visits difficult for elderly people who cannot drive.",
+     "translationId": "Jumlah bus juga berkurang, sehingga menyulitkan lansia yang tidak bisa mengemudi untuk berbelanja atau berobat ke rumah sakit.",
+     "audioStart": 26.856,
+     "audioEnd": 34.392
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "一方で、地方の生活には良いところもあります。",
+     "tokens": [
+      {
+       "surface": "一方",
+       "pos": "noun",
+       "reading": "いっぽう",
+       "romaji": "ippou",
+       "gloss": "on the other hand",
+       "glossId": "di sisi lain"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker",
+       "glossId": "penanda tempat/sarana"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "地方",
+       "pos": "noun",
+       "reading": "ちほう",
+       "romaji": "chihou",
+       "gloss": "region, rural area",
+       "glossId": "daerah, wilayah"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "生活",
+       "pos": "noun",
+       "reading": "せいかつ",
+       "romaji": "seikatsu",
+       "gloss": "life, living",
+       "glossId": "kehidupan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "direction/target marker",
+       "glossId": "penanda arah/tujuan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "良い",
+       "pos": "adjective",
+       "reading": "よい",
+       "romaji": "yoi",
+       "gloss": "good",
+       "glossId": "baik"
+      },
+      {
+       "surface": "ところ",
+       "pos": "noun",
+       "romaji": "tokoro",
+       "gloss": "point, aspect",
+       "glossId": "sisi, aspek"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "On the other hand, there are also good things about rural life.",
+     "translationId": "Di sisi lain, kehidupan di daerah juga memiliki sisi baiknya.",
+     "audioStart": 34.392,
+     "audioEnd": 38.568
+    },
+    {
+     "text": "自然が豊かで、空気もきれいです。",
+     "tokens": [
+      {
+       "surface": "自然",
+       "pos": "noun",
+       "reading": "しぜん",
+       "romaji": "shizen",
+       "gloss": "nature",
+       "glossId": "alam"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "豊か",
+       "pos": "adjective",
+       "reading": "ゆたか",
+       "romaji": "yutaka",
+       "gloss": "abundant, rich",
+       "glossId": "kaya, subur"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "plain copula",
+       "glossId": "kopula biasa"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "空気",
+       "pos": "noun",
+       "reading": "くうき",
+       "romaji": "kuuki",
+       "gloss": "air",
+       "glossId": "udara"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "きれい",
+       "pos": "adjective",
+       "romaji": "kirei",
+       "gloss": "clean, pretty",
+       "glossId": "bersih, indah"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Nature is abundant, and the air is clean too.",
+     "translationId": "Alamnya kaya, dan udaranya pun bersih.",
+     "audioStart": 38.568,
+     "audioEnd": 42.024
+    },
+    {
+     "text": "近所の人との付き合いも強く、お互いに助け合う文化が残っています。",
+     "tokens": [
+      {
+       "surface": "近所",
+       "pos": "noun",
+       "reading": "きんじょ",
+       "romaji": "kinjo",
+       "gloss": "neighborhood",
+       "glossId": "tetangga, lingkungan sekitar"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "conditional/quotative particle",
+       "glossId": "partikel kondisional/kutipan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "付き合い",
+       "pos": "noun",
+       "reading": "つきあい",
+       "romaji": "tsukiai",
+       "gloss": "association, relationship",
+       "glossId": "hubungan, pergaulan"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "強く",
+       "pos": "adjective",
+       "reading": "つよく",
+       "romaji": "tsuyoku",
+       "lemma": "強い",
+       "gloss": "strong",
+       "glossId": "kuat, erat"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o",
+       "gloss": "honorific prefix",
+       "glossId": "prefiks penghormatan"
+      },
+      {
+       "surface": "互い",
+       "pos": "noun",
+       "reading": "たがい",
+       "romaji": "tagai",
+       "gloss": "each other",
+       "glossId": "satu sama lain"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "direction/target marker",
+       "glossId": "penanda arah/tujuan"
+      },
+      {
+       "surface": "助け合う",
+       "pos": "verb",
+       "reading": "たすけあう",
+       "romaji": "tasukeau",
+       "gloss": "to help each other",
+       "glossId": "saling membantu"
+      },
+      {
+       "surface": "文化",
+       "pos": "noun",
+       "reading": "ぶんか",
+       "romaji": "bunka",
+       "gloss": "culture",
+       "glossId": "budaya"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "残っ",
+       "pos": "verb",
+       "reading": "のこっ",
+       "romaji": "nokot",
+       "lemma": "残る",
+       "gloss": "to remain",
+       "glossId": "tersisa, tertinggal"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)",
+       "glossId": "partikel penghubung (bentuk te)"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be (progressive/state)",
+       "glossId": "sedang/dalam keadaan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Ties with neighbors are also strong, and a culture of helping each other remains.",
+     "translationId": "Hubungan dengan tetangga juga erat, dan budaya saling membantu masih terjaga.",
+     "audioStart": 42.024,
+     "audioEnd": 47.616
+    },
+    {
+     "text": "そのため、都市の忙しい生活から離れて、地方に移り住む人も少しずつ増えています。",
+     "tokens": [
+      {
+       "surface": "その",
+       "pos": "prenominal",
+       "romaji": "sono",
+       "gloss": "that",
+       "glossId": "itu"
+      },
+      {
+       "surface": "ため",
+       "pos": "noun",
+       "romaji": "tame",
+       "gloss": "for the purpose of, because of",
+       "glossId": "demi, karena"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "都市",
+       "pos": "noun",
+       "reading": "とし",
+       "romaji": "toshi",
+       "gloss": "city",
+       "glossId": "kota besar"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "忙しい",
+       "pos": "adjective",
+       "reading": "いそがしい",
+       "romaji": "isogashii",
+       "gloss": "busy",
+       "glossId": "sibuk"
+      },
+      {
+       "surface": "生活",
+       "pos": "noun",
+       "reading": "せいかつ",
+       "romaji": "seikatsu",
+       "gloss": "life, living",
+       "glossId": "kehidupan"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from, because",
+       "glossId": "dari, karena"
+      },
+      {
+       "surface": "離れ",
+       "pos": "verb",
+       "reading": "はなれ",
+       "romaji": "hanare",
+       "lemma": "離れる",
+       "gloss": "to leave, move away from",
+       "glossId": "menjauh, meninggalkan"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)",
+       "glossId": "partikel penghubung (bentuk te)"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "地方",
+       "pos": "noun",
+       "reading": "ちほう",
+       "romaji": "chihou",
+       "gloss": "region, rural area",
+       "glossId": "daerah, wilayah"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "direction/target marker",
+       "glossId": "penanda arah/tujuan"
+      },
+      {
+       "surface": "移り住む",
+       "pos": "verb",
+       "reading": "うつりすむ",
+       "romaji": "utsurisumu",
+       "gloss": "to relocate and live",
+       "glossId": "pindah dan menetap"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "少し",
+       "pos": "adverb",
+       "reading": "すこし",
+       "romaji": "sukoshi",
+       "gloss": "a little",
+       "glossId": "sedikit"
+      },
+      {
+       "surface": "ずつ",
+       "pos": "particle",
+       "romaji": "zutsu",
+       "gloss": "little by little",
+       "glossId": "sedikit demi sedikit"
+      },
+      {
+       "surface": "増え",
+       "pos": "verb",
+       "reading": "ふえ",
+       "romaji": "fue",
+       "lemma": "増える",
+       "gloss": "to increase",
+       "glossId": "bertambah"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)",
+       "glossId": "partikel penghubung (bentuk te)"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be (progressive/state)",
+       "glossId": "sedang/dalam keadaan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Because of this, the number of people moving to rural areas to get away from the busy life of the city is gradually increasing.",
+     "translationId": "Karena itu, jumlah orang yang pindah ke daerah untuk menjauh dari kesibukan kota perlahan-lahan meningkat.",
+     "audioStart": 47.616,
+     "audioEnd": 54.984
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "地方の自治体は、若い家族を呼び込むために、住宅の支援や子育ての手伝いなど、いろいろな取り組みをしています。",
+     "tokens": [
+      {
+       "surface": "地方",
+       "pos": "noun",
+       "reading": "ちほう",
+       "romaji": "chihou",
+       "gloss": "region, rural area",
+       "glossId": "daerah, wilayah"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "自治体",
+       "pos": "noun",
+       "reading": "じちたい",
+       "romaji": "jichitai",
+       "gloss": "local government",
+       "glossId": "pemerintah daerah"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "若い",
+       "pos": "adjective",
+       "reading": "わかい",
+       "romaji": "wakai",
+       "gloss": "young",
+       "glossId": "muda"
+      },
+      {
+       "surface": "家族",
+       "pos": "noun",
+       "reading": "かぞく",
+       "romaji": "kazoku",
+       "gloss": "family",
+       "glossId": "keluarga"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "呼び込む",
+       "pos": "verb",
+       "reading": "よびこむ",
+       "romaji": "yobikomu",
+       "gloss": "to attract, invite in",
+       "glossId": "menarik, mengundang"
+      },
+      {
+       "surface": "ため",
+       "pos": "noun",
+       "romaji": "tame",
+       "gloss": "for the purpose of, because of",
+       "glossId": "demi, karena"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "direction/target marker",
+       "glossId": "penanda arah/tujuan"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "住宅",
+       "pos": "noun",
+       "reading": "じゅうたく",
+       "romaji": "juutaku",
+       "gloss": "housing",
+       "glossId": "perumahan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "支援",
+       "pos": "noun",
+       "reading": "しえん",
+       "romaji": "shien",
+       "gloss": "support",
+       "glossId": "bantuan, dukungan"
+      },
+      {
+       "surface": "や",
+       "pos": "particle",
+       "romaji": "ya",
+       "gloss": "and (non-exhaustive listing)",
+       "glossId": "dan (daftar tidak lengkap)"
+      },
+      {
+       "surface": "子育て",
+       "pos": "noun",
+       "reading": "こそだて",
+       "romaji": "kosodate",
+       "gloss": "child-rearing",
+       "glossId": "pengasuhan anak"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "手伝い",
+       "pos": "noun",
+       "reading": "てつだい",
+       "romaji": "tetsudai",
+       "gloss": "help, assistance",
+       "glossId": "bantuan"
+      },
+      {
+       "surface": "など",
+       "pos": "particle",
+       "romaji": "nado",
+       "gloss": "and so on, etc.",
+       "glossId": "dan lain-lain"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "いろいろ",
+       "pos": "adjective",
+       "romaji": "iroiro",
+       "gloss": "various",
+       "glossId": "berbagai macam"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "plain copula",
+       "glossId": "kopula biasa"
+      },
+      {
+       "surface": "取り組み",
+       "pos": "noun",
+       "reading": "とりくみ",
+       "romaji": "torikumi",
+       "gloss": "initiative, effort",
+       "glossId": "upaya, inisiatif"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)",
+       "glossId": "partikel penghubung (bentuk te)"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be (progressive/state)",
+       "glossId": "sedang/dalam keadaan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Local governments are making various efforts, such as housing support and help with child-rearing, to attract young families.",
+     "translationId": "Pemerintah daerah melakukan berbagai upaya, seperti bantuan perumahan dan bantuan pengasuhan anak, untuk menarik keluarga muda.",
+     "audioStart": 54.984,
+     "audioEnd": 64.344
+    },
+    {
+     "text": "仕事をオンラインでできる人が増えたことも、地方に住む選択を後押ししています。",
+     "tokens": [
+      {
+       "surface": "仕事",
+       "pos": "noun",
+       "reading": "しごと",
+       "romaji": "shigoto",
+       "gloss": "work, job",
+       "glossId": "pekerjaan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "オンライン",
+       "pos": "noun",
+       "romaji": "onrain",
+       "gloss": "online",
+       "glossId": "daring"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker",
+       "glossId": "penanda tempat/sarana"
+      },
+      {
+       "surface": "できる",
+       "pos": "verb",
+       "romaji": "dekiru",
+       "gloss": "to be able to do",
+       "glossId": "bisa melakukan"
+      },
+      {
+       "surface": "人",
+       "pos": "noun",
+       "reading": "ひと",
+       "romaji": "hito",
+       "gloss": "person",
+       "glossId": "orang"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "増え",
+       "pos": "verb",
+       "reading": "ふえ",
+       "romaji": "fue",
+       "lemma": "増える",
+       "gloss": "to increase",
+       "glossId": "bertambah"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta",
+       "gloss": "past tense marker",
+       "glossId": "penanda bentuk lampau"
+      },
+      {
+       "surface": "こと",
+       "pos": "noun",
+       "romaji": "koto",
+       "gloss": "nominalizer (thing/fact)",
+       "glossId": "penanda nominalisasi (hal)"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "地方",
+       "pos": "noun",
+       "reading": "ちほう",
+       "romaji": "chihou",
+       "gloss": "region, rural area",
+       "glossId": "daerah, wilayah"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "direction/target marker",
+       "glossId": "penanda arah/tujuan"
+      },
+      {
+       "surface": "住む",
+       "pos": "verb",
+       "reading": "すむ",
+       "romaji": "sumu",
+       "gloss": "to live, reside",
+       "glossId": "tinggal, menetap"
+      },
+      {
+       "surface": "選択",
+       "pos": "noun",
+       "reading": "せんたく",
+       "romaji": "sentaku",
+       "gloss": "choice",
+       "glossId": "pilihan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "o",
+       "gloss": "object marker",
+       "glossId": "penanda objek"
+      },
+      {
+       "surface": "後押し",
+       "pos": "noun",
+       "reading": "あとおし",
+       "romaji": "atooshi",
+       "gloss": "backing, encouragement",
+       "glossId": "dorongan, dukungan"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する",
+       "gloss": "to do",
+       "glossId": "melakukan"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te",
+       "gloss": "connective particle (te-form)",
+       "glossId": "partikel penghubung (bentuk te)"
+      },
+      {
+       "surface": "い",
+       "pos": "verb",
+       "romaji": "i",
+       "lemma": "いる",
+       "gloss": "to be (progressive/state)",
+       "glossId": "sedang/dalam keadaan"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "The increase in people who can work online has also encouraged the choice to live in rural areas.",
+     "translationId": "Bertambahnya orang yang bisa bekerja secara daring juga mendorong pilihan untuk tinggal di daerah.",
+     "audioStart": 64.344,
+     "audioEnd": 70.536
+    }
+   ]
+  },
+  {
+   "sentences": [
+    {
+     "text": "これからも、地方の町が元気であり続けるためには、住民同士の協力と、新しい工夫が必要でしょう。",
+     "tokens": [
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore",
+       "gloss": "this",
+       "glossId": "ini"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara",
+       "gloss": "from, because",
+       "glossId": "dari, karena"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "地方",
+       "pos": "noun",
+       "reading": "ちほう",
+       "romaji": "chihou",
+       "gloss": "region, rural area",
+       "glossId": "daerah, wilayah"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "町",
+       "pos": "noun",
+       "reading": "まち",
+       "romaji": "machi",
+       "gloss": "town",
+       "glossId": "kota kecil"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "元気",
+       "pos": "noun",
+       "reading": "げんき",
+       "romaji": "genki",
+       "gloss": "energetic, lively",
+       "glossId": "bersemangat, hidup"
+      },
+      {
+       "surface": "で",
+       "pos": "auxiliary",
+       "romaji": "de",
+       "lemma": "だ",
+       "gloss": "plain copula",
+       "glossId": "kopula biasa"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (benda mati)"
+      },
+      {
+       "surface": "続ける",
+       "pos": "verb",
+       "reading": "つづける",
+       "romaji": "tsuzukeru",
+       "gloss": "to continue",
+       "glossId": "melanjutkan"
+      },
+      {
+       "surface": "ため",
+       "pos": "noun",
+       "romaji": "tame",
+       "gloss": "for the purpose of, because of",
+       "glossId": "demi, karena"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "direction/target marker",
+       "glossId": "penanda arah/tujuan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "住民",
+       "pos": "noun",
+       "reading": "じゅうみん",
+       "romaji": "juumin",
+       "gloss": "resident",
+       "glossId": "warga"
+      },
+      {
+       "surface": "同士",
+       "pos": "suffix",
+       "reading": "どうし",
+       "romaji": "doushi",
+       "gloss": "fellow, among each other",
+       "glossId": "sesama"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no",
+       "gloss": "possessive/modifying particle",
+       "glossId": "partikel kepemilikan/pewatas"
+      },
+      {
+       "surface": "協力",
+       "pos": "noun",
+       "reading": "きょうりょく",
+       "romaji": "kyouryoku",
+       "gloss": "cooperation",
+       "glossId": "kerja sama"
+      },
+      {
+       "surface": "と",
+       "pos": "particle",
+       "romaji": "to",
+       "gloss": "conditional/quotative particle",
+       "glossId": "partikel kondisional/kutipan"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "新しい",
+       "pos": "adjective",
+       "reading": "あたらしい",
+       "romaji": "atarashii",
+       "gloss": "new",
+       "glossId": "baru"
+      },
+      {
+       "surface": "工夫",
+       "pos": "noun",
+       "reading": "くふう",
+       "romaji": "kufuu",
+       "gloss": "ingenuity, creative idea",
+       "glossId": "ide kreatif, akal"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "必要",
+       "pos": "noun",
+       "reading": "ひつよう",
+       "romaji": "hitsuyou",
+       "gloss": "necessary",
+       "glossId": "diperlukan"
+      },
+      {
+       "surface": "でしょう",
+       "pos": "auxiliary",
+       "romaji": "deshou",
+       "lemma": "です",
+       "gloss": "polite copula",
+       "glossId": "kopula sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Going forward, cooperation among residents and new ideas will likely be necessary for rural towns to remain vibrant.",
+     "translationId": "Ke depannya, agar kota-kota daerah tetap hidup, dibutuhkan kerja sama antarwarga dan ide-ide baru.",
+     "audioStart": 70.536,
+     "audioEnd": 79.032
+    },
+    {
+     "text": "高齢化は簡単な問題ではありませんが、地方には都市にはない魅力もたくさんあります。",
+     "tokens": [
+      {
+       "surface": "高齢化",
+       "pos": "noun",
+       "reading": "こうれいか",
+       "romaji": "koureika",
+       "gloss": "aging (of population)",
+       "glossId": "penuaan populasi"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "簡単",
+       "pos": "adjective",
+       "reading": "かんたん",
+       "romaji": "kantan",
+       "gloss": "simple, easy",
+       "glossId": "sederhana, mudah"
+      },
+      {
+       "surface": "な",
+       "pos": "auxiliary",
+       "romaji": "na",
+       "lemma": "だ",
+       "gloss": "plain copula",
+       "glossId": "kopula biasa"
+      },
+      {
+       "surface": "問題",
+       "pos": "noun",
+       "reading": "もんだい",
+       "romaji": "mondai",
+       "gloss": "problem",
+       "glossId": "masalah"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de",
+       "gloss": "location/means marker",
+       "glossId": "penanda tempat/sarana"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (benda mati)"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ",
+       "gloss": "negative auxiliary (classical/literary)",
+       "glossId": "penanda negatif (bentuk klasik/sastra)"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga",
+       "gloss": "subject marker",
+       "glossId": "penanda subjek"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "地方",
+       "pos": "noun",
+       "reading": "ちほう",
+       "romaji": "chihou",
+       "gloss": "region, rural area",
+       "glossId": "daerah, wilayah"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "direction/target marker",
+       "glossId": "penanda arah/tujuan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "都市",
+       "pos": "noun",
+       "reading": "とし",
+       "romaji": "toshi",
+       "gloss": "city",
+       "glossId": "kota besar"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni",
+       "gloss": "direction/target marker",
+       "glossId": "penanda arah/tujuan"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "wa",
+       "gloss": "topic marker",
+       "glossId": "penanda topik"
+      },
+      {
+       "surface": "ない",
+       "pos": "adjective",
+       "romaji": "nai",
+       "gloss": "negative marker",
+       "glossId": "penanda negatif"
+      },
+      {
+       "surface": "魅力",
+       "pos": "noun",
+       "reading": "みりょく",
+       "romaji": "miryoku",
+       "gloss": "charm, appeal",
+       "glossId": "daya tarik"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo",
+       "gloss": "also, too",
+       "glossId": "juga"
+      },
+      {
+       "surface": "たくさん",
+       "pos": "adverb",
+       "romaji": "takusan",
+       "gloss": "a lot, many",
+       "glossId": "banyak"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある",
+       "gloss": "to exist (inanimate)",
+       "glossId": "ada (benda mati)"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu",
+       "gloss": "polite verb ending",
+       "glossId": "akhiran kata kerja sopan"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "translation": "Aging is not a simple problem, but rural areas also have many charms that cities do not have.",
+     "translationId": "Penuaan populasi bukan masalah yang sederhana, tetapi daerah juga memiliki banyak daya tarik yang tidak dimiliki kota besar.",
+     "audioStart": 79.032,
+     "audioEnd": 85.728
+    }
+   ]
+  }
+ ]
+}
