@@ -48,6 +48,39 @@ def _romaji(hira: str) -> str:
     return "".join(item["hepburn"] for item in _kks.convert(hira))
 
 
+# Sudachi gives split-off numerals their standalone reading, but before a
+# counter the reading often differs (七時 = しちじ not ななじ, 四月 = しがつ,
+# 七日 = なのか).
+_NUM_TIME = {"四": "よ", "七": "しち", "九": "く"}
+_NUM_MONTH = {"四": "し", "七": "しち", "九": "く"}
+_NUM_DAY = {"二": "ふつ", "三": "みっ", "四": "よっ", "五": "いつ",
+            "六": "むい", "七": "なの", "八": "よう", "九": "ここの", "十": "とお"}
+
+
+def _fix_counter_readings(tokens: list[dict]) -> list[dict]:
+    for cur, nxt in zip(tokens, tokens[1:]):
+        ns, nr = nxt["surface"], nxt.get("reading") or ""
+        fix = None
+        if ns.startswith("時") and nr.startswith("じ"):
+            fix = _NUM_TIME.get(cur["surface"])
+        elif ns.startswith("月") and nr.startswith("がつ"):
+            fix = _NUM_MONTH.get(cur["surface"])
+        elif ns == "日" and nr in ("にち", "か") and cur["surface"] in _NUM_DAY:
+            # Sokuon readings (みっ) don't romanize alone; show the combined
+            # romaji (mikka) under the number and none under 日.
+            fix = _NUM_DAY[cur["surface"]]
+            nxt["reading"] = "か"
+            nxt["romaji"] = ""
+            if cur.get("reading"):
+                cur["reading"] = fix
+            cur["romaji"] = _romaji(fix + "か")
+            continue
+        if fix and cur.get("reading") and cur["reading"] != fix:
+            cur["reading"] = fix
+            cur["romaji"] = _romaji(fix)
+    return tokens
+
+
 def tokenize(sentence: str) -> list[dict]:
     mode = sudachi_tokenizer.Tokenizer.SplitMode.C
     tokens = []
@@ -70,4 +103,4 @@ def tokenize(sentence: str) -> list[dict]:
         if lemma and lemma != surface:
             tok["lemma"] = lemma
         tokens.append(tok)
-    return tokens
+    return _fix_counter_readings(tokens)
