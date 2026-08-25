@@ -552,9 +552,32 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
     nav.append(btn);
     sections.push({ btn, catEl });
   }
+  // A sentence's tokens as furigana/word/romaji stacks (like the reader)
+  function jline(tokens) {
+    const line = el('div', 'jtext');
+    for (const tok of tokens) {
+      const tappable = !['punct', 'symbol', 'space', 'number'].includes(tok.pos);
+      const stk = el('span', 'stk');
+      stk.append(
+        el('span', 'fg', tok.reading || ''),
+        el('span', 'base', tok.surface),
+        el('span', 'rom', (tappable && tok.romaji) || '')
+      );
+      line.append(stk);
+    }
+    return line;
+  }
+  function transBlock(s) {
+    const gl = el('div', 'vtrans');
+    gl.append(el('div', null, s.en));
+    if (s.id) gl.append(el('div', 'idn', s.id));
+    return gl;
+  }
+
   for (const c of (mode === 'sentences' ? [] : data.categories)) {
     addSection(c);
     for (const w of c.words) {
+      const item = el('div', 'vitem');
       const row = el('div', 'vrow');
       const jt = el('span', 'jtext');
       const stk = el('span', 'stk');
@@ -572,31 +595,26 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
       if (w.id) gl.append(el('div', 'idn', w.id));
       row.append(gl);
       row.addEventListener('click', () => playWord(w, row));
-      host.append(row);
+      item.append(row);
+      for (const ex of w.examples || []) {
+        const exEl = el('div', 'vex');
+        exEl.append(jline(ex.tokens), transBlock(ex));
+        exEl.addEventListener('click', (ev) => {
+          ev.stopPropagation();
+          playWord(ex, exEl);
+        });
+        item.append(exEl);
+      }
+      host.append(item);
     }
   }
 
-  // Example sentences, tokenized like the reader
+  // Themed example sentences (own page)
   for (const gDef of (mode === 'sentences' ? data.sentenceGroups || [] : [])) {
     addSection(gDef);
     for (const s of gDef.sentences) {
       const row = el('div', 'vsent');
-      const line = el('div', 'jtext');
-      for (const tok of s.tokens) {
-        const tappable = !['punct', 'symbol', 'space', 'number'].includes(tok.pos);
-        const stk = el('span', 'stk');
-        stk.append(
-          el('span', 'fg', tok.reading || ''),
-          el('span', 'base', tok.surface),
-          el('span', 'rom', (tappable && tok.romaji) || '')
-        );
-        line.append(stk);
-      }
-      row.append(line);
-      const gl = el('div', 'vtrans');
-      gl.append(el('div', null, s.en));
-      if (s.id) gl.append(el('div', 'idn', s.id));
-      row.append(gl);
+      row.append(jline(s.tokens), transBlock(s));
       row.addEventListener('click', () => playWord(s, row));
       host.append(row);
     }

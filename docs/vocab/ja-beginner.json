@@ -16,7 +16,40 @@
      "id": "halo",
      "romaji": "konnichiwa",
      "start": 0.0,
-     "end": 2.016
+     "end": 2.016,
+     "examples": [
+      {
+       "text": "こんにちは、田中さん。",
+       "tokens": [
+        {
+         "surface": "こんにちは",
+         "pos": "interjection",
+         "romaji": "konnichiha"
+        },
+        {
+         "surface": "、",
+         "pos": "punct"
+        },
+        {
+         "surface": "田中",
+         "pos": "noun",
+         "reading": "たなか",
+         "romaji": "tanaka"
+        },
+        {
+         "surface": "さん",
+         "pos": "suffix",
+         "romaji": "san"
+        },
+        {
+         "surface": "。",
+         "pos": "punct"
+        }
+       ],
+       "en": "Hello, Mr. Tanaka.",
+       "id": "Halo, Pak Tanaka."
+      }
+     ]
     },
     {
      "w": "ありがとう",
@@ -25,7 +58,52 @@
      "id": "terima kasih",
      "romaji": "arigatou",
      "start": 2.016,
-     "end": 4.08
+     "end": 4.08,
+     "examples": [
+      {
+       "text": "手伝ってくれて、ありがとう。",
+       "tokens": [
+        {
+         "surface": "手伝っ",
+         "pos": "verb",
+         "reading": "てつだっ",
+         "romaji": "tetsudat",
+         "lemma": "手伝う"
+        },
+        {
+         "surface": "て",
+         "pos": "particle",
+         "romaji": "te"
+        },
+        {
+         "surface": "くれ",
+         "pos": "verb",
+         "romaji": "kure",
+         "lemma": "くれる"
+        },
+        {
+         "surface": "て",
+         "pos": "particle",
+         "romaji": "te"
+        },
+        {
+         "surface": "、",
+         "pos": "punct"
+        },
+        {
+         "surface": "ありがとう",
+         "pos": "interjection",
+         "romaji": "arigatou"
+        },
+        {
+         "surface": "。",
+         "pos": "punct"
+        }
+       ],
+       "en": "Thanks for helping me.",
+       "id": "Terima kasih sudah membantu."
+      }
+     ]
     },
     {
      "w": "すみません",
@@ -34,7 +112,113 @@
      "id": "permisi / maaf",
      "romaji": "sumimasen",
      "start": 4.08,
-     "end": 6.12
+     "end": 6.12,
+     "examples": [
+      {
+       "text": "すみません、駅はどこですか。",
+       "tokens": [
+        {
+         "surface": "すみ",
+         "pos": "verb",
+         "romaji": "sumi",
+         "lemma": "すむ"
+        },
+        {
+         "surface": "ませ",
+         "pos": "auxiliary",
+         "romaji": "mase",
+         "lemma": "ます"
+        },
+        {
+         "surface": "ん",
+         "pos": "auxiliary",
+         "romaji": "n",
+         "lemma": "ぬ"
+        },
+        {
+         "surface": "、",
+         "pos": "punct"
+        },
+        {
+         "surface": "駅",
+         "pos": "noun",
+         "reading": "えき",
+         "romaji": "eki"
+        },
+        {
+         "surface": "は",
+         "pos": "particle",
+         "romaji": "wa"
+        },
+        {
+         "surface": "どこ",
+         "pos": "pronoun",
+         "romaji": "doko"
+        },
+        {
+         "surface": "です",
+         "pos": "auxiliary",
+         "romaji": "desu"
+        },
+        {
+         "surface": "か",
+         "pos": "particle",
+         "romaji": "ka"
+        },
+        {
+         "surface": "。",
+         "pos": "punct"
+        }
+       ],
+       "en": "Excuse me, where is the station?",
+       "id": "Permisi, stasiun di mana?"
+      },
+      {
+       "text": "遅れて、すみません。",
+       "tokens": [
+        {
+         "surface": "遅れ",
+         "pos": "verb",
+         "reading": "おくれ",
+         "romaji": "okure",
+         "lemma": "遅れる"
+        },
+        {
+         "surface": "て",
+         "pos": "particle",
+         "romaji": "te"
+        },
+        {
+         "surface": "、",
+         "pos": "punct"
+        },
+        {
+         "surface": "すみ",
+         "pos": "verb",
+         "romaji": "sumi",
+         "lemma": "すむ"
+        },
+        {
+         "surface": "ませ",
+         "pos": "auxiliary",
+         "romaji": "mase",
+         "lemma": "ます"
+        },
+        {
+         "surface": "ん",
+         "pos": "auxiliary",
+         "romaji": "n",
+         "lemma": "ぬ"
+        },
+        {
+         "surface": "。",
+         "pos": "punct"
+        }
+       ],
+       "en": "Sorry for being late.",
+       "id": "Maaf saya terlambat."
+      }
+     ]
     },
     {
      "w": "お願いします",
