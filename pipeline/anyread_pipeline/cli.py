@@ -329,6 +329,7 @@ def _broadcast(args) -> None:
 
 def _bundle(args) -> None:
     """Merge docs/ + local/articles into dist/ for a private (Netlify) deploy."""
+    import json
     import shutil
 
     root = Path(__file__).resolve().parents[2]
@@ -339,7 +340,9 @@ def _bundle(args) -> None:
     local_articles = root / "local" / "articles"
     if local_articles.is_dir():
         for d in sorted(local_articles.iterdir()):
-            if (d / "article.json").is_file():
+            f = d / "article.json"
+            # Japanese-only app for now: German articles stay archived in local/
+            if f.is_file() and json.loads(f.read_text(encoding="utf-8")).get("language") != "de":
                 shutil.copytree(d, dist / "articles" / d.name, dirs_exist_ok=True)
     bundle.rebuild_index(dist / "articles")
     n = len(list((dist / "articles").glob("*/article.json")))
