@@ -225,24 +225,6 @@ async function renderLibrary() {
     if (a.hasAudio) meta.append(el('span', null, '🔊'));
     if (a.generated) meta.append(el('span', 'badge ai', 'AI'));
     if (a.broadcast) meta.append(el('span', 'badge', '📻 broadcast'));
-    const dl = el('button', 'dl', '⬇');
-    dl.title = 'Save for offline';
-    isCached(a.id).then((c) => {
-      if (c) { dl.textContent = '✓'; dl.classList.add('cached'); }
-    });
-    dl.addEventListener('click', async (ev) => {
-      ev.stopPropagation();
-      dl.textContent = '…';
-      try {
-        const art = await (await fetch(`articles/${a.id}/article.json`)).json();
-        if (art.audioFile) await fetch(`articles/${a.id}/${art.audioFile}`);
-        dl.textContent = '✓';
-        dl.classList.add('cached');
-      } catch (e) {
-        dl.textContent = '⬇';
-      }
-    });
-    meta.append(dl);
     card.append(meta);
     card.addEventListener('click', () => {
       location.hash = '#/a/' + encodeURIComponent(a.id);
