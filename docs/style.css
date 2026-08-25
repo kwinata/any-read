@@ -164,7 +164,6 @@ body {
 .para { margin-bottom: 18px; }
 
 .jtext { font-size: 21px; line-height: 1.4; }
-.dtext { font-size: 19px; line-height: 1.75; }
 .jtext .stk {
   display: inline-flex;
   flex-direction: column;

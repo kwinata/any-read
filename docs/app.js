@@ -329,9 +329,6 @@ async function renderLibrary() {
 
 /* ---------------- Reader ---------------- */
 
-const DE_NO_SPACE_BEFORE = new Set(['.', ',', ';', ':', '!', '?', ')', ']', '»', '“', '%', '…']);
-const DE_NO_SPACE_AFTER = new Set(['(', '[', '«', '„']);
-
 async function renderReader(id) {
   stopAudio();
   $app.innerHTML = '';
@@ -349,7 +346,6 @@ async function renderReader(id) {
     return;
   }
 
-  const isJa = article.language === 'ja';
 
   // Top bar with toggles
   const bar = el('div', 'topbar');
@@ -368,18 +364,16 @@ async function renderReader(id) {
     });
     return b;
   }
-  if (isJa) {
-    bar.append(
-      mkToggle('ふ', 'furigana', () => reader.classList.toggle('no-furigana', !settings.furigana)),
-      mkToggle('rо̄', 'romaji', applyRomaji)
-    );
-  }
+  bar.append(
+    mkToggle('ふ', 'furigana', () => reader.classList.toggle('no-furigana', !settings.furigana)),
+    mkToggle('rо̄', 'romaji', applyRomaji)
+  );
   bar.append(mkToggle('EN', 'translations', applyTranslations));
   const hasId = article.paragraphs.some((p) => p.sentences.some((s) => s.translationId));
   if (hasId) bar.append(mkToggle('ID', 'translationsId', applyTranslations));
   $app.append(bar);
 
-  if (isJa && !settings.furigana) reader.classList.add('no-furigana');
+  if (!settings.furigana) reader.classList.add('no-furigana');
   if (!settings.romaji) reader.classList.add('no-romaji');
   applyTranslations();
 
@@ -404,33 +398,22 @@ async function renderReader(id) {
     for (const s of para.sentences) {
       const sEl = el('div', 'sentence');
       sEl.dataset.g = g;
-      const line = el('div', isJa ? 'jtext' : 'dtext');
+      const line = el('div', 'jtext');
       s.tokens.forEach((tok, ti) => {
         const tappable = !['punct', 'symbol', 'space', 'number'].includes(tok.pos);
-        let node;
-        if (isJa) {
-          // Per-token stack: furigana row / word / romaji row.
-          node = el('span', 'stk');
-          node.append(
-            el('span', 'fg', tok.reading || ''),
-            el('span', 'base', tok.surface),
-            el('span', 'rom', (tappable && tok.romaji) || '')
-          );
-        } else {
-          node = el('span', null, tok.surface);
-        }
+        // Per-token stack: furigana row / word / romaji row.
+        const node = el('span', 'stk');
+        node.append(
+          el('span', 'fg', tok.reading || ''),
+          el('span', 'base', tok.surface),
+          el('span', 'rom', (tappable && tok.romaji) || '')
+        );
         if (tappable) {
           node.classList.add('tok');
           node.dataset.g = g;
           node.dataset.ti = ti;
         }
         line.append(node);
-        if (!isJa) {
-          const next = s.tokens[ti + 1];
-          if (next && !DE_NO_SPACE_BEFORE.has(next.surface) && !DE_NO_SPACE_AFTER.has(tok.surface)) {
-            line.append(document.createTextNode(' '));
-          }
-        }
       });
       sEl.append(line);
 
