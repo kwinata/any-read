@@ -332,6 +332,29 @@ body {
   padding: 10px 6px; border-bottom: 1px solid var(--border);
   cursor: pointer; border-radius: 8px;
 }
+.vsent.qa-q { border-bottom: none; padding-bottom: 4px; }
+.vsent.qa-a { margin-left: 22px; padding-top: 4px; }
+.qabadge {
+  display: inline-block; min-width: 18px; text-align: center;
+  font-size: 11px; font-weight: 700; color: var(--accent);
+  background: var(--accent-soft); border-radius: 6px; padding: 1px 4px;
+  margin-bottom: 2px;
+}
+
+/* Top-level tabs */
+.tabs {
+  display: flex; gap: 8px;
+  max-width: 640px; margin: 0 auto; padding: 10px 16px 0;
+}
+.tabs .tab {
+  flex: 1; padding: 8px 4px; font-size: 13.5px; cursor: pointer;
+  border: 1px solid var(--border); border-radius: 10px;
+  background: var(--card); color: var(--muted);
+}
+.tabs .tab.on {
+  color: var(--accent); border-color: var(--accent);
+  background: var(--accent-soft); font-weight: 600;
+}
 .vsent.current { background: var(--highlight); }
 .vtrans { font-size: 14px; color: var(--muted); margin-top: 4px; }
 .vtrans .idn { font-style: italic; opacity: 0.85; }

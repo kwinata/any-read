@@ -7,7 +7,12 @@ import edge_tts
 from mutagen.mp3 import MP3
 
 VOICE_POOLS = {
-    "ja": ["ja-JP-NanamiNeural", "ja-JP-KeitaNeural"],
+    # ja-JP has only two native neural voices; the multilingual voices speak
+    # natural Japanese too, giving listening variety.
+    "ja": ["ja-JP-NanamiNeural", "ja-JP-KeitaNeural",
+           "en-US-AvaMultilingualNeural", "en-US-AndrewMultilingualNeural",
+           "en-US-EmmaMultilingualNeural", "en-US-BrianMultilingualNeural",
+           "de-DE-SeraphinaMultilingualNeural", "fr-FR-VivienneMultilingualNeural"],
     "de": ["de-DE-KatjaNeural", "de-DE-ConradNeural", "de-DE-AmalaNeural",
            "de-DE-KillianNeural", "de-DE-SeraphinaMultilingualNeural",
            "de-DE-FlorianMultilingualNeural"],
@@ -34,8 +39,12 @@ async def _synthesize_one(text: str, voice: str, rate: str) -> bytes:
     return audio
 
 
-def synthesize(sentences: list[str], lang: str, voice: str | None, rate: str) -> tuple[bytes, list[tuple[float, float]]]:
-    """Returns (mp3_bytes, [(start_sec, end_sec) per sentence])."""
+def synthesize(sentences: list[str], lang: str, voice: str | None, rate: str,
+               voices: list[str] | None = None) -> tuple[bytes, list[tuple[float, float]]]:
+    """Returns (mp3_bytes, [(start_sec, end_sec) per sentence]).
+
+    `voices` optionally overrides the voice per sentence (same length as sentences).
+    """
     voice = voice or DEFAULT_VOICES[lang]
 
     async def run():
@@ -43,7 +52,7 @@ def synthesize(sentences: list[str], lang: str, voice: str | None, rate: str) ->
         timings = []
         cursor = 0.0
         for i, sent in enumerate(sentences):
-            audio = await _synthesize_one(sent, voice, rate)
+            audio = await _synthesize_one(sent, (voices[i] if voices else voice), rate)
             duration = MP3(io.BytesIO(audio)).info.length
             timings.append((round(cursor, 3), round(cursor + duration, 3)))
             cursor += duration

@@ -50,19 +50,26 @@ async function isCached(id) {
 
 const LEVEL_ORDER = ['Beginner', 'N5', 'N4', 'N3', 'N2', 'N1', 'A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
 
+// Top-level menu shown on the three main pages
+function mkTabs(active) {
+  const tabs = el('div', 'tabs');
+  for (const [key, label] of [['vocab', '📖 Vocabulary'], ['sentences', '💬 Sentences'],
+                              ['articles', '📰 Articles']]) {
+    const b = el('button', 'tab' + (active === key ? ' on' : ''), label);
+    b.addEventListener('click', () => {
+      location.hash = key === 'articles' ? '' : '#/' + key;
+    });
+    tabs.append(b);
+  }
+  return tabs;
+}
+
 async function renderLibrary() {
   stopAudio();
   $app.innerHTML = '';
   const bar = el('div', 'topbar');
   bar.append(el('h1', null, 'AnyRead'));
-  const vocabBtn = el('button', 'toggle', '📖 Vocab・たんご');
-  vocabBtn.title = 'Beginner vocabulary';
-  vocabBtn.addEventListener('click', () => { location.hash = '#/vocab'; });
-  const sentBtn = el('button', 'toggle', '💬 Sentences・れいぶん');
-  sentBtn.title = 'Beginner example sentences';
-  sentBtn.addEventListener('click', () => { location.hash = '#/sentences'; });
-  bar.append(vocabBtn, sentBtn);
-  $app.append(bar);
+  $app.append(bar, mkTabs('articles'));
 
   let index = [];
   try {
@@ -85,14 +92,19 @@ async function renderLibrary() {
 
   function renderFilters() {
     filters.innerHTML = '';
-    for (const [label, value] of [['All', 'all'], ['日本語', 'ja'], ['Deutsch', 'de']]) {
-      filters.append(chip(label, (settings.filterLang || 'all') === value, () => {
-        settings.filterLang = value;
-        settings.filterLevel = 'all';
-        saveSettings();
-        renderFilters();
-        renderList();
-      }));
+    const langs = [...new Set(index.map((a) => a.language))];
+    if (langs.length > 1) {
+      for (const [label, value] of [['All', 'all'], ...langs.map((l) => [langName(l), l])]) {
+        filters.append(chip(label, (settings.filterLang || 'all') === value, () => {
+          settings.filterLang = value;
+          settings.filterLevel = 'all';
+          saveSettings();
+          renderFilters();
+          renderList();
+        }));
+      }
+    } else {
+      settings.filterLang = 'all';
     }
     const lang = settings.filterLang || 'all';
     const levels = [...new Set(index
@@ -100,10 +112,10 @@ async function renderLibrary() {
       .map((a) => a.level).filter(Boolean))]
       .sort((a, b) => LEVEL_ORDER.indexOf(a) - LEVEL_ORDER.indexOf(b));
     if (levels.length > 1) {
-      filters.append(el('span', 'fsep'));
-      for (const lv of levels) {
-        filters.append(chip(lv, settings.filterLevel === lv, () => {
-          settings.filterLevel = settings.filterLevel === lv ? 'all' : lv;
+      if (langs.length > 1) filters.append(el('span', 'fsep'));
+      for (const [label, value] of [['All', 'all'], ...levels.map((l) => [l, l])]) {
+        filters.append(chip(label, (settings.filterLevel || 'all') === value, () => {
+          settings.filterLevel = value;
           saveSettings();
           renderFilters();
           renderList();
@@ -472,7 +484,7 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
     mkToggle('ふ', 'furigana', () => host.classList.toggle('no-furigana', !settings.furigana)),
     mkToggle('rо̄', 'romaji', () => host.classList.toggle('no-romaji', !settings.romaji))
   );
-  $app.append(bar);
+  $app.append(bar, mkTabs(mode === 'sentences' ? 'sentences' : 'vocab'));
   if (!settings.furigana) host.classList.add('no-furigana');
   if (!settings.romaji) host.classList.add('no-romaji');
 
@@ -513,7 +525,27 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
   searchInput.placeholder = 'Search: english / indonesia / romaji…';
   searchWrap.append(el('span', 'vsearch-ico', '🔍'), searchInput);
   host.append(header, searchWrap);
-  const searchEntries = []; // {el, secIdx, hay}
+  const searchEntries = []; // {el, secIdx, hay, hayEx}
+
+  // Difficulty filter (second dimension next to the theme sections)
+  let pageLevel = 'all';
+  const sectionDefs = mode === 'sentences' ? (data.sentenceGroups || []) : data.categories;
+  const pageLevels = [...new Set(sectionDefs.map((c) => c.level || 'Beginner'))]
+    .sort((a, b) => LEVEL_ORDER.indexOf(a) - LEVEL_ORDER.indexOf(b));
+  if (pageLevels.length > 1) {
+    const lrow = el('div', 'filters');
+    for (const [label, value] of [['All', 'all'], ...pageLevels.map((l) => [l, l])]) {
+      const b = el('button', 'toggle' + (pageLevel === value ? ' on' : ''), label);
+      b.addEventListener('click', () => {
+        pageLevel = value;
+        [...lrow.children].forEach((ch) => ch.classList.remove('on'));
+        b.classList.add('on');
+        applyFilter();
+      });
+      lrow.append(b);
+    }
+    host.append(lrow);
+  }
 
   const audio = data.audioFile ? new Audio('vocab/' + data.audioFile) : null;
   let stopAt = null;
@@ -557,7 +589,7 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
       catEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
     });
     nav.append(btn);
-    sections.push({ btn, catEl });
+    sections.push({ btn, catEl, level: c.level || 'Beginner' });
   }
   // A sentence's tokens as furigana/word/romaji stacks (like the reader)
   function jline(tokens) {
@@ -640,7 +672,8 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
   for (const gDef of (mode === 'sentences' ? data.sentenceGroups || [] : [])) {
     addSection(gDef);
     for (const s of gDef.sentences) {
-      const row = el('div', 'vsent');
+      const row = el('div', 'vsent' + (s.qa ? ' qa-' + s.qa : ''));
+      if (s.qa) row.append(el('span', 'qabadge', s.qa === 'q' ? 'Q' : 'A'));
       row.append(jline(s.tokens), transBlock(s));
       row.addEventListener('click', () => playWord(s, row));
       searchEntries.push({
@@ -654,21 +687,25 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
     }
   }
 
-  searchInput.addEventListener('input', () => {
+  function applyFilter() {
     const q = searchInput.value.trim().toLowerCase();
     const hits = new Array(sections.length).fill(0);
     for (const e of searchEntries) {
+      const okLevel = pageLevel === 'all' || sections[e.secIdx].level === pageLevel;
       const inEx = !!q && !!e.hayEx && e.hayEx.includes(q);
-      const show = !q || e.hay.includes(q) || inEx;
+      const show = okLevel && (!q || e.hay.includes(q) || inEx);
       e.el.style.display = show ? '' : 'none';
       // A hit inside an example reveals it even in compact (no-ex) mode
       e.el.classList.toggle('show-ex', inEx);
       if (show) hits[e.secIdx] += 1;
     }
     sections.forEach((s, i) => {
-      s.catEl.style.display = !q || hits[i] ? '' : 'none';
+      const okLevel = pageLevel === 'all' || s.level === pageLevel;
+      s.catEl.style.display = okLevel && (!q || hits[i]) ? '' : 'none';
+      s.btn.style.display = okLevel ? '' : 'none';
     });
-  });
+  }
+  searchInput.addEventListener('input', applyFilter);
   $app.append(host);
 
   // Scroll-spy: highlight the section currently at the top of the view
