@@ -472,14 +472,9 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
     mkToggle('ふ', 'furigana', () => host.classList.toggle('no-furigana', !settings.furigana)),
     mkToggle('rо̄', 'romaji', () => host.classList.toggle('no-romaji', !settings.romaji))
   );
-  if (mode !== 'sentences') {
-    bar.append(mkToggle('例', 'vocabExamples',
-      () => host.classList.toggle('no-ex', !settings.vocabExamples)));
-  }
   $app.append(bar);
   if (!settings.furigana) host.classList.add('no-furigana');
   if (!settings.romaji) host.classList.add('no-romaji');
-  if (mode !== 'sentences' && !settings.vocabExamples) host.classList.add('no-ex');
 
   let data;
   try {
@@ -606,6 +601,14 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
       gl.append(el('div', null, w.en));
       if (w.id) gl.append(el('div', 'idn', w.id));
       row.append(gl);
+      if ((w.examples || []).length) {
+        const tog = el('button', 'vtoggle', '▸');
+        tog.addEventListener('click', (ev) => {
+          ev.stopPropagation();
+          tog.textContent = item.classList.toggle('open') ? '▾' : '▸';
+        });
+        row.append(tog);
+      }
       row.addEventListener('click', () => playWord(w, row));
       item.append(row);
       for (const ex of w.examples || []) {
