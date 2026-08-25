@@ -111,15 +111,22 @@ function mkShell(active) {
     return catEl;
   }
 
-  // Scroll-spy: highlight the section currently at the top of the view
+  // Scroll-spy: highlight the section currently below the sticky header stack.
+  // The cutoff is measured, not hardcoded, so it matches where scrollIntoView
+  // parks a heading (otherwise the section above stays highlighted).
+  function cutoff() {
+    const sticky = host.querySelector('.vsearch-wrap') || $app.querySelector('.tabs');
+    return (sticky ? sticky.getBoundingClientRect().bottom : 100) + 16;
+  }
   function onScroll() {
     if (!host.isConnected) {
       window.removeEventListener('scroll', onScroll);
       return;
     }
+    const limit = cutoff();
     let act = 0;
     sections.forEach((s, i) => {
-      if (s.catEl.getBoundingClientRect().top <= 130) act = i;
+      if (s.catEl.getBoundingClientRect().top <= limit) act = i;
     });
     setActive(act);
   }
