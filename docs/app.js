@@ -548,7 +548,8 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
     const subParts = [c.nameEn, c.nameId].filter(Boolean).join(' · ');
     if (subParts) catEl.append(el('span', 'vcat-sub', subParts));
     host.append(catEl);
-    const btn = el('button', 'toggle', (c.nameShort ? c.nameShort + '・' : '') + c.name);
+    const btn = el('button', 'toggle',
+      (c.nameShort || c.nameEn) + (c.nameId ? '・' + c.nameId : ''));
     btn.title = subParts;
     const i = sections.length;
     btn.addEventListener('click', () => {
