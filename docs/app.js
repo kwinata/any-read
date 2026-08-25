@@ -602,10 +602,10 @@ async function renderVocab(mode) {  // 'words' | 'sentences'
       if (w.id) gl.append(el('div', 'idn', w.id));
       row.append(gl);
       if ((w.examples || []).length) {
-        const tog = el('button', 'vtoggle', '▸');
+        const tog = el('button', 'vtoggle', '例 ▾');
         tog.addEventListener('click', (ev) => {
           ev.stopPropagation();
-          tog.textContent = item.classList.toggle('open') ? '▾' : '▸';
+          tog.textContent = item.classList.toggle('open') ? '例 ▴' : '例 ▾';
         });
         row.append(tog);
       }

@@ -304,8 +304,16 @@ body {
 .vex { display: none; }
 .vitem.open .vex, .vitem.show-ex .vex { display: block; }
 .vtoggle {
-  border: none; background: none; color: var(--accent);
-  font-size: 15px; padding: 4px 8px; cursor: pointer; flex-shrink: 0;
+  border: 1px solid var(--accent-soft);
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 13px;
+  font-weight: 600;
+  padding: 5px 10px;
+  border-radius: 999px;
+  cursor: pointer;
+  flex-shrink: 0;
+  white-space: nowrap;
 }
 .vrow.current { background: var(--highlight); }
 .vgloss { text-align: right; font-size: 14px; color: var(--muted); flex-shrink: 1; }
