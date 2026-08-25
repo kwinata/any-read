@@ -37,7 +37,8 @@ def rebuild_index(articles_dir: Path) -> None:
     for p in sorted(articles_dir.glob("*/article.json")):
         a = json.loads(p.read_text(encoding="utf-8"))
         entry = {k: a.get(k) for k in
-                 ("id", "language", "title", "titleTranslation", "level", "summary", "createdAt")}
+                 ("id", "language", "title", "titleTranslation", "level", "summary",
+                  "topic", "topicEn", "topicId", "createdAt")}
         entry["hasAudio"] = bool(a.get("audioFile"))
         entry["generated"] = bool(a.get("generated"))
         entry["broadcast"] = bool(a.get("broadcast"))

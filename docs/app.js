@@ -155,18 +155,38 @@ async function renderLibrary() {
   searchWrap.append(el('span', 'vsearch-ico', '🔍'), searchInput);
   host.append(searchWrap);
 
-  // Sections = difficulty levels (the second dimension, theme, lives per article)
+  // Level filter chips (difficulty stays visible per article via its badge)
+  let pageLevel = 'all';
   const levels = [...new Set(index.map((a) => a.level).filter(Boolean))]
     .sort((a, b) => LEVEL_ORDER.indexOf(a) - LEVEL_ORDER.indexOf(b));
-  const entries = []; // {el, secIdx, hay}
-  for (const lv of levels) {
-    shell.addSection({ name: lv, nameEn: `${lv} level`, nameShort: lv, level: lv });
-    buildList(index.filter((a) => a.level === lv), lv);
+  if (levels.length > 1) {
+    const lrow = el('div', 'filters');
+    for (const [label, value] of [['All', 'all'], ...levels.map((l) => [l, l])]) {
+      const b = el('button', 'toggle' + (pageLevel === value ? ' on' : ''), label);
+      b.addEventListener('click', () => {
+        pageLevel = value;
+        [...lrow.children].forEach((ch) => ch.classList.remove('on'));
+        b.classList.add('on');
+        applyFilter();
+      });
+      lrow.append(b);
+    }
+    host.append(lrow);
   }
-  const untagged = index.filter((a) => !a.level);
+
+  // Sections = topic / theme
+  const entries = []; // {el, secIdx, hay, level}
+  const topics = [...new Set(index.map((a) => a.topic).filter(Boolean))];
+  for (const t of topics) {
+    const sample = index.find((a) => a.topic === t);
+    shell.addSection({ name: t, nameEn: sample.topicEn, nameId: sample.topicId,
+                       nameShort: sample.topicEn });
+    buildList(index.filter((a) => a.topic === t));
+  }
+  const untagged = index.filter((a) => !a.topic);
   if (untagged.length) {
     shell.addSection({ name: 'その他', nameEn: 'Other', nameShort: 'Other' });
-    buildList(untagged, null);
+    buildList(untagged);
   }
   if (!index.length) {
     host.append(el('div', 'empty',
@@ -175,28 +195,32 @@ async function renderLibrary() {
   $app.append(host);
   shell.onScroll();
 
-  searchInput.addEventListener('input', () => {
+  function applyFilter() {
     const q = searchInput.value.trim().toLowerCase();
     const hits = new Array(shell.sections.length).fill(0);
     for (const e of entries) {
-      const show = !q || e.hay.includes(q);
+      const show = (pageLevel === 'all' || e.level === pageLevel) && (!q || e.hay.includes(q));
       e.el.style.display = show ? '' : 'none';
       if (show) hits[e.secIdx] += 1;
     }
     shell.sections.forEach((s, i) => {
-      s.catEl.style.display = !q || hits[i] ? '' : 'none';
+      s.catEl.style.display = hits[i] ? '' : 'none';
     });
-  });
+  }
+  searchInput.addEventListener('input', applyFilter);
 
-  function buildList(shown, lvl) {
+  function buildList(shown) {
   const list = el('div', 'list');
   for (const a of shown) {
     const card = el('div', 'card');
-    card.append(el('h2', null, a.title));
-    if (a.titleTranslation) card.append(el('p', 'sub', a.titleTranslation));
+    const head = el('div', 'cardhead');
+    const titles = el('div');
+    titles.append(el('h2', null, a.title));
+    if (a.titleTranslation) titles.append(el('p', 'sub', a.titleTranslation));
+    head.append(titles);
+    if (a.level) head.append(el('span', 'lvl lvl-' + a.level.toLowerCase(), a.level));
+    card.append(head);
     const meta = el('div', 'meta');
-    meta.append(el('span', 'badge', langName(a.language)));
-    if (a.level) meta.append(el('span', null, a.level));
     if (a.createdAt) meta.append(el('span', null, a.createdAt.slice(0, 10)));
     if (a.hasAudio) meta.append(el('span', null, '🔊'));
     if (a.generated) meta.append(el('span', 'badge ai', 'AI'));
@@ -226,7 +250,8 @@ async function renderLibrary() {
     entries.push({
       el: card,
       secIdx: shell.sections.length - 1,
-      hay: [a.title, a.titleTranslation, a.summary, a.level]
+      level: a.level,
+      hay: [a.title, a.titleTranslation, a.summary, a.level, a.topicEn, a.topicId]
         .filter(Boolean).join(' ').toLowerCase(),
     });
     list.append(card);

@@ -342,6 +342,25 @@ body {
   margin-bottom: 2px;
 }
 
+/* Article cards: title block + prominent level badge */
+.cardhead { display: flex; align-items: flex-start; gap: 10px; }
+.cardhead > div { flex: 1; min-width: 0; }
+.lvl {
+  flex-shrink: 0;
+  font-size: 12px; font-weight: 700; letter-spacing: 0.02em;
+  padding: 3px 9px; border-radius: 999px;
+  background: var(--accent-soft); color: var(--accent);
+  border: 1px solid var(--accent-soft);
+}
+.lvl-beginner { background: rgba(34, 160, 100, 0.16); color: #1c8f57; border-color: rgba(34, 160, 100, 0.3); }
+.lvl-n5 { background: rgba(46, 130, 220, 0.16); color: #2b6fb8; border-color: rgba(46, 130, 220, 0.3); }
+.lvl-n4 { background: rgba(200, 130, 20, 0.18); color: #a8720f; border-color: rgba(200, 130, 20, 0.32); }
+@media (prefers-color-scheme: dark) {
+  .lvl-beginner { color: #5ed39b; }
+  .lvl-n5 { color: #7fb6f5; }
+  .lvl-n4 { color: #e0ac52; }
+}
+
 /* Top-level tabs */
 .tabs {
   position: sticky;
