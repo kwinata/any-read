@@ -307,7 +307,7 @@ body {
   border: 1px solid var(--accent-soft);
   background: var(--accent-soft);
   color: var(--accent);
-  font-size: 13px;
+  font-size: 12px;
   font-weight: 600;
   padding: 5px 10px;
   border-radius: 999px;
@@ -315,6 +315,7 @@ body {
   flex-shrink: 0;
   white-space: nowrap;
 }
+.vtoggle.on { background: var(--accent); border-color: var(--accent); color: #fff; }
 .vrow.current { background: var(--highlight); }
 .vgloss { text-align: right; font-size: 14px; color: var(--muted); flex-shrink: 1; }
 .vgloss .idn { font-style: italic; opacity: 0.85; }
