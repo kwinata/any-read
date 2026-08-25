@@ -55,6 +55,10 @@ async function renderLibrary() {
   $app.innerHTML = '';
   const bar = el('div', 'topbar');
   bar.append(el('h1', null, 'AnyRead'));
+  const vocabBtn = el('button', 'toggle', 'たんご 📖');
+  vocabBtn.title = 'Beginner vocabulary';
+  vocabBtn.addEventListener('click', () => { location.hash = '#/vocab'; });
+  bar.append(vocabBtn);
   $app.append(bar);
 
   let index = [];
@@ -109,18 +113,6 @@ async function renderLibrary() {
     listHost.innerHTML = '';
     const lang = settings.filterLang || 'all';
     const lvl = settings.filterLevel || 'all';
-    if (lang !== 'de' && (lvl === 'all' || lvl === 'Beginner')) {
-      const card = el('div', 'card');
-      card.append(el('h2', null, 'たんごちょう'));
-      card.append(el('p', 'sub', 'Useful beginner vocabulary'));
-      const meta = el('div', 'meta');
-      meta.append(el('span', 'badge', '日本語'));
-      meta.append(el('span', null, 'Beginner'));
-      meta.append(el('span', null, '🔊 tap a word to hear it'));
-      card.append(meta);
-      card.addEventListener('click', () => { location.hash = '#/vocab'; });
-      listHost.append(card);
-    }
     const shown = index.filter((a) =>
       (lang === 'all' || a.language === lang) && (lvl === 'all' || a.level === lvl));
     buildList(shown);
