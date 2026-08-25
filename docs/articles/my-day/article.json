@@ -92,7 +92,7 @@
      "translation": "I wake up at six o'clock every morning.",
      "translationId": "Saya bangun jam enam setiap pagi.",
      "audioStart": 0.0,
-     "audioEnd": 3.264
+     "audioEnd": 3.888
     },
     {
      "text": "かおを あらいます。",
@@ -133,8 +133,8 @@
      ],
      "translation": "I wash my face.",
      "translationId": "Saya mencuci muka.",
-     "audioStart": 3.264,
-     "audioEnd": 5.4
+     "audioStart": 3.888,
+     "audioEnd": 6.432
     },
     {
      "text": "ごはんを たべます。",
@@ -175,8 +175,8 @@
      ],
      "translation": "I eat breakfast.",
      "translationId": "Saya makan (sarapan).",
-     "audioStart": 5.4,
-     "audioEnd": 7.632
+     "audioStart": 6.432,
+     "audioEnd": 9.096
     },
     {
      "text": "七時半に いえを でます。",
@@ -239,8 +239,8 @@
      ],
      "translation": "I leave home at seven thirty.",
      "translationId": "Saya keluar rumah jam tujuh setengah.",
-     "audioStart": 7.632,
-     "audioEnd": 10.296
+     "audioStart": 9.096,
+     "audioEnd": 12.264
     },
     {
      "text": "でんしゃで かいしゃに いきます。",
@@ -302,8 +302,8 @@
      ],
      "translation": "I go to the office by train.",
      "translationId": "Saya pergi ke kantor naik kereta.",
-     "audioStart": 10.296,
-     "audioEnd": 13.008
+     "audioStart": 12.264,
+     "audioEnd": 15.504
     }
    ]
   },
@@ -369,8 +369,8 @@
      ],
      "translation": "I work at the office.",
      "translationId": "Saya bekerja di kantor.",
-     "audioStart": 13.008,
-     "audioEnd": 15.6
+     "audioStart": 15.504,
+     "audioEnd": 18.624
     },
     {
      "text": "ひるに ともだちと ひるごはんを たべます。",
@@ -446,8 +446,8 @@
      ],
      "translation": "At noon I eat lunch with a friend.",
      "translationId": "Siang hari saya makan siang bersama teman.",
-     "audioStart": 15.6,
-     "audioEnd": 19.032
+     "audioStart": 18.624,
+     "audioEnd": 22.728
     },
     {
      "text": "ごごも しごとを します。",
@@ -502,8 +502,8 @@
      ],
      "translation": "I work in the afternoon too.",
      "translationId": "Sore hari saya juga bekerja.",
-     "audioStart": 19.032,
-     "audioEnd": 21.576
+     "audioStart": 22.728,
+     "audioEnd": 25.776
     },
     {
      "text": "六時に かいしゃを でます。",
@@ -573,8 +573,8 @@
      ],
      "translation": "I leave the office at six o'clock.",
      "translationId": "Saya keluar dari kantor jam enam.",
-     "audioStart": 21.576,
-     "audioEnd": 24.24
+     "audioStart": 25.776,
+     "audioEnd": 28.968
     }
    ]
   },
@@ -640,8 +640,8 @@
      ],
      "translation": "I eat dinner at home.",
      "translationId": "Saya makan malam di rumah.",
-     "audioStart": 24.24,
-     "audioEnd": 27.072
+     "audioStart": 28.968,
+     "audioEnd": 32.352
     },
     {
      "text": "おふろに はいります。",
@@ -689,8 +689,8 @@
      ],
      "translation": "I take a bath.",
      "translationId": "Saya mandi.",
-     "audioStart": 27.072,
-     "audioEnd": 29.376
+     "audioStart": 32.352,
+     "audioEnd": 35.112
     },
     {
      "text": "十時に ねます。",
@@ -739,8 +739,8 @@
      ],
      "translation": "I go to bed at ten o'clock.",
      "translationId": "Saya tidur jam sepuluh.",
-     "audioStart": 29.376,
-     "audioEnd": 31.512
+     "audioStart": 35.112,
+     "audioEnd": 37.656
     }
    ]
   }

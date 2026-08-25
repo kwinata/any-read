@@ -71,7 +71,7 @@
      "translation": "There are trains in Japan.",
      "translationId": "Ada kereta di Jepang.",
      "audioStart": 0.0,
-     "audioEnd": 2.88
+     "audioEnd": 3.432
     },
     {
      "text": "電車はとても便利です。",
@@ -120,8 +120,8 @@
      ],
      "translation": "Trains are very convenient.",
      "translationId": "Kereta sangat praktis.",
-     "audioStart": 2.88,
-     "audioEnd": 5.976
+     "audioStart": 3.432,
+     "audioEnd": 7.128
     },
     {
      "text": "たくさんの人が毎日電車に乗ります。",
@@ -201,8 +201,8 @@
      ],
      "translation": "Many people ride the train every day.",
      "translationId": "Banyak orang naik kereta setiap hari.",
-     "audioStart": 5.976,
-     "audioEnd": 9.96
+     "audioStart": 7.128,
+     "audioEnd": 11.88
     },
     {
      "text": "電車は速いです。",
@@ -244,8 +244,8 @@
      ],
      "translation": "Trains are fast.",
      "translationId": "Kereta itu cepat.",
-     "audioStart": 9.96,
-     "audioEnd": 12.504
+     "audioStart": 11.88,
+     "audioEnd": 14.928
     }
    ]
   },
@@ -307,8 +307,8 @@
      ],
      "translation": "You buy a ticket at the station.",
      "translationId": "Membeli tiket di stasiun.",
-     "audioStart": 12.504,
-     "audioEnd": 15.36
+     "audioStart": 14.928,
+     "audioEnd": 18.36
     },
     {
      "text": "今はICカードも使います。",
@@ -365,8 +365,8 @@
      ],
      "translation": "Nowadays, people also use IC cards.",
      "translationId": "Sekarang juga menggunakan kartu IC.",
-     "audioStart": 15.36,
-     "audioEnd": 18.984
+     "audioStart": 18.36,
+     "audioEnd": 22.704
     },
     {
      "text": "ICカードで改札を通ります。",
@@ -423,8 +423,8 @@
      ],
      "translation": "You pass through the ticket gate with an IC card.",
      "translationId": "Melewati gerbang tiket dengan kartu IC.",
-     "audioStart": 18.984,
-     "audioEnd": 22.632
+     "audioStart": 22.704,
+     "audioEnd": 27.072
     },
     {
      "text": "とても簡単です。",
@@ -458,8 +458,8 @@
      ],
      "translation": "It's very easy.",
      "translationId": "Sangat mudah.",
-     "audioStart": 22.632,
-     "audioEnd": 25.224
+     "audioStart": 27.072,
+     "audioEnd": 30.168
     }
    ]
   },
@@ -520,8 +520,8 @@
      ],
      "translation": "Inside the train it is quiet.",
      "translationId": "Di dalam kereta itu tenang.",
-     "audioStart": 25.224,
-     "audioEnd": 28.296
+     "audioStart": 30.168,
+     "audioEnd": 33.84
     },
     {
      "text": "みんな静かに座ります。",
@@ -572,8 +572,8 @@
      ],
      "translation": "Everyone sits quietly.",
      "translationId": "Semua orang duduk dengan tenang.",
-     "audioStart": 28.296,
-     "audioEnd": 31.296
+     "audioStart": 33.84,
+     "audioEnd": 37.44
     },
     {
      "text": "電話はあまり使いません。",
@@ -632,8 +632,8 @@
      ],
      "translation": "People don't use their phones much.",
      "translationId": "Telepon tidak terlalu digunakan.",
-     "audioStart": 31.296,
-     "audioEnd": 34.392
+     "audioStart": 37.44,
+     "audioEnd": 41.136
     },
     {
      "text": "電車はいつも来ます。",
@@ -683,8 +683,8 @@
      ],
      "translation": "The train always comes (on time).",
      "translationId": "Kereta selalu datang (tepat waktu).",
-     "audioStart": 34.392,
-     "audioEnd": 37.152
+     "audioStart": 41.136,
+     "audioEnd": 44.448
     }
    ]
   }

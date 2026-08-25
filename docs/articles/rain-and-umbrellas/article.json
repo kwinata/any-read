@@ -56,7 +56,7 @@
      "translation": "Today is rainy.",
      "translationId": "Hari ini hujan.",
      "audioStart": 0.0,
-     "audioEnd": 2.304
+     "audioEnd": 2.76
     },
     {
      "text": "空はくもりです。",
@@ -97,8 +97,8 @@
      ],
      "translation": "The sky is cloudy.",
      "translationId": "Langit mendung.",
-     "audioStart": 2.304,
-     "audioEnd": 4.848
+     "audioStart": 2.76,
+     "audioEnd": 5.808
     },
     {
      "text": "雨がたくさん降ります。",
@@ -148,8 +148,8 @@
      ],
      "translation": "It rains a lot.",
      "translationId": "Hujan turun deras.",
-     "audioStart": 4.848,
-     "audioEnd": 7.656
+     "audioStart": 5.808,
+     "audioEnd": 9.144
     }
    ]
   },
@@ -232,8 +232,8 @@
      ],
      "translation": "Japan has a rainy season.",
      "translationId": "Di Jepang ada musim hujan.",
-     "audioStart": 7.656,
-     "audioEnd": 11.4
+     "audioStart": 9.144,
+     "audioEnd": 13.632
     },
     {
      "text": "六月ごろです。",
@@ -275,8 +275,8 @@
      ],
      "translation": "It's around June.",
      "translationId": "Sekitar bulan Juni.",
-     "audioStart": 11.4,
-     "audioEnd": 13.872
+     "audioStart": 13.632,
+     "audioEnd": 16.584
     },
     {
      "text": "毎日雨が降ります。",
@@ -327,8 +327,8 @@
      ],
      "translation": "It rains every day.",
      "translationId": "Hujan turun setiap hari.",
-     "audioStart": 13.872,
-     "audioEnd": 16.8
+     "audioStart": 16.584,
+     "audioEnd": 20.088
     }
    ]
   },
@@ -417,8 +417,8 @@
      ],
      "translation": "On rainy days, people use umbrellas.",
      "translationId": "Pada hari hujan, orang-orang memakai payung.",
-     "audioStart": 16.8,
-     "audioEnd": 20.952
+     "audioStart": 20.088,
+     "audioEnd": 25.056
     },
     {
      "text": "傘は雨から体を守ります。",
@@ -491,8 +491,8 @@
      ],
      "translation": "Umbrellas protect the body from rain.",
      "translationId": "Payung melindungi tubuh dari hujan.",
-     "audioStart": 20.952,
-     "audioEnd": 24.576
+     "audioStart": 25.056,
+     "audioEnd": 29.376
     },
     {
      "text": "子供も傘を使います。",
@@ -550,8 +550,8 @@
      ],
      "translation": "Children also use umbrellas.",
      "translationId": "Anak-anak juga memakai payung.",
-     "audioStart": 24.576,
-     "audioEnd": 27.6
+     "audioStart": 29.376,
+     "audioEnd": 32.976
     }
    ]
   },
@@ -612,8 +612,8 @@
      ],
      "translation": "The roads get wet with water.",
      "translationId": "Jalan menjadi basah karena air.",
-     "audioStart": 27.6,
-     "audioEnd": 30.312
+     "audioStart": 32.976,
+     "audioEnd": 36.216
     },
     {
      "text": "長靴もいいです。",
@@ -654,8 +654,8 @@
      ],
      "translation": "Rain boots are also good.",
      "translationId": "Sepatu bot hujan juga bagus.",
-     "audioStart": 30.312,
-     "audioEnd": 32.88
+     "audioStart": 36.216,
+     "audioEnd": 39.288
     },
     {
      "text": "雨の音は静かです。",
@@ -712,8 +712,8 @@
      ],
      "translation": "The sound of rain is quiet.",
      "translationId": "Suara hujan itu tenang.",
-     "audioStart": 32.88,
-     "audioEnd": 35.736
+     "audioStart": 39.288,
+     "audioEnd": 42.696
     }
    ]
   }

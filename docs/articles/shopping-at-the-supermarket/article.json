@@ -75,7 +75,7 @@
      "translation": "Today, I went to the supermarket.",
      "translationId": "Hari ini, saya pergi ke supermarket.",
      "audioStart": 0.0,
-     "audioEnd": 3.168
+     "audioEnd": 3.768
     }
    ]
   },
@@ -135,8 +135,8 @@
      ],
      "translation": "The supermarket is near my house.",
      "translationId": "Supermarket itu dekat rumah.",
-     "audioStart": 3.168,
-     "audioEnd": 6.024
+     "audioStart": 3.768,
+     "audioEnd": 7.176
     }
    ]
   },
@@ -208,8 +208,8 @@
      ],
      "translation": "First, I bought vegetables.",
      "translationId": "Pertama-tama, saya membeli sayuran.",
-     "audioStart": 6.024,
-     "audioEnd": 9.288
+     "audioStart": 7.176,
+     "audioEnd": 11.088
     }
    ]
   },
@@ -277,8 +277,8 @@
      ],
      "translation": "I bought tomatoes and cucumbers.",
      "translationId": "Saya membeli tomat dan mentimun.",
-     "audioStart": 9.288,
-     "audioEnd": 12.024
+     "audioStart": 11.088,
+     "audioEnd": 14.352
     }
    ]
   },
@@ -350,8 +350,8 @@
      ],
      "translation": "Next, I bought fruit.",
      "translationId": "Selanjutnya, saya membeli buah.",
-     "audioStart": 12.024,
-     "audioEnd": 15.288
+     "audioStart": 14.352,
+     "audioEnd": 18.24
     }
    ]
   },
@@ -404,8 +404,8 @@
      ],
      "translation": "The apples were cheap.",
      "translationId": "Apelnya murah.",
-     "audioStart": 15.288,
-     "audioEnd": 17.832
+     "audioStart": 18.24,
+     "audioEnd": 21.288
     }
    ]
   },
@@ -492,8 +492,8 @@
      ],
      "translation": "After that, I bought bread and milk.",
      "translationId": "Setelah itu, saya membeli roti dan susu.",
-     "audioStart": 17.832,
-     "audioEnd": 21.576
+     "audioStart": 21.288,
+     "audioEnd": 25.776
     }
    ]
   },
@@ -554,8 +554,8 @@
      ],
      "translation": "It was 500 yen in total.",
      "translationId": "Semuanya lima ratus yen.",
-     "audioStart": 21.576,
-     "audioEnd": 24.216
+     "audioStart": 25.776,
+     "audioEnd": 28.944
     }
    ]
   },
@@ -623,8 +623,8 @@
      ],
      "translation": "I paid the money at the checkout.",
      "translationId": "Saya membayar uang di kasir.",
-     "audioStart": 24.216,
-     "audioEnd": 26.904
+     "audioStart": 28.944,
+     "audioEnd": 32.184
     }
    ]
   },
@@ -669,8 +669,8 @@
      ],
      "translation": "Shopping is fun.",
      "translationId": "Belanja itu menyenangkan.",
-     "audioStart": 26.904,
-     "audioEnd": 29.496
+     "audioStart": 32.184,
+     "audioEnd": 35.304
     }
    ]
   },
@@ -723,8 +723,8 @@
      ],
      "translation": "I want to go tomorrow too.",
      "translationId": "Saya ingin pergi lagi besok.",
-     "audioStart": 29.496,
-     "audioEnd": 31.968
+     "audioStart": 35.304,
+     "audioEnd": 38.256
     }
    ]
   }

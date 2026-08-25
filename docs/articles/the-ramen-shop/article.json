@@ -68,7 +68,7 @@
      "translation": "I like ramen.",
      "translationId": "Saya suka ramen.",
      "audioStart": 0.0,
-     "audioEnd": 3.072
+     "audioEnd": 3.672
     },
     {
      "text": "ラーメンは にほんの たべものです。",
@@ -122,8 +122,8 @@
      ],
      "translation": "Ramen is a Japanese food.",
      "translationId": "Ramen adalah makanan Jepang.",
-     "audioStart": 3.072,
-     "audioEnd": 6.456
+     "audioStart": 3.672,
+     "audioEnd": 7.728
     }
    ]
   },
@@ -204,8 +204,8 @@
      ],
      "translation": "Ramen has various types.",
      "translationId": "Ramen memiliki berbagai jenis.",
-     "audioStart": 6.456,
-     "audioEnd": 10.464
+     "audioStart": 7.728,
+     "audioEnd": 12.528
     },
     {
      "text": "しおラーメン、しょうゆラーメン、みそラーメンが あります。",
@@ -282,8 +282,8 @@
      ],
      "translation": "There is salt ramen, soy sauce ramen, and miso ramen.",
      "translationId": "Ada ramen garam, ramen kecap asin, dan ramen miso.",
-     "audioStart": 10.464,
-     "audioEnd": 15.624
+     "audioStart": 12.528,
+     "audioEnd": 18.72
     },
     {
      "text": "どれも おいしいです。",
@@ -323,8 +323,8 @@
      ],
      "translation": "All of them are delicious.",
      "translationId": "Semuanya enak.",
-     "audioStart": 15.624,
-     "audioEnd": 18.144
+     "audioStart": 18.72,
+     "audioEnd": 21.72
     }
    ]
   },
@@ -383,8 +383,8 @@
      ],
      "translation": "I go to a ramen shop.",
      "translationId": "Saya pergi ke toko ramen.",
-     "audioStart": 18.144,
-     "audioEnd": 21.12
+     "audioStart": 21.72,
+     "audioEnd": 25.272
     },
     {
      "text": "メニューを みます。",
@@ -425,8 +425,8 @@
      ],
      "translation": "I look at the menu.",
      "translationId": "Saya melihat menu.",
-     "audioStart": 21.12,
-     "audioEnd": 23.424
+     "audioStart": 25.272,
+     "audioEnd": 28.008
     },
     {
      "text": "それから ちゅうもんします。",
@@ -481,8 +481,8 @@
      ],
      "translation": "Then I order.",
      "translationId": "Lalu saya memesan.",
-     "audioStart": 23.424,
-     "audioEnd": 26.256
+     "audioStart": 28.008,
+     "audioEnd": 31.392
     },
     {
      "text": "ラーメンには めんと スープと にくが あります。",
@@ -572,8 +572,8 @@
      ],
      "translation": "Ramen has noodles, soup, and meat.",
      "translationId": "Ramen memiliki mi, sup, dan daging.",
-     "audioStart": 26.256,
-     "audioEnd": 30.408
+     "audioStart": 31.392,
+     "audioEnd": 36.36
     },
     {
      "text": "やさいも すこし あります。",
@@ -621,8 +621,8 @@
      ],
      "translation": "There are also a few vegetables.",
      "translationId": "Ada juga sedikit sayur.",
-     "audioStart": 30.408,
-     "audioEnd": 33.264
+     "audioStart": 36.36,
+     "audioEnd": 39.768
     }
    ]
   },
@@ -666,8 +666,8 @@
      ],
      "translation": "Ramen is hot.",
      "translationId": "Ramen itu panas.",
-     "audioStart": 33.264,
-     "audioEnd": 35.976
+     "audioStart": 39.768,
+     "audioEnd": 43.008
     },
     {
      "text": "はしで たべます。",
@@ -708,8 +708,8 @@
      ],
      "translation": "I eat with chopsticks.",
      "translationId": "Saya makan dengan sumpit.",
-     "audioStart": 35.976,
-     "audioEnd": 38.304
+     "audioStart": 43.008,
+     "audioEnd": 45.792
     },
     {
      "text": "スープも のみます。",
@@ -749,8 +749,8 @@
      ],
      "translation": "I drink the soup too.",
      "translationId": "Saya juga minum supnya.",
-     "audioStart": 38.304,
-     "audioEnd": 40.872
+     "audioStart": 45.792,
+     "audioEnd": 48.84
     },
     {
      "text": "とても おいしいです。",
@@ -783,8 +783,8 @@
      ],
      "translation": "It's very delicious.",
      "translationId": "Sangat enak.",
-     "audioStart": 40.872,
-     "audioEnd": 43.392
+     "audioStart": 48.84,
+     "audioEnd": 51.84
     }
    ]
   },
@@ -868,8 +868,8 @@
      ],
      "translation": "Next time, I want to go to the ramen shop again.",
      "translationId": "Lain kali, saya ingin pergi ke toko ramen lagi.",
-     "audioStart": 43.392,
-     "audioEnd": 47.568
+     "audioStart": 51.84,
+     "audioEnd": 56.856
     }
    ]
   }

@@ -68,7 +68,7 @@
      "translation": "Sushi is a Japanese food.",
      "translationId": "Sushi adalah makanan Jepang.",
      "audioStart": 0.0,
-     "audioEnd": 3.24
+     "audioEnd": 3.888
     },
     {
      "text": "ごはんと さかなを つかいます。",
@@ -123,8 +123,8 @@
      ],
      "translation": "It uses rice and fish.",
      "translationId": "Menggunakan nasi dan ikan.",
-     "audioStart": 3.24,
-     "audioEnd": 6.336
+     "audioStart": 3.888,
+     "audioEnd": 7.584
     },
     {
      "text": "おみせで たべます。",
@@ -172,8 +172,8 @@
      ],
      "translation": "You eat it at a restaurant.",
      "translationId": "Dimakan di restoran.",
-     "audioStart": 6.336,
-     "audioEnd": 8.76
+     "audioStart": 7.584,
+     "audioEnd": 10.488
     },
     {
      "text": "いえでも たべます。",
@@ -221,8 +221,8 @@
      ],
      "translation": "You also eat it at home.",
      "translationId": "Juga dimakan di rumah.",
-     "audioStart": 8.76,
-     "audioEnd": 11.184
+     "audioStart": 10.488,
+     "audioEnd": 13.392
     }
    ]
   },
@@ -274,8 +274,8 @@
      ],
      "translation": "There are many kinds of sushi.",
      "translationId": "Ada banyak jenis sushi.",
-     "audioStart": 11.184,
-     "audioEnd": 14.04
+     "audioStart": 13.392,
+     "audioEnd": 16.824
     },
     {
      "text": "まぐろの すしが あります。",
@@ -330,8 +330,8 @@
      ],
      "translation": "There is tuna sushi.",
      "translationId": "Ada sushi tuna.",
-     "audioStart": 14.04,
-     "audioEnd": 16.872
+     "audioStart": 16.824,
+     "audioEnd": 20.208
     },
     {
      "text": "えびの すしも あります。",
@@ -386,8 +386,8 @@
      ],
      "translation": "There is also shrimp sushi.",
      "translationId": "Ada juga sushi udang.",
-     "audioStart": 16.872,
-     "audioEnd": 19.56
+     "audioStart": 20.208,
+     "audioEnd": 23.424
     },
     {
      "text": "たまごの すしも あります。",
@@ -442,8 +442,8 @@
      ],
      "translation": "There is also egg sushi.",
      "translationId": "Ada juga sushi telur.",
-     "audioStart": 19.56,
-     "audioEnd": 22.32
+     "audioStart": 23.424,
+     "audioEnd": 26.736
     }
    ]
   },
@@ -502,8 +502,8 @@
      ],
      "translation": "You eat sushi with your hands.",
      "translationId": "Sushi dimakan dengan tangan.",
-     "audioStart": 22.32,
-     "audioEnd": 24.96
+     "audioStart": 26.736,
+     "audioEnd": 29.904
     },
     {
      "text": "はしでも たべます。",
@@ -551,8 +551,8 @@
      ],
      "translation": "You also eat it with chopsticks.",
      "translationId": "Juga dimakan dengan sumpit.",
-     "audioStart": 24.96,
-     "audioEnd": 27.432
+     "audioStart": 29.904,
+     "audioEnd": 32.856
     },
     {
      "text": "しょうゆを つけます。",
@@ -593,8 +593,8 @@
      ],
      "translation": "You dip it in soy sauce.",
      "translationId": "Dicelupkan ke kecap asin.",
-     "audioStart": 27.432,
-     "audioEnd": 29.832
+     "audioStart": 32.856,
+     "audioEnd": 35.736
     },
     {
      "text": "とても おいしいです。",
@@ -627,8 +627,8 @@
      ],
      "translation": "It is very delicious.",
      "translationId": "Sangat enak.",
-     "audioStart": 29.832,
-     "audioEnd": 32.352
+     "audioStart": 35.736,
+     "audioEnd": 38.736
     }
    ]
   }

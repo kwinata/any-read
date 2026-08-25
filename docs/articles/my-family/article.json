@@ -83,7 +83,7 @@
      "translation": "My family has four people.",
      "translationId": "Keluarga saya berjumlah empat orang.",
      "audioStart": 0.0,
-     "audioEnd": 2.904
+     "audioEnd": 3.48
     },
     {
      "text": "ちちと ははと あにと わたしです。",
@@ -151,8 +151,8 @@
      ],
      "translation": "There's my father, my mother, my older brother, and me.",
      "translationId": "Ada ayah, ibu, kakak laki-laki, dan saya.",
-     "audioStart": 2.904,
-     "audioEnd": 5.88
+     "audioStart": 3.48,
+     "audioEnd": 7.032
     }
    ]
   },
@@ -218,8 +218,8 @@
      ],
      "translation": "My father is a company employee.",
      "translationId": "Ayah saya seorang karyawan perusahaan.",
-     "audioStart": 5.88,
-     "audioEnd": 8.304
+     "audioStart": 7.032,
+     "audioEnd": 9.936
     },
     {
      "text": "まいにち かいしゃへ いきます。",
@@ -274,8 +274,8 @@
      ],
      "translation": "He goes to the company every day.",
      "translationId": "Dia pergi ke kantor setiap hari.",
-     "audioStart": 8.304,
-     "audioEnd": 10.968
+     "audioStart": 9.936,
+     "audioEnd": 13.104
     },
     {
      "text": "ははは がっこうの せんせいです。",
@@ -322,8 +322,8 @@
      ],
      "translation": "My mother is a school teacher.",
      "translationId": "Ibu saya seorang guru sekolah.",
-     "audioStart": 10.968,
-     "audioEnd": 13.872
+     "audioStart": 13.104,
+     "audioEnd": 16.56
     },
     {
      "text": "こどもに えいごを おしえます。",
@@ -378,8 +378,8 @@
      ],
      "translation": "She teaches English to children.",
      "translationId": "Dia mengajar bahasa Inggris kepada anak-anak.",
-     "audioStart": 13.872,
-     "audioEnd": 16.608
+     "audioStart": 16.56,
+     "audioEnd": 19.848
     }
    ]
   },
@@ -437,8 +437,8 @@
      ],
      "translation": "My older brother is a university student.",
      "translationId": "Kakak laki-laki saya adalah mahasiswa.",
-     "audioStart": 16.608,
-     "audioEnd": 19.2
+     "audioStart": 19.848,
+     "audioEnd": 22.944
     },
     {
      "text": "だいがくで べんきょうします。",
@@ -486,8 +486,8 @@
      ],
      "translation": "He studies at university.",
      "translationId": "Dia belajar di universitas.",
-     "audioStart": 19.2,
-     "audioEnd": 21.912
+     "audioStart": 22.944,
+     "audioEnd": 26.184
     },
     {
      "text": "あには スポーツも すきです。",
@@ -548,8 +548,8 @@
      ],
      "translation": "My older brother also likes sports.",
      "translationId": "Kakak laki-laki saya juga suka olahraga.",
-     "audioStart": 21.912,
-     "audioEnd": 24.648
+     "audioStart": 26.184,
+     "audioEnd": 29.448
     }
    ]
   },
@@ -629,8 +629,8 @@
      ],
      "translation": "We eat dinner together every night.",
      "translationId": "Kami makan malam bersama setiap malam.",
-     "audioStart": 24.648,
-     "audioEnd": 28.656
+     "audioStart": 29.448,
+     "audioEnd": 34.248
     },
     {
      "text": "かぞくは とても たいせつです。",
@@ -677,8 +677,8 @@
      ],
      "translation": "Family is very important.",
      "translationId": "Keluarga sangat penting.",
-     "audioStart": 28.656,
-     "audioEnd": 31.488
+     "audioStart": 34.248,
+     "audioEnd": 37.632
     }
    ]
   }

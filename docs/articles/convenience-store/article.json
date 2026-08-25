@@ -71,7 +71,7 @@
      "translation": "A convenience store is a convenient shop.",
      "translationId": "Minimarket adalah toko yang praktis.",
      "audioStart": 0.0,
-     "audioEnd": 2.784
+     "audioEnd": 3.336
     },
     {
      "text": "町にたくさんあります。",
@@ -120,8 +120,8 @@
      ],
      "translation": "There are many in town.",
      "translationId": "Ada banyak di kota.",
-     "audioStart": 2.784,
-     "audioEnd": 5.352
+     "audioStart": 3.336,
+     "audioEnd": 6.384
     },
     {
      "text": "朝も夜も開いています。",
@@ -194,8 +194,8 @@
      ],
      "translation": "It is open morning and night.",
      "translationId": "Buka pagi maupun malam.",
-     "audioStart": 5.352,
-     "audioEnd": 8.184
+     "audioStart": 6.384,
+     "audioEnd": 9.768
     }
    ]
   },
@@ -256,8 +256,8 @@
      ],
      "translation": "I buy food at the convenience store.",
      "translationId": "Saya membeli makanan di minimarket.",
-     "audioStart": 8.184,
-     "audioEnd": 11.088
+     "audioStart": 9.768,
+     "audioEnd": 13.248
     },
     {
      "text": "おにぎりを買います。",
@@ -299,8 +299,8 @@
      ],
      "translation": "I buy rice balls.",
      "translationId": "Saya membeli onigiri.",
-     "audioStart": 11.088,
-     "audioEnd": 13.392
+     "audioStart": 13.248,
+     "audioEnd": 16.008
     },
     {
      "text": "パンも買います。",
@@ -342,8 +342,8 @@
      ],
      "translation": "I also buy bread.",
      "translationId": "Saya juga membeli roti.",
-     "audioStart": 13.392,
-     "audioEnd": 15.432
+     "audioStart": 16.008,
+     "audioEnd": 18.456
     },
     {
      "text": "お弁当も人気です。",
@@ -392,8 +392,8 @@
      ],
      "translation": "Bento boxes are also popular.",
      "translationId": "Bento juga populer.",
-     "audioStart": 15.432,
-     "audioEnd": 18.024
+     "audioStart": 18.456,
+     "audioEnd": 21.576
     },
     {
      "text": "飲み物もあります。",
@@ -435,8 +435,8 @@
      ],
      "translation": "There are also drinks.",
      "translationId": "Ada juga minuman.",
-     "audioStart": 18.024,
-     "audioEnd": 20.424
+     "audioStart": 21.576,
+     "audioEnd": 24.432
     }
    ]
   },
@@ -482,8 +482,8 @@
      ],
      "translation": "There are also magazines.",
      "translationId": "Ada juga majalah.",
-     "audioStart": 20.424,
-     "audioEnd": 22.632
+     "audioStart": 24.432,
+     "audioEnd": 27.072
     },
     {
      "text": "切符も買います。",
@@ -526,8 +526,8 @@
      ],
      "translation": "I also buy tickets.",
      "translationId": "Saya juga membeli tiket.",
-     "audioStart": 22.632,
-     "audioEnd": 24.864
+     "audioStart": 27.072,
+     "audioEnd": 29.736
     },
     {
      "text": "お金も出します。",
@@ -570,8 +570,8 @@
      ],
      "translation": "I also withdraw money.",
      "translationId": "Saya juga mengeluarkan uang.",
-     "audioStart": 24.864,
-     "audioEnd": 27.168
+     "audioStart": 29.736,
+     "audioEnd": 32.472
     },
     {
      "text": "コンビニはとても便利です。",
@@ -619,8 +619,8 @@
      ],
      "translation": "Convenience stores are very convenient.",
      "translationId": "Minimarket sangat praktis.",
-     "audioStart": 27.168,
-     "audioEnd": 30.024
+     "audioStart": 32.472,
+     "audioEnd": 35.904
     }
    ]
   }

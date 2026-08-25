@@ -41,7 +41,7 @@
      "translation": "It is spring.",
      "translationId": "Ini musim semi.",
      "audioStart": 0.0,
-     "audioEnd": 1.776
+     "audioEnd": 2.064
     },
     {
      "text": "桜の花が咲きます。",
@@ -99,8 +99,8 @@
      ],
      "translation": "Cherry blossoms bloom.",
      "translationId": "Bunga sakura mekar.",
-     "audioStart": 1.776,
-     "audioEnd": 4.44
+     "audioStart": 2.064,
+     "audioEnd": 5.232
     },
     {
      "text": "桜はピンク色です。",
@@ -142,8 +142,8 @@
      ],
      "translation": "Cherry blossoms are pink.",
      "translationId": "Sakura berwarna merah muda.",
-     "audioStart": 4.44,
-     "audioEnd": 7.08
+     "audioStart": 5.232,
+     "audioEnd": 8.376
     },
     {
      "text": "とてもきれいです。",
@@ -176,8 +176,8 @@
      ],
      "translation": "They are very beautiful.",
      "translationId": "Sangat indah.",
-     "audioStart": 7.08,
-     "audioEnd": 9.288
+     "audioStart": 8.376,
+     "audioEnd": 10.992
     }
    ]
   },
@@ -238,8 +238,8 @@
      ],
      "translation": "Japanese people do hanami (flower viewing).",
      "translationId": "Orang Jepang melakukan hanami.",
-     "audioStart": 9.288,
-     "audioEnd": 12.192
+     "audioStart": 10.992,
+     "audioEnd": 14.448
     },
     {
      "text": "花見は公園で桜を見ることです。",
@@ -318,8 +318,8 @@
      ],
      "translation": "Hanami is looking at cherry blossoms in a park.",
      "translationId": "Hanami adalah melihat bunga sakura di taman.",
-     "audioStart": 12.192,
-     "audioEnd": 15.792
+     "audioStart": 14.448,
+     "audioEnd": 18.744
     },
     {
      "text": "友達や家族と行きます。",
@@ -377,8 +377,8 @@
      ],
      "translation": "They go with friends and family.",
      "translationId": "Mereka pergi bersama teman atau keluarga.",
-     "audioStart": 15.792,
-     "audioEnd": 18.624
+     "audioStart": 18.744,
+     "audioEnd": 22.128
     }
    ]
   },
@@ -432,8 +432,8 @@
      ],
      "translation": "Everyone sits in the park.",
      "translationId": "Semua orang duduk di taman.",
-     "audioStart": 18.624,
-     "audioEnd": 21.384
+     "audioStart": 22.128,
+     "audioEnd": 25.44
     },
     {
      "text": "お弁当を食べます。",
@@ -483,8 +483,8 @@
      ],
      "translation": "They eat bento.",
      "translationId": "Mereka makan bento.",
-     "audioStart": 21.384,
-     "audioEnd": 23.832
+     "audioStart": 25.44,
+     "audioEnd": 28.368
     },
     {
      "text": "お茶も飲みます。",
@@ -534,8 +534,8 @@
      ],
      "translation": "They also drink tea.",
      "translationId": "Mereka juga minum teh.",
-     "audioStart": 23.832,
-     "audioEnd": 25.968
+     "audioStart": 28.368,
+     "audioEnd": 30.912
     },
     {
      "text": "写真も撮ります。",
@@ -578,8 +578,8 @@
      ],
      "translation": "They also take photos.",
      "translationId": "Mereka juga mengambil foto.",
-     "audioStart": 25.968,
-     "audioEnd": 28.272
+     "audioStart": 30.912,
+     "audioEnd": 33.648
     }
    ]
   },
@@ -648,8 +648,8 @@
      ],
      "translation": "Cherry blossoms fall quickly.",
      "translationId": "Bunga sakura cepat berguguran.",
-     "audioStart": 28.272,
-     "audioEnd": 31.248
+     "audioStart": 33.648,
+     "audioEnd": 37.2
     },
     {
      "text": "だから花見は大切です。",
@@ -705,8 +705,8 @@
      ],
      "translation": "That's why hanami is important.",
      "translationId": "Oleh karena itu, hanami itu penting.",
-     "audioStart": 31.248,
-     "audioEnd": 34.128
+     "audioStart": 37.2,
+     "audioEnd": 40.632
     },
     {
      "text": "今年も花見を楽しみたいです。",
@@ -771,8 +771,8 @@
      ],
      "translation": "I want to enjoy hanami this year too.",
      "translationId": "Tahun ini pun saya ingin menikmati hanami.",
-     "audioStart": 34.128,
-     "audioEnd": 37.32
+     "audioStart": 40.632,
+     "audioEnd": 44.472
     }
    ]
   }

@@ -41,7 +41,7 @@
      "translation": "It is summer.",
      "translationId": "Sekarang musim panas.",
      "audioStart": 0.0,
-     "audioEnd": 1.872
+     "audioEnd": 2.232
     },
     {
      "text": "夏祭りがあります。",
@@ -83,8 +83,8 @@
      ],
      "translation": "There is a summer festival.",
      "translationId": "Ada festival musim panas.",
-     "audioStart": 1.872,
-     "audioEnd": 4.536
+     "audioStart": 2.232,
+     "audioEnd": 5.424
     },
     {
      "text": "たくさんの人が来ます。",
@@ -141,8 +141,8 @@
      ],
      "translation": "Many people come.",
      "translationId": "Banyak orang datang.",
-     "audioStart": 4.536,
-     "audioEnd": 7.344
+     "audioStart": 5.424,
+     "audioEnd": 8.784
     },
     {
      "text": "女の人は浴衣を着ます。",
@@ -215,8 +215,8 @@
      ],
      "translation": "Women wear yukata.",
      "translationId": "Para wanita memakai yukata.",
-     "audioStart": 7.344,
-     "audioEnd": 10.536
+     "audioStart": 8.784,
+     "audioEnd": 12.6
     },
     {
      "text": "浴衣はきれいです。",
@@ -257,8 +257,8 @@
      ],
      "translation": "Yukata are beautiful.",
      "translationId": "Yukata itu indah.",
-     "audioStart": 10.536,
-     "audioEnd": 13.128
+     "audioStart": 12.6,
+     "audioEnd": 15.696
     }
    ]
   },
@@ -326,8 +326,8 @@
      ],
      "translation": "There are food stalls at the festival.",
      "translationId": "Di festival ada warung-warung.",
-     "audioStart": 13.128,
-     "audioEnd": 16.32
+     "audioStart": 15.696,
+     "audioEnd": 19.512
     },
     {
      "text": "屋台でたこ焼きを食べます。",
@@ -385,8 +385,8 @@
      ],
      "translation": "They eat takoyaki at the stalls.",
      "translationId": "Mereka makan takoyaki di warung.",
-     "audioStart": 16.32,
-     "audioEnd": 19.488
+     "audioStart": 19.512,
+     "audioEnd": 23.304
     },
     {
      "text": "かき氷も食べます。",
@@ -429,8 +429,8 @@
      ],
      "translation": "They also eat shaved ice.",
      "translationId": "Mereka juga makan es serut.",
-     "audioStart": 19.488,
-     "audioEnd": 22.176
+     "audioStart": 23.304,
+     "audioEnd": 26.52
     },
     {
      "text": "かき氷は冷たいです。",
@@ -472,8 +472,8 @@
      ],
      "translation": "The shaved ice is cold.",
      "translationId": "Es serutnya dingin.",
-     "audioStart": 22.176,
-     "audioEnd": 25.224
+     "audioStart": 26.52,
+     "audioEnd": 30.168
     }
    ]
   },
@@ -535,8 +535,8 @@
      ],
      "translation": "They watch fireworks at night.",
      "translationId": "Mereka melihat kembang api di malam hari.",
-     "audioStart": 25.224,
-     "audioEnd": 28.008
+     "audioStart": 30.168,
+     "audioEnd": 33.504
     },
     {
      "text": "花火は大きいです。",
@@ -578,8 +578,8 @@
      ],
      "translation": "The fireworks are big.",
      "translationId": "Kembang apinya besar.",
-     "audioStart": 28.008,
-     "audioEnd": 30.744
+     "audioStart": 33.504,
+     "audioEnd": 36.792
     },
     {
      "text": "夏祭りは楽しいです。",
@@ -621,8 +621,8 @@
      ],
      "translation": "The summer festival is fun.",
      "translationId": "Festival musim panas itu menyenangkan.",
-     "audioStart": 30.744,
-     "audioEnd": 33.84
+     "audioStart": 36.792,
+     "audioEnd": 40.488
     }
    ]
   }

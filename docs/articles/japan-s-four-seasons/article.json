@@ -100,7 +100,7 @@
      "translation": "Japan has four seasons.",
      "translationId": "Di Jepang ada empat musim.",
      "audioStart": 0.0,
-     "audioEnd": 3.84
+     "audioEnd": 4.584
     },
     {
      "text": "春と夏と秋と冬です。",
@@ -172,8 +172,8 @@
      ],
      "translation": "They are spring, summer, autumn, and winter.",
      "translationId": "Yaitu musim semi, musim panas, musim gugur, dan musim dingin.",
-     "audioStart": 3.84,
-     "audioEnd": 7.104
+     "audioStart": 4.584,
+     "audioEnd": 8.496
     }
    ]
   },
@@ -218,8 +218,8 @@
      ],
      "translation": "Spring is warm.",
      "translationId": "Musim semi itu hangat.",
-     "audioStart": 7.104,
-     "audioEnd": 9.84
+     "audioStart": 8.496,
+     "audioEnd": 11.76
     },
     {
      "text": "花がさきます。",
@@ -261,8 +261,8 @@
      ],
      "translation": "Flowers bloom.",
      "translationId": "Bunga-bunga bermekaran.",
-     "audioStart": 9.84,
-     "audioEnd": 12.144
+     "audioStart": 11.76,
+     "audioEnd": 14.496
     },
     {
      "text": "桜の花はきれいです。",
@@ -318,8 +318,8 @@
      ],
      "translation": "Cherry blossoms are beautiful.",
      "translationId": "Bunga sakura itu indah.",
-     "audioStart": 12.144,
-     "audioEnd": 15.24
+     "audioStart": 14.496,
+     "audioEnd": 18.192
     },
     {
      "text": "夏は暑いです。",
@@ -361,8 +361,8 @@
      ],
      "translation": "Summer is hot.",
      "translationId": "Musim panas itu panas.",
-     "audioStart": 15.24,
-     "audioEnd": 17.736
+     "audioStart": 18.192,
+     "audioEnd": 21.192
     },
     {
      "text": "人は海に行きます。",
@@ -420,8 +420,8 @@
      ],
      "translation": "People go to the sea.",
      "translationId": "Orang-orang pergi ke laut.",
-     "audioStart": 17.736,
-     "audioEnd": 20.544
+     "audioStart": 21.192,
+     "audioEnd": 24.528
     },
     {
      "text": "夏休みがあります。",
@@ -463,8 +463,8 @@
      ],
      "translation": "There is summer vacation.",
      "translationId": "Ada libur musim panas.",
-     "audioStart": 20.544,
-     "audioEnd": 23.208
+     "audioStart": 24.528,
+     "audioEnd": 27.696
     }
    ]
   },
@@ -509,8 +509,8 @@
      ],
      "translation": "Autumn is cool.",
      "translationId": "Musim gugur itu sejuk.",
-     "audioStart": 23.208,
-     "audioEnd": 25.872
+     "audioStart": 27.696,
+     "audioEnd": 30.864
     },
     {
      "text": "木の葉が赤くなります。",
@@ -561,8 +561,8 @@
      ],
      "translation": "Tree leaves turn red.",
      "translationId": "Daun-daun pohon menjadi merah.",
-     "audioStart": 25.872,
-     "audioEnd": 28.656
+     "audioStart": 30.864,
+     "audioEnd": 34.2
     },
     {
      "text": "秋の食べ物はおいしいです。",
@@ -618,8 +618,8 @@
      ],
      "translation": "Autumn food is delicious.",
      "translationId": "Makanan musim gugur itu enak.",
-     "audioStart": 28.656,
-     "audioEnd": 31.896
+     "audioStart": 34.2,
+     "audioEnd": 38.088
     },
     {
      "text": "冬は寒いです。",
@@ -661,8 +661,8 @@
      ],
      "translation": "Winter is cold.",
      "translationId": "Musim dingin itu dingin.",
-     "audioStart": 31.896,
-     "audioEnd": 34.392
+     "audioStart": 38.088,
+     "audioEnd": 41.064
     },
     {
      "text": "雪が降ります。",
@@ -705,8 +705,8 @@
      ],
      "translation": "Snow falls.",
      "translationId": "Salju turun.",
-     "audioStart": 34.392,
-     "audioEnd": 36.72
+     "audioStart": 41.064,
+     "audioEnd": 43.848
     }
    ]
   }

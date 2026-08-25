@@ -71,7 +71,7 @@
      "translation": "Breakfast is important in Japan.",
      "translationId": "Sarapan itu penting di Jepang.",
      "audioStart": 0.0,
-     "audioEnd": 3.672
+     "audioEnd": 4.392
     },
     {
      "text": "日本人は朝、ごはんを食べます。",
@@ -140,8 +140,8 @@
      ],
      "translation": "Japanese people eat rice in the morning.",
      "translationId": "Orang Jepang makan nasi di pagi hari.",
-     "audioStart": 3.672,
-     "audioEnd": 7.776
+     "audioStart": 4.392,
+     "audioEnd": 9.312
     },
     {
      "text": "みそ汁も飲みます。",
@@ -184,8 +184,8 @@
      ],
      "translation": "They also drink miso soup.",
      "translationId": "Mereka juga minum sup miso.",
-     "audioStart": 7.776,
-     "audioEnd": 10.368
+     "audioStart": 9.312,
+     "audioEnd": 12.408
     },
     {
      "text": "みそ汁は温かいです。",
@@ -227,8 +227,8 @@
      ],
      "translation": "Miso soup is warm.",
      "translationId": "Sup miso itu hangat.",
-     "audioStart": 10.368,
-     "audioEnd": 13.392
+     "audioStart": 12.408,
+     "audioEnd": 16.008
     },
     {
      "text": "とてもおいしいです。",
@@ -261,8 +261,8 @@
      ],
      "translation": "It is very delicious.",
      "translationId": "Rasanya sangat enak.",
-     "audioStart": 13.392,
-     "audioEnd": 15.912
+     "audioStart": 16.008,
+     "audioEnd": 19.008
     }
    ]
   },
@@ -349,8 +349,8 @@
      ],
      "translation": "Some people eat natto with breakfast.",
      "translationId": "Ada juga orang yang makan natto saat sarapan.",
-     "audioStart": 15.912,
-     "audioEnd": 20.352
+     "audioStart": 19.008,
+     "audioEnd": 24.336
     },
     {
      "text": "なっとうは豆です。",
@@ -391,8 +391,8 @@
      ],
      "translation": "Natto is beans.",
      "translationId": "Natto adalah kacang.",
-     "audioStart": 20.352,
-     "audioEnd": 22.92
+     "audioStart": 24.336,
+     "audioEnd": 27.384
     },
     {
      "text": "においが強いです。",
@@ -433,8 +433,8 @@
      ],
      "translation": "It has a strong smell.",
      "translationId": "Baunya kuat.",
-     "audioStart": 22.92,
-     "audioEnd": 25.464
+     "audioStart": 27.384,
+     "audioEnd": 30.432
     },
     {
      "text": "でも、体にいいです。",
@@ -493,8 +493,8 @@
      ],
      "translation": "But it is good for the body.",
      "translationId": "Tapi baik untuk tubuh.",
-     "audioStart": 25.464,
-     "audioEnd": 28.488
+     "audioStart": 30.432,
+     "audioEnd": 34.056
     }
    ]
   },
@@ -561,8 +561,8 @@
      ],
      "translation": "It is rice, miso soup, and natto.",
      "translationId": "Yaitu nasi, sup miso, dan natto.",
-     "audioStart": 28.488,
-     "audioEnd": 32.568
+     "audioStart": 34.056,
+     "audioEnd": 38.928
     },
     {
      "text": "日本人は、朝、これを食べます。",
@@ -635,8 +635,8 @@
      ],
      "translation": "Japanese people eat this in the morning.",
      "translationId": "Orang Jepang makan ini di pagi hari.",
-     "audioStart": 32.568,
-     "audioEnd": 36.888
+     "audioStart": 38.928,
+     "audioEnd": 44.112
     },
     {
      "text": "簡単で、おいしいです。",
@@ -682,8 +682,8 @@
      ],
      "translation": "It is simple and delicious.",
      "translationId": "Sederhana dan enak.",
-     "audioStart": 36.888,
-     "audioEnd": 39.84
+     "audioStart": 44.112,
+     "audioEnd": 47.664
     }
    ]
   }

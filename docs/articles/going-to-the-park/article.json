@@ -61,7 +61,7 @@
      "translation": "Today is nice weather.",
      "translationId": "Hari ini cuacanya bagus.",
      "audioStart": 0.0,
-     "audioEnd": 2.688
+     "audioEnd": 3.216
     },
     {
      "text": "そらは あおいです。",
@@ -101,8 +101,8 @@
      ],
      "translation": "The sky is blue.",
      "translationId": "Langitnya biru.",
-     "audioStart": 2.688,
-     "audioEnd": 5.208
+     "audioStart": 3.216,
+     "audioEnd": 6.216
     },
     {
      "text": "わたしは こうえんへ いきます。",
@@ -157,8 +157,8 @@
      ],
      "translation": "I go to the park.",
      "translationId": "Saya pergi ke taman.",
-     "audioStart": 5.208,
-     "audioEnd": 8.304
+     "audioStart": 6.216,
+     "audioEnd": 9.936
     }
    ]
   },
@@ -225,8 +225,8 @@
      ],
      "translation": "There is a big tree in the park.",
      "translationId": "Ada pohon besar di taman.",
-     "audioStart": 8.304,
-     "audioEnd": 11.568
+     "audioStart": 9.936,
+     "audioEnd": 13.848
     },
     {
      "text": "はなも たくさん あります。",
@@ -274,8 +274,8 @@
      ],
      "translation": "There are also many flowers.",
      "translationId": "Ada juga banyak bunga.",
-     "audioStart": 11.568,
-     "audioEnd": 14.328
+     "audioStart": 13.848,
+     "audioEnd": 17.136
     },
     {
      "text": "とても きれいです。",
@@ -308,8 +308,8 @@
      ],
      "translation": "It's very beautiful.",
      "translationId": "Sangat indah.",
-     "audioStart": 14.328,
-     "audioEnd": 16.8
+     "audioStart": 17.136,
+     "audioEnd": 20.088
     },
     {
      "text": "とりの こえが きこえます。",
@@ -364,8 +364,8 @@
      ],
      "translation": "I can hear the birds singing.",
      "translationId": "Terdengar suara burung.",
-     "audioStart": 16.8,
-     "audioEnd": 19.56
+     "audioStart": 20.088,
+     "audioEnd": 23.4
     }
    ]
   },
@@ -431,8 +431,8 @@
      ],
      "translation": "Children play in the park.",
      "translationId": "Anak-anak bermain di taman.",
-     "audioStart": 19.56,
-     "audioEnd": 22.992
+     "audioStart": 23.4,
+     "audioEnd": 27.504
     },
     {
      "text": "いぬも あそびます。",
@@ -473,8 +473,8 @@
      ],
      "translation": "Dogs play too.",
      "translationId": "Anjing juga bermain.",
-     "audioStart": 22.992,
-     "audioEnd": 25.44
+     "audioStart": 27.504,
+     "audioEnd": 30.432
     },
     {
      "text": "みんな たのしそうです。",
@@ -515,8 +515,8 @@
      ],
      "translation": "Everyone looks like they're having fun.",
      "translationId": "Semuanya terlihat senang.",
-     "audioStart": 25.44,
-     "audioEnd": 28.08
+     "audioStart": 30.432,
+     "audioEnd": 33.576
     }
    ]
   },
@@ -575,8 +575,8 @@
      ],
      "translation": "I sit on a bench.",
      "translationId": "Saya duduk di bangku.",
-     "audioStart": 28.08,
-     "audioEnd": 31.32
+     "audioStart": 33.576,
+     "audioEnd": 37.464
     },
     {
      "text": "ジュースを のみます。",
@@ -616,8 +616,8 @@
      ],
      "translation": "I drink juice.",
      "translationId": "Saya minum jus.",
-     "audioStart": 31.32,
-     "audioEnd": 33.792
+     "audioStart": 37.464,
+     "audioEnd": 40.416
     },
     {
      "text": "かぜが きもちいいです。",
@@ -664,8 +664,8 @@
      ],
      "translation": "The wind feels nice.",
      "translationId": "Anginnya terasa nyaman.",
-     "audioStart": 33.792,
-     "audioEnd": 36.456
+     "audioStart": 40.416,
+     "audioEnd": 43.608
     }
    ]
   },
@@ -735,8 +735,8 @@
      ],
      "translation": "The park is a quiet, pleasant place.",
      "translationId": "Taman itu tempat yang tenang dan menyenangkan.",
-     "audioStart": 36.456,
-     "audioEnd": 40.44
+     "audioStart": 43.608,
+     "audioEnd": 48.384
     },
     {
      "text": "わたしは また きます。",
@@ -784,8 +784,8 @@
      ],
      "translation": "I will come again.",
      "translationId": "Saya akan datang lagi.",
-     "audioStart": 40.44,
-     "audioEnd": 43.08
+     "audioStart": 48.384,
+     "audioEnd": 51.528
     }
    ]
   }

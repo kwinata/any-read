@@ -75,7 +75,7 @@
      "translation": "I like baths.",
      "translationId": "Saya suka mandi.",
      "audioStart": 0.0,
-     "audioEnd": 2.784
+     "audioEnd": 3.336
     },
     {
      "text": "まいにち おふろに はいります。",
@@ -130,8 +130,8 @@
      ],
      "translation": "I take a bath every day.",
      "translationId": "Saya mandi setiap hari.",
-     "audioStart": 2.784,
-     "audioEnd": 5.592
+     "audioStart": 3.336,
+     "audioEnd": 6.672
     },
     {
      "text": "おふろは あたたかいです。",
@@ -178,8 +178,8 @@
      ],
      "translation": "The bath is warm.",
      "translationId": "Air mandinya hangat.",
-     "audioStart": 5.592,
-     "audioEnd": 8.16
+     "audioStart": 6.672,
+     "audioEnd": 9.744
     },
     {
      "text": "きもちが いいです。",
@@ -219,8 +219,8 @@
      ],
      "translation": "It feels good.",
      "translationId": "Rasanya enak.",
-     "audioStart": 8.16,
-     "audioEnd": 10.368
+     "audioStart": 9.744,
+     "audioEnd": 12.384
     }
    ]
   },
@@ -286,8 +286,8 @@
      ],
      "translation": "In Japan, there are hot springs.",
      "translationId": "Di Jepang ada pemandian air panas.",
-     "audioStart": 10.368,
-     "audioEnd": 13.224
+     "audioStart": 12.384,
+     "audioEnd": 15.792
     },
     {
      "text": "おんせんは おおきい おふろです。",
@@ -341,8 +341,8 @@
      ],
      "translation": "A hot spring is a big bath.",
      "translationId": "Onsen adalah kolam mandi yang besar.",
-     "audioStart": 13.224,
-     "audioEnd": 16.128
+     "audioStart": 15.792,
+     "audioEnd": 19.272
     },
     {
      "text": "おゆは とても あついです。",
@@ -393,8 +393,8 @@
      ],
      "translation": "The hot water is very hot.",
      "translationId": "Airnya sangat panas.",
-     "audioStart": 16.128,
-     "audioEnd": 18.744
+     "audioStart": 19.272,
+     "audioEnd": 22.392
     },
     {
      "text": "ひとが おおぜい きます。",
@@ -442,8 +442,8 @@
      ],
      "translation": "Many people come.",
      "translationId": "Banyak orang datang.",
-     "audioStart": 18.744,
-     "audioEnd": 21.192
+     "audioStart": 22.392,
+     "audioEnd": 25.32
     }
    ]
   },
@@ -520,8 +520,8 @@
      ],
      "translation": "Before the hot spring, you wash your body.",
      "translationId": "Sebelum masuk onsen, kita mencuci badan.",
-     "audioStart": 21.192,
-     "audioEnd": 24.96
+     "audioStart": 25.32,
+     "audioEnd": 29.832
     },
     {
      "text": "それから、おゆに はいります。",
@@ -584,8 +584,8 @@
      ],
      "translation": "Then, you get into the hot water.",
      "translationId": "Setelah itu, kita masuk ke air panas.",
-     "audioStart": 24.96,
-     "audioEnd": 28.176
+     "audioStart": 29.832,
+     "audioEnd": 33.672
     },
     {
      "text": "ゆっくり やすみます。",
@@ -619,8 +619,8 @@
      ],
      "translation": "You relax slowly.",
      "translationId": "Kita beristirahat dengan santai.",
-     "audioStart": 28.176,
-     "audioEnd": 30.48
+     "audioStart": 33.672,
+     "audioEnd": 36.432
     },
     {
      "text": "あたまが すっきりします。",
@@ -668,8 +668,8 @@
      ],
      "translation": "Your head feels refreshed.",
      "translationId": "Kepala terasa segar.",
-     "audioStart": 30.48,
-     "audioEnd": 33.096
+     "audioStart": 36.432,
+     "audioEnd": 39.552
     }
    ]
   },
@@ -734,8 +734,8 @@
      ],
      "translation": "Baths are good for the body.",
      "translationId": "Mandi baik untuk tubuh.",
-     "audioStart": 33.096,
-     "audioEnd": 35.76
+     "audioStart": 39.552,
+     "audioEnd": 42.744
     },
     {
      "text": "こころも やすみます。",
@@ -776,8 +776,8 @@
      ],
      "translation": "Your heart rests too.",
      "translationId": "Hati juga menjadi tenang.",
-     "audioStart": 35.76,
-     "audioEnd": 38.136
+     "audioStart": 42.744,
+     "audioEnd": 45.576
     },
     {
      "text": "わたしは しゅうまつに おんせんに いきたいです。",
@@ -860,8 +860,8 @@
      ],
      "translation": "I want to go to a hot spring on the weekend.",
      "translationId": "Saya ingin pergi ke onsen di akhir pekan.",
-     "audioStart": 38.136,
-     "audioEnd": 41.784
+     "audioStart": 45.576,
+     "audioEnd": 49.944
     }
    ]
   }

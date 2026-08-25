@@ -451,7 +451,8 @@ async function renderVocab() {
   const bar = el('div', 'topbar');
   const back = el('button', 'back', '‹');
   back.addEventListener('click', () => { location.hash = ''; });
-  bar.append(back, el('div', 'spacer'));
+  const menuBtn = el('button', 'toggle vmenu', '☰');
+  bar.append(back, menuBtn, el('div', 'spacer'));
   const host = el('div', 'reader');
 
   function mkToggle(label, key, apply) {
@@ -480,10 +481,20 @@ async function renderVocab() {
     return;
   }
 
-  // Section nav: sticky chip row on phones, fixed sidebar on wide screens
+  // Section nav: hamburger drawer on phones, fixed sidebar on wide screens
   const nav = el('nav', 'vnav');
+  const scrim = el('div', 'vscrim');
   const sections = []; // {btn, catEl}
-  $app.append(nav);
+  function closeNav() {
+    nav.classList.remove('open');
+    scrim.classList.remove('show');
+  }
+  menuBtn.addEventListener('click', () => {
+    nav.classList.toggle('open');
+    scrim.classList.toggle('show', nav.classList.contains('open'));
+  });
+  scrim.addEventListener('click', closeNav);
+  $app.append(scrim, nav);
 
   const header = el('header');
   header.append(el('h1', null, 'たんごちょう'));
@@ -516,20 +527,25 @@ async function renderVocab() {
   function setActive(i) {
     sections.forEach((s, j) => s.btn.classList.toggle('on', i === j));
   }
-  for (const c of data.categories) {
+  // Trilingual section header (ja / en · id) plus its nav chip
+  function addSection(c) {
     const catEl = el('h2', 'vcat', c.name);
     const subParts = [c.nameEn, c.nameId].filter(Boolean).join(' · ');
     if (subParts) catEl.append(el('span', 'vcat-sub', subParts));
     host.append(catEl);
     const btn = el('button', 'toggle', (c.nameShort ? c.nameShort + '・' : '') + c.name);
-    btn.title = [c.nameEn, c.nameId].filter(Boolean).join(' · ');
+    btn.title = subParts;
     const i = sections.length;
     btn.addEventListener('click', () => {
       setActive(i);
+      closeNav();
       catEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
     });
     nav.append(btn);
     sections.push({ btn, catEl });
+  }
+  for (const c of data.categories) {
+    addSection(c);
     for (const w of c.words) {
       const row = el('div', 'vrow');
       const jt = el('span', 'jtext');
@@ -548,6 +564,32 @@ async function renderVocab() {
       if (w.id) gl.append(el('div', 'idn', w.id));
       row.append(gl);
       row.addEventListener('click', () => playWord(w, row));
+      host.append(row);
+    }
+  }
+
+  // Example sentences, tokenized like the reader
+  for (const gDef of data.sentenceGroups || []) {
+    addSection(gDef);
+    for (const s of gDef.sentences) {
+      const row = el('div', 'vsent');
+      const line = el('div', 'jtext');
+      for (const tok of s.tokens) {
+        const tappable = !['punct', 'symbol', 'space', 'number'].includes(tok.pos);
+        const stk = el('span', 'stk');
+        stk.append(
+          el('span', 'fg', tok.reading || ''),
+          el('span', 'base', tok.surface),
+          el('span', 'rom', (tappable && tok.romaji) || '')
+        );
+        line.append(stk);
+      }
+      row.append(line);
+      const gl = el('div', 'vtrans');
+      gl.append(el('div', null, s.en));
+      if (s.id) gl.append(el('div', 'idn', s.id));
+      row.append(gl);
+      row.addEventListener('click', () => playWord(s, row));
       host.append(row);
     }
   }

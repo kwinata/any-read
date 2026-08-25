@@ -1,6 +1,6 @@
 'use strict';
 
-const VERSION = 'anyread-v1';
+const VERSION = 'anyread-v2'; // v2: beginner audio re-recorded slower
 const SHELL = [
   './',
   'index.html',

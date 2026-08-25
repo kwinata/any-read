@@ -113,9 +113,12 @@ def _process_article(art, lang: str, args, level_override: str | None = None,
 
     audio = None
     voice = args.voice or tts.pick_voice(lang, art.title)
+    rate = args.rate
+    if (level_override or "").lower() == "beginner" and rate == "-10%":
+        rate = "-25%"  # beginners need slower narration than the default
     if not args.no_audio:
-        print(f"Generating audio (edge-tts, {voice})...")
-        audio, timings = tts.synthesize(flat_sentences, lang, voice, args.rate)
+        print(f"Generating audio (edge-tts, {voice}, {rate})...")
+        audio, timings = tts.synthesize(flat_sentences, lang, voice, rate)
         i = 0
         for p in paras:
             for s in p["sentences"]:

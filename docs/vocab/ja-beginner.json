@@ -6,6 +6,8 @@
   {
    "name": "あいさつ",
    "nameEn": "Greetings & expressions",
+   "nameId": "Salam & ungkapan",
+   "nameShort": "Greetings",
    "words": [
     {
      "w": "こんにちは",
@@ -109,19 +111,46 @@
     {
      "w": "いただきます",
      "reading": "いただきます",
-     "en": "let's eat (before a meal)",
+     "en": "(said before eating)",
      "id": "selamat makan (sebelum makan)",
      "romaji": "itadakimasu",
      "start": 22.656,
      "end": 24.864
+    },
+    {
+     "w": "ごちそうさま",
+     "reading": "ごちそうさま",
+     "en": "(said after eating)",
+     "id": "terima kasih atas makanannya",
+     "romaji": "gochisousama",
+     "start": 24.864,
+     "end": 27.12
+    },
+    {
+     "w": "お元気ですか",
+     "reading": "おげんきですか",
+     "en": "how are you?",
+     "id": "apa kabar?",
+     "romaji": "ogenkidesuka",
+     "start": 27.12,
+     "end": 29.496
+    },
+    {
+     "w": "はじめまして",
+     "reading": "はじめまして",
+     "en": "nice to meet you",
+     "id": "senang berkenalan",
+     "romaji": "hajimemashite",
+     "start": 29.496,
+     "end": 31.704
     }
-   ],
-   "nameId": "Salam & ungkapan",
-   "nameShort": "Greetings"
+   ]
   },
   {
    "name": "かず",
    "nameEn": "Numbers",
+   "nameId": "Angka",
+   "nameShort": "Numbers",
    "words": [
     {
      "w": "一",
@@ -129,8 +158,8 @@
      "en": "one",
      "id": "satu",
      "romaji": "ichi",
-     "start": 24.864,
-     "end": 26.64
+     "start": 31.704,
+     "end": 33.48
     },
     {
      "w": "二",
@@ -138,8 +167,8 @@
      "en": "two",
      "id": "dua",
      "romaji": "ni",
-     "start": 26.64,
-     "end": 28.416
+     "start": 33.48,
+     "end": 35.256
     },
     {
      "w": "三",
@@ -147,8 +176,8 @@
      "en": "three",
      "id": "tiga",
      "romaji": "san",
-     "start": 28.416,
-     "end": 30.192
+     "start": 35.256,
+     "end": 37.032
     },
     {
      "w": "四",
@@ -156,8 +185,8 @@
      "en": "four",
      "id": "empat",
      "romaji": "yon",
-     "start": 30.192,
-     "end": 31.968
+     "start": 37.032,
+     "end": 38.808
     },
     {
      "w": "五",
@@ -165,8 +194,44 @@
      "en": "five",
      "id": "lima",
      "romaji": "go",
-     "start": 31.968,
-     "end": 33.744
+     "start": 38.808,
+     "end": 40.584
+    },
+    {
+     "w": "六",
+     "reading": "ろく",
+     "en": "six",
+     "id": "enam",
+     "romaji": "roku",
+     "start": 40.584,
+     "end": 42.36
+    },
+    {
+     "w": "七",
+     "reading": "なな",
+     "en": "seven",
+     "id": "tujuh",
+     "romaji": "nana",
+     "start": 42.36,
+     "end": 44.136
+    },
+    {
+     "w": "八",
+     "reading": "はち",
+     "en": "eight",
+     "id": "delapan",
+     "romaji": "hachi",
+     "start": 44.136,
+     "end": 45.912
+    },
+    {
+     "w": "九",
+     "reading": "きゅう",
+     "en": "nine",
+     "id": "sembilan",
+     "romaji": "kyuu",
+     "start": 45.912,
+     "end": 47.688
     },
     {
      "w": "十",
@@ -174,8 +239,8 @@
      "en": "ten",
      "id": "sepuluh",
      "romaji": "juu",
-     "start": 33.744,
-     "end": 35.52
+     "start": 47.688,
+     "end": 49.464
     },
     {
      "w": "百",
@@ -183,8 +248,8 @@
      "en": "hundred",
      "id": "seratus",
      "romaji": "hyaku",
-     "start": 35.52,
-     "end": 37.296
+     "start": 49.464,
+     "end": 51.24
     },
     {
      "w": "千",
@@ -192,17 +257,17 @@
      "en": "thousand",
      "id": "seribu",
      "romaji": "sen",
-     "start": 37.296,
-     "end": 39.072
+     "start": 51.24,
+     "end": 53.016
     },
     {
-     "w": "万",
-     "reading": "まん",
+     "w": "一万",
+     "reading": "いちまん",
      "en": "ten thousand",
      "id": "sepuluh ribu",
-     "romaji": "man",
-     "start": 39.072,
-     "end": 40.848
+     "romaji": "ichiman",
+     "start": 53.016,
+     "end": 54.864
     },
     {
      "w": "一つ",
@@ -210,8 +275,8 @@
      "en": "one (thing)",
      "id": "satu (benda)",
      "romaji": "hitotsu",
-     "start": 40.848,
-     "end": 42.768
+     "start": 54.864,
+     "end": 56.784
     },
     {
      "w": "二つ",
@@ -219,25 +284,16 @@
      "en": "two (things)",
      "id": "dua (benda)",
      "romaji": "futatsu",
-     "start": 42.768,
-     "end": 44.664
-    },
-    {
-     "w": "三つ",
-     "reading": "みっつ",
-     "en": "three (things)",
-     "id": "tiga (benda)",
-     "romaji": "mittsu",
-     "start": 44.664,
-     "end": 46.488
+     "start": 56.784,
+     "end": 58.68
     }
-   ],
-   "nameId": "Angka",
-   "nameShort": "Numbers"
+   ]
   },
   {
    "name": "じかん",
    "nameEn": "Time & days",
+   "nameId": "Waktu & hari",
+   "nameShort": "Time",
    "words": [
     {
      "w": "今日",
@@ -245,8 +301,8 @@
      "en": "today",
      "id": "hari ini",
      "romaji": "kyou",
-     "start": 46.488,
-     "end": 48.264
+     "start": 58.68,
+     "end": 60.456
     },
     {
      "w": "明日",
@@ -254,8 +310,8 @@
      "en": "tomorrow",
      "id": "besok",
      "romaji": "ashita",
-     "start": 48.264,
-     "end": 50.064
+     "start": 60.456,
+     "end": 62.256
     },
     {
      "w": "今",
@@ -263,8 +319,8 @@
      "en": "now",
      "id": "sekarang",
      "romaji": "ima",
-     "start": 50.064,
-     "end": 51.84
+     "start": 62.256,
+     "end": 64.032
     },
     {
      "w": "昨日",
@@ -272,8 +328,8 @@
      "en": "yesterday",
      "id": "kemarin",
      "romaji": "kinou",
-     "start": 51.84,
-     "end": 53.64
+     "start": 64.032,
+     "end": 65.856
     },
     {
      "w": "朝",
@@ -281,8 +337,8 @@
      "en": "morning",
      "id": "pagi",
      "romaji": "asa",
-     "start": 53.64,
-     "end": 55.416
+     "start": 65.856,
+     "end": 67.632
     },
     {
      "w": "夜",
@@ -290,8 +346,8 @@
      "en": "night",
      "id": "malam",
      "romaji": "yoru",
-     "start": 55.416,
-     "end": 57.192
+     "start": 67.632,
+     "end": 69.408
     },
     {
      "w": "月曜日",
@@ -299,8 +355,8 @@
      "en": "Monday",
      "id": "hari Senin",
      "romaji": "getsuyoubi",
-     "start": 57.192,
-     "end": 59.304
+     "start": 69.408,
+     "end": 71.568
     },
     {
      "w": "火曜日",
@@ -308,8 +364,8 @@
      "en": "Tuesday",
      "id": "hari Selasa",
      "romaji": "kayoubi",
-     "start": 59.304,
-     "end": 61.248
+     "start": 71.568,
+     "end": 73.512
     },
     {
      "w": "水曜日",
@@ -317,8 +373,8 @@
      "en": "Wednesday",
      "id": "hari Rabu",
      "romaji": "suiyoubi",
-     "start": 61.248,
-     "end": 63.36
+     "start": 73.512,
+     "end": 75.672
     },
     {
      "w": "木曜日",
@@ -326,8 +382,8 @@
      "en": "Thursday",
      "id": "hari Kamis",
      "romaji": "mokuyoubi",
-     "start": 63.36,
-     "end": 65.448
+     "start": 75.672,
+     "end": 77.808
     },
     {
      "w": "金曜日",
@@ -335,25 +391,52 @@
      "en": "Friday",
      "id": "hari Jumat",
      "romaji": "kinyoubi",
-     "start": 65.448,
-     "end": 67.44
+     "start": 77.808,
+     "end": 79.872
     },
     {
-     "w": "週末",
-     "reading": "しゅうまつ",
-     "en": "weekend",
-     "id": "akhir pekan",
-     "romaji": "shuumatsu",
-     "start": 67.44,
-     "end": 69.48
+     "w": "土曜日",
+     "reading": "どようび",
+     "en": "Saturday",
+     "id": "hari Sabtu",
+     "romaji": "doyoubi",
+     "start": 79.872,
+     "end": 81.816
+    },
+    {
+     "w": "日曜日",
+     "reading": "にちようび",
+     "en": "Sunday",
+     "id": "hari Minggu",
+     "romaji": "nichiyoubi",
+     "start": 81.816,
+     "end": 83.952
+    },
+    {
+     "w": "毎日",
+     "reading": "まいにち",
+     "en": "every day",
+     "id": "setiap hari",
+     "romaji": "mainichi",
+     "start": 83.952,
+     "end": 85.968
+    },
+    {
+     "w": "今晩",
+     "reading": "こんばん",
+     "en": "tonight",
+     "id": "malam ini",
+     "romaji": "konban",
+     "start": 85.968,
+     "end": 87.768
     }
-   ],
-   "nameId": "Waktu & hari",
-   "nameShort": "Time"
+   ]
   },
   {
    "name": "かぞくとひと",
    "nameEn": "Family & people",
+   "nameId": "Keluarga & orang",
+   "nameShort": "Family",
    "words": [
     {
      "w": "母",
@@ -361,8 +444,17 @@
      "en": "mother (own)",
      "id": "ibu (sendiri)",
      "romaji": "haha",
-     "start": 69.48,
-     "end": 71.256
+     "start": 87.768,
+     "end": 89.544
+    },
+    {
+     "w": "お母さん",
+     "reading": "おかあさん",
+     "en": "mother",
+     "id": "ibu",
+     "romaji": "okaasan",
+     "start": 89.544,
+     "end": 91.584
     },
     {
      "w": "父",
@@ -370,8 +462,17 @@
      "en": "father (own)",
      "id": "ayah (sendiri)",
      "romaji": "chichi",
-     "start": 71.256,
-     "end": 73.032
+     "start": 91.584,
+     "end": 93.36
+    },
+    {
+     "w": "お父さん",
+     "reading": "おとうさん",
+     "en": "father",
+     "id": "ayah",
+     "romaji": "otousan",
+     "start": 93.36,
+     "end": 95.376
     },
     {
      "w": "友達",
@@ -379,8 +480,8 @@
      "en": "friend",
      "id": "teman",
      "romaji": "tomodachi",
-     "start": 73.032,
-     "end": 75.048
+     "start": 95.376,
+     "end": 97.392
     },
     {
      "w": "先生",
@@ -388,8 +489,8 @@
      "en": "teacher",
      "id": "guru",
      "romaji": "sensei",
-     "start": 75.048,
-     "end": 77.016
+     "start": 97.392,
+     "end": 99.36
     },
     {
      "w": "子供",
@@ -397,35 +498,53 @@
      "en": "child",
      "id": "anak",
      "romaji": "kodomo",
-     "start": 77.016,
-     "end": 78.792
-    },
-    {
-     "w": "お母さん",
-     "reading": "おかあさん",
-     "en": "mom (someone's)",
-     "id": "ibu (orang lain)",
-     "romaji": "okaasan",
-     "start": 78.792,
-     "end": 80.832
-    },
-    {
-     "w": "お父さん",
-     "reading": "おとうさん",
-     "en": "dad (someone's)",
-     "id": "ayah (orang lain)",
-     "romaji": "otousan",
-     "start": 80.832,
-     "end": 82.872
+     "start": 99.36,
+     "end": 101.136
     },
     {
      "w": "兄弟",
      "reading": "きょうだい",
-     "en": "siblings",
+     "en": "sibling(s)",
      "id": "saudara kandung",
      "romaji": "kyoudai",
-     "start": 82.872,
-     "end": 84.72
+     "start": 101.136,
+     "end": 102.984
+    },
+    {
+     "w": "兄",
+     "reading": "あに",
+     "en": "older brother (own)",
+     "id": "kakak laki-laki (sendiri)",
+     "romaji": "ani",
+     "start": 102.984,
+     "end": 104.76
+    },
+    {
+     "w": "姉",
+     "reading": "あね",
+     "en": "older sister (own)",
+     "id": "kakak perempuan (sendiri)",
+     "romaji": "ane",
+     "start": 104.76,
+     "end": 106.536
+    },
+    {
+     "w": "弟",
+     "reading": "おとうと",
+     "en": "younger brother",
+     "id": "adik laki-laki",
+     "romaji": "otouto",
+     "start": 106.536,
+     "end": 108.528
+    },
+    {
+     "w": "妹",
+     "reading": "いもうと",
+     "en": "younger sister",
+     "id": "adik perempuan",
+     "romaji": "imouto",
+     "start": 108.528,
+     "end": 110.424
     },
     {
      "w": "家族",
@@ -433,8 +552,8 @@
      "en": "family",
      "id": "keluarga",
      "romaji": "kazoku",
-     "start": 84.72,
-     "end": 86.64
+     "start": 110.424,
+     "end": 112.344
     },
     {
      "w": "人",
@@ -442,34 +561,25 @@
      "en": "person",
      "id": "orang",
      "romaji": "hito",
-     "start": 86.64,
-     "end": 88.416
+     "start": 112.344,
+     "end": 114.12
     },
     {
-     "w": "男の子",
-     "reading": "おとこのこ",
-     "en": "boy",
-     "id": "anak laki-laki",
-     "romaji": "otokonoko",
-     "start": 88.416,
-     "end": 90.48
-    },
-    {
-     "w": "女の子",
-     "reading": "おんなのこ",
-     "en": "girl",
-     "id": "anak perempuan",
-     "romaji": "onnanoko",
-     "start": 90.48,
-     "end": 92.52
+     "w": "名前",
+     "reading": "なまえ",
+     "en": "name",
+     "id": "nama",
+     "romaji": "namae",
+     "start": 114.12,
+     "end": 115.944
     }
-   ],
-   "nameId": "Keluarga & orang",
-   "nameShort": "Family"
+   ]
   },
   {
    "name": "たべものとのみもの",
    "nameEn": "Food & drink",
+   "nameId": "Makanan & minuman",
+   "nameShort": "Food",
    "words": [
     {
      "w": "水",
@@ -477,17 +587,8 @@
      "en": "water",
      "id": "air",
      "romaji": "mizu",
-     "start": 92.52,
-     "end": 94.296
-    },
-    {
-     "w": "お茶",
-     "reading": "おちゃ",
-     "en": "tea",
-     "id": "teh",
-     "romaji": "ocha",
-     "start": 94.296,
-     "end": 96.072
+     "start": 115.944,
+     "end": 117.72
     },
     {
      "w": "ご飯",
@@ -495,17 +596,17 @@
      "en": "rice/meal",
      "id": "nasi",
      "romaji": "gohan",
-     "start": 96.072,
-     "end": 97.848
+     "start": 117.72,
+     "end": 119.496
     },
     {
-     "w": "肉",
-     "reading": "にく",
-     "en": "meat",
-     "id": "daging",
-     "romaji": "niku",
-     "start": 97.848,
-     "end": 99.624
+     "w": "お茶",
+     "reading": "おちゃ",
+     "en": "tea",
+     "id": "teh",
+     "romaji": "ocha",
+     "start": 119.496,
+     "end": 121.272
     },
     {
      "w": "魚",
@@ -513,8 +614,17 @@
      "en": "fish",
      "id": "ikan",
      "romaji": "sakana",
-     "start": 99.624,
-     "end": 101.4
+     "start": 121.272,
+     "end": 123.144
+    },
+    {
+     "w": "肉",
+     "reading": "にく",
+     "en": "meat",
+     "id": "daging",
+     "romaji": "niku",
+     "start": 123.144,
+     "end": 124.92
     },
     {
      "w": "パン",
@@ -522,8 +632,8 @@
      "en": "bread",
      "id": "roti",
      "romaji": "pan",
-     "start": 101.4,
-     "end": 103.176
+     "start": 124.92,
+     "end": 126.696
     },
     {
      "w": "卵",
@@ -531,8 +641,8 @@
      "en": "egg",
      "id": "telur",
      "romaji": "tamago",
-     "start": 103.176,
-     "end": 104.952
+     "start": 126.696,
+     "end": 128.472
     },
     {
      "w": "果物",
@@ -540,8 +650,8 @@
      "en": "fruit",
      "id": "buah",
      "romaji": "kudamono",
-     "start": 104.952,
-     "end": 106.848
+     "start": 128.472,
+     "end": 130.392
     },
     {
      "w": "野菜",
@@ -549,8 +659,8 @@
      "en": "vegetable",
      "id": "sayur",
      "romaji": "yasai",
-     "start": 106.848,
-     "end": 108.72
+     "start": 130.392,
+     "end": 132.24
     },
     {
      "w": "牛乳",
@@ -558,8 +668,26 @@
      "en": "milk",
      "id": "susu",
      "romaji": "gyuunyuu",
-     "start": 108.72,
-     "end": 110.688
+     "start": 132.24,
+     "end": 134.208
+    },
+    {
+     "w": "食べ物",
+     "reading": "たべもの",
+     "en": "food",
+     "id": "makanan",
+     "romaji": "tabemono",
+     "start": 134.208,
+     "end": 136.128
+    },
+    {
+     "w": "飲み物",
+     "reading": "のみもの",
+     "en": "drink",
+     "id": "minuman",
+     "romaji": "nomimono",
+     "start": 136.128,
+     "end": 138.048
     },
     {
      "w": "コーヒー",
@@ -567,8 +695,8 @@
      "en": "coffee",
      "id": "kopi",
      "romaji": "koohii",
-     "start": 110.688,
-     "end": 112.608
+     "start": 138.048,
+     "end": 139.968
     },
     {
      "w": "塩",
@@ -576,16 +704,25 @@
      "en": "salt",
      "id": "garam",
      "romaji": "shio",
-     "start": 112.608,
-     "end": 114.384
+     "start": 139.968,
+     "end": 141.744
+    },
+    {
+     "w": "砂糖",
+     "reading": "さとう",
+     "en": "sugar",
+     "id": "gula",
+     "romaji": "satou",
+     "start": 141.744,
+     "end": 143.616
     }
-   ],
-   "nameId": "Makanan & minuman",
-   "nameShort": "Food"
+   ]
   },
   {
    "name": "ばしょ",
    "nameEn": "Places",
+   "nameId": "Tempat",
+   "nameShort": "Places",
    "words": [
     {
      "w": "家",
@@ -593,8 +730,8 @@
      "en": "house",
      "id": "rumah",
      "romaji": "ie",
-     "start": 114.384,
-     "end": 116.16
+     "start": 143.616,
+     "end": 145.392
     },
     {
      "w": "学校",
@@ -602,8 +739,8 @@
      "en": "school",
      "id": "sekolah",
      "romaji": "gakkou",
-     "start": 116.16,
-     "end": 118.152
+     "start": 145.392,
+     "end": 147.336
     },
     {
      "w": "駅",
@@ -611,8 +748,8 @@
      "en": "station",
      "id": "stasiun",
      "romaji": "eki",
-     "start": 118.152,
-     "end": 119.928
+     "start": 147.336,
+     "end": 149.112
     },
     {
      "w": "店",
@@ -620,8 +757,8 @@
      "en": "shop",
      "id": "toko",
      "romaji": "mise",
-     "start": 119.928,
-     "end": 121.704
+     "start": 149.112,
+     "end": 150.888
     },
     {
      "w": "病院",
@@ -629,8 +766,8 @@
      "en": "hospital",
      "id": "rumah sakit",
      "romaji": "byouin",
-     "start": 121.704,
-     "end": 123.6
+     "start": 150.888,
+     "end": 152.736
     },
     {
      "w": "公園",
@@ -638,8 +775,8 @@
      "en": "park",
      "id": "taman",
      "romaji": "kouen",
-     "start": 123.6,
-     "end": 125.472
+     "start": 152.736,
+     "end": 154.584
     },
     {
      "w": "トイレ",
@@ -647,8 +784,8 @@
      "en": "toilet",
      "id": "toilet",
      "romaji": "toire",
-     "start": 125.472,
-     "end": 127.248
+     "start": 154.584,
+     "end": 156.36
     },
     {
      "w": "国",
@@ -656,8 +793,8 @@
      "en": "country",
      "id": "negara",
      "romaji": "kuni",
-     "start": 127.248,
-     "end": 129.024
+     "start": 156.36,
+     "end": 158.136
     },
     {
      "w": "町",
@@ -665,8 +802,8 @@
      "en": "town",
      "id": "kota kecil",
      "romaji": "machi",
-     "start": 129.024,
-     "end": 130.8
+     "start": 158.136,
+     "end": 159.912
     },
     {
      "w": "部屋",
@@ -674,8 +811,8 @@
      "en": "room",
      "id": "kamar",
      "romaji": "heya",
-     "start": 130.8,
-     "end": 132.576
+     "start": 159.912,
+     "end": 161.688
     },
     {
      "w": "銀行",
@@ -683,8 +820,8 @@
      "en": "bank",
      "id": "bank",
      "romaji": "ginkou",
-     "start": 132.576,
-     "end": 134.544
+     "start": 161.688,
+     "end": 163.68
     },
     {
      "w": "図書館",
@@ -692,16 +829,43 @@
      "en": "library",
      "id": "perpustakaan",
      "romaji": "toshokan",
-     "start": 134.544,
-     "end": 136.512
+     "start": 163.68,
+     "end": 165.672
+    },
+    {
+     "w": "会社",
+     "reading": "かいしゃ",
+     "en": "company",
+     "id": "kantor",
+     "romaji": "kaisha",
+     "start": 165.672,
+     "end": 167.52
+    },
+    {
+     "w": "空港",
+     "reading": "くうこう",
+     "en": "airport",
+     "id": "bandara",
+     "romaji": "kuukou",
+     "start": 167.52,
+     "end": 169.584
+    },
+    {
+     "w": "郵便局",
+     "reading": "ゆうびんきょく",
+     "en": "post office",
+     "id": "kantor pos",
+     "romaji": "yuubinkyoku",
+     "start": 169.584,
+     "end": 171.84
     }
-   ],
-   "nameId": "Tempat",
-   "nameShort": "Places"
+   ]
   },
   {
    "name": "どうし",
    "nameEn": "Verbs",
+   "nameId": "Kata kerja",
+   "nameShort": "Verbs",
    "words": [
     {
      "w": "食べます",
@@ -709,8 +873,8 @@
      "en": "to eat",
      "id": "makan",
      "romaji": "tabemasu",
-     "start": 136.512,
-     "end": 138.456
+     "start": 171.84,
+     "end": 173.784
     },
     {
      "w": "飲みます",
@@ -718,8 +882,8 @@
      "en": "to drink",
      "id": "minum",
      "romaji": "nomimasu",
-     "start": 138.456,
-     "end": 140.448
+     "start": 173.784,
+     "end": 175.776
     },
     {
      "w": "行きます",
@@ -727,8 +891,8 @@
      "en": "to go",
      "id": "pergi",
      "romaji": "ikimasu",
-     "start": 140.448,
-     "end": 142.368
+     "start": 175.776,
+     "end": 177.696
     },
     {
      "w": "来ます",
@@ -736,8 +900,8 @@
      "en": "to come",
      "id": "datang",
      "romaji": "kimasu",
-     "start": 142.368,
-     "end": 144.144
+     "start": 177.696,
+     "end": 179.472
     },
     {
      "w": "見ます",
@@ -745,8 +909,8 @@
      "en": "to see/watch",
      "id": "melihat",
      "romaji": "mimasu",
-     "start": 144.144,
-     "end": 145.944
+     "start": 179.472,
+     "end": 181.272
     },
     {
      "w": "します",
@@ -754,8 +918,8 @@
      "en": "to do",
      "id": "melakukan",
      "romaji": "shimasu",
-     "start": 145.944,
-     "end": 147.792
+     "start": 181.272,
+     "end": 183.12
     },
     {
      "w": "買います",
@@ -763,8 +927,8 @@
      "en": "to buy",
      "id": "membeli",
      "romaji": "kaimasu",
-     "start": 147.792,
-     "end": 149.712
+     "start": 183.12,
+     "end": 185.04
     },
     {
      "w": "寝ます",
@@ -772,8 +936,8 @@
      "en": "to sleep",
      "id": "tidur",
      "romaji": "nemasu",
-     "start": 149.712,
-     "end": 151.512
+     "start": 185.04,
+     "end": 186.84
     },
     {
      "w": "読みます",
@@ -781,8 +945,8 @@
      "en": "to read",
      "id": "membaca",
      "romaji": "yomimasu",
-     "start": 151.512,
-     "end": 153.504
+     "start": 186.84,
+     "end": 188.832
     },
     {
      "w": "話します",
@@ -790,8 +954,8 @@
      "en": "to speak",
      "id": "berbicara",
      "romaji": "hanashimasu",
-     "start": 153.504,
-     "end": 155.544
+     "start": 188.832,
+     "end": 190.896
     },
     {
      "w": "聞きます",
@@ -799,8 +963,8 @@
      "en": "to listen/ask",
      "id": "mendengar",
      "romaji": "kikimasu",
-     "start": 155.544,
-     "end": 157.488
+     "start": 190.896,
+     "end": 192.864
     },
     {
      "w": "書きます",
@@ -808,16 +972,43 @@
      "en": "to write",
      "id": "menulis",
      "romaji": "kakimasu",
-     "start": 157.488,
-     "end": 159.408
+     "start": 192.864,
+     "end": 194.784
+    },
+    {
+     "w": "会います",
+     "reading": "あいます",
+     "en": "to meet",
+     "id": "bertemu",
+     "romaji": "aimasu",
+     "start": 194.784,
+     "end": 196.656
+    },
+    {
+     "w": "帰ります",
+     "reading": "かえります",
+     "en": "to return home",
+     "id": "pulang",
+     "romaji": "kaerimasu",
+     "start": 196.656,
+     "end": 198.744
+    },
+    {
+     "w": "分かります",
+     "reading": "わかります",
+     "en": "to understand",
+     "id": "mengerti",
+     "romaji": "wakarimasu",
+     "start": 198.744,
+     "end": 200.808
     }
-   ],
-   "nameId": "Kata kerja",
-   "nameShort": "Verbs"
+   ]
   },
   {
    "name": "けいようし",
    "nameEn": "Adjectives",
+   "nameId": "Kata sifat",
+   "nameShort": "Adjectives",
    "words": [
     {
      "w": "大きい",
@@ -825,8 +1016,8 @@
      "en": "big",
      "id": "besar",
      "romaji": "ookii",
-     "start": 159.408,
-     "end": 161.4
+     "start": 200.808,
+     "end": 202.8
     },
     {
      "w": "小さい",
@@ -834,8 +1025,8 @@
      "en": "small",
      "id": "kecil",
      "romaji": "chiisai",
-     "start": 161.4,
-     "end": 163.368
+     "start": 202.8,
+     "end": 204.768
     },
     {
      "w": "いい",
@@ -843,53 +1034,17 @@
      "en": "good",
      "id": "bagus",
      "romaji": "ii",
-     "start": 163.368,
-     "end": 165.144
+     "start": 204.768,
+     "end": 206.544
     },
     {
-     "w": "美味しい",
+     "w": "おいしい",
      "reading": "おいしい",
      "en": "delicious",
      "id": "enak",
      "romaji": "oishii",
-     "start": 165.144,
-     "end": 167.064
-    },
-    {
-     "w": "暑い",
-     "reading": "あつい",
-     "en": "hot (weather)",
-     "id": "panas",
-     "romaji": "atsui",
-     "start": 167.064,
-     "end": 168.888
-    },
-    {
-     "w": "寒い",
-     "reading": "さむい",
-     "en": "cold (weather)",
-     "id": "dingin",
-     "romaji": "samui",
-     "start": 168.888,
-     "end": 170.688
-    },
-    {
-     "w": "高い",
-     "reading": "たかい",
-     "en": "expensive",
-     "id": "mahal",
-     "romaji": "takai",
-     "start": 170.688,
-     "end": 172.464
-    },
-    {
-     "w": "安い",
-     "reading": "やすい",
-     "en": "cheap",
-     "id": "murah",
-     "romaji": "yasui",
-     "start": 172.464,
-     "end": 174.336
+     "start": 206.544,
+     "end": 208.512
     },
     {
      "w": "楽しい",
@@ -897,43 +1052,106 @@
      "en": "fun",
      "id": "menyenangkan",
      "romaji": "tanoshii",
-     "start": 174.336,
-     "end": 176.328
+     "start": 208.512,
+     "end": 210.528
     },
     {
      "w": "熱い",
      "reading": "あつい",
-     "en": "hot (to touch)",
-     "id": "panas (benda)",
+     "en": "hot (object)",
+     "id": "panas",
      "romaji": "atsui",
-     "start": 176.328,
-     "end": 178.152
+     "start": 210.528,
+     "end": 212.352
+    },
+    {
+     "w": "暑い",
+     "reading": "あつい",
+     "en": "hot (weather)",
+     "id": "panas (cuaca)",
+     "romaji": "atsui",
+     "start": 212.352,
+     "end": 214.176
+    },
+    {
+     "w": "寒い",
+     "reading": "さむい",
+     "en": "cold (weather)",
+     "id": "dingin (cuaca)",
+     "romaji": "samui",
+     "start": 214.176,
+     "end": 216.0
     },
     {
      "w": "冷たい",
      "reading": "つめたい",
-     "en": "cold (to touch)",
+     "en": "cold (object)",
      "id": "dingin (benda)",
      "romaji": "tsumetai",
-     "start": 178.152,
-     "end": 180.12
+     "start": 216.0,
+     "end": 217.92
     },
     {
-     "w": "面白い",
-     "reading": "おもしろい",
-     "en": "interesting",
-     "id": "menarik",
-     "romaji": "omoshiroi",
-     "start": 180.12,
-     "end": 182.16
+     "w": "高い",
+     "reading": "たかい",
+     "en": "expensive",
+     "id": "mahal",
+     "romaji": "takai",
+     "start": 217.92,
+     "end": 219.696
+    },
+    {
+     "w": "安い",
+     "reading": "やすい",
+     "en": "cheap",
+     "id": "murah",
+     "romaji": "yasui",
+     "start": 219.696,
+     "end": 221.568
+    },
+    {
+     "w": "新しい",
+     "reading": "あたらしい",
+     "en": "new",
+     "id": "baru",
+     "romaji": "atarashii",
+     "start": 221.568,
+     "end": 223.728
+    },
+    {
+     "w": "古い",
+     "reading": "ふるい",
+     "en": "old",
+     "id": "lama/tua",
+     "romaji": "furui",
+     "start": 223.728,
+     "end": 225.504
+    },
+    {
+     "w": "難しい",
+     "reading": "むずかしい",
+     "en": "difficult",
+     "id": "sulit",
+     "romaji": "muzukashii",
+     "start": 225.504,
+     "end": 227.664
+    },
+    {
+     "w": "易しい",
+     "reading": "やさしい",
+     "en": "easy",
+     "id": "mudah",
+     "romaji": "yasashii",
+     "start": 227.664,
+     "end": 229.704
     }
-   ],
-   "nameId": "Kata sifat",
-   "nameShort": "Adjectives"
+   ]
   },
   {
    "name": "ぎもんし",
    "nameEn": "Question words & pronouns",
+   "nameId": "Kata tanya & kata ganti",
+   "nameShort": "Questions",
    "words": [
     {
      "w": "何",
@@ -941,17 +1159,8 @@
      "en": "what",
      "id": "apa",
      "romaji": "nani",
-     "start": 182.16,
-     "end": 183.936
-    },
-    {
-     "w": "誰",
-     "reading": "だれ",
-     "en": "who",
-     "id": "siapa",
-     "romaji": "dare",
-     "start": 183.936,
-     "end": 185.712
+     "start": 229.704,
+     "end": 231.48
     },
     {
      "w": "私",
@@ -959,8 +1168,8 @@
      "en": "I",
      "id": "saya",
      "romaji": "watashi",
-     "start": 185.712,
-     "end": 187.656
+     "start": 231.48,
+     "end": 233.376
     },
     {
      "w": "あなた",
@@ -968,8 +1177,8 @@
      "en": "you",
      "id": "kamu",
      "romaji": "anata",
-     "start": 187.656,
-     "end": 189.432
+     "start": 233.376,
+     "end": 235.152
     },
     {
      "w": "どこ",
@@ -977,8 +1186,17 @@
      "en": "where",
      "id": "di mana",
      "romaji": "doko",
-     "start": 189.432,
-     "end": 191.208
+     "start": 235.152,
+     "end": 236.928
+    },
+    {
+     "w": "誰",
+     "reading": "だれ",
+     "en": "who",
+     "id": "siapa",
+     "romaji": "dare",
+     "start": 236.928,
+     "end": 238.704
     },
     {
      "w": "いつ",
@@ -986,26 +1204,8 @@
      "en": "when",
      "id": "kapan",
      "romaji": "itsu",
-     "start": 191.208,
-     "end": 192.984
-    },
-    {
-     "w": "これ",
-     "reading": "これ",
-     "en": "this",
-     "id": "ini",
-     "romaji": "kore",
-     "start": 192.984,
-     "end": 194.76
-    },
-    {
-     "w": "それ",
-     "reading": "それ",
-     "en": "that",
-     "id": "itu",
-     "romaji": "sore",
-     "start": 194.76,
-     "end": 196.536
+     "start": 238.704,
+     "end": 240.48
     },
     {
      "w": "どう",
@@ -1013,43 +1213,88 @@
      "en": "how",
      "id": "bagaimana",
      "romaji": "dou",
-     "start": 196.536,
-     "end": 198.312
+     "start": 240.48,
+     "end": 242.256
     },
     {
-     "w": "なぜ",
+     "w": "何故",
      "reading": "なぜ",
      "en": "why",
      "id": "mengapa",
      "romaji": "naze",
-     "start": 198.312,
-     "end": 200.088
+     "start": 242.256,
+     "end": 244.032
     },
     {
-     "w": "いくら",
+     "w": "幾ら",
      "reading": "いくら",
      "en": "how much",
      "id": "berapa harga",
      "romaji": "ikura",
-     "start": 200.088,
-     "end": 201.864
+     "start": 244.032,
+     "end": 245.808
+    },
+    {
+     "w": "これ",
+     "reading": "これ",
+     "en": "this",
+     "id": "ini",
+     "romaji": "kore",
+     "start": 245.808,
+     "end": 247.584
+    },
+    {
+     "w": "それ",
+     "reading": "それ",
+     "en": "that",
+     "id": "itu",
+     "romaji": "sore",
+     "start": 247.584,
+     "end": 249.36
     },
     {
      "w": "どれ",
      "reading": "どれ",
-     "en": "which one",
+     "en": "which",
      "id": "yang mana",
      "romaji": "dore",
-     "start": 201.864,
-     "end": 203.64
+     "start": 249.36,
+     "end": 251.136
+    },
+    {
+     "w": "幾つ",
+     "reading": "いくつ",
+     "en": "how many",
+     "id": "berapa banyak",
+     "romaji": "ikutsu",
+     "start": 251.136,
+     "end": 253.056
+    },
+    {
+     "w": "どちら",
+     "reading": "どちら",
+     "en": "which way",
+     "id": "yang mana (arah)",
+     "romaji": "dochira",
+     "start": 253.056,
+     "end": 254.88
+    },
+    {
+     "w": "何時",
+     "reading": "なんじ",
+     "en": "what time",
+     "id": "jam berapa",
+     "romaji": "nanji",
+     "start": 254.88,
+     "end": 256.656
     }
-   ],
-   "nameId": "Kata tanya & kata ganti",
-   "nameShort": "Questions"
+   ]
   },
   {
    "name": "いろとしぜん",
    "nameEn": "Colors & nature",
+   "nameId": "Warna & alam",
+   "nameShort": "Colors",
    "words": [
     {
      "w": "赤",
@@ -1057,8 +1302,8 @@
      "en": "red",
      "id": "merah",
      "romaji": "aka",
-     "start": 203.64,
-     "end": 205.416
+     "start": 256.656,
+     "end": 258.432
     },
     {
      "w": "青",
@@ -1066,8 +1311,8 @@
      "en": "blue",
      "id": "biru",
      "romaji": "ao",
-     "start": 205.416,
-     "end": 207.192
+     "start": 258.432,
+     "end": 260.208
     },
     {
      "w": "白",
@@ -1075,8 +1320,8 @@
      "en": "white",
      "id": "putih",
      "romaji": "shiro",
-     "start": 207.192,
-     "end": 208.968
+     "start": 260.208,
+     "end": 261.984
     },
     {
      "w": "黒",
@@ -1084,8 +1329,8 @@
      "en": "black",
      "id": "hitam",
      "romaji": "kuro",
-     "start": 208.968,
-     "end": 210.744
+     "start": 261.984,
+     "end": 263.76
     },
     {
      "w": "空",
@@ -1093,8 +1338,8 @@
      "en": "sky",
      "id": "langit",
      "romaji": "sora",
-     "start": 210.744,
-     "end": 212.52
+     "start": 263.76,
+     "end": 265.536
     },
     {
      "w": "海",
@@ -1102,8 +1347,8 @@
      "en": "sea",
      "id": "laut",
      "romaji": "umi",
-     "start": 212.52,
-     "end": 214.296
+     "start": 265.536,
+     "end": 267.312
     },
     {
      "w": "山",
@@ -1111,8 +1356,8 @@
      "en": "mountain",
      "id": "gunung",
      "romaji": "yama",
-     "start": 214.296,
-     "end": 216.072
+     "start": 267.312,
+     "end": 269.088
     },
     {
      "w": "雨",
@@ -1120,8 +1365,8 @@
      "en": "rain",
      "id": "hujan",
      "romaji": "ame",
-     "start": 216.072,
-     "end": 217.848
+     "start": 269.088,
+     "end": 270.864
     },
     {
      "w": "花",
@@ -1129,8 +1374,8 @@
      "en": "flower",
      "id": "bunga",
      "romaji": "hana",
-     "start": 217.848,
-     "end": 219.624
+     "start": 270.864,
+     "end": 272.64
     },
     {
      "w": "木",
@@ -1138,17 +1383,8 @@
      "en": "tree",
      "id": "pohon",
      "romaji": "ki",
-     "start": 219.624,
-     "end": 221.4
-    },
-    {
-     "w": "色",
-     "reading": "いろ",
-     "en": "color",
-     "id": "warna",
-     "romaji": "iro",
-     "start": 221.4,
-     "end": 223.176
+     "start": 272.64,
+     "end": 274.416
     },
     {
      "w": "緑",
@@ -1156,12 +1392,3142 @@
      "en": "green",
      "id": "hijau",
      "romaji": "midori",
-     "start": 223.176,
-     "end": 224.952
+     "start": 274.416,
+     "end": 276.192
+    },
+    {
+     "w": "黄色",
+     "reading": "きいろ",
+     "en": "yellow",
+     "id": "kuning",
+     "romaji": "kiiro",
+     "start": 276.192,
+     "end": 277.992
+    },
+    {
+     "w": "太陽",
+     "reading": "たいよう",
+     "en": "sun",
+     "id": "matahari",
+     "romaji": "taiyou",
+     "start": 277.992,
+     "end": 279.912
+    },
+    {
+     "w": "川",
+     "reading": "かわ",
+     "en": "river",
+     "id": "sungai",
+     "romaji": "kawa",
+     "start": 279.912,
+     "end": 281.688
+    },
+    {
+     "w": "色",
+     "reading": "いろ",
+     "en": "color",
+     "id": "warna",
+     "romaji": "iro",
+     "start": 281.688,
+     "end": 283.464
     }
-   ],
-   "nameId": "Warna & alam",
-   "nameShort": "Colors"
+   ]
+  },
+  {
+   "name": "からだ",
+   "nameEn": "Body & health",
+   "nameId": "Tubuh & kesehatan",
+   "nameShort": "Body",
+   "words": [
+    {
+     "w": "頭",
+     "reading": "あたま",
+     "en": "head",
+     "id": "kepala",
+     "romaji": "atama",
+     "start": 283.464,
+     "end": 285.24
+    },
+    {
+     "w": "手",
+     "reading": "て",
+     "en": "hand",
+     "id": "tangan",
+     "romaji": "te",
+     "start": 285.24,
+     "end": 287.016
+    },
+    {
+     "w": "目",
+     "reading": "め",
+     "en": "eye",
+     "id": "mata",
+     "romaji": "me",
+     "start": 287.016,
+     "end": 288.792
+    },
+    {
+     "w": "お腹",
+     "reading": "おなか",
+     "en": "stomach",
+     "id": "perut",
+     "romaji": "onaka",
+     "start": 288.792,
+     "end": 290.568
+    },
+    {
+     "w": "病気",
+     "reading": "びょうき",
+     "en": "sick",
+     "id": "sakit (penyakit)",
+     "romaji": "byouki",
+     "start": 290.568,
+     "end": 292.416
+    },
+    {
+     "w": "痛い",
+     "reading": "いたい",
+     "en": "it hurts",
+     "id": "sakit (nyeri)",
+     "romaji": "itai",
+     "start": 292.416,
+     "end": 294.192
+    },
+    {
+     "w": "薬",
+     "reading": "くすり",
+     "en": "medicine",
+     "id": "obat",
+     "romaji": "kusuri",
+     "start": 294.192,
+     "end": 295.968
+    },
+    {
+     "w": "医者",
+     "reading": "いしゃ",
+     "en": "doctor",
+     "id": "dokter",
+     "romaji": "isha",
+     "start": 295.968,
+     "end": 297.744
+    },
+    {
+     "w": "疲れた",
+     "reading": "つかれた",
+     "en": "tired",
+     "id": "lelah",
+     "romaji": "tsukareta",
+     "start": 297.744,
+     "end": 299.616
+    },
+    {
+     "w": "熱",
+     "reading": "ねつ",
+     "en": "fever",
+     "id": "demam",
+     "romaji": "netsu",
+     "start": 299.616,
+     "end": 301.392
+    },
+    {
+     "w": "顔",
+     "reading": "かお",
+     "en": "face",
+     "id": "wajah",
+     "romaji": "kao",
+     "start": 301.392,
+     "end": 303.168
+    },
+    {
+     "w": "耳",
+     "reading": "みみ",
+     "en": "ear",
+     "id": "telinga",
+     "romaji": "mimi",
+     "start": 303.168,
+     "end": 304.944
+    },
+    {
+     "w": "足",
+     "reading": "あし",
+     "en": "leg/foot",
+     "id": "kaki",
+     "romaji": "ashi",
+     "start": 304.944,
+     "end": 306.72
+    },
+    {
+     "w": "元気",
+     "reading": "げんき",
+     "en": "healthy/fine",
+     "id": "sehat",
+     "romaji": "genki",
+     "start": 306.72,
+     "end": 308.568
+    }
+   ]
+  },
+  {
+   "name": "ふくともちもの",
+   "nameEn": "Clothes & belongings",
+   "nameId": "Pakaian & barang",
+   "nameShort": "Clothes",
+   "words": [
+    {
+     "w": "服",
+     "reading": "ふく",
+     "en": "clothes",
+     "id": "baju",
+     "romaji": "fuku",
+     "start": 308.568,
+     "end": 310.344
+    },
+    {
+     "w": "靴",
+     "reading": "くつ",
+     "en": "shoes",
+     "id": "sepatu",
+     "romaji": "kutsu",
+     "start": 310.344,
+     "end": 312.12
+    },
+    {
+     "w": "鞄",
+     "reading": "かばん",
+     "en": "bag",
+     "id": "tas",
+     "romaji": "kaban",
+     "start": 312.12,
+     "end": 313.896
+    },
+    {
+     "w": "傘",
+     "reading": "かさ",
+     "en": "umbrella",
+     "id": "payung",
+     "romaji": "kasa",
+     "start": 313.896,
+     "end": 315.672
+    },
+    {
+     "w": "スマホ",
+     "reading": "すまほ",
+     "en": "phone",
+     "id": "hp",
+     "romaji": "sumaho",
+     "start": 315.672,
+     "end": 317.544
+    },
+    {
+     "w": "お金",
+     "reading": "おかね",
+     "en": "money",
+     "id": "uang",
+     "romaji": "okane",
+     "start": 317.544,
+     "end": 319.32
+    },
+    {
+     "w": "鍵",
+     "reading": "かぎ",
+     "en": "key",
+     "id": "kunci",
+     "romaji": "kagi",
+     "start": 319.32,
+     "end": 321.096
+    },
+    {
+     "w": "時計",
+     "reading": "とけい",
+     "en": "watch",
+     "id": "jam",
+     "romaji": "tokei",
+     "start": 321.096,
+     "end": 322.872
+    },
+    {
+     "w": "財布",
+     "reading": "さいふ",
+     "en": "wallet",
+     "id": "dompet",
+     "romaji": "saifu",
+     "start": 322.872,
+     "end": 324.792
+    },
+    {
+     "w": "帽子",
+     "reading": "ぼうし",
+     "en": "hat",
+     "id": "topi",
+     "romaji": "boushi",
+     "start": 324.792,
+     "end": 326.664
+    },
+    {
+     "w": "ズボン",
+     "reading": "ずぼん",
+     "en": "pants",
+     "id": "celana",
+     "romaji": "zubon",
+     "start": 326.664,
+     "end": 328.44
+    },
+    {
+     "w": "シャツ",
+     "reading": "しゃつ",
+     "en": "shirt",
+     "id": "kemeja",
+     "romaji": "shatsu",
+     "start": 328.44,
+     "end": 330.24
+    },
+    {
+     "w": "眼鏡",
+     "reading": "めがね",
+     "en": "glasses",
+     "id": "kacamata",
+     "romaji": "megane",
+     "start": 330.24,
+     "end": 332.064
+    },
+    {
+     "w": "靴下",
+     "reading": "くつした",
+     "en": "socks",
+     "id": "kaus kaki",
+     "romaji": "kutsushita",
+     "start": 332.064,
+     "end": 334.032
+    },
+    {
+     "w": "定期券",
+     "reading": "ていきけん",
+     "en": "commuter pass",
+     "id": "kartu langganan",
+     "romaji": "teikiken",
+     "start": 334.032,
+     "end": 336.048
+    }
+   ]
+  },
+  {
+   "name": "のりもの",
+   "nameEn": "Transport",
+   "nameId": "Transportasi",
+   "nameShort": "Transport",
+   "words": [
+    {
+     "w": "電車",
+     "reading": "でんしゃ",
+     "en": "train",
+     "id": "kereta listrik",
+     "romaji": "densha",
+     "start": 336.048,
+     "end": 337.896
+    },
+    {
+     "w": "バス",
+     "reading": "ばす",
+     "en": "bus",
+     "id": "bus",
+     "romaji": "basu",
+     "start": 337.896,
+     "end": 339.672
+    },
+    {
+     "w": "車",
+     "reading": "くるま",
+     "en": "car",
+     "id": "mobil",
+     "romaji": "kuruma",
+     "start": 339.672,
+     "end": 341.448
+    },
+    {
+     "w": "自転車",
+     "reading": "じてんしゃ",
+     "en": "bicycle",
+     "id": "sepeda",
+     "romaji": "jitensha",
+     "start": 341.448,
+     "end": 343.44
+    },
+    {
+     "w": "飛行機",
+     "reading": "ひこうき",
+     "en": "airplane",
+     "id": "pesawat",
+     "romaji": "hikouki",
+     "start": 343.44,
+     "end": 345.432
+    },
+    {
+     "w": "タクシー",
+     "reading": "たくしー",
+     "en": "taxi",
+     "id": "taksi",
+     "romaji": "takushii",
+     "start": 345.432,
+     "end": 347.4
+    },
+    {
+     "w": "地下鉄",
+     "reading": "ちかてつ",
+     "en": "subway",
+     "id": "kereta bawah tanah",
+     "romaji": "chikatetsu",
+     "start": 347.4,
+     "end": 349.44
+    },
+    {
+     "w": "ホーム",
+     "reading": "ほーむ",
+     "en": "platform",
+     "id": "peron",
+     "romaji": "hoomu",
+     "start": 349.44,
+     "end": 351.216
+    },
+    {
+     "w": "切符",
+     "reading": "きっぷ",
+     "en": "ticket",
+     "id": "tiket",
+     "romaji": "kippu",
+     "start": 351.216,
+     "end": 352.992
+    },
+    {
+     "w": "乗る",
+     "reading": "のる",
+     "en": "to ride/board",
+     "id": "naik",
+     "romaji": "noru",
+     "start": 352.992,
+     "end": 354.768
+    },
+    {
+     "w": "降りる",
+     "reading": "おりる",
+     "en": "to get off",
+     "id": "turun",
+     "romaji": "oriru",
+     "start": 354.768,
+     "end": 356.544
+    },
+    {
+     "w": "道",
+     "reading": "みち",
+     "en": "road",
+     "id": "jalan",
+     "romaji": "michi",
+     "start": 356.544,
+     "end": 358.32
+    },
+    {
+     "w": "運転する",
+     "reading": "うんてんする",
+     "en": "to drive",
+     "id": "menyetir",
+     "romaji": "untensuru",
+     "start": 358.32,
+     "end": 360.552
+    },
+    {
+     "w": "歩く",
+     "reading": "あるく",
+     "en": "to walk",
+     "id": "berjalan kaki",
+     "romaji": "aruku",
+     "start": 360.552,
+     "end": 362.352
+    }
+   ]
+  },
+  {
+   "name": "がっこうとしごと",
+   "nameEn": "School & work",
+   "nameId": "Sekolah & kerja",
+   "nameShort": "School",
+   "words": [
+    {
+     "w": "仕事",
+     "reading": "しごと",
+     "en": "work/job",
+     "id": "pekerjaan",
+     "romaji": "shigoto",
+     "start": 362.352,
+     "end": 364.272
+    },
+    {
+     "w": "学生",
+     "reading": "がくせい",
+     "en": "student",
+     "id": "siswa/mahasiswa",
+     "romaji": "gakusei",
+     "start": 364.272,
+     "end": 366.216
+    },
+    {
+     "w": "宿題",
+     "reading": "しゅくだい",
+     "en": "homework",
+     "id": "pekerjaan rumah",
+     "romaji": "shukudai",
+     "start": 366.216,
+     "end": 368.136
+    },
+    {
+     "w": "試験",
+     "reading": "しけん",
+     "en": "test/exam",
+     "id": "ujian",
+     "romaji": "shiken",
+     "start": 368.136,
+     "end": 369.936
+    },
+    {
+     "w": "会議",
+     "reading": "かいぎ",
+     "en": "meeting",
+     "id": "rapat",
+     "romaji": "kaigi",
+     "start": 369.936,
+     "end": 371.76
+    },
+    {
+     "w": "本",
+     "reading": "ほん",
+     "en": "book",
+     "id": "buku",
+     "romaji": "hon",
+     "start": 371.76,
+     "end": 373.536
+    },
+    {
+     "w": "ペン",
+     "reading": "ぺん",
+     "en": "pen",
+     "id": "pena",
+     "romaji": "pen",
+     "start": 373.536,
+     "end": 375.312
+    },
+    {
+     "w": "机",
+     "reading": "つくえ",
+     "en": "desk",
+     "id": "meja",
+     "romaji": "tsukue",
+     "start": 375.312,
+     "end": 377.112
+    },
+    {
+     "w": "教室",
+     "reading": "きょうしつ",
+     "en": "classroom",
+     "id": "ruang kelas",
+     "romaji": "kyoushitsu",
+     "start": 377.112,
+     "end": 379.152
+    },
+    {
+     "w": "授業",
+     "reading": "じゅぎょう",
+     "en": "class/lesson",
+     "id": "pelajaran",
+     "romaji": "jugyou",
+     "start": 379.152,
+     "end": 381.024
+    },
+    {
+     "w": "会社員",
+     "reading": "かいしゃいん",
+     "en": "office worker",
+     "id": "karyawan kantor",
+     "romaji": "kaishain",
+     "start": 381.024,
+     "end": 383.064
+    },
+    {
+     "w": "事務所",
+     "reading": "じむしょ",
+     "en": "office",
+     "id": "kantor",
+     "romaji": "jimusho",
+     "start": 383.064,
+     "end": 384.936
+    }
+   ]
+  },
+  {
+   "name": "にほんのまち",
+   "nameEn": "Cities & prefectures",
+   "nameId": "Kota & prefektur",
+   "nameShort": "Cities",
+   "words": [
+    {
+     "w": "東京",
+     "reading": "とうきょう",
+     "en": "Tokyo (capital)",
+     "id": "Tokyo (ibu kota)",
+     "romaji": "toukyou",
+     "start": 384.936,
+     "end": 386.976
+    },
+    {
+     "w": "大阪",
+     "reading": "おおさか",
+     "en": "Osaka (food city)",
+     "id": "Osaka (kota kuliner)",
+     "romaji": "oosaka",
+     "start": 386.976,
+     "end": 388.896
+    },
+    {
+     "w": "京都",
+     "reading": "きょうと",
+     "en": "Kyoto (old capital)",
+     "id": "Kyoto (bekas ibu kota)",
+     "romaji": "kyouto",
+     "start": 388.896,
+     "end": 390.696
+    },
+    {
+     "w": "北海道",
+     "reading": "ほっかいどう",
+     "en": "Hokkaido (north island)",
+     "id": "Hokkaido (pulau utara)",
+     "romaji": "hokkaidou",
+     "start": 390.696,
+     "end": 392.928
+    },
+    {
+     "w": "沖縄",
+     "reading": "おきなわ",
+     "en": "Okinawa (south islands)",
+     "id": "Okinawa (kepulauan selatan)",
+     "romaji": "okinawa",
+     "start": 392.928,
+     "end": 394.848
+    },
+    {
+     "w": "名古屋",
+     "reading": "なごや",
+     "en": "Nagoya (central Japan)",
+     "id": "Nagoya (Jepang tengah)",
+     "romaji": "nagoya",
+     "start": 394.848,
+     "end": 396.648
+    },
+    {
+     "w": "福岡",
+     "reading": "ふくおか",
+     "en": "Fukuoka (Kyushu hub)",
+     "id": "Fukuoka (pusat Kyushu)",
+     "romaji": "fukuoka",
+     "start": 396.648,
+     "end": 398.64
+    },
+    {
+     "w": "横浜",
+     "reading": "よこはま",
+     "en": "Yokohama (port city)",
+     "id": "Yokohama (kota pelabuhan)",
+     "romaji": "yokohama",
+     "start": 398.64,
+     "end": 400.632
+    },
+    {
+     "w": "奈良",
+     "reading": "なら",
+     "en": "Nara (deer park)",
+     "id": "Nara (taman rusa)",
+     "romaji": "nara",
+     "start": 400.632,
+     "end": 402.408
+    },
+    {
+     "w": "広島",
+     "reading": "ひろしま",
+     "en": "Hiroshima (peace memorial)",
+     "id": "Hiroshima (tugu perdamaian)",
+     "romaji": "hiroshima",
+     "start": 402.408,
+     "end": 404.328
+    },
+    {
+     "w": "神戸",
+     "reading": "こうべ",
+     "en": "Kobe (famous beef)",
+     "id": "Kobe (terkenal wagyu)",
+     "romaji": "koube",
+     "start": 404.328,
+     "end": 406.104
+    },
+    {
+     "w": "札幌",
+     "reading": "さっぽろ",
+     "en": "Sapporo (snow festival)",
+     "id": "Sapporo (festival salju)",
+     "romaji": "sapporo",
+     "start": 406.104,
+     "end": 408.096
+    },
+    {
+     "w": "日本",
+     "reading": "にほん",
+     "en": "Japan (the country)",
+     "id": "Jepang (negara)",
+     "romaji": "nihon",
+     "start": 408.096,
+     "end": 409.872
+    },
+    {
+     "w": "千葉",
+     "reading": "ちば",
+     "en": "Chiba (near airport)",
+     "id": "Chiba (dekat bandara)",
+     "romaji": "chiba",
+     "start": 409.872,
+     "end": 411.648
+    },
+    {
+     "w": "関西",
+     "reading": "かんさい",
+     "en": "Kansai (west region)",
+     "id": "Kansai (wilayah barat)",
+     "romaji": "kansai",
+     "start": 411.648,
+     "end": 413.568
+    }
+   ]
+  },
+  {
+   "name": "ゆうめいなばしょ",
+   "nameEn": "Famous landmarks",
+   "nameId": "Tempat terkenal",
+   "nameShort": "Landmarks",
+   "words": [
+    {
+     "w": "富士山",
+     "reading": "ふじさん",
+     "en": "Mt. Fuji (highest mountain)",
+     "id": "Gunung Fuji (gunung tertinggi)",
+     "romaji": "fujisan",
+     "start": 413.568,
+     "end": 415.488
+    },
+    {
+     "w": "東京タワー",
+     "reading": "とうきょうたわー",
+     "en": "Tokyo Tower (red tower)",
+     "id": "Tokyo Tower (menara merah)",
+     "romaji": "toukyoutawaa",
+     "start": 415.488,
+     "end": 417.912
+    },
+    {
+     "w": "スカイツリー",
+     "reading": "すかいつりー",
+     "en": "Skytree (tallest tower)",
+     "id": "Skytree (menara tertinggi)",
+     "romaji": "sukaitsurii",
+     "start": 417.912,
+     "end": 420.12
+    },
+    {
+     "w": "浅草",
+     "reading": "あさくさ",
+     "en": "Asakusa (old temple town)",
+     "id": "Asakusa (kota kuil tua)",
+     "romaji": "asakusa",
+     "start": 420.12,
+     "end": 422.112
+    },
+    {
+     "w": "渋谷",
+     "reading": "しぶや",
+     "en": "Shibuya (famous crossing)",
+     "id": "Shibuya (persimpangan terkenal)",
+     "romaji": "shibuya",
+     "start": 422.112,
+     "end": 424.032
+    },
+    {
+     "w": "新宿",
+     "reading": "しんじゅく",
+     "en": "Shinjuku (skyscrapers & nightlife)",
+     "id": "Shinjuku (gedung tinggi & hiburan malam)",
+     "romaji": "shinjuku",
+     "start": 424.032,
+     "end": 426.144
+    },
+    {
+     "w": "秋葉原",
+     "reading": "あきはばら",
+     "en": "Akihabara (electronics & anime town)",
+     "id": "Akihabara (kota elektronik & anime)",
+     "romaji": "akihabara",
+     "start": 426.144,
+     "end": 428.232
+    },
+    {
+     "w": "原宿",
+     "reading": "はらじゅく",
+     "en": "Harajuku (fashion street)",
+     "id": "Harajuku (jalan mode)",
+     "romaji": "harajuku",
+     "start": 428.232,
+     "end": 430.224
+    },
+    {
+     "w": "上野公園",
+     "reading": "うえのこうえん",
+     "en": "Ueno Park (cherry blossoms)",
+     "id": "Taman Ueno (bunga sakura)",
+     "romaji": "uenokouen",
+     "start": 430.224,
+     "end": 432.6
+    },
+    {
+     "w": "東京駅",
+     "reading": "とうきょうえき",
+     "en": "Tokyo Station (main station)",
+     "id": "Stasiun Tokyo (stasiun utama)",
+     "romaji": "toukyoueki",
+     "start": 432.6,
+     "end": 434.904
+    },
+    {
+     "w": "皇居",
+     "reading": "こうきょ",
+     "en": "Imperial Palace (emperor's home)",
+     "id": "Istana Kekaisaran (rumah kaisar)",
+     "romaji": "koukyo",
+     "start": 434.904,
+     "end": 436.704
+    },
+    {
+     "w": "金閣寺",
+     "reading": "きんかくじ",
+     "en": "Kinkaku-ji (golden pavilion)",
+     "id": "Kinkaku-ji (paviliun emas)",
+     "romaji": "kinkakuji",
+     "start": 436.704,
+     "end": 438.816
+    },
+    {
+     "w": "清水寺",
+     "reading": "きよみずでら",
+     "en": "Kiyomizu-dera (famous temple)",
+     "id": "Kiyomizu-dera (kuil terkenal)",
+     "romaji": "kiyomizudera",
+     "start": 438.816,
+     "end": 441.0
+    },
+    {
+     "w": "大阪城",
+     "reading": "おおさかじょう",
+     "en": "Osaka Castle (historic castle)",
+     "id": "Kastil Osaka (kastil bersejarah)",
+     "romaji": "oosakajou",
+     "start": 441.0,
+     "end": 443.232
+    },
+    {
+     "w": "奈良公園",
+     "reading": "ならこうえん",
+     "en": "Nara Park (deer park)",
+     "id": "Taman Nara (taman rusa)",
+     "romaji": "narakouen",
+     "start": 443.232,
+     "end": 445.464
+    }
+   ]
+  }
+ ],
+ "sentenceGroups": [
+  {
+   "name": "まいにちのせいかつ",
+   "nameEn": "Daily life",
+   "nameId": "Kehidupan sehari-hari",
+   "nameShort": "Daily life",
+   "sentences": [
+    {
+     "en": "I wake up at six every morning.",
+     "id": "Saya bangun jam enam setiap pagi.",
+     "text": "毎朝六時に起きます。",
+     "tokens": [
+      {
+       "surface": "毎朝",
+       "pos": "noun",
+       "reading": "まいあさ",
+       "romaji": "maiasa"
+      },
+      {
+       "surface": "六",
+       "pos": "noun",
+       "reading": "ろく",
+       "romaji": "roku"
+      },
+      {
+       "surface": "時",
+       "pos": "noun",
+       "reading": "じ",
+       "romaji": "ji"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni"
+      },
+      {
+       "surface": "起き",
+       "pos": "verb",
+       "reading": "おき",
+       "romaji": "oki",
+       "lemma": "起きる"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 445.464,
+     "end": 448.704
+    },
+    {
+     "en": "I wash my face and brush my teeth.",
+     "id": "Saya mencuci muka dan menggosok gigi.",
+     "text": "顔を洗って、歯を磨きます。",
+     "tokens": [
+      {
+       "surface": "顔",
+       "pos": "noun",
+       "reading": "かお",
+       "romaji": "kao"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo"
+      },
+      {
+       "surface": "洗っ",
+       "pos": "verb",
+       "reading": "あらっ",
+       "romaji": "aratsu",
+       "lemma": "洗う"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "歯",
+       "pos": "noun",
+       "reading": "は",
+       "romaji": "ha"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo"
+      },
+      {
+       "surface": "磨き",
+       "pos": "verb",
+       "reading": "みがき",
+       "romaji": "migaki",
+       "lemma": "磨く"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 448.704,
+     "end": 452.592
+    },
+    {
+     "en": "I eat breakfast.",
+     "id": "Saya makan sarapan.",
+     "text": "朝ごはんを食べます。",
+     "tokens": [
+      {
+       "surface": "朝ごはん",
+       "pos": "noun",
+       "reading": "あさごはん",
+       "romaji": "asagohan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo"
+      },
+      {
+       "surface": "食べ",
+       "pos": "verb",
+       "reading": "たべ",
+       "romaji": "tabe",
+       "lemma": "食べる"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 452.592,
+     "end": 455.472
+    },
+    {
+     "en": "I drink coffee.",
+     "id": "Saya minum kopi.",
+     "text": "コーヒーを飲みます。",
+     "tokens": [
+      {
+       "surface": "コーヒー",
+       "pos": "noun",
+       "romaji": "koohii"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo"
+      },
+      {
+       "surface": "飲み",
+       "pos": "verb",
+       "reading": "のみ",
+       "romaji": "nomi",
+       "lemma": "飲む"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 455.472,
+     "end": 458.16
+    },
+    {
+     "en": "I leave home at seven thirty.",
+     "id": "Saya berangkat dari rumah jam setengah delapan.",
+     "text": "七時半に家を出ます。",
+     "tokens": [
+      {
+       "surface": "七",
+       "pos": "noun",
+       "reading": "なな",
+       "romaji": "nana"
+      },
+      {
+       "surface": "時半",
+       "pos": "suffix",
+       "reading": "じはん",
+       "romaji": "jihan"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni"
+      },
+      {
+       "surface": "家",
+       "pos": "noun",
+       "reading": "いえ",
+       "romaji": "ie"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo"
+      },
+      {
+       "surface": "出",
+       "pos": "verb",
+       "reading": "で",
+       "romaji": "de",
+       "lemma": "出る"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 458.16,
+     "end": 461.328
+    },
+    {
+     "en": "I go to work by train.",
+     "id": "Saya pergi ke kantor naik kereta.",
+     "text": "電車で会社に行きます。",
+     "tokens": [
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de"
+      },
+      {
+       "surface": "会社",
+       "pos": "noun",
+       "reading": "かいしゃ",
+       "romaji": "kaisha"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni"
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 461.328,
+     "end": 464.472
+    },
+    {
+     "en": "Work ends at six.",
+     "id": "Pekerjaan selesai jam enam.",
+     "text": "六時に仕事が終わります。",
+     "tokens": [
+      {
+       "surface": "六",
+       "pos": "noun",
+       "reading": "ろく",
+       "romaji": "roku"
+      },
+      {
+       "surface": "時",
+       "pos": "noun",
+       "reading": "じ",
+       "romaji": "ji"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni"
+      },
+      {
+       "surface": "仕事",
+       "pos": "noun",
+       "reading": "しごと",
+       "romaji": "shigoto"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga"
+      },
+      {
+       "surface": "終わり",
+       "pos": "verb",
+       "reading": "おわり",
+       "romaji": "owari",
+       "lemma": "終わる"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 464.472,
+     "end": 467.904
+    },
+    {
+     "en": "I return home around seven.",
+     "id": "Saya pulang ke rumah sekitar jam tujuh.",
+     "text": "七時ごろ家に帰ります。",
+     "tokens": [
+      {
+       "surface": "七",
+       "pos": "noun",
+       "reading": "なな",
+       "romaji": "nana"
+      },
+      {
+       "surface": "時",
+       "pos": "noun",
+       "reading": "じ",
+       "romaji": "ji"
+      },
+      {
+       "surface": "ごろ",
+       "pos": "noun",
+       "romaji": "goro"
+      },
+      {
+       "surface": "家",
+       "pos": "noun",
+       "reading": "いえ",
+       "romaji": "ie"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni"
+      },
+      {
+       "surface": "帰り",
+       "pos": "verb",
+       "reading": "かえり",
+       "romaji": "kaeri",
+       "lemma": "帰る"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 467.904,
+     "end": 471.288
+    },
+    {
+     "en": "I take a bath after dinner.",
+     "id": "Saya mandi setelah makan malam.",
+     "text": "晩ごはんの後でお風呂に入ります。",
+     "tokens": [
+      {
+       "surface": "晩ごはん",
+       "pos": "noun",
+       "reading": "ばんごはん",
+       "romaji": "bangohan"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no"
+      },
+      {
+       "surface": "後",
+       "pos": "noun",
+       "reading": "あと",
+       "romaji": "ato"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o"
+      },
+      {
+       "surface": "風呂",
+       "pos": "noun",
+       "reading": "ふろ",
+       "romaji": "furo"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni"
+      },
+      {
+       "surface": "入り",
+       "pos": "verb",
+       "reading": "はいり",
+       "romaji": "hairi",
+       "lemma": "入る"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 471.288,
+     "end": 475.368
+    },
+    {
+     "en": "I go to sleep at eleven.",
+     "id": "Saya tidur jam sebelas.",
+     "text": "十一時に寝ます。",
+     "tokens": [
+      {
+       "surface": "十一",
+       "pos": "noun",
+       "reading": "じゅういち",
+       "romaji": "juuichi"
+      },
+      {
+       "surface": "時",
+       "pos": "noun",
+       "reading": "じ",
+       "romaji": "ji"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni"
+      },
+      {
+       "surface": "寝",
+       "pos": "verb",
+       "reading": "ね",
+       "romaji": "ne",
+       "lemma": "寝る"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 475.368,
+     "end": 478.08
+    }
+   ]
+  },
+  {
+   "name": "かいもの",
+   "nameEn": "Shopping",
+   "nameId": "Belanja",
+   "nameShort": "Shopping",
+   "sentences": [
+    {
+     "en": "How much is this?",
+     "id": "Ini berapa harganya?",
+     "text": "これはいくらですか。",
+     "tokens": [
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha"
+      },
+      {
+       "surface": "いくら",
+       "pos": "noun",
+       "romaji": "ikura"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 478.08,
+     "end": 480.792
+    },
+    {
+     "en": "Excuse me, I'll take this one.",
+     "id": "Permisi, saya mau yang ini.",
+     "text": "すみません、これをください。",
+     "tokens": [
+      {
+       "surface": "すみ",
+       "pos": "verb",
+       "romaji": "sumi",
+       "lemma": "すむ"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 480.792,
+     "end": 484.32
+    },
+    {
+     "en": "Do you have a cheaper one?",
+     "id": "Apakah ada yang lebih murah?",
+     "text": "もっと安いのはありますか。",
+     "tokens": [
+      {
+       "surface": "もっと",
+       "pos": "adverb",
+       "romaji": "motto"
+      },
+      {
+       "surface": "安い",
+       "pos": "adjective",
+       "reading": "やすい",
+       "romaji": "yasui"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 484.32,
+     "end": 487.656
+    },
+    {
+     "en": "May I look at this?",
+     "id": "Boleh saya lihat ini?",
+     "text": "これを見てもいいですか。",
+     "tokens": [
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo"
+      },
+      {
+       "surface": "見",
+       "pos": "verb",
+       "reading": "み",
+       "romaji": "mi",
+       "lemma": "見る"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 487.656,
+     "end": 490.608
+    },
+    {
+     "en": "Do you have a red one?",
+     "id": "Apakah ada yang warna merah?",
+     "text": "赤いのはありますか。",
+     "tokens": [
+      {
+       "surface": "赤い",
+       "pos": "adjective",
+       "reading": "あかい",
+       "romaji": "akai"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 490.608,
+     "end": 493.392
+    },
+    {
+     "en": "I'd like a medium size, please.",
+     "id": "Tolong ukuran M.",
+     "text": "Mサイズをください。",
+     "tokens": [
+      {
+       "surface": "M",
+       "pos": "noun"
+      },
+      {
+       "surface": "サイズ",
+       "pos": "noun",
+       "romaji": "saizu"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 493.392,
+     "end": 496.176
+    },
+    {
+     "en": "May I try this on?",
+     "id": "Boleh saya coba pakai?",
+     "text": "試着してもいいですか。",
+     "tokens": [
+      {
+       "surface": "試着",
+       "pos": "noun",
+       "reading": "しちゃく",
+       "romaji": "shichaku"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te"
+      },
+      {
+       "surface": "も",
+       "pos": "particle",
+       "romaji": "mo"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 496.176,
+     "end": 499.08
+    },
+    {
+     "en": "Can I pay by card?",
+     "id": "Bisa bayar pakai kartu?",
+     "text": "カードは使えますか。",
+     "tokens": [
+      {
+       "surface": "カード",
+       "pos": "noun",
+       "romaji": "kaado"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha"
+      },
+      {
+       "surface": "使え",
+       "pos": "verb",
+       "reading": "つかえ",
+       "romaji": "tsukae",
+       "lemma": "使える"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 499.08,
+     "end": 501.84
+    },
+    {
+     "en": "How much is it all together?",
+     "id": "Semuanya berapa?",
+     "text": "全部でいくらですか。",
+     "tokens": [
+      {
+       "surface": "全部",
+       "pos": "noun",
+       "reading": "ぜんぶ",
+       "romaji": "zenbu"
+      },
+      {
+       "surface": "で",
+       "pos": "particle",
+       "romaji": "de"
+      },
+      {
+       "surface": "いくら",
+       "pos": "noun",
+       "romaji": "ikura"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 501.84,
+     "end": 504.72
+    },
+    {
+     "en": "I don't need a bag.",
+     "id": "Saya tidak perlu kantong.",
+     "text": "袋は要りません。",
+     "tokens": [
+      {
+       "surface": "袋",
+       "pos": "noun",
+       "reading": "ふくろ",
+       "romaji": "fukuro"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha"
+      },
+      {
+       "surface": "要り",
+       "pos": "verb",
+       "reading": "いり",
+       "romaji": "iri",
+       "lemma": "要る"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 504.72,
+     "end": 507.288
+    }
+   ]
+  },
+  {
+   "name": "レストラン",
+   "nameEn": "Eating out",
+   "nameId": "Makan di luar",
+   "nameShort": "Eating out",
+   "sentences": [
+    {
+     "en": "Excuse me, could I have the menu?",
+     "id": "Permisi, boleh minta menunya?",
+     "text": "すみません、メニューをください。",
+     "tokens": [
+      {
+       "surface": "すみ",
+       "pos": "verb",
+       "romaji": "sumi",
+       "lemma": "すむ"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "メニュー",
+       "pos": "noun",
+       "romaji": "menyuu"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 507.288,
+     "end": 510.816
+    },
+    {
+     "en": "What do you recommend?",
+     "id": "Apa yang direkomendasikan?",
+     "text": "何がおすすめですか。",
+     "tokens": [
+      {
+       "surface": "何",
+       "pos": "pronoun",
+       "reading": "なん",
+       "romaji": "nan"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga"
+      },
+      {
+       "surface": "おすすめ",
+       "pos": "noun",
+       "romaji": "osusume"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 510.816,
+     "end": 513.696
+    },
+    {
+     "en": "I'll have this, please.",
+     "id": "Tolong yang ini.",
+     "text": "これをください。",
+     "tokens": [
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 513.696,
+     "end": 516.024
+    },
+    {
+     "en": "Two ramen, please.",
+     "id": "Tolong dua ramen.",
+     "text": "ラーメンを二つお願いします。",
+     "tokens": [
+      {
+       "surface": "ラーメン",
+       "pos": "noun",
+       "romaji": "raamen"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo"
+      },
+      {
+       "surface": "二",
+       "pos": "noun",
+       "reading": "ふた",
+       "romaji": "futa"
+      },
+      {
+       "surface": "つ",
+       "pos": "suffix",
+       "romaji": "tsu"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o"
+      },
+      {
+       "surface": "願い",
+       "pos": "verb",
+       "reading": "ねがい",
+       "romaji": "negai",
+       "lemma": "願う"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 516.024,
+     "end": 519.528
+    },
+    {
+     "en": "Water, please.",
+     "id": "Tolong airnya.",
+     "text": "お水をください。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o"
+      },
+      {
+       "surface": "水",
+       "pos": "noun",
+       "reading": "みず",
+       "romaji": "mizu"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 519.528,
+     "end": 521.976
+    },
+    {
+     "en": "Is this spicy?",
+     "id": "Apakah ini pedas?",
+     "text": "これは辛いですか。",
+     "tokens": [
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha"
+      },
+      {
+       "surface": "辛い",
+       "pos": "adjective",
+       "reading": "つらい",
+       "romaji": "tsurai"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 521.976,
+     "end": 524.664
+    },
+    {
+     "en": "This is very delicious.",
+     "id": "Ini sangat enak.",
+     "text": "とてもおいしいです。",
+     "tokens": [
+      {
+       "surface": "とても",
+       "pos": "adverb",
+       "romaji": "totemo"
+      },
+      {
+       "surface": "おいしい",
+       "pos": "adjective",
+       "romaji": "oishii"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 524.664,
+     "end": 527.328
+    },
+    {
+     "en": "The bill, please.",
+     "id": "Tolong bonnya.",
+     "text": "お会計をお願いします。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o"
+      },
+      {
+       "surface": "会計",
+       "pos": "noun",
+       "reading": "かいけい",
+       "romaji": "kaikei"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo"
+      },
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o"
+      },
+      {
+       "surface": "願い",
+       "pos": "verb",
+       "reading": "ねがい",
+       "romaji": "negai",
+       "lemma": "願う"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 527.328,
+     "end": 530.424
+    },
+    {
+     "en": "Thank you for the meal.",
+     "id": "Terima kasih atas makanannya.",
+     "text": "ごちそうさまでした。",
+     "tokens": [
+      {
+       "surface": "ごちそう",
+       "pos": "noun",
+       "romaji": "gochisou"
+      },
+      {
+       "surface": "さま",
+       "pos": "suffix",
+       "romaji": "sama"
+      },
+      {
+       "surface": "でし",
+       "pos": "auxiliary",
+       "romaji": "deshi",
+       "lemma": "です"
+      },
+      {
+       "surface": "た",
+       "pos": "auxiliary",
+       "romaji": "ta"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 530.424,
+     "end": 533.064
+    }
+   ]
+  },
+  {
+   "name": "りょこう",
+   "nameEn": "Travel & directions",
+   "nameId": "Perjalanan & arah",
+   "nameShort": "Travel & directions",
+   "sentences": [
+    {
+     "en": "Excuse me, where is the station?",
+     "id": "Maaf, stasiunnya di mana?",
+     "text": "すみません、駅はどこですか。",
+     "tokens": [
+      {
+       "surface": "すみ",
+       "pos": "verb",
+       "romaji": "sumi",
+       "lemma": "すむ"
+      },
+      {
+       "surface": "ませ",
+       "pos": "auxiliary",
+       "romaji": "mase",
+       "lemma": "ます"
+      },
+      {
+       "surface": "ん",
+       "pos": "auxiliary",
+       "romaji": "n",
+       "lemma": "ぬ"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "駅",
+       "pos": "noun",
+       "reading": "えき",
+       "romaji": "eki"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha"
+      },
+      {
+       "surface": "どこ",
+       "pos": "pronoun",
+       "romaji": "doko"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 533.064,
+     "end": 536.808
+    },
+    {
+     "en": "Where is the bathroom?",
+     "id": "Toiletnya di mana?",
+     "text": "トイレはどこにありますか。",
+     "tokens": [
+      {
+       "surface": "トイレ",
+       "pos": "noun",
+       "romaji": "toire"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha"
+      },
+      {
+       "surface": "どこ",
+       "pos": "pronoun",
+       "romaji": "doko"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni"
+      },
+      {
+       "surface": "あり",
+       "pos": "verb",
+       "romaji": "ari",
+       "lemma": "ある"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 536.808,
+     "end": 539.904
+    },
+    {
+     "en": "One ticket, please.",
+     "id": "Tolong satu tiket.",
+     "text": "きっぷを一枚ください。",
+     "tokens": [
+      {
+       "surface": "きっぷ",
+       "pos": "noun",
+       "romaji": "kippu"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo"
+      },
+      {
+       "surface": "一",
+       "pos": "noun",
+       "reading": "いち",
+       "romaji": "ichi"
+      },
+      {
+       "surface": "枚",
+       "pos": "suffix",
+       "reading": "まい",
+       "romaji": "mai"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 539.904,
+     "end": 542.976
+    },
+    {
+     "en": "Is this bound for Kyoto?",
+     "id": "Ini menuju Kyoto?",
+     "text": "これは京都行きですか。",
+     "tokens": [
+      {
+       "surface": "これ",
+       "pos": "pronoun",
+       "romaji": "kore"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha"
+      },
+      {
+       "surface": "京都",
+       "pos": "noun",
+       "reading": "きょうと",
+       "romaji": "kyouto"
+      },
+      {
+       "surface": "行き",
+       "pos": "suffix",
+       "reading": "いき",
+       "romaji": "iki"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 542.976,
+     "end": 546.024
+    },
+    {
+     "en": "What time is the next train?",
+     "id": "Kereta berikutnya jam berapa?",
+     "text": "つぎの電車は何時ですか。",
+     "tokens": [
+      {
+       "surface": "つぎ",
+       "pos": "noun",
+       "romaji": "tsugi"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no"
+      },
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha"
+      },
+      {
+       "surface": "何時",
+       "pos": "pronoun",
+       "reading": "いつ",
+       "romaji": "itsu"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 546.024,
+     "end": 549.36
+    },
+    {
+     "en": "How long does it take from here?",
+     "id": "Dari sini butuh berapa lama?",
+     "text": "ここからどのくらいかかりますか。",
+     "tokens": [
+      {
+       "surface": "ここ",
+       "pos": "pronoun",
+       "romaji": "koko"
+      },
+      {
+       "surface": "から",
+       "pos": "particle",
+       "romaji": "kara"
+      },
+      {
+       "surface": "どの",
+       "pos": "prenominal",
+       "romaji": "dono"
+      },
+      {
+       "surface": "くらい",
+       "pos": "particle",
+       "romaji": "kurai"
+      },
+      {
+       "surface": "かかり",
+       "pos": "verb",
+       "romaji": "kakari",
+       "lemma": "かかる"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 549.36,
+     "end": 552.792
+    },
+    {
+     "en": "Which train should I take?",
+     "id": "Naik kereta yang mana?",
+     "text": "どの電車に乗りますか。",
+     "tokens": [
+      {
+       "surface": "どの",
+       "pos": "prenominal",
+       "romaji": "dono"
+      },
+      {
+       "surface": "電車",
+       "pos": "noun",
+       "reading": "でんしゃ",
+       "romaji": "densha"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni"
+      },
+      {
+       "surface": "乗り",
+       "pos": "verb",
+       "reading": "のり",
+       "romaji": "nori",
+       "lemma": "乗る"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 552.792,
+     "end": 555.768
+    },
+    {
+     "en": "How much is it to the airport?",
+     "id": "Berapa harganya ke bandara?",
+     "text": "空港までいくらですか。",
+     "tokens": [
+      {
+       "surface": "空港",
+       "pos": "noun",
+       "reading": "くうこう",
+       "romaji": "kuukou"
+      },
+      {
+       "surface": "まで",
+       "pos": "particle",
+       "romaji": "made"
+      },
+      {
+       "surface": "いくら",
+       "pos": "noun",
+       "romaji": "ikura"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 555.768,
+     "end": 558.936
+    },
+    {
+     "en": "Please go straight.",
+     "id": "Tolong jalan lurus.",
+     "text": "まっすぐ行ってください。",
+     "tokens": [
+      {
+       "surface": "まっすぐ",
+       "pos": "adverb",
+       "romaji": "massugu"
+      },
+      {
+       "surface": "行っ",
+       "pos": "verb",
+       "reading": "いっ",
+       "romaji": "itsu",
+       "lemma": "行く"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te"
+      },
+      {
+       "surface": "ください",
+       "pos": "verb",
+       "romaji": "kudasai",
+       "lemma": "くださる"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 558.936,
+     "end": 561.768
+    },
+    {
+     "en": "Does this bus go to Shinjuku?",
+     "id": "Bus ini ke Shinjuku?",
+     "text": "このバスは新宿に行きますか。",
+     "tokens": [
+      {
+       "surface": "この",
+       "pos": "prenominal",
+       "romaji": "kono"
+      },
+      {
+       "surface": "バス",
+       "pos": "noun",
+       "romaji": "basu"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha"
+      },
+      {
+       "surface": "新宿",
+       "pos": "noun",
+       "reading": "しんじゅく",
+       "romaji": "shinjuku"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni"
+      },
+      {
+       "surface": "行き",
+       "pos": "verb",
+       "reading": "いき",
+       "romaji": "iki",
+       "lemma": "行く"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 561.768,
+     "end": 565.464
+    }
+   ]
+  },
+  {
+   "name": "ともだちとはなす",
+   "nameEn": "Talking with friends",
+   "nameId": "Bicara dengan teman",
+   "nameShort": "Talking with friends",
+   "sentences": [
+    {
+     "en": "Nice to meet you, I'm Tanaka.",
+     "id": "Salam kenal, saya Tanaka.",
+     "text": "はじめまして、田中です。",
+     "tokens": [
+      {
+       "surface": "はじめ",
+       "pos": "verb",
+       "romaji": "hajime",
+       "lemma": "はじめる"
+      },
+      {
+       "surface": "まし",
+       "pos": "auxiliary",
+       "romaji": "mashi",
+       "lemma": "ます"
+      },
+      {
+       "surface": "て",
+       "pos": "particle",
+       "romaji": "te"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "田中",
+       "pos": "noun",
+       "reading": "たなか",
+       "romaji": "tanaka"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 565.464,
+     "end": 568.944
+    },
+    {
+     "en": "What is your name?",
+     "id": "Siapa nama Anda?",
+     "text": "お名前は何ですか。",
+     "tokens": [
+      {
+       "surface": "お",
+       "pos": "prefix",
+       "romaji": "o"
+      },
+      {
+       "surface": "名前",
+       "pos": "noun",
+       "reading": "なまえ",
+       "romaji": "namae"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha"
+      },
+      {
+       "surface": "何",
+       "pos": "pronoun",
+       "reading": "なん",
+       "romaji": "nan"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 568.944,
+     "end": 571.704
+    },
+    {
+     "en": "What are your hobbies?",
+     "id": "Apa hobi Anda?",
+     "text": "趣味は何ですか。",
+     "tokens": [
+      {
+       "surface": "趣味",
+       "pos": "noun",
+       "reading": "しゅみ",
+       "romaji": "shumi"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha"
+      },
+      {
+       "surface": "何",
+       "pos": "pronoun",
+       "reading": "なん",
+       "romaji": "nan"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 571.704,
+     "end": 574.344
+    },
+    {
+     "en": "My hobby is reading.",
+     "id": "Hobi saya membaca buku.",
+     "text": "私の趣味は読書です。",
+     "tokens": [
+      {
+       "surface": "私",
+       "pos": "pronoun",
+       "reading": "わたくし",
+       "romaji": "watakushi"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no"
+      },
+      {
+       "surface": "趣味",
+       "pos": "noun",
+       "reading": "しゅみ",
+       "romaji": "shumi"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha"
+      },
+      {
+       "surface": "読書",
+       "pos": "noun",
+       "reading": "どくしょ",
+       "romaji": "dokusho"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 574.344,
+     "end": 577.584
+    },
+    {
+     "en": "What do you do on weekends?",
+     "id": "Apa yang kamu lakukan di akhir pekan?",
+     "text": "週末は何をしますか。",
+     "tokens": [
+      {
+       "surface": "週末",
+       "pos": "noun",
+       "reading": "しゅうまつ",
+       "romaji": "shuumatsu"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha"
+      },
+      {
+       "surface": "何",
+       "pos": "pronoun",
+       "reading": "なん",
+       "romaji": "nan"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo"
+      },
+      {
+       "surface": "し",
+       "pos": "verb",
+       "romaji": "shi",
+       "lemma": "する"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu"
+      },
+      {
+       "surface": "か",
+       "pos": "particle",
+       "romaji": "ka"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 577.584,
+     "end": 580.848
+    },
+    {
+     "en": "I'll watch a movie on Saturday.",
+     "id": "Saya akan menonton film hari Sabtu.",
+     "text": "土曜日に映画を見ます。",
+     "tokens": [
+      {
+       "surface": "土曜日",
+       "pos": "noun",
+       "reading": "どようび",
+       "romaji": "doyoubi"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni"
+      },
+      {
+       "surface": "映画",
+       "pos": "noun",
+       "reading": "えいが",
+       "romaji": "eiga"
+      },
+      {
+       "surface": "を",
+       "pos": "particle",
+       "romaji": "wo"
+      },
+      {
+       "surface": "見",
+       "pos": "verb",
+       "reading": "み",
+       "romaji": "mi",
+       "lemma": "見る"
+      },
+      {
+       "surface": "ます",
+       "pos": "auxiliary",
+       "romaji": "masu"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 580.848,
+     "end": 584.016
+    },
+    {
+     "en": "It's nice weather today, isn't it?",
+     "id": "Hari ini cuacanya bagus, ya.",
+     "text": "今日はいい天気ですね。",
+     "tokens": [
+      {
+       "surface": "今日",
+       "pos": "noun",
+       "reading": "きょう",
+       "romaji": "kyou"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha"
+      },
+      {
+       "surface": "いい",
+       "pos": "adjective",
+       "romaji": "ii"
+      },
+      {
+       "surface": "天気",
+       "pos": "noun",
+       "reading": "てんき",
+       "romaji": "tenki"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu"
+      },
+      {
+       "surface": "ね",
+       "pos": "particle",
+       "romaji": "ne"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 584.016,
+     "end": 586.968
+    },
+    {
+     "en": "I heard it will rain tomorrow.",
+     "id": "Katanya besok akan hujan.",
+     "text": "明日は雨が降るそうです。",
+     "tokens": [
+      {
+       "surface": "明日",
+       "pos": "noun",
+       "reading": "あす",
+       "romaji": "asu"
+      },
+      {
+       "surface": "は",
+       "pos": "particle",
+       "romaji": "ha"
+      },
+      {
+       "surface": "雨",
+       "pos": "noun",
+       "reading": "あめ",
+       "romaji": "ame"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga"
+      },
+      {
+       "surface": "降る",
+       "pos": "verb",
+       "reading": "ふる",
+       "romaji": "furu"
+      },
+      {
+       "surface": "そう",
+       "pos": "noun",
+       "romaji": "sou"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 586.968,
+     "end": 590.304
+    },
+    {
+     "en": "I like Japanese music.",
+     "id": "Saya suka musik Jepang.",
+     "text": "日本の音楽が好きです。",
+     "tokens": [
+      {
+       "surface": "日本",
+       "pos": "noun",
+       "reading": "にっぽん",
+       "romaji": "nippon"
+      },
+      {
+       "surface": "の",
+       "pos": "particle",
+       "romaji": "no"
+      },
+      {
+       "surface": "音楽",
+       "pos": "noun",
+       "reading": "おんがく",
+       "romaji": "ongaku"
+      },
+      {
+       "surface": "が",
+       "pos": "particle",
+       "romaji": "ga"
+      },
+      {
+       "surface": "好き",
+       "pos": "adjective",
+       "reading": "すき",
+       "romaji": "suki"
+      },
+      {
+       "surface": "です",
+       "pos": "auxiliary",
+       "romaji": "desu"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 590.304,
+     "end": 593.568
+    },
+    {
+     "en": "Let's hang out together again sometime.",
+     "id": "Ayo main bareng lagi lain kali.",
+     "text": "また今度、一緒に遊びましょう。",
+     "tokens": [
+      {
+       "surface": "また",
+       "pos": "conjunction",
+       "romaji": "mata"
+      },
+      {
+       "surface": "今度",
+       "pos": "noun",
+       "reading": "こんど",
+       "romaji": "kondo"
+      },
+      {
+       "surface": "、",
+       "pos": "punct"
+      },
+      {
+       "surface": "一緒",
+       "pos": "noun",
+       "reading": "いっしょ",
+       "romaji": "issho"
+      },
+      {
+       "surface": "に",
+       "pos": "particle",
+       "romaji": "ni"
+      },
+      {
+       "surface": "遊び",
+       "pos": "verb",
+       "reading": "あそび",
+       "romaji": "asobi",
+       "lemma": "遊ぶ"
+      },
+      {
+       "surface": "ましょう",
+       "pos": "auxiliary",
+       "romaji": "mashou",
+       "lemma": "ます"
+      },
+      {
+       "surface": "。",
+       "pos": "punct"
+      }
+     ],
+     "start": 593.568,
+     "end": 597.528
+    }
+   ]
   }
  ]
 }
