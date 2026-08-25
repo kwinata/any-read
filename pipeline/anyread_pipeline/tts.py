@@ -13,11 +13,8 @@ VOICE_POOLS = {
            "en-US-AvaMultilingualNeural", "en-US-AndrewMultilingualNeural",
            "en-US-EmmaMultilingualNeural", "en-US-BrianMultilingualNeural",
            "de-DE-SeraphinaMultilingualNeural", "fr-FR-VivienneMultilingualNeural"],
-    "de": ["de-DE-KatjaNeural", "de-DE-ConradNeural", "de-DE-AmalaNeural",
-           "de-DE-KillianNeural", "de-DE-SeraphinaMultilingualNeural",
-           "de-DE-FlorianMultilingualNeural"],
 }
-DEFAULT_VOICES = {"ja": VOICE_POOLS["ja"][0], "de": VOICE_POOLS["de"][0]}
+DEFAULT_VOICES = {"ja": VOICE_POOLS["ja"][0]}
 
 
 def pick_voice(lang: str, key: str) -> str:

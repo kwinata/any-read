@@ -4,9 +4,8 @@ import json
 import os
 import subprocess
 
-_LANG_NAME = {"ja": "Japanese", "de": "German"}
-_LEVEL_SCALE = {"ja": "JLPT (Beginner = pre-N5 easiest, then N5 .. N1 hardest)",
-                "de": "CEFR (A1 .. C2)"}
+_LANG_NAME = {"ja": "Japanese"}
+_LEVEL_SCALE = {"ja": "JLPT (Beginner = pre-N5 easiest, then N5 .. N1 hardest)"}
 
 
 def _run_claude(prompt: str, model: str = "sonnet") -> str:

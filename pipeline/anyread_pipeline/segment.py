@@ -24,4 +24,4 @@ def sentences(paragraph: str, lang: str) -> list[str]:
 def detect_lang(text: str) -> str:
     """Distinguish ja from de by script; good enough for this pipeline."""
     ja_chars = len(re.findall(r"[぀-ヿ一-鿿]", text))
-    return "ja" if ja_chars > len(text) * 0.1 else "de"
+    return "ja"

@@ -12,7 +12,7 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
-from . import bundle, de, fetch, ja, llm, segment, tts
+from . import bundle, fetch, ja, llm, segment, tts
 
 
 def _build_article(args) -> None:
@@ -55,7 +55,7 @@ def _generate(args) -> None:
 
 def _process_article(art, lang: str, args, level_override: str | None = None,
                      extra_lang: str | None = None) -> None:
-    tokenize = ja.tokenize if lang == "ja" else de.tokenize
+    tokenize = ja.tokenize
     paras = []
     flat_sentences: list[str] = []
     for p in segment.paragraphs(art.text):
@@ -159,13 +159,6 @@ def _http_get(url: str) -> str:
     return urllib.request.urlopen(req, timeout=30, context=ctx).read().decode("utf-8", "replace")
 
 
-_NL_NOT_ARTICLES = re.compile(
-    r"/(benutzung|erklaerung|regionale-angebote|das-grundgesetz"
-    r"|nachrichten|sport|kultur-und-wissen|vermischtes"
-    r"|nachrichtenleicht-link-auf-instagram|podcast-[a-z0-9-]+|[a-z0-9-]*woerterbuch[a-z0-9-]*)-100\.html$"
-)
-
-
 def list_ja_news(limit: int = 10) -> list[tuple[str, str]]:
     """(title, url): Yahoo News briefs plus Matcha easy-Japanese articles.
 
@@ -205,40 +198,9 @@ def list_ja_news(limit: int = 10) -> list[tuple[str, str]]:
     return out
 
 
-def list_de_news(limit: int = 10) -> list[tuple[str, str]]:
-    """(title, url) from nachrichtenleicht: homepage plus category pages."""
-    out: list[tuple[str, str]] = []
-    seen: set[str] = set()
-    pages = ["", "nachrichten-100.html", "kultur-und-wissen-100.html",
-             "sport-100.html", "vermischtes-100.html"]
-    for page in pages:
-        if len(out) >= limit:
-            break
-        try:
-            html = _http_get("https://www.nachrichtenleicht.de/" + page)
-        except Exception:
-            continue
-        for url in re.findall(r'https://www\.nachrichtenleicht\.de/[a-z0-9-]+-100\.html', html):
-            if url in seen or _NL_NOT_ARTICLES.search(url):
-                continue
-            seen.add(url)
-            title = url.rsplit("/", 1)[-1].removesuffix("-100.html").replace("-", " ")
-            out.append((title, url))
-            if len(out) >= limit:
-                break
-    return out
-
-
 def _list_news(args) -> None:
-    langs = [args.lang] if args.lang else ["ja", "de"]
-    if "ja" in langs:
-        print("--- ja (NHK) ---")
-        for title, url in list_ja_news(args.limit):
-            print(f"{title}\n  {url}")
-    if "de" in langs:
-        print("--- de (nachrichtenleicht) ---")
-        for title, url in list_de_news(args.limit):
-            print(f"{title}\n  {url}")
+    for title, url in list_ja_news(args.limit):
+        print(f"{title}\n  {url}")
 
 
 def _broadcast(args) -> None:
@@ -262,7 +224,7 @@ def _broadcast(args) -> None:
 
     title = fetch.clean_title(args.title or title_hint or segs[0]["text"][:60])
     lang = args.lang
-    tokenize = ja.tokenize if lang == "ja" else de.tokenize
+    tokenize = ja.tokenize
     skip_gloss = {"punct", "symbol", "space", "number"}
 
     paras = []
@@ -329,7 +291,6 @@ def _broadcast(args) -> None:
 
 def _bundle(args) -> None:
     """Merge docs/ + local/articles into dist/ for a private (Netlify) deploy."""
-    import json
     import shutil
 
     root = Path(__file__).resolve().parents[2]
@@ -340,9 +301,7 @@ def _bundle(args) -> None:
     local_articles = root / "local" / "articles"
     if local_articles.is_dir():
         for d in sorted(local_articles.iterdir()):
-            f = d / "article.json"
-            # Japanese-only app for now: German articles stay archived in local/
-            if f.is_file() and json.loads(f.read_text(encoding="utf-8")).get("language") != "de":
+            if (d / "article.json").is_file():
                 shutil.copytree(d, dist / "articles" / d.name, dirs_exist_ok=True)
     bundle.rebuild_index(dist / "articles")
     n = len(list((dist / "articles").glob("*/article.json")))
@@ -435,7 +394,7 @@ def main() -> None:
     add.add_argument("--text-file", help="Read article text from a file instead")
     add.add_argument("--stdin", action="store_true", help="Read article text from stdin")
     add.add_argument("--title", help="Override the article title")
-    add.add_argument("--lang", choices=["ja", "de"], help="Force language (default: auto-detect)")
+    add.add_argument("--lang", choices=["ja"], help="Force language (default: auto-detect)")
     add.add_argument("--voice", help="edge-tts voice (default per language)")
     add.add_argument("--rate", default="-10%", help="Speech rate, e.g. '-20%%' (default -10%%)")
     add.add_argument("--no-audio", action="store_true", help="Skip TTS")
@@ -445,7 +404,7 @@ def main() -> None:
     add.add_argument("--out", default=str(Path(__file__).resolve().parents[2] / "docs" / "articles"),
                      help="Output directory (default: <repo>/docs/articles)")
     gen = sub.add_parser("generate", help="Have Claude write an original graded article")
-    gen.add_argument("--lang", choices=["ja", "de"], required=True)
+    gen.add_argument("--lang", choices=["ja"], required=True)
     gen.add_argument("--level", required=True, help="Target level, e.g. N5 or A1")
     gen.add_argument("--topic", help="Topic (default: Claude picks one)")
     gen.add_argument("--count", type=int, default=1, help="How many articles to generate")
@@ -456,15 +415,14 @@ def main() -> None:
     bc = sub.add_parser("broadcast",
                         help="LOCAL-ONLY: real news audio (podcast/mp3/page) + Whisper transcript")
     bc.add_argument("source", help="Direct mp3 URL, podcast RSS feed (takes latest), or article page with audio")
-    bc.add_argument("--lang", choices=["ja", "de"], required=True)
+    bc.add_argument("--lang", choices=["ja"], required=True)
     bc.add_argument("--title", help="Override title")
     bc.add_argument("--model", default="medium", help="Whisper model size (default medium)")
     bc.add_argument("--out", default=str(Path(__file__).resolve().parents[2] / "local" / "articles"))
     sub.add_parser("bundle", help="Build dist/ (docs + local articles) for the private deploy")
     srv = sub.add_parser("serve", help="Serve the app locally incl. local-only broadcast articles")
     srv.add_argument("--port", type=int, default=8642)
-    news = sub.add_parser("news", help="List recent headlines (Yahoo/Matcha / nachrichtenleicht)")
-    news.add_argument("--lang", choices=["ja", "de"])
+    news = sub.add_parser("news", help="List recent Japanese headlines (Yahoo / Matcha)")
     news.add_argument("--limit", type=int, default=10)
     pub = sub.add_parser("publish", help="Commit and push new articles to the site")
     pub.add_argument("-m", "--message", default="Add articles")

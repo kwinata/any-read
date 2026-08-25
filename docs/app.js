@@ -24,7 +24,7 @@ function el(tag, cls, text) {
 }
 
 function langName(code) {
-  return code === 'ja' ? '日本語' : code === 'de' ? 'Deutsch' : code;
+  return code === 'ja' ? '日本語' : code;
 }
 
 function fmtTime(t) {
