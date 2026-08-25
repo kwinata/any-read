@@ -260,15 +260,15 @@ body {
   .vnav {
     position: fixed;
     top: calc(76px + env(safe-area-inset-top));
-    bottom: auto;
+    bottom: 16px;
     left: calc(50% - 320px - 200px);
     width: 180px;
     transform: none;
     transition: none;
     background: none;
     border: none;
-    padding: 0;
-    overflow: visible;
+    padding: 0 4px 0 0;
+    overflow-y: auto;
     z-index: 9;
   }
   .vcat { scroll-margin-top: calc(60px + env(safe-area-inset-top)); }
